@@ -1,5 +1,5 @@
 """
-PDF LinkedIn  - Version française narrative.
+PDF LinkedIn, Version française narrative.
 "Le Manuscrit de Voynich : Journal d'un Décryptage"
 """
 from reportlab.platypus import Paragraph, Spacer, PageBreak
@@ -67,7 +67,7 @@ def build_story_fr():
         fontName='Helvetica')))
     story.append(Spacer(1, 15*mm))
     story.append(Paragraph(
-        "<i>« Pensez comme Turing  - trouvez UNE correspondance irréfutable<br/>"
+        "<i>« Pensez comme Turing, trouvez UNE correspondance irréfutable<br/>"
         "plutôt que d'optimiser des statistiques globales. »</i>", s_epigraph))
 
     story.append(PageBreak())
@@ -81,19 +81,19 @@ def build_story_fr():
     story.append(Paragraph(
         "Il existe, dans les caves climatisées de la Beinecke Rare Book Library "
         "à Yale, un manuscrit que personne ne peut lire. Depuis plus de six cents ans, "
-        "le codex catalogué MS 408  - plus connu sous le nom de <b>Manuscrit de Voynich</b>  - "
+        "le codex catalogué MS 408, plus connu sous le nom de <b>Manuscrit de Voynich</b>, "
         "résiste à toute tentative de déchiffrement.", s_narrative))
     story.append(Paragraph(
         "240 pages de vélin de veau, datées au carbone 14 entre 1404 et 1438. "
         "Des illustrations de plantes qu'aucun botaniste ne reconnaît. Des diagrammes "
         "astronomiques avec des femmes nues dans des bassins. Un système d'écriture "
         "qui ne ressemble à aucun alphabet connu. Et un texte dont les propriétés "
-        "statistiques  - une entropie anormalement basse de 2,1 bits  - ont conduit "
+        "statistiques, une entropie anormalement basse de 2,1 bits, ont conduit "
         "certains chercheurs à conclure qu'il ne signifie tout simplement rien.", s_narrative))
     story.append(Paragraph(
         "Les théories ne manquent pas : canular élaboré par un faussaire génial, "
         "langue artificielle oubliée, code militaire d'une puissance disparue, "
-        "ou  - hypothèse la plus audacieuse  - l'œuvre d'un esprit qui écrivait dans "
+        "ou, hypothèse la plus audacieuse, l'œuvre d'un esprit qui écrivait dans "
         "une langue réelle, mais la masquait derrière un chiffre que personne n'avait "
         "encore su reconnaître.", s_narrative))
     story.append(Paragraph(
@@ -111,18 +111,18 @@ def build_story_fr():
         "Tout commence en mars 2026, par un article que l'algorithme de recommandation "
         "d'Academia.edu glisse dans mon flux. Tim King, Alessandra Andrisani, Bryce Beasley "
         "et Julian Condo y proposent quelque chose de radical : les glyphes du Voynich "
-        "seraient une forme modifiée de <b>notes tironiennes</b>  - le système de sténographie "
+        "seraient une forme modifiée de <b>notes tironiennes</b>, le système de sténographie "
         "inventé par l'affranchi de Cicéron au premier siècle avant notre ère, et encore "
         "largement utilisé au Moyen Âge.", s_narrative))
     story.append(Paragraph(
         "Leur tableau de translitération attribue à chaque caractère EVA (le système de "
         "transcription standard du Voynich) une ou plusieurs valeurs phonétiques latines. "
-        "C'est une hypothèse  - pas une preuve. Mais elle est testable.", s_narrative))
+        "C'est une hypothèse, pas une preuve. Mais elle est testable.", s_narrative))
     story.append(Paragraph(
         "Ce soir-là, j'ouvre Claude Code et je tape : <i>« Prends le mot EVA 'daiin' "
         "et applique le mapping King-Andrisani. »</i>", s_narrative))
     story.append(Paragraph(
-        "La réponse arrive en une seconde : <b>in aquam</b>  - « dans l'eau ».", s_narrative_bold))
+        "La réponse arrive en une seconde : <b>in aquam</b>, « dans l'eau ».", s_narrative_bold))
     story.append(Paragraph(
         "Un mot qui apparaît plus de 2 700 fois dans le manuscrit. Le solvant universel "
         "de toute pharmacopée médiévale. Mon cœur s'accélère. Il est 23h et je sais que "
@@ -137,7 +137,7 @@ def build_story_fr():
     story.append(blue_rule())
 
     story.append(Paragraph(
-        "Alan Turing n'a pas cassé Enigma par force brute. Il a cherché des <i>cribs</i>  - "
+        "Alan Turing n'a pas cassé Enigma par force brute. Il a cherché des <i>cribs</i>, "
         "des fragments de texte clair dont il connaissait le contenu à l'avance. Les bulletins "
         "météo allemands commençaient toujours par « WETTER » ; les rapports du matin contenaient "
         "systématiquement « KEINE BESONDEREN VORKOMMNISSE » (rien à signaler). Ces certitudes "
@@ -145,7 +145,7 @@ def build_story_fr():
     story.append(Paragraph(
         "Notre crib à nous s'appelle l'<b>Antidotarium Nicolai</b>. Compilé à l'école de "
         "médecine de Salerne au XIIe siècle, c'est LE formulaire pharmaceutique standard de "
-        "l'Europe médiévale  - entre 115 et 175 recettes de médicaments composés que TOUT "
+        "l'Europe médiévale, entre 115 et 175 recettes de médicaments composés que TOUT "
         "apothicaire du XVe siècle devait connaître par cœur.", s_narrative))
     story.append(Paragraph(
         "Le raisonnement est simple : si le Voynich est un livre de recettes pharmaceutiques, "
@@ -155,7 +155,7 @@ def build_story_fr():
         "<b>tere</b> (broie), <b>cola</b> (filtre), <b>aquam</b> (eau), "
         "<b>oleo</b> (huile), <b>equaliter</b> (à parts égales)...", s_narrative_bold))
     story.append(Paragraph(
-        "Nous les trouvons. Tous. Partout dans le manuscrit. Et pas distribués au hasard  - "
+        "Nous les trouvons. Tous. Partout dans le manuscrit. Et pas distribués au hasard, "
         "concentrés exactement là où les illustrations montrent des plantes, des jarres, "
         "des bassins de préparation.", s_narrative))
 
@@ -168,24 +168,24 @@ def build_story_fr():
     story.append(blue_rule())
 
     story.append(Paragraph(
-        "Nous construisons un pipeline  - le K&A v12. Sept étapes automatisées : "
+        "Nous construisons un pipeline, le K&A v12. Sept étapes automatisées : "
         "tokenisation, résolution des logogrammes, décodage monolithique, segmentation "
         "par HMM Viterbi, scoring multicritère, reranking, validation Perseus. "
         "Nous le lançons sur les 226 faces de folios.", s_narrative))
     story.append(Paragraph(
         "Résultat : <b>74% de mots reconnus</b> au dictionnaire latin Perseus "
-        "(265 419 entrées). Encourageant  - mais insuffisant. Un quart du texte reste "
+        "(265 419 entrées). Encourageant, mais insuffisant. Un quart du texte reste "
         "opaque. Des mots impossibles comme « ykeedy », « qokeey », « daiin » résistent "
         "à toute décomposition.", s_narrative))
     story.append(Paragraph(
         "C'est le moment où on a failli abandonner.", s_narrative))
     story.append(Paragraph(
-        "Puis, un soir à 2h du matin, en fixant la liste des mots qui commencent par « y »  - "
-        "et ils sont légion  - l'eureka arrive. Le scribe ne met pas d'espace entre la préposition "
+        "Puis, un soir à 2h du matin, en fixant la liste des mots qui commencent par « y », "
+        "et ils sont légion, l'eureka arrive. Le scribe ne met pas d'espace entre la préposition "
         "et le mot qui suit. Il <b>colle</b> « in » au mot suivant. « ykeedy » n'est pas un mot "
-        "inconnu  - c'est « <b>in</b> + <b>ciere</b> » (dans + remuer). « qokeey » est "
-        "« <b>cum</b> + <b>eo</b> » (avec + lui). Comme les proclitiques arabes  - <i>bi-</i>, "
-        "<i>wa-</i>, <i>li-</i>  - écrits sans espace devant le mot.", s_narrative))
+        "inconnu, c'est « <b>in</b> + <b>ciere</b> » (dans + remuer). « qokeey » est "
+        "« <b>cum</b> + <b>eo</b> » (avec + lui). Comme les proclitiques arabes, <i>bi-</i>, "
+        "<i>wa-</i>, <i>li-</i>, écrits sans espace devant le mot.", s_narrative))
     story.append(Paragraph(
         "Nous identifions <b>13 préfixes agglutinés</b>. Le pipeline passe de "
         "74% à <b>89,3%</b> en une nuit. Ce qui semblait du charabia devient du latin "
@@ -196,7 +196,7 @@ def build_story_fr():
     # ══════════════════════════════════════════
     # 5. INELIODE
     # ══════════════════════════════════════════
-    story.append(Paragraph("5. INELIODE  - La Preuve Botanique", s_h1))
+    story.append(Paragraph("5. INELIODE - La Preuve Botanique", s_h1))
     story.append(blue_rule())
 
     story.append(Paragraph(
@@ -206,7 +206,7 @@ def build_story_fr():
     story.append(Paragraph(
         "Le pipeline décode le mot principal : <b>INELIODE</b>.", s_narrative_bold))
     story.append(Paragraph(
-        "En latin pharmaceutique médiéval, c'est <b>Inula helenium</b>  - l'aunée officinale. "
+        "En latin pharmaceutique médiéval, c'est <b>Inula helenium</b>, l'aunée officinale. "
         "Une plante de la famille des Astéracées, utilisée depuis l'Antiquité contre les "
         "affections respiratoires et digestives. Décrite dans le <i>Circa Instans</i> de "
         "Salerne, dans les recettes de Dioscoride, dans l'Antidotarium Nicolai.", s_narrative))
@@ -225,34 +225,34 @@ def build_story_fr():
     # ══════════════════════════════════════════
     # 6. LA VOLVELLE
     # ══════════════════════════════════════════
-    story.append(Paragraph("6. La Volvelle  - L'Instrument de l'Apothicaire", s_h1))
+    story.append(Paragraph("6. La Volvelle - L'Instrument de l'Apothicaire", s_h1))
     story.append(blue_rule())
 
     story.append(Paragraph(
-        "Le folio f57v est la page la plus célèbre du manuscrit  - et la plus "
+        "Le folio f57v est la page la plus célèbre du manuscrit, et la plus "
         "incomprise. Un grand diagramme circulaire avec des anneaux concentriques "
         "de texte, un soleil au centre, quatre figures aux points cardinaux.", s_narrative))
     story.append(Paragraph(
         "Ce n'est pas un texte. C'est une <b>machine</b>.", s_narrative_bold))
 
     story.append(DrawingFlowable(make_volvelle_diagram()))
-    story.append(Paragraph("Structure de la volvelle f57v  - reconstruction schématique.", s_caption))
+    story.append(Paragraph("Structure de la volvelle f57v, reconstruction schématique.", s_caption))
 
     story.append(Paragraph(
-        "L'anneau L04 contient exactement <b>29 mots</b>  - le mois lunaire synodique "
+        "L'anneau L04 contient exactement <b>29 mots</b>, le mois lunaire synodique "
         "(29,5 jours). L'anneau L03 présente un motif 4×17 avec des variations systématiques "
         "aux positions 2 et 8 qui confirment l'homophonie f/p du chiffre. L'anneau L05 couvre "
-        "75% du cercle  - un cadran de 18 heures avec un trou de 90° pour les heures de nuit.", s_narrative))
+        "75% du cercle, un cadran de 18 heures avec un trou de 90° pour les heures de nuit.", s_narrative))
     story.append(Paragraph(
         "La structure est un isomorphisme quasi parfait avec le manuscrit <b>Ashmole 370</b> "
-        "(Bibliothèque Bodléienne, Oxford, ~1424)  - le <i>Kalendarium</i> de Nicholas de Lynn, "
+        "(Bibliothèque Bodléienne, Oxford, ~1424), le <i>Kalendarium</i> de Nicholas de Lynn, "
         "un instrument de calcul astronomique conçu pour les médecins.", s_narrative))
 
     story.append(DrawingFlowable(make_ashmole_comparison()))
     story.append(Paragraph("Correspondance structurelle entre l'Ashmole 370 et le folio f57v.", s_caption))
 
     story.append(Paragraph(
-        "Ce n'est pas un horoscope. C'est un <b>calculateur de timing thérapeutique</b>  - "
+        "Ce n'est pas un horoscope. C'est un <b>calculateur de timing thérapeutique</b>, "
         "un instrument qui indique à l'apothicaire quand saigner, quand purger, quand "
         "administrer tel ou tel remède en fonction de la position du soleil et de la phase "
         "de la lune, conformément à la médecine galénique.", s_narrative_bold))
@@ -260,18 +260,18 @@ def build_story_fr():
     story.append(PageBreak())
 
     # ══════════════════════════════════════════
-    # 7. f103r  - LA CONFIRMATION
+    # 7. f103r - LA CONFIRMATION
     # ══════════════════════════════════════════
-    story.append(Paragraph("7. f103r  - Le Folio qui a Tout Confirmé", s_h1))
+    story.append(Paragraph("7. f103r - Le Folio qui a Tout Confirmé", s_h1))
     story.append(blue_rule())
 
     story.append(Paragraph(
-        "Le folio 103r est une page de texte dense  - 54 lignes, pas d'illustration, "
+        "Le folio 103r est une page de texte dense, 54 lignes, pas d'illustration, "
         "juste du Voynichois serré avec de petites étoiles rouges en marge pour marquer "
         "les paragraphes. <b>532 mots, 91% validés au dictionnaire Perseus.</b>", s_narrative))
     story.append(Paragraph(
         "Le mot <b>coque</b> (cuis !) apparaît <b>17 fois</b> sur cette seule page. "
-        "Pas la même forme  - coque, coquas, coquere, coquendo, coquant, coquentis  - "
+        "Pas la même forme, coque, coquas, coquere, coquendo, coquant, coquentis, "
         "une conjugaison latine complète. Impossible à produire par hasard.", s_narrative))
     story.append(Paragraph(
         "La liste d'ingrédients se lit comme une entrée de l'Antidotarium :", s_narrative))
@@ -293,8 +293,8 @@ def build_story_fr():
     story.append(Paragraph("Ingrédients identifiés sur le folio f103r.", s_caption))
 
     story.append(Paragraph(
-        "Sur les 12 ingrédients canoniques de l'<b>Aurea Alexandrina</b>  - une des recettes "
-        "les plus célèbres de l'Antidotarium  - nous en retrouvons <b>7</b> sur cette seule "
+        "Sur les 12 ingrédients canoniques de l'<b>Aurea Alexandrina</b>, une des recettes "
+        "les plus célèbres de l'Antidotarium, nous en retrouvons <b>7</b> sur cette seule "
         "page. Les 4 manquants (cinnamomum, masticis, myrrha, galangal) ont des patterns "
         "consonantiques incompatibles avec le mapping K&A connu.", s_narrative))
     story.append(Paragraph(
@@ -305,21 +305,21 @@ def build_story_fr():
     # ══════════════════════════════════════════
     # 8. LES PAGES ASTRONOMIQUES
     # ══════════════════════════════════════════
-    story.append(Paragraph("8. Les Pages Astronomiques  - La Surprise", s_h1))
+    story.append(Paragraph("8. Les Pages Astronomiques - La Surprise", s_h1))
     story.append(blue_rule())
 
     story.append(Paragraph(
         "On pensait avoir terminé le gros du travail quand l'analyse folio par folio "
         "des 226 pages a réservé une surprise majeure.", s_narrative))
     story.append(Paragraph(
-        "Le folio f67r  - une magnifique rosette avec un visage solaire au centre, "
-        "rayons bleus et rouges alternés  - semblait purement astronomique. Le décodage "
+        "Le folio f67r, une magnifique rosette avec un visage solaire au centre, "
+        "rayons bleus et rouges alternés, semblait purement astronomique. Le décodage "
         "révèle : <b>aloe</b> (5 fois), <b>ture</b> (encens), <b>olei</b> (huile), "
         "<b>vini</b> (vin), <b>recipe</b> (prends). C'est une recette.", s_narrative))
     story.append(Paragraph(
         "Sur le folio adjacent f67r2 (la rosette lunaire, côté droit) apparaît "
-        "<b>nardi</b>  - le nard, une des épices les plus précieuses de la pharmacopée "
-        "antique. Sur le verso f67v1 : <b>cassiae</b>  - la cannelle.", s_narrative))
+        "<b>nardi</b>, le nard, une des épices les plus précieuses de la pharmacopée "
+        "antique. Sur le verso f67v1 : <b>cassiae</b>, la cannelle.", s_narrative))
     story.append(Paragraph(
         "Ces ingrédients n'étaient pas dans notre liste initiale de 25 termes. "
         "Ils étaient cachés sur des pages que tout le monde considérait comme de "
@@ -327,7 +327,7 @@ def build_story_fr():
     story.append(Paragraph(
         "La conclusion s'impose : les diagrammes célestes ne sont pas décoratifs. "
         "Ils encodent des <b>recettes aromatiques liées aux positions stellaires</b>. "
-        "Le manuscrit est un système unifié  - il dit non seulement <i>quoi</i> préparer, "
+        "Le manuscrit est un système unifié, il dit non seulement <i>quoi</i> préparer, "
         "mais aussi <i>quand</i>.", s_narrative_bold))
 
     story.append(PageBreak())
@@ -335,21 +335,21 @@ def build_story_fr():
     # ══════════════════════════════════════════
     # 9. LES DOUTES
     # ══════════════════════════════════════════
-    story.append(Paragraph("9. Les Doutes  - Ce qui Reste", s_h1))
+    story.append(Paragraph("9. Les Doutes - Ce qui Reste", s_h1))
     story.append(blue_rule())
 
     story.append(Paragraph(
         "L'honnêteté intellectuelle exige de dire ce qui ne marche pas encore.", s_narrative))
     story.append(Paragraph(
-        "<b>9% du texte reste opaque</b>  - des mots longs et composés que le pipeline ne "
+        "<b>9% du texte reste opaque</b>, des mots longs et composés que le pipeline ne "
         "sait pas décomposer, et des entrées de nomenclateur (noms propres, noms de plantes, "
         "entités astronomiques) qui utilisent un système de chiffrement différent du texte "
         "courant. Sur les folios zodiacaux (f70v-f73v), les noms des signes ne sont jamais "
-        "produits par le décodage phonétique  - ils relèvent d'un livre de codes séparé.", s_narrative))
+        "produits par le décodage phonétique, ils relèvent d'un livre de codes séparé.", s_narrative))
     story.append(Paragraph(
         "<b>4 ingrédients</b> de l'Aurea Alexandrina restent introuvables : cinnamomum "
         "(cannelle de Ceylan), masticis (mastic), myrrha (myrrhe), galangal. Leurs patterns "
-        "consonantiques sont incompatibles avec les mappings K&A connus  - il existe peut-être "
+        "consonantiques sont incompatibles avec les mappings K&A connus, il existe peut-être "
         "une troisième méthode d'encodage, ou des équivalents en italien vernaculaire que "
         "nous n'avons pas encore identifiés.", s_narrative))
     story.append(Paragraph(
@@ -359,7 +359,7 @@ def build_story_fr():
         "atténue ce problème, mais ne l'élimine pas.", s_narrative))
     story.append(Paragraph(
         "Nous ne prétendons pas avoir résolu le Manuscrit de Voynich. Nous prétendons "
-        "avoir lu  - pour la première fois  - <b>90,6%</b> de son texte en latin plausible, "
+        "avoir lu, pour la première fois, <b>90,6%</b> de son texte en latin plausible, "
         "validé contre un dictionnaire externe que ni un humain ni une IA ne peut "
         "« halluciner ».", s_narrative_bold))
 
@@ -388,7 +388,7 @@ def build_story_fr():
             ["Transitoire (T)", "7", "Pages titre et frontières", " -"],
         ],
         col_widths=[30*mm, 14*mm, 55*mm, 40*mm]))
-    story.append(Paragraph(f"Structure du manuscrit  - {S['total_folios']} faces de folios, "
+    story.append(Paragraph(f"Structure du manuscrit, {S['total_folios']} faces de folios, "
         f"{S['total_words']:,} mots décodés.", s_caption))
 
     story.append(Paragraph(
@@ -403,7 +403,7 @@ def build_story_fr():
         "trois fonctions pratiques : <b>compression</b> (gagner de la place sur un vélin "
         "coûteux par agglutination et abréviations), <b>efficacité</b> (notation rapide "
         "par sténographie), et <b>secret professionnel</b> (protéger des formulations "
-        "propriétaires contre les concurrents)  - une pratique bien documentée dans la "
+        "propriétaires contre les concurrents), une pratique bien documentée dans la "
         "culture des guildes médiévales.", s_narrative))
 
     story.append(PageBreak())
@@ -448,13 +448,13 @@ def build_story_fr():
     story.append(blue_rule())
 
     story.append(Paragraph(
-        "À <b>Hélène</b>, ma femme, et à <b>Mathis</b> et <b>Margaux</b>, mes enfants  - "
+        "À <b>Hélène</b>, ma femme, et à <b>Mathis</b> et <b>Margaux</b>, mes enfants, "
         "pour leur patience devant les innombrables soirées et week-ends passés à déchiffrer "
         "du latin médiéval. Cette obsession n'aurait pas été possible sans leur amour.", s_ack))
     story.append(Paragraph(
         "À <b>Flow Line Integration</b> pour les ressources de calcul et l'infrastructure IA.", s_ack))
     story.append(Paragraph(
-        "À <b>Tim King</b> et <b>Alessandra Andrisani</b>, Bryce Beasley et Julian Condo  - "
+        "À <b>Tim King</b> et <b>Alessandra Andrisani</b>, Bryce Beasley et Julian Condo, "
         "pour le tableau de translitération sans lequel rien de tout ceci n'existerait.", s_ack))
     story.append(Paragraph(
         "À <b>Nick Pelling</b> pour son analyse pionnière du folio f57v, "
