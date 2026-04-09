@@ -1,0 +1,3997 @@
+{
+  "_metadata": {
+    "description": "Tironian notes and medieval Latin abbreviations inventory",
+    "phase": "9B",
+    "sources": [
+      "Schmitz, Commentarii Notarum Tironianarum (1893)",
+      "Kopp, Lexicon Tironianum (1817)",
+      "Cappelli, Dizionario di Abbreviature"
+    ],
+    "total_schmitz_entries": 12987,
+    "priority_entries": 271
+  },
+  "abbreviation_conventions": {
+    "tironian_et": {
+      "sign": "⁊ (U+204A)",
+      "value": "et",
+      "note": "The only universally surviving Tironian sign in 14th-15th c. manuscripts",
+      "frequency": "ubiquitous"
+    },
+    "nasal_bar": {
+      "sign": "horizontal stroke (titulus) above vowel",
+      "value": "omitted m or n",
+      "examples": {
+        "tēpus": "tempus",
+        "ōnis": "omnis",
+        "cū": "cum",
+        "aīa": "anima",
+        "sēper": "semper"
+      },
+      "note": "Most common abbreviation device — appears on virtually every line",
+      "frequency": "ubiquitous"
+    },
+    "p_with_bar": {
+      "sign": "ꝑ (p with stroke through descender)",
+      "value": "per",
+      "frequency": "very_common"
+    },
+    "p_with_flourish": {
+      "sign": "ꝓ (p with flourished descender)",
+      "value": "pro",
+      "frequency": "very_common"
+    },
+    "reversed_c": {
+      "sign": "ꝯ (reversed c)",
+      "value": "con-/com-",
+      "note": "Used as prefix abbreviation",
+      "frequency": "very_common"
+    },
+    "q_with_bar": {
+      "sign": "ꝝ (q with bar through descender)",
+      "value": "quod",
+      "frequency": "very_common"
+    },
+    "r_rotunda_stroke": {
+      "sign": "Ꝛ with stroke",
+      "value": "-rum (genitive plural)",
+      "frequency": "very_common"
+    },
+    "us_sign": {
+      "sign": "ꝰ (superscript loop or '9'-shape)",
+      "value": "-us",
+      "frequency": "very_common"
+    },
+    "que_sign": {
+      "sign": "; or ꝳ after q",
+      "value": "-ue (as in que)",
+      "frequency": "very_common"
+    },
+    "suspension": {
+      "description": "Word truncated, mark indicates omission",
+      "marks": [
+        "horizontal stroke (titulus)",
+        "dot",
+        "colon"
+      ],
+      "medical_examples": {
+        "aq.": "aqua",
+        "herb.": "herba",
+        "rad.": "radix",
+        "fol.": "folium",
+        "sem.": "semen",
+        "fl.": "flos",
+        "cort.": "cortex",
+        "cap.": "capitulum",
+        "lib.": "liber"
+      },
+      "frequency": "ubiquitous"
+    },
+    "contraction": {
+      "description": "Key letters retained (first+last), bar over omission",
+      "examples": {
+        "ds/dns": "Deus/Dominus (nomina sacra)",
+        "sps": "Spiritus",
+        "ecclia": "Ecclesia"
+      },
+      "frequency": "very_common"
+    },
+    "superscript_vowels": {
+      "description": "Small letter above replaces intervening letters",
+      "examples": {
+        "qᵃ": "qua",
+        "qⁱ": "qui",
+        "qᵒ": "quo",
+        "pᵉ": "pre"
+      },
+      "frequency": "very_common"
+    },
+    "medical_symbols": {
+      "recipe": {
+        "sign": "℞",
+        "value": "recipe (take)"
+      },
+      "uncia": {
+        "sign": "℥",
+        "value": "uncia (ounce)"
+      },
+      "drachma": {
+        "sign": "ʒ",
+        "value": "drachma"
+      },
+      "scrupulus": {
+        "sign": "℈",
+        "value": "scrupulus (scruple)"
+      },
+      "ana": {
+        "sign": "āā",
+        "value": "ana (of each, equal parts)"
+      },
+      "quantum_sufficit": {
+        "sign": "q.s.",
+        "value": "quantum sufficit"
+      },
+      "semis": {
+        "sign": "ss.",
+        "value": "semis (half)"
+      },
+      "misce": {
+        "sign": "M.",
+        "value": "misce (mix)"
+      },
+      "frequency": "common_in_medical_texts"
+    },
+    "planetary_symbols": {
+      "description": "Used in alchemical-medical texts for metals/substances",
+      "mappings": {
+        "☉": "aurum (gold) / Sol",
+        "☽": "argentum (silver) / Luna",
+        "♂": "ferrum (iron) / Mars",
+        "♀": "cuprum (copper) / Venus",
+        "♃": "stannum (tin) / Jupiter",
+        "♄": "plumbum (lead) / Saturn",
+        "☿": "hydrargyrum (mercury) / Mercury"
+      },
+      "frequency": "common_in_alchemical_texts"
+    },
+    "veneto_notes": {
+      "description": "Conventions specific to Veneto scriptoria (14th-15th c.)",
+      "characteristics": [
+        "Transition period: Gothic cursive → humanistic minuscule",
+        "Standard Latin abbreviation marks apply with regional idiosyncrasies",
+        "Heavy use of suspension in medical/herbal texts",
+        "Ligatures for common syllables (st, ct, et)"
+      ],
+      "references": [
+        "Derolez, 'The Palaeography of Gothic Manuscript Books' (2003)",
+        "Zamponi on Paduan scribal practices",
+        "Archivio di Stato di Venezia collections"
+      ],
+      "status": "requires_further_research"
+    }
+  },
+  "priority_signs": [
+    {
+      "id": "S0822",
+      "latin_value": "ante",
+      "schmitz_refs": [
+        "9,3",
+        "14,47",
+        "15,69a"
+      ],
+      "type": "word",
+      "frequency": "common",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.9,3, tab.14,47, tab.15,69a)",
+      "priority": true
+    },
+    {
+      "id": "S0828",
+      "latin_value": "ante  diem",
+      "schmitz_refs": [
+        "9,8"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.9,8)",
+      "priority": true
+    },
+    {
+      "id": "S0829",
+      "latin_value": "ante  dies  paucos",
+      "schmitz_refs": [
+        "45,1"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.45,1)",
+      "priority": true
+    },
+    {
+      "id": "S0830",
+      "latin_value": "ante  diluvium",
+      "schmitz_refs": [
+        "124,39",
+        "127,21"
+      ],
+      "type": "phrase",
+      "frequency": "uncommon",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.124,39, tab.127,21)",
+      "priority": true
+    },
+    {
+      "id": "S0832",
+      "latin_value": "ante  hos  annos",
+      "schmitz_refs": [
+        "9,10"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.9,10)",
+      "priority": true
+    },
+    {
+      "id": "S0833",
+      "latin_value": "ante  hos  dies",
+      "schmitz_refs": [
+        "9,9"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.9,9)",
+      "priority": true
+    },
+    {
+      "id": "S0835",
+      "latin_value": "ante  lucem",
+      "schmitz_refs": [
+        "72,50"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.72,50)",
+      "priority": true
+    },
+    {
+      "id": "S0836",
+      "latin_value": "ante  luciferum",
+      "schmitz_refs": [
+        "72,50"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.72,50)",
+      "priority": true
+    },
+    {
+      "id": "S0839",
+      "latin_value": "ante  meridiem",
+      "schmitz_refs": [
+        "44,74"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.44,74)",
+      "priority": true
+    },
+    {
+      "id": "S0841",
+      "latin_value": "ante  mortem",
+      "schmitz_refs": [
+        "60,69"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.60,69)",
+      "priority": true
+    },
+    {
+      "id": "S0843",
+      "latin_value": "ante  obitum",
+      "schmitz_refs": [
+        "60,70"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.60,70)",
+      "priority": true
+    },
+    {
+      "id": "S0844",
+      "latin_value": "ante  omnia",
+      "schmitz_refs": [
+        "9,7"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.9,7)",
+      "priority": true
+    },
+    {
+      "id": "S0845",
+      "latin_value": "ante  paucos  dies",
+      "schmitz_refs": [
+        "44,100"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.44,100)",
+      "priority": true
+    },
+    {
+      "id": "S0847",
+      "latin_value": "ante  quorum",
+      "schmitz_refs": [
+        "122,158"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.122,158)",
+      "priority": true
+    },
+    {
+      "id": "S0953",
+      "latin_value": "aqua",
+      "schmitz_refs": [
+        "73,60"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.73,60)",
+      "priority": true
+    },
+    {
+      "id": "S0954",
+      "latin_value": "aquarius",
+      "schmitz_refs": [
+        "73,61"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.73,61)",
+      "priority": true
+    },
+    {
+      "id": "S0955",
+      "latin_value": "aquaticus",
+      "schmitz_refs": [
+        "73,62"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.73,62)",
+      "priority": true
+    },
+    {
+      "id": "S1086",
+      "latin_value": "arteria",
+      "schmitz_refs": [
+        "53,93",
+        "70,8"
+      ],
+      "type": "word",
+      "frequency": "uncommon",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.53,93, tab.70,8)",
+      "priority": true
+    },
+    {
+      "id": "S1153",
+      "latin_value": "atque",
+      "schmitz_refs": [
+        "1,46"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,46)",
+      "priority": true
+    },
+    {
+      "id": "S1154",
+      "latin_value": "atque  utinam",
+      "schmitz_refs": [
+        "2,10"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,10)",
+      "priority": true
+    },
+    {
+      "id": "S1222",
+      "latin_value": "auris",
+      "schmitz_refs": [
+        "99,71"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.99,71)",
+      "priority": true
+    },
+    {
+      "id": "S1236",
+      "latin_value": "aut",
+      "schmitz_refs": [
+        "2,39"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,39)",
+      "priority": true
+    },
+    {
+      "id": "S1237",
+      "latin_value": "autem",
+      "schmitz_refs": [
+        "2,40"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,40)",
+      "priority": true
+    },
+    {
+      "id": "S1774",
+      "latin_value": "caput",
+      "schmitz_refs": [
+        "44,8"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.44,8)",
+      "priority": true
+    },
+    {
+      "id": "S1922",
+      "latin_value": "cera",
+      "schmitz_refs": [
+        "89,84"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.89,84)",
+      "priority": true
+    },
+    {
+      "id": "S1931",
+      "latin_value": "cerebrum",
+      "schmitz_refs": [
+        "78,39"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.78,39)",
+      "priority": true
+    },
+    {
+      "id": "S2740",
+      "latin_value": "contra",
+      "schmitz_refs": [
+        "24,78"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.24,78)",
+      "priority": true
+    },
+    {
+      "id": "S2745",
+      "latin_value": "contra  naturam",
+      "schmitz_refs": [
+        "42,77"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.42,77)",
+      "priority": true
+    },
+    {
+      "id": "S2746",
+      "latin_value": "contra  rerum  naturani",
+      "schmitz_refs": [
+        "42,78"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.42,78)",
+      "priority": true
+    },
+    {
+      "id": "S2809",
+      "latin_value": "cor",
+      "schmitz_refs": [
+        "44,54"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.44,54)",
+      "priority": true
+    },
+    {
+      "id": "S2855",
+      "latin_value": "cortex",
+      "schmitz_refs": [
+        "98,91"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.98,91)",
+      "priority": true
+    },
+    {
+      "id": "S2987",
+      "latin_value": "cum",
+      "schmitz_refs": [
+        "1,68"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,68)",
+      "priority": true
+    },
+    {
+      "id": "S2989",
+      "latin_value": "cum  angelis",
+      "schmitz_refs": [
+        "4,24"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,24)",
+      "priority": true
+    },
+    {
+      "id": "S2991",
+      "latin_value": "cum  apostolis",
+      "schmitz_refs": [
+        "4,85"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,85)",
+      "priority": true
+    },
+    {
+      "id": "S2995",
+      "latin_value": "cum  praesertim",
+      "schmitz_refs": [
+        "2,52"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,52)",
+      "priority": true
+    },
+    {
+      "id": "S2996",
+      "latin_value": "cum  praeserticum",
+      "schmitz_refs": [
+        "2,52a"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,52a)",
+      "priority": true
+    },
+    {
+      "id": "S3030",
+      "latin_value": "cutis",
+      "schmitz_refs": [
+        "78,43"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.78,43)",
+      "priority": true
+    },
+    {
+      "id": "S3298",
+      "latin_value": "digitus",
+      "schmitz_refs": [
+        "78,57"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.78,57)",
+      "priority": true
+    },
+    {
+      "id": "S3738",
+      "latin_value": "dolor",
+      "schmitz_refs": [
+        "39,45"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "disease",
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.39,45)",
+      "priority": true
+    },
+    {
+      "id": "S4053",
+      "latin_value": "enim",
+      "schmitz_refs": [
+        "1,22"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,22)",
+      "priority": true
+    },
+    {
+      "id": "S4054",
+      "latin_value": "enim  vero",
+      "schmitz_refs": [
+        "1,23"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,23)",
+      "priority": true
+    },
+    {
+      "id": "S4055",
+      "latin_value": "enim  vero  iudices",
+      "schmitz_refs": [
+        "1,23"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,23)",
+      "priority": true
+    },
+    {
+      "id": "S4158",
+      "latin_value": "ergo",
+      "schmitz_refs": [
+        "2,27"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,27)",
+      "priority": true
+    },
+    {
+      "id": "S4224",
+      "latin_value": "etiam",
+      "schmitz_refs": [
+        "1,57"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,57)",
+      "priority": true
+    },
+    {
+      "id": "S4225",
+      "latin_value": "etiam  atque  etiam",
+      "schmitz_refs": [
+        "1,60"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,60)",
+      "priority": true
+    },
+    {
+      "id": "S4527",
+      "latin_value": "extra",
+      "schmitz_refs": [
+        "51,57"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.51,57)",
+      "priority": true
+    },
+    {
+      "id": "S4528",
+      "latin_value": "extra  naturam",
+      "schmitz_refs": [
+        "42,81"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.42,81)",
+      "priority": true
+    },
+    {
+      "id": "S4530",
+      "latin_value": "extra  rerum  naturam",
+      "schmitz_refs": [
+        "42,82"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.42,82)",
+      "priority": true
+    },
+    {
+      "id": "S4662",
+      "latin_value": "febris",
+      "schmitz_refs": [
+        "112,19"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "disease",
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.112,19)",
+      "priority": true
+    },
+    {
+      "id": "S4795",
+      "latin_value": "floralis",
+      "schmitz_refs": [
+        "105,62"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical",
+        "botanical"
+      ],
+      "source": "Schmitz Index (tab.105,62)",
+      "priority": true
+    },
+    {
+      "id": "S4798",
+      "latin_value": "flos",
+      "schmitz_refs": [
+        "105,59"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.105,59)",
+      "priority": true
+    },
+    {
+      "id": "S4799",
+      "latin_value": "floscellum",
+      "schmitz_refs": [
+        "105,61"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.105,61)",
+      "priority": true
+    },
+    {
+      "id": "S4823",
+      "latin_value": "folium",
+      "schmitz_refs": [
+        "105,58"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical",
+        "botanical"
+      ],
+      "source": "Schmitz Index (tab.105,58)",
+      "priority": true
+    },
+    {
+      "id": "S4913",
+      "latin_value": "fructuosus",
+      "schmitz_refs": [
+        "66,57"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical",
+        "botanical"
+      ],
+      "source": "Schmitz Index (tab.66,57)",
+      "priority": true
+    },
+    {
+      "id": "S4914",
+      "latin_value": "fructus",
+      "schmitz_refs": [
+        "66,56"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical",
+        "botanical"
+      ],
+      "source": "Schmitz Index (tab.66,56)",
+      "priority": true
+    },
+    {
+      "id": "S5317",
+      "latin_value": "herba",
+      "schmitz_refs": [
+        "104,26"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical",
+        "botanical"
+      ],
+      "source": "Schmitz Index (tab.104,26)",
+      "priority": true
+    },
+    {
+      "id": "S5318",
+      "latin_value": "herbarius",
+      "schmitz_refs": [
+        "104,27"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical",
+        "botanical"
+      ],
+      "source": "Schmitz Index (tab.104,27)",
+      "priority": true
+    },
+    {
+      "id": "S5470",
+      "latin_value": "hydrops",
+      "schmitz_refs": [
+        "111,54"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "disease"
+      ],
+      "source": "Schmitz Index (tab.111,54)",
+      "priority": true
+    },
+    {
+      "id": "S5556",
+      "latin_value": "iecur",
+      "schmitz_refs": [
+        "79,12"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.79,12)",
+      "priority": true
+    },
+    {
+      "id": "S5571",
+      "latin_value": "igitur",
+      "schmitz_refs": [
+        "2,26"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,26)",
+      "priority": true
+    },
+    {
+      "id": "S6233",
+      "latin_value": "inter",
+      "schmitz_refs": [
+        "1,36"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,36)",
+      "priority": true
+    },
+    {
+      "id": "S6236",
+      "latin_value": "inter  angelos",
+      "schmitz_refs": [
+        "4,24"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,24)",
+      "priority": true
+    },
+    {
+      "id": "S6237",
+      "latin_value": "inter  apostolos",
+      "schmitz_refs": [
+        "4,85"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,85)",
+      "priority": true
+    },
+    {
+      "id": "S6251",
+      "latin_value": "inter  dixit",
+      "schmitz_refs": [
+        "6,76"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.6,76)",
+      "priority": true
+    },
+    {
+      "id": "S6253",
+      "latin_value": "inter  emit",
+      "schmitz_refs": [
+        "27,5"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.27,5)",
+      "priority": true
+    },
+    {
+      "id": "S6266",
+      "latin_value": "inter  partes",
+      "schmitz_refs": [
+        "60,78p"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.60,78p)",
+      "priority": true
+    },
+    {
+      "id": "S6300",
+      "latin_value": "intra",
+      "schmitz_refs": [
+        "51,55"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.51,55)",
+      "priority": true
+    },
+    {
+      "id": "S6301",
+      "latin_value": "intra  dies  paueos",
+      "schmitz_refs": [
+        "44,99"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.44,99)",
+      "priority": true
+    },
+    {
+      "id": "S6302",
+      "latin_value": "intra  paueos  dies",
+      "schmitz_refs": [
+        "44,98"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.44,98)",
+      "priority": true
+    },
+    {
+      "id": "S6813",
+      "latin_value": "lilium",
+      "schmitz_refs": [
+        "105,71"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical",
+        "botanical"
+      ],
+      "source": "Schmitz Index (tab.105,71)",
+      "priority": true
+    },
+    {
+      "id": "S6828",
+      "latin_value": "lingua",
+      "schmitz_refs": [
+        "58,33"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.58,33)",
+      "priority": true
+    },
+    {
+      "id": "S6838",
+      "latin_value": "linum",
+      "schmitz_refs": [
+        "110,29"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.110,29)",
+      "priority": true
+    },
+    {
+      "id": "S7064",
+      "latin_value": "malva",
+      "schmitz_refs": [
+        "104,31"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.104,31)",
+      "priority": true
+    },
+    {
+      "id": "S7079",
+      "latin_value": "mandragora",
+      "schmitz_refs": [
+        "104,32"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.104,32)",
+      "priority": true
+    },
+    {
+      "id": "S7104",
+      "latin_value": "manus",
+      "schmitz_refs": [
+        "67,73"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.67,73)",
+      "priority": true
+    },
+    {
+      "id": "S7105",
+      "latin_value": "manus  doctor",
+      "schmitz_refs": [
+        "67,74"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.67,74)",
+      "priority": true
+    },
+    {
+      "id": "S7106",
+      "latin_value": "manus  pretium",
+      "schmitz_refs": [
+        "67,28"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.67,28)",
+      "priority": true
+    },
+    {
+      "id": "S7211",
+      "latin_value": "medicina",
+      "schmitz_refs": [
+        "111,6"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.111,6)",
+      "priority": true
+    },
+    {
+      "id": "S7212",
+      "latin_value": "medicus",
+      "schmitz_refs": [
+        "111,5"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.111,5)",
+      "priority": true
+    },
+    {
+      "id": "S7213",
+      "latin_value": "Medicus",
+      "schmitz_refs": [
+        "85,86"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.85,86)",
+      "priority": true
+    },
+    {
+      "id": "S7230",
+      "latin_value": "mel",
+      "schmitz_refs": [
+        "109,22"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.109,22)",
+      "priority": true
+    },
+    {
+      "id": "S7561",
+      "latin_value": "musculus",
+      "schmitz_refs": [
+        "110,60"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.110,60)",
+      "priority": true
+    },
+    {
+      "id": "S7690",
+      "latin_value": "neque",
+      "schmitz_refs": [
+        "1,45"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,45)",
+      "priority": true
+    },
+    {
+      "id": "S7691",
+      "latin_value": "neque  ita  multo  ante",
+      "schmitz_refs": [
+        "71,27"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,27)",
+      "priority": true
+    },
+    {
+      "id": "S7692",
+      "latin_value": "neque  ita  multo  post",
+      "schmitz_refs": [
+        "71,28"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,28)",
+      "priority": true
+    },
+    {
+      "id": "S7693",
+      "latin_value": "neque  multo  ante",
+      "schmitz_refs": [
+        "71,25"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,25)",
+      "priority": true
+    },
+    {
+      "id": "S7694",
+      "latin_value": "neque  multo  post",
+      "schmitz_refs": [
+        "71,26"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,26)",
+      "priority": true
+    },
+    {
+      "id": "S7706",
+      "latin_value": "nervus",
+      "schmitz_refs": [
+        "65,87"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.65,87)",
+      "priority": true
+    },
+    {
+      "id": "S7761",
+      "latin_value": "nisi",
+      "schmitz_refs": [
+        "1,93"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,93)",
+      "priority": true
+    },
+    {
+      "id": "S7763",
+      "latin_value": "nisi  fallor",
+      "schmitz_refs": [
+        "2,2"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,2)",
+      "priority": true
+    },
+    {
+      "id": "S7764",
+      "latin_value": "nisi  forte",
+      "schmitz_refs": [
+        "1,94"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,94)",
+      "priority": true
+    },
+    {
+      "id": "S7766",
+      "latin_value": "nisi  si  fallor",
+      "schmitz_refs": [
+        "2,3"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,3)",
+      "priority": true
+    },
+    {
+      "id": "S7767",
+      "latin_value": "nisi  si",
+      "schmitz_refs": [
+        "1,95"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,95)",
+      "priority": true
+    },
+    {
+      "id": "S7768",
+      "latin_value": "nisi  si  forte",
+      "schmitz_refs": [
+        "2,1"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,1)",
+      "priority": true
+    },
+    {
+      "id": "S7810",
+      "latin_value": "non",
+      "schmitz_refs": [
+        "3,7"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.3,7)",
+      "priority": true
+    },
+    {
+      "id": "S7828",
+      "latin_value": "non  aliter",
+      "schmitz_refs": [
+        "71,12"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,12)",
+      "priority": true
+    },
+    {
+      "id": "S7829",
+      "latin_value": "non  amat",
+      "schmitz_refs": [
+        "36,24"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.36,24)",
+      "priority": true
+    },
+    {
+      "id": "S7834",
+      "latin_value": "non  credidit",
+      "schmitz_refs": [
+        "30,89"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.30,89)",
+      "priority": true
+    },
+    {
+      "id": "S7835",
+      "latin_value": "non  credit",
+      "schmitz_refs": [
+        "30,88"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.30,88)",
+      "priority": true
+    },
+    {
+      "id": "S7836",
+      "latin_value": "non  dubitat",
+      "schmitz_refs": [
+        "36,16"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.36,16)",
+      "priority": true
+    },
+    {
+      "id": "S7837",
+      "latin_value": "non  dubium",
+      "schmitz_refs": [
+        "36,15"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.36,15)",
+      "priority": true
+    },
+    {
+      "id": "S7838",
+      "latin_value": "non  enim",
+      "schmitz_refs": [
+        "3,8"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.3,8)",
+      "priority": true
+    },
+    {
+      "id": "S7839",
+      "latin_value": "non  excedit",
+      "schmitz_refs": [
+        "11,33"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.11,33)",
+      "priority": true
+    },
+    {
+      "id": "S7840",
+      "latin_value": "non  excessit",
+      "schmitz_refs": [
+        "11,34"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.11,34)",
+      "priority": true
+    },
+    {
+      "id": "S7841",
+      "latin_value": "non  excusat",
+      "schmitz_refs": [
+        "30,74"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.30,74)",
+      "priority": true
+    },
+    {
+      "id": "S7842",
+      "latin_value": "non  fallit",
+      "schmitz_refs": [
+        "56,16"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.56,16)",
+      "priority": true
+    },
+    {
+      "id": "S7843",
+      "latin_value": "non  fefellit",
+      "schmitz_refs": [
+        "56,17"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.56,17)",
+      "priority": true
+    },
+    {
+      "id": "S7844",
+      "latin_value": "non  fuit",
+      "schmitz_refs": [
+        "4,98"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,98)",
+      "priority": true
+    },
+    {
+      "id": "S7845",
+      "latin_value": "non  frustra",
+      "schmitz_refs": [
+        "56,24"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.56,24)",
+      "priority": true
+    },
+    {
+      "id": "S7849",
+      "latin_value": "non  intellegit",
+      "schmitz_refs": [
+        "25,74"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.25,74)",
+      "priority": true
+    },
+    {
+      "id": "S7850",
+      "latin_value": "non  intellexit",
+      "schmitz_refs": [
+        "25,75"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.25,75)",
+      "priority": true
+    },
+    {
+      "id": "S7852",
+      "latin_value": "non  ita  multo  ante",
+      "schmitz_refs": [
+        "71,19"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,19)",
+      "priority": true
+    },
+    {
+      "id": "S7853",
+      "latin_value": "non  ita  multo  post",
+      "schmitz_refs": [
+        "71,20"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,20)",
+      "priority": true
+    },
+    {
+      "id": "S7854",
+      "latin_value": "non  licet",
+      "schmitz_refs": [
+        "22,11"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.22,11)",
+      "priority": true
+    },
+    {
+      "id": "S7855",
+      "latin_value": "non  longe",
+      "schmitz_refs": [
+        "71,11"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,11)",
+      "priority": true
+    },
+    {
+      "id": "S7856",
+      "latin_value": "non  me  dius  fidius",
+      "schmitz_refs": [
+        "68,54"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.68,54)",
+      "priority": true
+    },
+    {
+      "id": "S7857",
+      "latin_value": "non  me  hercule",
+      "schmitz_refs": [
+        "68,60"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.68,60)",
+      "priority": true
+    },
+    {
+      "id": "S7858",
+      "latin_value": "non  me  hercules",
+      "schmitz_refs": [
+        "68,59"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.68,59)",
+      "priority": true
+    },
+    {
+      "id": "S7859",
+      "latin_value": "non  modo",
+      "schmitz_refs": [
+        "20,13"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.20,13)",
+      "priority": true
+    },
+    {
+      "id": "S7860",
+      "latin_value": "non  multo  ante",
+      "schmitz_refs": [
+        "71,17"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,17)",
+      "priority": true
+    },
+    {
+      "id": "S7861",
+      "latin_value": "non  multo  post",
+      "schmitz_refs": [
+        "71,18"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,18)",
+      "priority": true
+    },
+    {
+      "id": "S7862",
+      "latin_value": "non  multum",
+      "schmitz_refs": [
+        "71,16"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,16)",
+      "priority": true
+    },
+    {
+      "id": "S7863",
+      "latin_value": "non  negat",
+      "schmitz_refs": [
+        "3,13"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.3,13)",
+      "priority": true
+    },
+    {
+      "id": "S7865",
+      "latin_value": "non  oportet",
+      "schmitz_refs": [
+        "29,20"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.29,20)",
+      "priority": true
+    },
+    {
+      "id": "S7866",
+      "latin_value": "non  paene",
+      "schmitz_refs": [
+        "22,27"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.22,27)",
+      "priority": true
+    },
+    {
+      "id": "S7867",
+      "latin_value": "non  paenitet",
+      "schmitz_refs": [
+        "22,28"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.22,28)",
+      "priority": true
+    },
+    {
+      "id": "S7868",
+      "latin_value": "non  paenituit",
+      "schmitz_refs": [
+        "22,29"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.22,29)",
+      "priority": true
+    },
+    {
+      "id": "S7869",
+      "latin_value": "non  potes",
+      "schmitz_refs": [
+        "4,70"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,70)",
+      "priority": true
+    },
+    {
+      "id": "S7870",
+      "latin_value": "non  potes  esse",
+      "schmitz_refs": [
+        "4,75"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,75)",
+      "priority": true
+    },
+    {
+      "id": "S7871",
+      "latin_value": "non  potest",
+      "schmitz_refs": [
+        "4,71"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,71)",
+      "priority": true
+    },
+    {
+      "id": "S7872",
+      "latin_value": "non  potest  esse",
+      "schmitz_refs": [
+        "4,79"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,79)",
+      "priority": true
+    },
+    {
+      "id": "S7873",
+      "latin_value": "non  recedit",
+      "schmitz_refs": [
+        "11,35"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.11,35)",
+      "priority": true
+    },
+    {
+      "id": "S7874",
+      "latin_value": "non  recessit",
+      "schmitz_refs": [
+        "11,36"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.11,36)",
+      "priority": true
+    },
+    {
+      "id": "S7875",
+      "latin_value": "non  recusat",
+      "schmitz_refs": [
+        "30,75"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.30,75)",
+      "priority": true
+    },
+    {
+      "id": "S7876",
+      "latin_value": "non  sane",
+      "schmitz_refs": [
+        "71,13"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,13)",
+      "priority": true
+    },
+    {
+      "id": "S7877",
+      "latin_value": "non  secus",
+      "schmitz_refs": [
+        "71,14"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,14)",
+      "priority": true
+    },
+    {
+      "id": "S7878",
+      "latin_value": "non  secus  quam",
+      "schmitz_refs": [
+        "71,15"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.71,15)",
+      "priority": true
+    },
+    {
+      "id": "S7879",
+      "latin_value": "non  solum",
+      "schmitz_refs": [
+        "21,97"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.21,97)",
+      "priority": true
+    },
+    {
+      "id": "S7881",
+      "latin_value": "non  vis",
+      "schmitz_refs": [
+        "21,46"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.21,46)",
+      "priority": true
+    },
+    {
+      "id": "S7882",
+      "latin_value": "non  vult",
+      "schmitz_refs": [
+        "21,40"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.21,40)",
+      "priority": true
+    },
+    {
+      "id": "S7883",
+      "latin_value": "non  vultis",
+      "schmitz_refs": [
+        "21,43"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.21,43)",
+      "priority": true
+    },
+    {
+      "id": "S8127",
+      "latin_value": "oculus",
+      "schmitz_refs": [
+        "46,38"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.46,38)",
+      "priority": true
+    },
+    {
+      "id": "S8151",
+      "latin_value": "oleum",
+      "schmitz_refs": [
+        "98,74"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.98,74)",
+      "priority": true
+    },
+    {
+      "id": "S8292",
+      "latin_value": "os",
+      "schmitz_refs": [
+        "15,49"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.15,49)",
+      "priority": true
+    },
+    {
+      "id": "S8414",
+      "latin_value": "papaver",
+      "schmitz_refs": [
+        "104,54",
+        "130,79"
+      ],
+      "type": "word",
+      "frequency": "uncommon",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.104,54, tab.130,79)",
+      "priority": true
+    },
+    {
+      "id": "S8426",
+      "latin_value": "paralysis",
+      "schmitz_refs": [
+        "111,74",
+        "130,95"
+      ],
+      "type": "word",
+      "frequency": "uncommon",
+      "domains": [
+        "disease"
+      ],
+      "source": "Schmitz Index (tab.111,74, tab.130,95)",
+      "priority": true
+    },
+    {
+      "id": "S8569",
+      "latin_value": "pellis",
+      "schmitz_refs": [
+        "99,22"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.99,22)",
+      "priority": true
+    },
+    {
+      "id": "S8606",
+      "latin_value": "per",
+      "schmitz_refs": [
+        "1,10"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,10)",
+      "priority": true
+    },
+    {
+      "id": "S8612",
+      "latin_value": "per  andelango",
+      "schmitz_refs": [
+        "128,48"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.128,48)",
+      "priority": true
+    },
+    {
+      "id": "S8613",
+      "latin_value": "per  annis  singulis",
+      "schmitz_refs": [
+        "122,188"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.122,188)",
+      "priority": true
+    },
+    {
+      "id": "S8621",
+      "latin_value": "per  circuitu",
+      "schmitz_refs": [
+        "96,20u"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.96,20u)",
+      "priority": true
+    },
+    {
+      "id": "S8634",
+      "latin_value": "per  deos  deasque",
+      "schmitz_refs": [
+        "58,56"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.58,56)",
+      "priority": true
+    },
+    {
+      "id": "S8635",
+      "latin_value": "per  deos  immortales",
+      "schmitz_refs": [
+        "58,52"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.58,52)",
+      "priority": true
+    },
+    {
+      "id": "S8656",
+      "latin_value": "per  festucam",
+      "schmitz_refs": [
+        "128,47"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.128,47)",
+      "priority": true
+    },
+    {
+      "id": "S8664",
+      "latin_value": "per  frequentiam",
+      "schmitz_refs": [
+        "32,14"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.32,14)",
+      "priority": true
+    },
+    {
+      "id": "S8694",
+      "latin_value": "per  me  ipsuin",
+      "schmitz_refs": [
+        "60,13"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.60,13)",
+      "priority": true
+    },
+    {
+      "id": "S8695",
+      "latin_value": "per  memet  ipsuni",
+      "schmitz_refs": [
+        "60,13"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.60,13)",
+      "priority": true
+    },
+    {
+      "id": "S8728",
+      "latin_value": "per  prima  paseha",
+      "schmitz_refs": [
+        "122,223"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.122,223)",
+      "priority": true
+    },
+    {
+      "id": "S8733",
+      "latin_value": "per  regionem",
+      "schmitz_refs": [
+        "38,25"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.38,25)",
+      "priority": true
+    },
+    {
+      "id": "S8750",
+      "latin_value": "per  singulos",
+      "schmitz_refs": [
+        "40,16"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.40,16)",
+      "priority": true
+    },
+    {
+      "id": "S8771",
+      "latin_value": "per  tempus",
+      "schmitz_refs": [
+        "20,30"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.20,30)",
+      "priority": true
+    },
+    {
+      "id": "S8784",
+      "latin_value": "per  totum",
+      "schmitz_refs": [
+        "28,30"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.28,30)",
+      "priority": true
+    },
+    {
+      "id": "S8811",
+      "latin_value": "pes",
+      "schmitz_refs": [
+        "17,86",
+        "58,14",
+        "79,45"
+      ],
+      "type": "word",
+      "frequency": "common",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.17,86, tab.58,14, tab.79,45)",
+      "priority": true
+    },
+    {
+      "id": "S8821",
+      "latin_value": "pestis",
+      "schmitz_refs": [
+        "53,14"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "disease"
+      ],
+      "source": "Schmitz Index (tab.53,14)",
+      "priority": true
+    },
+    {
+      "id": "S8905",
+      "latin_value": "piper",
+      "schmitz_refs": [
+        "104,52",
+        "130,78"
+      ],
+      "type": "word",
+      "frequency": "uncommon",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.104,52, tab.130,78)",
+      "priority": true
+    },
+    {
+      "id": "S8993",
+      "latin_value": "podagra",
+      "schmitz_refs": [
+        "111,56",
+        "130,92"
+      ],
+      "type": "word",
+      "frequency": "uncommon",
+      "domains": [
+        "disease"
+      ],
+      "source": "Schmitz Index (tab.111,56, tab.130,92)",
+      "priority": true
+    },
+    {
+      "id": "S9096",
+      "latin_value": "post",
+      "schmitz_refs": [
+        "9,14"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.9,14)",
+      "priority": true
+    },
+    {
+      "id": "S9097",
+      "latin_value": "post  diem",
+      "schmitz_refs": [
+        "45,2"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.45,2)",
+      "priority": true
+    },
+    {
+      "id": "S9098",
+      "latin_value": "post  dies  paucos",
+      "schmitz_refs": [
+        "44,97"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.44,97)",
+      "priority": true
+    },
+    {
+      "id": "S9099",
+      "latin_value": "post  diluvium",
+      "schmitz_refs": [
+        "127,22"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.127,22)",
+      "priority": true
+    },
+    {
+      "id": "S9111",
+      "latin_value": "post  mortem",
+      "schmitz_refs": [
+        "60,67"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.60,67)",
+      "priority": true
+    },
+    {
+      "id": "S9112",
+      "latin_value": "post  obitum",
+      "schmitz_refs": [
+        "60,68"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.60,68)",
+      "priority": true
+    },
+    {
+      "id": "S9113",
+      "latin_value": "post  paucos  dies",
+      "schmitz_refs": [
+        "44,96"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.44,96)",
+      "priority": true
+    },
+    {
+      "id": "S9129",
+      "latin_value": "potio",
+      "schmitz_refs": [
+        "104,64",
+        "130,80"
+      ],
+      "type": "word",
+      "frequency": "uncommon",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.104,64, tab.130,80)",
+      "priority": true
+    },
+    {
+      "id": "S9256",
+      "latin_value": "praeter",
+      "schmitz_refs": [
+        "1,37"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,37)",
+      "priority": true
+    },
+    {
+      "id": "S9338",
+      "latin_value": "pro",
+      "schmitz_refs": [
+        "1,11"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,11)",
+      "priority": true
+    },
+    {
+      "id": "S9339",
+      "latin_value": "pro  altera  parte",
+      "schmitz_refs": [
+        "31,7a"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.31,7a)",
+      "priority": true
+    },
+    {
+      "id": "S9360",
+      "latin_value": "pro  civitate",
+      "schmitz_refs": [
+        "25,37"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.25,37)",
+      "priority": true
+    },
+    {
+      "id": "S9365",
+      "latin_value": "pro  consule",
+      "schmitz_refs": [
+        "36,51"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.36,51)",
+      "priority": true
+    },
+    {
+      "id": "S9366",
+      "latin_value": "pro  corpore",
+      "schmitz_refs": [
+        "22,24"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.22,24)",
+      "priority": true
+    },
+    {
+      "id": "S9385",
+      "latin_value": "pro  deum  bominum",
+      "schmitz_refs": [
+        "58,57"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.58,57)",
+      "priority": true
+    },
+    {
+      "id": "S9391",
+      "latin_value": "pro  dii  deaeque",
+      "schmitz_refs": [
+        "58,55"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.58,55)",
+      "priority": true
+    },
+    {
+      "id": "S9392",
+      "latin_value": "pro  dii  immortales",
+      "schmitz_refs": [
+        "58,50"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.58,50)",
+      "priority": true
+    },
+    {
+      "id": "S9460",
+      "latin_value": "pro  nihilo",
+      "schmitz_refs": [
+        "2,99"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,99)",
+      "priority": true
+    },
+    {
+      "id": "S9465",
+      "latin_value": "pro  omnibus",
+      "schmitz_refs": [
+        "49,71"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.49,71)",
+      "priority": true
+    },
+    {
+      "id": "S9468",
+      "latin_value": "pro  parte",
+      "schmitz_refs": [
+        "31,2"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.31,2)",
+      "priority": true
+    },
+    {
+      "id": "S9473",
+      "latin_value": "pro  periculo",
+      "schmitz_refs": [
+        "24,36"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.24,36)",
+      "priority": true
+    },
+    {
+      "id": "S9481",
+      "latin_value": "pro  plebe",
+      "schmitz_refs": [
+        "23,97"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.23,97)",
+      "priority": true
+    },
+    {
+      "id": "S9482",
+      "latin_value": "pro  plebe  Eomana",
+      "schmitz_refs": [
+        "23,99b"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.23,99b)",
+      "priority": true
+    },
+    {
+      "id": "S9490",
+      "latin_value": "propter",
+      "schmitz_refs": [
+        "2,47"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,47)",
+      "priority": true
+    },
+    {
+      "id": "S9492",
+      "latin_value": "propter  ipsum",
+      "schmitz_refs": [
+        "60,13"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.60,13)",
+      "priority": true
+    },
+    {
+      "id": "S9493",
+      "latin_value": "propter  me  ipsum",
+      "schmitz_refs": [
+        "60,13f"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.60,13f)",
+      "priority": true
+    },
+    {
+      "id": "S9494",
+      "latin_value": "propter  memet  ipsum",
+      "schmitz_refs": [
+        "60,1"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.60,1)",
+      "priority": true
+    },
+    {
+      "id": "S9505",
+      "latin_value": "pro  salute",
+      "schmitz_refs": [
+        "64,2"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.64,2)",
+      "priority": true
+    },
+    {
+      "id": "S9521",
+      "latin_value": "pro  sp  exit",
+      "schmitz_refs": [
+        "26,49"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.26,49)",
+      "priority": true
+    },
+    {
+      "id": "S9630",
+      "latin_value": "pulmo",
+      "schmitz_refs": [
+        "78,55"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.78,55)",
+      "priority": true
+    },
+    {
+      "id": "S9640",
+      "latin_value": "pulvis",
+      "schmitz_refs": [
+        "113,74"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.113,74)",
+      "priority": true
+    },
+    {
+      "id": "S9722",
+      "latin_value": "quam  consimilis",
+      "schmitz_refs": [
+        "39,12"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.39,12)",
+      "priority": true
+    },
+    {
+      "id": "S9725",
+      "latin_value": "quam  dissimilis",
+      "schmitz_refs": [
+        "39,43"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.39,43)",
+      "priority": true
+    },
+    {
+      "id": "S9727",
+      "latin_value": "quam  diutimvm",
+      "schmitz_refs": [
+        "21,66"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.21,66)",
+      "priority": true
+    },
+    {
+      "id": "S9728",
+      "latin_value": "quam  diutius",
+      "schmitz_refs": [
+        "21,65"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.21,65)",
+      "priority": true
+    },
+    {
+      "id": "S9729",
+      "latin_value": "quam  dudum",
+      "schmitz_refs": [
+        "45,10"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.45,10)",
+      "priority": true
+    },
+    {
+      "id": "S9730",
+      "latin_value": "quam  mox",
+      "schmitz_refs": [
+        "49,39"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.49,39)",
+      "priority": true
+    },
+    {
+      "id": "S9734",
+      "latin_value": "quam  pridem",
+      "schmitz_refs": [
+        "45,7"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.45,7)",
+      "priority": true
+    },
+    {
+      "id": "S9736",
+      "latin_value": "quam  similis",
+      "schmitz_refs": [
+        "39,40"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.39,40)",
+      "priority": true
+    },
+    {
+      "id": "S9737",
+      "latin_value": "quam  si  ob  causam",
+      "schmitz_refs": [
+        "34,95"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.34,95)",
+      "priority": true
+    },
+    {
+      "id": "S9751",
+      "latin_value": "quasi",
+      "schmitz_refs": [
+        "4,12"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,12)",
+      "priority": true
+    },
+    {
+      "id": "S9752",
+      "latin_value": "quasi  proximum",
+      "schmitz_refs": [
+        "4,14"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,14)",
+      "priority": true
+    },
+    {
+      "id": "S9753",
+      "latin_value": "quasi  vera",
+      "schmitz_refs": [
+        "4,16"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,16)",
+      "priority": true
+    },
+    {
+      "id": "S9754",
+      "latin_value": "quasi  vero",
+      "schmitz_refs": [
+        "4,16"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.4,16)",
+      "priority": true
+    },
+    {
+      "id": "S9781",
+      "latin_value": "quia",
+      "schmitz_refs": [
+        "9,52"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.9,52)",
+      "priority": true
+    },
+    {
+      "id": "S9872",
+      "latin_value": "quod",
+      "schmitz_refs": [
+        "3,28"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.3,28)",
+      "priority": true
+    },
+    {
+      "id": "S9913",
+      "latin_value": "radix",
+      "schmitz_refs": [
+        "71,98a",
+        "104,34"
+      ],
+      "type": "word",
+      "frequency": "uncommon",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.71,98a, tab.104,34)",
+      "priority": true
+    },
+    {
+      "id": "S9922",
+      "latin_value": "ramalia",
+      "schmitz_refs": [
+        "104,82"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.104,82)",
+      "priority": true
+    },
+    {
+      "id": "S9925",
+      "latin_value": "ramus",
+      "schmitz_refs": [
+        "14,1",
+        "104,81"
+      ],
+      "type": "word",
+      "frequency": "uncommon",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.14,1, tab.104,81)",
+      "priority": true
+    },
+    {
+      "id": "S10298",
+      "latin_value": "resina",
+      "schmitz_refs": [
+        "102,9"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.102,9)",
+      "priority": true
+    },
+    {
+      "id": "S10477",
+      "latin_value": "rosa",
+      "schmitz_refs": [
+        "105,72"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical",
+        "botanical"
+      ],
+      "source": "Schmitz Index (tab.105,72)",
+      "priority": true
+    },
+    {
+      "id": "S10621",
+      "latin_value": "sanguis",
+      "schmitz_refs": [
+        "74,5"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy",
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.74,5)",
+      "priority": true
+    },
+    {
+      "id": "S10690",
+      "latin_value": "scabies",
+      "schmitz_refs": [
+        "112,15"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "disease"
+      ],
+      "source": "Schmitz Index (tab.112,15)",
+      "priority": true
+    },
+    {
+      "id": "S10804",
+      "latin_value": "secundum  naturam",
+      "schmitz_refs": [
+        "42,79"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.42,79)",
+      "priority": true
+    },
+    {
+      "id": "S10813",
+      "latin_value": "sed",
+      "schmitz_refs": [
+        "1,47"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,47)",
+      "priority": true
+    },
+    {
+      "id": "S10815",
+      "latin_value": "sed  cum",
+      "schmitz_refs": [
+        "1,50"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,50)",
+      "priority": true
+    },
+    {
+      "id": "S10818",
+      "latin_value": "sed  etiam",
+      "schmitz_refs": [
+        "1,58"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,58)",
+      "priority": true
+    },
+    {
+      "id": "S10823",
+      "latin_value": "sed  si",
+      "schmitz_refs": [
+        "1,48"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,48)",
+      "priority": true
+    },
+    {
+      "id": "S10824",
+      "latin_value": "sed  tamen",
+      "schmitz_refs": [
+        "1,59"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,59)",
+      "priority": true
+    },
+    {
+      "id": "S10826",
+      "latin_value": "sed  ut",
+      "schmitz_refs": [
+        "1,49"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,49)",
+      "priority": true
+    },
+    {
+      "id": "S10850",
+      "latin_value": "semen",
+      "schmitz_refs": [
+        "95,81"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical",
+        "botanical"
+      ],
+      "source": "Schmitz Index (tab.95,81)",
+      "priority": true
+    },
+    {
+      "id": "S11007",
+      "latin_value": "sicut",
+      "schmitz_refs": [
+        "2,24"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,24)",
+      "priority": true
+    },
+    {
+      "id": "S11056",
+      "latin_value": "sine",
+      "schmitz_refs": [
+        "1,85"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,85)",
+      "priority": true
+    },
+    {
+      "id": "S11057",
+      "latin_value": "sine  causa",
+      "schmitz_refs": [
+        "5,57"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.5,57)",
+      "priority": true
+    },
+    {
+      "id": "S11058",
+      "latin_value": "sine  consilio",
+      "schmitz_refs": [
+        "20,35b"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.20,35b)",
+      "priority": true
+    },
+    {
+      "id": "S11059",
+      "latin_value": "sine  controversia",
+      "schmitz_refs": [
+        "24,81"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.24,81)",
+      "priority": true
+    },
+    {
+      "id": "S11060",
+      "latin_value": "sine  dividuo",
+      "schmitz_refs": [
+        "77,8"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.77,8)",
+      "priority": true
+    },
+    {
+      "id": "S11061",
+      "latin_value": "sine  divisione",
+      "schmitz_refs": [
+        "77,11"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.77,11)",
+      "priority": true
+    },
+    {
+      "id": "S11062",
+      "latin_value": "sine  dolo  malo",
+      "schmitz_refs": [
+        "39,61"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.39,61)",
+      "priority": true
+    },
+    {
+      "id": "S11063",
+      "latin_value": "sine  dubio",
+      "schmitz_refs": [
+        "22,94"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.22,94)",
+      "priority": true
+    },
+    {
+      "id": "S11064",
+      "latin_value": "sine  periculo",
+      "schmitz_refs": [
+        "24,37"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.24,37)",
+      "priority": true
+    },
+    {
+      "id": "S11065",
+      "latin_value": "sine  periculo  ullo",
+      "schmitz_refs": [
+        "24,38"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.24,38)",
+      "priority": true
+    },
+    {
+      "id": "S11066",
+      "latin_value": "sine  praeiudicio",
+      "schmitz_refs": [
+        "21,31"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.21,31)",
+      "priority": true
+    },
+    {
+      "id": "S11068",
+      "latin_value": "sine  ulla  causa",
+      "schmitz_refs": [
+        "5,58"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.5,58)",
+      "priority": true
+    },
+    {
+      "id": "S11069",
+      "latin_value": "sine  ulla  controversia",
+      "schmitz_refs": [
+        "24,82"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.24,82)",
+      "priority": true
+    },
+    {
+      "id": "S11070",
+      "latin_value": "sine  ulla  divisione",
+      "schmitz_refs": [
+        "77,11"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.77,11)",
+      "priority": true
+    },
+    {
+      "id": "S11071",
+      "latin_value": "sine  ulla  dubitatione",
+      "schmitz_refs": [
+        "22,95"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.22,95)",
+      "priority": true
+    },
+    {
+      "id": "S11072",
+      "latin_value": "sine  ulla  funeris  pompa",
+      "schmitz_refs": [
+        "59,29"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.59,29)",
+      "priority": true
+    },
+    {
+      "id": "S11073",
+      "latin_value": "sine  ullo",
+      "schmitz_refs": [
+        "2,11"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,11)",
+      "priority": true
+    },
+    {
+      "id": "S11074",
+      "latin_value": "sine  ullo  consilio",
+      "schmitz_refs": [
+        "20,35"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.20,35)",
+      "priority": true
+    },
+    {
+      "id": "S11075",
+      "latin_value": "sine  ullo  dolo  malo",
+      "schmitz_refs": [
+        "39,62"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.39,62)",
+      "priority": true
+    },
+    {
+      "id": "S11076",
+      "latin_value": "sine  ullo  periculo",
+      "schmitz_refs": [
+        "24,38"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.24,38)",
+      "priority": true
+    },
+    {
+      "id": "S11077",
+      "latin_value": "sine  ullo  praeiudicio",
+      "schmitz_refs": [
+        "21,32"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.21,32)",
+      "priority": true
+    },
+    {
+      "id": "S11078",
+      "latin_value": "sine  respectu",
+      "schmitz_refs": [
+        "26,56"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.26,56)",
+      "priority": true
+    },
+    {
+      "id": "S11125",
+      "latin_value": "sive",
+      "schmitz_refs": [
+        "2,53"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,53)",
+      "priority": true
+    },
+    {
+      "id": "S11395",
+      "latin_value": "sub",
+      "schmitz_refs": [
+        "1,15"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,15)",
+      "priority": true
+    },
+    {
+      "id": "S11400",
+      "latin_value": "sub  dieione",
+      "schmitz_refs": [
+        "43,56"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.43,56)",
+      "priority": true
+    },
+    {
+      "id": "S11433",
+      "latin_value": "sub  lege",
+      "schmitz_refs": [
+        "60,74a",
+        "122,197"
+      ],
+      "type": "phrase",
+      "frequency": "uncommon",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.60,74a, tab.122,197)",
+      "priority": true
+    },
+    {
+      "id": "S11495",
+      "latin_value": "sub  regula",
+      "schmitz_refs": [
+        "27,75"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.27,75)",
+      "priority": true
+    },
+    {
+      "id": "S11635",
+      "latin_value": "super",
+      "schmitz_refs": [
+        "1,38"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,38)",
+      "priority": true
+    },
+    {
+      "id": "S11646",
+      "latin_value": "super  universa  milia",
+      "schmitz_refs": [
+        "61,90a"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.61,90a)",
+      "priority": true
+    },
+    {
+      "id": "S11741",
+      "latin_value": "tamen",
+      "schmitz_refs": [
+        "1,55"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.1,55)",
+      "priority": true
+    },
+    {
+      "id": "S12273",
+      "latin_value": "tumor",
+      "schmitz_refs": [
+        "70,38"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "disease",
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.70,38)",
+      "priority": true
+    },
+    {
+      "id": "S12306",
+      "latin_value": "tussis",
+      "schmitz_refs": [
+        "112,29"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "disease"
+      ],
+      "source": "Schmitz Index (tab.112,29)",
+      "priority": true
+    },
+    {
+      "id": "S12354",
+      "latin_value": "ulcus",
+      "schmitz_refs": [
+        "111,84"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "disease"
+      ],
+      "source": "Schmitz Index (tab.111,84)",
+      "priority": true
+    },
+    {
+      "id": "S12420",
+      "latin_value": "unguentum",
+      "schmitz_refs": [
+        "80,3"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.80,3)",
+      "priority": true
+    },
+    {
+      "id": "S12584",
+      "latin_value": "vel",
+      "schmitz_refs": [
+        "2,19"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,19)",
+      "priority": true
+    },
+    {
+      "id": "S12612",
+      "latin_value": "venenum",
+      "schmitz_refs": [
+        "82,49"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "disease"
+      ],
+      "source": "Schmitz Index (tab.82,49)",
+      "priority": true
+    },
+    {
+      "id": "S12622",
+      "latin_value": "ventriculus",
+      "schmitz_refs": [
+        "79,6"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.79,6)",
+      "priority": true
+    },
+    {
+      "id": "S12677",
+      "latin_value": "vero  enim  vero",
+      "schmitz_refs": [
+        "2,66"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.2,66)",
+      "priority": true
+    },
+    {
+      "id": "S12697",
+      "latin_value": "vesica",
+      "schmitz_refs": [
+        "78,54a",
+        "79,8a"
+      ],
+      "type": "word",
+      "frequency": "uncommon",
+      "domains": [
+        "anatomy"
+      ],
+      "source": "Schmitz Index (tab.78,54a, tab.79,8a)",
+      "priority": true
+    },
+    {
+      "id": "S12786",
+      "latin_value": "vinum",
+      "schmitz_refs": [
+        "105,46"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "medical"
+      ],
+      "source": "Schmitz Index (tab.105,46)",
+      "priority": true
+    },
+    {
+      "id": "S12925",
+      "latin_value": "vulnus",
+      "schmitz_refs": [
+        "53,35"
+      ],
+      "type": "word",
+      "frequency": "rare",
+      "domains": [
+        "disease"
+      ],
+      "source": "Schmitz Index (tab.53,35)",
+      "priority": true
+    },
+    {
+      "id": "S12986",
+      "latin_value": "Post  PLATIOLA  notam  (tab.",
+      "schmitz_refs": [
+        "120,78"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.120,78)",
+      "priority": true
+    },
+    {
+      "id": "S12987",
+      "latin_value": "Post  placiola  notam  (tab.",
+      "schmitz_refs": [
+        "120,78"
+      ],
+      "type": "phrase",
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "source": "Schmitz Index (tab.120,78)",
+      "priority": true
+    }
+  ],
+  "all_signs_count": 12987
+}
