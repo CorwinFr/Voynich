@@ -1,0 +1,25 @@
+{
+  "_comment": "Confirmed EVA roots with validated Latin translations. These are roots proven by bigram analysis, Perseus validation, or multi-folio consistency.",
+
+  "aii":   {"latin": "aqua",   "score": 34989, "note": "water (1560 occ, bigram validated)"},
+  "aiin":  {"latin": "aquam",  "score": 34989, "note": "water (accusative)"},
+  "ai":    {"latin": "aqua",   "score": 5000,  "note": "water (shortened variant)"},
+  "ain":   {"latin": "aquam",  "score": 5000,  "note": "water accusative (shortened)"},
+  "kar":   {"latin": "cura",   "score": 8000,  "note": "care/treatment"},
+  "kaiin": {"latin": "curam",  "score": 8000,  "note": "care (accusative)"},
+  "kal":   {"latin": "curas",  "score": 4000,  "note": "cares (plural or -ns)"},
+  "ee":    {"latin": "eo",     "score": 8206,  "note": "by/with it (ablative, Perseus)"},
+  "eey":   {"latin": "eo",     "score": 8206,  "note": "by/with it (with y truncation)"},
+  "ey":    {"latin": "eo",     "score": 4000,  "note": "by it (shortened)"},
+  "ed":    {"latin": "ede",    "score": 5035,  "note": "eat! (imperative, Perseus)"},
+  "eed":   {"latin": "ede",    "score": 5035,  "note": "eat! (long form)"},
+  "edy":   {"latin": "ede et", "score": 5035,  "note": "eat and"},
+  "eedy":  {"latin": "ede et", "score": 5035,  "note": "eat and (long form)"},
+  "al":    {"latin": "alo",    "score": 3000,  "note": "a plant (Perseus confirmed)"},
+  "aly":   {"latin": "alo",    "score": 3000,  "note": "a plant (with truncation)"},
+  "ol":    {"latin": "es",     "score": 5242,  "note": "you eat/are (Perseus: edo/esse)"},
+  "oly":   {"latin": "est",    "score": 10395, "note": "it is (Perseus: esse)"},
+  "oley":  {"latin": "est eo", "score": 5000,  "note": "it is, by it"},
+  "or":    {"latin": "hiera",  "score": 5000,  "note": "compound medicine"},
+  "ar":    {"latin": "iure",   "score": 3000,  "note": "by right/law"}
+}

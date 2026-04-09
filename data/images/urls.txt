@@ -1,0 +1,213 @@
+[Front cover]	https://collections.library.yale.edu/iiif/2/1006074/full/600,/0/default.jpg
+[Inside front cover]	https://collections.library.yale.edu/iiif/2/1006075/full/600,/0/default.jpg
+1r	https://collections.library.yale.edu/iiif/2/1006076/full/600,/0/default.jpg
+1v	https://collections.library.yale.edu/iiif/2/1006077/full/600,/0/default.jpg
+2r	https://collections.library.yale.edu/iiif/2/1006078/full/600,/0/default.jpg
+2v	https://collections.library.yale.edu/iiif/2/1006079/full/600,/0/default.jpg
+3r	https://collections.library.yale.edu/iiif/2/1006080/full/600,/0/default.jpg
+3v	https://collections.library.yale.edu/iiif/2/1006081/full/600,/0/default.jpg
+4r	https://collections.library.yale.edu/iiif/2/1006082/full/600,/0/default.jpg
+4v	https://collections.library.yale.edu/iiif/2/1006083/full/600,/0/default.jpg
+5r	https://collections.library.yale.edu/iiif/2/1006084/full/600,/0/default.jpg
+5v	https://collections.library.yale.edu/iiif/2/1006085/full/600,/0/default.jpg
+6r	https://collections.library.yale.edu/iiif/2/1006086/full/600,/0/default.jpg
+6v	https://collections.library.yale.edu/iiif/2/1006087/full/600,/0/default.jpg
+7r	https://collections.library.yale.edu/iiif/2/1006088/full/600,/0/default.jpg
+7v	https://collections.library.yale.edu/iiif/2/1006089/full/600,/0/default.jpg
+8r	https://collections.library.yale.edu/iiif/2/1006090/full/600,/0/default.jpg
+8v	https://collections.library.yale.edu/iiif/2/1006091/full/600,/0/default.jpg
+9r	https://collections.library.yale.edu/iiif/2/1006092/full/600,/0/default.jpg
+9v	https://collections.library.yale.edu/iiif/2/1006093/full/600,/0/default.jpg
+10r	https://collections.library.yale.edu/iiif/2/1006094/full/600,/0/default.jpg
+10v	https://collections.library.yale.edu/iiif/2/1006095/full/600,/0/default.jpg
+11r	https://collections.library.yale.edu/iiif/2/1006096/full/600,/0/default.jpg
+11v	https://collections.library.yale.edu/iiif/2/1006097/full/600,/0/default.jpg
+13r	https://collections.library.yale.edu/iiif/2/1006098/full/600,/0/default.jpg
+13v	https://collections.library.yale.edu/iiif/2/1006099/full/600,/0/default.jpg
+14r	https://collections.library.yale.edu/iiif/2/1006100/full/600,/0/default.jpg
+14v	https://collections.library.yale.edu/iiif/2/1006101/full/600,/0/default.jpg
+15r	https://collections.library.yale.edu/iiif/2/1006102/full/600,/0/default.jpg
+15v	https://collections.library.yale.edu/iiif/2/1006103/full/600,/0/default.jpg
+16r	https://collections.library.yale.edu/iiif/2/1006104/full/600,/0/default.jpg
+16v	https://collections.library.yale.edu/iiif/2/1006105/full/600,/0/default.jpg
+17r	https://collections.library.yale.edu/iiif/2/1006106/full/600,/0/default.jpg
+17v	https://collections.library.yale.edu/iiif/2/1006107/full/600,/0/default.jpg
+18r	https://collections.library.yale.edu/iiif/2/1006108/full/600,/0/default.jpg
+18v	https://collections.library.yale.edu/iiif/2/1006109/full/600,/0/default.jpg
+19r	https://collections.library.yale.edu/iiif/2/1006110/full/600,/0/default.jpg
+19v	https://collections.library.yale.edu/iiif/2/1006111/full/600,/0/default.jpg
+20r	https://collections.library.yale.edu/iiif/2/1006112/full/600,/0/default.jpg
+20v	https://collections.library.yale.edu/iiif/2/1006113/full/600,/0/default.jpg
+21r	https://collections.library.yale.edu/iiif/2/1006114/full/600,/0/default.jpg
+21v	https://collections.library.yale.edu/iiif/2/1006115/full/600,/0/default.jpg
+22r	https://collections.library.yale.edu/iiif/2/1006116/full/600,/0/default.jpg
+22v	https://collections.library.yale.edu/iiif/2/1006117/full/600,/0/default.jpg
+23r	https://collections.library.yale.edu/iiif/2/1006118/full/600,/0/default.jpg
+23v	https://collections.library.yale.edu/iiif/2/1006119/full/600,/0/default.jpg
+24r	https://collections.library.yale.edu/iiif/2/1006120/full/600,/0/default.jpg
+24v	https://collections.library.yale.edu/iiif/2/1006121/full/600,/0/default.jpg
+25r	https://collections.library.yale.edu/iiif/2/1006122/full/600,/0/default.jpg
+25v	https://collections.library.yale.edu/iiif/2/1006123/full/600,/0/default.jpg
+26r	https://collections.library.yale.edu/iiif/2/1006124/full/600,/0/default.jpg
+26v	https://collections.library.yale.edu/iiif/2/1006125/full/600,/0/default.jpg
+27r	https://collections.library.yale.edu/iiif/2/1006126/full/600,/0/default.jpg
+27v	https://collections.library.yale.edu/iiif/2/1006127/full/600,/0/default.jpg
+28r	https://collections.library.yale.edu/iiif/2/1006128/full/600,/0/default.jpg
+28v	https://collections.library.yale.edu/iiif/2/1006129/full/600,/0/default.jpg
+29r	https://collections.library.yale.edu/iiif/2/1006130/full/600,/0/default.jpg
+29v	https://collections.library.yale.edu/iiif/2/1006131/full/600,/0/default.jpg
+30r	https://collections.library.yale.edu/iiif/2/1006132/full/600,/0/default.jpg
+30v	https://collections.library.yale.edu/iiif/2/1006133/full/600,/0/default.jpg
+31r	https://collections.library.yale.edu/iiif/2/1006134/full/600,/0/default.jpg
+31v	https://collections.library.yale.edu/iiif/2/1006135/full/600,/0/default.jpg
+32r	https://collections.library.yale.edu/iiif/2/1006136/full/600,/0/default.jpg
+32v	https://collections.library.yale.edu/iiif/2/1006137/full/600,/0/default.jpg
+33r	https://collections.library.yale.edu/iiif/2/1006138/full/600,/0/default.jpg
+33v	https://collections.library.yale.edu/iiif/2/1006139/full/600,/0/default.jpg
+34r	https://collections.library.yale.edu/iiif/2/1006140/full/600,/0/default.jpg
+34v	https://collections.library.yale.edu/iiif/2/1006141/full/600,/0/default.jpg
+35r	https://collections.library.yale.edu/iiif/2/1006142/full/600,/0/default.jpg
+35v	https://collections.library.yale.edu/iiif/2/1006143/full/600,/0/default.jpg
+36r	https://collections.library.yale.edu/iiif/2/1006144/full/600,/0/default.jpg
+36v	https://collections.library.yale.edu/iiif/2/1006145/full/600,/0/default.jpg
+37r	https://collections.library.yale.edu/iiif/2/1006146/full/600,/0/default.jpg
+37v	https://collections.library.yale.edu/iiif/2/1006147/full/600,/0/default.jpg
+38r	https://collections.library.yale.edu/iiif/2/1006148/full/600,/0/default.jpg
+38v	https://collections.library.yale.edu/iiif/2/1006149/full/600,/0/default.jpg
+39r	https://collections.library.yale.edu/iiif/2/1006150/full/600,/0/default.jpg
+39v	https://collections.library.yale.edu/iiif/2/1006151/full/600,/0/default.jpg
+40r	https://collections.library.yale.edu/iiif/2/1006152/full/600,/0/default.jpg
+40v	https://collections.library.yale.edu/iiif/2/1006153/full/600,/0/default.jpg
+41r	https://collections.library.yale.edu/iiif/2/1006154/full/600,/0/default.jpg
+41v	https://collections.library.yale.edu/iiif/2/1006155/full/600,/0/default.jpg
+42r	https://collections.library.yale.edu/iiif/2/1006156/full/600,/0/default.jpg
+42v	https://collections.library.yale.edu/iiif/2/1006157/full/600,/0/default.jpg
+43r	https://collections.library.yale.edu/iiif/2/1006158/full/600,/0/default.jpg
+43v	https://collections.library.yale.edu/iiif/2/1006159/full/600,/0/default.jpg
+44r	https://collections.library.yale.edu/iiif/2/1006160/full/600,/0/default.jpg
+44v	https://collections.library.yale.edu/iiif/2/1006161/full/600,/0/default.jpg
+45r	https://collections.library.yale.edu/iiif/2/1006162/full/600,/0/default.jpg
+45v	https://collections.library.yale.edu/iiif/2/1006163/full/600,/0/default.jpg
+46r	https://collections.library.yale.edu/iiif/2/1006164/full/600,/0/default.jpg
+46v	https://collections.library.yale.edu/iiif/2/1006165/full/600,/0/default.jpg
+47r	https://collections.library.yale.edu/iiif/2/1006166/full/600,/0/default.jpg
+47v	https://collections.library.yale.edu/iiif/2/1006167/full/600,/0/default.jpg
+48r	https://collections.library.yale.edu/iiif/2/1006168/full/600,/0/default.jpg
+48v	https://collections.library.yale.edu/iiif/2/1006169/full/600,/0/default.jpg
+49r	https://collections.library.yale.edu/iiif/2/1006170/full/600,/0/default.jpg
+49v	https://collections.library.yale.edu/iiif/2/1006171/full/600,/0/default.jpg
+50r	https://collections.library.yale.edu/iiif/2/1006172/full/600,/0/default.jpg
+50v	https://collections.library.yale.edu/iiif/2/1006173/full/600,/0/default.jpg
+51r	https://collections.library.yale.edu/iiif/2/1006174/full/600,/0/default.jpg
+51v	https://collections.library.yale.edu/iiif/2/1006175/full/600,/0/default.jpg
+52r	https://collections.library.yale.edu/iiif/2/1006176/full/600,/0/default.jpg
+52v	https://collections.library.yale.edu/iiif/2/1006177/full/600,/0/default.jpg
+53r	https://collections.library.yale.edu/iiif/2/1006178/full/600,/0/default.jpg
+53v	https://collections.library.yale.edu/iiif/2/1006179/full/600,/0/default.jpg
+54r	https://collections.library.yale.edu/iiif/2/1006180/full/600,/0/default.jpg
+54v	https://collections.library.yale.edu/iiif/2/1006181/full/600,/0/default.jpg
+55r	https://collections.library.yale.edu/iiif/2/1006182/full/600,/0/default.jpg
+55v	https://collections.library.yale.edu/iiif/2/1006183/full/600,/0/default.jpg
+56r	https://collections.library.yale.edu/iiif/2/1006184/full/600,/0/default.jpg
+56v	https://collections.library.yale.edu/iiif/2/1006185/full/600,/0/default.jpg
+57r	https://collections.library.yale.edu/iiif/2/1006186/full/600,/0/default.jpg
+57v	https://collections.library.yale.edu/iiif/2/1006187/full/600,/0/default.jpg
+58r	https://collections.library.yale.edu/iiif/2/1006188/full/600,/0/default.jpg
+58v	https://collections.library.yale.edu/iiif/2/1006189/full/600,/0/default.jpg
+65r	https://collections.library.yale.edu/iiif/2/1006190/full/600,/0/default.jpg
+65v	https://collections.library.yale.edu/iiif/2/1006191/full/600,/0/default.jpg
+66r	https://collections.library.yale.edu/iiif/2/1006192/full/600,/0/default.jpg
+66v	https://collections.library.yale.edu/iiif/2/1006193/full/600,/0/default.jpg
+67r	https://collections.library.yale.edu/iiif/2/1006194/full/600,/0/default.jpg
+67v	https://collections.library.yale.edu/iiif/2/1006195/full/600,/0/default.jpg
+68r	https://collections.library.yale.edu/iiif/2/1006196/full/600,/0/default.jpg
+68v	https://collections.library.yale.edu/iiif/2/1006197/full/600,/0/default.jpg
+69r	https://collections.library.yale.edu/iiif/2/1006198/full/600,/0/default.jpg
+69v and 70r	https://collections.library.yale.edu/iiif/2/1006199/full/600,/0/default.jpg
+70v (part)	https://collections.library.yale.edu/iiif/2/1006200/full/600,/0/default.jpg
+70v (part)	https://collections.library.yale.edu/iiif/2/1006201/full/600,/0/default.jpg
+71r	https://collections.library.yale.edu/iiif/2/1006202/full/600,/0/default.jpg
+71v and 72r	https://collections.library.yale.edu/iiif/2/1006203/full/600,/0/default.jpg
+72v (part)	https://collections.library.yale.edu/iiif/2/1006204/full/600,/0/default.jpg
+72v (part)	https://collections.library.yale.edu/iiif/2/1006205/full/600,/0/default.jpg
+73r	https://collections.library.yale.edu/iiif/2/1006206/full/600,/0/default.jpg
+73v	https://collections.library.yale.edu/iiif/2/1006207/full/600,/0/default.jpg
+75r	https://collections.library.yale.edu/iiif/2/1006208/full/600,/0/default.jpg
+75v	https://collections.library.yale.edu/iiif/2/1006209/full/600,/0/default.jpg
+76r	https://collections.library.yale.edu/iiif/2/1006210/full/600,/0/default.jpg
+76v	https://collections.library.yale.edu/iiif/2/1006211/full/600,/0/default.jpg
+77r	https://collections.library.yale.edu/iiif/2/1006212/full/600,/0/default.jpg
+77v	https://collections.library.yale.edu/iiif/2/1006213/full/600,/0/default.jpg
+78r	https://collections.library.yale.edu/iiif/2/1006214/full/600,/0/default.jpg
+78v	https://collections.library.yale.edu/iiif/2/1006215/full/600,/0/default.jpg
+79r	https://collections.library.yale.edu/iiif/2/1006216/full/600,/0/default.jpg
+79v	https://collections.library.yale.edu/iiif/2/1006217/full/600,/0/default.jpg
+80r	https://collections.library.yale.edu/iiif/2/1006218/full/600,/0/default.jpg
+80v	https://collections.library.yale.edu/iiif/2/1006219/full/600,/0/default.jpg
+81r	https://collections.library.yale.edu/iiif/2/1006220/full/600,/0/default.jpg
+81v	https://collections.library.yale.edu/iiif/2/1006221/full/600,/0/default.jpg
+82r	https://collections.library.yale.edu/iiif/2/1006222/full/600,/0/default.jpg
+82v	https://collections.library.yale.edu/iiif/2/1006223/full/600,/0/default.jpg
+83r	https://collections.library.yale.edu/iiif/2/1006224/full/600,/0/default.jpg
+83v	https://collections.library.yale.edu/iiif/2/1006225/full/600,/0/default.jpg
+84r	https://collections.library.yale.edu/iiif/2/1006226/full/600,/0/default.jpg
+84v	https://collections.library.yale.edu/iiif/2/1006227/full/600,/0/default.jpg
+85r (part) (part of 85-86 foldout)	https://collections.library.yale.edu/iiif/2/1006228/full/600,/0/default.jpg
+85r (part) 86v (part) (part of 85-86 foldout)	https://collections.library.yale.edu/iiif/2/1006229/full/600,/0/default.jpg
+86v (part) (part of 85-86 foldout)	https://collections.library.yale.edu/iiif/2/1006230/full/600,/0/default.jpg
+85v and 86r (foldout)	https://collections.library.yale.edu/iiif/2/1006231/full/600,/0/default.jpg
+87r	https://collections.library.yale.edu/iiif/2/1006232/full/600,/0/default.jpg
+87v	https://collections.library.yale.edu/iiif/2/1043429/full/600,/0/default.jpg
+88r	https://collections.library.yale.edu/iiif/2/1037112/full/600,/0/default.jpg
+88v and 89r	https://collections.library.yale.edu/iiif/2/1006233/full/600,/0/default.jpg
+89v (part)	https://collections.library.yale.edu/iiif/2/1006234/full/600,/0/default.jpg
+89v (part) and 90r	https://collections.library.yale.edu/iiif/2/1006235/full/600,/0/default.jpg
+90r	https://collections.library.yale.edu/iiif/2/1006236/full/600,/0/default.jpg
+90v (part)	https://collections.library.yale.edu/iiif/2/1006237/full/600,/0/default.jpg
+93r	https://collections.library.yale.edu/iiif/2/1006238/full/600,/0/default.jpg
+93v	https://collections.library.yale.edu/iiif/2/1006239/full/600,/0/default.jpg
+94r	https://collections.library.yale.edu/iiif/2/1006240/full/600,/0/default.jpg
+94v and 95r	https://collections.library.yale.edu/iiif/2/1006241/full/600,/0/default.jpg
+95v (part)	https://collections.library.yale.edu/iiif/2/1006242/full/600,/0/default.jpg
+95v	https://collections.library.yale.edu/iiif/2/1006243/full/600,/0/default.jpg
+96r	https://collections.library.yale.edu/iiif/2/1006244/full/600,/0/default.jpg
+96v	https://collections.library.yale.edu/iiif/2/1006245/full/600,/0/default.jpg
+99r	https://collections.library.yale.edu/iiif/2/1006246/full/600,/0/default.jpg
+99v	https://collections.library.yale.edu/iiif/2/1006247/full/600,/0/default.jpg
+100r	https://collections.library.yale.edu/iiif/2/1006248/full/600,/0/default.jpg
+100v and 101r	https://collections.library.yale.edu/iiif/2/1006249/full/600,/0/default.jpg
+101v (part)	https://collections.library.yale.edu/iiif/2/1006250/full/600,/0/default.jpg
+101v (part) and 102r	https://collections.library.yale.edu/iiif/2/1006251/full/600,/0/default.jpg
+102v (part)	https://collections.library.yale.edu/iiif/2/1006252/full/600,/0/default.jpg
+102v (part)	https://collections.library.yale.edu/iiif/2/1006253/full/600,/0/default.jpg
+103r	https://collections.library.yale.edu/iiif/2/1006254/full/600,/0/default.jpg
+103v	https://collections.library.yale.edu/iiif/2/1006255/full/600,/0/default.jpg
+104r	https://collections.library.yale.edu/iiif/2/1006256/full/600,/0/default.jpg
+104v	https://collections.library.yale.edu/iiif/2/1006257/full/600,/0/default.jpg
+105r	https://collections.library.yale.edu/iiif/2/1006258/full/600,/0/default.jpg
+105v	https://collections.library.yale.edu/iiif/2/1006259/full/600,/0/default.jpg
+106r	https://collections.library.yale.edu/iiif/2/1006260/full/600,/0/default.jpg
+106v	https://collections.library.yale.edu/iiif/2/1006261/full/600,/0/default.jpg
+107r	https://collections.library.yale.edu/iiif/2/1006262/full/600,/0/default.jpg
+107v	https://collections.library.yale.edu/iiif/2/1006263/full/600,/0/default.jpg
+108r	https://collections.library.yale.edu/iiif/2/1006264/full/600,/0/default.jpg
+108v	https://collections.library.yale.edu/iiif/2/1006265/full/600,/0/default.jpg
+111r	https://collections.library.yale.edu/iiif/2/1006266/full/600,/0/default.jpg
+111v	https://collections.library.yale.edu/iiif/2/1006267/full/600,/0/default.jpg
+112r	https://collections.library.yale.edu/iiif/2/1006268/full/600,/0/default.jpg
+112v	https://collections.library.yale.edu/iiif/2/1006269/full/600,/0/default.jpg
+113r	https://collections.library.yale.edu/iiif/2/1006270/full/600,/0/default.jpg
+113v	https://collections.library.yale.edu/iiif/2/1006271/full/600,/0/default.jpg
+114r	https://collections.library.yale.edu/iiif/2/1006272/full/600,/0/default.jpg
+114v	https://collections.library.yale.edu/iiif/2/1006273/full/600,/0/default.jpg
+115r	https://collections.library.yale.edu/iiif/2/1006274/full/600,/0/default.jpg
+115v	https://collections.library.yale.edu/iiif/2/1006275/full/600,/0/default.jpg
+116r	https://collections.library.yale.edu/iiif/2/1006276/full/600,/0/default.jpg
+116v	https://collections.library.yale.edu/iiif/2/1006277/full/600,/0/default.jpg
+[Back flyleaf recto]	https://collections.library.yale.edu/iiif/2/1037113/full/600,/0/default.jpg
+[Back flyleaf verso-inside back cover]	https://collections.library.yale.edu/iiif/2/1006278/full/600,/0/default.jpg
+[Head]	https://collections.library.yale.edu/iiif/2/11868207/full/600,/0/default.jpg
+[Tail]	https://collections.library.yale.edu/iiif/2/11868208/full/600,/0/default.jpg
+[Fore-edge]	https://collections.library.yale.edu/iiif/2/11868209/full/600,/0/default.jpg
+[Spine]	https://collections.library.yale.edu/iiif/2/11868210/full/600,/0/default.jpg
+[Back cover]	https://collections.library.yale.edu/iiif/2/1006279/full/600,/0/default.jpg

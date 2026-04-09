@@ -1,0 +1,15 @@
+{
+  "_comment": "EVA suffix rules for agglutination layer. Extracted from v11 SUFFIX_MAP + v10 discoveries.",
+
+  "y":   {"latin": "",      "type": "truncation",  "note": "abbreviation marker, no Latin value"},
+  "n":   {"latin": "m",     "type": "accusative",  "note": "accusative marker (-m)"},
+  "dy":  {"latin": " et",   "type": "conjunction",  "note": "and (logographic)"},
+  "l":   {"latin": "ns",    "type": "participle",  "note": "present participle -ns (v10 Phase E)"},
+  "ol":  {"latin": "ns",    "type": "participle",  "note": "present participle -ns"},
+  "s":   {"latin": "s",     "type": "plural",      "note": "plural marker"},
+  "m":   {"latin": "m",     "type": "accusative",  "note": "accusative"},
+  "r":   {"latin": "re",    "type": "infinitive",  "note": "infinitive ending"},
+  "d":   {"latin": "de",    "type": "ablative",    "note": "ablative/gerund marker"},
+  "ed":  {"latin": "endo",  "type": "gerund",      "note": "gerund ablative (v9 Phase D)"},
+  "eed": {"latin": "endo",  "type": "gerund",      "note": "gerund ablative (long form)"}
+}

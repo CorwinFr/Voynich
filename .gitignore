@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+
+# Temporary files
+.~lock*
+*.tmp
+*.~
+
+# Cache
+lemma_cache.json
+
+# Archive (historical versions, not for git)
+_archive/
+
+# IDE & tools
+.vscode/
+.idea/
+.claude/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Large generated outputs (keep only final versions)
+v12/output/archive/
+
+# Downloaded images (Yale IIIF — use urls.txt to re-download)
+data/images/pages/
+
+# Large corpora (rebuild from sources)
+CORPORA_FINAL/
+data/corpus_*.txt
+data/corpus_*.json
+
+# Old build script (replaced by docs/paper/)
+build_academia_paper.py

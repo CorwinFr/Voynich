@@ -1,0 +1,410 @@
+
+####################################################################################################
+# F9V - Viola tricolor (conf 0.95)
+####################################################################################################
+
+====================================================================================================
+  FOLIO F9V | Section: H
+====================================================================================================
+
+  L01 EVA  : fochor oporody opy shor daiin qopchypcho qofol shol cfhol daiin
+      LATIN: _pareiere_ _epererede_ eper(?) ciere in aquam cum perinperie cum parece cies piens in aquam
+      EN   : to_it through through to_stir the_water with with STIR! being the_water
+
+  L02 EVA  : dchor qoaiin chkaiin cthor chol chor cphol dy oty qokaiin dy
+      LATIN: in iere cum aquam iecur _eliere_ eius iera piens et el cum aquam et
+      EN   : in/into the_water liver <eliere> of_it/his <iera> being and <el> the_water and
+
+  L03 EVA  : ykey chor ykaiin daiin cthy otaiin oky oeees daiin
+      LATIN: inquo iera _inqura_ in aquam ili aquam qu eous in aquam
+      EN   : in/into <iera> in/into the_water <ili> the_water <qu> by_it the_water
+
+  L04 EVA  : ytey tch y kaiin cthor otol oty toldy
+      LATIN: _inelo_ eli in curam _eliere_ es el _eleceet_
+      EN   : in/into <eli> in/into the_care <eliere> you_are/eat <el> and
+
+  L05 EVA  : pchor ypcheey qotor ypchy olcfholy te ar chty daiiin
+      LATIN: periere inperio(?) cum hiera _inperi_ _espiece_ elo iure eius el in aquam
+      EN   : through through hiera[remedy] through you_are/eat <elo> by_right of_it/his the_water
+
+  L06 EVA  : odol choy ksheody chody daiin otchy cthod yko
+      LATIN: edens ie _ccioede_ eius ede et in aquam eli _eliede_ inque
+      EN   : EAT! <ie> EAT! of_it/his the_water <eli> EAT! and(encl)
+
+  L07 EVA  : qo chol chol chy daiin otal dor daim
+      LATIN: coe eius eius in in aquam alo in hiera in aquam
+      EN   : <coe> of_it/his of_it/his in/into the_water a_plant hiera[remedy] the_water
+
+  L08 EVA  : soiin daiin qokcho rokyd daly
+      LATIN: _useura_ in aquam cum ie _requde_ in alo
+      EN   : or_rather the_water with of/from a_plant
+
+  L09 EVA  : daiin chy tor chyty dary ytoldy
+      LATIN: in aquam in hiera inl in iure _ineleceet_
+      EN   : the_water in/into hiera[remedy] in/into by_right in/into
+
+  L10 EVA  : oty kchol chol chy kyty
+      LATIN: el ciens eius in [cnel]
+      EN   : <el> being of_it/his in/into <cnel>
+
+  L11 EVA  : ychor chshoty oky kaiin
+      LATIN: _iniere_ eius ciel qu curam
+      EN   : in/into of_it/his <qu> the_care
+
+  L12 EVA  : chkaiin ckhy chor
+      LATIN: iecur qui iera
+      EN   : liver <qui> <iera>
+
+  ======================================================================
+  STATISTICS v12
+  Total words: 86
+  CONFIRMED: 19 (22%)
+  HIGH:      49 (56%)
+  MEDIUM:    2 (2%)
+  LOW:       15 (17%)
+  OPAQUE:    1 (1%)
+  Perseus:   68 (79%)
+  Medical:   8 (9%)
+  H1 entropy: 3.746 bits (ref Latin: ~4.0)
+  H2 entropy: 2.263 bits (ref Latin: ~3.5, ref EVA: ~2.1)
+  Quality:    poor
+  ======================================================================
+
+  --- WORDS NEEDING REVIEW ---
+  OPAQUE: kyty            -> cnel                 (L10) alts: cnl, qunel
+  LOW:    fochor          -> pareiere             (L01) alts: pareiare, paraiere
+  LOW:    oporody         -> epererede            (L01) alts: eperereade, epererede et, eperereade et
+  LOW:    cthor           -> eliere               (L02) alts: eliare, liere
+  LOW:    ykaiin          -> inqura               (L03) alts: inqure, inquram
+  LOW:    ytey            -> inelo                (L04) alts: inele, inlo
+  LOW:    cthor           -> eliere               (L04) alts: eliare, liere
+  LOW:    toldy           -> eleceet              (L04) alts: elesd et, elesde et, elesde
+  LOW:    ypchy           -> inperi               (L05) alts: inpi, inpei
+  LOW:    olcfholy        -> espiece              (L05) alts: espiace, aspiece
+  LOW:    ksheody         -> ccioede              (L06) alts: ccioade, ccioede et, ccioeet
+
+####################################################################################################
+# F2V - Nymphaea candida - Water Lily (conf 0.80)
+####################################################################################################
+
+====================================================================================================
+  FOLIO F2V | Section: H
+====================================================================================================
+
+  L01 EVA  : kooiin cheo pchor otaiin odain chor dair shty
+      LATIN: _ceura_ ioe periere aquam _eduim_ iera in aquare cil
+      EN   : <ceura> <ioe> through the_water <eduim> <iera> water <cil>
+
+  L02 EVA  : kcho kchy sho shol qotcho loeees qoty chor daiin
+      LATIN: cie ci cibo cies cum ie ex eous cum el iera in aquam
+      EN   : <cie> <ci> food(abl) STIR! with out_of with <iera> the_water
+
+  L03 EVA  : otchy chor lshy chol chody chodain chcthy daiin
+      LATIN: eli iera _esci_ eius eius ede et eius eduim ili in aquam
+      EN   : <eli> <iera> you_are/eat of_it/his of_it/his of_it/his <ili> the_water
+
+  L04 EVA  : sho cholo cheor chodaiin
+      LATIN: cibo _iese_ eius hiera eius edeura
+      EN   : food(abl) you_are/eat hiera[remedy] of_it/his
+
+  L05 EVA  : kchor shy daiiin chm s shey dor chol daiin
+      LATIN: ciere cibus in aquam im est cies in hiera eius in aquam
+      EN   : to_stir food the_water <im> is STIR! hiera[remedy] of_it/his the_water
+
+  L06 EVA  : dor chol chor chol keol chy chty daiin o tchor chan
+      LATIN: in hiera eius iera eius _coece_ in eius el in aquam ac _eliere_ iun
+      EN   : hiera[remedy] of_it/his <iera> of_it/his <coece> in/into of_it/his the_water and_also <eliere> <iun>
+
+  L07 EVA  : daiin chotchey qoteeey chokeos chees chr cheaiin
+      LATIN: in aquam _ielio_ cum eo eius quoes eius eos ire _ioura_
+      EN   : the_water <ielio> with of_it/his of_it/his <ire> <ioura>
+
+  L08 EVA  : chokoishe chor cheol chol dolody
+      LATIN: _iqueicio_ iera eius eius edesede et
+      EN   : and(encl) <iera> of_it/his of_it/his EAT!
+
+  ======================================================================
+  STATISTICS v12
+  Total words: 61
+  CONFIRMED: 19 (31%)
+  HIGH:      33 (54%)
+  MEDIUM:    0 (0%)
+  LOW:       9 (14%)
+  OPAQUE:    0 (0%)
+  Perseus:   52 (85%)
+  Medical:   5 (8%)
+  H1 entropy: 3.604 bits (ref Latin: ~4.0)
+  H2 entropy: 2.283 bits (ref Latin: ~3.5, ref EVA: ~2.1)
+  Quality:    poor
+  ======================================================================
+
+  --- WORDS NEEDING REVIEW ---
+  LOW:    kooiin          -> ceura                (L01) alts: ceaura, ceaeura
+  LOW:    odain           -> eduim                (L01) alts: aduim, edaim, eduin
+  LOW:    lshy            -> esci                 (L03) alts: ex ci, sci, seci
+  LOW:    cholo           -> iese                 (L04) alts: eius ese, iesa, eius esa
+  LOW:    keol            -> coece                (L06) alts: coace, cens, coens
+  LOW:    tchor           -> eliere               (L06) alts: eliare, liere, elier
+  LOW:    chotchey        -> ielio                (L07) alts: eius elio, eius elie, ielie
+  LOW:    cheaiin         -> ioura                (L07) alts: eius oura, eius eura, ieura
+  LOW:    chokoishe       -> iqueicio             (L08) alts: eius queicio, iqueicie, eius queicie
+
+####################################################################################################
+# F29V - Nigella sativa - Black Cumin (conf 0.80)
+####################################################################################################
+
+====================================================================================================
+  FOLIO F29V | Section: H
+====================================================================================================
+
+  L01 EVA  : kooiin shor chetchy ol ls shytchy cthy shy cho shy daiin
+      LATIN: _ceura_ ciere _ioeli_ es esus _cineli_ ili cibus ie cibus in aquam
+      EN   : <ceura> to_stir <ioeli> you_are/eat you_are/eat in/into <ili> food <ie> food the_water
+
+  L02 EVA  : qotcheaiin s chol chol cthy chey cthold ytchor dary
+      LATIN: cum ioura est eius eius ili eius [eliesd] _ineliere_ in iure
+      EN   : with is of_it/his of_it/his <ili> of_it/his you_are/eat in/into by_right
+
+  L03 EVA  : chol chol kor shey odaiin qotchy taiin s she otey sy
+      LATIN: eius eius cere cies _edeura_ cum eli aquam est ciere eo us
+      EN   : of_it/his of_it/his <cere> STIR! EAT! with the_water is to_stir by_it <us>
+
+  L04 EVA  : ysho otshy okaiin cthy oltchy s shot sho okaiin
+      LATIN: incie _elci_ aquam ili _eseli_ est [ciel] cibo aquam
+      EN   : in/into <elci> the_water <ili> you_are/eat is <ciel> food(abl) the_water
+
+  L05 EVA  : tochon chain shan shoty chshy shy
+      LATIN: _eleien_ eius aquam ciun [ciel] ici cibus
+      EN   : to_it the_water <ciun> <ciel> <ici> food
+
+  L06 EVA  : dchor chol chaiin shaiin cthod dar chs shody
+      LATIN: in iere eius eius aquam ciura _eliede_ in iure ius _ciede_
+      EN   : in/into of_it/his the_water <ciura> EAT! by_right <ius> EAT!
+
+  L07 EVA  : qotcho kchor daiin ykaiin dy shdy chocthy sheky
+      LATIN: cum ie ciere in aquam _inqura_ et cid et _ieili_ ciboque
+      EN   : with to_stir the_water in/into and and to_it food_and
+
+  L08 EVA  : otol shotchor cholody dain chcth chy cthody dol
+      LATIN: es _cieliere_ iesede et in aquam ili in _elieet_ in es
+      EN   : you_are/eat <cieliere> EAT! the_water <ili> in/into and in/into
+
+  L09 EVA  : sho chokor chor chy ydaiin cho ykeeb oaiin
+      LATIN: cibo _iquere_ iera in indura(?) ie [inquob] eura
+      EN   : food(abl) and(encl) <iera> in/into hard <ie> in/into <eura>
+
+  L10 EVA  : qokoiin okaiin cho cth chyd chykar
+      LATIN: cum eura aquam ie li ind eius inquara
+      EN   : with the_water <ie> <li> in/into of_it/his
+
+  L11 EVA  : daiin chteos octhy dar chyt otody
+      LATIN: in aquam eius eloeus eli in iure inl ede et
+      EN   : the_water of_it/his <eli> by_right in/into EAT!
+
+  L12 EVA  : qekeochor otchey s y
+      LATIN: _coquoeiere_ io est in
+      EN   : to_it <io> is in/into
+
+  ======================================================================
+  STATISTICS v12
+  Total words: 94
+  CONFIRMED: 21 (22%)
+  HIGH:      52 (55%)
+  MEDIUM:    1 (1%)
+  LOW:       16 (17%)
+  OPAQUE:    4 (4%)
+  Perseus:   71 (75%)
+  Medical:   14 (14%)
+  H1 entropy: 3.708 bits (ref Latin: ~4.0)
+  H2 entropy: 2.318 bits (ref Latin: ~3.5, ref EVA: ~2.1)
+  Quality:    poor
+  ======================================================================
+
+  --- WORDS NEEDING REVIEW ---
+  OPAQUE: cthold          -> eliesd               (L02) alts: eliesde, eliecede, eliasd
+  OPAQUE: shot            -> ciel                 (L04) alts: cil, ciael
+  OPAQUE: shoty           -> ciel                 (L05) alts: cil, ciael
+  OPAQUE: ykeeb           -> inquob               (L09) alts: inquoeb, inqueob
+  LOW:    kooiin          -> ceura                (L01) alts: ceaura, ceaeura
+  LOW:    chetchy         -> ioeli                (L01) alts: eius oeli, eius eli, ieli
+  LOW:    shytchy         -> cineli               (L01) alts: cinli, cinlei
+  LOW:    ytchor          -> ineliere             (L02) alts: ineliare, inelier, inliere
+  LOW:    odaiin          -> edeura               (L03) alts: adeura, edeure
+  LOW:    otshy           -> elci                 (L04) alts: aelci, ci, lci
+  LOW:    oltchy          -> eseli                (L04) alts: aseli, eceli
+  LOW:    tochon          -> eleien               (L05) alts: eleian, elaien, eleiem
+  LOW:    cthod           -> eliede               (L06) alts: eliade, liede, elied
+  LOW:    shody           -> ciede                (L06) alts: ciede et, ciade, ciade et
+
+####################################################################################################
+# F15R - Cichorium - Chicory (shkaiin=cicura)
+####################################################################################################
+
+====================================================================================================
+  FOLIO F15R | Section: H
+====================================================================================================
+
+  L01 EVA  : tshor shey tchaly shy chtols shey daiin
+      LATIN: _elciere_ cies _eliuce_ cibus eius elesus cies in aquam
+      EN   : to_stir STIR! <eliuce> food of_it/his STIR! the_water
+
+  L02 EVA  : otchor qokchor oly okor shy koly
+      LATIN: iere cum iere est hiera cibus est
+      EN   : <iere> with is hiera[remedy] food is
+
+  L03 EVA  : qokaiin qotchy tydy daiin chol cthy
+      LATIN: cum aquam cum eli elnde et in aquam eius ili
+      EN   : the_water with and the_water of_it/his <ili>
+
+  L04 EVA  : scheaiin chodaiin chl sol ckhaiin sal
+      LATIN: _usioura_ eius edeura ice _usece_ _quiura_ usus
+      EN   : <usioura> of_it/his <ice> <usece> <quiura> <usus>
+
+  L05 EVA  : qotchy r shor cthy daiin cthy dy
+      LATIN: cum eli recipe ciere ili in aquam ili et
+      EN   : with TAKE! to_stir <ili> the_water <ili> and
+
+  L06 EVA  : dchy ko kaiin chdy saiin okear
+      LATIN: dei ce curam eius et aquam oura
+      EN   : of/from <ce> the_care of_it/his the_water <oura>
+
+  L07 EVA  : daiin shkaiin cthy sho keocthy
+      LATIN: in aquam cicura ili cibo coeli
+      EN   : the_water chicory <ili> food(abl) <coeli>
+
+  L08 EVA  : shocthy tol kaiin s dain ctholy
+      LATIN: cibolis _elece_ curam est in aquam _eliece_
+      EN   : of_foods <elece> the_care is the_water <eliece>
+
+  L09 EVA  : octhain qokaiin chos odaiin cthl s y
+      LATIN: _eliuim_ cum aquam ies _edeura_ lice est in
+      EN   : <eliuim> the_water you_are/eat EAT! <lice> is in/into
+
+  L10 EVA  : ychain chy okshy saiiin dolchds
+      LATIN: _iniuin_ in quci(?) aquam in esidus
+      EN   : in/into in/into <quci> the_water in/into
+
+  L11 EVA  : okaiin otaiin chl sy chor choross
+      LATIN: aquam aquam ice us iera eius ereuss
+      EN   : the_water the_water <ice> <us> <iera> of_it/his
+
+  L12 EVA  : qotor shor tcheor chy cthaiin shan
+      LATIN: cum hiera ciere _elioere_ in _liura_ ciun
+      EN   : hiera[remedy] to_stir <elioere> in/into <liura> <ciun>
+
+  L13 EVA  : ykshol dor sheey cthy dain sky shor shoty
+      LATIN: [inqucins] in hiera ciere ili in aquam usc(?) ciere [ciel]
+      EN   : in/into hiera[remedy] to_stir <ili> the_water <usc> to_stir <ciel>
+
+  L14 EVA  : otcho kchy chol daiin ar ytol dor dom
+      LATIN: ie ci eius in aquam iure _inelece_ in hiera in em
+      EN   : <ie> <ci> of_it/his the_water by_right in/into hiera[remedy] in/into
+
+  L15 EVA  : qotchor chaiin chy kol daky
+      LATIN: cum iere eius aquam in cis in uqu
+      EN   : with the_water in/into on_this_side in/into
+
+  ======================================================================
+  STATISTICS v12
+  Total words: 94
+  CONFIRMED: 25 (26%)
+  HIGH:      52 (55%)
+  MEDIUM:    2 (2%)
+  LOW:       13 (13%)
+  OPAQUE:    2 (2%)
+  Perseus:   76 (80%)
+  Medical:   16 (17%)
+  H1 entropy: 3.748 bits (ref Latin: ~4.0)
+  H2 entropy: 2.348 bits (ref Latin: ~3.5, ref EVA: ~2.1)
+  Quality:    poor
+  ======================================================================
+
+  --- WORDS NEEDING REVIEW ---
+  OPAQUE: ykshol          -> inqucins             (L13) alts: inaequcins, inquciece, inquciace
+  OPAQUE: shoty           -> ciel                 (L13) alts: cil, ciael
+  LOW:    tshor           -> elciere              (L01) alts: elciare, lciere, elcier
+  LOW:    tchaly          -> eliuce               (L01) alts: eliace, elius
+  LOW:    scheaiin        -> usioura              (L04) alts: usieura, suioura
+  LOW:    sol             -> usece                (L04) alts: usace, es, usens
+  LOW:    ckhaiin         -> quiura               (L04) alts: quiure, quiuram
+  LOW:    tol             -> elece                (L08) alts: lens, elace, es
+  LOW:    ctholy          -> eliece               (L08) alts: eliace, elies
+  LOW:    octhain         -> eliuim               (L09) alts: eiliuim, aliuim, eliuin
+  LOW:    odaiin          -> edeura               (L09) alts: adeura, edeure
+  LOW:    ychain          -> iniuin               (L10) alts: iniain, iniuim, iniaim
+
+####################################################################################################
+# F1V - Atropa belladonna (herbal page 1)
+####################################################################################################
+
+====================================================================================================
+  FOLIO F1V | Section: H
+====================================================================================================
+
+  L01 EVA  : kchsy chydaiin ol o l tchey char cfhar am
+      LATIN: cius eius indura es ac ce elio(?) iure _piure_ cum
+      EN   : <cius> of_it/his you_are/eat and_also <ce> <elio> by_right by_right with
+
+  L02 EVA  : yteey char or ochy dcho lkody okodar chody
+      LATIN: _inelo_ iure hiera ei in ie ex cede et _edura_ eius ede et
+      EN   : in/into by_right hiera[remedy] to_it in/into EAT! hard of_it/his
+
+  L03 EVA  : da ckhy ckhockhy shy dksheey cthy kotchody dal
+      LATIN: du qui _quiequi_ cibus in ccio ili celiede et in alo
+      EN   : <du> <qui> <quiequi> food in/into <ili> EAT! a_plant
+
+  L04 EVA  : dol chokeo dair dam sochey chokody
+      LATIN: in es _iquoe_ in aquare dum _useio_ iquede et
+      EN   : in/into <iquoe> water while to_it and(encl)
+
+  L05 EVA  : potoy shol dair cphoal dar chey tody otoaiin shoshy
+      LATIN: per ele cies in aquare _pieuce_ in iure eius elede et eura _cieci_
+      EN   : through STIR! water <pieuce> by_right of_it/his EAT! <eura> <cieci>
+
+  L06 EVA  : choky chol ctho l shol okal dolchey chodo lol chy cthy
+      LATIN: iqu eius elie ce cies alo in esio eius ede ex es in ili
+      EN   : <iqu> of_it/his <elie> <ce> STIR! a_plant in/into of_it/his out_of in/into <ili>
+
+  L07 EVA  : qo ol choees cheol dol cthey ykol dol dolo ykol do lchiody
+      LATIN: coe es eius eous eius in es lio _inquece_ in es in ese _inquece_ ede ex iade et
+      EN   : <coe> you_are/eat of_it/his of_it/his in/into <lio> and(encl) in/into in/into and(encl) EAT! and
+
+  L08 EVA  : okolshol kol kechy chol ky chol cthol chody chol daiin
+      LATIN: [escins] cis coi eius _c_ eius _eliens_ eius ede et eius in aquam
+      EN   : in/into on_this_side <coi> of_it/his <c> of_it/his being of_it/his of_it/his the_water
+
+  L09 EVA  : shor okol chol dol ky dar shol dchor o tcho dar ody
+      LATIN: ciere es eius in es _c_ in iure cies in iere ac elie in iure ede et
+      EN   : to_stir you_are/eat of_it/his in/into <c> by_right STIR! in/into and_also <elie> by_right EAT!
+
+  L10 EVA  : taor chotchey dal chody schody pol chodar
+      LATIN: _eluere_ _ielio_ in alo eius ede et _usieet_ per es _iedura_
+      EN   : <eluere> <ielio> a_plant of_it/his and through hard
+
+  ======================================================================
+  STATISTICS v12
+  Total words: 92
+  CONFIRMED: 22 (23%)
+  HIGH:      51 (55%)
+  MEDIUM:    1 (1%)
+  LOW:       17 (18%)
+  OPAQUE:    1 (1%)
+  Perseus:   73 (79%)
+  Medical:   5 (5%)
+  H1 entropy: 3.59 bits (ref Latin: ~4.0)
+  H2 entropy: 2.438 bits (ref Latin: ~3.5, ref EVA: ~2.1)
+  Quality:    fair
+  ======================================================================
+
+  --- WORDS NEEDING REVIEW ---
+  OPAQUE: okolshol        -> escins               (L08) alts: ececins, ascins, quescins
+  LOW:    cfhar           -> piure                (L01) alts: piare, fiure, piura
+  LOW:    yteey           -> inelo                (L02) alts: ineloe, ineleo
+  LOW:    okodar          -> edura                (L02) alts: edure, adura, quedura
+  LOW:    ckhockhy        -> quiequi              (L03) alts: quiaqui, quieaqui
+  LOW:    chokeo          -> iquoe                (L04) alts: eius quoe, ique, iquoa
+  LOW:    sochey          -> useio                (L04) alts: useie, usaio
+  LOW:    cphoal          -> pieuce               (L05) alts: piauce, piaeuce, pieuns
+  LOW:    shoshy          -> cieci                (L05) alts: ciaci
+  LOW:    ykol            -> inquece              (L07) alts: inquace, inquens, inques
+  LOW:    ykol            -> inquece              (L07) alts: inquace, inquens, inques

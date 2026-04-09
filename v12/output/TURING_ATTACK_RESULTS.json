@@ -1,0 +1,648 @@
+[
+  {
+    "folio": "f15v",
+    "section": "H",
+    "line": 2,
+    "n": 3,
+    "lemma_gram": [
+      "ile",
+      "aqua",
+      "in"
+    ],
+    "decoded_words": [
+      "ili",
+      "aquam",
+      "in iure"
+    ],
+    "corpus_count": 1,
+    "non_generic": 2,
+    "lm": "herbal"
+  },
+  {
+    "folio": "f57v",
+    "section": "C",
+    "line": 2,
+    "n": 3,
+    "lemma_gram": [
+      "in",
+      "par_3",
+      "ac"
+    ],
+    "decoded_words": [
+      "in opare",
+      "par",
+      "ac"
+    ],
+    "corpus_count": 1,
+    "non_generic": 2,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f77r",
+    "section": "B",
+    "line": 41,
+    "n": 3,
+    "lemma_gram": [
+      "aqua",
+      "eo",
+      "edo"
+    ],
+    "decoded_words": [
+      "aquam",
+      "is",
+      "est"
+    ],
+    "corpus_count": 1,
+    "non_generic": 2,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f55r",
+    "section": "H",
+    "line": 12,
+    "n": 3,
+    "lemma_gram": [
+      "is",
+      "cum_2",
+      "aqua"
+    ],
+    "decoded_words": [
+      "eius osuce",
+      "cum aquam",
+      "aquam"
+    ],
+    "corpus_count": 3,
+    "non_generic": 1,
+    "lm": "herbal"
+  },
+  {
+    "folio": "f80r",
+    "section": "B",
+    "line": 32,
+    "n": 3,
+    "lemma_gram": [
+      "cum_2",
+      "aqua",
+      "edo"
+    ],
+    "decoded_words": [
+      "cum aquam",
+      "aquam",
+      "es"
+    ],
+    "corpus_count": 3,
+    "non_generic": 1,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f116r",
+    "section": "S",
+    "line": 10,
+    "n": 3,
+    "lemma_gram": [
+      "is",
+      "in",
+      "cibus"
+    ],
+    "decoded_words": [
+      "eius oqui",
+      "in iure",
+      "cibo et"
+    ],
+    "corpus_count": 3,
+    "non_generic": 1,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f57v",
+    "section": "C",
+    "line": 2,
+    "n": 3,
+    "lemma_gram": [
+      "in",
+      "eo",
+      "in"
+    ],
+    "decoded_words": [
+      "in uir",
+      "eo",
+      "in coda et"
+    ],
+    "corpus_count": 2,
+    "non_generic": 1,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f76v",
+    "section": "B",
+    "line": 38,
+    "n": 3,
+    "lemma_gram": [
+      "cum_2",
+      "ex",
+      "aqua"
+    ],
+    "decoded_words": [
+      "cum ede et",
+      "ex es",
+      "aquam"
+    ],
+    "corpus_count": 2,
+    "non_generic": 1,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f82r",
+    "section": "B",
+    "line": 16,
+    "n": 3,
+    "lemma_gram": [
+      "edo",
+      "aqua",
+      "is"
+    ],
+    "decoded_words": [
+      "est",
+      "aquam",
+      "eius"
+    ],
+    "corpus_count": 2,
+    "non_generic": 1,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f102v2",
+    "section": "P",
+    "line": 22,
+    "n": 3,
+    "lemma_gram": [
+      "aqua",
+      "is",
+      "edo"
+    ],
+    "decoded_words": [
+      "aquam",
+      "eius",
+      "est"
+    ],
+    "corpus_count": 2,
+    "non_generic": 1,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f113r",
+    "section": "S",
+    "line": 49,
+    "n": 3,
+    "lemma_gram": [
+      "cum_2",
+      "ex",
+      "eo"
+    ],
+    "decoded_words": [
+      "cum eo",
+      "ex co",
+      "eo"
+    ],
+    "corpus_count": 2,
+    "non_generic": 1,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f57v",
+    "section": "C",
+    "line": 2,
+    "n": 3,
+    "lemma_gram": [
+      "eo",
+      "in",
+      "cum_2"
+    ],
+    "decoded_words": [
+      "eo",
+      "in ureum",
+      "cum iure"
+    ],
+    "corpus_count": 1,
+    "non_generic": 1,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f68v1",
+    "section": "A",
+    "line": 2,
+    "n": 3,
+    "lemma_gram": [
+      "edo",
+      "eo",
+      "in"
+    ],
+    "decoded_words": [
+      "est",
+      "eo",
+      "in aquam"
+    ],
+    "corpus_count": 1,
+    "non_generic": 1,
+    "lm": "herbal"
+  },
+  {
+    "folio": "f70r2",
+    "section": "C",
+    "line": 18,
+    "n": 3,
+    "lemma_gram": [
+      "edo",
+      "in",
+      "vir"
+    ],
+    "decoded_words": [
+      "ede et",
+      "in iure",
+      "uir"
+    ],
+    "corpus_count": 1,
+    "non_generic": 1,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f72r2",
+    "section": "Z",
+    "line": 6,
+    "n": 3,
+    "lemma_gram": [
+      "aqua",
+      "in",
+      "de"
+    ],
+    "decoded_words": [
+      "aquam",
+      "in",
+      "de"
+    ],
+    "corpus_count": 1,
+    "non_generic": 1,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f76v",
+    "section": "B",
+    "line": 38,
+    "n": 3,
+    "lemma_gram": [
+      "is",
+      "cibus",
+      "cum_2"
+    ],
+    "decoded_words": [
+      "eius et",
+      "cibo et",
+      "cum ede et"
+    ],
+    "corpus_count": 1,
+    "non_generic": 1,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f76v",
+    "section": "B",
+    "line": 38,
+    "n": 3,
+    "lemma_gram": [
+      "ex",
+      "aqua",
+      "cum_2"
+    ],
+    "decoded_words": [
+      "ex es",
+      "aquam",
+      "cum aquam"
+    ],
+    "corpus_count": 1,
+    "non_generic": 1,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f79v",
+    "section": "B",
+    "line": 6,
+    "n": 3,
+    "lemma_gram": [
+      "aqua",
+      "is",
+      "cum_2"
+    ],
+    "decoded_words": [
+      "aquam",
+      "eius et",
+      "cum aquam"
+    ],
+    "corpus_count": 1,
+    "non_generic": 1,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f89r2",
+    "section": "P",
+    "line": 28,
+    "n": 3,
+    "lemma_gram": [
+      "aqua",
+      "edo",
+      "in"
+    ],
+    "decoded_words": [
+      "aquam",
+      "es",
+      "in aquam"
+    ],
+    "corpus_count": 1,
+    "non_generic": 1,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f89r2",
+    "section": "P",
+    "line": 28,
+    "n": 3,
+    "lemma_gram": [
+      "edo",
+      "jecur",
+      "in"
+    ],
+    "decoded_words": [
+      "es",
+      "iecur",
+      "in aquam"
+    ],
+    "corpus_count": 1,
+    "non_generic": 1,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f72v3",
+    "section": "Z",
+    "line": 20,
+    "n": 3,
+    "lemma_gram": [
+      "is",
+      "edo",
+      "is"
+    ],
+    "decoded_words": [
+      "eius esuire",
+      "ede et",
+      "eius eos"
+    ],
+    "corpus_count": 4,
+    "non_generic": 0,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f80r",
+    "section": "B",
+    "line": 24,
+    "n": 3,
+    "lemma_gram": [
+      "ex",
+      "is",
+      "in"
+    ],
+    "decoded_words": [
+      "ex es",
+      "eius",
+      "in"
+    ],
+    "corpus_count": 3,
+    "non_generic": 0,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f108v",
+    "section": "S",
+    "line": 24,
+    "n": 3,
+    "lemma_gram": [
+      "is",
+      "is",
+      "edo"
+    ],
+    "decoded_words": [
+      "eius oquoqu",
+      "eius oqui",
+      "es"
+    ],
+    "corpus_count": 3,
+    "non_generic": 0,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f79r",
+    "section": "B",
+    "line": 15,
+    "n": 3,
+    "lemma_gram": [
+      "is",
+      "edo",
+      "in"
+    ],
+    "decoded_words": [
+      "eius et",
+      "es",
+      "in inel"
+    ],
+    "corpus_count": 2,
+    "non_generic": 0,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f107r",
+    "section": "S",
+    "line": 22,
+    "n": 3,
+    "lemma_gram": [
+      "in",
+      "cum_2",
+      "ex"
+    ],
+    "decoded_words": [
+      "in aquam",
+      "cum usuce",
+      "ex coda et"
+    ],
+    "corpus_count": 2,
+    "non_generic": 0,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f112r",
+    "section": "S",
+    "line": 8,
+    "n": 3,
+    "lemma_gram": [
+      "in",
+      "cum_2",
+      "in"
+    ],
+    "decoded_words": [
+      "in ede et",
+      "cum eo",
+      "in uireum"
+    ],
+    "corpus_count": 2,
+    "non_generic": 0,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f66r",
+    "section": "T",
+    "line": 75,
+    "n": 3,
+    "lemma_gram": [
+      "edo",
+      "ex",
+      "edo"
+    ],
+    "decoded_words": [
+      "ede et",
+      "ex perious",
+      "es"
+    ],
+    "corpus_count": 1,
+    "non_generic": 0,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f70r2",
+    "section": "C",
+    "line": 18,
+    "n": 3,
+    "lemma_gram": [
+      "is",
+      "in",
+      "et"
+    ],
+    "decoded_words": [
+      "eius elece",
+      "in alo",
+      "et"
+    ],
+    "corpus_count": 1,
+    "non_generic": 0,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f76r",
+    "section": "T",
+    "line": 32,
+    "n": 3,
+    "lemma_gram": [
+      "in",
+      "is",
+      "in"
+    ],
+    "decoded_words": [
+      "in aquam",
+      "eius",
+      "in usciode"
+    ],
+    "corpus_count": 1,
+    "non_generic": 0,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f76v",
+    "section": "B",
+    "line": 41,
+    "n": 3,
+    "lemma_gram": [
+      "cum_2",
+      "is",
+      "cum_2"
+    ],
+    "decoded_words": [
+      "cum ede et",
+      "eius et",
+      "cum ce"
+    ],
+    "corpus_count": 1,
+    "non_generic": 0,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f78v",
+    "section": "B",
+    "line": 16,
+    "n": 3,
+    "lemma_gram": [
+      "cum_2",
+      "in",
+      "edo"
+    ],
+    "decoded_words": [
+      "cum de et",
+      "in aquam",
+      "est"
+    ],
+    "corpus_count": 1,
+    "non_generic": 0,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f82r",
+    "section": "B",
+    "line": 14,
+    "n": 3,
+    "lemma_gram": [
+      "cum_2",
+      "in",
+      "cum_2"
+    ],
+    "decoded_words": [
+      "cum aquam",
+      "in ede et",
+      "cum eo"
+    ],
+    "corpus_count": 1,
+    "non_generic": 0,
+    "lm": "balnea"
+  },
+  {
+    "folio": "f89r2",
+    "section": "P",
+    "line": 22,
+    "n": 3,
+    "lemma_gram": [
+      "cum_2",
+      "is",
+      "edo"
+    ],
+    "decoded_words": [
+      "cum curas",
+      "eius",
+      "es et"
+    ],
+    "corpus_count": 1,
+    "non_generic": 0,
+    "lm": "pharma"
+  },
+  {
+    "folio": "f114r",
+    "section": "S",
+    "line": 2,
+    "n": 3,
+    "lemma_gram": [
+      "is",
+      "edo",
+      "edo"
+    ],
+    "decoded_words": [
+      "eius ede",
+      "es",
+      "ede"
+    ],
+    "corpus_count": 1,
+    "non_generic": 0,
+    "lm": "pharma"
+  }
+]

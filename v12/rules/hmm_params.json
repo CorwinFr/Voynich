@@ -1,0 +1,47 @@
+{
+  "_comment": "HMM parameters. 3 states: STANDARD, VOWEL_CLUSTER, GAP_CONSONANT. Context-conditioned emissions use next-glyph lookahead for 'o'. Separate A/B params will override specific values.",
+
+  "states": ["STANDARD", "VOWEL_CLUSTER", "GAP_CONSONANT"],
+  "initial_state": "STANDARD",
+
+  "transitions": {
+    "_comment": "P(next_state | current_state, glyph). Only non-trivial transitions listed.",
+    "STANDARD": {
+      "_default": {"STANDARD": 0.90, "VOWEL_CLUSTER": 0.05, "GAP_CONSONANT": 0.05},
+      "on_glyph_e": {"STANDARD": 0.60, "VOWEL_CLUSTER": 0.40},
+      "on_glyph_a": {"STANDARD": 0.70, "VOWEL_CLUSTER": 0.30},
+      "on_unresolved_sequence": {"STANDARD": 0.50, "GAP_CONSONANT": 0.50}
+    },
+    "VOWEL_CLUSTER": {
+      "_default": {"STANDARD": 0.80, "VOWEL_CLUSTER": 0.20},
+      "on_vowel": {"STANDARD": 0.30, "VOWEL_CLUSTER": 0.70}
+    },
+    "GAP_CONSONANT": {
+      "_default": {"STANDARD": 0.90, "GAP_CONSONANT": 0.10},
+      "_note": "GAP exits quickly, it's a single-glyph hypothesis"
+    }
+  },
+
+  "emissions": {
+    "_comment": "P(phoneme | glyph, state). Only state-specific overrides listed; STANDARD uses glyphs.json defaults.",
+    "VOWEL_CLUSTER": {
+      "e": {"phonemes": ["", "o", "e"], "weights": [0.4, 0.3, 0.3], "_note": "vowel may collapse"},
+      "a": {"phonemes": ["", "u", "a"], "weights": [0.3, 0.4, 0.3]},
+      "o": {"phonemes": ["", "e", "a"], "weights": [0.4, 0.3, 0.3]}
+    },
+    "GAP_CONSONANT": {
+      "_comment": "Low-probability emissions for missing Latin consonants b/g/v/x. These are hypothetical and should only win if resulting Latin word is in Perseus.",
+      "k": {"phonemes": ["c", "g", "qu"],      "weights": [0.5, 0.3, 0.2]},
+      "t": {"phonemes": ["el", "t", "d"],       "weights": [0.4, 0.3, 0.3]},
+      "s": {"phonemes": ["us", "v", "s", "b"],  "weights": [0.3, 0.3, 0.2, 0.2]},
+      "p": {"phonemes": ["per", "b", "p"],      "weights": [0.4, 0.3, 0.3]}
+    }
+  },
+
+  "context_emissions": {
+    "_comment": "Context-conditioned emissions for 'o' based on next glyph. Applied BEFORE state transitions.",
+    "o_before_t": {"phonemes": ["", "a"],        "weights": [0.6, 0.4], "_note": "T-trigger: o vanishes"},
+    "o_before_k": {"phonemes": ["", "ae"],       "weights": [0.5, 0.5], "_note": "silent o or ae"},
+    "o_before_vowel": {"phonemes": ["e", "a", "ae"], "weights": [0.4, 0.3, 0.3]}
+  }
+}

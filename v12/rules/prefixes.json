@@ -1,0 +1,23 @@
+{
+  "_comment": "EVA prefix rules. tier: 1=confirmed always split, 1b=confirmed but has blacklist, 2=split only if remainder is confirmed root.",
+
+  "qok": {"latin": "cum",  "tier": 1, "probability": 0.9, "note": "cum + k-initial root"},
+  "qot": {"latin": "cum",  "tier": 1, "probability": 0.9, "note": "cum + t-initial root"},
+  "qo":  {"latin": "cum",  "tier": 1, "probability": 0.9, "note": "cum (with)"},
+  "ok":  {"latin": "",     "tier": 1, "probability": 0.8, "note": "determinant, o-silent + k-root"},
+  "ot":  {"latin": "",     "tier": 1, "probability": 0.8, "note": "determinant, o-silent + t-root"},
+  "d":   {"latin": "in",   "tier": 1, "probability": 0.85, "note": "in (confirmed: qoky daiin = coque in aqua)"},
+  "p":   {"latin": "per",  "tier": 1, "probability": 0.7, "note": "per (through/by)"},
+  "l":   {"latin": "ex",   "tier": 1, "probability": 0.7, "note": "ex (out of)"},
+
+  "ch":  {"latin": "eius", "tier": "1b", "probability": 0.6,
+           "note": "eius (his/its), confirmed by bigram ratio 2x",
+           "blacklist": ["chkaiin", "chy", "chckhy", "chcthy", "chor", "char", "cho"]},
+
+  "k":   {"latin": "?",    "tier": 2, "probability": 0.3, "note": "unknown prefix, only split on confirmed root"},
+  "s":   {"latin": "?",    "tier": 2, "probability": 0.3, "note": "unknown prefix, probably sub/sine/super"},
+  "t":   {"latin": "?",    "tier": 2, "probability": 0.3, "note": "unknown prefix, only split on confirmed root"},
+
+  "_not_prefixes": ["sh", "cth", "ckh", "cfh", "cph"],
+  "_note": "sh/cth/ckh/cfh/cph are K&A phonetic glyphs, NOT prefixes"
+}

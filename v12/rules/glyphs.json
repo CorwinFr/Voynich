@@ -1,0 +1,107 @@
+{
+  "_comment": "Glyph → phoneme mappings. Each entry: glyph → {phonemes, weights, context_overrides}. Context keys: 'prev=X', 'next=X', 'initial', 'final'. Extracted from v10._resolve_glyph().",
+
+  "ch":  {"phonemes": ["i"],         "weights": [1.0], "locked": true},
+  "sh":  {"phonemes": ["ci"],        "weights": [1.0], "locked": true},
+  "cph": {"phonemes": ["pi"],        "weights": [1.0], "locked": true},
+  "m":   {"phonemes": ["m"],         "weights": [1.0], "locked": true},
+  "n":   {"phonemes": ["n"],         "weights": [1.0], "locked": true},
+
+  "k": {
+    "phonemes": ["c", "qu"],
+    "weights": [0.5, 0.5],
+    "context_overrides": {
+      "prev_in_vowel": {"phonemes": ["qu", "aequ"], "weights": [0.7, 0.3]},
+      "next_in_vowel_or_iin": {"phonemes": ["c", "ec"], "weights": [0.7, 0.3]}
+    },
+    "_vowel_set": ["a", "o", "e", "y", "q"]
+  },
+
+  "y": {
+    "phonemes": ["n"],
+    "weights": [1.0],
+    "context_overrides": {
+      "prev=d_AND_final": {"phonemes": ["__DY_ET__"], "weights": [1.0]},
+      "initial": {"phonemes": ["in"], "weights": [1.0]},
+      "final": {"phonemes": ["__Y_FINAL__"], "weights": [1.0]}
+    }
+  },
+
+  "o": {
+    "phonemes": ["e", "a"],
+    "weights": [0.5, 0.5],
+    "context_overrides": {
+      "next=k": {"phonemes": ["ae", ""], "weights": [0.5, 0.5], "_note": "o before k: silent or ae"},
+      "next=t": {"phonemes": ["", "a"], "weights": [0.6, 0.4], "_note": "o before t: silent (T-trigger) or a"},
+      "prev=k": {"phonemes": ["a", "e"], "weights": [0.6, 0.4]},
+      "prev_in_labial": {"phonemes": ["a", "e"], "weights": [0.6, 0.4], "_labial_set": ["cfh", "cph", "f", "p", "cth"]}
+    }
+  },
+
+  "d": {
+    "phonemes": ["d", "de", "ed"],
+    "weights": [0.4, 0.3, 0.3],
+    "context_overrides": {
+      "next=a": {"phonemes": ["d", "de"], "weights": [0.6, 0.4]},
+      "next=ch_AND_initial": {"phonemes": ["de", "ed"], "weights": [0.6, 0.4]},
+      "next=o_AND_initial": {"phonemes": ["ed", "d"], "weights": [0.6, 0.4]},
+      "prev_in_vowel": {"phonemes": ["de", "d"], "weights": [0.6, 0.4]}
+    }
+  },
+
+  "l": {
+    "phonemes": ["s", "ce"],
+    "weights": [0.6, 0.4],
+    "context_overrides": {
+      "next=y_OR_final_after_cth": {"phonemes": ["ce", "s"], "weights": [0.6, 0.4]},
+      "initial": {"phonemes": ["es", "se", "s"], "weights": [0.4, 0.3, 0.3]},
+      "medial_l_equals_l": {"phonemes": ["l"], "weights": [1.0], "_note": "dalor=dolor: l=l in medial position"}
+    }
+  },
+
+  "r": {
+    "phonemes": ["re", "r", "ra"],
+    "weights": [0.5, 0.3, 0.2],
+    "context_overrides": {
+      "prev=a_AND_final": {"phonemes": ["ra", "re"], "weights": [0.6, 0.4]}
+    }
+  },
+
+  "t": {"phonemes": ["el", "l", "le"], "weights": [0.5, 0.3, 0.2]},
+  "e": {"phonemes": ["o", "e"],        "weights": [0.5, 0.5]},
+  "s": {"phonemes": ["us", "su", "s"], "weights": [0.4, 0.3, 0.3]},
+  "q": {"phonemes": ["co", "con", "cum"], "weights": [0.5, 0.3, 0.2]},
+  "p": {"phonemes": ["per", "p", "pe"], "weights": [0.5, 0.3, 0.2]},
+  "f": {"phonemes": ["par", "per", "p", "f"], "weights": [0.3, 0.3, 0.2, 0.2]},
+
+  "a": {
+    "phonemes": ["u", "a"],
+    "weights": [0.6, 0.4],
+    "context_overrides": {
+      "prev=k": {"phonemes": ["a", "u"], "weights": [0.6, 0.4]}
+    }
+  },
+
+  "aiin": {"phonemes": ["ura", "ure", "uram", "are"], "weights": [0.35, 0.25, 0.25, 0.15], "_note": "morphological unit: a+iin compound"},
+  "iin": {"phonemes": ["ura", "ure", "ur", "are"], "weights": [0.4, 0.3, 0.2, 0.1]},
+
+  "cth": {
+    "phonemes": ["li", "ili"],
+    "weights": [0.5, 0.5],
+    "context_overrides": {
+      "next=y": {"phonemes": ["ili"], "weights": [1.0]},
+      "initial_AND_next=o": {"phonemes": ["eli", "li"], "weights": [0.6, 0.4]}
+    }
+  },
+
+  "ckh": {"phonemes": ["qui", "aqui"], "weights": [0.7, 0.3]},
+  "cfh": {"phonemes": ["pi", "fi"],    "weights": [0.6, 0.4]},
+
+  "g": {"phonemes": ["g"], "weights": [1.0], "_note": "rare, possibly =y (homophone)"},
+  "x": {"phonemes": ["x"], "weights": [1.0], "_note": "rare, paragraph marker"},
+  "v": {"phonemes": ["v"], "weights": [1.0], "_note": "rare"},
+  "b": {"phonemes": ["b"], "weights": [1.0], "_note": "only 13 occurrences in MS"},
+  "h": {"phonemes": ["h"], "weights": [1.0], "_note": "systematically dropped"},
+  "i": {"phonemes": ["i"], "weights": [1.0]},
+  "c": {"phonemes": ["c"], "weights": [1.0], "_note": "rare standalone"}
+}

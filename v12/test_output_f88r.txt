@@ -1,0 +1,158 @@
+
+====================================================================================================
+  FOLIO F88R | Section: P
+====================================================================================================
+
+  L01 EVA  : otorchety
+      LATIN: [elereioel]
+      EN   : to_it
+
+  L02 EVA  : osal
+      LATIN: _eusuce_
+      EN   : <eusuce>
+
+  L03 EVA  : orald
+      LATIN: _ereucede_
+      EN   : EAT!
+
+  L04 EVA  : oldar
+      LATIN: _esdure_
+      EN   : you_are/eat
+
+  L05 EVA  : otoky
+      LATIN: _elqu_
+      EN   : <elqu>
+
+  L06 EVA  : otaly
+      LATIN: alo
+      EN   : a_plant
+
+  L07 EVA  : dorsheoy ctheol qockhey dory sheor sholfchor dal chcthol
+      LATIN: in erecioe liens coquinam in hiera _cioere_ _ciespariere_ in alo eius eliens
+      EN   : in/into being to_cook hiera[remedy] <cioere> STIR! a_plant of_it/his
+
+  L08 EVA  : sal sheom keol chear shekor qokor daiin sar s aiin oky sam
+      LATIN: usus _cioem_ _coece_ eius iure _cioquere_ cum hiera in aquam usura est aquam qu usum
+      EN   : <usus> <cioem> <coece> of_it/his and(encl) hiera[remedy] the_water <usura> is the_water <qu> <usum>
+
+  L09 EVA  : oain or om otam okeom cheeor qokeody dar or om cheody
+      LATIN: euin hiera em _elum_ _quoem_ _ioere_ cum oede et in iure hiera em eius et
+      EN   : in/into hiera[remedy] <em> <elum> <quoem> <ioere> with by_right hiera[remedy] <em> of_it/his
+
+  L10 EVA  : qokeol cheol saiin cheos cheol doleeey or cheom cheomam
+      LATIN: cum oece eius aquam eius eos eius in est eo hiera eius eam _ioemum_
+      EN   : with of_it/his the_water of_it/his of_it/his is hiera[remedy] of_it/his <ioemum>
+
+  L11 EVA  : yokeody cheom qoor cheeb ykeor shy sam
+      LATIN: _inquoede_ eius eam cum hiera eius ob _inquoere_ cibus usum
+      EN   : EAT! of_it/his hiera[remedy] of_it/his in/into food <usum>
+
+  L12 EVA  : otaldy
+      LATIN: _aloet_
+      EN   : a_plant
+
+  L13 EVA  : oram
+      LATIN: ereum
+      EN   : him(acc)
+
+  L14 EVA  : dary
+      LATIN: in iure
+      EN   : by_right
+
+  L15 EVA  : okol
+      LATIN: es
+      EN   : you_are/eat
+
+  L16 EVA  : sorory
+      LATIN: _userere_
+      EN   : <userere>
+
+  L17 EVA  : otyda
+      LATIN: indu
+      EN   : in/into
+
+  L18 EVA  : koay cphol orchor pcheoly otchol oldy salsaly
+      LATIN: ceu piens _ereiere_ per ioece _iece_ es et _usususuce_
+      EN   : <ceu> being to_it through <iece> and <usususuce>
+
+  L19 EVA  : dchey chokol daiin qoekol qoekol qockhol okol cheol
+      LATIN: in io eius quece in aquam cum oquece cum oquece cum quiens es eius
+      EN   : in/into of_it/his the_water with with with you_are/eat of_it/his
+
+  L20 EVA  : dsheol qokeey s chy s aiin chor oteor aiin chosals
+      LATIN: decies cum eo est in est aquam iera _eloere_ aquam eius eusuces
+      EN   : ten_times with is in/into is the_water <iera> <eloere> the_water of_it/his
+
+  L21 EVA  : teol chor olsheody qokeol shoy ol sheeol sheoldg
+      LATIN: _eloece_ iera _escioeet_ cum oece cie es _cioens_ [cioesdg]
+      EN   : <eloece> <iera> and with <cie> you_are/eat being you_are/eat
+
+  L22 EVA  : ychey okaiin chol cheor ol chorcholsal
+      LATIN: inio aquam eius eius hiera es eius ereiesusuce
+      EN   : in/into the_water of_it/his hiera[remedy] you_are/eat of_it/his
+
+  L23 EVA  : ofyskydal
+      LATIN: _eparnuscnduce_
+      EN   : LEAD!
+
+  L24 EVA  : otor am
+      LATIN: hiera cum
+      EN   : hiera[remedy] with
+
+  L25 EVA  : ofaldo
+      LATIN: _eparusde_
+      EN   : of/from
+
+  L26 EVA  : poeear sheoky olkeey cthol poldy s okoldy
+      LATIN: per eoure ciboque esco(?) _eliens_ per eset est esd et
+      EN   : through food_and you_are/eat being through is and
+
+  L27 EVA  : qokol chol qokol qokol chol cheey or aiin oldal
+      LATIN: cum ece eius cum ece cum ece eius eius hiera aquam [esduns]
+      EN   : with of_it/his with with of_it/his of_it/his hiera[remedy] the_water you_are/eat
+
+  L28 EVA  : ykar cheol chol chey ckhey s or shear ar alsy
+      LATIN: _inquara_ eius eius eius quio est hiera _cioure_ iure usus
+      EN   : in/into of_it/his of_it/his of_it/his <quio> is hiera[remedy] <cioure> by_right <usus>
+
+  L29 EVA  : kor chey qokol cheol chody qokol kchor chol dal
+      LATIN: cere eius cum ece eius eius ede et cum ece ciere eius in alo
+      EN   : <cere> of_it/his with of_it/his of_it/his with to_stir of_it/his a_plant
+
+  L30 EVA  : ykeeey cheor cheotey cheol qokeor chetchy ofal
+      LATIN: inquo eius hiera _ioelo_ eius cum oare _ioeli_ _eparuce_
+      EN   : in/into hiera[remedy] <ioelo> of_it/his with <ioeli> <eparuce>
+
+  L31 EVA  : dar chear chol dol qoekeor cheom
+      LATIN: in iure eius iure eius in es cum oquoere eius eam
+      EN   : by_right of_it/his of_it/his in/into with of_it/his
+
+  ======================================================================
+  STATISTICS v12
+  Total words: 150
+  CONFIRMED: 39 (26%)
+  HIGH:      75 (50%)
+  MEDIUM:    1 (0%)
+  LOW:       32 (21%)
+  OPAQUE:    3 (2%)
+  Perseus:   112 (74%)
+  Medical:   15 (10%)
+  H1 entropy: 3.688 bits (ref Latin: ~4.0)
+  H2 entropy: 2.526 bits (ref Latin: ~3.5, ref EVA: ~2.1)
+  Quality:    fair
+  ======================================================================
+
+  --- WORDS NEEDING REVIEW ---
+  OPAQUE: otorchety       -> elereioel            (L01) alts: elereiel, elareioel, ereioel
+  OPAQUE: sheoldg         -> cioesdg              (L21) alts: cioasdg, ciesdg
+  OPAQUE: oldal           -> esduns               (L27) alts: asduns, esdans, esduce
+  LOW:    osal            -> eusuce               (L02) alts: ausuce, eusuns, esuce
+  LOW:    orald           -> ereucede             (L03) alts: areucede, ereacede, ereusd
+  LOW:    oldar           -> esdure               (L04) alts: asdure, esdare, esdura
+  LOW:    otoky           -> elqu                 (L05) alts: elaequ, qu, aelqu
+  LOW:    sheor           -> cioere               (L07) alts: ciere, cioare
+  LOW:    sholfchor       -> ciespariere          (L07) alts: ciespariare, ciesperiere
+  LOW:    sheom           -> cioem                (L08) alts: cioam, ciem
+  LOW:    keol            -> coece                (L08) alts: coace, cens, coens
+  LOW:    shekor          -> cioquere             (L08) alts: cioquare, ciequere
+  LOW:    otam            -> elum                 (L09) alts: um, elam, am

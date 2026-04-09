@@ -1,0 +1,164 @@
+folio	section	proposed_species	common_name	proposer	confidence	notes
+f1r	herbal_A	Syzygium aromaticum	Cloves	Dana Scott	low	Only one proposer; spice plant not typical herbal
+f1v	herbal_A	Atropa belladonna	Deadly Nightshade / Belladonna	Ethel Voynich; Sherwood	medium	Multiple proposers agree on Solanaceae family
+f1v	herbal_A	Ipomoea arborescens (=I. murucoides)	Cazahuate / Morning Glory Tree	Tucker & Talbert (2013); Tucker & Janick (2018)	medium	New World ID; compared to Codex Cruz-Badianus f9r "xiuhamolli"
+f2r	herbal_A	Centaurea diffusa	Diffuse Knapweed	Sherwood	low	Single proposer
+f2r	herbal_A	Centaurea cyanus	Cornflower	Dana Scott	low	Differs from Sherwood on species
+f2v	herbal_A	Nymphoides aquatica	Banana Plant / Nymphoides	Dana Scott	medium	Water plant with floating leaves
+f2v	herbal_A	Nymphaea candida	White Water Lily	Dana Scott (alt); Ethel Voynich	medium-high	One of earliest accepted IDs; multiple proposers agree on aquatic plant
+f3r	herbal_A	Celosia argentea	Feathery Amaranth / Cockscomb	Sherwood; Dana Scott	medium	Two proposers agree
+f3v	herbal_A	Aconitum columbianum	Monkshood	Sherwood	low	Single proposer (European paradigm)
+f3v	herbal_A	Helleborus foetidus	Stinking Hellebore / Dungwort	Stephen Bax; Steve D	medium	Bax identified via text decoding + morphology; multiple proposers
+f4r	herbal_A	Saxifraga cespitosa	Alpine Saxifrage	Sherwood; Dana Scott	medium	Two proposers agree
+f4v	herbal_A	Campanula rapunculus	Rampion	Dana Scott; Sherwood	medium	Two proposers agree
+f5r	herbal_A	Arnica montana	Wolf's Bane / European Arnica	Sherwood; Dana Scott	medium	Two proposers agree
+f5v	herbal_A	Malva sylvestris	Common Mallow	Sherwood; Dana Scott	medium	Two proposers agree
+f6r	herbal_A	Acanthus mollis	Bear's Breeches / Acanthus	Ethel Voynich; Sherwood	medium	Early ID confirmed by later researcher
+f6v	herbal_A	Ricinus communis	Castor Oil Plant	Ethel Voynich; Sherwood	medium	Distinctive palmate leaves
+f6v	herbal_A	Eryngium maritimum	Sea Holly	Dana Scott	low	Different from Sherwood/Voynich ID
+f7r	herbal_A	Trientalis europaea	Starflower / Chickweed Wintergreen	Sherwood; Dana Scott	medium	Two proposers agree
+f7v	herbal_A	Myrica gale	Bog Myrtle / Sweet Gale	Sherwood; Dana Scott	medium	Two proposers agree
+f8r	herbal_A	Pisum sativum	Green Pea	Sherwood; Dana Scott	medium	Two proposers agree
+f8v	herbal_A	Symphytum officinale	Comfrey	Sherwood; Dana Scott	medium	Two proposers agree; well-known medicinal herb
+f9r	herbal_A	Rumex crispus	Curly Dock	Steve D	low	Single proposer
+f9r	herbal_A	Ricinus communis	Castor Oil Plant	Dana Scott	low	Differs from Steve D
+f9v	herbal_A	Viola tricolor / V. bertolonii	Wild Pansy / Violet	Ethel Voynich; Sherwood; Steve D	high	One of most widely accepted IDs; multiple independent proposers; Wikipedia notes "reasonable certainty"
+f10r	herbal_A	Cichorium pumilum	Chicory / Endive	Sherwood; Dana Scott	medium	Two proposers agree
+f10v	herbal_A	Linnaea borealis	Twinflower	Sherwood; Dana Scott	medium	Two proposers agree
+f11r	herbal_A	Rosmarinus officinalis	Rosemary	Sherwood; Dana Scott	medium	Two proposers agree; common medicinal herb
+f11v	herbal_A	Curcuma longa	Turmeric	Sherwood; Dana Scott	low-medium	Exotic spice; not European native
+f12r	herbal_A	Taraxacum officinale	Dandelion	Steve D	low	Single proposer
+f12v	herbal_A	Calendula officinalis	Pot Marigold	Steve D	low	Single proposer
+f13r	herbal_A	Musa acuminata	Banana	Sherwood	low	Controversial; banana unlikely in European herbal
+f13v	herbal_A	Lonicera periclymenum	Honeysuckle / Woodbine	Sherwood; Dana Scott	medium	Two proposers agree
+f14r	herbal_A	Scorzonera hispanica	Black Salsify / Viper's Grass	Sherwood	low-medium	Single proposer
+f14v	herbal_A	Stachys monnieri	Wood Betony / Heal-All	Sherwood	low-medium	Single proposer
+f15r	herbal_A	Sonchus oleraceus	Sow Thistle	Sherwood	low-medium	Single proposer
+f15v	herbal_A	Paris quadrifolia	Herb Paris	Sherwood	low-medium	Distinctive 4-leaf morphology
+f16r	herbal_A	Cannabis sativa	Cannabis / Hemp	Sherwood; Steve D	medium	Two proposers agree; palmate leaves distinctive
+f16v	herbal_A	Carthamus lanatus	Woolly Distaff Thistle	Steve D	low	Single proposer
+f16v	herbal_A	Chrysanthemum sp.	Chrysanthemum	Dana Scott	low	Differs from Steve D
+f17r	herbal_A	Catananche caerulea	Cupid's Dart	Sherwood	low-medium	Single proposer
+f17v	herbal_A	Fallopia convolvulus	Black Bindweed / Wild Buckwheat	Dana Scott	low	Single proposer
+f17v	herbal_A	Dioscorea sp.	Yam	Dana Scott (alt)	low	Alternative ID
+f18r	herbal_A	Aster alpinus	Alpine Aster	Ethel Voynich; Sherwood	medium	Early ID; two proposers
+f18v	herbal_A	Telfairia pedata	Fluted Pumpkin	Sherwood	low	African species; controversial provenance
+f19r	herbal_A	Polemonium caeruleum	Greek Valerian / Jacob's Ladder	Sherwood	low-medium	Single proposer
+f19v	herbal_A	Draba nivalis	Nailwort / Whitlow-grass	Sherwood	low	Single proposer
+f20r	herbal_A	Astragalus hypoglottis	Milk Vetch	Sherwood	low-medium	Single proposer
+f20v	herbal_A	Cynara cardunculus	Cardoon / Artichoke	Sherwood	low-medium	Single proposer
+f21r	herbal_A	Anagallis arvensis	Scarlet Pimpernel	Sherwood	low-medium	Single proposer
+f21v	herbal_A	Dictamnus albus	Burning Bush / White Dittany	Sherwood	low-medium	Single proposer
+f22r	herbal_A	Verbena officinalis	Common Vervain / Holy Herb	Sherwood	low-medium	Common medieval medicinal herb
+f22v	herbal_A	Tulipa gesneriana	Tulip	Sherwood; Dana Scott	medium	Two proposers agree; but tulips arrived in Europe late 15th/16th c.
+f23r	herbal_A	Pulsatilla vulgaris	Pasque Flower	Sherwood	low-medium	Single proposer
+f23v	herbal_A	Borago officinalis	Borage / Starflower	Sherwood	low-medium	Single proposer
+f23v	herbal_A	Passiflora sp.	Passion Flower	Tucker & Janick (2018)	low	New World ID; controversial
+f24r	herbal_A	Cucumis sativus	Cucumber	Sherwood	low-medium	Single proposer
+f24v	herbal_A	Pueraria lobata	Kudzu	Steve D	low	East Asian species; questionable
+f24v	herbal_A	Ficus religiosa	Sacred Fig / Bo Tree	Dana Scott	low	South Asian species; questionable
+f25r	herbal_A	Thymus capitatus	Wild Thyme / Conehead Thyme	Sherwood	low-medium	Single proposer
+f25v	herbal_A	Isatis tinctoria	Woad	Sherwood; Dana Scott	medium	Two proposers agree; important dye plant
+f26r	herbal_A	Prunella vulgaris	Self-Heal / Healall	Sherwood	low-medium	Very common medieval herb
+f26v	herbal_A	Lens culinaris	Lentil	Sherwood	low-medium	Single proposer
+f27r	herbal_A	Spinacia oleracea	Spinach	Sherwood	low-medium	Single proposer
+f27v	herbal_A	Dianthus superbus	Fringed Pink / Dianthus	Sherwood	low-medium	Single proposer
+f28r	herbal_A	Aristolochia sp.	Birthwort / Pipevine	Sherwood	medium	Genus-level agreement is common; distinctive pipe-shaped flowers
+f28v	herbal_A	Rhododendron caucasicum	White Rhododendron	Sherwood; Steve D	medium	Two proposers agree
+f28v	herbal_A	Dahlia imperialis	Tree Dahlia	Dana Scott	low	New World species; controversial
+f29r	herbal_A	Lactuca sativa var. longifolia	Romaine / Cos Lettuce	Sherwood; Dana Scott	medium	Two proposers agree
+f29v	herbal_A	Nigella sativa	Black Cumin / Roman Coriander	Sherwood; Stephen Bax	medium-high	Bax decoded text as "kaur" = black; morphology matches; two independent proposers
+f30r	herbal_A	Prunella vulgaris	Healall / Self-Heal	Sherwood	low-medium	Note: same ID as f26r; possibly a variant drawing
+f30v	herbal_A	Cuscuta europaea	Dodder / Witch's Hair	Sherwood	medium	Distinctive parasitic morphology
+f31r	herbal_A	Erigeron acris	Blue Fleabane	Sherwood	low-medium	Single proposer
+f31v	herbal_A	Valeriana officinalis	Valerian	Sherwood	low-medium	Well-known medicinal herb
+f32r	herbal_A	Veronica triphyllos	Finger Speedwell	Sherwood; Dana Scott	medium	Two proposers agree
+f32v	herbal_A	Campanula rotundifolia	Harebell / Bluebell	Sherwood; Dana Scott	medium	Two proposers agree
+f33r	herbal_A	Silene vulgaris	Bladder Campion	Sherwood	low-medium	Bladder calyx is distinctive
+f33v	herbal_A	Tanacetum parthenium	Feverfew	Sherwood	low-medium	Well-known medicinal herb
+f33v	herbal_A	Helianthus annuus	Sunflower	Brumbaugh (1970s)	low	Disputed; Stolfi showed weak resemblance; O'Neill's sunflower is actually f93r
+f34r	herbal_A	Cirsium arvense	Canada Thistle	Steve D	low	Single proposer
+f34r	herbal_A	Anemone hortensis	Garden Anemone	Dana Scott	low	Single proposer
+f34v	herbal_A	Lunaria annua	Honesty / Money Plant	Sherwood; Dana Scott	medium	Two proposers agree; distinctive round seed pods
+f35r	herbal_A	Cichorium intybus	Radicchio / Chicory	Sherwood; Dana Scott	medium	Two proposers agree
+f35v	herbal_A	Ribes nigrum	Blackcurrant	Sherwood; Dana Scott	medium	Two proposers agree
+f35v	herbal_A	Hedera helix	Ivy	voynich.nu (multiple)	medium	Noted "striking similarity" to Paris MS BN Lat.6823 f60r; "inconceivable that it was not in some way inspired"
+f36r	herbal_A	Delphinium staphisagria	Stavesacre / Delphinium	Sherwood; Dana Scott	medium	Two proposers agree
+f36v	herbal_A	Lamium amplexicaule	Henbit Dead-nettle	Sherwood; Dana Scott	medium	Two proposers agree
+f37r	herbal_A	Mentha longifolia	Horse Mint / Wild Mint	Sherwood; Dana Scott	medium	Two proposers agree
+f37v	herbal_A	Emilia fosbergii	Tassel Flower	Sherwood; Dana Scott	low-medium	Tropical weed; provenance questionable
+f38r	herbal_A	Equisetum arvense	Horsetail	Steve D	low	Single proposer; Sherwood left unidentified
+f38v	herbal_A	Lythrum salicaria	Purple Loosestrife	Steve D	low	Single proposer
+f38v	herbal_A	Euphorbia myrsinites	Myrtle Spurge	Dana Scott	low	Different from Steve D
+f39r	herbal_A	Crocus sativus	Saffron Crocus	Ethel Voynich; Steve D	medium	Two proposers across time; high-value spice; recognizable morphology
+f39v	herbal_A	Tagetes patula	French Marigold	Steve D	low	New World species if correct
+f40r	herbal_A	Erodium malacoides	Mallow-leaved Stork's Bill	Sherwood; Dana Scott	medium	Two proposers agree
+f40v	herbal_A	Crocus vernus	Giant Crocus / Spring Crocus	Sherwood; Dana Scott	medium	Two proposers agree
+f41r	herbal_A	Origanum vulgare	Wild Marjoram / Oregano	Sherwood; Dana Scott	medium	Two proposers agree; common culinary herb
+f41v	herbal_A	Coriandrum sativum	Coriander / Cilantro	Sherwood; Dana Scott	medium	Two proposers agree; well-known herb
+f42r	herbal_A	Rhus aromatica	Fragrant Sumac	Steve D	low	Single proposer; New World
+f42r	herbal_A	Typhonium flagelliforme	Rodent Tuber	Steve D	low	Tropical Asian species
+f42v	herbal_A	Aquilegia vulgaris	European Columbine	Sherwood; Dana Scott	medium	Two proposers agree; distinctive spurred flowers
+f43r	herbal_A	Stellaria media	Common Chickweed	Sherwood; Dana Scott	medium	Two proposers agree
+f43v	herbal_A	Fagopyrum esculentum	Buckwheat	Steve D	low	Single proposer
+f43v	herbal_A	Elytrigia repens	Couch Grass	Dana Scott	low	Different from Steve D
+f44r	herbal_A	Mandragora officinarum	Mandrake	Sherwood; Dana Scott	medium	Two proposers agree; anthropomorphic root drawing common in herbals
+f44v	herbal_A	Apium graveolens	Celery / Smallage	Sherwood; Dana Scott	medium	Two proposers agree
+f45r	herbal_A	Atriplex hortensis	Garden Orach / Saltbush	Sherwood; Dana Scott	medium	Two proposers agree
+f45v	herbal_A	Lavandula angustifolia	Lavender	Sherwood; Dana Scott	medium	Two proposers agree; common medicinal herb
+f46r	herbal_A	Leucanthemum vulgare	Oxeye Daisy	Sherwood; Dana Scott	medium	Two proposers agree
+f46v	herbal_A	Inula conyza	Ploughman's Spikenard	Sherwood; Dana Scott	medium	Two proposers agree
+f46v	herbal_A	Tanacetum balsamita	Costmary	Ellie Velinska	low	Alternative to Sherwood; costmary may be anachronistic
+f47r	herbal_A	Sempervivum tectorum	Houseleek / Hen and Chicks	Sherwood	low-medium	Distinctive rosette morphology
+f47r	herbal_A	Alchemilla vulgaris	Lady's Mantle	Dana Scott	low	Different from Sherwood
+f47v	herbal_A	Pulmonaria officinalis	Lungwort	Sherwood; Dana Scott	medium	Two proposers agree
+f48r	herbal_A	Hyoscyamus niger	Henbane	Steve D	low	Single proposer
+f48r	herbal_A	Adonis vernalis	Yellow Pheasant's Eye	Dana Scott	low	Different from Steve D
+f48v	herbal_A	Ruta graveolens	Rue / Herb of Grace	Sherwood; Dana Scott	medium	Two proposers agree; important medicinal herb
+f49r	herbal_A	Nymphaea caerulea	Blue Nile Lotus	Sherwood; Dana Scott	low-medium	Egyptian species; provenance question
+f49v	herbal_A	Centella asiatica	Gotu Kola	Steve D	low	Asian species
+f50r	herbal_A	Astrantia major	Great Masterwort	Sherwood; Dana Scott	medium	Two proposers agree
+f50v	herbal_A	Gentiana frigida	Fringed Gentian	Sherwood; Dana Scott	medium	Two proposers agree
+f51r	herbal_A	Cakile maritima	European Sea Rocket	Sherwood	low-medium	Single proposer
+f51v	herbal_A	Salvia officinalis	Common Sage	Sherwood; Dana Scott	medium	Two proposers agree; major medicinal herb
+f52r	herbal_A	Anemone coronaria	Poppy Anemone	Sherwood; Dana Scott	medium	Two proposers agree
+f52v	herbal_A	Athyrium filix-femina	Lady Fern	Sherwood	low-medium	Fern; possibly the "maidenhair fern" cited by Wikipedia as certain
+f53r	herbal_A	Achillea ptarmica	Sneezewort	Sherwood; Dana Scott	medium	Two proposers agree
+f53v	herbal_A	Hieracium aurantiacum	Orange Hawkweed	Sherwood; Dana Scott	medium	Two proposers agree
+f54r	herbal_A	Cirsium oleraceum	Cabbage Thistle	Sherwood; Dana Scott	medium	Two proposers agree
+f54v	herbal_A	Perovskia atriplicifolia	Russian Sage	Sherwood	low	Central Asian species
+f54v	herbal_A	Solanum dulcamara	Bittersweet Nightshade	Dana Scott	low	Different from Sherwood
+f55r	herbal_A	Fumaria officinalis	Common Fumitory	Sherwood; Dana Scott	medium	Two proposers agree
+f55v	herbal_A	Brassica oleracea	Broccoli / Wild Cabbage	Sherwood	low-medium	Single proposer
+f56r	herbal_A	Drosera intermedia	Oblong-leaved Sundew	Sherwood; Dana Scott	medium-high	Multiple proposers; distinctive carnivorous morphology widely noted
+f56v	herbal_A	Cycas revoluta	Sago Palm	Sherwood	low	Cycad; East Asian provenance question
+f57r	herbal_A	Sherardia arvensis	Blue Field Madder	Sherwood	low-medium	Single proposer
+f65r	herbal_B	Alchemilla vulgaris	Lady's Mantle	Sherwood; Dana Scott	medium	Two proposers agree
+f65v	herbal_B	Centaurea cyanus	Cornflower	Sherwood	low-medium	Single proposer
+f66v	herbal_B	Satureja montana	Winter Savory	Sherwood	low-medium	Single proposer
+f87r	pharma	Satureja hortensis	Summer Savory	Sherwood	low-medium	Single proposer
+f87v	pharma	Primula vulgaris	Primrose	Sherwood	low-medium	Left-side plant
+f87v	pharma	Pedicularis flammea	Flame Lousewort	Sherwood	low	Right-side plant; arctic species
+f89v	pharma	Zantedeschia sp.	Calla Lily	Ethel Voynich	low	Middle bottom position; Southern African species
+f89v	pharma	Actaea spicata	Baneberry	Dana Scott	low	Different from Voynich ID
+f90r	pharma	Papaver somniferum	Opium Poppy	Ethel Voynich	medium	Important medicinal/narcotic; recognizable morphology
+f90r	pharma	Campanula rapunculoides	Creeping Bellflower	Steve D	low	Different from Voynich ID
+f90v	pharma	Eruca vesicaria	Arugula / Rocket	Sherwood; Dana Scott	medium	Two proposers agree
+f90v	pharma	Conyza bonariensis	Fleabane	Sherwood	low	Additional plant on same folio
+f93r	pharma	Helianthus annuus	Sunflower	O'Neill (1944); Tucker & Janick	medium	One of earliest and most famous IDs; confirmed by Guy (1991); disputed by Stolfi; New World plant
+f93r	pharma	Cynara cardunculus	Artichoke / Cardoon	Dana Scott	low	Alternative to sunflower ID
+f93v	pharma	Actaea rubra	Red Baneberry	Steve D	low	Single proposer
+f93v	pharma	Lupinus sp.	Lupin	Dana Scott	low	Single proposer
+f94r	pharma	Botrychium lunaria	Moonwort / Moonfern	Dana Scott; Sherwood	medium	Two proposers agree; distinctive frond morphology
+f94v	pharma	Agrostemma githago	Corncockle	Sherwood; Dana Scott	medium	Two proposers agree
+f95r	pharma	Glycyrrhiza glabra	Liquorice	Sherwood	low-medium	Important medicinal root
+f95r	pharma	Plantago lanceolata	Ribwort Plantain	Sherwood	low-medium	Very common medicinal herb
+f95v	pharma	Althaea rosea	Hollyhock	Sherwood; Dana Scott	medium	Two proposers agree
+f95v	pharma	Sambucus nigra	Elderberry	Sherwood; Dana Scott	medium	Two proposers agree
+f96r	pharma	Helleborus foetidus	Stinking Hellebore	Steve D	low	Single proposer
+f96r	pharma	Angelica archangelica	Garden Angelica	Dana Scott	low	Different from Steve D
+f96v	pharma	Tamus communis	Black Bryony	Sherwood; Dana Scott	medium	Two proposers agree
+f99v	pharma	Dionaea muscipula	Venus Flytrap	Steve D	low	New World species; highly controversial
+f100r	pharma	Capsicum annuum	Capsicum Pepper	O'Neill (1944)	low-medium	One of earliest IDs; upper right corner; New World; "no longer generally accepted" per voynich.nu
+f100r	pharma	Opuntia ficus-indica	Prickly Pear Cactus	Tucker & Talbert (2013)	low	Plant #8 on f100r; "obviously a cactus pad or fruit"; disputed by Petersen
+f101v	pharma	Zingiber officinale	Ginger	Steve D	low	Single proposer
