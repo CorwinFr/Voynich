@@ -1,0 +1,65 @@
+{
+  "cribs": {
+    "aquam": {
+      "total_occurrences": 2,
+      "unique_eva_tokens": 1,
+      "top_5_sources": [
+        [
+          "okom",
+          2
+        ]
+      ],
+      "one_to_one": true
+    },
+    "coque": {
+      "total_occurrences": 0,
+      "unique_eva_tokens": 0,
+      "top_5_sources": [],
+      "one_to_one": false
+    },
+    "hiera": {
+      "total_occurrences": 0,
+      "unique_eva_tokens": 0,
+      "top_5_sources": [],
+      "one_to_one": false
+    },
+    "aloes": {
+      "total_occurrences": 0,
+      "unique_eva_tokens": 0,
+      "top_5_sources": [],
+      "one_to_one": false
+    },
+    "ciere": {
+      "total_occurrences": 96,
+      "unique_eva_tokens": 2,
+      "top_5_sources": [
+        [
+          "shor",
+          95
+        ],
+        [
+          "sher",
+          1
+        ]
+      ],
+      "one_to_one": false
+    },
+    "curam": {
+      "total_occurrences": 0,
+      "unique_eva_tokens": 0,
+      "top_5_sources": [],
+      "one_to_one": false
+    },
+    "recipe": {
+      "total_occurrences": 0,
+      "unique_eva_tokens": 0,
+      "top_5_sources": [],
+      "one_to_one": false
+    }
+  },
+  "consistency": {
+    "consistent_tokens": 3,
+    "inconsistent_tokens": 0,
+    "pct_consistent": 100.0
+  }
+}

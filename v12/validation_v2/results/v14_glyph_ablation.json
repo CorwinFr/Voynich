@@ -1,0 +1,409 @@
+{
+  "baseline": 36.7,
+  "ablations": {
+    "a": {
+      "without_pct": 34.6,
+      "drop": 2.1,
+      "original_values": [
+        [
+          "u",
+          0.6
+        ],
+        [
+          "a",
+          0.4
+        ]
+      ]
+    },
+    "aiin": {
+      "without_pct": 36.7,
+      "drop": 0.0,
+      "original_values": [
+        [
+          "ura",
+          0.35
+        ],
+        [
+          "ure",
+          0.25
+        ],
+        [
+          "uram",
+          0.25
+        ]
+      ]
+    },
+    "b": {
+      "without_pct": 36.7,
+      "drop": 0.0,
+      "original_values": [
+        [
+          "b",
+          1.0
+        ]
+      ]
+    },
+    "c": {
+      "without_pct": 36.7,
+      "drop": 0.0,
+      "original_values": [
+        [
+          "c",
+          1.0
+        ]
+      ]
+    },
+    "cfh": {
+      "without_pct": 36.7,
+      "drop": 0.0,
+      "original_values": [
+        [
+          "pi",
+          0.6
+        ],
+        [
+          "fi",
+          0.4
+        ]
+      ]
+    },
+    "ch": {
+      "without_pct": 37.5,
+      "drop": -0.8,
+      "original_values": [
+        [
+          "i",
+          1.0
+        ]
+      ]
+    },
+    "ckh": {
+      "without_pct": 36.6,
+      "drop": 0.2,
+      "original_values": [
+        [
+          "qui",
+          0.7
+        ],
+        [
+          "aqui",
+          0.3
+        ]
+      ]
+    },
+    "cph": {
+      "without_pct": 36.6,
+      "drop": 0.1,
+      "original_values": [
+        [
+          "pi",
+          1.0
+        ]
+      ]
+    },
+    "cth": {
+      "without_pct": 35.9,
+      "drop": 0.8,
+      "original_values": [
+        [
+          "li",
+          0.5
+        ],
+        [
+          "ili",
+          0.5
+        ]
+      ]
+    },
+    "d": {
+      "without_pct": 36.7,
+      "drop": -0.0,
+      "original_values": [
+        [
+          "d",
+          0.4
+        ],
+        [
+          "de",
+          0.3
+        ],
+        [
+          "ed",
+          0.3
+        ]
+      ]
+    },
+    "e": {
+      "without_pct": 35.5,
+      "drop": 1.2,
+      "original_values": [
+        [
+          "o",
+          0.5
+        ],
+        [
+          "e",
+          0.5
+        ]
+      ]
+    },
+    "f": {
+      "without_pct": 36.6,
+      "drop": 0.1,
+      "original_values": [
+        [
+          "par",
+          0.3
+        ],
+        [
+          "per",
+          0.3
+        ],
+        [
+          "p",
+          0.2
+        ]
+      ]
+    },
+    "g": {
+      "without_pct": 36.8,
+      "drop": -0.1,
+      "original_values": [
+        [
+          "g",
+          1.0
+        ]
+      ]
+    },
+    "h": {
+      "without_pct": 36.7,
+      "drop": 0.0,
+      "original_values": [
+        [
+          "h",
+          1.0
+        ]
+      ]
+    },
+    "i": {
+      "without_pct": 36.2,
+      "drop": 0.5,
+      "original_values": [
+        [
+          "i",
+          1.0
+        ]
+      ]
+    },
+    "iin": {
+      "without_pct": 33.9,
+      "drop": 2.8,
+      "original_values": [
+        [
+          "ura",
+          0.4
+        ],
+        [
+          "ure",
+          0.3
+        ],
+        [
+          "ur",
+          0.2
+        ]
+      ]
+    },
+    "k": {
+      "without_pct": 36.4,
+      "drop": 0.3,
+      "original_values": [
+        [
+          "c",
+          0.5
+        ],
+        [
+          "qu",
+          0.5
+        ]
+      ]
+    },
+    "l": {
+      "without_pct": 35.4,
+      "drop": 1.3,
+      "original_values": [
+        [
+          "s",
+          0.6
+        ],
+        [
+          "ce",
+          0.4
+        ]
+      ]
+    },
+    "m": {
+      "without_pct": 36.1,
+      "drop": 0.6,
+      "original_values": [
+        [
+          "m",
+          1.0
+        ]
+      ]
+    },
+    "n": {
+      "without_pct": 36.7,
+      "drop": 0.0,
+      "original_values": [
+        [
+          "n",
+          1.0
+        ]
+      ]
+    },
+    "o": {
+      "without_pct": 29.5,
+      "drop": 7.2,
+      "original_values": [
+        [
+          "e",
+          0.5
+        ],
+        [
+          "a",
+          0.5
+        ]
+      ]
+    },
+    "p": {
+      "without_pct": 36.3,
+      "drop": 0.5,
+      "original_values": [
+        [
+          "per",
+          0.5
+        ],
+        [
+          "p",
+          0.3
+        ],
+        [
+          "pe",
+          0.2
+        ]
+      ]
+    },
+    "q": {
+      "without_pct": 36.5,
+      "drop": 0.2,
+      "original_values": [
+        [
+          "co",
+          0.5
+        ],
+        [
+          "con",
+          0.3
+        ],
+        [
+          "cum",
+          0.2
+        ]
+      ]
+    },
+    "r": {
+      "without_pct": 30.6,
+      "drop": 6.1,
+      "original_values": [
+        [
+          "re",
+          0.5
+        ],
+        [
+          "r",
+          0.3
+        ],
+        [
+          "ra",
+          0.2
+        ]
+      ]
+    },
+    "s": {
+      "without_pct": 35.7,
+      "drop": 1.0,
+      "original_values": [
+        [
+          "us",
+          0.4
+        ],
+        [
+          "su",
+          0.3
+        ],
+        [
+          "s",
+          0.3
+        ]
+      ]
+    },
+    "sh": {
+      "without_pct": 35.4,
+      "drop": 1.3,
+      "original_values": [
+        [
+          "ci",
+          1.0
+        ]
+      ]
+    },
+    "t": {
+      "without_pct": 33.1,
+      "drop": 3.6,
+      "original_values": [
+        [
+          "el",
+          0.5
+        ],
+        [
+          "l",
+          0.3
+        ],
+        [
+          "le",
+          0.2
+        ]
+      ]
+    },
+    "v": {
+      "without_pct": 36.7,
+      "drop": 0.0,
+      "original_values": [
+        [
+          "v",
+          1.0
+        ]
+      ]
+    },
+    "x": {
+      "without_pct": 36.7,
+      "drop": 0.0,
+      "original_values": [
+        [
+          "x",
+          1.0
+        ]
+      ]
+    },
+    "y": {
+      "without_pct": 31.7,
+      "drop": 5.0,
+      "original_values": [
+        [
+          "n",
+          1.0
+        ]
+      ]
+    }
+  }
+}

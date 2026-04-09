@@ -1,0 +1,11 @@
+{
+  "ka_with_scorer_pct": 36.7,
+  "random_with_scorer_avg": 18.4,
+  "random_with_scorer_max": 28.6,
+  "random_with_scorer_min": 10.5,
+  "random_with_scorer_std": 4.0,
+  "z_score_ka_vs_random": 4.6,
+  "n_trials": 200,
+  "n_sample": 3699,
+  "verdict": "WEAK SIGNAL: K&A marginally better than random+scorer"
+}
