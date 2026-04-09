@@ -1,0 +1,322 @@
+{
+  "total": 36983,
+  "stats": {
+    "logogram": 8149,
+    "prefix_root": 6905,
+    "gallows_strip": 526,
+    "k_strip": 386,
+    "prefix_only": 11474,
+    "unknown": 9543
+  },
+  "known": 15966,
+  "known_pct": 43.2,
+  "perseus_pct": 78.2,
+  "perseus_5plus_pct": 43.4,
+  "unique_vocab": 106,
+  "top_30": [
+    [
+      "eius",
+      1709
+    ],
+    [
+      "eius et",
+      1570
+    ],
+    [
+      "iure",
+      1350
+    ],
+    [
+      "in",
+      1245
+    ],
+    [
+      "es",
+      964
+    ],
+    [
+      "ura",
+      863
+    ],
+    [
+      "hiera",
+      745
+    ],
+    [
+      "cies",
+      573
+    ],
+    [
+      "cibo et",
+      526
+    ],
+    [
+      "et",
+      404
+    ],
+    [
+      "recipe",
+      384
+    ],
+    [
+      "iera",
+      381
+    ],
+    [
+      "ciere",
+      381
+    ],
+    [
+      "on",
+      293
+    ],
+    [
+      "cum",
+      262
+    ],
+    [
+      "quin",
+      197
+    ],
+    [
+      "est",
+      184
+    ],
+    [
+      "edura",
+      169
+    ],
+    [
+      "cibus",
+      168
+    ],
+    [
+      "ie",
+      167
+    ],
+    [
+      "tere et",
+      162
+    ],
+    [
+      "coque",
+      158
+    ],
+    [
+      "cibo",
+      156
+    ],
+    [
+      "aloes",
+      135
+    ],
+    [
+      "ciens",
+      135
+    ],
+    [
+      "dum",
+      133
+    ],
+    [
+      "eius hiera",
+      129
+    ],
+    [
+      "ire",
+      112
+    ],
+    [
+      "rens",
+      106
+    ],
+    [
+      "aratura",
+      96
+    ]
+  ],
+  "sample_pharma": [
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "hiera [PROCESSED] [olfy] [RAW] [ofchy] _otoralchy_ [PROCESSED] [ofchol] [RAW] est _otaly_ in [l]",
+      "eva": "kor cholfy shofchy otoralchy chofchol sholy otaly dal"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "in [shodal] hiera quin ex eius iure iure _tal_ in [tal] in iure ex [chokal]",
+      "eva": "dshodal or ckhy olchear char tal ytal ytar olchokal"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "in [kechod] in [laldam] in [tam] [PROCESSED] [oty] in _otaly_ [RAW] [oty]",
+      "eva": "ykechod dalaldam ytam choty otchy otaly shoty"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "deciere [RAW] [olar] _aiin_ [RAW] [alom] [RAW] [aly] in [lchy] _oteom_ in [l] [RAW] [olala]",
+      "eva": "dshor sholar aiin shalom shaly dalchy oteom dal sholala"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "cum recipe in [chair] cum iure iure iure iure _al_ iure iure _ary_ in [talar] [PROCESSED] cum",
+      "eva": "qor dchair am otar otar char ar al char ar ary ytalar cham"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "_torchey_ _otaiin_ [PROCESSED] [ary] _oteor_ _otal_ in [lchor] in [keey] [PROCESSED] [oltam]",
+      "eva": "torchey otaiin chary oteor otal dalchor ykeey choltam"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "_saiin_ [PROCESSED] [olkeey] in [l] [RAW] em [RAW] [olteol] in [talody] on [PROCESSED] [eoly] libra",
+      "eva": "saiin cholkeey dal shom sholteol ytalody otey cheoly tchy"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "ex [eeshal] ex [eeam] dolor in _oteodchy_ in [teochy] on cus et _alam_",
+      "eva": "toleeshal oleeam dalor chy oteodchy yteochy otey kal dy alam"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "[RAW] [olaiin] eius in [teodaiin] cum iure _aiin_ _arary_ ciere in ura _alam_",
+      "eva": "sholaiin cheey yteodaiin qoar aiin arary sheey daiin alam"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "_tal_ iure cum [RAW] iure [PROCESSED] [epchey] iure _aldy_ _otal_ [PROCESSED] [eam] cum [aiin] _ote_ re in",
+      "eva": "tal ar am shar chepchey otar aldy otal cheam qokaiin ote ry"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "cum [cphody] cum [alam] [PROCESSED] [airal] cum [aiin] _otalal_ dolor _orar_",
+      "eva": "qocphody qokalam chairal qoaiin otalal dalor orar"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "[RAW] [oar] iure [PROCESSED] [oldal] _otalchal_ in [l] [PROCESSED] es et _okalys_ _airaldy_ [RAW] iure",
+      "eva": "shoar ar choldal otalchal dal choldy okalys airaldy shar"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "in iure [RAW] [eear] [PROCESSED] [eoldy] in [keol] [PROCESSED] [eal] eius et ius [PROCESSED] [aiin] es est",
+      "eva": "ytar sheear cheoldy ykeol cheal cheody chal chaiin ol oly"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "[RAW] [aram] _okair_ [PROCESSED] [ekaiin] in [tchaly] in [lchal] in cus _okalal_ est ius",
+      "eva": "sharam okair chekaiin ytchaly dalchal ykal okalal oly chal"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "in [iir] cius cum [paim] [PROCESSED] [olaly] et cibo et",
+      "eva": "daiir shal qopaim cholaly dy shedy"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "in [pchey] iure _air_ in [tashy] cum [yshey] [P]eius et in [shaly] in [daly] [PROCESSED] [oky] _opy_",
+      "eva": "typchey ar air ytashy qotyshey pchdy dshaly pydaly choky opy"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "in [sholshy] cum est in ura in cus in [lchdy] coque in [l] in [tchody] ex iure _aly_",
+      "eva": "ysholshy qotoly daiin ykal dalchdy qoky dal ytchody olar aly"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "in [rar] cies [PROCESSED] [olraly] [PROCESSED] [olaiin] edura [PROCESSED] [aly] dolore _aiin_ _okal_ _otal_",
+      "eva": "darar shol cholraly cholaiin odaiin chaly dalar aiin okal otal"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "_todal_ cum on [PROCESSED] [aly] in [l] cum [aldy] _otary_ _okalal_ _ees_ ius _achaly_",
+      "eva": "todal qotey chaly dal qokaldy otary okalal ees chal achaly"
+    },
+    {
+      "folio": "F58R",
+      "section": "S",
+      "decoded": "in [sheockhy] ex eius ex [eesey] _alaiin_ ex [keal] in [ldy] _otalar_ iure _arodam_",
+      "eva": "ysheockhy olchey oleesey alaiin olkeal daldy otalar ar arodam"
+    }
+  ],
+  "sample_herbal": [
+    {
+      "folio": "F1V",
+      "section": "H",
+      "decoded": "_kchsy_ [PROCESSED] [ydaiin] es [T]eius iure _cfhar_ cum",
+      "eva": "kchsy chydaiin ol tchey char cfhar am"
+    },
+    {
+      "folio": "F1V",
+      "section": "H",
+      "decoded": "in [teey] iure hiera _ochy_ in ie ex [kody] _okodar_ [PROCESSED] [ody]",
+      "eva": "yteey char or ochy dcho lkody okodar chody"
+    },
+    {
+      "folio": "F1V",
+      "section": "H",
+      "decoded": "in u quin _ckhockhy_ cibus in ciere _cthy_ _kotchody_ in [l]",
+      "eva": "da ckhy ckhockhy shy dksheey cthy kotchody dal"
+    },
+    {
+      "folio": "F1V",
+      "section": "H",
+      "decoded": "in es [PROCESSED] [okeo] in ire dum _sochey_ [PROCESSED] [okody]",
+      "eva": "dol chokeo dair dam sochey chokody"
+    },
+    {
+      "folio": "F1V",
+      "section": "H",
+      "decoded": "[P] en cies in ire _cphoal_ in recipe eius _tody_ _otoaiin_ [RAW] [oshy]",
+      "eva": "potoy shol dair cphoal dar chey tody otoaiin shoshy"
+    },
+    {
+      "folio": "F1V",
+      "section": "H",
+      "decoded": "[PROCESSED] [oky] eius _ctho_ cies _okal_ in [olchey] [PROCESSED] [odo] ex es in _cthy_",
+      "eva": "choky chol ctho shol okal dolchey chodo lol chy cthy"
+    },
+    {
+      "folio": "F1V",
+      "section": "H",
+      "decoded": "_qo_ es [PROCESSED] [oees] eius in es _cthey_ in cis in es in [olo] in cis in ac ex [chiody]",
+      "eva": "qo ol choees cheol dol cthey ykol dol dolo ykol do lchiody"
+    },
+    {
+      "folio": "F1V",
+      "section": "H",
+      "decoded": "_okolshol_ cis _kechy_ eius in eius _cthol_ [PROCESSED] [ody] eius in ura",
+      "eva": "okolshol kol kechy chol ky chol cthol chody chol daiin"
+    },
+    {
+      "folio": "F1V",
+      "section": "H",
+      "decoded": "ciere es eius in es in in recipe cies in iera [T]ie in recipe _ody_",
+      "eva": "shor okol chol dol ky dar shol dchor tcho dar ody"
+    },
+    {
+      "folio": "F1V",
+      "section": "H",
+      "decoded": "_taor_ [PROCESSED] [otchey] in [l] [PROCESSED] [ody] _schody_ [P]es [PROCESSED] [odar]",
+      "eva": "taor chotchey dal chody schody pol chodar"
+    }
+  ]
+}
