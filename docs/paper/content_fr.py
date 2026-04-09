@@ -44,11 +44,11 @@ def build_story_fr():
     story.append(gold_rule(50, 2))
     story.append(Spacer(1, 8*mm))
     story.append(Paragraph(
-        "Le Manuscrit de Voynich<br/>Journal d'un Décryptage", s_title_main))
+        "Le Manuscrit de Voynich<br/>Journal d'une Avancée", s_title_main))
     story.append(Spacer(1, 5*mm))
     story.append(Paragraph(
-        "Comment un directeur IA et une intelligence artificielle<br/>"
-        "ont tenté de lire le livre le plus mystérieux du monde", s_title_sub))
+        "Quand un directeur IA et une intelligence artificielle<br/>"
+        "s'attaquent au livre le plus mystérieux du monde", s_title_sub))
     story.append(Spacer(1, 8*mm))
     story.append(gold_rule(50, 2))
     story.append(Spacer(1, 12*mm))
