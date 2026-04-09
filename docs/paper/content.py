@@ -47,7 +47,7 @@ def build_story():
     story.append(Spacer(1, 4*mm))
     s_collab = ParagraphStyle('collab', fontSize=9, leading=12, textColor=WARM_GRAY,
         alignment=TA_CENTER, fontName='Helvetica-Oblique', spaceAfter=2*mm)
-    story.append(Paragraph("in collaboration with", s_collab))
+    story.append(Paragraph("assisted by", s_collab))
     story.append(Paragraph("Claude (Anthropic, Opus 4.6)", s_author))
     story.append(Paragraph("AI Research Assistant", s_affil))
     story.append(Spacer(1, 10*mm))
@@ -611,7 +611,7 @@ def build_story():
         "his children <b>Mathis</b> and <b>Margaux</b>, whose patience and support made "
         "this journey possible.", s_ack))
     story.append(Paragraph(
-        "This work was conducted in collaboration with <b>Claude</b> (Anthropic, Opus 4.6). "
+        "This work was conducted with the assistance of <b>Claude</b> (Anthropic, Opus 4.6). "
         "The human-AI collaborative methodology represents one of the first applications of "
         "large language models to historical cryptanalysis.", s_ack))
     story.append(Paragraph(
