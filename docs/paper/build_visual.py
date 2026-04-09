@@ -111,6 +111,24 @@ def build():
         col_widths=[45*mm, 115*mm]))
     story.append(Paragraph("Table 1. Summary metrics.", s_caption))
 
+    story.append(Spacer(1, 3*mm))
+    story.append(Paragraph("<b>Contents</b>", s_vbold))
+    toc_style = ParagraphStyle('TOC', fontSize=8.5, leading=11,
+        textColor=DEEP_BLUE, fontName='Helvetica', spaceAfter=0.5*mm)
+    for item in [
+        "1. How the Pipeline Works (diagram, worked example, 13 prefix rules)",
+        "2. The K&A Phonetic Mapping (glyph table, logograms)",
+        "3. Key Findings (f103r ingredients, INELIODE, astronomical pages)",
+        "4. Complete Pharmaceutical Vocabulary (33 terms with source folios)",
+        "5. Manuscript Sections and Folio Index (226 folio sides)",
+        "6. Folio f57v, Possible Volvelle (structure, Ashmole 370 comparison)",
+        "7. Cipher Model and Validation (3 layers, per-folio chart)",
+        "8. What Does Not Work (9 known limitations)",
+        "9. An Invitation (open source links)",
+        "Appendix: Complete Decoded Text (226 folios)",
+    ]:
+        story.append(Paragraph(item, toc_style))
+
     story.append(PageBreak())
 
     # ═══════════════════════════════════════
@@ -260,9 +278,96 @@ def build():
     story.append(PageBreak())
 
     # ═══════════════════════════════════════
+    # PAGE 4b : COMPLETE INGREDIENT TABLE
+    # ═══════════════════════════════════════
+    story.append(Paragraph("Complete Pharmaceutical Vocabulary (33 terms)", s_h1))
+    story.append(blue_rule())
+
+    story.append(make_table(
+        ["Latin", "English", "Type", "Source folio(s)"],
+        [
+            ["aloe/aloes",   "aloe",           "Ingredient", "Corpus-wide"],
+            ["ture/turis",   "frankincense",    "Ingredient", "f103r, f85r1"],
+            ["sal",          "salt",            "Ingredient", "f103r, f107v"],
+            ["olei/oleo",    "oil",             "Ingredient", "Corpus-wide"],
+            ["aceto/aceti",  "vinegar",         "Ingredient", "f103r, f67r2"],
+            ["cerae/cera",   "wax",             "Ingredient", "f103r, f108v"],
+            ["mel",          "honey",           "Ingredient", "f103r"],
+            ["iecur",        "liver",           "Ingredient", "f103r, f106r"],
+            ["asari/asarum", "asarabacca",      "Ingredient", "f85r1, f103r"],
+            ["nardi",        "spikenard",       "Ingredient", "f67r2, f85r1"],
+            ["cassiae",      "cinnamon",        "Ingredient", "f67v1"],
+            ["apii/apium",   "celery/parsley",  "Ingredient", "f85r1"],
+            ["vini",         "wine",            "Ingredient", "f67r1"],
+            ["croci",        "saffron",         "Ingredient", "Multiple"],
+            ["sapa",         "must syrup",      "Ingredient", "f57v"],
+            ["succi",        "juice",           "Ingredient", "Pharma section"],
+            ["hiera",        "compound drug",   "Ingredient", "Corpus-wide"],
+            ["cicura",       "hemlock remedy",  "Ingredient", "Corpus-wide"],
+            ["enula/inula",  "elecampane",      "Ingredient", "f33r"],
+            ["pepe",         "pepper (Italian)","Ingredient", "Herbal section"],
+            ["lilie",        "lily (Italian)",  "Ingredient", "Herbal section"],
+            ["cardamomi",    "cardamom",        "Ingredient", "Pharma section"],
+            ["costi",        "costus",          "Ingredient", "Pharma section"],
+            ["coque",        "cook/boil",       "Verb",       "f103r (17x)"],
+            ["recipe",       "take (Rx)",       "Verb",       "Corpus-wide"],
+            ["misce",        "mix",             "Verb",       "Corpus-wide"],
+            ["tere",         "grind",           "Verb",       "f103r, f33r"],
+            ["cola",         "strain",          "Verb",       "f103r"],
+            ["ciere",        "stir/move",       "Verb",       "Corpus-wide"],
+            ["equaliter",    "equal parts",     "Marker",     "f41r, f75r, f103r"],
+            ["dolorem",      "pain",            "Symptom",    "f108v"],
+        ],
+        col_widths=[24*mm, 24*mm, 18*mm, 40*mm]))
+    story.append(Paragraph("Table 7b. All 33 pharmaceutical terms with source folios.", s_caption))
+
+    story.append(PageBreak())
+
+    # ═══════════════════════════════════════
+    # PAGE 4c : MANUSCRIPT SECTIONS + FOLIO LIST
+    # ═══════════════════════════════════════
+    story.append(Paragraph("Manuscript Sections and Folio Index", s_h1))
+    story.append(blue_rule())
+
+    story.append(make_table(
+        ["Section", "Code", "Folios", "Content", "Medieval tradition"],
+        [
+            ["Herbal",          "H", "129", "Plant monographs with preparations", "Circa Instans"],
+            ["Pharmaceutical",  "S+P","41", "Compound recipes, multi-ingredient", "Antidotarium Nicolai"],
+            ["Balneological",   "B",  "19", "Hydrotherapy protocols",             "De Balneis Puteolanis"],
+            ["Zodiac",          "Z",  "12", "Purge/bloodletting calendar",        "Medical astrology"],
+            ["Cosmological",    "C",  "10", "Framework, volvelle f57v",           "Galenic humoral theory"],
+            ["Astronomical",    "A",   "8", "Recipes tied to stellar positions",  "Iatromathematics"],
+            ["Transitional",    "T",   "7", "Title/boundary pages",              ""],
+        ],
+        col_widths=[24*mm, 10*mm, 12*mm, 44*mm, 36*mm]))
+    story.append(Paragraph("Table 8. Manuscript sections (226 folio sides, 38,442 words).", s_caption))
+
+    story.append(Paragraph("<b>Key folios at a glance</b>", s_vbold))
+    story.append(make_table(
+        ["Folio", "Sec.", "Words", "Perseus", "What it contains"],
+        [
+            ["f1r/f1v",  "T/H",  "92",  "90%",  "Opening page, first herbal entry"],
+            ["f33r",     "H",    "74",  "95%",  "INELIODE (Inula helenium), triple convergence"],
+            ["f57v",     "C",   "176",  "70%",  "Volvelle, 29-word lunar ring"],
+            ["f67r",     "A",   "106",  "82%",  "Solar rosette, nardi/cassiae/vini hidden"],
+            ["f71r",     "Z",    "80",  "78%",  "Zodiac (Aries), aloes concentrated"],
+            ["f75r",     "B",   "417",  "95%",  "First balnea, coque 10x"],
+            ["f84v",     "B",   "200",  "93%",  "Last balnea, coque 15x"],
+            ["f85r",     "C",   "180",  "85%",  "Cosmo foldout, asari/nardi/apii"],
+            ["f103r",    "S",   "532",  "91%",  "Pharmaceutical flagship, 7/12 Aurea Alexandrina"],
+            ["f108v",    "S",   "450",  "90%",  "Pharma, dolorem (pain), codura"],
+            ["f116v",    "T",     "2", "100%",  "Last page, 'arere ciere' (to dry, to stir)"],
+        ],
+        col_widths=[16*mm, 10*mm, 14*mm, 16*mm, 80*mm]))
+    story.append(Paragraph("Table 9. Notable folios.", s_caption))
+
+    story.append(PageBreak())
+
+    # ═══════════════════════════════════════
     # PAGE 5 : VOLVELLE
     # ═══════════════════════════════════════
-    story.append(Paragraph("Folio f57v,Possible Volvelle", s_h1))
+    story.append(Paragraph("Folio f57v, Possible Volvelle", s_h1))
     story.append(blue_rule())
     story.append(DrawingFlowable(make_volvelle_diagram()))
     story.append(Paragraph("Figure 2. f57v volvelle structure (schematic).", s_caption))
