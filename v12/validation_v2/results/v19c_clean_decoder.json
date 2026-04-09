@@ -1,0 +1,98 @@
+{
+  "total": 36983,
+  "stats": {
+    "logogram": 7636,
+    "root_logo": 5407,
+    "k_root_logo": 391,
+    "prefix_only": 14055,
+    "unknown": 9494
+  },
+  "known": 13434,
+  "known_pct": 36.3,
+  "perseus_known_pct": 95.0,
+  "perseus_5plus_pct": 81.1,
+  "mean_word_length": 3.6,
+  "unique_decoded": 306,
+  "top_20": [
+    [
+      "eius",
+      1279
+    ],
+    [
+      "eius et",
+      968
+    ],
+    [
+      "iure",
+      875
+    ],
+    [
+      "es",
+      621
+    ],
+    [
+      "in",
+      549
+    ],
+    [
+      "cies",
+      488
+    ],
+    [
+      "hiera",
+      479
+    ],
+    [
+      "cibo et",
+      454
+    ],
+    [
+      "in recipe",
+      330
+    ],
+    [
+      "ciere",
+      324
+    ],
+    [
+      "et",
+      284
+    ],
+    [
+      "iera",
+      268
+    ],
+    [
+      "cum iure",
+      235
+    ],
+    [
+      "cum in",
+      230
+    ],
+    [
+      "ex eius et",
+      224
+    ],
+    [
+      "cum",
+      173
+    ],
+    [
+      "coque",
+      158
+    ],
+    [
+      "tere et",
+      156
+    ],
+    [
+      "cum eius et",
+      150
+    ],
+    [
+      "cibo",
+      140
+    ]
+  ]
+}

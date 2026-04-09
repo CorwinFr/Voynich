@@ -1,0 +1,560 @@
+{
+  "total_checked": 200,
+  "exact_matches": 29,
+  "logogram_matches": 12,
+  "partial_matches": 10,
+  "total_matches": 51,
+  "top_matches": [
+    {
+      "root": "iin",
+      "count": 858,
+      "decoded": "ura",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "ol",
+      "count": 414,
+      "decoded": "es",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "y",
+      "count": 404,
+      "decoded": "in",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "r",
+      "count": 380,
+      "decoded": "re",
+      "tironian_entries": 1,
+      "frequency": "uncommon",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "ey",
+      "count": 310,
+      "decoded": "on",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "chy",
+      "count": 304,
+      "decoded": "in",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "chey",
+      "count": 286,
+      "decoded": "eius",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "in",
+      "count": 218,
+      "decoded": "in",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "ckhy",
+      "count": 197,
+      "decoded": "quin",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "o",
+      "count": 174,
+      "decoded": "e",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "am",
+      "count": 151,
+      "decoded": "cum",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "chol",
+      "count": 135,
+      "decoded": "eius",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "ir",
+      "count": 111,
+      "decoded": "ire",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "dy",
+      "count": 111,
+      "decoded": "et",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "cheey",
+      "count": 94,
+      "decoded": "eius",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "kain",
+      "count": 94,
+      "decoded": "cui",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "partial"
+    },
+    {
+      "root": "cho",
+      "count": 76,
+      "decoded": "ie",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "cthey",
+      "count": 67,
+      "decoded": "lio",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "partial"
+    },
+    {
+      "root": "s",
+      "count": 63,
+      "decoded": "est",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "oy",
+      "count": 63,
+      "decoded": "en",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "om",
+      "count": 61,
+      "decoded": "em",
+      "tironian_entries": 1,
+      "frequency": "uncommon",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "ckhey",
+      "count": 59,
+      "decoded": "qui",
+      "tironian_entries": 1,
+      "frequency": "uncommon",
+      "domains": [
+        "general"
+      ],
+      "match_type": "partial"
+    },
+    {
+      "root": "cheol",
+      "count": 57,
+      "decoded": "eius",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "pchedy",
+      "count": 55,
+      "decoded": "perio",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "partial"
+    },
+    {
+      "root": "oly",
+      "count": 54,
+      "decoded": "est",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "sal",
+      "count": 51,
+      "decoded": "usus",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "shy",
+      "count": 47,
+      "decoded": "cibus",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "kal",
+      "count": 42,
+      "decoded": "cus",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "an",
+      "count": 40,
+      "decoded": "un",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "key",
+      "count": 37,
+      "decoded": "con",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "ckhol",
+      "count": 34,
+      "decoded": "quies",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "d",
+      "count": 32,
+      "decoded": "de",
+      "tironian_entries": 1,
+      "frequency": "uncommon",
+      "domains": [
+        "general"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "a",
+      "count": 30,
+      "decoded": "u",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "kol",
+      "count": 28,
+      "decoded": "ces",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "as",
+      "count": 28,
+      "decoded": "uus",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "ay",
+      "count": 27,
+      "decoded": "un",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "sh",
+      "count": 26,
+      "decoded": "ci",
+      "tironian_entries": 1,
+      "frequency": "uncommon",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "dam",
+      "count": 26,
+      "decoded": "dum",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "tchy",
+      "count": 25,
+      "decoded": "libra",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "logogram"
+    },
+    {
+      "root": "ckhedy",
+      "count": 25,
+      "decoded": "qui",
+      "tironian_entries": 1,
+      "frequency": "uncommon",
+      "domains": [
+        "general"
+      ],
+      "match_type": "partial"
+    },
+    {
+      "root": "chal",
+      "count": 24,
+      "decoded": "ius",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "cthedy",
+      "count": 24,
+      "decoded": "lio",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "partial"
+    },
+    {
+      "root": "pchdy",
+      "count": 24,
+      "decoded": "per",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "match_type": "partial"
+    },
+    {
+      "root": "ch",
+      "count": 23,
+      "decoded": "i",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "pchy",
+      "count": 23,
+      "decoded": "per",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "match_type": "partial"
+    },
+    {
+      "root": "kam",
+      "count": 23,
+      "decoded": "cum",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "function_word"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "t",
+      "count": 20,
+      "decoded": "el",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "chd",
+      "count": 20,
+      "decoded": "id",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "exact"
+    },
+    {
+      "root": "kair",
+      "count": 20,
+      "decoded": "cui",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "partial"
+    },
+    {
+      "root": "ckhdy",
+      "count": 20,
+      "decoded": "quid",
+      "tironian_entries": 1,
+      "frequency": "rare",
+      "domains": [
+        "general"
+      ],
+      "match_type": "partial"
+    }
+  ],
+  "pharma_matches": 47
+}
