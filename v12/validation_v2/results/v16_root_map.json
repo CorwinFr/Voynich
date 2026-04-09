@@ -1,0 +1,501 @@
+{
+  "root_map": [
+    {
+      "root": "aiin",
+      "count": 1430,
+      "evidence": [
+        "freq_match: et (ratio=1.34)",
+        "context: mense (score=0.035)",
+        "perseus: YES"
+      ],
+      "best_guess": "mense",
+      "confidence": "medium"
+    },
+    {
+      "root": "iin",
+      "count": 857,
+      "evidence": [
+        "freq_match: in (ratio=1.23)",
+        "context: mense (score=0.114)",
+        "perseus: YES"
+      ],
+      "best_guess": "mense",
+      "confidence": "medium"
+    },
+    {
+      "root": "al",
+      "count": 832,
+      "evidence": [
+        "freq_match: in (ratio=1.19)",
+        "context: fundo (score=0.018)",
+        "perseus: YES"
+      ],
+      "best_guess": "fundo",
+      "confidence": "medium"
+    },
+    {
+      "root": "ain",
+      "count": 770,
+      "evidence": [
+        "freq_match: in (ratio=1.1)",
+        "context: tunc (score=0.009)",
+        "perseus: YES"
+      ],
+      "best_guess": "in",
+      "confidence": "medium"
+    },
+    {
+      "root": "eey",
+      "count": 730,
+      "evidence": [
+        "freq_match: in (ratio=1.04)",
+        "context: mense (score=0.018)",
+        "perseus: YES"
+      ],
+      "best_guess": "mense",
+      "confidence": "medium"
+    },
+    {
+      "root": "eedy",
+      "count": 724,
+      "evidence": [
+        "freq_match: in (ratio=1.04)",
+        "context: tunc (score=0.012)",
+        "perseus: YES"
+      ],
+      "best_guess": "tunc",
+      "confidence": "medium"
+    },
+    {
+      "root": "l",
+      "count": 642,
+      "evidence": [
+        "freq_match: in (ratio=0.92)",
+        "context: mense (score=0.045)",
+        "perseus: YES"
+      ],
+      "best_guess": "mense",
+      "confidence": "medium"
+    },
+    {
+      "root": "ar",
+      "count": 595,
+      "evidence": [
+        "logogram: iure",
+        "freq_match: in (ratio=0.85)",
+        "context: tunc (score=0.016)",
+        "perseus: YES"
+      ],
+      "best_guess": "iure",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "edy",
+      "count": 528,
+      "evidence": [
+        "freq_match: de (ratio=1.33)",
+        "context: locis (score=0.022)",
+        "perseus: YES"
+      ],
+      "best_guess": "locis",
+      "confidence": "medium"
+    },
+    {
+      "root": "ol",
+      "count": 414,
+      "evidence": [
+        "logogram: es",
+        "freq_match: de (ratio=1.04)",
+        "context: tunc (score=0.047)",
+        "perseus: YES"
+      ],
+      "best_guess": "es",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "chedy",
+      "count": 403,
+      "evidence": [
+        "logogram: eius et",
+        "freq_match: de (ratio=1.01)",
+        "context: mense (score=0.051)"
+      ],
+      "best_guess": "eius et",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "r",
+      "count": 380,
+      "evidence": [
+        "logogram: recipe",
+        "freq_match: de (ratio=0.96)",
+        "context: mense (score=0.063)",
+        "perseus: YES"
+      ],
+      "best_guess": "recipe",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "y",
+      "count": 371,
+      "evidence": [
+        "logogram: in",
+        "freq_match: de (ratio=0.93)",
+        "context: tunc (score=0.09)",
+        "perseus: YES"
+      ],
+      "best_guess": "in",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "or",
+      "count": 317,
+      "evidence": [
+        "logogram: hiera",
+        "freq_match: est (ratio=1.11)",
+        "context: locis (score=0.077)",
+        "perseus: YES"
+      ],
+      "best_guess": "hiera",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "ey",
+      "count": 293,
+      "evidence": [
+        "freq_match: est (ratio=1.03)",
+        "context: juvenibus (score=0.041)",
+        "perseus: YES"
+      ],
+      "best_guess": "juvenibus",
+      "confidence": "medium"
+    },
+    {
+      "root": "ody",
+      "count": 269,
+      "evidence": [
+        "freq_match: cum (ratio=0.95)",
+        "context: mense (score=0.064)",
+        "perseus: YES"
+      ],
+      "best_guess": "mense",
+      "confidence": "medium"
+    },
+    {
+      "root": "chy",
+      "count": 268,
+      "evidence": [
+        "logogram: in",
+        "freq_match: cum (ratio=0.95)",
+        "context: mense (score=0.1)",
+        "perseus: YES"
+      ],
+      "best_guess": "in",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "chey",
+      "count": 264,
+      "evidence": [
+        "logogram: eius",
+        "freq_match: si (ratio=1.05)",
+        "context: mense (score=0.104)",
+        "perseus: YES"
+      ],
+      "best_guess": "eius",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "cthy",
+      "count": 223,
+      "evidence": [
+        "freq_match: vel (ratio=0.98)",
+        "context: mense (score=0.082)",
+        "perseus: YES"
+      ],
+      "best_guess": "mense",
+      "confidence": "medium"
+    },
+    {
+      "root": "in",
+      "count": 218,
+      "evidence": [
+        "freq_match: ex (ratio=1.01)",
+        "context: mense (score=0.08)",
+        "perseus: YES"
+      ],
+      "best_guess": "mense",
+      "confidence": "medium"
+    },
+    {
+      "root": "keey",
+      "count": 210,
+      "evidence": [
+        "freq_match: ex (ratio=0.98)",
+        "perseus: YES"
+      ],
+      "best_guess": "ex",
+      "confidence": "medium"
+    },
+    {
+      "root": "kaiin",
+      "count": 204,
+      "evidence": [
+        "freq_match: ad (ratio=1.02)",
+        "perseus: YES"
+      ],
+      "best_guess": "ad",
+      "confidence": "medium"
+    },
+    {
+      "root": "ckhy",
+      "count": 197,
+      "evidence": [
+        "freq_match: ad (ratio=0.99)",
+        "perseus: YES"
+      ],
+      "best_guess": "ad",
+      "confidence": "medium"
+    },
+    {
+      "root": "chdy",
+      "count": 194,
+      "evidence": [
+        "logogram: eius et",
+        "freq_match: ad (ratio=0.97)"
+      ],
+      "best_guess": "eius et",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "eol",
+      "count": 191,
+      "evidence": [
+        "freq_match: ad (ratio=0.96)",
+        "perseus: YES"
+      ],
+      "best_guess": "ad",
+      "confidence": "medium"
+    },
+    {
+      "root": "air",
+      "count": 186,
+      "evidence": [
+        "freq_match: ad (ratio=0.93)",
+        "perseus: YES"
+      ],
+      "best_guess": "ad",
+      "confidence": "medium"
+    },
+    {
+      "root": "eody",
+      "count": 182,
+      "evidence": [
+        "freq_match: ad (ratio=0.91)",
+        "perseus: YES"
+      ],
+      "best_guess": "ad",
+      "confidence": "medium"
+    },
+    {
+      "root": "eo",
+      "count": 181,
+      "evidence": [
+        "freq_match: ad (ratio=0.91)",
+        "perseus: YES"
+      ],
+      "best_guess": "ad",
+      "confidence": "medium"
+    },
+    {
+      "root": "keedy",
+      "count": 175,
+      "evidence": [
+        "freq_match: ut (ratio=1.08)",
+        "perseus: YES"
+      ],
+      "best_guess": "ut",
+      "confidence": "medium"
+    },
+    {
+      "root": "o",
+      "count": 170,
+      "evidence": [
+        "logogram: ac",
+        "freq_match: ut (ratio=1.05)",
+        "perseus: YES"
+      ],
+      "best_guess": "ac",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "kar",
+      "count": 157,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "am",
+      "count": 142,
+      "evidence": [
+        "logogram: cum",
+        "perseus: YES"
+      ],
+      "best_guess": "cum",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "chor",
+      "count": 138,
+      "evidence": [
+        "logogram: iera",
+        "perseus: YES"
+      ],
+      "best_guess": "iera",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "saiin",
+      "count": 137,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "kain",
+      "count": 137,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "kedy",
+      "count": 128,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "ky",
+      "count": 122,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "aly",
+      "count": 116,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "dy",
+      "count": 111,
+      "evidence": [
+        "logogram: et",
+        "perseus: YES"
+      ],
+      "best_guess": "et",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "chol",
+      "count": 110,
+      "evidence": [
+        "logogram: eius",
+        "perseus: YES"
+      ],
+      "best_guess": "eius",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "ir",
+      "count": 110,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "os",
+      "count": 104,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "oiin",
+      "count": 100,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "daiin",
+      "count": 100,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "eeey",
+      "count": 95,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "odaiin",
+      "count": 93,
+      "evidence": [
+        "logogram: edura"
+      ],
+      "best_guess": "edura",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "eeo",
+      "count": 93,
+      "evidence": [],
+      "best_guess": null,
+      "confidence": "low"
+    },
+    {
+      "root": "m",
+      "count": 91,
+      "evidence": [
+        "logogram: misce",
+        "perseus: YES"
+      ],
+      "best_guess": "misce",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "cheey",
+      "count": 90,
+      "evidence": [
+        "logogram: eius",
+        "perseus: YES"
+      ],
+      "best_guess": "eius",
+      "confidence": "confirmed"
+    },
+    {
+      "root": "shey",
+      "count": 84,
+      "evidence": [
+        "logogram: cies",
+        "perseus: YES"
+      ],
+      "best_guess": "cies",
+      "confidence": "confirmed"
+    }
+  ],
+  "top50_coverage_pct": 49.5,
+  "confidence_counts": {
+    "confirmed": 18,
+    "medium": 20,
+    "low": 12
+  }
+}
