@@ -1,0 +1,156 @@
+{
+  "base_logo": 7636,
+  "strip_logo": 8463,
+  "net_change": 827,
+  "para_initial_gallows": 935,
+  "para_initial_total": 5148,
+  "para_initial_pct": 18.2,
+  "new_logograms": [
+    [
+      "kar",
+      "ar",
+      "iure",
+      55
+    ],
+    [
+      "tol",
+      "ol",
+      "es",
+      45
+    ],
+    [
+      "kchy",
+      "chy",
+      "in",
+      36
+    ],
+    [
+      "pchedy",
+      "chedy",
+      "eius et",
+      35
+    ],
+    [
+      "ky",
+      "y",
+      "in",
+      33
+    ],
+    [
+      "tchedy",
+      "chedy",
+      "eius et",
+      33
+    ],
+    [
+      "kor",
+      "or",
+      "hiera",
+      27
+    ],
+    [
+      "kchol",
+      "chol",
+      "eius",
+      25
+    ],
+    [
+      "tor",
+      "or",
+      "hiera",
+      23
+    ],
+    [
+      "tchey",
+      "chey",
+      "eius",
+      22
+    ],
+    [
+      "kchey",
+      "chey",
+      "eius",
+      22
+    ],
+    [
+      "kchedy",
+      "chedy",
+      "eius et",
+      22
+    ],
+    [
+      "tchor",
+      "chor",
+      "iera",
+      21
+    ],
+    [
+      "kchdy",
+      "chdy",
+      "eius et",
+      21
+    ],
+    [
+      "kchor",
+      "chor",
+      "iera",
+      20
+    ],
+    [
+      "ty",
+      "y",
+      "in",
+      20
+    ],
+    [
+      "pol",
+      "ol",
+      "es",
+      19
+    ],
+    [
+      "tchol",
+      "chol",
+      "eius",
+      18
+    ],
+    [
+      "tchdy",
+      "chdy",
+      "eius et",
+      14
+    ],
+    [
+      "pchor",
+      "chor",
+      "iera",
+      12
+    ]
+  ],
+  "gallows_positions": {
+    "f": {
+      "initial": 36,
+      "medial": 65,
+      "final": 11,
+      "total": 112
+    },
+    "k": {
+      "initial": 117,
+      "medial": 1018,
+      "final": 124,
+      "total": 1259
+    },
+    "t": {
+      "initial": 402,
+      "medial": 527,
+      "final": 73,
+      "total": 1002
+    },
+    "p": {
+      "initial": 380,
+      "medial": 143,
+      "final": 15,
+      "total": 538
+    }
+  }
+}

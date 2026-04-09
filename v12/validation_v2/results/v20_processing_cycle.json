@@ -1,0 +1,50 @@
+{
+  "total_transitions": 6151,
+  "ordered": 1458,
+  "reverse": 1471,
+  "same": 3222,
+  "ratio": 0.99,
+  "verdict": "NO CLEAR CYCLE",
+  "by_section": {
+    "T": {
+      "ordered": 96,
+      "reverse": 104,
+      "same": 207
+    },
+    "H": {
+      "ordered": 159,
+      "reverse": 139,
+      "same": 712
+    },
+    "C": {
+      "ordered": 45,
+      "reverse": 39,
+      "same": 72
+    },
+    "S": {
+      "ordered": 644,
+      "reverse": 693,
+      "same": 1234
+    },
+    "A": {
+      "ordered": 10,
+      "reverse": 11,
+      "same": 20
+    },
+    "Z": {
+      "ordered": 26,
+      "reverse": 23,
+      "same": 62
+    },
+    "B": {
+      "ordered": 474,
+      "reverse": 455,
+      "same": 787
+    },
+    "P": {
+      "ordered": 4,
+      "reverse": 7,
+      "same": 128
+    }
+  }
+}

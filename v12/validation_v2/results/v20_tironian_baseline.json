@@ -1,0 +1,9 @@
+{
+  "actual_matches": 41,
+  "random_avg": 12.9,
+  "random_std": 3.0,
+  "random_max": 22,
+  "z_score": 9.4,
+  "n_trials": 500,
+  "verdict": "HIGHLY SIGNIFICANT (z > 3)"
+}

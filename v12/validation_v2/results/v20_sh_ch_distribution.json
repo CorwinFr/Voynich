@@ -1,0 +1,70 @@
+{
+  "A": {
+    "sh": 48,
+    "ch": 128,
+    "total": 844,
+    "sh_pct": 5.7,
+    "ch_pct": 15.2,
+    "sh_ch_ratio": 0.375
+  },
+  "B": {
+    "sh": 689,
+    "ch": 727,
+    "total": 6233,
+    "sh_pct": 11.1,
+    "ch_pct": 11.7,
+    "sh_ch_ratio": 0.948
+  },
+  "C": {
+    "sh": 110,
+    "ch": 229,
+    "total": 1540,
+    "sh_pct": 7.1,
+    "ch_pct": 14.9,
+    "sh_ch_ratio": 0.48
+  },
+  "H": {
+    "sh": 991,
+    "ch": 2188,
+    "total": 11013,
+    "sh_pct": 9.0,
+    "ch_pct": 19.9,
+    "sh_ch_ratio": 0.453
+  },
+  "P": {
+    "sh": 188,
+    "ch": 459,
+    "total": 2490,
+    "sh_pct": 7.6,
+    "ch_pct": 18.4,
+    "sh_ch_ratio": 0.41
+  },
+  "S": {
+    "sh": 861,
+    "ch": 1874,
+    "total": 11322,
+    "sh_pct": 7.6,
+    "ch_pct": 16.6,
+    "sh_ch_ratio": 0.459
+  },
+  "T": {
+    "sh": 254,
+    "ch": 291,
+    "total": 2266,
+    "sh_pct": 11.2,
+    "ch_pct": 12.8,
+    "sh_ch_ratio": 0.873
+  },
+  "Z": {
+    "sh": 86,
+    "ch": 190,
+    "total": 1275,
+    "sh_pct": 6.7,
+    "ch_pct": 14.9,
+    "sh_ch_ratio": 0.453
+  },
+  "chi2_sh": 95.0,
+  "chi2_ch": 193.9,
+  "verdict_sh": "SIGNIFICANT",
+  "verdict_ch": "SIGNIFICANT"
+}
