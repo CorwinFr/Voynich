@@ -1,0 +1,44 @@
+{
+  "decoded": {
+    "H1_char": 3.615,
+    "H2_char": 2.977,
+    "H_word": 6.543,
+    "n_words": 54611,
+    "n_types": 2524
+  },
+  "latin_medical": {
+    "H1_char": 4.078,
+    "H2_char": 3.806,
+    "H_word": 13.277,
+    "n_words": 500000,
+    "n_types": 108722
+  },
+  "latin_classical": {
+    "H1_char": 4.075,
+    "H2_char": 3.674,
+    "H_word": 9.617,
+    "n_words": 124995,
+    "n_types": 10670
+  },
+  "italian": {
+    "H1_char": 3.992,
+    "H2_char": 3.583,
+    "H_word": 10.474,
+    "n_words": 91191,
+    "n_types": 13280
+  },
+  "italian_medical": {
+    "H1_char": 3.924,
+    "H2_char": 3.503,
+    "H_word": 8.135,
+    "n_words": 8481,
+    "n_types": 1363
+  },
+  "latin_medieval": {
+    "H1_char": 4.003,
+    "H2_char": 3.639,
+    "H_word": 9.599,
+    "n_words": 4961,
+    "n_types": 2067
+  }
+}

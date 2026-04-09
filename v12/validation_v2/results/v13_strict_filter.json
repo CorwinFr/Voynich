@@ -1,0 +1,177 @@
+{
+  "all_words": {
+    "n": 54611,
+    "perseus": 50015
+  },
+  "short_under_5": {
+    "n": 41135,
+    "perseus": 40606,
+    "pct": 98.7
+  },
+  "long_5plus": {
+    "n": 13476,
+    "perseus": 9409,
+    "pct": 69.8
+  },
+  "long_unique_types": {
+    "n": 1722,
+    "perseus": 300,
+    "pct": 17.4
+  },
+  "top_long_matched": [
+    {
+      "word": "aquam",
+      "count": 3474,
+      "in_perseus": true
+    },
+    {
+      "word": "hiera",
+      "count": 755,
+      "in_perseus": true
+    },
+    {
+      "word": "coque",
+      "count": 648,
+      "in_perseus": true
+    },
+    {
+      "word": "ciere",
+      "count": 408,
+      "in_perseus": true
+    },
+    {
+      "word": "curam",
+      "count": 286,
+      "in_perseus": true
+    },
+    {
+      "word": "curas",
+      "count": 249,
+      "in_perseus": true
+    },
+    {
+      "word": "aloes",
+      "count": 240,
+      "in_perseus": true
+    },
+    {
+      "word": "quare",
+      "count": 193,
+      "in_perseus": true
+    },
+    {
+      "word": "recipe",
+      "count": 171,
+      "in_perseus": true
+    },
+    {
+      "word": "iecur",
+      "count": 161,
+      "in_perseus": true
+    },
+    {
+      "word": "ciens",
+      "count": 135,
+      "in_perseus": true
+    },
+    {
+      "word": "ciode",
+      "count": 129,
+      "in_perseus": false
+    },
+    {
+      "word": "cibus",
+      "count": 127,
+      "in_perseus": true
+    },
+    {
+      "word": "coquas",
+      "count": 124,
+      "in_perseus": true
+    },
+    {
+      "word": "aeque",
+      "count": 124,
+      "in_perseus": true
+    },
+    {
+      "word": "quece",
+      "count": 102,
+      "in_perseus": true
+    },
+    {
+      "word": "edure",
+      "count": 95,
+      "in_perseus": false
+    },
+    {
+      "word": "aceti",
+      "count": 91,
+      "in_perseus": true
+    },
+    {
+      "word": "quies",
+      "count": 91,
+      "in_perseus": true
+    },
+    {
+      "word": "asari",
+      "count": 88,
+      "in_perseus": true
+    },
+    {
+      "word": "ciboque",
+      "count": 82,
+      "in_perseus": true
+    },
+    {
+      "word": "asarum",
+      "count": 82,
+      "in_perseus": true
+    },
+    {
+      "word": "edura",
+      "count": 71,
+      "in_perseus": false
+    },
+    {
+      "word": "aratura",
+      "count": 71,
+      "in_perseus": false
+    },
+    {
+      "word": "liens",
+      "count": 69,
+      "in_perseus": true
+    },
+    {
+      "word": "equaliter",
+      "count": 66,
+      "in_perseus": true
+    },
+    {
+      "word": "aquio",
+      "count": 66,
+      "in_perseus": true
+    },
+    {
+      "word": "liere",
+      "count": 64,
+      "in_perseus": false
+    },
+    {
+      "word": "cerae",
+      "count": 63,
+      "in_perseus": true
+    },
+    {
+      "word": "odeura",
+      "count": 63,
+      "in_perseus": false
+    }
+  ],
+  "composition": {
+    "pct_short": 75.3,
+    "pct_long": 24.7
+  }
+}

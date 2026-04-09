@@ -1,0 +1,134 @@
+{
+  "global": {
+    "total_trigrams": 34287,
+    "matches": {
+      "latin_medical": {
+        "count": 58,
+        "examples": [
+          "et da cum",
+          "in aquaet in",
+          "tere et de",
+          "coque et in",
+          "aquam et in",
+          "eius et par",
+          "et aquam in",
+          "et ex qu",
+          "quas in luce",
+          "in eo qui",
+          "in co in",
+          "et sapa in",
+          "et alium in",
+          "cum aqua in",
+          "et est in",
+          "et tere et",
+          "in aqua cum",
+          "et in epar",
+          "qui est in",
+          "est et et"
+        ]
+      },
+      "latin_classical": {
+        "count": 0,
+        "examples": []
+      },
+      "italian": {
+        "count": 0,
+        "examples": []
+      },
+      "italian_medical": {
+        "count": 1,
+        "examples": [
+          "et per le"
+        ]
+      },
+      "latin_medieval": {
+        "count": 3,
+        "examples": [
+          "et coque cum",
+          "in aqua cum",
+          "et coque in"
+        ]
+      }
+    }
+  },
+  "section_T": {
+    "total_trigrams": 2992,
+    "matches": {
+      "latin_medical": 14,
+      "latin_classical": 0,
+      "italian": 0,
+      "italian_medical": 0,
+      "latin_medieval": 1
+    }
+  },
+  "section_H": {
+    "total_trigrams": 13424,
+    "matches": {
+      "latin_medical": 35,
+      "latin_classical": 0,
+      "italian": 0,
+      "italian_medical": 1,
+      "latin_medieval": 3
+    }
+  },
+  "section_C": {
+    "total_trigrams": 2105,
+    "matches": {
+      "latin_medical": 9,
+      "latin_classical": 0,
+      "italian": 0,
+      "italian_medical": 0,
+      "latin_medieval": 1
+    }
+  },
+  "section_S": {
+    "total_trigrams": 12952,
+    "matches": {
+      "latin_medical": 22,
+      "latin_classical": 0,
+      "italian": 0,
+      "italian_medical": 0,
+      "latin_medieval": 2
+    }
+  },
+  "section_A": {
+    "total_trigrams": 1186,
+    "matches": {
+      "latin_medical": 6,
+      "latin_classical": 0,
+      "italian": 0,
+      "italian_medical": 0,
+      "latin_medieval": 0
+    }
+  },
+  "section_Z": {
+    "total_trigrams": 1627,
+    "matches": {
+      "latin_medical": 2,
+      "latin_classical": 0,
+      "italian": 0,
+      "italian_medical": 0,
+      "latin_medieval": 0
+    }
+  },
+  "section_B": {
+    "total_trigrams": 6258,
+    "matches": {
+      "latin_medical": 20,
+      "latin_classical": 0,
+      "italian": 0,
+      "italian_medical": 0,
+      "latin_medieval": 2
+    }
+  },
+  "section_P": {
+    "total_trigrams": 3257,
+    "matches": {
+      "latin_medical": 8,
+      "latin_classical": 0,
+      "italian": 0,
+      "italian_medical": 0,
+      "latin_medieval": 0
+    }
+  }
+}

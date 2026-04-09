@@ -1,0 +1,32 @@
+{
+  "latin_medical": {
+    "decoded_score": -15.849,
+    "self_coherence": -16.348,
+    "shuffled_control": -15.923,
+    "ratio_decoded_vs_self": 0.969
+  },
+  "latin_classical": {
+    "decoded_score": -13.398,
+    "self_coherence": -12.0,
+    "shuffled_control": -13.394,
+    "ratio_decoded_vs_self": 1.116
+  },
+  "italian": {
+    "decoded_score": -13.699,
+    "self_coherence": -12.969,
+    "shuffled_control": -13.695,
+    "ratio_decoded_vs_self": 1.056
+  },
+  "italian_medical": {
+    "decoded_score": -10.427,
+    "self_coherence": -9.151,
+    "shuffled_control": -10.444,
+    "ratio_decoded_vs_self": 1.139
+  },
+  "latin_medieval": {
+    "decoded_score": -10.992,
+    "self_coherence": -10.871,
+    "shuffled_control": -10.992,
+    "ratio_decoded_vs_self": 1.011
+  }
+}

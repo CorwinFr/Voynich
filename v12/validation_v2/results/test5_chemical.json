@@ -1,0 +1,3508 @@
+{
+  "per_folio": {
+    "F1R": {
+      "section": "T",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "asari",
+        "cera",
+        "ciere",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "tere"
+      ],
+      "count": 12,
+      "total_words": 218
+    },
+    "F1V": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "hiera",
+        "olei"
+      ],
+      "count": 3,
+      "total_words": 92
+    },
+    "F2R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei"
+      ],
+      "count": 6,
+      "total_words": 107
+    },
+    "F2V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceto",
+        "cera",
+        "hiera"
+      ],
+      "count": 3,
+      "total_words": 61
+    },
+    "F3R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera"
+      ],
+      "count": 6,
+      "total_words": 114
+    },
+    "F3V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "cera",
+        "cicura",
+        "hiera",
+        "iecur",
+        "recipe"
+      ],
+      "count": 7,
+      "total_words": 85
+    },
+    "F4R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "cera",
+        "ciere"
+      ],
+      "count": 4,
+      "total_words": 64
+    },
+    "F4V": {
+      "section": "H",
+      "ingredients_found": [
+        "apii",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "tere"
+      ],
+      "count": 6,
+      "total_words": 83
+    },
+    "F5R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "cassiae",
+        "enula",
+        "hiera"
+      ],
+      "count": 4,
+      "total_words": 54
+    },
+    "F5V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "hiera",
+        "nardi"
+      ],
+      "count": 4,
+      "total_words": 48
+    },
+    "F6R": {
+      "section": "H",
+      "ingredients_found": [
+        "asari",
+        "ciere",
+        "hiera",
+        "iecur"
+      ],
+      "count": 4,
+      "total_words": 86
+    },
+    "F6V": {
+      "section": "H",
+      "ingredients_found": [
+        "apii",
+        "cera",
+        "cerae",
+        "ciere",
+        "hiera",
+        "misce"
+      ],
+      "count": 6,
+      "total_words": 115
+    },
+    "F7R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "ciere",
+        "coque",
+        "recipe"
+      ],
+      "count": 4,
+      "total_words": 66
+    },
+    "F7V": {
+      "section": "H",
+      "ingredients_found": [
+        "coque",
+        "hiera",
+        "olei",
+        "recipe"
+      ],
+      "count": 4,
+      "total_words": 78
+    },
+    "F8R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "asari",
+        "ciere",
+        "hiera",
+        "olei",
+        "recipe"
+      ],
+      "count": 6,
+      "total_words": 150
+    },
+    "F8V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asari",
+        "ciere",
+        "hiera",
+        "iecur"
+      ],
+      "count": 6,
+      "total_words": 118
+    },
+    "F9R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "ciere",
+        "hiera",
+        "iecur",
+        "nardi",
+        "ture"
+      ],
+      "count": 6,
+      "total_words": 85
+    },
+    "F9V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "ciere",
+        "hiera",
+        "iecur",
+        "sal"
+      ],
+      "count": 5,
+      "total_words": 86
+    },
+    "F10R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "asari",
+        "ciere",
+        "hiera",
+        "iecur",
+        "tere",
+        "ture"
+      ],
+      "count": 7,
+      "total_words": 92
+    },
+    "F10V": {
+      "section": "H",
+      "ingredients_found": [
+        "coquas",
+        "equaliter",
+        "iecur",
+        "nardi"
+      ],
+      "count": 4,
+      "total_words": 57
+    },
+    "F11R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "ciere"
+      ],
+      "count": 2,
+      "total_words": 59
+    },
+    "F11V": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "coque",
+        "hiera",
+        "olei"
+      ],
+      "count": 4,
+      "total_words": 50
+    },
+    "F13R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "coque",
+        "hiera",
+        "iecur"
+      ],
+      "count": 4,
+      "total_words": 77
+    },
+    "F13V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "ciere",
+        "coquas",
+        "coque",
+        "iecur",
+        "sal"
+      ],
+      "count": 7,
+      "total_words": 69
+    },
+    "F14R": {
+      "section": "H",
+      "ingredients_found": [
+        "cera",
+        "ciere",
+        "iecur"
+      ],
+      "count": 3,
+      "total_words": 76
+    },
+    "F15R": {
+      "section": "H",
+      "ingredients_found": [
+        "cicura",
+        "ciere",
+        "hiera",
+        "recipe",
+        "sal"
+      ],
+      "count": 5,
+      "total_words": 94
+    },
+    "F15V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "cerae",
+        "coque",
+        "hiera",
+        "recipe"
+      ],
+      "count": 5,
+      "total_words": 72
+    },
+    "F16R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "cera",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "nardi"
+      ],
+      "count": 8,
+      "total_words": 84
+    },
+    "F16V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "cera",
+        "ciere",
+        "hiera",
+        "tere"
+      ],
+      "count": 5,
+      "total_words": 76
+    },
+    "F17R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "asari",
+        "asarum",
+        "ciere",
+        "coquas",
+        "hiera"
+      ],
+      "count": 6,
+      "total_words": 80
+    },
+    "F17V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "cera",
+        "cerae",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "tere"
+      ],
+      "count": 10,
+      "total_words": 137
+    },
+    "F18R": {
+      "section": "H",
+      "ingredients_found": [
+        "cerae",
+        "ciere",
+        "hiera",
+        "iecur",
+        "succi"
+      ],
+      "count": 5,
+      "total_words": 84
+    },
+    "F18V": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "nardi"
+      ],
+      "count": 5,
+      "total_words": 69
+    },
+    "F19R": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "coque",
+        "hiera"
+      ],
+      "count": 3,
+      "total_words": 77
+    },
+    "F19V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "hiera",
+        "nardi",
+        "olei"
+      ],
+      "count": 4,
+      "total_words": 78
+    },
+    "F20R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "iecur",
+        "olei",
+        "recipe"
+      ],
+      "count": 4,
+      "total_words": 88
+    },
+    "F20V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "asari",
+        "asarum",
+        "cicura",
+        "ciere",
+        "hiera",
+        "tere"
+      ],
+      "count": 7,
+      "total_words": 86
+    },
+    "F21R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "cera",
+        "ciere",
+        "hiera",
+        "iecur",
+        "olei",
+        "tere"
+      ],
+      "count": 7,
+      "total_words": 104
+    },
+    "F21V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "apii"
+      ],
+      "count": 2,
+      "total_words": 58
+    },
+    "F22R": {
+      "section": "H",
+      "ingredients_found": [
+        "asari",
+        "cera",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "olei",
+        "recipe"
+      ],
+      "count": 8,
+      "total_words": 110
+    },
+    "F22V": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera"
+      ],
+      "count": 4,
+      "total_words": 78
+    },
+    "F23R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "cera",
+        "coquas",
+        "coque",
+        "iecur",
+        "recipe"
+      ],
+      "count": 6,
+      "total_words": 110
+    },
+    "F23V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "aloes",
+        "asari",
+        "cassia",
+        "cerae",
+        "ciere",
+        "coquas",
+        "hiera",
+        "tere"
+      ],
+      "count": 10,
+      "total_words": 95
+    },
+    "F24R": {
+      "section": "H",
+      "ingredients_found": [
+        "asari",
+        "ciere",
+        "coque",
+        "hiera",
+        "recipe",
+        "sal"
+      ],
+      "count": 6,
+      "total_words": 110
+    },
+    "F24V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "coque",
+        "hiera",
+        "recipe"
+      ],
+      "count": 5,
+      "total_words": 85
+    },
+    "F25R": {
+      "section": "H",
+      "ingredients_found": [
+        "sal",
+        "tere"
+      ],
+      "count": 2,
+      "total_words": 47
+    },
+    "F25V": {
+      "section": "H",
+      "ingredients_found": [
+        "olei",
+        "recipe"
+      ],
+      "count": 2,
+      "total_words": 59
+    },
+    "F26R": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "equaliter",
+        "sal"
+      ],
+      "count": 3,
+      "total_words": 90
+    },
+    "F26V": {
+      "section": "H",
+      "ingredients_found": [
+        "asari",
+        "ciere",
+        "equaliter",
+        "hiera",
+        "olei",
+        "tere"
+      ],
+      "count": 6,
+      "total_words": 93
+    },
+    "F27R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "coque",
+        "hiera",
+        "olei",
+        "sal"
+      ],
+      "count": 5,
+      "total_words": 94
+    },
+    "F27V": {
+      "section": "H",
+      "ingredients_found": [
+        "coque"
+      ],
+      "count": 1,
+      "total_words": 61
+    },
+    "F28R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "apii",
+        "ciere",
+        "coquas",
+        "tere"
+      ],
+      "count": 6,
+      "total_words": 68
+    },
+    "F28V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "ciere",
+        "hiera",
+        "iecur"
+      ],
+      "count": 4,
+      "total_words": 68
+    },
+    "F29R": {
+      "section": "H",
+      "ingredients_found": [
+        "cera",
+        "ciere",
+        "hiera",
+        "iecur",
+        "olei"
+      ],
+      "count": 5,
+      "total_words": 65
+    },
+    "F29V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "cera",
+        "ciere",
+        "iecur",
+        "olei"
+      ],
+      "count": 7,
+      "total_words": 94
+    },
+    "F30R": {
+      "section": "H",
+      "ingredients_found": [
+        "cera",
+        "cerae",
+        "ciere",
+        "coque",
+        "equaliter",
+        "hiera",
+        "recipe"
+      ],
+      "count": 7,
+      "total_words": 99
+    },
+    "F30V": {
+      "section": "H",
+      "ingredients_found": [
+        "cera",
+        "ciere",
+        "coquere",
+        "hiera",
+        "nardi",
+        "olei"
+      ],
+      "count": 6,
+      "total_words": 63
+    },
+    "F31R": {
+      "section": "H",
+      "ingredients_found": [
+        "cassiae",
+        "ciere",
+        "coque",
+        "equaliter",
+        "hiera",
+        "recipe",
+        "sal",
+        "tere"
+      ],
+      "count": 8,
+      "total_words": 103
+    },
+    "F31V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "asari",
+        "asarum",
+        "cera",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 11,
+      "total_words": 110
+    },
+    "F32R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "asari",
+        "ciere",
+        "sal"
+      ],
+      "count": 5,
+      "total_words": 76
+    },
+    "F32V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "ciere",
+        "hiera",
+        "recipe"
+      ],
+      "count": 4,
+      "total_words": 89
+    },
+    "F33R": {
+      "section": "H",
+      "ingredients_found": [
+        "cera",
+        "equaliter",
+        "hiera",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 6,
+      "total_words": 74
+    },
+    "F33V": {
+      "section": "H",
+      "ingredients_found": [
+        "asarum",
+        "cera",
+        "ciere",
+        "equaliter",
+        "hiera",
+        "sal"
+      ],
+      "count": 6,
+      "total_words": 113
+    },
+    "F34R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "aloes",
+        "asari",
+        "coque",
+        "equaliter",
+        "hiera",
+        "olei",
+        "sal",
+        "tere"
+      ],
+      "count": 10,
+      "total_words": 149
+    },
+    "F34V": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "sal",
+        "ture"
+      ],
+      "count": 7,
+      "total_words": 117
+    },
+    "F35R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "cera",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe"
+      ],
+      "count": 7,
+      "total_words": 94
+    },
+    "F35V": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "olei",
+        "recipe"
+      ],
+      "count": 3,
+      "total_words": 90
+    },
+    "F36R": {
+      "section": "H",
+      "ingredients_found": [
+        "cerae",
+        "ciere",
+        "hiera",
+        "iecur",
+        "recipe",
+        "ture"
+      ],
+      "count": 6,
+      "total_words": 62
+    },
+    "F36V": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "coque",
+        "hiera",
+        "nardi",
+        "olei",
+        "ture"
+      ],
+      "count": 6,
+      "total_words": 76
+    },
+    "F37R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceto",
+        "cera",
+        "ciere",
+        "hiera",
+        "iecur",
+        "sal"
+      ],
+      "count": 6,
+      "total_words": 78
+    },
+    "F37V": {
+      "section": "H",
+      "ingredients_found": [
+        "cera",
+        "hiera",
+        "mel"
+      ],
+      "count": 3,
+      "total_words": 89
+    },
+    "F38R": {
+      "section": "H",
+      "ingredients_found": [
+        "cera",
+        "hiera",
+        "recipe"
+      ],
+      "count": 3,
+      "total_words": 44
+    },
+    "F38V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "cera",
+        "cerae",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei"
+      ],
+      "count": 7,
+      "total_words": 67
+    },
+    "F39R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "asarum",
+        "cassia",
+        "cera",
+        "ciere",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "nardi",
+        "sal",
+        "tere"
+      ],
+      "count": 11,
+      "total_words": 157
+    },
+    "F39V": {
+      "section": "H",
+      "ingredients_found": [
+        "asari",
+        "asarum",
+        "cera",
+        "cerae",
+        "ciere",
+        "hiera",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 10,
+      "total_words": 145
+    },
+    "F40R": {
+      "section": "H",
+      "ingredients_found": [
+        "asarum",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "tere"
+      ],
+      "count": 6,
+      "total_words": 103
+    },
+    "F40V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "cera",
+        "cerae",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe"
+      ],
+      "count": 9,
+      "total_words": 105
+    },
+    "F41R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "coque",
+        "equaliter",
+        "hiera",
+        "sal",
+        "succi",
+        "tere"
+      ],
+      "count": 7,
+      "total_words": 97
+    },
+    "F41V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "coquas",
+        "hiera",
+        "olei"
+      ],
+      "count": 4,
+      "total_words": 66
+    },
+    "F42R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "cicura",
+        "ciere",
+        "equaliter",
+        "iecur",
+        "olei",
+        "recipe"
+      ],
+      "count": 8,
+      "total_words": 140
+    },
+    "F42V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "asari",
+        "cera",
+        "ciere",
+        "coque",
+        "olei",
+        "recipe"
+      ],
+      "count": 8,
+      "total_words": 116
+    },
+    "F43R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "cera",
+        "ciere",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "olei",
+        "tere",
+        "ture"
+      ],
+      "count": 11,
+      "total_words": 153
+    },
+    "F43V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "ciere",
+        "coque",
+        "equaliter",
+        "hiera",
+        "olei",
+        "recipe",
+        "sal",
+        "tere"
+      ],
+      "count": 10,
+      "total_words": 151
+    },
+    "F44R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "cassia",
+        "ciere",
+        "coque",
+        "sal"
+      ],
+      "count": 6,
+      "total_words": 74
+    },
+    "F44V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "asari",
+        "ciere",
+        "iecur",
+        "sal"
+      ],
+      "count": 6,
+      "total_words": 100
+    },
+    "F45R": {
+      "section": "H",
+      "ingredients_found": [
+        "asari",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "ture"
+      ],
+      "count": 7,
+      "total_words": 89
+    },
+    "F45V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "tere"
+      ],
+      "count": 6,
+      "total_words": 85
+    },
+    "F46R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "asari",
+        "ciere",
+        "coquas",
+        "hiera",
+        "misce",
+        "olei",
+        "recipe",
+        "tere"
+      ],
+      "count": 9,
+      "total_words": 163
+    },
+    "F46V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "asarum",
+        "hiera",
+        "iecur",
+        "misce",
+        "tere",
+        "ture"
+      ],
+      "count": 7,
+      "total_words": 111
+    },
+    "F47R": {
+      "section": "H",
+      "ingredients_found": [
+        "cera",
+        "coque",
+        "hiera"
+      ],
+      "count": 3,
+      "total_words": 76
+    },
+    "F47V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "apii",
+        "ciere",
+        "equaliter",
+        "hiera",
+        "olei"
+      ],
+      "count": 7,
+      "total_words": 85
+    },
+    "F48R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceto",
+        "aloes",
+        "asarum",
+        "ciere",
+        "olei",
+        "recipe",
+        "sal"
+      ],
+      "count": 7,
+      "total_words": 89
+    },
+    "F48V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "cera",
+        "equaliter",
+        "hiera",
+        "misce",
+        "olei",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 10,
+      "total_words": 128
+    },
+    "F49R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "asari",
+        "ciere",
+        "hiera",
+        "olei",
+        "recipe"
+      ],
+      "count": 7,
+      "total_words": 118
+    },
+    "F49V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe"
+      ],
+      "count": 6,
+      "total_words": 163
+    },
+    "F50R": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "nardi",
+        "sal"
+      ],
+      "count": 7,
+      "total_words": 93
+    },
+    "F50V": {
+      "section": "H",
+      "ingredients_found": [
+        "asarum",
+        "cera",
+        "ciere",
+        "coquas",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 10,
+      "total_words": 101
+    },
+    "F51R": {
+      "section": "H",
+      "ingredients_found": [
+        "cerae",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal"
+      ],
+      "count": 8,
+      "total_words": 89
+    },
+    "F51V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "cassia",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "recipe"
+      ],
+      "count": 7,
+      "total_words": 82
+    },
+    "F52R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "sal",
+        "ture"
+      ],
+      "count": 8,
+      "total_words": 69
+    },
+    "F52V": {
+      "section": "H",
+      "ingredients_found": [
+        "cera",
+        "ciere",
+        "coque",
+        "hiera",
+        "nardi"
+      ],
+      "count": 5,
+      "total_words": 78
+    },
+    "F53R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "cerae",
+        "ciere",
+        "coque",
+        "hiera",
+        "olei",
+        "sal"
+      ],
+      "count": 8,
+      "total_words": 60
+    },
+    "F53V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "ciere",
+        "coquas",
+        "hiera"
+      ],
+      "count": 4,
+      "total_words": 73
+    },
+    "F54R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "apii",
+        "ciere",
+        "hiera",
+        "olei",
+        "recipe"
+      ],
+      "count": 6,
+      "total_words": 110
+    },
+    "F54V": {
+      "section": "H",
+      "ingredients_found": [
+        "coque",
+        "equaliter",
+        "hiera",
+        "sal"
+      ],
+      "count": 4,
+      "total_words": 93
+    },
+    "F55R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "asari",
+        "cerae",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "recipe",
+        "sal",
+        "ture"
+      ],
+      "count": 10,
+      "total_words": 124
+    },
+    "F55V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "coque",
+        "equaliter",
+        "hiera",
+        "ture"
+      ],
+      "count": 5,
+      "total_words": 104
+    },
+    "F56R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "cicura",
+        "coque",
+        "olei",
+        "recipe"
+      ],
+      "count": 5,
+      "total_words": 103
+    },
+    "F56V": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "asari",
+        "ciere",
+        "olei"
+      ],
+      "count": 4,
+      "total_words": 91
+    },
+    "F57R": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "coque",
+        "olei"
+      ],
+      "count": 3,
+      "total_words": 87
+    },
+    "F57V": {
+      "section": "C",
+      "ingredients_found": [
+        "aloe",
+        "ciere",
+        "misce",
+        "recipe",
+        "sal",
+        "sapa"
+      ],
+      "count": 6,
+      "total_words": 176
+    },
+    "F58R": {
+      "section": "S",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "aloes",
+        "asari",
+        "asarum",
+        "cassia",
+        "cassiae",
+        "cera",
+        "cerae",
+        "cicura",
+        "ciere",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "mel",
+        "misce",
+        "nardi",
+        "sal",
+        "succi",
+        "tere",
+        "ture"
+      ],
+      "count": 23,
+      "total_words": 378
+    },
+    "F58V": {
+      "section": "S",
+      "ingredients_found": [
+        "aloes",
+        "asarum",
+        "cera",
+        "cerae",
+        "ciere",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "sal",
+        "sapa",
+        "tere"
+      ],
+      "count": 13,
+      "total_words": 375
+    },
+    "F65V": {
+      "section": "H",
+      "ingredients_found": [
+        "olei",
+        "ture"
+      ],
+      "count": 2,
+      "total_words": 45
+    },
+    "F66R": {
+      "section": "T",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "asari",
+        "ciere",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "olei",
+        "recipe"
+      ],
+      "count": 10,
+      "total_words": 344
+    },
+    "F66V": {
+      "section": "H",
+      "ingredients_found": [
+        "ciere",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "olei",
+        "sal",
+        "ture"
+      ],
+      "count": 8,
+      "total_words": 114
+    },
+    "F67R1": {
+      "section": "A",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asarum",
+        "hiera",
+        "olei",
+        "recipe",
+        "tere",
+        "ture",
+        "vini"
+      ],
+      "count": 9,
+      "total_words": 168
+    },
+    "F67R2": {
+      "section": "A",
+      "ingredients_found": [
+        "apii",
+        "asarum",
+        "cerae",
+        "coque",
+        "hiera",
+        "nardi",
+        "olei",
+        "recipe",
+        "sal",
+        "ture"
+      ],
+      "count": 10,
+      "total_words": 190
+    },
+    "F67V2": {
+      "section": "C",
+      "ingredients_found": [
+        "aceto",
+        "asari",
+        "asarum",
+        "hiera",
+        "misce",
+        "sal",
+        "sapa"
+      ],
+      "count": 7,
+      "total_words": 62
+    },
+    "F67V1": {
+      "section": "A",
+      "ingredients_found": [
+        "aloe",
+        "cassiae",
+        "cera",
+        "coque",
+        "equaliter",
+        "hiera"
+      ],
+      "count": 6,
+      "total_words": 73
+    },
+    "F68R1": {
+      "section": "A",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "apii",
+        "cera",
+        "ciere",
+        "hiera",
+        "olei",
+        "tere"
+      ],
+      "count": 8,
+      "total_words": 65
+    },
+    "F68R2": {
+      "section": "A",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "cera",
+        "ciere",
+        "hiera",
+        "recipe"
+      ],
+      "count": 6,
+      "total_words": 80
+    },
+    "F68R3": {
+      "section": "A",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "apii",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "olei",
+        "ture"
+      ],
+      "count": 10,
+      "total_words": 106
+    },
+    "F68V3": {
+      "section": "C",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "cera",
+        "cerae",
+        "ciere",
+        "coquas",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "mel",
+        "olei",
+        "recipe",
+        "sal"
+      ],
+      "count": 13,
+      "total_words": 169
+    },
+    "F68V2": {
+      "section": "A",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "coque",
+        "equaliter",
+        "hiera",
+        "olei"
+      ],
+      "count": 6,
+      "total_words": 103
+    },
+    "F68V1": {
+      "section": "A",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "aloes",
+        "asari",
+        "hiera",
+        "olei",
+        "sal"
+      ],
+      "count": 7,
+      "total_words": 98
+    },
+    "F69R": {
+      "section": "C",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "asari",
+        "asarum",
+        "ciere",
+        "coquas",
+        "iecur",
+        "olei",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 11,
+      "total_words": 158
+    },
+    "F69V": {
+      "section": "C",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "ciere",
+        "hiera",
+        "nardi"
+      ],
+      "count": 5,
+      "total_words": 140
+    },
+    "F70R1": {
+      "section": "C",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asari",
+        "hiera",
+        "nardi",
+        "olei",
+        "ture"
+      ],
+      "count": 7,
+      "total_words": 112
+    },
+    "F70R2": {
+      "section": "C",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "ciere",
+        "hiera",
+        "olei",
+        "recipe",
+        "sal",
+        "succi",
+        "ture"
+      ],
+      "count": 10,
+      "total_words": 246
+    },
+    "F70V2": {
+      "section": "Z",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "cassia",
+        "olei",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 8,
+      "total_words": 131
+    },
+    "F70V1": {
+      "section": "Z",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "asarum",
+        "olei",
+        "oleo",
+        "sal",
+        "ture"
+      ],
+      "count": 7,
+      "total_words": 86
+    },
+    "F71R": {
+      "section": "Z",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "equaliter",
+        "hiera",
+        "sal"
+      ],
+      "count": 5,
+      "total_words": 90
+    },
+    "F71V": {
+      "section": "Z",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "cera",
+        "cerae",
+        "ciere",
+        "hiera",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 9,
+      "total_words": 100
+    },
+    "F72R1": {
+      "section": "Z",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asarum",
+        "cerae",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "olei",
+        "sal",
+        "ture"
+      ],
+      "count": 10,
+      "total_words": 105
+    },
+    "F72R2": {
+      "section": "Z",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "asarum",
+        "iecur",
+        "olei",
+        "oleo",
+        "recipe",
+        "sal",
+        "succi",
+        "ture"
+      ],
+      "count": 11,
+      "total_words": 113
+    },
+    "F72R3": {
+      "section": "Z",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asari",
+        "asarum",
+        "cerae",
+        "ciere",
+        "equaliter",
+        "hiera",
+        "iecur"
+      ],
+      "count": 9,
+      "total_words": 163
+    },
+    "F72V3": {
+      "section": "Z",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asarum",
+        "hiera",
+        "iecur",
+        "recipe",
+        "sal",
+        "sapa",
+        "tere"
+      ],
+      "count": 9,
+      "total_words": 118
+    },
+    "F72V2": {
+      "section": "Z",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "apii",
+        "cerae",
+        "olei",
+        "recipe",
+        "sal"
+      ],
+      "count": 8,
+      "total_words": 107
+    },
+    "F72V1": {
+      "section": "Z",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "recipe",
+        "tere",
+        "ture"
+      ],
+      "count": 5,
+      "total_words": 103
+    },
+    "F73R": {
+      "section": "Z",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asarum",
+        "olei",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 7,
+      "total_words": 96
+    },
+    "F73V": {
+      "section": "Z",
+      "ingredients_found": [
+        "aloe",
+        "cerae",
+        "coque",
+        "hiera",
+        "sal",
+        "tere"
+      ],
+      "count": 6,
+      "total_words": 99
+    },
+    "F75R": {
+      "section": "B",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asarum",
+        "ciere",
+        "coque",
+        "equaliter",
+        "hiera",
+        "recipe",
+        "tere",
+        "ture"
+      ],
+      "count": 10,
+      "total_words": 417
+    },
+    "F75V": {
+      "section": "B",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "cerae",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "olei",
+        "recipe",
+        "sal",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 13,
+      "total_words": 359
+    },
+    "F76R": {
+      "section": "T",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "asari",
+        "asarum",
+        "cassiae",
+        "cera",
+        "cerae",
+        "ciere",
+        "coquas",
+        "coque",
+        "coquere",
+        "hiera",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 16,
+      "total_words": 569
+    },
+    "F76V": {
+      "section": "B",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asari",
+        "cassiae",
+        "cera",
+        "cicura",
+        "ciere",
+        "coquas",
+        "coque",
+        "costi",
+        "hiera",
+        "iecur",
+        "recipe",
+        "tere",
+        "ture"
+      ],
+      "count": 15,
+      "total_words": 400
+    },
+    "F77R": {
+      "section": "B",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "aloes",
+        "asarum",
+        "cassiae",
+        "cerae",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "olei",
+        "recipe",
+        "sal",
+        "tere"
+      ],
+      "count": 14,
+      "total_words": 332
+    },
+    "F77V": {
+      "section": "B",
+      "ingredients_found": [
+        "aloes",
+        "asari",
+        "ciere",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "olei",
+        "tere"
+      ],
+      "count": 9,
+      "total_words": 332
+    },
+    "F78R": {
+      "section": "B",
+      "ingredients_found": [
+        "aloe",
+        "asarum",
+        "cera",
+        "ciere",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "sal",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 12,
+      "total_words": 300
+    },
+    "F78V": {
+      "section": "B",
+      "ingredients_found": [
+        "aloes",
+        "ciere",
+        "coque",
+        "hiera",
+        "olei",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 9,
+      "total_words": 295
+    },
+    "F79R": {
+      "section": "B",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "aloe",
+        "aloes",
+        "asari",
+        "asarum",
+        "cera",
+        "cerae",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal"
+      ],
+      "count": 16,
+      "total_words": 383
+    },
+    "F79V": {
+      "section": "B",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "aloe",
+        "aloes",
+        "cerae",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 13,
+      "total_words": 356
+    },
+    "F80R": {
+      "section": "B",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "aloe",
+        "aloes",
+        "asari",
+        "cera",
+        "cerae",
+        "ciere",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 17,
+      "total_words": 446
+    },
+    "F80V": {
+      "section": "B",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "cera",
+        "cerae",
+        "cicura",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "sal",
+        "sapa",
+        "succi"
+      ],
+      "count": 14,
+      "total_words": 376
+    },
+    "F81R": {
+      "section": "B",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "aloes",
+        "asari",
+        "asarum",
+        "cassiae",
+        "cerae",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 15,
+      "total_words": 210
+    },
+    "F81V": {
+      "section": "B",
+      "ingredients_found": [
+        "aloes",
+        "cera",
+        "ciere",
+        "coque",
+        "costi",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "recipe",
+        "tere",
+        "ture"
+      ],
+      "count": 11,
+      "total_words": 255
+    },
+    "F82R": {
+      "section": "B",
+      "ingredients_found": [
+        "aloe",
+        "asarum",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "recipe",
+        "tere"
+      ],
+      "count": 8,
+      "total_words": 292
+    },
+    "F82V": {
+      "section": "B",
+      "ingredients_found": [
+        "aceto",
+        "aloes",
+        "cera",
+        "cerae",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "recipe",
+        "sal",
+        "tere"
+      ],
+      "count": 12,
+      "total_words": 319
+    },
+    "F83R": {
+      "section": "B",
+      "ingredients_found": [
+        "asari",
+        "cera",
+        "ciere",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "nardi",
+        "olei",
+        "recipe",
+        "sal",
+        "tere"
+      ],
+      "count": 13,
+      "total_words": 346
+    },
+    "F83V": {
+      "section": "B",
+      "ingredients_found": [
+        "aloe",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "sal",
+        "tere"
+      ],
+      "count": 7,
+      "total_words": 261
+    },
+    "F84R": {
+      "section": "B",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "asarum",
+        "cerae",
+        "ciere",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "olei",
+        "sal",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 15,
+      "total_words": 369
+    },
+    "F84V": {
+      "section": "B",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "cera",
+        "ciere",
+        "coque",
+        "hiera",
+        "recipe",
+        "sal",
+        "tere"
+      ],
+      "count": 9,
+      "total_words": 341
+    },
+    "F85R1": {
+      "section": "T",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "asari",
+        "asarum",
+        "cera",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "nardi",
+        "olei",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 14,
+      "total_words": 347
+    },
+    "F85R2": {
+      "section": "C",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asari",
+        "asarum",
+        "hiera",
+        "olei",
+        "tere",
+        "ture"
+      ],
+      "count": 8,
+      "total_words": 156
+    },
+    "F86V4": {
+      "section": "C",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asari",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "sal",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 12,
+      "total_words": 191
+    },
+    "F86V6": {
+      "section": "T",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "asari",
+        "asarum",
+        "cera",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "sal",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 15,
+      "total_words": 490
+    },
+    "F86V5": {
+      "section": "T",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "aloe",
+        "aloes",
+        "asari",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "nardi",
+        "olei",
+        "recipe",
+        "sal",
+        "ture"
+      ],
+      "count": 14,
+      "total_words": 390
+    },
+    "F86V3": {
+      "section": "C",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "cera",
+        "ciere",
+        "coque",
+        "hiera",
+        "olei",
+        "ture"
+      ],
+      "count": 8,
+      "total_words": 281
+    },
+    "F87R": {
+      "section": "H",
+      "ingredients_found": [
+        "cera",
+        "ciere",
+        "hiera",
+        "olei",
+        "sal"
+      ],
+      "count": 5,
+      "total_words": 103
+    },
+    "F87V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "coque",
+        "hiera",
+        "olei",
+        "recipe"
+      ],
+      "count": 5,
+      "total_words": 92
+    },
+    "F88R": {
+      "section": "P",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "cera",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "olei",
+        "sal",
+        "sapa",
+        "tere"
+      ],
+      "count": 11,
+      "total_words": 150
+    },
+    "F88V": {
+      "section": "P",
+      "ingredients_found": [
+        "aloes",
+        "asarum",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "recipe",
+        "sal",
+        "ture"
+      ],
+      "count": 9,
+      "total_words": 145
+    },
+    "F89R1": {
+      "section": "P",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "aloes",
+        "ciere",
+        "coque",
+        "iecur",
+        "recipe"
+      ],
+      "count": 7,
+      "total_words": 140
+    },
+    "F89R2": {
+      "section": "P",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "ciere",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "recipe",
+        "sal"
+      ],
+      "count": 10,
+      "total_words": 234
+    },
+    "F89V2": {
+      "section": "P",
+      "ingredients_found": [
+        "aloes",
+        "asari",
+        "cassiae",
+        "cera",
+        "cerae",
+        "ciere",
+        "coque",
+        "coquere",
+        "hiera",
+        "iecur",
+        "sal"
+      ],
+      "count": 11,
+      "total_words": 182
+    },
+    "F89V1": {
+      "section": "P",
+      "ingredients_found": [
+        "asari",
+        "asarum",
+        "cera",
+        "cerae",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "sapa",
+        "ture"
+      ],
+      "count": 11,
+      "total_words": 154
+    },
+    "F90R1": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "cera",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "nardi",
+        "sal"
+      ],
+      "count": 9,
+      "total_words": 69
+    },
+    "F90R2": {
+      "section": "H",
+      "ingredients_found": [
+        "coque",
+        "hiera",
+        "olei"
+      ],
+      "count": 3,
+      "total_words": 47
+    },
+    "F90V2": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "ciere",
+        "coque",
+        "sal"
+      ],
+      "count": 5,
+      "total_words": 68
+    },
+    "F90V1": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "ciere",
+        "coque",
+        "hiera",
+        "recipe"
+      ],
+      "count": 5,
+      "total_words": 96
+    },
+    "F93R": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "aloes",
+        "ciere",
+        "coquas",
+        "hiera",
+        "olei",
+        "recipe",
+        "tere"
+      ],
+      "count": 8,
+      "total_words": 153
+    },
+    "F93V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloes",
+        "hiera",
+        "sal"
+      ],
+      "count": 3,
+      "total_words": 88
+    },
+    "F94R": {
+      "section": "H",
+      "ingredients_found": [
+        "asarum",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "sal",
+        "ture"
+      ],
+      "count": 7,
+      "total_words": 79
+    },
+    "F94V": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "coque",
+        "hiera",
+        "iecur",
+        "tere",
+        "ture"
+      ],
+      "count": 6,
+      "total_words": 97
+    },
+    "F95R1": {
+      "section": "H",
+      "ingredients_found": [
+        "coque",
+        "hiera"
+      ],
+      "count": 2,
+      "total_words": 102
+    },
+    "F95R2": {
+      "section": "H",
+      "ingredients_found": [
+        "coquas",
+        "hiera",
+        "sal",
+        "ture"
+      ],
+      "count": 4,
+      "total_words": 79
+    },
+    "F95V2": {
+      "section": "H",
+      "ingredients_found": [
+        "asarum",
+        "cera",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "tere"
+      ],
+      "count": 7,
+      "total_words": 60
+    },
+    "F95V1": {
+      "section": "H",
+      "ingredients_found": [
+        "aceti",
+        "ciere",
+        "coque",
+        "hiera",
+        "sal",
+        "ture"
+      ],
+      "count": 6,
+      "total_words": 118
+    },
+    "F96R": {
+      "section": "H",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "ciere",
+        "coque",
+        "hiera",
+        "sal"
+      ],
+      "count": 6,
+      "total_words": 84
+    },
+    "F96V": {
+      "section": "H",
+      "ingredients_found": [
+        "cerae",
+        "ciere",
+        "hiera"
+      ],
+      "count": 3,
+      "total_words": 56
+    },
+    "F99R": {
+      "section": "P",
+      "ingredients_found": [
+        "asari",
+        "asarum",
+        "cera",
+        "ciere",
+        "coquas",
+        "coque",
+        "coquere",
+        "hiera",
+        "olei",
+        "recipe",
+        "sal"
+      ],
+      "count": 11,
+      "total_words": 194
+    },
+    "F99V": {
+      "section": "P",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asarum",
+        "cerae",
+        "coquas",
+        "coque",
+        "coquere",
+        "hiera",
+        "sal"
+      ],
+      "count": 9,
+      "total_words": 174
+    },
+    "F100R": {
+      "section": "P",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asari",
+        "cerae",
+        "ciere",
+        "coque",
+        "equaliter",
+        "hiera",
+        "sal"
+      ],
+      "count": 9,
+      "total_words": 110
+    },
+    "F100V": {
+      "section": "P",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "cerae",
+        "coque",
+        "equaliter",
+        "hiera"
+      ],
+      "count": 6,
+      "total_words": 93
+    },
+    "F101R": {
+      "section": "P",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "asarum",
+        "cera",
+        "cerae",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "olei",
+        "recipe"
+      ],
+      "count": 12,
+      "total_words": 227
+    },
+    "F101V": {
+      "section": "P",
+      "ingredients_found": [
+        "aceto",
+        "aloes",
+        "asari",
+        "asarum",
+        "cera",
+        "cicura",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "olei",
+        "recipe",
+        "sal"
+      ],
+      "count": 13,
+      "total_words": 215
+    },
+    "F102R1": {
+      "section": "P",
+      "ingredients_found": [
+        "aloes",
+        "asarum",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera"
+      ],
+      "count": 6,
+      "total_words": 107
+    },
+    "F102R2": {
+      "section": "P",
+      "ingredients_found": [
+        "aloes",
+        "asarum",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera"
+      ],
+      "count": 6,
+      "total_words": 144
+    },
+    "F102V2": {
+      "section": "P",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "cera",
+        "cerae",
+        "ciere",
+        "coque",
+        "hiera",
+        "recipe"
+      ],
+      "count": 8,
+      "total_words": 189
+    },
+    "F102V1": {
+      "section": "P",
+      "ingredients_found": [
+        "aloes",
+        "asari",
+        "cera",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "nardi"
+      ],
+      "count": 8,
+      "total_words": 128
+    },
+    "F103R": {
+      "section": "S",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "aloes",
+        "asari",
+        "cera",
+        "cerae",
+        "cicura",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "sal",
+        "succi",
+        "tere",
+        "ture"
+      ],
+      "count": 17,
+      "total_words": 532
+    },
+    "F103V": {
+      "section": "S",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "aloes",
+        "asarum",
+        "cera",
+        "cerae",
+        "ciere",
+        "coque",
+        "enula",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 15,
+      "total_words": 454
+    },
+    "F104R": {
+      "section": "S",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "cera",
+        "cerae",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 13,
+      "total_words": 448
+    },
+    "F104V": {
+      "section": "S",
+      "ingredients_found": [
+        "aloe",
+        "asari",
+        "ciere",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 13,
+      "total_words": 476
+    },
+    "F105R": {
+      "section": "S",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asari",
+        "cera",
+        "cerae",
+        "ciere",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 15,
+      "total_words": 379
+    },
+    "F105V": {
+      "section": "S",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "apium",
+        "asari",
+        "cassia",
+        "cera",
+        "cerae",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "misce",
+        "olei",
+        "recipe",
+        "sal",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 18,
+      "total_words": 398
+    },
+    "F106R": {
+      "section": "S",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asari",
+        "cerae",
+        "ciere",
+        "coque",
+        "coquere",
+        "costi",
+        "hiera",
+        "iecur",
+        "olei",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 14,
+      "total_words": 432
+    },
+    "F106V": {
+      "section": "S",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "apii",
+        "asari",
+        "asarum",
+        "cicura",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 18,
+      "total_words": 444
+    },
+    "F107R": {
+      "section": "S",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "apium",
+        "asari",
+        "asarum",
+        "cera",
+        "cerae",
+        "ciere",
+        "coque",
+        "croci",
+        "hiera",
+        "iecur",
+        "misce",
+        "olei",
+        "recipe",
+        "sal",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 20,
+      "total_words": 487
+    },
+    "F107V": {
+      "section": "S",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asari",
+        "asarum",
+        "ciere",
+        "coquas",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "nardi",
+        "olei",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 16,
+      "total_words": 462
+    },
+    "F108R": {
+      "section": "S",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "aloe",
+        "aloes",
+        "asari",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "sal",
+        "sapa",
+        "succi",
+        "tere"
+      ],
+      "count": 14,
+      "total_words": 494
+    },
+    "F108V": {
+      "section": "S",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "aloe",
+        "aloes",
+        "asari",
+        "asarum",
+        "cera",
+        "cerae",
+        "ciere",
+        "coque",
+        "coquere",
+        "hiera",
+        "olei",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 17,
+      "total_words": 581
+    },
+    "F111R": {
+      "section": "S",
+      "ingredients_found": [
+        "aloe",
+        "aloes",
+        "asarum",
+        "cassiae",
+        "cera",
+        "cicura",
+        "ciere",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 15,
+      "total_words": 624
+    },
+    "F111V": {
+      "section": "S",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "asari",
+        "asarum",
+        "cera",
+        "cicura",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "succi",
+        "tere",
+        "ture"
+      ],
+      "count": 17,
+      "total_words": 568
+    },
+    "F112R": {
+      "section": "S",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "asari",
+        "asarum",
+        "cera",
+        "cerae",
+        "cicura",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "nardi",
+        "olei",
+        "recipe",
+        "sal",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 18,
+      "total_words": 401
+    },
+    "F112V": {
+      "section": "S",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "asari",
+        "asarum",
+        "cassiae",
+        "cera",
+        "ciere",
+        "coque",
+        "coquere",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "sapa",
+        "tere",
+        "ture"
+      ],
+      "count": 19,
+      "total_words": 420
+    },
+    "F113R": {
+      "section": "S",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "asari",
+        "asarum",
+        "cera",
+        "cicura",
+        "ciere",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "ture"
+      ],
+      "count": 15,
+      "total_words": 529
+    },
+    "F113V": {
+      "section": "S",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "asari",
+        "asarum",
+        "cera",
+        "cerae",
+        "ciere",
+        "coque",
+        "coquere",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 18,
+      "total_words": 502
+    },
+    "F114R": {
+      "section": "S",
+      "ingredients_found": [
+        "aceti",
+        "aceto",
+        "aloes",
+        "apii",
+        "asari",
+        "cerae",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 14,
+      "total_words": 460
+    },
+    "F114V": {
+      "section": "S",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "aloes",
+        "asarum",
+        "ciere",
+        "coquas",
+        "coque",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "ture"
+      ],
+      "count": 13,
+      "total_words": 376
+    },
+    "F115R": {
+      "section": "S",
+      "ingredients_found": [
+        "asari",
+        "cera",
+        "ciere",
+        "coquas",
+        "coque",
+        "coquere",
+        "equaliter",
+        "hiera",
+        "olei",
+        "recipe",
+        "tere",
+        "ture"
+      ],
+      "count": 12,
+      "total_words": 461
+    },
+    "F115V": {
+      "section": "S",
+      "ingredients_found": [
+        "aceti",
+        "aloe",
+        "aloes",
+        "asari",
+        "asarum",
+        "ciere",
+        "coque",
+        "equaliter",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 15,
+      "total_words": 410
+    },
+    "F116R": {
+      "section": "S",
+      "ingredients_found": [
+        "aceto",
+        "aloe",
+        "aloes",
+        "cera",
+        "cicura",
+        "ciere",
+        "coquas",
+        "coque",
+        "enula",
+        "hiera",
+        "iecur",
+        "olei",
+        "recipe",
+        "sal",
+        "tere",
+        "ture"
+      ],
+      "count": 16,
+      "total_words": 553
+    },
+    "F116V": {
+      "section": "T",
+      "ingredients_found": [
+        "ciere"
+      ],
+      "count": 1,
+      "total_words": 2
+    }
+  },
+  "recipes": {
+    "Aurea Alexandrina": {
+      "canonical_ingredients": [
+        "aloes",
+        "asari",
+        "cinamomi",
+        "cola",
+        "coque",
+        "croci",
+        "masticis",
+        "mellis",
+        "olei",
+        "petrosellini",
+        "piperis",
+        "turis"
+      ],
+      "best_folio": "F105R",
+      "jaccard": 0.5,
+      "found": [
+        "aloes",
+        "asari",
+        "cola",
+        "coque",
+        "olei",
+        "piperis"
+      ],
+      "missing": [
+        "cinamomi",
+        "croci",
+        "masticis",
+        "mellis",
+        "petrosellini",
+        "turis"
+      ]
+    },
+    "Metridatum": {
+      "canonical_ingredients": [
+        "apii",
+        "asari",
+        "cassia",
+        "cinamomi",
+        "croci",
+        "mellis",
+        "nardi",
+        "petrosellini",
+        "piperis",
+        "turis"
+      ],
+      "best_folio": "F58R",
+      "jaccard": 0.4,
+      "found": [
+        "asari",
+        "cassia",
+        "mellis",
+        "nardi"
+      ],
+      "missing": [
+        "apii",
+        "cinamomi",
+        "croci",
+        "petrosellini",
+        "piperis",
+        "turis"
+      ]
+    },
+    "Hiera Picra": {
+      "canonical_ingredients": [
+        "aloes",
+        "asari",
+        "cinamomi",
+        "cola",
+        "coque",
+        "croci",
+        "masticis",
+        "mellis",
+        "nardi"
+      ],
+      "best_folio": "F58R",
+      "jaccard": 0.667,
+      "found": [
+        "aloes",
+        "asari",
+        "cola",
+        "coque",
+        "mellis",
+        "nardi"
+      ],
+      "missing": [
+        "cinamomi",
+        "croci",
+        "masticis"
+      ]
+    }
+  },
+  "summary": {
+    "folios_with_ingredients": 224,
+    "folios_with_3plus": 216,
+    "total_unique_ingredients": 44
+  }
+}

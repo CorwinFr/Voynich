@@ -1,0 +1,77 @@
+{
+  "total": 54611,
+  "latin_match": 50015,
+  "latin_pct": 91.6,
+  "italian_match": 17690,
+  "italian_pct": 32.4,
+  "both": 17684,
+  "latin_only": 32331,
+  "italian_only": 6,
+  "by_length": {
+    "2": {
+      "lat": 3334,
+      "ita": 0,
+      "both": 12906,
+      "neither": 0,
+      "total": 16240
+    },
+    "3": {
+      "lat": 6838,
+      "ita": 0,
+      "both": 2279,
+      "neither": 13,
+      "total": 9130
+    },
+    "4": {
+      "lat": 13120,
+      "ita": 2,
+      "both": 2129,
+      "neither": 514,
+      "total": 15765
+    },
+    "5": {
+      "lat": 7998,
+      "ita": 1,
+      "both": 351,
+      "neither": 1302,
+      "total": 9652
+    },
+    "6": {
+      "lat": 750,
+      "ita": 1,
+      "both": 16,
+      "neither": 1229,
+      "total": 1996
+    },
+    "7": {
+      "lat": 170,
+      "ita": 0,
+      "both": 3,
+      "neither": 825,
+      "total": 998
+    },
+    "8": {
+      "lat": 51,
+      "ita": 1,
+      "both": 0,
+      "neither": 431,
+      "total": 483
+    },
+    "9": {
+      "lat": 69,
+      "ita": 1,
+      "both": 0,
+      "neither": 168,
+      "total": 238
+    },
+    "10": {
+      "lat": 1,
+      "ita": 0,
+      "both": 0,
+      "neither": 74,
+      "total": 75
+    }
+  },
+  "italian_dict_size": 13280,
+  "perseus_size": 84929
+}

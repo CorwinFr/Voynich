@@ -1,0 +1,225 @@
+{
+  "by_length": {
+    "2": {
+      "total": 16240,
+      "match": 16240,
+      "pct": 100.0,
+      "examples_match": [
+        "es",
+        "ac",
+        "in",
+        "ei",
+        "in"
+      ],
+      "examples_miss": []
+    },
+    "3": {
+      "total": 9130,
+      "match": 9117,
+      "pct": 99.9,
+      "examples_match": [
+        "cum",
+        "ede",
+        "ili",
+        "alo",
+        "per"
+      ],
+      "examples_miss": [
+        "iob",
+        "xas",
+        "esr",
+        "iag",
+        "iag"
+      ]
+    },
+    "4": {
+      "total": 15765,
+      "match": 15249,
+      "pct": 96.7,
+      "examples_match": [
+        "text",
+        "cius",
+        "eius",
+        "olei",
+        "iure"
+      ],
+      "examples_miss": [
+        "high",
+        "only",
+        "ccio",
+        "asio",
+        "edan"
+      ]
+    },
+    "5": {
+      "total": 9652,
+      "match": 8349,
+      "pct": 86.5,
+      "examples_match": [
+        "latin",
+        "hiera",
+        "cibus",
+        "taure",
+        "liens"
+      ],
+      "examples_miss": [
+        "clean",
+        "piare",
+        "quede",
+        "edure",
+        "piura"
+      ]
+    },
+    "6": {
+      "total": 1996,
+      "match": 766,
+      "pct": 38.4,
+      "examples_match": [
+        "decode",
+        "aquaet",
+        "dulcis",
+        "quiere",
+        "quiere"
+      ],
+      "examples_miss": [
+        "folios",
+        "indura",
+        "cliede",
+        "edeura",
+        "esliem"
+      ]
+    },
+    "7": {
+      "total": 998,
+      "match": 173,
+      "pct": 17.3,
+      "examples_match": [
+        "reading",
+        "ciboque",
+        "periere",
+        "ciboque",
+        "cassiae"
+      ],
+      "examples_miss": [
+        "voynich",
+        "ereiere",
+        "uiusens",
+        "queicio",
+        "ineload"
+      ]
+    },
+    "8": {
+      "total": 483,
+      "match": 51,
+      "pct": 10.6,
+      "examples_match": [
+        "aperiens",
+        "aperiens",
+        "aperiens",
+        "aperiens",
+        "aperiens"
+      ],
+      "examples_miss": [
+        "inelesde",
+        "eliasede",
+        "ereioere",
+        "perciens",
+        "cielquad"
+      ]
+    },
+    "9": {
+      "total": 238,
+      "match": 69,
+      "pct": 29.0,
+      "examples_match": [
+        "equaliter",
+        "equaliter",
+        "equaliter",
+        "equaliter",
+        "equaliter"
+      ],
+      "examples_miss": [
+        "confirmed",
+        "coquentes",
+        "elciedead",
+        "ceselesde",
+        "epererede"
+      ]
+    },
+    "10": {
+      "total": 75,
+      "match": 1,
+      "pct": 1.3,
+      "examples_match": [
+        "manuscript"
+      ],
+      "examples_miss": [
+        "confidence",
+        "compellens",
+        "perinperie",
+        "eperierede",
+        "cooperiens"
+      ]
+    },
+    "11": {
+      "total": 21,
+      "match": 0,
+      "pct": 0.0,
+      "examples_match": [],
+      "examples_miss": [
+        "inidenquide",
+        "ciouscioere",
+        "ereiesusuce",
+        "eusureciens",
+        "inperiodede"
+      ]
+    },
+    "12": {
+      "total": 10,
+      "match": 0,
+      "pct": 0.0,
+      "examples_match": [],
+      "examples_miss": [
+        "eperdurecide",
+        "esiusnquiens",
+        "cioeopereuin",
+        "odeneloquain",
+        "eperdeuirede"
+      ]
+    },
+    "13": {
+      "total": 2,
+      "match": 0,
+      "pct": 0.0,
+      "examples_match": [],
+      "examples_miss": [
+        "cieperuceiode",
+        "caidureureuce"
+      ]
+    },
+    "14": {
+      "total": 1,
+      "match": 0,
+      "pct": 0.0,
+      "examples_match": [],
+      "examples_miss": [
+        "ciedenquoeduce"
+      ]
+    }
+  },
+  "filtered_5plus": {
+    "total": 13476,
+    "match": 9409,
+    "pct": 69.8
+  },
+  "filtered_6plus": {
+    "total": 3824,
+    "match": 1060,
+    "pct": 27.7
+  },
+  "overall": {
+    "total": 54611,
+    "match": 50015,
+    "pct": 91.6
+  }
+}

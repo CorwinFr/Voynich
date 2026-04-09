@@ -1,0 +1,161 @@
+{
+  "total_words": 36983,
+  "perseus_match": 5202,
+  "perseus_pct": 14.1,
+  "mean_length": 5.11,
+  "top_30": [
+    {
+      "word": "daiin",
+      "count": 847,
+      "in_perseus": false
+    },
+    {
+      "word": "ol",
+      "count": 545,
+      "in_perseus": true
+    },
+    {
+      "word": "aiin",
+      "count": 504,
+      "in_perseus": false
+    },
+    {
+      "word": "chedy",
+      "count": 504,
+      "in_perseus": false
+    },
+    {
+      "word": "shedy",
+      "count": 435,
+      "in_perseus": false
+    },
+    {
+      "word": "ar",
+      "count": 398,
+      "in_perseus": true
+    },
+    {
+      "word": "chol",
+      "count": 396,
+      "in_perseus": false
+    },
+    {
+      "word": "or",
+      "count": 382,
+      "in_perseus": true
+    },
+    {
+      "word": "chey",
+      "count": 353,
+      "in_perseus": false
+    },
+    {
+      "word": "dar",
+      "count": 327,
+      "in_perseus": true
+    },
+    {
+      "word": "qokeey",
+      "count": 308,
+      "in_perseus": false
+    },
+    {
+      "word": "qokeedy",
+      "count": 306,
+      "in_perseus": false
+    },
+    {
+      "word": "dy",
+      "count": 281,
+      "in_perseus": true
+    },
+    {
+      "word": "shey",
+      "count": 277,
+      "in_perseus": false
+    },
+    {
+      "word": "qokain",
+      "count": 277,
+      "in_perseus": false
+    },
+    {
+      "word": "qokedy",
+      "count": 274,
+      "in_perseus": false
+    },
+    {
+      "word": "qokaiin",
+      "count": 267,
+      "in_perseus": false
+    },
+    {
+      "word": "al",
+      "count": 264,
+      "in_perseus": true
+    },
+    {
+      "word": "dal",
+      "count": 241,
+      "in_perseus": true
+    },
+    {
+      "word": "dain",
+      "count": 215,
+      "in_perseus": true
+    },
+    {
+      "word": "chor",
+      "count": 214,
+      "in_perseus": false
+    },
+    {
+      "word": "okaiin",
+      "count": 212,
+      "in_perseus": false
+    },
+    {
+      "word": "qokal",
+      "count": 193,
+      "in_perseus": false
+    },
+    {
+      "word": "chy",
+      "count": 186,
+      "in_perseus": false
+    },
+    {
+      "word": "cheey",
+      "count": 184,
+      "in_perseus": false
+    },
+    {
+      "word": "shol",
+      "count": 183,
+      "in_perseus": false
+    },
+    {
+      "word": "okeey",
+      "count": 181,
+      "in_perseus": false
+    },
+    {
+      "word": "cheol",
+      "count": 171,
+      "in_perseus": false
+    },
+    {
+      "word": "qokar",
+      "count": 158,
+      "in_perseus": false
+    },
+    {
+      "word": "otedy",
+      "count": 156,
+      "in_perseus": false
+    }
+  ],
+  "primary_mapping_used": {
+    "_comment": "Glyph \u2192 phoneme mappings. Each entry: glyph \u2192 {phonemes, weights, context_overrides}. Context keys: 'prev=X', 'next=X', 'initial', 'final'. Extracted from v10._resolve_glyph()."
+  }
+}

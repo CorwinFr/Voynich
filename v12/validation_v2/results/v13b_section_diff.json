@@ -1,0 +1,378 @@
+{
+  "A": {
+    "total_words": 1216,
+    "pharma_words": 84,
+    "pharma_pct": 6.9,
+    "top_pharma": [
+      [
+        "aloes",
+        15
+      ],
+      [
+        "aloe",
+        14
+      ],
+      [
+        "olei",
+        12
+      ],
+      [
+        "hiera",
+        11
+      ],
+      [
+        "coque",
+        6
+      ],
+      [
+        "recipe",
+        4
+      ],
+      [
+        "ciere",
+        4
+      ],
+      [
+        "tere",
+        3
+      ],
+      [
+        "ture",
+        3
+      ],
+      [
+        "apii",
+        3
+      ]
+    ]
+  },
+  "B": {
+    "total_words": 10695,
+    "pharma_words": 662,
+    "pharma_pct": 6.2,
+    "top_pharma": [
+      [
+        "coque",
+        181
+      ],
+      [
+        "hiera",
+        125
+      ],
+      [
+        "ciere",
+        55
+      ],
+      [
+        "tere",
+        54
+      ],
+      [
+        "sal",
+        46
+      ],
+      [
+        "recipe",
+        31
+      ],
+      [
+        "aloe",
+        31
+      ],
+      [
+        "coquas",
+        29
+      ],
+      [
+        "aloes",
+        23
+      ],
+      [
+        "ture",
+        21
+      ]
+    ]
+  },
+  "C": {
+    "total_words": 2317,
+    "pharma_words": 170,
+    "pharma_pct": 7.3,
+    "top_pharma": [
+      [
+        "hiera",
+        27
+      ],
+      [
+        "aloes",
+        22
+      ],
+      [
+        "aloe",
+        21
+      ],
+      [
+        "recipe",
+        18
+      ],
+      [
+        "ciere",
+        15
+      ],
+      [
+        "olei",
+        15
+      ],
+      [
+        "sal",
+        12
+      ],
+      [
+        "tere",
+        11
+      ],
+      [
+        "misce",
+        6
+      ],
+      [
+        "ture",
+        6
+      ]
+    ]
+  },
+  "H": {
+    "total_words": 16606,
+    "pharma_words": 1023,
+    "pharma_pct": 6.2,
+    "top_pharma": [
+      [
+        "hiera",
+        278
+      ],
+      [
+        "ciere",
+        167
+      ],
+      [
+        "coque",
+        85
+      ],
+      [
+        "olei",
+        67
+      ],
+      [
+        "iecur",
+        61
+      ],
+      [
+        "aloes",
+        59
+      ],
+      [
+        "recipe",
+        49
+      ],
+      [
+        "sal",
+        49
+      ],
+      [
+        "tere",
+        43
+      ],
+      [
+        "coquas",
+        36
+      ]
+    ]
+  },
+  "P": {
+    "total_words": 3658,
+    "pharma_words": 309,
+    "pharma_pct": 8.4,
+    "top_pharma": [
+      [
+        "hiera",
+        93
+      ],
+      [
+        "coque",
+        55
+      ],
+      [
+        "ciere",
+        40
+      ],
+      [
+        "aloes",
+        22
+      ],
+      [
+        "coquas",
+        22
+      ],
+      [
+        "sal",
+        14
+      ],
+      [
+        "recipe",
+        14
+      ],
+      [
+        "olei",
+        11
+      ],
+      [
+        "cerae",
+        9
+      ],
+      [
+        "aloe",
+        7
+      ]
+    ]
+  },
+  "S": {
+    "total_words": 17829,
+    "pharma_words": 1165,
+    "pharma_pct": 6.5,
+    "top_pharma": [
+      [
+        "coque",
+        279
+      ],
+      [
+        "hiera",
+        152
+      ],
+      [
+        "aloe",
+        101
+      ],
+      [
+        "ciere",
+        99
+      ],
+      [
+        "sal",
+        87
+      ],
+      [
+        "tere",
+        76
+      ],
+      [
+        "iecur",
+        67
+      ],
+      [
+        "ture",
+        66
+      ],
+      [
+        "aloes",
+        49
+      ],
+      [
+        "olei",
+        43
+      ]
+    ]
+  },
+  "T": {
+    "total_words": 3566,
+    "pharma_words": 228,
+    "pharma_pct": 6.4,
+    "top_pharma": [
+      [
+        "hiera",
+        58
+      ],
+      [
+        "coque",
+        37
+      ],
+      [
+        "ciere",
+        24
+      ],
+      [
+        "sal",
+        20
+      ],
+      [
+        "tere",
+        14
+      ],
+      [
+        "ture",
+        14
+      ],
+      [
+        "olei",
+        11
+      ],
+      [
+        "recipe",
+        10
+      ],
+      [
+        "aloe",
+        8
+      ],
+      [
+        "iecur",
+        7
+      ]
+    ]
+  },
+  "Z": {
+    "total_words": 1673,
+    "pharma_words": 184,
+    "pharma_pct": 11.0,
+    "top_pharma": [
+      [
+        "aloe",
+        46
+      ],
+      [
+        "aloes",
+        43
+      ],
+      [
+        "sal",
+        22
+      ],
+      [
+        "ture",
+        16
+      ],
+      [
+        "olei",
+        12
+      ],
+      [
+        "hiera",
+        11
+      ],
+      [
+        "tere",
+        8
+      ],
+      [
+        "cerae",
+        6
+      ],
+      [
+        "ciere",
+        4
+      ],
+      [
+        "iecur",
+        4
+      ]
+    ]
+  }
+}

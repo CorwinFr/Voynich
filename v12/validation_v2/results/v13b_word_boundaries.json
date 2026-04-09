@@ -1,0 +1,25 @@
+{
+  "standard": {
+    "n": 36983,
+    "perseus_4plus": 684,
+    "pct_4plus": 1.8,
+    "mean_length": 5.11
+  },
+  "paired": {
+    "n": 18491,
+    "perseus_4plus": 28,
+    "pct_4plus": 0.2,
+    "mean_length": 10.22
+  },
+  "examples_paired_match": [
+    "dolor",
+    "tarar",
+    "dolor",
+    "ortas",
+    "loram",
+    "polor",
+    "radam",
+    "tarar",
+    "sanam"
+  ]
+}
