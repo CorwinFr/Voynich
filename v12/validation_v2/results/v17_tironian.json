@@ -1,0 +1,52 @@
+{
+  "total_entries": 12987,
+  "pharma_matches": {
+    "aqua": 5,
+    "aloe": 1,
+    "oleum": 2,
+    "sal": 5,
+    "mel": 5,
+    "cera": 5,
+    "tere": 5,
+    "cola": 5
+  },
+  "sample_matches": {
+    "aqua": [
+      "{'id': 'S0824', 'latin_value': 'anteaquam', 'schmitz_refs': ['9,6'], 'type': 'word', 'frequency': 'r",
+      "{'id': 'S0953', 'latin_value': 'aqua', 'schmitz_refs': ['73,60'], 'type': 'word', 'frequency': 'rare",
+      "{'id': 'S0954', 'latin_value': 'aquarius', 'schmitz_refs': ['73,61'], 'type': 'word', 'frequency': '"
+    ],
+    "aloe": [
+      "{'id': 'S0568', 'latin_value': 'aloes', 'schmitz_refs': ['108,41'], 'type': 'word', 'frequency': 'ra"
+    ],
+    "oleum": [
+      "{'id': 'S3737', 'latin_value': 'doleum', 'schmitz_refs': ['96,21'], 'type': 'word', 'frequency': 'ra",
+      "{'id': 'S8151', 'latin_value': 'oleum', 'schmitz_refs': ['98,74'], 'type': 'word', 'frequency': 'rar"
+    ],
+    "sal": [
+      "{'id': 'S0303', 'latin_value': 'adsallire', 'schmitz_refs': ['128,52'], 'type': 'word', 'frequency':",
+      "{'id': 'S0304', 'latin_value': 'adsalutat', 'schmitz_refs': ['63,97'], 'type': 'word', 'frequency': ",
+      "{'id': 'S2084', 'latin_value': 'Cisalpinus', 'schmitz_refs': ['89,1'], 'type': 'word', 'frequency': "
+    ],
+    "mel": [
+      "{'id': 'S0035', 'latin_value': 'Abimelecb', 'schmitz_refs': ['120,33', '124,102', '125,72', '131,25'",
+      "{'id': 'S1686', 'latin_value': 'camelus', 'schmitz_refs': ['108,46'], 'type': 'word', 'frequency': '",
+      "{'id': 'S2768', 'latin_value': 'contumelia', 'schmitz_refs': ['43,96'], 'type': 'word', 'frequency':"
+    ],
+    "cera": [
+      "{'id': 'S1780', 'latin_value': 'carcerarius', 'schmitz_refs': ['65,75'], 'type': 'word', 'frequency'",
+      "{'id': 'S1922', 'latin_value': 'cera', 'schmitz_refs': ['89,84'], 'type': 'word', 'frequency': 'rare",
+      "{'id': 'S1923', 'latin_value': 'ceralis', 'schmitz_refs': ['89,84'], 'type': 'word', 'frequency': 'r"
+    ],
+    "tere": [
+      "{'id': 'S6252', 'latin_value': 'interea', 'schmitz_refs': ['2,46'], 'type': 'word', 'frequency': 'ra",
+      "{'id': 'S6254', 'latin_value': 'interempsit', 'schmitz_refs': ['27,6'], 'type': 'word', 'frequency':",
+      "{'id': 'S9257', 'latin_value': 'praeterea', 'schmitz_refs': ['2,45'], 'type': 'word', 'frequency': '"
+    ],
+    "cola": [
+      "{'id': 'S0105', 'latin_value': 'accola', 'schmitz_refs': ['37,20'], 'type': 'word', 'frequency': 'ra",
+      "{'id': 'S0542', 'latin_value': 'agricola', 'schmitz_refs': ['37,24'], 'type': 'word', 'frequency': '",
+      "{'id': 'S1603', 'latin_value': 'caelicola', 'schmitz_refs': ['68,77'], 'type': 'word', 'frequency': "
+    ]
+  }
+}

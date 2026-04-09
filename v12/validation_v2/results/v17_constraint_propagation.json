@@ -1,0 +1,363 @@
+{
+  "_method": "Constraint propagation on 12 low-confidence V16 roots",
+  "_key_finding": "All 4 k-initial roots decompose as k-prefix + confirmed root. k is a TIER-2 PREFIX, not part of the root.",
+  "roots": [
+    {
+      "root": "kar",
+      "count": 157,
+      "structural_analysis": "k(prefix) + ar(iure). Confirmed: ar=iure. k is tier-2 prefix.",
+      "prefix_combos": "qo+kar(158), ok+ar(135), d+kar, standalone(86)",
+      "decomposition": "k + ar, where ar=iure (confirmed)",
+      "latin_candidates": [
+        {
+          "word": "iure",
+          "path": "k=empty prefix + ar=iure",
+          "confidence": 0.5
+        },
+        {
+          "word": "ture",
+          "path": "k=t (V15 optimal) + ar(u+re)",
+          "confidence": 0.3,
+          "note": "ture=frankincense, very pharma"
+        },
+        {
+          "word": "cure",
+          "path": "k=c + ar(u+re)",
+          "confidence": 0.2
+        }
+      ],
+      "best_guess": "k-prefix + iure (or ture if k=t)",
+      "confidence": "medium-high",
+      "note": "If k is empty determinant: kar=iure. If k=t: kar=ture (frankincense). qokar = cum+iure or cum+ture."
+    },
+    {
+      "root": "saiin",
+      "count": 137,
+      "structural_analysis": "s(prefix) + aiin. s is tier-2 prefix (sub/sine/super?). aiin is root #1 (1430x).",
+      "prefix_combos": "Always standalone (129x as saiin). No other prefix before s.",
+      "decomposition": "s + aiin, where aiin=ura/ure/mense",
+      "latin_candidates": [
+        {
+          "word": "s-prefix + ura",
+          "path": "s=sub + aiin=ura -> subura?",
+          "confidence": 0.3
+        },
+        {
+          "word": "sura",
+          "path": "s=s + aiin=ura",
+          "confidence": 0.3,
+          "note": "sura=calf of leg (anatomical)"
+        },
+        {
+          "word": "sure",
+          "path": "s=s + aiin=ure",
+          "confidence": 0.2
+        }
+      ],
+      "best_guess": "s-prefix + aiin (s value TBD)",
+      "confidence": "low-medium",
+      "note": "saiin never takes another prefix before it, suggesting s IS the prefix. Resolving s-prefix value would unlock this and all s-initial words."
+    },
+    {
+      "root": "kain",
+      "count": 137,
+      "structural_analysis": "k(prefix) + ain. Confirmed: ain best_guess=in (medium). k is tier-2 prefix.",
+      "prefix_combos": "qo+kain(277), ok+ain(139), d+kain, standalone(91)",
+      "decomposition": "k + ain, where ain=in (medium confidence)",
+      "latin_candidates": [
+        {
+          "word": "in",
+          "path": "k=empty + ain=in",
+          "confidence": 0.4
+        },
+        {
+          "word": "taurem",
+          "path": "k=t + ain=aurem",
+          "confidence": 0.2,
+          "note": "if ain=aurem variant"
+        },
+        {
+          "word": "caure",
+          "path": "k=c + ain=aure",
+          "confidence": 0.1
+        }
+      ],
+      "best_guess": "k-prefix + in",
+      "confidence": "medium",
+      "note": "Depends on resolving both k-prefix and ain root values."
+    },
+    {
+      "root": "kedy",
+      "count": 128,
+      "structural_analysis": "k(prefix) + edy. Confirmed: edy best_guess=locis (medium). k is tier-2 prefix.",
+      "prefix_combos": "qo+kedy(274), ok+edy(115), d+kedy, standalone",
+      "decomposition": "k + edy, where edy=locis (medium confidence)",
+      "latin_candidates": [
+        {
+          "word": "locis",
+          "path": "k=empty + edy=locis",
+          "confidence": 0.4
+        },
+        {
+          "word": "cedo",
+          "path": "k=c, edy=edo -> cedo (I yield/give up)",
+          "confidence": 0.2,
+          "note": "monolithic reading"
+        }
+      ],
+      "best_guess": "k-prefix + locis",
+      "confidence": "medium",
+      "note": "Parallels otedy=tere et. If edy=ere: kedy = k+ere."
+    },
+    {
+      "root": "ky",
+      "count": 122,
+      "structural_analysis": "k(prefix) + y. Confirmed: y=in. k is tier-2 prefix.",
+      "prefix_combos": "qo+ky(145), ok+y(103), standalone(88)",
+      "decomposition": "k + y, where y=in (confirmed)",
+      "latin_candidates": [
+        {
+          "word": "in",
+          "path": "k=empty + y=in",
+          "confidence": 0.5
+        },
+        {
+          "word": "quin",
+          "path": "k=qu + y=in -> quin (indeed)",
+          "confidence": 0.2
+        },
+        {
+          "word": "tus",
+          "path": "k=t + y=us -> tus (frankincense)",
+          "confidence": 0.15,
+          "note": "if y_final=us"
+        }
+      ],
+      "best_guess": "k-prefix + in",
+      "confidence": "medium-high",
+      "note": "Very short root. qoky=coque (confirmed monolithic logogram) uses same glyphs but is NOT k+y decomposition."
+    },
+    {
+      "root": "aly",
+      "count": 116,
+      "structural_analysis": "a + l(medial=l, from glyphs.json) + y. NOT a+ly or al+y.",
+      "prefix_combos": "standalone(107)",
+      "decomposition": "Monolithic: a(a) + l(l, medial) + y(i/ium) = ali/alium",
+      "latin_candidates": [
+        {
+          "word": "ali",
+          "path": "a=a, l=l(medial), y=i -> ali (others/garlic)",
+          "confidence": 0.6,
+          "note": "allium=garlic, KEY pharma ingredient"
+        },
+        {
+          "word": "alum",
+          "path": "a=a, l=l(medial), y=um -> alum(en)",
+          "confidence": 0.2,
+          "note": "alumen=alum, mineral ingredient"
+        },
+        {
+          "word": "alo",
+          "path": "a=a, l=l(medial), y=o -> alo",
+          "confidence": 0.1
+        }
+      ],
+      "best_guess": "ali (allium/garlic)",
+      "confidence": "high",
+      "note": "Uses medial_l=l rule from glyphs.json. Allium (garlic) is one of the most common pharma ingredients. Already found in v9_ALIUM (aim=alium). 116x frequency fits a common ingredient."
+    },
+    {
+      "root": "ir",
+      "count": 110,
+      "structural_analysis": "i + r(re). Part of the Xr paradigm: ar=iure, or=hiera.",
+      "prefix_combos": "standalone(110), d+ir(109 as dair)",
+      "decomposition": "i(i) + r(re) = ire",
+      "latin_candidates": [
+        {
+          "word": "ire",
+          "path": "i=i, r=re -> ire (to go)",
+          "confidence": 0.5
+        },
+        {
+          "word": "ira",
+          "path": "i=i, r=ra -> ira (anger)",
+          "confidence": 0.2
+        },
+        {
+          "word": "iure",
+          "path": "monolithic -> iure (by right)",
+          "confidence": 0.15,
+          "note": "BUT ar=iure already confirmed"
+        }
+      ],
+      "best_guess": "ire (to go)",
+      "confidence": "medium",
+      "note": "In pharma context, ire could mean go/proceed in instructions. dair=109x would be d(in)+ir(ire)=in ire. Xr paradigm: ar=iure, or=hiera, ir=ire."
+    },
+    {
+      "root": "os",
+      "count": 104,
+      "structural_analysis": "o + s. Two-glyph root.",
+      "prefix_combos": "standalone(96)",
+      "decomposition": "o(e/a) + s(us/su/s)",
+      "latin_candidates": [
+        {
+          "word": "eus",
+          "path": "o=e, s=us -> eus (his/god)",
+          "confidence": 0.3
+        },
+        {
+          "word": "aus",
+          "path": "o=a, s=us -> aus",
+          "confidence": 0.2
+        },
+        {
+          "word": "os",
+          "path": "logogram for os (bone/mouth)",
+          "confidence": 0.3,
+          "note": "os=bone is very medical/anatomical"
+        }
+      ],
+      "best_guess": "eus or os(bone)",
+      "confidence": "low-medium",
+      "note": "os(bone/mouth) is medically relevant. But through standard glyph rules o!=o and s!=s. Could be a logogram like many short roots."
+    },
+    {
+      "root": "oiin",
+      "count": 100,
+      "structural_analysis": "o + iin. iin is a morphological unit (ura/ure/ur/are).",
+      "prefix_combos": "standalone, possibly d+oiin, qok+oiin",
+      "decomposition": "o(e/a) + iin(ura/ure)",
+      "latin_candidates": [
+        {
+          "word": "aura",
+          "path": "o=a, iin=ura -> aura (air/breeze)",
+          "confidence": 0.35,
+          "note": "aura relevant in humoral medicine"
+        },
+        {
+          "word": "aure",
+          "path": "o=a, iin=ure -> aure (ear, ablative)",
+          "confidence": 0.25,
+          "note": "medical/anatomical"
+        },
+        {
+          "word": "eura",
+          "path": "o=e, iin=ura -> eura",
+          "confidence": 0.1
+        }
+      ],
+      "best_guess": "aura (air/breeze)",
+      "confidence": "medium",
+      "note": "Parallels aiin(ura), but with o- prefix/initial. If o=a: aura fits both linguistically and medically."
+    },
+    {
+      "root": "daiin",
+      "count": 100,
+      "structural_analysis": "d + aiin appearing AS A ROOT after other prefixes. NOT the standalone word daiin(847x).",
+      "prefix_combos": "ok+daiin(60 as odaiin), qo+daiin(44 as qodaiin), ch+daiin(46 as chodaiin)",
+      "decomposition": "d(d/de/ed) + aiin(ura/ure)",
+      "latin_candidates": [
+        {
+          "word": "dura",
+          "path": "d=d, aiin=ura -> dura (hard)",
+          "confidence": 0.55,
+          "note": "CONFIRMED by odaiin=edura"
+        },
+        {
+          "word": "dure",
+          "path": "d=d, aiin=ure -> dure (to last)",
+          "confidence": 0.25
+        },
+        {
+          "word": "edura",
+          "path": "d=ed, aiin=ura -> edura",
+          "confidence": 0.15,
+          "note": "odaiin=edura already confirmed"
+        }
+      ],
+      "best_guess": "dura (hard/lasting)",
+      "confidence": "high",
+      "note": "Strongly confirmed by odaiin=edura logogram. In pharma context: dura=hard (hardening instructions). qodaiin = cum+dura."
+    },
+    {
+      "root": "eeey",
+      "count": 95,
+      "structural_analysis": "eee + y. Triple-e followed by y. Variant of eey(730x)?",
+      "prefix_combos": "standalone(92)",
+      "decomposition": "e(o/e) + e(o/e) + e(o/e) + y(n/in/final)",
+      "latin_candidates": [
+        {
+          "word": "mense (variant)",
+          "path": "scribal variant of eey=mense with extra vowel",
+          "confidence": 0.4
+        },
+        {
+          "word": "ooen/eoen",
+          "path": "e=o triple + y=n",
+          "confidence": 0.1
+        }
+      ],
+      "best_guess": "variant of eey (mense)",
+      "confidence": "low",
+      "note": "Most likely a scribal/orthographic variant of eey. The VMS often shows e-doubling for vowel length. If eey=mense, eeey may encode the same or similar word with different vowel quantity."
+    },
+    {
+      "root": "eeo",
+      "count": 93,
+      "structural_analysis": "ee + o. Double-e followed by o. Variant of eo(181x)?",
+      "prefix_combos": "standalone(90)",
+      "decomposition": "e(o/e) + e(o/e) + o(e/a/ac)",
+      "latin_candidates": [
+        {
+          "word": "variant of eo",
+          "path": "scribal variant of eo with extra vowel",
+          "confidence": 0.4
+        },
+        {
+          "word": "oea/ooe",
+          "path": "through glyph rules",
+          "confidence": 0.1
+        }
+      ],
+      "best_guess": "variant of eo",
+      "confidence": "low",
+      "note": "Likely scribal variant of eo(181x). o= confirmed logogram for ac. So eeo could be ee+ac. If ee=oo/oe: eeo=oo+ac or oe+ac."
+    }
+  ],
+  "key_breakthrough": {
+    "finding": "k is a TIER-2 PREFIX, not part of the root",
+    "evidence": "ALL 4 k-initial unknown roots (kar, kain, kedy, ky) decompose perfectly into k + a confirmed/medium-confidence root (ar, ain, edy, y). This also applies to medium-confidence k-roots: kaiin=k+aiin, keey=k+eey, keedy=k+eedy.",
+    "implication": "Resolving the Latin value of k-prefix would immediately unlock ALL k-initial roots (kar, kain, kedy, ky, kaiin, keey, keedy, kal, key, kol, kody, etc.)",
+    "k_candidates": [
+      "k = empty determinant (like ok without the o)",
+      "k = t (V15 brute-force optimal, but contradicts kol=cis)",
+      "k = c (standard K&A mapping, consistent with kol=cis)",
+      "k = aut/at/ac (Latin conjunction as prefix)"
+    ]
+  },
+  "confidence_summary": {
+    "high": [
+      "aly=ali(garlic)",
+      "daiin=dura(hard)"
+    ],
+    "medium_high": [
+      "kar=k+iure",
+      "ky=k+in"
+    ],
+    "medium": [
+      "kain=k+in",
+      "kedy=k+locis",
+      "ir=ire",
+      "oiin=aura"
+    ],
+    "low_medium": [
+      "saiin=s+aiin",
+      "os=eus/os"
+    ],
+    "low": [
+      "eeey=variant_of_eey",
+      "eeo=variant_of_eo"
+    ]
+  }
+}
