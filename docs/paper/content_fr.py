@@ -47,8 +47,8 @@ def build_story_fr():
         "Le Manuscrit de Voynich<br/>Journal d'un Décryptage", s_title_main))
     story.append(Spacer(1, 5*mm))
     story.append(Paragraph(
-        "Comment un ingénieur IA et une intelligence artificielle<br/>"
-        "ont lu le livre le plus mystérieux du monde", s_title_sub))
+        "Comment un directeur IA et une intelligence artificielle<br/>"
+        "ont tenté de lire le livre le plus mystérieux du monde", s_title_sub))
     story.append(Spacer(1, 8*mm))
     story.append(gold_rule(50, 2))
     story.append(Spacer(1, 12*mm))
@@ -187,11 +187,11 @@ def build_story_fr():
     story.append(Paragraph(
         "Ce qui reste après avoir tout éliminé :", s_narrative))
     story.append(Paragraph(
-        "<b>Un livre d'apothicaire ou de médecin</b>, chiffré par un mélange de "
-        "sténographie romaine (notes tironiennes), de substitution phonétique "
-        "homophonique, et d'agglutination des prépositions. Probablement pour "
-        "économiser de l'espace sur un vélin hors de prix et protéger des "
-        "formulations propriétaires contre les concurrents. Un apothicaire italien, "
+        "L'hypothèse la plus compatible avec les données : <b>un livre d'apothicaire "
+        "ou de médecin</b>, chiffré par un mélange de sténographie romaine (notes "
+        "tironiennes), de substitution phonétique homophonique, et d'agglutination des "
+        "prépositions. Possiblement pour économiser de l'espace sur un vélin hors de "
+        "prix et protéger des formulations propriétaires. Un apothicaire italien, "
         "début du XVe siècle.", s_narrative_bold))
     story.append(Paragraph(
         "On reconstruit tout depuis zéro. Version 12. Sept étapes : tokenisation, "
@@ -275,7 +275,7 @@ def build_story_fr():
     # ══════════════════════════════════════════
     # 7. LES PREUVES
     # ══════════════════════════════════════════
-    story.append(Paragraph("7. Les Preuves qui Changent Tout", s_h1))
+    story.append(Paragraph("7. Les Résultats les plus Significatifs", s_h1))
     story.append(blue_rule())
 
     story.append(Paragraph("<b>f103r : la page pharmaceutique</b>", s_h2))
@@ -283,7 +283,7 @@ def build_story_fr():
         "532 mots. 91% validés au dictionnaire. Le mot « coque » (cuis !) apparaît "
         "<b>17 fois en 5 formes conjuguées différentes</b> : coque, coquas, coquere, "
         "coquendo, coquant. Un paradigme morphologique latin complet. "
-        "Impossible à produire par un mapping aléatoire.", s_narrative))
+        "Statistiquement très difficile à produire par un mapping aléatoire.", s_narrative))
 
     story.append(make_table(
         ["Latin", "Français", "Occ."],
@@ -302,8 +302,8 @@ def build_story_fr():
     story.append(Paragraph("Ingrédients trouvés sur le seul folio f103r.", s_caption))
 
     story.append(Paragraph(
-        "7 des 12 ingrédients canoniques de l'Aurea Alexandrina. "
-        "Sur une seule page.", s_narrative_bold))
+        "7 des 12 ingrédients canoniques de l'Aurea Alexandrina semblent "
+        "identifiables sur cette seule page.", s_narrative_bold))
 
     story.append(Paragraph("<b>f33r : la triple convergence</b>", s_h2))
     story.append(Paragraph(
@@ -313,11 +313,10 @@ def build_story_fr():
         "à disque strié, racines pivotantes. Famille des Astéracées. C'est exactement "
         "l'aunée.", s_narrative))
     story.append(Paragraph(
-        "Le texte décodé dit aunée. L'illustration montre une aunée. La pharmacopée "
-        "médiévale utilise l'aunée. <b>Trois preuves indépendantes convergent "
-        "sur la même plante.</b>", s_narrative_bold))
-    story.append(Paragraph(
-        "Ce moment-là. Ce moment précis. Le frisson.", s_narrative))
+        "Le texte décodé suggère aunée. L'illustration ressemble à une aunée. La pharmacopée "
+        "médiévale utilise l'aunée. <b>Trois indices indépendants pointent "
+        "vers la même plante.</b> C'est le type de convergence qu'on ne peut pas "
+        "fabriquer par accident.", s_narrative_bold))
 
     story.append(Paragraph("<b>L'italien caché</b>", s_h2))
     story.append(Paragraph(
@@ -345,7 +344,7 @@ def build_story_fr():
         "<b>ture</b> (encens), <b>olei</b> (huile), <b>vini</b> (vin), "
         "<b>recipe</b> (prends).", s_narrative))
     story.append(Paragraph(
-        "C'est une recette. Cachée dans un diagramme solaire.", s_narrative_bold))
+        "Ce qui ressemble à une recette, cachée dans un diagramme solaire.", s_narrative_bold))
     story.append(Paragraph(
         "Sur le folio adjacent f67r2, la rosette lunaire : <b>nardi</b>, le nard, "
         "une des épices les plus précieuses de l'Antiquité. Sur le verso f67v1 : "
@@ -356,10 +355,11 @@ def build_story_fr():
         "Ces ingrédients n'étaient pas dans notre liste initiale. Ils étaient cachés "
         "sur des pages que tout le monde considérait comme décoratives depuis 600 ans.", s_narrative))
     story.append(Paragraph(
-        "Le manuscrit ne dit pas seulement <i>quoi</i> préparer. "
-        "Il dit <i>quand</i>. Les diagrammes célestes encodent des recettes "
-        "aromatiques liées aux positions stellaires, dans la tradition de la "
-        "médecine iatromathématique médiévale.", s_narrative_bold))
+        "Si cette lecture est correcte, le manuscrit ne dit pas seulement "
+        "<i>quoi</i> préparer. Il dit <i>quand</i>. Les diagrammes célestes "
+        "semblent encoder des recettes aromatiques liées aux positions stellaires, "
+        "ce qui serait compatible avec la tradition de la médecine iatromathématique "
+        "médiévale.", s_narrative_bold))
 
     story.append(PageBreak())
 
@@ -393,9 +393,10 @@ def build_story_fr():
     story.append(Paragraph("Correspondance structurelle Ashmole 370 / f57v.", s_caption))
 
     story.append(Paragraph(
-        "Ce n'est pas un horoscope. C'est un <b>calculateur de timing "
-        "thérapeutique</b>, un instrument qui indique quand saigner, quand purger, "
-        "quand administrer tel remède en fonction des cycles célestes.", s_narrative_bold))
+        "Ce n'est probablement pas un horoscope. Les indices suggèrent un "
+        "<b>calculateur de timing thérapeutique</b>, un instrument qui indiquerait "
+        "quand saigner, quand purger, quand administrer tel remède en fonction "
+        "des cycles célestes.", s_narrative_bold))
     story.append(Paragraph(
         "Mais soyons honnêtes : le centre de la volvelle reste obscur. Les 8 mots "
         "du pivot central sont tous classés LOW ou OPAQUE. On a trouvé la machine "
@@ -446,9 +447,9 @@ def build_story_fr():
     story.append(blue_rule())
 
     story.append(Paragraph(
-        "Au terme de cette aventure, voici ce que nous pensons lire dans "
-        "ce manuscrit : le <b>vade-mecum</b> d'un apothicaire itinérant du nord "
-        "de l'Italie, début du XVe siècle.", s_narrative))
+        "Au terme de cette aventure, voici ce que les résultats suggèrent : "
+        "le manuscrit pourrait être le <b>vade-mecum</b> d'un apothicaire itinérant "
+        "du nord de l'Italie, début du XVe siècle.", s_narrative))
 
     story.append(make_table(
         ["Section", "Folios", "Contenu", "Tradition"],
@@ -465,10 +466,11 @@ def build_story_fr():
         f"{S['total_words']:,} mots décodés.", s_caption))
 
     story.append(Paragraph(
-        "Ce n'est pas une collection disparate. C'est un <b>système thérapeutique "
-        "unifié</b> : les herbes fournissent la matière première, les recettes "
-        "composent les remèdes, les bains traitent le corps, le zodiaque dicte "
-        "le calendrier, la volvelle calcule le timing optimal. Tout est lié.", s_narrative_bold))
+        "Ce qui frappe, c'est la cohérence. Si notre lecture est correcte, "
+        "les sections forment un <b>système thérapeutique unifié</b> : les herbes "
+        "fournissent la matière première, les recettes composent les remèdes, "
+        "les bains traitent le corps, le zodiaque dicte le calendrier, la volvelle "
+        "calcule le timing optimal. Tout semble lié.", s_narrative_bold))
     story.append(Paragraph(
         "Le chiffrement n'était pas destiné à cacher un secret d'État. "
         "Il servait trois fonctions pratiques : <b>compression</b> (économiser de la "
@@ -485,8 +487,11 @@ def build_story_fr():
     story.append(blue_rule())
 
     story.append(Paragraph(
-        "Ce projet raconte quelque chose sur la façon dont on peut travailler "
-        "avec l'intelligence artificielle. Pas la version marketing. La réalité.", s_narrative))
+        "Je ne suis pas chercheur, pas historien, pas cryptographe. Je suis un "
+        "directeur IA qui a appliqué sa méthode métier, tester des hypothèses "
+        "à grande échelle avec des données structurées, à un problème de "
+        "cryptographie historique. Ce projet raconte quelque chose sur cette "
+        "façon de travailler.", s_narrative))
     story.append(Paragraph(
         "L'intuition a toujours été humaine. C'est un humain qui a vu le pattern "
         "d'agglutination à 2h du matin. C'est un humain qui a décidé d'utiliser "
@@ -510,9 +515,11 @@ def build_story_fr():
     story.append(Paragraph(
         "Ce projet est dédié à sa mémoire.", s_narrative))
     story.append(Paragraph(
-        "Et j'ai tout publié en open source. Le code, les 226 pages décodées, "
+        "Nous n'avons pas décrypté le Manuscrit de Voynich. Nous avons, peut-être, "
+        "fait avancer significativement sa compréhension. La nuance est importante. "
+        "J'ai tout publié en open source : le code, les 226 pages décodées, "
         "le pipeline complet. Pour que des médiévistes, des pharmacologues, des "
-        "passionnés reprennent ce travail et aillent plus loin que moi.", s_narrative))
+        "passionnés reprennent ce travail et aillent plus loin.", s_narrative))
 
     story.append(PageBreak())
 
