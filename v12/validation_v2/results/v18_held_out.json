@@ -1,0 +1,208 @@
+{
+  "held_out_folios": [
+    "F84V",
+    "F16R",
+    "F4R",
+    "F95V1",
+    "F37R",
+    "F33R",
+    "F30V",
+    "F19V",
+    "F95V2",
+    "F15R",
+    "F88V",
+    "F72V3",
+    "F13R",
+    "F78V",
+    "F56R",
+    "F5R",
+    "F4V",
+    "F13V",
+    "F29V",
+    "F31V"
+  ],
+  "results": [
+    {
+      "folio": "F84V",
+      "section": "B",
+      "total": 333,
+      "known": 138,
+      "known_pct": 41.4,
+      "perseus": 84,
+      "perseus_pct": 25.2
+    },
+    {
+      "folio": "F16R",
+      "section": "H",
+      "total": 81,
+      "known": 31,
+      "known_pct": 38.3,
+      "perseus": 29,
+      "perseus_pct": 35.8
+    },
+    {
+      "folio": "F4R",
+      "section": "H",
+      "total": 63,
+      "known": 25,
+      "known_pct": 39.7,
+      "perseus": 22,
+      "perseus_pct": 34.9
+    },
+    {
+      "folio": "F95V1",
+      "section": "H",
+      "total": 114,
+      "known": 43,
+      "known_pct": 37.7,
+      "perseus": 28,
+      "perseus_pct": 24.6
+    },
+    {
+      "folio": "F37R",
+      "section": "H",
+      "total": 77,
+      "known": 35,
+      "known_pct": 45.5,
+      "perseus": 35,
+      "perseus_pct": 45.5
+    },
+    {
+      "folio": "F33R",
+      "section": "H",
+      "total": 72,
+      "known": 22,
+      "known_pct": 30.6,
+      "perseus": 18,
+      "perseus_pct": 25.0
+    },
+    {
+      "folio": "F30V",
+      "section": "H",
+      "total": 62,
+      "known": 17,
+      "known_pct": 27.4,
+      "perseus": 16,
+      "perseus_pct": 25.8
+    },
+    {
+      "folio": "F19V",
+      "section": "H",
+      "total": 75,
+      "known": 28,
+      "known_pct": 37.3,
+      "perseus": 25,
+      "perseus_pct": 33.3
+    },
+    {
+      "folio": "F95V2",
+      "section": "H",
+      "total": 57,
+      "known": 15,
+      "known_pct": 26.3,
+      "perseus": 13,
+      "perseus_pct": 22.8
+    },
+    {
+      "folio": "F15R",
+      "section": "H",
+      "total": 90,
+      "known": 44,
+      "known_pct": 48.9,
+      "perseus": 38,
+      "perseus_pct": 42.2
+    },
+    {
+      "folio": "F88V",
+      "section": "P",
+      "total": 142,
+      "known": 38,
+      "known_pct": 26.8,
+      "perseus": 19,
+      "perseus_pct": 13.4
+    },
+    {
+      "folio": "F72V3",
+      "section": "Z",
+      "total": 115,
+      "known": 22,
+      "known_pct": 19.1,
+      "perseus": 13,
+      "perseus_pct": 11.3
+    },
+    {
+      "folio": "F13R",
+      "section": "H",
+      "total": 69,
+      "known": 41,
+      "known_pct": 59.4,
+      "perseus": 38,
+      "perseus_pct": 55.1
+    },
+    {
+      "folio": "F78V",
+      "section": "B",
+      "total": 286,
+      "known": 132,
+      "known_pct": 46.2,
+      "perseus": 87,
+      "perseus_pct": 30.4
+    },
+    {
+      "folio": "F56R",
+      "section": "H",
+      "total": 96,
+      "known": 41,
+      "known_pct": 42.7,
+      "perseus": 39,
+      "perseus_pct": 40.6
+    },
+    {
+      "folio": "F5R",
+      "section": "H",
+      "total": 53,
+      "known": 16,
+      "known_pct": 30.2,
+      "perseus": 13,
+      "perseus_pct": 24.5
+    },
+    {
+      "folio": "F4V",
+      "section": "H",
+      "total": 80,
+      "known": 27,
+      "known_pct": 33.8,
+      "perseus": 22,
+      "perseus_pct": 27.5
+    },
+    {
+      "folio": "F13V",
+      "section": "H",
+      "total": 60,
+      "known": 27,
+      "known_pct": 45.0,
+      "perseus": 27,
+      "perseus_pct": 45.0
+    },
+    {
+      "folio": "F29V",
+      "section": "H",
+      "total": 89,
+      "known": 40,
+      "known_pct": 44.9,
+      "perseus": 39,
+      "perseus_pct": 43.8
+    },
+    {
+      "folio": "F31V",
+      "section": "H",
+      "total": 104,
+      "known": 26,
+      "known_pct": 25.0,
+      "perseus": 19,
+      "perseus_pct": 18.3
+    }
+  ],
+  "avg_perseus": 31.2,
+  "avg_known": 37.3
+}
