@@ -54,6 +54,9 @@ def build_story():
     s_date = ParagraphStyle('date', fontSize=10, leading=13, textColor=WARM_GRAY,
         alignment=TA_CENTER, fontName='Helvetica')
     story.append(Paragraph("April 2026", s_date))
+    story.append(Paragraph("DOI: 10.5281/zenodo.19477552", ParagraphStyle('doi',
+        fontSize=9, leading=12, textColor=WARM_GRAY, alignment=TA_CENTER,
+        fontName='Helvetica')))
     story.append(Spacer(1, 15*mm))
 
     # Abstract — CORRECTED stats
@@ -664,6 +667,7 @@ def build_story():
         alignment=TA_CENTER, fontName='Helvetica-Oblique')
 
     story.append(Paragraph("Submitted for publication on Academia.edu, April 2026.", s_submit))
+    story.append(Paragraph("<b>DOI: 10.5281/zenodo.19477552</b>", s_corresp))
     story.append(Paragraph("Correspondence: Guillaume Clement, gcle1979@gmail.com", s_corresp))
     story.append(Spacer(1, 3*mm))
     story.append(Paragraph(
