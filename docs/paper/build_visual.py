@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Voynich Visual Summary — 8-page companion PDF for voynich.ninja.
+Voynich Visual Summary,8-page companion PDF for voynich.ninja.
 No fluff, diagrams + tables + honest limitations.
 """
 import os
@@ -82,13 +82,13 @@ def build():
     story.append(Spacer(1, 15*mm))
     story.append(gold_rule(40, 2))
     story.append(Paragraph("K&amp;A v12 Pipeline: Voynich Manuscript", s_vtitle))
-    story.append(Paragraph("Computational Latin Recovery — Visual Summary", s_vsub))
+    story.append(Paragraph("Computational Latin Recovery,Visual Summary", s_vsub))
     story.append(gold_rule(40, 2))
     story.append(Spacer(1, 5*mm))
 
     story.append(Paragraph(
-        "Guillaume Clement — CTO, Flow Line Integration<br/>"
-        "Assisted by Claude (Anthropic, Opus 4.6) — April 2026", s_vsmall))
+        "Guillaume Clement,CTO, Flow Line Integration<br/>"
+        "Assisted by Claude (Anthropic, Opus 4.6),April 2026", s_vsmall))
     story.append(Spacer(1, 5*mm))
 
     story.append(Paragraph("<b>What this document is:</b> A visual summary of a computational "
@@ -126,7 +126,7 @@ def build():
         ["Step", "Action", "Result"],
         [
             ["T1", "Normalize", "daiin"],
-            ["T2a", "Monolithic K&A decode", "d→in, a→a, ii→ur, n→p → 'inaurp' — not in Perseus"],
+            ["T2a", "Monolithic K&A decode", "d→in, a→a, ii→ur, n→p → 'inaurp',not in Perseus"],
             ["T2b", "Try prefix d = 'in' + root 'aiin'", "aiin → aquam (Perseus: YES)"],
             ["T3", "Grade", "HIGH (prefix + Perseus match)"],
             ["T4", "Score", "Selected: in aquam ('into water')"],
@@ -134,7 +134,7 @@ def build():
         col_widths=[12*mm, 52*mm, 96*mm]))
     story.append(Paragraph("Table 2. Step-by-step decoding of 'daiin'.", s_caption))
 
-    story.append(Paragraph("<b>Agglutinative Prefixes</b> — The scribe fuses prepositions "
+    story.append(Paragraph("<b>Agglutinative Prefixes</b>,The scribe fuses prepositions "
         "to the following word (Arabic proclitic style):", s_vbold))
     story.append(make_table(
         ["EVA", "Latin", "Meaning", "Example"],
@@ -162,7 +162,7 @@ def build():
     story.append(blue_rule())
 
     story.append(Paragraph("<b>Key EVA → Latin glyph values</b> (King-Andrisani 2021, "
-        "probabilistic — multiple values per glyph):", s_vbold))
+        "probabilistic,multiple values per glyph):", s_vbold))
     story.append(make_table(
         ["EVA glyph", "Latin value(s)", "Weight", "Example word"],
         [
@@ -215,7 +215,7 @@ def build():
     story.append(Paragraph("Key Findings", s_h1))
     story.append(blue_rule())
 
-    story.append(Paragraph("<b>f103r — Pharmaceutical vocabulary density</b>", s_h2))
+    story.append(Paragraph("<b>f103r,Pharmaceutical vocabulary density</b>", s_h2))
     story.append(Paragraph(
         "532 words, 91% Perseus match. The verb <i>coque</i> (cook) appears 17 times "
         "in 5 conjugated forms: coque, coquas, coquere, coquendo, coquant. This constitutes "
@@ -236,7 +236,7 @@ def build():
         col_widths=[28*mm, 40*mm, 16*mm]))
     story.append(Paragraph("Table 6. Ingredients found on f103r. Compatible with 7/12 Aurea Alexandrina.", s_caption))
 
-    story.append(Paragraph("<b>f33r — INELIODE / Inula helenium</b>", s_h2))
+    story.append(Paragraph("<b>f33r,INELIODE / Inula helenium</b>", s_h2))
     story.append(Paragraph(
         "Pipeline decodes INELIODE, compatible with <i>Inula helenium</i> (elecampane, "
         "Asteraceae). The botanical illustration on the same page shows composite flowers "
@@ -244,7 +244,7 @@ def build():
         "text contains <i>equaliter</i> (equal parts), <i>tere</i> (grind), <i>ture</i> "
         "(frankincense). Three independent indicators on one page.", s_vbody))
 
-    story.append(Paragraph("<b>Astronomical pages — hidden pharmaceutical vocabulary</b>", s_h2))
+    story.append(Paragraph("<b>Astronomical pages,hidden pharmaceutical vocabulary</b>", s_h2))
     story.append(Paragraph(
         "Folio-by-folio analysis found pharmaceutical terms on pages previously considered "
         "purely astronomical: <i>nardi</i> (spikenard, f67r2), <i>cassiae</i> (cinnamon, "
@@ -262,7 +262,7 @@ def build():
     # ═══════════════════════════════════════
     # PAGE 5 : VOLVELLE
     # ═══════════════════════════════════════
-    story.append(Paragraph("Folio f57v — Possible Volvelle", s_h1))
+    story.append(Paragraph("Folio f57v,Possible Volvelle", s_h1))
     story.append(blue_rule())
     story.append(DrawingFlowable(make_volvelle_diagram()))
     story.append(Paragraph("Figure 2. f57v volvelle structure (schematic).", s_caption))
@@ -287,7 +287,7 @@ def build():
     # ═══════════════════════════════════════
     # PAGE 7 : WHAT DOESN'T WORK
     # ═══════════════════════════════════════
-    story.append(Paragraph("What Does Not Work — Known Limitations", s_h1))
+    story.append(Paragraph("What Does Not Work,Known Limitations", s_h1))
     story.append(blue_rule())
 
     story.append(Paragraph(
@@ -347,7 +347,7 @@ def build():
     story.append(Spacer(1, 5*mm))
 
     story.append(Paragraph(
-        "Guillaume Clement — gcle1979@gmail.com<br/>"
+        "Guillaume Clement,gcle1979@gmail.com<br/>"
         "Flow Line Integration", s_vsmall))
     story.append(Spacer(1, 3*mm))
     story.append(Paragraph(

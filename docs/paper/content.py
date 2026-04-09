@@ -59,7 +59,7 @@ def build_story():
         fontName='Helvetica')))
     story.append(Spacer(1, 15*mm))
 
-    # Abstract — CORRECTED stats
+    # Abstract,CORRECTED stats
     story.append(Paragraph("Abstract", s_abstract_title))
     story.append(blue_rule(80, 0.5))
     story.append(Paragraph(
@@ -357,7 +357,7 @@ def build_story():
     story.append(PageBreak())
 
     # ══════════════════════════════════════════
-    # 7. PHARMACOLOGICAL VALIDATION — CORRECTED
+    # 7. PHARMACOLOGICAL VALIDATION,CORRECTED
     # ══════════════════════════════════════════
     story.append(Paragraph("7. Pharmacological Validation", s_h1))
     story.append(blue_rule())
@@ -439,7 +439,7 @@ def build_story():
     story.append(PageBreak())
 
     # ══════════════════════════════════════════
-    # 8. STATISTICAL RESULTS — CORRECTED
+    # 8. STATISTICAL RESULTS,CORRECTED
     # ══════════════════════════════════════════
     story.append(Paragraph("8. Statistical Results", s_h1))
     story.append(blue_rule())
@@ -487,7 +487,7 @@ def build_story():
         "The following samples illustrate the quality of decoded output on pharmaceutical folios. "
         "Words marked with '...' are OPAQUE (undecoded). Latin is shown with English gloss.", s_body))
 
-    story.append(Paragraph("<b>f103r (Pharmaceutical — 91% Perseus)</b>", s_h3))
+    story.append(Paragraph("<b>f103r (Pharmaceutical,91% Perseus)</b>", s_h3))
     samples_103r = [
         ("L03", "... cio olei ... eius et iqui hiera cerae aquam ... el cura ture eius ...",
          "[... stir oil ... of-it and indeed sacred-remedy wax water ... from care frankincense of-it ...]"),
@@ -506,7 +506,7 @@ def build_story():
             parent=s_decode_line, textColor=WARM_GRAY, fontName='Helvetica-Oblique')))
         story.append(Spacer(1, 1*mm))
 
-    story.append(Paragraph("<b>f2v (Herbal — first pages)</b>", s_h3))
+    story.append(Paragraph("<b>f2v (Herbal,first pages)</b>", s_h3))
     samples_f2v = [
         ("L01", "cera eius ... per iera aquam ... iera in uira cile",
          "[wax of-it ... through sacred-remedy water ... remedy in strength ...]"),
@@ -569,7 +569,7 @@ def build_story():
     story.append(PageBreak())
 
     # ══════════════════════════════════════════
-    # 10. CONCLUSION — CORRECTED
+    # 10. CONCLUSION,CORRECTED
     # ══════════════════════════════════════════
     story.append(Paragraph("10. Conclusion", s_h1))
     story.append(blue_rule())
