@@ -1,0 +1,75 @@
+{
+  "baseline": {
+    "matches": 375,
+    "total_4plus": 5363,
+    "pct": 7.0
+  },
+  "optimized_glyphs": {
+    "o": {
+      "ka_value": "e",
+      "optimal_value": "",
+      "improvement": 211,
+      "changed": true
+    },
+    "r": {
+      "ka_value": "re",
+      "optimal_value": "re",
+      "improvement": 0,
+      "changed": false
+    },
+    "y": {
+      "ka_value": "n",
+      "optimal_value": "",
+      "improvement": 71,
+      "changed": true
+    },
+    "t": {
+      "ka_value": "el",
+      "optimal_value": "",
+      "improvement": 83,
+      "changed": true
+    },
+    "l": {
+      "ka_value": "s",
+      "optimal_value": "m",
+      "improvement": 39,
+      "changed": true
+    },
+    "a": {
+      "ka_value": "u",
+      "optimal_value": "",
+      "improvement": 155,
+      "changed": true
+    },
+    "e": {
+      "ka_value": "o",
+      "optimal_value": "",
+      "improvement": 34,
+      "changed": true
+    },
+    "s": {
+      "ka_value": "us",
+      "optimal_value": "s",
+      "improvement": 38,
+      "changed": true
+    },
+    "k": {
+      "ka_value": "c",
+      "optimal_value": "t",
+      "improvement": 87,
+      "changed": true
+    },
+    "d": {
+      "ka_value": "d",
+      "optimal_value": "s",
+      "improvement": 129,
+      "changed": true
+    }
+  },
+  "optimized_total": {
+    "matches": 874,
+    "total_4plus": 2259,
+    "pct": 38.7,
+    "improvement_over_ka": 31.7
+  }
+}

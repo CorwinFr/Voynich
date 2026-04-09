@@ -1,0 +1,499 @@
+{
+  "tokens": [
+    {
+      "eva": "daiin",
+      "count": 847,
+      "length": 5,
+      "prev_context": [
+        [
+          "eius",
+          59
+        ],
+        [
+          "cies",
+          15
+        ],
+        [
+          "es",
+          15
+        ]
+      ],
+      "next_context": [
+        [
+          "eius",
+          30
+        ],
+        [
+          "eius et",
+          18
+        ],
+        [
+          "cies",
+          16
+        ]
+      ]
+    },
+    {
+      "eva": "aiin",
+      "count": 504,
+      "length": 4,
+      "prev_context": [
+        [
+          "hiera",
+          55
+        ],
+        [
+          "iure",
+          37
+        ],
+        [
+          "es",
+          21
+        ]
+      ],
+      "next_context": [
+        [
+          "eius",
+          23
+        ],
+        [
+          "es",
+          10
+        ],
+        [
+          "eius et",
+          9
+        ]
+      ]
+    },
+    {
+      "eva": "dar",
+      "count": 327,
+      "length": 3,
+      "prev_context": [
+        [
+          "eius",
+          8
+        ],
+        [
+          "eius et",
+          5
+        ],
+        [
+          "cies",
+          3
+        ]
+      ],
+      "next_context": [
+        [
+          "cies",
+          11
+        ],
+        [
+          "eius et",
+          11
+        ],
+        [
+          "iure",
+          10
+        ]
+      ]
+    },
+    {
+      "eva": "qokeey",
+      "count": 308,
+      "length": 6,
+      "prev_context": [
+        [
+          "eius et",
+          23
+        ],
+        [
+          "eius",
+          15
+        ],
+        [
+          "cibo et",
+          13
+        ]
+      ],
+      "next_context": [
+        [
+          "eius",
+          7
+        ],
+        [
+          "es",
+          7
+        ],
+        [
+          "eius et",
+          6
+        ]
+      ]
+    },
+    {
+      "eva": "qokeedy",
+      "count": 306,
+      "length": 7,
+      "prev_context": [
+        [
+          "cibo et",
+          17
+        ],
+        [
+          "eius et",
+          17
+        ],
+        [
+          "eius",
+          8
+        ]
+      ],
+      "next_context": [
+        [
+          "eius et",
+          9
+        ],
+        [
+          "cibo et",
+          6
+        ],
+        [
+          "eius",
+          5
+        ]
+      ]
+    },
+    {
+      "eva": "qokain",
+      "count": 277,
+      "length": 6,
+      "prev_context": [
+        [
+          "eius et",
+          24
+        ],
+        [
+          "cies",
+          19
+        ],
+        [
+          "cibo et",
+          10
+        ]
+      ],
+      "next_context": [
+        [
+          "eius et",
+          18
+        ],
+        [
+          "eius",
+          14
+        ],
+        [
+          "es",
+          12
+        ]
+      ]
+    },
+    {
+      "eva": "qokedy",
+      "count": 274,
+      "length": 6,
+      "prev_context": [
+        [
+          "cibo et",
+          22
+        ],
+        [
+          "eius et",
+          13
+        ],
+        [
+          "tere et",
+          7
+        ]
+      ],
+      "next_context": [
+        [
+          "eius et",
+          12
+        ],
+        [
+          "cibo et",
+          10
+        ],
+        [
+          "tere et",
+          7
+        ]
+      ]
+    },
+    {
+      "eva": "qokaiin",
+      "count": 267,
+      "length": 7,
+      "prev_context": [
+        [
+          "cibo et",
+          17
+        ],
+        [
+          "eius et",
+          15
+        ],
+        [
+          "cies",
+          9
+        ]
+      ],
+      "next_context": [
+        [
+          "eius",
+          13
+        ],
+        [
+          "eius et",
+          13
+        ],
+        [
+          "es",
+          9
+        ]
+      ]
+    },
+    {
+      "eva": "al",
+      "count": 264,
+      "length": 2,
+      "prev_context": [
+        [
+          "iure",
+          23
+        ],
+        [
+          "hiera",
+          8
+        ],
+        [
+          "es",
+          4
+        ]
+      ],
+      "next_context": [
+        [
+          "iure",
+          12
+        ],
+        [
+          "eius et",
+          9
+        ],
+        [
+          "eius",
+          8
+        ]
+      ]
+    },
+    {
+      "eva": "dal",
+      "count": 241,
+      "length": 3,
+      "prev_context": [
+        [
+          "eius",
+          13
+        ],
+        [
+          "eius et",
+          5
+        ],
+        [
+          "es",
+          4
+        ]
+      ],
+      "next_context": [
+        [
+          "eius et",
+          9
+        ],
+        [
+          "cibo et",
+          9
+        ],
+        [
+          "eius",
+          7
+        ]
+      ]
+    },
+    {
+      "eva": "dain",
+      "count": 215,
+      "length": 4,
+      "prev_context": [
+        [
+          "eius",
+          10
+        ],
+        [
+          "et",
+          4
+        ],
+        [
+          "cies",
+          4
+        ]
+      ],
+      "next_context": [
+        [
+          "eius",
+          13
+        ],
+        [
+          "eius et",
+          8
+        ],
+        [
+          "iure",
+          4
+        ]
+      ]
+    },
+    {
+      "eva": "okaiin",
+      "count": 212,
+      "length": 6,
+      "prev_context": [
+        [
+          "eius",
+          8
+        ],
+        [
+          "es",
+          6
+        ],
+        [
+          "eius et",
+          4
+        ]
+      ],
+      "next_context": [
+        [
+          "eius et",
+          9
+        ],
+        [
+          "eius",
+          8
+        ],
+        [
+          "cibo et",
+          6
+        ]
+      ]
+    },
+    {
+      "eva": "qokal",
+      "count": 193,
+      "length": 5,
+      "prev_context": [
+        [
+          "cibo et",
+          10
+        ],
+        [
+          "eius et",
+          8
+        ],
+        [
+          "et",
+          4
+        ]
+      ],
+      "next_context": [
+        [
+          "eius et",
+          15
+        ],
+        [
+          "cibo et",
+          13
+        ],
+        [
+          "eius",
+          6
+        ]
+      ]
+    },
+    {
+      "eva": "okeey",
+      "count": 181,
+      "length": 5,
+      "prev_context": [
+        [
+          "eius",
+          7
+        ],
+        [
+          "eius et",
+          6
+        ],
+        [
+          "cies",
+          3
+        ]
+      ],
+      "next_context": [
+        [
+          "eius",
+          5
+        ],
+        [
+          "eius et",
+          4
+        ],
+        [
+          "eius hiera",
+          2
+        ]
+      ]
+    },
+    {
+      "eva": "qokar",
+      "count": 158,
+      "length": 5,
+      "prev_context": [
+        [
+          "eius et",
+          17
+        ],
+        [
+          "cies",
+          6
+        ],
+        [
+          "cibo et",
+          5
+        ]
+      ],
+      "next_context": [
+        [
+          "cibo et",
+          11
+        ],
+        [
+          "eius",
+          6
+        ],
+        [
+          "eius et",
+          5
+        ]
+      ]
+    }
+  ]
+}
