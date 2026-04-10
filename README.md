@@ -2,6 +2,8 @@
 
 ### A passionate attempt by Guillaume Clement & Claude Code
 
+> **April 2026 Update:** An architectural flaw in our initial scoring pipeline inflated results from 36.7% (real signal) to 89.3% (artifact). This has been corrected. The morphological structure (PREFIX+ROOT), the Tironian Notes connection (z=9.4), and the pharmaceutical vocabulary signal remain confirmed with stronger evidence. See [ADDENDUM_V3.md](ADDENDUM_V3.md) for the full correction.
+
 ---
 
 > *After an epic journey through medieval Latin, pharmaceutical ciphers, and hundreds of hours of algorithmic analysis, we believe we have read - for the first time - significant portions of the most mysterious book in the world.*
