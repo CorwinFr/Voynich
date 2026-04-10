@@ -1,0 +1,1576 @@
+{
+  "abrotanum": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "absinthium": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye"
+    ],
+    "count": 3
+  },
+  "acacia": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "acanthus/branca ursina": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "acetum": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye"
+    ],
+    "count": 3
+  },
+  "acorus": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "acorus calamus": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "adeps": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "aes ustum": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "agaricus": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "albumen_ovi": {
+    "corpora": [
+      "Lylye"
+    ],
+    "count": 1
+  },
+  "alipta": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "allium": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "aloe": {
+    "corpora": [
+      "AN",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "alumen": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "ambra": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "amidum": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "ammi": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "ammoniacum": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "amomum": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "amygdala": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "amygdala amara": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "anacardium": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "anethum": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "anisum": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "antimonium": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "apium": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "aqua": {
+    "corpora": [
+      "AN",
+      "Lylye"
+    ],
+    "count": 2
+  },
+  "aqua_rosarum": {
+    "corpora": [
+      "Lylye"
+    ],
+    "count": 1
+  },
+  "aristolochia": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "artemisia": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "asa_foetida": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "asarum": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "asparagus": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "auripigmentum": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "balaustium": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "balsamum": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "bdellium": {
+    "corpora": [
+      "AN",
+      "Lylye"
+    ],
+    "count": 2
+  },
+  "bedegar": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "berberis": {
+    "corpora": [
+      "AN",
+      "CI"
+    ],
+    "count": 2
+  },
+  "betonica": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "bistorta": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "bolus": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "bolus armeniacus": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "borago": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "borax": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "calamintha": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "calamus_aromaticus": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "camphora": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "capparis": {
+    "corpora": [
+      "CI",
+      "Lylye"
+    ],
+    "count": 2
+  },
+  "cardamomum": {
+    "corpora": [
+      "AN",
+      "CI"
+    ],
+    "count": 2
+  },
+  "carpobalsamum": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "carum": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "carum carvi": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "caryophyllus": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "cassia fistula": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "cassia lignea": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "cassia_fistula": {
+    "corpora": [
+      "AN",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "cassia_lignea": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "castoreum": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "centaurea": {
+    "corpora": [
+      "AN",
+      "CI"
+    ],
+    "count": 2
+  },
+  "cera": {
+    "corpora": [
+      "AN",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "cerusa": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "chamaedrys": {
+    "corpora": [
+      "AN",
+      "Lylye"
+    ],
+    "count": 2
+  },
+  "chamaedrys/teucrium": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "chamomilla": {
+    "corpora": [
+      "Lylye",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "chelidonia": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "cicuta": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "cinnamomum": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "colocynthis": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "colophonia": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "corallium": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "coriandrum": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "costus": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "cretanum/dictamnus creticus": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "crocus": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "crocus/saffron": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "cubeba": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "cuminum": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "cupressus": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "curcuma": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "cuscuta": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "cyclamen": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "cyperus": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "daphne laureola": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "daucus": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "diagridium": {
+    "corpora": [
+      "AN",
+      "Lylye"
+    ],
+    "count": 2
+  },
+  "dictamnus": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "dracunculus/serpentaria": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "ebur": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "endivia": {
+    "corpora": [
+      "Lylye"
+    ],
+    "count": 1
+  },
+  "endivia/cichorium": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "epithymum": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye"
+    ],
+    "count": 3
+  },
+  "euphorbia": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "euphorbia esula": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "euphorbia lathyris": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "foeniculum": {
+    "corpora": [
+      "AN",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "folium": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "fumaria": {
+    "corpora": [
+      "Lylye",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "galanga": {
+    "corpora": [
+      "AN",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "galbanum": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "galla": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "gentiana": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "geum/caryophyllata": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "glycyrrhiza": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "gummi_arabicum": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "helleborus": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "hepatica": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "hermodactylus": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "hyoscyamus": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "hyssopus": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "inula helenium": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "iris": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "juniperus": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "lac_mulieris": {
+    "corpora": [
+      "Lylye"
+    ],
+    "count": 1
+  },
+  "lacca": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "lactuca": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "ladanum": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "lapis_lazuli": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "laurus": {
+    "corpora": [
+      "AN",
+      "CI"
+    ],
+    "count": 2
+  },
+  "lavandula": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "lawsonia/alkanna": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "lentiscus/pistacia": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "levisticum": {
+    "corpora": [
+      "AN",
+      "CI"
+    ],
+    "count": 2
+  },
+  "lignum_aloes": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "linum": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "lithargyrum": {
+    "corpora": [
+      "CI",
+      "Lylye"
+    ],
+    "count": 2
+  },
+  "lithospermum": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "macis": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "magnes": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "majorana/origanum": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "malva": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "mandragora": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "margarita": {
+    "corpora": [
+      "AN",
+      "CI"
+    ],
+    "count": 2
+  },
+  "mastix": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "mel": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "mel_rosatum": {
+    "corpora": [
+      "Lylye"
+    ],
+    "count": 1
+  },
+  "melissa": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "mentha": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "morus": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "mumia": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "myrobalanus": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "myrrha": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "myrtus": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "nardus": {
+    "corpora": [
+      "AN",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "nardus_celtica": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "nasturtium": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "nigella": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "nux indica/cocos": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "nux moschata": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "nux_indica": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "nux_moschata": {
+    "corpora": [
+      "Lylye"
+    ],
+    "count": 1
+  },
+  "nymphaea": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "ocimum": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "oleum": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "oleum_rosatum": {
+    "corpora": [
+      "Lylye"
+    ],
+    "count": 1
+  },
+  "olibanum": {
+    "corpora": [
+      "AN",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "olibanum/thus": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "opium": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "opopanax": {
+    "corpora": [
+      "AN",
+      "CI"
+    ],
+    "count": 2
+  },
+  "orchis/satyrion": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "origanum": {
+    "corpora": [
+      "AN",
+      "CI"
+    ],
+    "count": 2
+  },
+  "paeonia": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "papaver": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "parietaria": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "pastinaca": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "petroleum": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "petroselinum": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye"
+    ],
+    "count": 3
+  },
+  "peucedanum": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "piper": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "piper_album": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "piper_longum": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "piper_nigrum": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "plantago": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "polypodium": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "portulaca": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "prunus": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "psyllium": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "pulegium": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "pulegium/mentha pulegium": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "pulicaria": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "pyrethrum": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "rhabarbarum": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "rhaponticum": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "rheum/rhabarbarum": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "rosa": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "rubia": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "ruta": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "sagapenum": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "sal": {
+    "corpora": [
+      "Lylye",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "salvia": {
+    "corpora": [
+      "AN",
+      "CI"
+    ],
+    "count": 2
+  },
+  "sanguis draconis": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "sanguis_draconis": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "santalum": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "sarcocolla": {
+    "corpora": [
+      "Lylye",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "satureja": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "satyrion": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "saxifraga": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "scammonia": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "scordium/teucrium": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "sempervivum": {
+    "corpora": [
+      "AN",
+      "CI"
+    ],
+    "count": 2
+  },
+  "senna": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "siler": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "solanum": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "spodium": {
+    "corpora": [
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "squilla": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "squinanthum": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "staphisagria": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "storax": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "storax_calamita": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "sulfur": {
+    "corpora": [
+      "CI",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "sumac": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "sumac/rhus": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "tamarindus": {
+    "corpora": [
+      "AN",
+      "Lylye"
+    ],
+    "count": 2
+  },
+  "terebinthina": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "terra sigillata": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "terra_sigillata": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "thymus": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "tragacanthum": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "trigonella": {
+    "corpora": [
+      "Lylye",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "turbith": {
+    "corpora": [
+      "AN",
+      "CI",
+      "DALME"
+    ],
+    "count": 3
+  },
+  "tutia": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "vernix": {
+    "corpora": [
+      "CI"
+    ],
+    "count": 1
+  },
+  "vinum": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "viola": {
+    "corpora": [
+      "AN",
+      "CI",
+      "Lylye",
+      "DALME"
+    ],
+    "count": 4
+  },
+  "vitex": {
+    "corpora": [
+      "DALME"
+    ],
+    "count": 1
+  },
+  "xylobalsamum": {
+    "corpora": [
+      "AN"
+    ],
+    "count": 1
+  },
+  "zedoaria": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "zingiber": {
+    "corpora": [
+      "AN",
+      "DALME"
+    ],
+    "count": 2
+  },
+  "zuccarum": {
+    "corpora": [
+      "Lylye"
+    ],
+    "count": 1
+  }
+}
