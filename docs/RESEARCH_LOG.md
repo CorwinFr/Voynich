@@ -76,13 +76,21 @@
 |--------|---------|-------------------|
 | LUNAIRES_COMPLETS_30_JOURS.md | 5 lunaires medievaux (XIIIe-XVe) : Arsenal 2782, BnF Fr 2074, BnF Fr 837, BnF Fr 1745, pronostiques saignee | Crib semantique pour L04 de f57v |
 
-### Tests A EFFECTUER
-| Test | Source | Statut |
-|------|--------|--------|
-| Crib semantique L04 x lunaires | LUNAIRES_COMPLETS_30_JOURS.md vs 29 mots L04 | A FAIRE |
-| Alignement jour par jour | Themes des lunaires x decodage K&A | A FAIRE |
-| Jours critiques (3,5,13,25) vs L04 | Lunaires unanimes sur ces jours | A FAIRE |
-| Correspondance saignee/purge | Instructions saignee x mots L04 | A FAIRE |
+### Tests effectues
+| Test | Source | Resultat | Impact |
+|------|--------|----------|--------|
+| Crib semantique L04 x 5 lunaires | LUNAIRES_COMPLETS_30_JOURS.md | 27/87 = 31%, 3 matchs forts | Signaux partiels |
+| Crib lexical latin (beam=50) | Lunaire latin reconstruit (80+ termes) | 9/87 = 10%, 2 matchs forts | FRAGILE |
+| Hypothese zodiacale (glyphes isoles) | Fasciculus Medicinae + Clark | 88% proximite MAIS p=0.49 (permutation) | NON significatif |
+| Analyse structurelle inversee (9 tests) | L04 vs structure lunaire connue | 27/29 mots uniques (attendu 7-10), H=3.74 bits | INCOMPATIBLE |
+| Crib zodiacal Fasciculus | FASCICULUS_CRIB_ZODIACAL.md | Memes matchs que tests precedents | Pas de valeur ajoutee |
+
+### Verdict H04
+**AFFAIBLIE** — Le nombre 29 et la position sur volvelle restent valides,
+mais la structure interne (27 mots uniques, taux repetition 6.9%, entropie 3.74)
+est incompatible avec un lunaire abrege (attendu 7-10 uniques, 40-50% repetitions).
+Les 3 matchs forts (crux j19, aquam j1/j25) sont probablement coincidentiels.
+Hypothese alternative : L04 = etiquettes de volvelle (29 noms, pas 29 phrases).
 
 ### Actions repo
 - Repo prive GitHub : CorwinFr/project-aureum (Apache 2.0)
@@ -122,7 +130,7 @@
 ### PROBABLES
 9. ~28% du texte = nomenclateur (noms propres non K&A)
 10. Premiers mots herbaux = classificateur gallows + racine
-11. L04 = cycle lunaire 29 jours
+11. L04 = cycle lunaire 29 jours → **AFFAIBLIE** (struct. incompatible)
 
 ### SPECULATIVES
 12. Glyphes isoles = chiffres/quantites (Benford-like)
