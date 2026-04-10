@@ -1,0 +1,261 @@
+{
+  "hypotheses": {
+    "H1_aqua_oleum_mel_sal": {
+      "mappings": {
+        "aiin": "aqua",
+        "edy": "oleum",
+        "eey": "mel",
+        "al": "sal",
+        "ain": "uncia",
+        "eedy": "olei",
+        "eol": "semen",
+        "eor": "herba"
+      }
+    },
+    "H2_aqua_herba_vinum_aloe": {
+      "mappings": {
+        "aiin": "aqua",
+        "edy": "herba",
+        "eey": "vinum",
+        "al": "aloe",
+        "ain": "ana",
+        "eedy": "herbae",
+        "eol": "radix",
+        "eor": "folium"
+      }
+    },
+    "H3_ana_oleum_aqua_sal": {
+      "mappings": {
+        "aiin": "ana",
+        "edy": "oleum",
+        "eey": "aqua",
+        "al": "sal",
+        "ain": "uncia",
+        "eedy": "olei",
+        "eol": "semen",
+        "eor": "herba"
+      }
+    },
+    "H4_aqua_cera_mel_sal": {
+      "mappings": {
+        "aiin": "aqua",
+        "edy": "cera",
+        "eey": "mel",
+        "al": "sal",
+        "ain": "dosis",
+        "eedy": "cerae",
+        "eol": "pulvis",
+        "eor": "cortex"
+      }
+    }
+  },
+  "scores": {
+    "H1_aqua_oleum_mel_sal": {
+      "good_hits": 1343,
+      "bad_hits": 472,
+      "colloc_score": -73,
+      "known_pct": 56.5
+    },
+    "H2_aqua_herba_vinum_aloe": {
+      "good_hits": 857,
+      "bad_hits": 392,
+      "colloc_score": -319,
+      "known_pct": 56.5
+    },
+    "H3_ana_oleum_aqua_sal": {
+      "good_hits": 1021,
+      "bad_hits": 495,
+      "colloc_score": -464,
+      "known_pct": 56.5
+    },
+    "H4_aqua_cera_mel_sal": {
+      "good_hits": 1103,
+      "bad_hits": 415,
+      "colloc_score": -142,
+      "known_pct": 56.5
+    }
+  },
+  "winner": "H1_aqua_oleum_mel_sal",
+  "winner_samples": [
+    {
+      "folio": "F58V",
+      "section": "S",
+      "eva": "tcheor chor kar okal qokeey qokal shol qokain ar oetalchg",
+      "decoded": "§ [P] herba | [P] hiera | iure | sal | cum mel | cum sal | [M] es | cum uncia | iure | _oetalchg_"
+    },
+    {
+      "folio": "F58V",
+      "section": "S",
+      "eva": "psheey qoty qokar qokey ky ykar cheal otal kol olchedy",
+      "decoded": "Rx [M] mel | cum in | cum iure | cum on | in | de iure | [P] ?eal? | sal | es | ex eius et"
+    },
+    {
+      "folio": "F88R",
+      "section": "P",
+      "eva": "okol",
+      "decoded": "es"
+    },
+    {
+      "folio": "F88R",
+      "section": "P",
+      "eva": "dsheol qokeey chy aiin chor oteor aiin chosals",
+      "decoded": "in ciens | cum mel | [P] in | aqua | [P] hiera | herba | aqua | [P] ?osals?"
+    },
+    {
+      "folio": "F88R",
+      "section": "P",
+      "eva": "ychey okaiin chol cheor ol chorcholsal",
+      "decoded": "de eius | aqua | [P] es | [P] herba | es | [P] ?orcholsal?"
+    },
+    {
+      "folio": "F88R",
+      "section": "P",
+      "eva": "otor am",
+      "decoded": "hiera | cum"
+    },
+    {
+      "folio": "F88R",
+      "section": "P",
+      "eva": "qokol chol qokol qokol chol cheey or aiin oldal",
+      "decoded": "cum es | [P] es | cum es | cum es | [P] es | [P] mel | hiera | aqua | ex ?dal?"
+    },
+    {
+      "folio": "F88V",
+      "section": "P",
+      "eva": "okaiin",
+      "decoded": "aqua"
+    },
+    {
+      "folio": "F88V",
+      "section": "P",
+      "eva": "daiin sheor sheedy daiin shoy qokeody doy dair",
+      "decoded": "in ura | [M] herba | [M] olei | in ura | [M] en | cum ?eody? | in en | in ire"
+    },
+    {
+      "folio": "F89R1",
+      "section": "P",
+      "eva": "oldam",
+      "decoded": "ex dum"
+    },
+    {
+      "folio": "F89R1",
+      "section": "P",
+      "eva": "otoldy",
+      "decoded": "es et"
+    },
+    {
+      "folio": "F89R1",
+      "section": "P",
+      "eva": "otorain",
+      "decoded": "aratura"
+    },
+    {
+      "folio": "F89R2",
+      "section": "P",
+      "eva": "doly",
+      "decoded": "in est"
+    },
+    {
+      "folio": "F89R2",
+      "section": "P",
+      "eva": "otoldy",
+      "decoded": "es et"
+    },
+    {
+      "folio": "F89R2",
+      "section": "P",
+      "eva": "okol shol dy",
+      "decoded": "es | [M] es | in in"
+    },
+    {
+      "folio": "F89R2",
+      "section": "P",
+      "eva": "daiin olkey okeol okey okeeol qoor ol chor cheky chol daiin chol cheol koldam olcheol dol cheol",
+      "decoded": "in ura | ex on | semen | on | _okeeol_ | cum hiera | es | [P] hiera | [P] ?eky? | [P] es | in ura | [P] es | [P] semen | _koldam_ | ex eius | in es | [P] semen"
+    },
+    {
+      "folio": "F89R2",
+      "section": "P",
+      "eva": "ain ar ain ol daiin qoaiin ol chkaiin daiin okar dair ydair",
+      "decoded": "uncia | iure | uncia | es | in ura | cum aqua | es | [P] aqua | in ura | iure | in ire | de ?dair?"
+    },
+    {
+      "folio": "F89R2",
+      "section": "P",
+      "eva": "okain",
+      "decoded": "uncia"
+    },
+    {
+      "folio": "F89R2",
+      "section": "P",
+      "eva": "yorain",
+      "decoded": "de aratura"
+    },
+    {
+      "folio": "F89V2",
+      "section": "P",
+      "eva": "okam",
+      "decoded": "cum"
+    },
+    {
+      "folio": "F89V2",
+      "section": "P",
+      "eva": "sheol",
+      "decoded": "[M] semen"
+    },
+    {
+      "folio": "F89V2",
+      "section": "P",
+      "eva": "chtchy",
+      "decoded": "[P] libra"
+    },
+    {
+      "folio": "F89V1",
+      "section": "P",
+      "eva": "otoy",
+      "decoded": "en"
+    },
+    {
+      "folio": "F89V1",
+      "section": "P",
+      "eva": "otchar",
+      "decoded": "iure"
+    },
+    {
+      "folio": "F89V1",
+      "section": "P",
+      "eva": "qokar odaiin",
+      "decoded": "cum iure | edura"
+    },
+    {
+      "folio": "F99R",
+      "section": "P",
+      "eva": "okar",
+      "decoded": "iure"
+    },
+    {
+      "folio": "F99R",
+      "section": "P",
+      "eva": "oky",
+      "decoded": "in"
+    },
+    {
+      "folio": "F99R",
+      "section": "P",
+      "eva": "ain",
+      "decoded": "uncia"
+    },
+    {
+      "folio": "F99R",
+      "section": "P",
+      "eva": "okor",
+      "decoded": "hiera"
+    },
+    {
+      "folio": "F99R",
+      "section": "P",
+      "eva": "otoldy",
+      "decoded": "es et"
+    }
+  ]
+}

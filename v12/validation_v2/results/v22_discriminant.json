@@ -1,0 +1,81 @@
+{
+  "test1_degree": {
+    "standalone": {
+      "ain": 115,
+      "aiin": 504,
+      "aiiin": 45
+    },
+    "as_root": {
+      "aiin": 1733,
+      "ain": 915,
+      "aiiin": 69
+    },
+    "as_suffix": {
+      "aiin": 3357,
+      "ain": 1541,
+      "aiiin": 71
+    },
+    "freq_decreasing": false,
+    "degree_quality_enrichment": 1.4269654049252334
+  },
+  "test2_al_article": {
+    "al_standalone": 264,
+    "al_initial": 247,
+    "al_medial": 778,
+    "al_final": 1804,
+    "al_total": 3093,
+    "cv": 0.5231403011630686
+  },
+  "test3_daiin": {
+    "section_rates": {
+      "T": 49,
+      "H": 555,
+      "C": 26,
+      "S": 178,
+      "A": 14,
+      "Z": 12,
+      "B": 121,
+      "P": 107
+    },
+    "cv": 0.5618855212220539,
+    "total_daiin": 1062
+  },
+  "test4_tironian_robustness": {
+    "schmitz_unique_values": 12917,
+    "arabic_words_tested": 41,
+    "arabic_schmitz_matches": 1,
+    "matching_words": [
+      "al"
+    ],
+    "latin_pharma_matches": [
+      "aqua",
+      "oleum",
+      "mel",
+      "sal",
+      "cera",
+      "vinum"
+    ]
+  },
+  "test5_positional": {
+    "ending_patterns": {
+      "al": 1440,
+      "aiin": 3357,
+      "ol": 2433,
+      "dy": 2221,
+      "ar": 1791,
+      "eey": 1902,
+      "or": 1499,
+      "ey": 2050,
+      "ain": 1541,
+      "aiiin": 71,
+      "edy": 2914,
+      "eedy": 1222
+    },
+    "total_with_endings": 22441
+  },
+  "test6_frequency": {
+    "al_rank": 18,
+    "daiin_rank": 1,
+    "zipf_exponent": 0.663
+  }
+}

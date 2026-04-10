@@ -1,0 +1,805 @@
+{
+  "role_assignments": {
+    "edy": {
+      "role": "MATERIA/PRODUCT",
+      "count": 1845,
+      "evidence": [
+        "sh=450 ch=587",
+        "gallows=134"
+      ],
+      "profile": {
+        "first_pct": 6.1,
+        "last_pct": 5.3,
+        "after_cum": 3,
+        "after_et": 15,
+        "after_in": 56,
+        "sh_prefix": 450,
+        "ch_prefix": 587,
+        "qo_prefix": 367,
+        "pharma_pct": 31.5,
+        "herbal_pct": 13.6
+      }
+    },
+    "aiin": {
+      "role": "UNKNOWN",
+      "count": 1733,
+      "evidence": [],
+      "profile": {
+        "first_pct": 7.8,
+        "last_pct": 8.5,
+        "after_cum": 5,
+        "after_et": 13,
+        "after_in": 43,
+        "sh_prefix": 26,
+        "ch_prefix": 70,
+        "qo_prefix": 369,
+        "pharma_pct": 49.5,
+        "herbal_pct": 23.5
+      }
+    },
+    "eey": {
+      "role": "MATERIA/PRODUCT",
+      "count": 1290,
+      "evidence": [
+        "sh=153 ch=210",
+        "pharma=55%"
+      ],
+      "profile": {
+        "first_pct": 9.5,
+        "last_pct": 3.5,
+        "after_cum": 0,
+        "after_et": 6,
+        "after_in": 24,
+        "sh_prefix": 153,
+        "ch_prefix": 210,
+        "qo_prefix": 369,
+        "pharma_pct": 55.0,
+        "herbal_pct": 13.3
+      }
+    },
+    "al": {
+      "role": "UNKNOWN",
+      "count": 1002,
+      "evidence": [],
+      "profile": {
+        "first_pct": 4.8,
+        "last_pct": 9.6,
+        "after_cum": 1,
+        "after_et": 8,
+        "after_in": 32,
+        "sh_prefix": 18,
+        "ch_prefix": 65,
+        "qo_prefix": 258,
+        "pharma_pct": 45.2,
+        "herbal_pct": 13.1
+      }
+    },
+    "eedy": {
+      "role": "UNKNOWN",
+      "count": 962,
+      "evidence": [
+        "qo=401"
+      ],
+      "profile": {
+        "first_pct": 7.8,
+        "last_pct": 4.4,
+        "after_cum": 1,
+        "after_et": 6,
+        "after_in": 15,
+        "sh_prefix": 86,
+        "ch_prefix": 63,
+        "qo_prefix": 401,
+        "pharma_pct": 45.9,
+        "herbal_pct": 7.6
+      }
+    },
+    "ain": {
+      "role": "UNKNOWN",
+      "count": 915,
+      "evidence": [
+        "qo=343"
+      ],
+      "profile": {
+        "first_pct": 7.4,
+        "last_pct": 7.7,
+        "after_cum": 0,
+        "after_et": 7,
+        "after_in": 20,
+        "sh_prefix": 11,
+        "ch_prefix": 32,
+        "qo_prefix": 343,
+        "pharma_pct": 47.8,
+        "herbal_pct": 9.7
+      }
+    },
+    "eol": {
+      "role": "MATERIA/PRODUCT",
+      "count": 539,
+      "evidence": [
+        "sh=110 ch=188",
+        "gallows=34",
+        "pharma=54%"
+      ],
+      "profile": {
+        "first_pct": 10.2,
+        "last_pct": 3.7,
+        "after_cum": 2,
+        "after_et": 3,
+        "after_in": 8,
+        "sh_prefix": 110,
+        "ch_prefix": 188,
+        "qo_prefix": 68,
+        "pharma_pct": 54.4,
+        "herbal_pct": 21.3
+      }
+    },
+    "l": {
+      "role": "UNKNOWN",
+      "count": 471,
+      "evidence": [
+        "qo=154"
+      ],
+      "profile": {
+        "first_pct": 6.6,
+        "last_pct": 16.3,
+        "after_cum": 1,
+        "after_et": 5,
+        "after_in": 19,
+        "sh_prefix": 3,
+        "ch_prefix": 31,
+        "qo_prefix": 154,
+        "pharma_pct": 29.1,
+        "herbal_pct": 17.4
+      }
+    },
+    "eody": {
+      "role": "MATERIA/PRODUCT",
+      "count": 340,
+      "evidence": [
+        "sh=58 ch=106",
+        "gallows=32"
+      ],
+      "profile": {
+        "first_pct": 10.0,
+        "last_pct": 7.1,
+        "after_cum": 1,
+        "after_et": 2,
+        "after_in": 9,
+        "sh_prefix": 58,
+        "ch_prefix": 106,
+        "qo_prefix": 44,
+        "pharma_pct": 47.6,
+        "herbal_pct": 22.9
+      }
+    },
+    "ody": {
+      "role": "MATERIA/PRODUCT",
+      "count": 297,
+      "evidence": [
+        "sh=54 ch=108",
+        "gallows=30",
+        "herbal=51%"
+      ],
+      "profile": {
+        "first_pct": 8.4,
+        "last_pct": 13.5,
+        "after_cum": 3,
+        "after_et": 2,
+        "after_in": 27,
+        "sh_prefix": 54,
+        "ch_prefix": 108,
+        "qo_prefix": 18,
+        "pharma_pct": 30.0,
+        "herbal_pct": 50.8
+      }
+    },
+    "eor": {
+      "role": "MATERIA/PRODUCT",
+      "count": 228,
+      "evidence": [
+        "sh=47 ch=101",
+        "gallows=13"
+      ],
+      "profile": {
+        "first_pct": 11.8,
+        "last_pct": 3.9,
+        "after_cum": 0,
+        "after_et": 3,
+        "after_in": 5,
+        "sh_prefix": 47,
+        "ch_prefix": 101,
+        "qo_prefix": 28,
+        "pharma_pct": 46.1,
+        "herbal_pct": 30.3
+      }
+    },
+    "cthy": {
+      "role": "MATERIA/PRODUCT",
+      "count": 224,
+      "evidence": [
+        "sh=32 ch=82",
+        "herbal=58%"
+      ],
+      "profile": {
+        "first_pct": 0.0,
+        "last_pct": 17.9,
+        "after_cum": 1,
+        "after_et": 1,
+        "after_in": 20,
+        "sh_prefix": 32,
+        "ch_prefix": 82,
+        "qo_prefix": 7,
+        "pharma_pct": 17.9,
+        "herbal_pct": 57.6
+      }
+    },
+    "air": {
+      "role": "VERB/COMMAND",
+      "count": 220,
+      "evidence": [
+        "gallows=18",
+        "pharma=62%"
+      ],
+      "profile": {
+        "first_pct": 11.8,
+        "last_pct": 2.7,
+        "after_cum": 1,
+        "after_et": 0,
+        "after_in": 5,
+        "sh_prefix": 3,
+        "ch_prefix": 2,
+        "qo_prefix": 29,
+        "pharma_pct": 61.8,
+        "herbal_pct": 16.8
+      }
+    },
+    "eo": {
+      "role": "MATERIA/PRODUCT",
+      "count": 205,
+      "evidence": [
+        "sh=51 ch=83",
+        "gallows=11",
+        "pharma=54%"
+      ],
+      "profile": {
+        "first_pct": 9.3,
+        "last_pct": 0.5,
+        "after_cum": 0,
+        "after_et": 0,
+        "after_in": 5,
+        "sh_prefix": 51,
+        "ch_prefix": 83,
+        "qo_prefix": 15,
+        "pharma_pct": 54.1,
+        "herbal_pct": 23.4
+      }
+    },
+    "saiin": {
+      "role": "VERB/COMMAND",
+      "count": 137,
+      "evidence": [
+        "first=43%"
+      ],
+      "profile": {
+        "first_pct": 43.1,
+        "last_pct": 6.6,
+        "after_cum": 0,
+        "after_et": 1,
+        "after_in": 10,
+        "sh_prefix": 0,
+        "ch_prefix": 0,
+        "qo_prefix": 2,
+        "pharma_pct": 35.8,
+        "herbal_pct": 31.4
+      }
+    },
+    "eeey": {
+      "role": "UNKNOWN",
+      "count": 131,
+      "evidence": [
+        "pharma=69%"
+      ],
+      "profile": {
+        "first_pct": 9.2,
+        "last_pct": 3.8,
+        "after_cum": 0,
+        "after_et": 1,
+        "after_in": 1,
+        "sh_prefix": 6,
+        "ch_prefix": 10,
+        "qo_prefix": 36,
+        "pharma_pct": 68.7,
+        "herbal_pct": 12.2
+      }
+    },
+    "aly": {
+      "role": "UNKNOWN",
+      "count": 129,
+      "evidence": [],
+      "profile": {
+        "first_pct": 15.5,
+        "last_pct": 24.0,
+        "after_cum": 0,
+        "after_et": 1,
+        "after_in": 6,
+        "sh_prefix": 3,
+        "ch_prefix": 8,
+        "qo_prefix": 23,
+        "pharma_pct": 44.2,
+        "herbal_pct": 10.9
+      }
+    },
+    "eeody": {
+      "role": "MATERIA/PRODUCT",
+      "count": 119,
+      "evidence": [
+        "sh=4 ch=18",
+        "gallows=9",
+        "pharma=51%"
+      ],
+      "profile": {
+        "first_pct": 12.6,
+        "last_pct": 2.5,
+        "after_cum": 0,
+        "after_et": 1,
+        "after_in": 2,
+        "sh_prefix": 4,
+        "ch_prefix": 18,
+        "qo_prefix": 24,
+        "pharma_pct": 51.3,
+        "herbal_pct": 18.5
+      }
+    },
+    "eeo": {
+      "role": "MATERIA/PRODUCT",
+      "count": 118,
+      "evidence": [
+        "sh=10 ch=22",
+        "pharma=74%"
+      ],
+      "profile": {
+        "first_pct": 20.3,
+        "last_pct": 0.0,
+        "after_cum": 0,
+        "after_et": 0,
+        "after_in": 3,
+        "sh_prefix": 10,
+        "ch_prefix": 22,
+        "qo_prefix": 27,
+        "pharma_pct": 73.7,
+        "herbal_pct": 11.0
+      }
+    },
+    "os": {
+      "role": "MATERIA/PRODUCT",
+      "count": 113,
+      "evidence": [
+        "sh=11 ch=42",
+        "gallows=8"
+      ],
+      "profile": {
+        "first_pct": 17.7,
+        "last_pct": 7.1,
+        "after_cum": 1,
+        "after_et": 0,
+        "after_in": 2,
+        "sh_prefix": 11,
+        "ch_prefix": 42,
+        "qo_prefix": 3,
+        "pharma_pct": 39.8,
+        "herbal_pct": 38.9
+      }
+    },
+    "ear": {
+      "role": "MATERIA/PRODUCT",
+      "count": 110,
+      "evidence": [
+        "sh=26 ch=55"
+      ],
+      "profile": {
+        "first_pct": 5.5,
+        "last_pct": 9.1,
+        "after_cum": 1,
+        "after_et": 1,
+        "after_in": 2,
+        "sh_prefix": 26,
+        "ch_prefix": 55,
+        "qo_prefix": 10,
+        "pharma_pct": 45.5,
+        "herbal_pct": 27.3
+      }
+    },
+    "oiin": {
+      "role": "MATERIA/PRODUCT",
+      "count": 110,
+      "evidence": [
+        "sh=7 ch=12",
+        "gallows=6",
+        "herbal=50%"
+      ],
+      "profile": {
+        "first_pct": 22.7,
+        "last_pct": 3.6,
+        "after_cum": 0,
+        "after_et": 0,
+        "after_in": 8,
+        "sh_prefix": 7,
+        "ch_prefix": 12,
+        "qo_prefix": 8,
+        "pharma_pct": 29.1,
+        "herbal_pct": 50.0
+      }
+    },
+    "ees": {
+      "role": "MATERIA/PRODUCT",
+      "count": 108,
+      "evidence": [
+        "sh=9 ch=37"
+      ],
+      "profile": {
+        "first_pct": 11.1,
+        "last_pct": 1.9,
+        "after_cum": 1,
+        "after_et": 0,
+        "after_in": 3,
+        "sh_prefix": 9,
+        "ch_prefix": 37,
+        "qo_prefix": 13,
+        "pharma_pct": 26.9,
+        "herbal_pct": 24.1
+      }
+    },
+    "daiin": {
+      "role": "MATERIA/PRODUCT",
+      "count": 106,
+      "evidence": [
+        "sh=5 ch=21",
+        "gallows=10",
+        "qo=44",
+        "herbal=43%"
+      ],
+      "profile": {
+        "first_pct": 17.0,
+        "last_pct": 10.4,
+        "after_cum": 0,
+        "after_et": 0,
+        "after_in": 3,
+        "sh_prefix": 5,
+        "ch_prefix": 21,
+        "qo_prefix": 44,
+        "pharma_pct": 40.6,
+        "herbal_pct": 43.4
+      }
+    },
+    "eky": {
+      "role": "MATERIA/PRODUCT",
+      "count": 103,
+      "evidence": [
+        "sh=34 ch=65"
+      ],
+      "profile": {
+        "first_pct": 0.0,
+        "last_pct": 7.8,
+        "after_cum": 0,
+        "after_et": 0,
+        "after_in": 3,
+        "sh_prefix": 34,
+        "ch_prefix": 65,
+        "qo_prefix": 1,
+        "pharma_pct": 26.2,
+        "herbal_pct": 35.0
+      }
+    },
+    "eos": {
+      "role": "MATERIA/PRODUCT",
+      "count": 103,
+      "evidence": [
+        "sh=13 ch=41",
+        "gallows=7"
+      ],
+      "profile": {
+        "first_pct": 13.6,
+        "last_pct": 2.9,
+        "after_cum": 0,
+        "after_et": 0,
+        "after_in": 3,
+        "sh_prefix": 13,
+        "ch_prefix": 41,
+        "qo_prefix": 7,
+        "pharma_pct": 34.0,
+        "herbal_pct": 30.1
+      }
+    },
+    "eeol": {
+      "role": "MATERIA/PRODUCT",
+      "count": 101,
+      "evidence": [
+        "sh=13 ch=10",
+        "pharma=57%"
+      ],
+      "profile": {
+        "first_pct": 14.9,
+        "last_pct": 4.0,
+        "after_cum": 0,
+        "after_et": 0,
+        "after_in": 3,
+        "sh_prefix": 13,
+        "ch_prefix": 10,
+        "qo_prefix": 16,
+        "pharma_pct": 57.4,
+        "herbal_pct": 18.8
+      }
+    },
+    "edar": {
+      "role": "MATERIA/PRODUCT",
+      "count": 96,
+      "evidence": [
+        "sh=11 ch=48",
+        "gallows=17",
+        "pharma=51%"
+      ],
+      "profile": {
+        "first_pct": 17.7,
+        "last_pct": 0.0,
+        "after_cum": 0,
+        "after_et": 1,
+        "after_in": 3,
+        "sh_prefix": 11,
+        "ch_prefix": 48,
+        "qo_prefix": 11,
+        "pharma_pct": 51.0,
+        "herbal_pct": 15.6
+      }
+    },
+    "ckhey": {
+      "role": "MATERIA/PRODUCT",
+      "count": 88,
+      "evidence": [
+        "sh=11 ch=30"
+      ],
+      "profile": {
+        "first_pct": 1.1,
+        "last_pct": 6.8,
+        "after_cum": 1,
+        "after_et": 0,
+        "after_in": 1,
+        "sh_prefix": 11,
+        "ch_prefix": 30,
+        "qo_prefix": 18,
+        "pharma_pct": 45.5,
+        "herbal_pct": 27.3
+      }
+    },
+    "sar": {
+      "role": "VERB/COMMAND",
+      "count": 82,
+      "evidence": [
+        "first=38%"
+      ],
+      "profile": {
+        "first_pct": 37.8,
+        "last_pct": 20.7,
+        "after_cum": 0,
+        "after_et": 0,
+        "after_in": 1,
+        "sh_prefix": 0,
+        "ch_prefix": 0,
+        "qo_prefix": 0,
+        "pharma_pct": 35.4,
+        "herbal_pct": 17.1
+      }
+    }
+  },
+  "candidates": {
+    "edy": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "aiin": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "eey": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "al": [
+      "al(Schmitz)",
+      "sal",
+      "mel",
+      "cera",
+      "oleum"
+    ],
+    "eedy": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "ain": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "eol": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "l": [
+      "sal",
+      "mel",
+      "cera",
+      "aqua",
+      "aloe"
+    ],
+    "eody": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "ody": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "eor": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "cthy": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "air": [
+      "recipe",
+      "misce",
+      "coque",
+      "tere",
+      "cola"
+    ],
+    "eo": [
+      "eo(Schmitz)",
+      "sal",
+      "mel",
+      "cera",
+      "oleum"
+    ],
+    "saiin": [
+      "recipe",
+      "misce",
+      "coque",
+      "tere",
+      "cola"
+    ],
+    "eeey": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "aly": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "eeody": [
+      "cera",
+      "oleum",
+      "aqua",
+      "vinum",
+      "acetum"
+    ],
+    "eeo": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "os": [
+      "os(Schmitz)",
+      "sal",
+      "mel",
+      "cera",
+      "oleum"
+    ],
+    "ear": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "oiin": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "ees": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "daiin": [
+      "cera",
+      "oleum",
+      "aqua",
+      "vinum",
+      "acetum"
+    ],
+    "eky": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "eos": [
+      "eos(Schmitz)",
+      "sal",
+      "mel",
+      "cera",
+      "oleum"
+    ],
+    "eeol": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "edar": [
+      "sal",
+      "mel",
+      "cera",
+      "oleum",
+      "aqua"
+    ],
+    "ckhey": [
+      "cera",
+      "oleum",
+      "aqua",
+      "vinum",
+      "acetum"
+    ],
+    "sar": [
+      "recipe",
+      "misce",
+      "coque",
+      "tere",
+      "cola"
+    ]
+  }
+}

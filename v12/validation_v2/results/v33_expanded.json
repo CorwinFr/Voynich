@@ -1,0 +1,282 @@
+{
+  "stats": {
+    "UNKNOWN": 16828,
+    "SUBSTANCE": 8960,
+    "UNIT": 4247,
+    "VERB": 4121,
+    "STATE": 2827
+  },
+  "known_pct": 54.5,
+  "unknowns": 3653,
+  "registry_top50": [
+    [
+      "UNK_054",
+      "o",
+      654
+    ],
+    [
+      "UNK_087",
+      "l",
+      474
+    ],
+    [
+      "UNK_737",
+      "chedy",
+      404
+    ],
+    [
+      "UNK_059",
+      "chy",
+      396
+    ],
+    [
+      "UNK_069",
+      "r",
+      391
+    ],
+    [
+      "UNK_083",
+      "chey",
+      290
+    ],
+    [
+      "UNK_040",
+      "s",
+      271
+    ],
+    [
+      "UNK_289",
+      "chdy",
+      228
+    ],
+    [
+      "UNK_051",
+      "odaiin",
+      226
+    ],
+    [
+      "UNK_165",
+      "daiin",
+      205
+    ],
+    [
+      "UNK_172",
+      "dar",
+      196
+    ],
+    [
+      "UNK_998",
+      "shedy",
+      155
+    ],
+    [
+      "UNK_435",
+      "d",
+      152
+    ],
+    [
+      "UNK_013",
+      "ky",
+      143
+    ],
+    [
+      "UNK_363",
+      "aly",
+      138
+    ],
+    [
+      "UNK_131",
+      "saiin",
+      137
+    ],
+    [
+      "UNK_448",
+      "dal",
+      124
+    ],
+    [
+      "UNK_055",
+      "oiin",
+      112
+    ],
+    [
+      "UNK_014",
+      "od",
+      109
+    ],
+    [
+      "UNK_034",
+      "shey",
+      104
+    ],
+    [
+      "UNK_028",
+      "odar",
+      96
+    ],
+    [
+      "UNK_104",
+      "m",
+      96
+    ],
+    [
+      "UNK_143",
+      "ty",
+      96
+    ],
+    [
+      "UNK_050",
+      "oy",
+      91
+    ],
+    [
+      "UNK_038",
+      "dain",
+      90
+    ],
+    [
+      "UNK_377",
+      "oly",
+      86
+    ],
+    [
+      "UNK_166",
+      "om",
+      85
+    ],
+    [
+      "UNK_108",
+      "oky",
+      83
+    ],
+    [
+      "UNK_276",
+      "sar",
+      83
+    ],
+    [
+      "UNK_082",
+      "cheey",
+      82
+    ],
+    [
+      "UNK_005",
+      "oldy",
+      81
+    ],
+    [
+      "UNK_058",
+      "shy",
+      80
+    ],
+    [
+      "UNK_186",
+      "odal",
+      72
+    ],
+    [
+      "UNK_061",
+      "cho",
+      69
+    ],
+    [
+      "UNK_334",
+      "sol",
+      67
+    ],
+    [
+      "UNK_425",
+      "sain",
+      67
+    ],
+    [
+      "UNK_066",
+      "e",
+      64
+    ],
+    [
+      "UNK_208",
+      "ary",
+      64
+    ],
+    [
+      "UNK_080",
+      "oaiin",
+      62
+    ],
+    [
+      "UNK_292",
+      "ockhy",
+      60
+    ],
+    [
+      "UNK_091",
+      "oty",
+      58
+    ],
+    [
+      "UNK_732",
+      "pchedy",
+      58
+    ],
+    [
+      "UNK_018",
+      "sy",
+      57
+    ],
+    [
+      "UNK_036",
+      "octhy",
+      56
+    ],
+    [
+      "UNK_048",
+      "odain",
+      56
+    ],
+    [
+      "UNK_112",
+      "qo",
+      56
+    ],
+    [
+      "UNK_739",
+      "aldy",
+      54
+    ],
+    [
+      "UNK_003",
+      "ory",
+      53
+    ],
+    [
+      "UNK_022",
+      "an",
+      53
+    ],
+    [
+      "UNK_216",
+      "oraiin",
+      53
+    ]
+  ],
+  "new_substances": {
+    "chol": "[P]OLEUM",
+    "chor": "[P]HIERA",
+    "cthol": "OLEUM",
+    "cthor": "HIERA",
+    "ckhol": "OLEUM",
+    "chody": "[P]ACETUM"
+  },
+  "reclassified": {
+    "cthy": "[cth]y",
+    "chol": "OLEUM",
+    "chor": "HIERA",
+    "ckhey": "[ckh]ey",
+    "cthey": "[cth]ey",
+    "cthol": "[cth]ol",
+    "cthor": "[cth]or",
+    "ckhol": "[ckh]ol",
+    "chody": "ACETUM"
+  }
+}

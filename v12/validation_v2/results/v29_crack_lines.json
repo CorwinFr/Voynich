@@ -1,0 +1,904 @@
+{
+  "best_lines": [
+    {
+      "folio": "F55R",
+      "section": "H",
+      "eva": "okair or aiin chody ykair qokar okar ol ykar ar al",
+      "decoded": "1ʒ . hiera . 2℥ . [P] acetum . de 1ʒ . cum aqua . aqua . oleum . de aqua . aqua . sal",
+      "known_pct": 100.0,
+      "known": 11,
+      "total": 11
+    },
+    {
+      "folio": "F55R",
+      "section": "H",
+      "eva": "ykaiir chol chky okar chky chdy qokar okaiin chckhy aiin",
+      "decoded": "de 2ʒ . [P] oleum . [P] · . aqua . [P] · . [P] et . cum aqua . 2℥ . [P] cera . 2℥",
+      "known_pct": 100.0,
+      "known": 10,
+      "total": 10
+    },
+    {
+      "folio": "F86V6",
+      "section": "T",
+      "eva": "taiin okaiin qokaiin ykeey otain chey okam qokar qokain okaiin",
+      "decoded": "§ 2℥ . 2℥ . cum 2℥ . de · . 1℥ . [P] · . ana . cum aqua . cum 1℥ . 2℥",
+      "known_pct": 100.0,
+      "known": 10,
+      "total": 10
+    },
+    {
+      "folio": "F75R",
+      "section": "B",
+      "eva": "qokey qokedy sheol qokedy dain shedy otol chedy olar",
+      "decoded": "cum · . cum et . [M] 1×oleum . cum et . in 1℥ . [M] et . oleum . [P] et . ex aqua",
+      "known_pct": 100.0,
+      "known": 9,
+      "total": 9
+    },
+    {
+      "folio": "F80R",
+      "section": "B",
+      "eva": "tolkain otal chedy qokar ol shedy checkhy or oly",
+      "decoded": "§ ex 1℥ . sal . [P] et . cum aqua . oleum . [M] et . [P] 1×cera . hiera . ex ·",
+      "known_pct": 100.0,
+      "known": 9,
+      "total": 9
+    },
+    {
+      "folio": "F80V",
+      "section": "B",
+      "eva": "tcheol kedy pcheol kain shedy qokaiin otey qokedy chedy",
+      "decoded": "§ [P] 1×oleum . et . Rx [P] 1×oleum . 1℥ . [M] et . cum 2℥ . · . cum et . [P] et",
+      "known_pct": 100.0,
+      "known": 9,
+      "total": 9
+    },
+    {
+      "folio": "F38V",
+      "section": "H",
+      "eva": "qokeey keor daiin okey keey daiin dair daiin",
+      "decoded": "cum · . 1×hiera . in 2℥ . · . · . in 2℥ . in 1ʒ . in 2℥",
+      "known_pct": 100.0,
+      "known": 8,
+      "total": 8
+    },
+    {
+      "folio": "F76R",
+      "section": "T",
+      "eva": "qokaiin ol shedy qokeey or shdy",
+      "decoded": "cum 2℥ . oleum . [M] et . cum · . hiera . [M] et",
+      "known_pct": 100.0,
+      "known": 6,
+      "total": 6
+    },
+    {
+      "folio": "F81R",
+      "section": "B",
+      "eva": "pchedy qokeey oty qotey oteey oly",
+      "decoded": "Rx [P] et . cum · . · . cum · . · . ex ·",
+      "known_pct": 100.0,
+      "known": 6,
+      "total": 6
+    },
+    {
+      "folio": "F81R",
+      "section": "B",
+      "eva": "chol dain otedy cheey qotain ly",
+      "decoded": "[P] oleum . in 1℥ . et . [P] · . cum 1℥ . per ·",
+      "known_pct": 100.0,
+      "known": 6,
+      "total": 6
+    },
+    {
+      "folio": "F84V",
+      "section": "B",
+      "eva": "qokain okain olol okal chedy chedy",
+      "decoded": "cum 1℥ . 1℥ . ex oleum . sal . [P] et . [P] et",
+      "known_pct": 100.0,
+      "known": 6,
+      "total": 6
+    },
+    {
+      "folio": "F40V",
+      "section": "H",
+      "eva": "tchy pchody pchdy kor ol",
+      "decoded": "§ [P] · . Rx [P] acetum . Rx [P] et . hiera . oleum",
+      "known_pct": 100.0,
+      "known": 5,
+      "total": 5
+    },
+    {
+      "folio": "F45R",
+      "section": "H",
+      "eva": "lor kaiin ykeol ykeol cham",
+      "decoded": "per hiera . 2℥ . de 1×oleum . de 1×oleum . [P] ana",
+      "known_pct": 100.0,
+      "known": 5,
+      "total": 5
+    },
+    {
+      "folio": "F75V",
+      "section": "B",
+      "eva": "qokal dain dain qoky daiin",
+      "decoded": "cum sal . in 1℥ . in 1℥ . cum · . in 2℥",
+      "known_pct": 100.0,
+      "known": 5,
+      "total": 5
+    },
+    {
+      "folio": "F103R",
+      "section": "S",
+      "eva": "qotedy qokeey shal qotey shkaiin",
+      "decoded": "cum et . cum · . [M] sal . cum · . [M] 2℥",
+      "known_pct": 100.0,
+      "known": 5,
+      "total": 5
+    },
+    {
+      "folio": "F107V",
+      "section": "S",
+      "eva": "dain olaiin chol olkain lkaiin",
+      "decoded": "in 1℥ . ex 2℥ . [P] oleum . ex 1℥ . per 2℥",
+      "known_pct": 100.0,
+      "known": 5,
+      "total": 5
+    },
+    {
+      "folio": "F113V",
+      "section": "S",
+      "eva": "dair aiin okain aiin cheody",
+      "decoded": "in 1ʒ . 2℥ . 1℥ . 2℥ . [P] 1×acetum",
+      "known_pct": 100.0,
+      "known": 5,
+      "total": 5
+    },
+    {
+      "folio": "F113V",
+      "section": "S",
+      "eva": "lkaiin cheey lain al cheey",
+      "decoded": "per 2℥ . [P] · . per 1℥ . sal . [P] ·",
+      "known_pct": 100.0,
+      "known": 5,
+      "total": 5
+    },
+    {
+      "folio": "F7R",
+      "section": "H",
+      "eva": "chain chor daiin chckhy",
+      "decoded": "[P] 1℥ . [P] hiera . in 2℥ . [P] cera",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F16V",
+      "section": "H",
+      "eva": "daiin yky otor chody",
+      "decoded": "in 2℥ . de · . hiera . [P] acetum",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F19R",
+      "section": "H",
+      "eva": "otchy tchy qoky daiin",
+      "decoded": "mel . § [P] · . cum · . in 2℥",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F22V",
+      "section": "H",
+      "eva": "fshor shy tchor otaiin",
+      "decoded": "Rx [M] hiera . [M] · . § [P] hiera . 2℥",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F32R",
+      "section": "H",
+      "eva": "otol dol ol dair",
+      "decoded": "oleum . in oleum . oleum . in 1ʒ",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F35R",
+      "section": "H",
+      "eva": "qokeey ky kaiin daiin",
+      "decoded": "cum · . · . 2℥ . in 2℥",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F40V",
+      "section": "H",
+      "eva": "air ain okaiin okam",
+      "decoded": "1ʒ . 1℥ . 2℥ . ana",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F40V",
+      "section": "H",
+      "eva": "shody qokol chedy ar",
+      "decoded": "[M] acetum . cum oleum . [P] et . aqua",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F46R",
+      "section": "H",
+      "eva": "qokar shol kal olkeody",
+      "decoded": "cum aqua . [M] oleum . sal . ex 1×acetum",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F49R",
+      "section": "H",
+      "eva": "qokeor cheey qokchy qotody",
+      "decoded": "cum 1×hiera . [P] · . cum mel . cum acetum",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F104R",
+      "section": "S",
+      "eva": "shar sheey kar sheody",
+      "decoded": "[M] aqua . [M] · . aqua . [M] 1×acetum",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F106V",
+      "section": "S",
+      "eva": "qokaiin chey kar oteol",
+      "decoded": "cum 2℥ . [P] · . aqua . 1×oleum",
+      "known_pct": 100.0,
+      "known": 4,
+      "total": 4
+    },
+    {
+      "folio": "F116R",
+      "section": "S",
+      "eva": "shain cheor ain okeey okeey shy lar ar aiiin oky char ar okain ykanam",
+      "decoded": "[M] 1℥ . [P] 1×hiera . 1℥ . · . · . [M] · . per aqua . aqua . 3℥ . · . [P] aqua . aqua . 1℥ . de ?anam?",
+      "known_pct": 92.85714285714286,
+      "known": 13,
+      "total": 14
+    },
+    {
+      "folio": "F107V",
+      "section": "S",
+      "eva": "daiin dckhy ol daiin chkal qokedy otal chedy oteos aiin otar alkain ol",
+      "decoded": "in 2℥ . in cera . oleum . in 2℥ . [P] sal . cum et . sal . [P] et . 1×succus . 2℥ . aqua . ?alkain? . oleum",
+      "known_pct": 92.3076923076923,
+      "known": 12,
+      "total": 13
+    },
+    {
+      "folio": "F76R",
+      "section": "T",
+      "eva": "sheedy qokedy chedy chedy qokain chckhy olchy ain shedy olaiin chedy qokey",
+      "decoded": "[M] ?eedy? . cum et . [P] et . [P] et . cum 1℥ . [P] cera . ex mel . 1℥ . [M] et . ex 2℥ . [P] et . cum ·",
+      "known_pct": 91.66666666666667,
+      "known": 11,
+      "total": 12
+    },
+    {
+      "folio": "F89R2",
+      "section": "P",
+      "eva": "ain ar ain ol daiin qoaiin ol chkaiin daiin okar dair ydair",
+      "decoded": "1℥ . aqua . 1℥ . oleum . in 2℥ . cum 2℥ . oleum . [P] 2℥ . in 2℥ . aqua . in 1ʒ . de ?dair?",
+      "known_pct": 91.66666666666667,
+      "known": 11,
+      "total": 12
+    },
+    {
+      "folio": "F95R1",
+      "section": "H",
+      "eva": "ol chdy chdy qokaiin shdy qokaiin chdy kol chdy qoty oky dan",
+      "decoded": "oleum . [P] et . [P] et . cum 2℥ . [M] et . cum 2℥ . [P] et . oleum . [P] et . cum · . · . in ?n?",
+      "known_pct": 91.66666666666667,
+      "known": 11,
+      "total": 12
+    },
+    {
+      "folio": "F103V",
+      "section": "S",
+      "eva": "ycheody ar cheey or aiiin oteey otal otear ar ar keey qoty",
+      "decoded": "de ?cheody? . aqua . [P] · . hiera . 3℥ . · . sal . 1×aqua . aqua . aqua . · . cum ·",
+      "known_pct": 91.66666666666667,
+      "known": 11,
+      "total": 12
+    },
+    {
+      "folio": "F55V",
+      "section": "H",
+      "eva": "qokeeey os ain qool al chedy ar aiin ol kar am",
+      "decoded": "cum ?eeey? . succus . 1℥ . cum oleum . sal . [P] et . aqua . 2℥ . oleum . aqua . ana",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F78R",
+      "section": "B",
+      "eva": "ssheky ol kedy chckhy dain oty qokor oky dain chy ol",
+      "decoded": "?ssheky? . oleum . et . [P] cera . in 1℥ . · . cum hiera . · . in 1℥ . [P] · . oleum",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F80R",
+      "section": "B",
+      "eva": "tchedy qotair cheol qokal qokal cheety qokaiin qokar qokain chedy qokam",
+      "decoded": "§ [P] et . cum 1ʒ . [P] 1×oleum . cum sal . cum sal . [P] ?eety? . cum 2℥ . cum aqua . cum 1℥ . [P] et . cum ana",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F81V",
+      "section": "B",
+      "eva": "shey qokeey okeey oky ykeey qoky oky lky olchy ky dsholyd",
+      "decoded": "[M] · . cum · . · . · . de · . cum · . · . per · . ex mel . · . in ?sholyd?",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F86V6",
+      "section": "T",
+      "eva": "sar aiin otar cheody qotaiin qokaiin ol tey qokaiin okar ol",
+      "decoded": "?sar? . 2℥ . aqua . [P] 1×acetum . cum 2℥ . cum 2℥ . oleum . § · . cum 2℥ . aqua . oleum",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F86V5",
+      "section": "T",
+      "eva": "ykar olkal kar shedy shor qokar chor or ykaiin otam ytam",
+      "decoded": "de aqua . ex sal . aqua . [M] et . [M] hiera . cum aqua . [P] hiera . hiera . de 2℥ . ana . de ?tam?",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F86V5",
+      "section": "T",
+      "eva": "ykaiin or aiin okol chokar sheol qokar cheey or aiin ody",
+      "decoded": "de 2℥ . hiera . 2℥ . oleum . [P] ?okar? . [M] 1×oleum . cum aqua . [P] · . hiera . 2℥ . acetum",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F94R",
+      "section": "H",
+      "eva": "dor cheody okaiin odor okal okair oky daiir qotar okar olaiin",
+      "decoded": "in hiera . [P] 1×acetum . 2℥ . ?odor? . sal . 1ʒ . · . in 2ʒ . cum aqua . aqua . ex 2℥",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F102R2",
+      "section": "P",
+      "eva": "otol shey qockhey dol shey dol sheey qokol daiin oky oky",
+      "decoded": "oleum . [M] · . cum ?ckhey? . in oleum . [M] · . in oleum . [M] · . cum oleum . in 2℥ . · . ·",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F103V",
+      "section": "S",
+      "eva": "daiin shey qokal shedy qokeedy qoteor shey qoty chckhy qotain char",
+      "decoded": "in 2℥ . [M] · . cum sal . [M] et . cum ?eedy? . cum 1×hiera . [M] · . cum · . [P] cera . cum 1℥ . [P] aqua",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F103V",
+      "section": "S",
+      "eva": "okey ol cheey lcheey lkain shckhy sheckhy or ain otar oly",
+      "decoded": "· . oleum . [P] · . per ?cheey? . per 1℥ . [M] cera . [M] 1×cera . hiera . 1℥ . aqua . ex ·",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F107V",
+      "section": "S",
+      "eva": "okain ol okaiin lkeody otaiin chol lkaiin lkeeey qokaiin chey qoky",
+      "decoded": "1℥ . oleum . 2℥ . per 1×acetum . 2℥ . [P] oleum . per 2℥ . per ?eeey? . cum 2℥ . [P] · . cum ·",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F111V",
+      "section": "S",
+      "eva": "qokaiin cheal tain qokain shey qokain char shcthey qoky chy qokaiin",
+      "decoded": "cum 2℥ . [P] 1×sal . § 1℥ . cum 1℥ . [M] · . cum 1℥ . [P] aqua . [M] ?cthey? . cum · . [P] · . cum 2℥",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F111V",
+      "section": "S",
+      "eva": "sairy cheey chkain chal lor sheey qokain okain chey qokain keey",
+      "decoded": "?sairy? . [P] · . [P] 1℥ . [P] sal . per hiera . [M] · . cum 1℥ . 1℥ . [P] · . cum 1℥ . ·",
+      "known_pct": 90.9090909090909,
+      "known": 10,
+      "total": 11
+    },
+    {
+      "folio": "F27R",
+      "section": "H",
+      "eva": "chol shy keol chol chy shol chy daiin chey dam",
+      "decoded": "[P] oleum . [M] · . 1×oleum . [P] oleum . [P] · . [M] oleum . [P] · . in 2℥ . [P] · . in ?m?",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F58V",
+      "section": "S",
+      "eva": "tcheor chor kar okal qokeey qokal shol qokain ar oetalchg",
+      "decoded": "§ [P] 1×hiera . [P] hiera . aqua . sal . cum · . cum sal . [M] oleum . cum 1℥ . aqua . ?oetalchg?",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F58V",
+      "section": "S",
+      "eva": "psheey qoty qokar qokey ky ykar cheal otal kol olchedy",
+      "decoded": "Rx [M] · . cum · . cum aqua . cum · . · . de aqua . [P] 1×sal . sal . oleum . ex ?chedy?",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F69R",
+      "section": "C",
+      "eva": "daiin shey okaiin shkechy sheey tey chy cthy otol cham",
+      "decoded": "in 2℥ . [M] · . 2℥ . [M] 1×mel . [M] · . § · . [P] · . ?cthy? . oleum . [P] ana",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F76V",
+      "section": "B",
+      "eva": "tain sheey qotain chedy qokaiin chedy taiin chckhedy otol oty",
+      "decoded": "§ 1℥ . [M] · . cum 1℥ . [P] et . cum 2℥ . [P] et . § 2℥ . [P] ?ckhedy? . oleum . ·",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F78R",
+      "section": "B",
+      "eva": "qokedy ol kedy qokain okedy kedy tol dy qotchdy dy",
+      "decoded": "cum et . oleum . et . cum 1℥ . et . et . § oleum . in · . cum ?chdy? . in ·",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F80V",
+      "section": "B",
+      "eva": "yshedy qokeey qokey qoty qotol otaiin ol chedy qoky daiin",
+      "decoded": "de ?shedy? . cum · . cum · . cum · . cum oleum . 2℥ . oleum . [P] et . cum · . in 2℥",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F80V",
+      "section": "B",
+      "eva": "tor arol ar shckhy lkol otol chedy qokain chckhy qokal",
+      "decoded": "§ hiera . ?arol? . aqua . [M] cera . per oleum . oleum . [P] et . cum 1℥ . [P] cera . cum sal",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F81V",
+      "section": "B",
+      "eva": "solkeey ol shedy qokar shckhy dedy qokar qokal dol chy",
+      "decoded": "?solkeey? . oleum . [M] et . cum aqua . [M] cera . in et . cum aqua . cum sal . in oleum . [P] ·",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F82V",
+      "section": "B",
+      "eva": "qokain sheol qoteedy chedy qokey qokedy qokol chedy chedy lchy",
+      "decoded": "cum 1℥ . [M] 1×oleum . cum ?eedy? . [P] et . cum · . cum et . cum oleum . [P] et . [P] et . per mel",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F82V",
+      "section": "B",
+      "eva": "qokol chedy cheal chedy oty chdy dy checkhy otal chl",
+      "decoded": "cum oleum . [P] et . [P] 1×sal . [P] et . · . [P] et . in · . [P] 1×cera . sal . [P] ?l?",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F84R",
+      "section": "B",
+      "eva": "qokal daiin dain otey cheor air shckhy or air oro",
+      "decoded": "cum sal . in 2℥ . in 1℥ . · . [P] 1×hiera . 1ʒ . [M] cera . hiera . 1ʒ . ?oro?",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F86V6",
+      "section": "T",
+      "eva": "otaiin qokain otal otal lt al lkar chdy qotol qokain",
+      "decoded": "2℥ . cum 1℥ . sal . sal . per ?t? . sal . per aqua . [P] et . cum oleum . cum 1℥",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F86V5",
+      "section": "T",
+      "eva": "lkaiiin otain al ykain chaiin tal ykaiin otal ar alkam",
+      "decoded": "per 3℥ . 1℥ . sal . de 1℥ . [P] 2℥ . § sal . de 2℥ . sal . aqua . ?alkam?",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F95R2",
+      "section": "H",
+      "eva": "daiin shody chkain chol chckhy otain oty oteedy kar okam",
+      "decoded": "in 2℥ . [M] acetum . [P] 1℥ . [P] oleum . [P] cera . 1℥ . · . ?eedy? . aqua . ana",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F95R2",
+      "section": "H",
+      "eva": "olkor ol shol qotar chdy chdy qokar okar qokar odaly",
+      "decoded": "ex hiera . oleum . [M] oleum . cum aqua . [P] et . [P] et . cum aqua . aqua . cum aqua . ?odaly?",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F107R",
+      "section": "S",
+      "eva": "lolkaiin chey qokaiin chal aiin okaiin olkar otair okal okal",
+      "decoded": "per ?olkaiin? . [P] · . cum 2℥ . [P] sal . 2℥ . 2℥ . ex aqua . 1ʒ . sal . sal",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F111V",
+      "section": "S",
+      "eva": "shain okaiin chey qokar ar ar ain olr ar olor",
+      "decoded": "[M] 1℥ . 2℥ . [P] · . cum aqua . aqua . aqua . 1℥ . ex ?r? . aqua . ex hiera",
+      "known_pct": 90.0,
+      "known": 9,
+      "total": 10
+    },
+    {
+      "folio": "F10V",
+      "section": "H",
+      "eva": "sho ykeey daiin qotchy qotor chol daiin qokchy ky",
+      "decoded": "[M] ?o? . de · . in 2℥ . cum mel . cum hiera . [P] oleum . in 2℥ . cum mel . ·",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F40R",
+      "section": "H",
+      "eva": "taiin ol olaiin or dain okaiin okaiin okaiin daram",
+      "decoded": "§ 2℥ . oleum . ex 2℥ . hiera . in 1℥ . 2℥ . 2℥ . 2℥ . in ?ram?",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F40V",
+      "section": "H",
+      "eva": "shol kedy lor ar okar qoky kedy yteey qokam",
+      "decoded": "[M] oleum . et . per hiera . aqua . aqua . cum · . et . de ?teey? . cum ana",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F79R",
+      "section": "B",
+      "eva": "qokain shedy qotain oteedy chkain ol ol chedy oly",
+      "decoded": "cum 1℥ . [M] et . cum 1℥ . ?eedy? . [P] 1℥ . oleum . oleum . [P] et . ex ·",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F79R",
+      "section": "B",
+      "eva": "shey qokain cheol qoky daiin chkam ar cheedy ldy",
+      "decoded": "[M] · . cum 1℥ . [P] 1×oleum . cum · . in 2℥ . [P] ana . aqua . [P] ?eedy? . per et",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F80V",
+      "section": "B",
+      "eva": "tar kain okal rchey qokal olor aiin okal otam",
+      "decoded": "§ aqua . 1℥ . sal . re ?chey? . cum sal . ex hiera . 2℥ . sal . ana",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F81R",
+      "section": "B",
+      "eva": "qol cheol okeey ol ol olaiin ol or ain",
+      "decoded": "cum ?l? . [P] 1×oleum . · . oleum . oleum . ex 2℥ . oleum . hiera . 1℥",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F81V",
+      "section": "B",
+      "eva": "okaiin daiin otain chckhy okeedy qoky kar daiin okar",
+      "decoded": "2℥ . in 2℥ . 1℥ . [P] cera . ?eedy? . cum · . aqua . in 2℥ . aqua",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F81V",
+      "section": "B",
+      "eva": "qokain okaiin ol chedy cheol lky aiin okain daldy",
+      "decoded": "cum 1℥ . 2℥ . oleum . [P] et . [P] 1×oleum . per · . 2℥ . 1℥ . in ?ldy?",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F82V",
+      "section": "B",
+      "eva": "qokain chedy qolkshey qotal shey qokain ol checkhy ly",
+      "decoded": "cum 1℥ . [P] et . cum ?lkshey? . cum sal . [M] · . cum 1℥ . oleum . [P] 1×cera . per ·",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F84V",
+      "section": "B",
+      "eva": "chckhy qokaiin shey dain qokeey daiin okaiin qokal dys",
+      "decoded": "[P] cera . cum 2℥ . [M] · . in 1℥ . cum · . in 2℥ . 2℥ . cum sal . in ?ys?",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F86V3",
+      "section": "C",
+      "eva": "dshedy qokeey qoteey shedy qokaiin chdy otar otaiin ykaiin",
+      "decoded": "in ?shedy? . cum · . cum · . [M] et . cum 2℥ . [P] et . aqua . 2℥ . de 2℥",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F88R",
+      "section": "P",
+      "eva": "qokol chol qokol qokol chol cheey or aiin oldal",
+      "decoded": "cum oleum . [P] oleum . cum oleum . cum oleum . [P] oleum . [P] · . hiera . 2℥ . ex ?dal?",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F95V2",
+      "section": "H",
+      "eva": "tar fcheey shos aiin okar olkaiin otalain okaiin ar",
+      "decoded": "§ aqua . Rx [P] · . [M] succus . 2℥ . aqua . ex 2℥ . ?alain? . 2℥ . aqua",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F104R",
+      "section": "S",
+      "eva": "daiin olcheeo aiin otain ar chedy qokaiin otaiin otaiin",
+      "decoded": "in 2℥ . ex ?cheeo? . 2℥ . 1℥ . aqua . [P] et . cum 2℥ . 2℥ . 2℥",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F107R",
+      "section": "S",
+      "eva": "ol cheor shey cheey olcheol kaiin otair okal cheody",
+      "decoded": "oleum . [P] 1×hiera . [M] · . [P] · . ex ?cheol? . 2℥ . 1ʒ . sal . [P] 1×acetum",
+      "known_pct": 88.88888888888889,
+      "known": 8,
+      "total": 9
+    },
+    {
+      "folio": "F21R",
+      "section": "H",
+      "eva": "qotol shy cheor chy qokchey chey keey dy",
+      "decoded": "cum oleum . [M] · . [P] 1×hiera . [P] · . cum ?chey? . [P] · . · . in ·",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F21R",
+      "section": "H",
+      "eva": "ykeey chor sheey ysheol chor chol daiin chkaiin",
+      "decoded": "de · . [P] hiera . [M] · . de ?sheol? . [P] hiera . [P] oleum . in 2℥ . [P] 2℥",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F27R",
+      "section": "H",
+      "eva": "qokey chor char chy dchy keey chos cthody",
+      "decoded": "cum · . [P] hiera . [P] aqua . [P] · . in mel . · . [P] succus . ?cthody?",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F47R",
+      "section": "H",
+      "eva": "dor chol chy chaiin ckhey chol dain okaiin",
+      "decoded": "in hiera . [P] oleum . [P] · . [P] 2℥ . ?ckhey? . [P] oleum . in 1℥ . 2℥",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F54V",
+      "section": "H",
+      "eva": "yair ykar oky cham chody ykoldam cheol am",
+      "decoded": "de 1ʒ . de aqua . · . [P] ana . [P] acetum . de ?oldam? . [P] 1×oleum . ana",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F77R",
+      "section": "B",
+      "eva": "qokaiin shedy chedy qolchedy qokaiin qokaiin checkhy raiin",
+      "decoded": "cum 2℥ . [M] et . [P] et . cum ?lchedy? . cum 2℥ . cum 2℥ . [P] 1×cera . re 2℥",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F78R",
+      "section": "B",
+      "eva": "qokal otedy qokedy qokedy dal qokedy qokedy am",
+      "decoded": "cum sal . et . cum et . cum et . in ?l? . cum et . cum et . ana",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F78R",
+      "section": "B",
+      "eva": "dshedy qokedy okar qokedy shedy ykedy shedy qoky",
+      "decoded": "in ?shedy? . cum et . aqua . cum et . [M] et . de et . [M] et . cum ·",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F78V",
+      "section": "B",
+      "eva": "otor shedy otedy shedy qokeedy qokedy otar otedy",
+      "decoded": "hiera . [M] et . et . [M] et . cum ?eedy? . cum et . aqua . et",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F80R",
+      "section": "B",
+      "eva": "sor sheckhy qokar checkhy okain sheckhy qokeey ly",
+      "decoded": "?sor? . [M] 1×cera . cum aqua . [P] 1×cera . 1℥ . [M] 1×cera . cum · . per ·",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F80V",
+      "section": "B",
+      "eva": "tshedy qotedy olkain otal chckhy qoky daiin doly",
+      "decoded": "§ [M] et . cum et . ex 1℥ . sal . [P] cera . cum · . in 2℥ . in ?oly?",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F80V",
+      "section": "B",
+      "eva": "ycheol kain shey qokain chedy qokol olkain shy",
+      "decoded": "de ?cheol? . 1℥ . [M] · . cum 1℥ . [P] et . cum oleum . ex 1℥ . [M] ·",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F80V",
+      "section": "B",
+      "eva": "ysheeyqorar ol cheey daiin shey qokaiin ol okaiin",
+      "decoded": "de ?sheeyqorar? . oleum . [P] · . in 2℥ . [M] · . cum 2℥ . oleum . 2℥",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F82R",
+      "section": "B",
+      "eva": "qokaiin octheol chkeey ldy oteey qokal sheckhy qoky",
+      "decoded": "cum 2℥ . ?octheol? . [P] · . per et . · . cum sal . [M] 1×cera . cum ·",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F84R",
+      "section": "B",
+      "eva": "tor shedytedy ol cheol shedy shckhy qokal olkedy",
+      "decoded": "§ hiera . [M] 1×?dytedy? . oleum . [P] 1×oleum . [M] et . [M] cera . cum sal . ex et",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    },
+    {
+      "folio": "F113V",
+      "section": "S",
+      "eva": "sheo keey qokain char ar olar aiiin okar",
+      "decoded": "[M] ?eo? . · . cum 1℥ . [P] aqua . aqua . ex aqua . 3℥ . aqua",
+      "known_pct": 87.5,
+      "known": 7,
+      "total": 8
+    }
+  ]
+}

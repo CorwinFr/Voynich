@@ -1,0 +1,176 @@
+{
+  "Regimen Sanitatis (Augustana)": {
+    "type": "clean_latin",
+    "original_words": 2512,
+    "clean_words": 2512
+  },
+  "Regimen Sanitatis (Croke 1830)": {
+    "type": "bilingual_en",
+    "original_words": 37115,
+    "clean_words": 8881,
+    "lang_blocks": {
+      "noise": 609,
+      "latin": 469,
+      "english": 964,
+      "italian": 22,
+      "german": 3,
+      "dutch": 11
+    }
+  },
+  "Alphita (Mowat 1887)": {
+    "type": "bilingual_en",
+    "original_words": 107530,
+    "clean_words": 72502,
+    "lang_blocks": {
+      "noise": 3389,
+      "english": 417,
+      "latin": 3220,
+      "italian": 24,
+      "german": 2,
+      "dutch": 2
+    }
+  },
+  "Macer Floridus (Choulant 1832)": {
+    "type": "bilingual_de",
+    "original_words": 59731,
+    "clean_words": 49503,
+    "lang_blocks": {
+      "noise": 906,
+      "english": 6,
+      "italian": 12,
+      "dutch": 22,
+      "latin": 1322,
+      "german": 169
+    }
+  },
+  "Antidotarium Nicolai (1917)": {
+    "type": "bilingual_nl",
+    "original_words": 87644,
+    "clean_words": 28533,
+    "lang_blocks": {
+      "noise": 1351,
+      "dutch": 1220,
+      "latin": 961,
+      "german": 50,
+      "english": 37,
+      "italian": 32
+    }
+  },
+  "Clavis Sanationis (BIU Santé)": {
+    "type": "mixed",
+    "original_words": 155252,
+    "clean_words": 132032,
+    "lang_blocks": {
+      "latin": 3242,
+      "noise": 1588,
+      "italian": 35,
+      "dutch": 21,
+      "english": 50,
+      "german": 5
+    }
+  },
+  "Circa Instans (MS OCR)": {
+    "type": "noisy_ocr",
+    "original_words": 24650,
+    "clean_words": 1884,
+    "lang_blocks": {
+      "noise": 737,
+      "english": 44,
+      "latin": 92,
+      "italian": 33,
+      "german": 8,
+      "dutch": 13
+    },
+    "non_latin_ratio_after_clean": 0.9235699797160244
+  },
+  "Collectio Salernitana I": {
+    "type": "bilingual_it",
+    "original_words": 232085,
+    "clean_words": 51205,
+    "lang_blocks": {
+      "noise": 1872,
+      "italian": 1716,
+      "latin": 2624,
+      "dutch": 21,
+      "english": 31,
+      "german": 12
+    }
+  },
+  "Collectio Salernitana II": {
+    "type": "bilingual_it",
+    "original_words": 350295,
+    "clean_words": 300802,
+    "lang_blocks": {
+      "noise": 1159,
+      "italian": 483,
+      "latin": 3745,
+      "dutch": 9,
+      "english": 31
+    }
+  },
+  "Collectio Salernitana III": {
+    "type": "bilingual_it",
+    "original_words": 228518,
+    "clean_words": 45848,
+    "lang_blocks": {
+      "noise": 1448,
+      "english": 32,
+      "italian": 1717,
+      "latin": 1718,
+      "german": 7,
+      "dutch": 10
+    }
+  },
+  "Collectio Salernitana IV": {
+    "type": "bilingual_it",
+    "original_words": 242603,
+    "clean_words": 203665,
+    "lang_blocks": {
+      "noise": 1285,
+      "italian": 425,
+      "latin": 4959,
+      "english": 29,
+      "dutch": 11,
+      "german": 11
+    }
+  },
+  "Collectio Salernitana V": {
+    "type": "bilingual_it",
+    "original_words": 142916,
+    "clean_words": 116084,
+    "lang_blocks": {
+      "noise": 1660,
+      "english": 33,
+      "italian": 261,
+      "latin": 3535,
+      "dutch": 55,
+      "german": 36
+    }
+  },
+  "Canon Medicinae (1507)": {
+    "type": "mixed",
+    "original_words": 966868,
+    "clean_words": 784935,
+    "lang_blocks": {
+      "noise": 7937,
+      "latin": 6978,
+      "dutch": 28,
+      "italian": 113,
+      "english": 288,
+      "german": 19
+    }
+  },
+  "Canon Medicinae (1522)": {
+    "type": "mixed",
+    "original_words": 937964,
+    "clean_words": 547889,
+    "lang_blocks": {
+      "noise": 13229,
+      "latin": 10692,
+      "italian": 328,
+      "english": 967,
+      "german": 72,
+      "dutch": 65
+    }
+  }
+}

@@ -29,6 +29,9 @@ Thumbs.db
 # Large generated outputs (keep only final versions)
 v12/output/archive/
 
+# But KEEP these essential directories (override above patterns)
+!CORPORA_FINAL/
+
 # Downloaded images (Yale IIIF — use urls.txt to re-download)
 data/images/pages/
 

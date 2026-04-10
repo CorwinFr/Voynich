@@ -1,0 +1,137 @@
+{
+  "model": "gallows + prefix + e-count + core-suffix",
+  "core_suffixes": [
+    [
+      "UNIT",
+      4247
+    ],
+    [
+      "y",
+      3755
+    ],
+    [
+      "dy",
+      3135
+    ],
+    [
+      "ol",
+      2430
+    ],
+    [
+      "ar",
+      1427
+    ],
+    [
+      "or",
+      1396
+    ],
+    [
+      "al",
+      1100
+    ],
+    [
+      "o",
+      646
+    ],
+    [
+      "ody",
+      637
+    ],
+    [
+      "l",
+      473
+    ],
+    [
+      "r",
+      390
+    ],
+    [
+      "chedy",
+      386
+    ],
+    [
+      "chy",
+      378
+    ],
+    [
+      "ckhy",
+      338
+    ],
+    [
+      "am",
+      287
+    ],
+    [
+      "chey",
+      275
+    ],
+    [
+      "cthy",
+      273
+    ],
+    [
+      "os",
+      216
+    ],
+    [
+      "chdy",
+      208
+    ],
+    [
+      "odaiin",
+      178
+    ],
+    [
+      "shedy",
+      150
+    ],
+    [
+      "chol",
+      149
+    ],
+    [
+      "saiin",
+      137
+    ],
+    [
+      "chor",
+      131
+    ],
+    [
+      "s",
+      130
+    ],
+    [
+      "aly",
+      129
+    ],
+    [
+      "eeody",
+      119
+    ],
+    [
+      "oiin",
+      110
+    ],
+    [
+      "ees",
+      108
+    ],
+    [
+      "daiin",
+      106
+    ]
+  ],
+  "suffix_types": {
+    "dy": "SUBSTANCE",
+    "ol": "SUBSTANCE",
+    "ar": "MIXED",
+    "or": "SUBSTANCE",
+    "al": "CUM-COMPOUND",
+    "ody": "SUBSTANCE",
+    "chedy": "MIXED",
+    "chy": "CUM-COMPOUND",
+    "ckhy": "SUBSTANCE",
+    "am": "MIXED"
+  }
+}

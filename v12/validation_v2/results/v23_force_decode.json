@@ -1,0 +1,31 @@
+{
+  "total_tokens": 36983,
+  "known_tokens": 30882,
+  "known_pct": 83.5,
+  "stats": {
+    "unknown": 6101,
+    "prefix_root": 11916,
+    "logogram": 9338,
+    "prefix_only": 7886,
+    "k_strip": 1005,
+    "gallows_strip": 737
+  },
+  "coherence": {
+    "patterns": {
+      "[MATERIA] marker": 1095,
+      "de (about)": 810,
+      "[PRODUCT] marker": 2250,
+      "in (in/into)": 2019,
+      "re (again)": 222,
+      "ex (from)": 842,
+      "et (and)": 1605,
+      "Rx (recipe/take)": 456,
+      "cum (with)": 2672,
+      "per (through)": 857
+    },
+    "recipe_sequences": 879
+  },
+  "root_map_size": 171,
+  "speculative_count": 25,
+  "best_pharma_lines": []
+}
