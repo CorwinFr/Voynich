@@ -1,10 +1,10 @@
 {
   "_comment": "Confirmed EVA roots with validated Latin translations. These are roots proven by bigram analysis, Perseus validation, or multi-folio consistency.",
 
-  "aii":   {"latin": "aqua",   "score": 34989, "note": "water (1560 occ, bigram validated)"},
-  "aiin":  {"latin": "aquam",  "score": 34989, "note": "water (accusative)"},
-  "ai":    {"latin": "aqua",   "score": 5000,  "note": "water (shortened variant)"},
-  "ain":   {"latin": "aquam",  "score": 5000,  "note": "water accusative (shortened)"},
+  "aii":   {"latin": "aqua",   "score": 5000,  "note": "water — REDUCED from 34989, was blocking monolithic decodes. -aiin is a SUFFIX not always aquam."},
+  "aiin":  {"latin": "aquam",  "score": 5000,  "note": "water (accusative) — REDUCED. Only valid as standalone word, not as suffix of longer words."},
+  "ai":    {"latin": "aqua",   "score": 3000,  "note": "water (shortened variant) — REDUCED"},
+  "ain":   {"latin": "aquam",  "score": 3000,  "note": "water accusative (shortened) — REDUCED"},
   "kar":   {"latin": "cura",   "score": 8000,  "note": "care/treatment"},
   "kaiin": {"latin": "curam",  "score": 8000,  "note": "care (accusative)"},
   "kal":   {"latin": "curas",  "score": 4000,  "note": "cares (plural or -ns)"},

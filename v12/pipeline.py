@@ -143,25 +143,29 @@ class VoynichPipeline:
         all_candidates: list[tuple[str, float, str]] = []
 
         # S2a: MONOLITHIC decode (whole word, no segmentation)
-        # Only for words with 4+ tokens — short words are better handled by segmentation
-        if len(tokens) >= 4:
-            hmm_paths = decode_root(word, self.hmm, top_k=8)
+        # CHANGED: try for ALL words with 2+ chars (was 4+ tokens)
+        # This is critical for -aiin words: okaiin=cura, not ok+aquam
+        if len(word) >= 3:
+            hmm_paths = decode_root(word, self.hmm, top_k=30)
             for vp in hmm_paths:
                 if not vp.latin:
                     continue
                 latin_clean = vp.latin.replace(' ', '')
                 score = max(vp.log_prob * -100, 1)
 
-                # BONUS for long words that exist in corpus/Perseus
-                # This is the key fix: long real words beat short fragments
-                if len(latin_clean) >= 5:
-                    if self.corpus.freq(latin_clean) > 0:
-                        score += 3000 + self.corpus.freq(latin_clean) * 10
-                    elif self.dictionary.is_valid(latin_clean):
-                        score += 1500
-                elif len(latin_clean) >= 4:
-                    if self.corpus.freq(latin_clean) > 0:
-                        score += 1000 + self.corpus.freq(latin_clean) * 5
+                freq = self.corpus.freq(latin_clean)
+                perseus = self.dictionary.is_valid(latin_clean)
+
+                # BONUS: proportional to corpus frequency (log scale)
+                # High-frequency words like cura(1540) get massive bonus
+                if freq > 0:
+                    import math
+                    score += 2000 + math.log(freq + 1) * 1200
+                if perseus:
+                    score += 2000
+                # Extra bonus for long valid words (they're more specific)
+                if len(latin_clean) >= 5 and perseus:
+                    score += 1500
 
                 all_candidates.append((vp.latin, score, f'L3_MONO'))
 
