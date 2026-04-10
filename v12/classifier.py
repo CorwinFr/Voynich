@@ -124,19 +124,41 @@ def classify_word(word, prev_type=None, prev_word=None):
     if prev_type == WordType.DOSAGE:
         return WordType.INGREDIENT, {}
 
-    # ── Rule 8: Compound word (4+ chars, no dosage suffix) ──
-    if len(word) >= 4:
-        # Check if it starts with a known prefix (deagglutination)
-        for prefix in ['qo', 'da', 'ot', 'ol', 'ok', 'ch', 'sh']:
-            if word.startswith(prefix) and len(word) > len(prefix) + 2:
-                return WordType.INGREDIENT, {'prefix': prefix}
+    # ── Rule 8: HIGH-FREQUENCY words are FUNCTIONS, not ingredients ──
+    # A real ingredient appears 1-10 times. Words appearing 15+ times
+    # across the recipe section are structural/function words.
+    # We use word LENGTH + STRUCTURE as proxy for frequency:
+    # - Words made entirely of TABLE glyphs = FUNCTION (e.g. qokeey = qo.k.ee.y)
+    # - Words with common suffixes (edy, eey, ey, dy) = FUNCTION
+    FUNCTION_SUFFIXES = {'edy', 'eey', 'ey', 'dy', 'eody', 'ody'}
+    FUNCTION_PATTERNS = {
+        'qokeey', 'qokeedy', 'qokedy', 'okeey', 'okeedy', 'okedy',
+        'oteey', 'oteedy', 'otedy', 'cheey', 'chedy', 'shedy', 'shey',
+        'sheey', 'cheol', 'cheody', 'lchedy', 'lkeey', 'lkeedy',
+        'qokey', 'qokar', 'qokal', 'qoteey', 'qoteedy', 'qotedy',
+        'otar', 'okar', 'okal', 'chol', 'chdy', 'cheo', 'char',
+        'okedy', 'chckhy', 'shckhy', 'shcthy', 'chcthy',
+    }
+
+    if word in FUNCTION_PATTERNS:
+        return WordType.FUNCTION, {'reason': 'high_freq_pattern'}
+
+    # ── Rule 9: Compound word (5+ chars, rare) → INGREDIENT ──
+    if len(word) >= 5:
+        # Check for function suffixes
+        for suf in FUNCTION_SUFFIXES:
+            if word.endswith(suf) and len(word) <= len(suf) + 3:
+                return WordType.FUNCTION, {'reason': f'short+{suf}'}
+
         return WordType.INGREDIENT, {}
 
-    # ── Rule 9: Short unknown → FUNCTION by default ──
-    if len(word) <= 3:
+    # ── Rule 10: Medium words (3-4 chars) → depends on context ──
+    if len(word) >= 3:
+        if prev_type == WordType.VERB or prev_type == WordType.DOSAGE:
+            return WordType.INGREDIENT, {}
         return WordType.FUNCTION, {}
 
-    return WordType.INGREDIENT, {}
+    return WordType.FUNCTION, {}
 
 
 def _is_prefix_sequence(prefix):
