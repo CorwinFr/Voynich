@@ -1,0 +1,35 @@
+{
+  "op1_structure": {
+    "verdict": "NOT_TACUINUM_TABLE",
+    "detail": "30 labels/page (calendar-like), not 7 (Tacuinum). Two types: dense prose + short labels.",
+    "entries_per_folio": "28.5 lines avg, NOT 7"
+  },
+  "op4_galenic": {
+    "verdict": "FALSE_POSITIVE",
+    "detail": "chi2=0.0007 looks great BUT same result in ALL sections (herbal=0.0006, pharma=0.0005). Permutation p=1.0. Artifact of Zipf distribution."
+  },
+  "op6_crossref": {
+    "verdict": "SHARED_VOCABULARY",
+    "detail": "41% of astro vocab shared with herbal. Same codebook across sections. Top shared: daiin, chol, aiin, dar, dal."
+  },
+  "op7_repetitivity": {
+    "verdict": "HIGH_DIVERSITY",
+    "detail": "Astro TTR=0.452 (highest of all sections). Labels TTR=0.72 (unique names). Dense TTR=0.45 (diverse prose). NOT repetitive like Tacuinum columns."
+  },
+  "op5_positional": {
+    "verdict": "NOT_TABULAR",
+    "detail": "CV=0.021-0.027 for all K values. Uniform vocabulary at all positions. No fixed-column signature. This is PROSE."
+  },
+  "overall_verdict": {
+    "is_tacuinum": false,
+    "confidence": 0.95,
+    "summary": "The VMS astro/cosmo section is NOT a Tacuinum Sanitatis. It is prose with unique labels (like a calendar or zodiac commentary), sharing 41% vocabulary with the herbal section. The galenic ratio match was a false positive (artifact of Zipf distribution).",
+    "what_it_IS": "Most likely a zodiac/calendar text with labels near figures (nymphs) and prose commentary. The labels (TTR=0.72) are unique names/descriptions. The dense text is diverse prose, not fixed tabular entries.",
+    "still_useful": [
+      "The Tacuinum substance list (280 entries) is still useful for R02_ingredients enrichment",
+      "The galenic quality data is still useful for R06_qualities",
+      "The labels (645 unique words) may be substance names worth cross-referencing",
+      "The false positive teaches us: always do permutation tests, never trust raw chi-square"
+    ]
+  }
+}

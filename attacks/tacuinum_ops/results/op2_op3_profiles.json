@@ -1,0 +1,1483 @@
+{
+  "vms_profiles": {
+    "ASTRO (f58-f73)": {
+      "section": "ASTRO (f58-f73)",
+      "n_tokens": 4437,
+      "n_unique": 2007,
+      "ttr": 0.4523,
+      "entropy": 9.92,
+      "n_logos": 233,
+      "logo_pct": 5.3,
+      "n_label_tokens": 894,
+      "n_prose_tokens": 3543,
+      "label_pct": 20.1,
+      "top20_words": [
+        [
+          "ar",
+          94
+        ],
+        [
+          "y",
+          68
+        ],
+        [
+          "aiin",
+          58
+        ],
+        [
+          "daiin",
+          54
+        ],
+        [
+          "al",
+          53
+        ],
+        [
+          "dal",
+          50
+        ],
+        [
+          "s",
+          44
+        ],
+        [
+          "dy",
+          42
+        ],
+        [
+          "dar",
+          41
+        ],
+        [
+          "o",
+          39
+        ],
+        [
+          "oteey",
+          35
+        ],
+        [
+          "okal",
+          29
+        ],
+        [
+          "chol",
+          29
+        ],
+        [
+          "ol",
+          28
+        ],
+        [
+          "otar",
+          27
+        ],
+        [
+          "air",
+          27
+        ],
+        [
+          "okeey",
+          27
+        ],
+        [
+          "dair",
+          24
+        ],
+        [
+          "oteody",
+          22
+        ],
+        [
+          "otal",
+          20
+        ]
+      ],
+      "top20_non_logo": [
+        [
+          "ar",
+          94
+        ],
+        [
+          "aiin",
+          58
+        ],
+        [
+          "daiin",
+          54
+        ],
+        [
+          "al",
+          53
+        ],
+        [
+          "dal",
+          50
+        ],
+        [
+          "dy",
+          42
+        ],
+        [
+          "dar",
+          41
+        ],
+        [
+          "oteey",
+          35
+        ],
+        [
+          "okal",
+          29
+        ],
+        [
+          "chol",
+          29
+        ],
+        [
+          "ol",
+          28
+        ],
+        [
+          "otar",
+          27
+        ],
+        [
+          "okeey",
+          27
+        ],
+        [
+          "dair",
+          24
+        ],
+        [
+          "oteody",
+          22
+        ],
+        [
+          "otal",
+          20
+        ],
+        [
+          "qokal",
+          20
+        ],
+        [
+          "shey",
+          20
+        ],
+        [
+          "chey",
+          20
+        ],
+        [
+          "otey",
+          19
+        ]
+      ],
+      "suffix_dist": {
+        "dy": 354,
+        "al": 353,
+        "ar": 335,
+        "ol": 252,
+        "aiin": 244,
+        "ey": 233,
+        "eey": 225,
+        "or": 129,
+        "am": 107,
+        "edy": 90,
+        "air": 67,
+        "eedy": 52,
+        "ain": 41,
+        "om": 11
+      },
+      "top10_roots": [
+        [
+          "d",
+          196
+        ],
+        [
+          "ot",
+          162
+        ],
+        [
+          "ok",
+          142
+        ],
+        [
+          "ch",
+          125
+        ],
+        [
+          "sh",
+          83
+        ],
+        [
+          "qok",
+          70
+        ],
+        [
+          "s",
+          48
+        ],
+        [
+          "che",
+          44
+        ],
+        [
+          "t",
+          32
+        ],
+        [
+          "k",
+          31
+        ]
+      ],
+      "word_length_dist": {
+        "1": 221,
+        "2": 323,
+        "3": 435,
+        "4": 819,
+        "5": 955,
+        "6": 767,
+        "7": 502,
+        "8": 258,
+        "9": 109,
+        "10": 33,
+        "11": 8,
+        "12": 7
+      },
+      "avg_word_length": 4.93,
+      "top10_bigrams": [
+        {
+          "bg": [
+            "ckhh",
+            "y"
+          ],
+          "count": 7
+        },
+        {
+          "bg": [
+            "h",
+            "y"
+          ],
+          "count": 6
+        },
+        {
+          "bg": [
+            "ar",
+            "al"
+          ],
+          "count": 5
+        },
+        {
+          "bg": [
+            "s",
+            "air"
+          ],
+          "count": 5
+        },
+        {
+          "bg": [
+            "cthh",
+            "y"
+          ],
+          "count": 5
+        },
+        {
+          "bg": [
+            "ar",
+            "am"
+          ],
+          "count": 4
+        },
+        {
+          "bg": [
+            "ar",
+            "air"
+          ],
+          "count": 4
+        },
+        {
+          "bg": [
+            "ar",
+            "aly"
+          ],
+          "count": 4
+        },
+        {
+          "bg": [
+            "r",
+            "aiin"
+          ],
+          "count": 4
+        },
+        {
+          "bg": [
+            "y",
+            "dy"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    "HERBAL_A (f1-f56)": {
+      "section": "HERBAL_A (f1-f56)",
+      "n_tokens": 10404,
+      "n_unique": 2897,
+      "ttr": 0.2785,
+      "entropy": 9.64,
+      "n_logos": 594,
+      "logo_pct": 5.7,
+      "n_label_tokens": 323,
+      "n_prose_tokens": 10081,
+      "label_pct": 3.1,
+      "top20_words": [
+        [
+          "daiin",
+          439
+        ],
+        [
+          "chol",
+          223
+        ],
+        [
+          "y",
+          159
+        ],
+        [
+          "s",
+          153
+        ],
+        [
+          "chor",
+          152
+        ],
+        [
+          "dy",
+          146
+        ],
+        [
+          "or",
+          117
+        ],
+        [
+          "chy",
+          110
+        ],
+        [
+          "dar",
+          110
+        ],
+        [
+          "shol",
+          108
+        ],
+        [
+          "aiin",
+          104
+        ],
+        [
+          "sho",
+          96
+        ],
+        [
+          "cthy",
+          93
+        ],
+        [
+          "dain",
+          92
+        ],
+        [
+          "o",
+          88
+        ],
+        [
+          "ar",
+          84
+        ],
+        [
+          "chey",
+          79
+        ],
+        [
+          "ol",
+          74
+        ],
+        [
+          "shy",
+          66
+        ],
+        [
+          "shor",
+          65
+        ]
+      ],
+      "top20_non_logo": [
+        [
+          "daiin",
+          439
+        ],
+        [
+          "chol",
+          223
+        ],
+        [
+          "chor",
+          152
+        ],
+        [
+          "dy",
+          146
+        ],
+        [
+          "or",
+          117
+        ],
+        [
+          "chy",
+          110
+        ],
+        [
+          "dar",
+          110
+        ],
+        [
+          "shol",
+          108
+        ],
+        [
+          "aiin",
+          104
+        ],
+        [
+          "sho",
+          96
+        ],
+        [
+          "cthy",
+          93
+        ],
+        [
+          "dain",
+          92
+        ],
+        [
+          "ar",
+          84
+        ],
+        [
+          "chey",
+          79
+        ],
+        [
+          "ol",
+          74
+        ],
+        [
+          "shy",
+          66
+        ],
+        [
+          "shor",
+          65
+        ],
+        [
+          "cho",
+          59
+        ],
+        [
+          "dal",
+          55
+        ],
+        [
+          "okaiin",
+          53
+        ]
+      ],
+      "suffix_dist": {
+        "aiin": 1106,
+        "ol": 1009,
+        "or": 782,
+        "dy": 612,
+        "ar": 508,
+        "ey": 421,
+        "edy": 325,
+        "al": 274,
+        "eey": 242,
+        "ain": 233,
+        "am": 180,
+        "air": 77,
+        "eedy": 72,
+        "om": 70
+      },
+      "top10_roots": [
+        [
+          "d",
+          862
+        ],
+        [
+          "ch",
+          684
+        ],
+        [
+          "sh",
+          317
+        ],
+        [
+          "ok",
+          244
+        ],
+        [
+          "qok",
+          183
+        ],
+        [
+          "ot",
+          164
+        ],
+        [
+          "cth",
+          160
+        ],
+        [
+          "k",
+          144
+        ],
+        [
+          "yk",
+          91
+        ],
+        [
+          "yt",
+          86
+        ]
+      ],
+      "word_length_dist": {
+        "1": 634,
+        "2": 743,
+        "3": 1257,
+        "4": 2280,
+        "5": 2467,
+        "6": 1574,
+        "7": 899,
+        "8": 369,
+        "9": 137,
+        "10": 38,
+        "11": 3,
+        "12": 3
+      },
+      "avg_word_length": 4.59,
+      "top10_bigrams": [
+        {
+          "bg": [
+            "chol",
+            "daiin"
+          ],
+          "count": 28
+        },
+        {
+          "bg": [
+            "s",
+            "aiin"
+          ],
+          "count": 22
+        },
+        {
+          "bg": [
+            "chol",
+            "chol"
+          ],
+          "count": 20
+        },
+        {
+          "bg": [
+            "c",
+            "h"
+          ],
+          "count": 17
+        },
+        {
+          "bg": [
+            "or",
+            "aiin"
+          ],
+          "count": 14
+        },
+        {
+          "bg": [
+            "daiin",
+            "cthy"
+          ],
+          "count": 11
+        },
+        {
+          "bg": [
+            "chy",
+            "daiin"
+          ],
+          "count": 10
+        },
+        {
+          "bg": [
+            "chor",
+            "daiin"
+          ],
+          "count": 9
+        },
+        {
+          "bg": [
+            "dy",
+            "dy"
+          ],
+          "count": 8
+        },
+        {
+          "bg": [
+            "daiin",
+            "cthor"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    "BALNEA (f75-f84)": {
+      "section": "BALNEA (f75-f84)",
+      "n_tokens": 7027,
+      "n_unique": 1550,
+      "ttr": 0.2206,
+      "entropy": 8.58,
+      "n_logos": 216,
+      "logo_pct": 3.1,
+      "n_label_tokens": 185,
+      "n_prose_tokens": 6842,
+      "label_pct": 2.6,
+      "top20_words": [
+        [
+          "shedy",
+          247
+        ],
+        [
+          "ol",
+          230
+        ],
+        [
+          "chedy",
+          207
+        ],
+        [
+          "qokedy",
+          165
+        ],
+        [
+          "qokain",
+          161
+        ],
+        [
+          "qokeedy",
+          153
+        ],
+        [
+          "qol",
+          110
+        ],
+        [
+          "qokal",
+          109
+        ],
+        [
+          "shey",
+          98
+        ],
+        [
+          "chey",
+          87
+        ],
+        [
+          "qokeey",
+          87
+        ],
+        [
+          "qokaiin",
+          87
+        ],
+        [
+          "daiin",
+          82
+        ],
+        [
+          "or",
+          72
+        ],
+        [
+          "y",
+          71
+        ],
+        [
+          "dal",
+          67
+        ],
+        [
+          "dar",
+          66
+        ],
+        [
+          "qoky",
+          62
+        ],
+        [
+          "lchedy",
+          59
+        ],
+        [
+          "dy",
+          55
+        ]
+      ],
+      "top20_non_logo": [
+        [
+          "shedy",
+          247
+        ],
+        [
+          "ol",
+          230
+        ],
+        [
+          "chedy",
+          207
+        ],
+        [
+          "qokedy",
+          165
+        ],
+        [
+          "qokain",
+          161
+        ],
+        [
+          "qokeedy",
+          153
+        ],
+        [
+          "qol",
+          110
+        ],
+        [
+          "qokal",
+          109
+        ],
+        [
+          "shey",
+          98
+        ],
+        [
+          "chey",
+          87
+        ],
+        [
+          "qokeey",
+          87
+        ],
+        [
+          "qokaiin",
+          87
+        ],
+        [
+          "daiin",
+          82
+        ],
+        [
+          "or",
+          72
+        ],
+        [
+          "dal",
+          67
+        ],
+        [
+          "dar",
+          66
+        ],
+        [
+          "qoky",
+          62
+        ],
+        [
+          "lchedy",
+          59
+        ],
+        [
+          "dy",
+          55
+        ],
+        [
+          "otedy",
+          52
+        ]
+      ],
+      "suffix_dist": {
+        "edy": 1286,
+        "ol": 519,
+        "ey": 507,
+        "eedy": 465,
+        "ain": 461,
+        "al": 417,
+        "aiin": 361,
+        "ar": 331,
+        "eey": 315,
+        "dy": 249,
+        "or": 179,
+        "am": 46,
+        "air": 22,
+        "om": 11
+      },
+      "top10_roots": [
+        [
+          "qok",
+          891
+        ],
+        [
+          "sh",
+          460
+        ],
+        [
+          "ch",
+          413
+        ],
+        [
+          "d",
+          318
+        ],
+        [
+          "ok",
+          258
+        ],
+        [
+          "ot",
+          211
+        ],
+        [
+          "qot",
+          189
+        ],
+        [
+          "s",
+          162
+        ],
+        [
+          "q",
+          123
+        ],
+        [
+          "olk",
+          111
+        ]
+      ],
+      "word_length_dist": {
+        "1": 218,
+        "2": 510,
+        "3": 761,
+        "4": 1004,
+        "5": 1809,
+        "6": 1537,
+        "7": 833,
+        "8": 249,
+        "9": 70,
+        "10": 24,
+        "11": 8,
+        "12": 2,
+        "13": 2
+      },
+      "avg_word_length": 4.93,
+      "top10_bigrams": [
+        {
+          "bg": [
+            "ol",
+            "shedy"
+          ],
+          "count": 18
+        },
+        {
+          "bg": [
+            "shedy",
+            "qokedy"
+          ],
+          "count": 18
+        },
+        {
+          "bg": [
+            "chedy",
+            "qokain"
+          ],
+          "count": 15
+        },
+        {
+          "bg": [
+            "ol",
+            "chedy"
+          ],
+          "count": 15
+        },
+        {
+          "bg": [
+            "chedy",
+            "qol"
+          ],
+          "count": 13
+        },
+        {
+          "bg": [
+            "qokedy",
+            "qokedy"
+          ],
+          "count": 12
+        },
+        {
+          "bg": [
+            "shedy",
+            "qokeedy"
+          ],
+          "count": 12
+        },
+        {
+          "bg": [
+            "qokain",
+            "ol"
+          ],
+          "count": 11
+        },
+        {
+          "bg": [
+            "qol",
+            "chedy"
+          ],
+          "count": 11
+        },
+        {
+          "bg": [
+            "shedy",
+            "qokaiin"
+          ],
+          "count": 11
+        }
+      ]
+    },
+    "PHARMA (f103-f116)": {
+      "section": "PHARMA (f103-f116)",
+      "n_tokens": 11035,
+      "n_unique": 3068,
+      "ttr": 0.278,
+      "entropy": 9.79,
+      "n_logos": 379,
+      "logo_pct": 3.4,
+      "n_label_tokens": 39,
+      "n_prose_tokens": 10996,
+      "label_pct": 0.4,
+      "top20_words": [
+        [
+          "aiin",
+          208
+        ],
+        [
+          "chedy",
+          199
+        ],
+        [
+          "qokeey",
+          159
+        ],
+        [
+          "ar",
+          150
+        ],
+        [
+          "al",
+          141
+        ],
+        [
+          "qokeedy",
+          136
+        ],
+        [
+          "chey",
+          125
+        ],
+        [
+          "qokaiin",
+          122
+        ],
+        [
+          "daiin",
+          120
+        ],
+        [
+          "shedy",
+          117
+        ],
+        [
+          "y",
+          111
+        ],
+        [
+          "ol",
+          110
+        ],
+        [
+          "l",
+          103
+        ],
+        [
+          "qokain",
+          100
+        ],
+        [
+          "okaiin",
+          97
+        ],
+        [
+          "okeey",
+          94
+        ],
+        [
+          "shey",
+          82
+        ],
+        [
+          "cheey",
+          78
+        ],
+        [
+          "otaiin",
+          77
+        ],
+        [
+          "or",
+          70
+        ]
+      ],
+      "top20_non_logo": [
+        [
+          "aiin",
+          208
+        ],
+        [
+          "chedy",
+          199
+        ],
+        [
+          "qokeey",
+          159
+        ],
+        [
+          "ar",
+          150
+        ],
+        [
+          "al",
+          141
+        ],
+        [
+          "qokeedy",
+          136
+        ],
+        [
+          "chey",
+          125
+        ],
+        [
+          "qokaiin",
+          122
+        ],
+        [
+          "daiin",
+          120
+        ],
+        [
+          "shedy",
+          117
+        ],
+        [
+          "ol",
+          110
+        ],
+        [
+          "qokain",
+          100
+        ],
+        [
+          "okaiin",
+          97
+        ],
+        [
+          "okeey",
+          94
+        ],
+        [
+          "shey",
+          82
+        ],
+        [
+          "cheey",
+          78
+        ],
+        [
+          "otaiin",
+          77
+        ],
+        [
+          "or",
+          70
+        ],
+        [
+          "okain",
+          68
+        ],
+        [
+          "chol",
+          63
+        ]
+      ],
+      "suffix_dist": {
+        "aiin": 1065,
+        "edy": 1013,
+        "eey": 813,
+        "ar": 750,
+        "ain": 673,
+        "ey": 580,
+        "eedy": 565,
+        "dy": 552,
+        "al": 538,
+        "ol": 502,
+        "or": 294,
+        "am": 228,
+        "air": 171,
+        "om": 17
+      },
+      "top10_roots": [
+        [
+          "qok",
+          748
+        ],
+        [
+          "ch",
+          613
+        ],
+        [
+          "ot",
+          487
+        ],
+        [
+          "ok",
+          465
+        ],
+        [
+          "sh",
+          347
+        ],
+        [
+          "d",
+          287
+        ],
+        [
+          "qot",
+          237
+        ],
+        [
+          "lk",
+          189
+        ],
+        [
+          "k",
+          172
+        ],
+        [
+          "s",
+          113
+        ]
+      ],
+      "word_length_dist": {
+        "1": 372,
+        "2": 685,
+        "3": 752,
+        "4": 1784,
+        "5": 2694,
+        "6": 2365,
+        "7": 1437,
+        "8": 594,
+        "9": 241,
+        "10": 72,
+        "11": 27,
+        "12": 8,
+        "13": 3,
+        "14": 1
+      },
+      "avg_word_length": 5.16,
+      "top10_bigrams": [
+        {
+          "bg": [
+            "chedy",
+            "qokeey"
+          ],
+          "count": 15
+        },
+        {
+          "bg": [
+            "or",
+            "aiin"
+          ],
+          "count": 14
+        },
+        {
+          "bg": [
+            "r",
+            "aiin"
+          ],
+          "count": 13
+        },
+        {
+          "bg": [
+            "ar",
+            "aiin"
+          ],
+          "count": 12
+        },
+        {
+          "bg": [
+            "ar",
+            "al"
+          ],
+          "count": 11
+        },
+        {
+          "bg": [
+            "s",
+            "aiin"
+          ],
+          "count": 10
+        },
+        {
+          "bg": [
+            "qokeedy",
+            "qokeedy"
+          ],
+          "count": 10
+        },
+        {
+          "bg": [
+            "qokeey",
+            "qokeey"
+          ],
+          "count": 10
+        },
+        {
+          "bg": [
+            "qokeey",
+            "qokeedy"
+          ],
+          "count": 9
+        },
+        {
+          "bg": [
+            "aiin",
+            "chey"
+          ],
+          "count": 8
+        }
+      ]
+    }
+  },
+  "tacuinum_profile": {
+    "n_entries": 358,
+    "n_tokens_total": 911,
+    "n_unique_total": 572,
+    "ttr_total": 0.6279,
+    "entropy_total": 8.1,
+    "tokens_per_entry": 2.5,
+    "top20_words": [
+      [
+        "canon",
+        92
+      ],
+      [
+        "tacvinvs",
+        40
+      ],
+      [
+        "et",
+        39
+      ],
+      [
+        "de",
+        37
+      ],
+      [
+        "aqua",
+        14
+      ],
+      [
+        "cum",
+        9
+      ],
+      [
+        "panis",
+        8
+      ],
+      [
+        "in",
+        7
+      ],
+      [
+        "iulep",
+        6
+      ],
+      [
+        "vinum",
+        6
+      ],
+      [
+        "syrupus",
+        6
+      ],
+      [
+        "iudep",
+        5
+      ],
+      [
+        "vicesimvs",
+        5
+      ],
+      [
+        "id",
+        4
+      ],
+      [
+        "est",
+        4
+      ],
+      [
+        "oua",
+        4
+      ],
+      [
+        "ventus",
+        4
+      ],
+      [
+        "regio",
+        4
+      ],
+      [
+        "tricesimvs",
+        4
+      ],
+      [
+        "melones",
+        3
+      ]
+    ],
+    "col_stats": {
+      "natura": {
+        "n_tokens": 0,
+        "n_unique": 0,
+        "ttr": 0,
+        "entropy": 0,
+        "top10": []
+      },
+      "gradus": {
+        "n_tokens": 0,
+        "n_unique": 0,
+        "ttr": 0,
+        "entropy": 0,
+        "top10": []
+      },
+      "melius": {
+        "n_tokens": 0,
+        "n_unique": 0,
+        "ttr": 0,
+        "entropy": 0,
+        "top10": []
+      },
+      "iuvamentum": {
+        "n_tokens": 0,
+        "n_unique": 0,
+        "ttr": 0,
+        "entropy": 0,
+        "top10": []
+      },
+      "nocumentum": {
+        "n_tokens": 0,
+        "n_unique": 0,
+        "ttr": 0,
+        "entropy": 0,
+        "top10": []
+      },
+      "remotio": {
+        "n_tokens": 0,
+        "n_unique": 0,
+        "ttr": 0,
+        "entropy": 0,
+        "top10": []
+      },
+      "nomina": {
+        "n_tokens": 911,
+        "n_unique": 572,
+        "ttr": 0.6279,
+        "entropy": 8.1,
+        "top10": [
+          [
+            "canon",
+            92
+          ],
+          [
+            "tacvinvs",
+            40
+          ],
+          [
+            "et",
+            39
+          ],
+          [
+            "de",
+            37
+          ],
+          [
+            "aqua",
+            14
+          ],
+          [
+            "cum",
+            9
+          ],
+          [
+            "panis",
+            8
+          ],
+          [
+            "in",
+            7
+          ],
+          [
+            "iulep",
+            6
+          ],
+          [
+            "vinum",
+            6
+          ]
+        ]
+      }
+    },
+    "thermal": {},
+    "moisture": {},
+    "galenic_ratio": {
+      "calidum_pct": 0,
+      "frigidum_pct": 0,
+      "siccum_pct": 0,
+      "humidum_pct": 0
+    }
+  },
+  "astro_dense_tokens": 3543,
+  "astro_label_tokens": 894
+}

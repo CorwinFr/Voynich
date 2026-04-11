@@ -27,7 +27,12 @@ from pathlib import Path
 from typing import List, Dict, Optional, Set
 
 
-TRANSCRIPTION_FILE = Path(__file__).parent.parent.parent / 'data' / 'transcriptions' / 'ZL.txt'
+# Find ZL.txt relative to repo root (works from any cwd)
+_repo_root = Path(__file__).parent.parent.parent
+TRANSCRIPTION_FILE = _repo_root / 'data' / 'transcriptions' / 'ZL.txt'
+if not TRANSCRIPTION_FILE.exists():
+    # Try from cwd
+    TRANSCRIPTION_FILE = Path('data') / 'transcriptions' / 'ZL.txt'
 
 # EVA suffix system (session 7 discovery)
 SUFFIXES = ['aiin', 'ain', 'eedy', 'edy', 'eey', 'ey', 'dy', 'ol', 'or', 'ar', 'al', 'am', 'om', 'air']

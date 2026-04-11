@@ -1,0 +1,307 @@
+{
+  "folio_data": [
+    {
+      "folio": "f58r",
+      "n_words": 383,
+      "n_lines": 41,
+      "short_lines": 0,
+      "label_candidates": 0,
+      "am_terminators": 18,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f58v",
+      "n_words": 387,
+      "n_lines": 39,
+      "short_lines": 1,
+      "label_candidates": 3,
+      "am_terminators": 14,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f65r",
+      "n_words": 3,
+      "n_lines": 1,
+      "short_lines": 1,
+      "label_candidates": 3,
+      "am_terminators": 2,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f65v",
+      "n_words": 46,
+      "n_lines": 6,
+      "short_lines": 0,
+      "label_candidates": 0,
+      "am_terminators": 1,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f66r",
+      "n_words": 348,
+      "n_lines": 79,
+      "short_lines": 47,
+      "label_candidates": 49,
+      "am_terminators": 2,
+      "recipe_markers": 3
+    },
+    {
+      "folio": "f66v",
+      "n_words": 116,
+      "n_lines": 13,
+      "short_lines": 0,
+      "label_candidates": 0,
+      "am_terminators": 3,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f67r1",
+      "n_words": 170,
+      "n_lines": 19,
+      "short_lines": 12,
+      "label_candidates": 17,
+      "am_terminators": 4,
+      "recipe_markers": 2
+    },
+    {
+      "folio": "f67r2",
+      "n_words": 192,
+      "n_lines": 74,
+      "short_lines": 64,
+      "label_candidates": 128,
+      "am_terminators": 2,
+      "recipe_markers": 1
+    },
+    {
+      "folio": "f67v1",
+      "n_words": 73,
+      "n_lines": 29,
+      "short_lines": 21,
+      "label_candidates": 40,
+      "am_terminators": 1,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f67v2",
+      "n_words": 62,
+      "n_lines": 22,
+      "short_lines": 16,
+      "label_candidates": 34,
+      "am_terminators": 5,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f68r1",
+      "n_words": 68,
+      "n_lines": 37,
+      "short_lines": 32,
+      "label_candidates": 33,
+      "am_terminators": 1,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f68r2",
+      "n_words": 84,
+      "n_lines": 31,
+      "short_lines": 23,
+      "label_candidates": 24,
+      "am_terminators": 1,
+      "recipe_markers": 1
+    },
+    {
+      "folio": "f68r3",
+      "n_words": 110,
+      "n_lines": 22,
+      "short_lines": 12,
+      "label_candidates": 16,
+      "am_terminators": 0,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f68v1",
+      "n_words": 99,
+      "n_lines": 10,
+      "short_lines": 8,
+      "label_candidates": 19,
+      "am_terminators": 1,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f68v2",
+      "n_words": 105,
+      "n_lines": 18,
+      "short_lines": 12,
+      "label_candidates": 25,
+      "am_terminators": 1,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f68v3",
+      "n_words": 172,
+      "n_lines": 19,
+      "short_lines": 3,
+      "label_candidates": 5,
+      "am_terminators": 1,
+      "recipe_markers": 1
+    },
+    {
+      "folio": "f69r",
+      "n_words": 159,
+      "n_lines": 49,
+      "short_lines": 38,
+      "label_candidates": 89,
+      "am_terminators": 7,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f69v",
+      "n_words": 142,
+      "n_lines": 31,
+      "short_lines": 28,
+      "label_candidates": 33,
+      "am_terminators": 1,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f70r1",
+      "n_words": 112,
+      "n_lines": 19,
+      "short_lines": 16,
+      "label_candidates": 27,
+      "am_terminators": 2,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f70r2",
+      "n_words": 260,
+      "n_lines": 19,
+      "short_lines": 0,
+      "label_candidates": 0,
+      "am_terminators": 9,
+      "recipe_markers": 1
+    },
+    {
+      "folio": "f70v1",
+      "n_words": 86,
+      "n_lines": 17,
+      "short_lines": 14,
+      "label_candidates": 21,
+      "am_terminators": 0,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f70v2",
+      "n_words": 136,
+      "n_lines": 33,
+      "short_lines": 30,
+      "label_candidates": 37,
+      "am_terminators": 5,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f71r",
+      "n_words": 92,
+      "n_lines": 18,
+      "short_lines": 15,
+      "label_candidates": 17,
+      "am_terminators": 2,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f71v",
+      "n_words": 103,
+      "n_lines": 18,
+      "short_lines": 15,
+      "label_candidates": 24,
+      "am_terminators": 1,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f72r1",
+      "n_words": 105,
+      "n_lines": 18,
+      "short_lines": 15,
+      "label_candidates": 23,
+      "am_terminators": 6,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f72r2",
+      "n_words": 118,
+      "n_lines": 32,
+      "short_lines": 29,
+      "label_candidates": 32,
+      "am_terminators": 6,
+      "recipe_markers": 1
+    },
+    {
+      "folio": "f72r3",
+      "n_words": 170,
+      "n_lines": 34,
+      "short_lines": 29,
+      "label_candidates": 40,
+      "am_terminators": 2,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f72v1",
+      "n_words": 108,
+      "n_lines": 33,
+      "short_lines": 29,
+      "label_candidates": 29,
+      "am_terminators": 1,
+      "recipe_markers": 1
+    },
+    {
+      "folio": "f72v2",
+      "n_words": 109,
+      "n_lines": 33,
+      "short_lines": 30,
+      "label_candidates": 31,
+      "am_terminators": 1,
+      "recipe_markers": 1
+    },
+    {
+      "folio": "f72v3",
+      "n_words": 122,
+      "n_lines": 33,
+      "short_lines": 29,
+      "label_candidates": 34,
+      "am_terminators": 2,
+      "recipe_markers": 1
+    },
+    {
+      "folio": "f73r",
+      "n_words": 98,
+      "n_lines": 33,
+      "short_lines": 30,
+      "label_candidates": 30,
+      "am_terminators": 2,
+      "recipe_markers": 0
+    },
+    {
+      "folio": "f73v",
+      "n_words": 99,
+      "n_lines": 33,
+      "short_lines": 30,
+      "label_candidates": 31,
+      "am_terminators": 3,
+      "recipe_markers": 0
+    }
+  ],
+  "summary": {
+    "total_folios": 32,
+    "total_words": 4437,
+    "total_lines": 913,
+    "total_short_lines": 629,
+    "total_am_terminators": 107,
+    "entries_per_folio_by_am": 3.3,
+    "tokens_per_entry_by_am": 41.5,
+    "lines_per_folio": 28.5,
+    "tokens_per_line": 4.9
+  },
+  "nymph_annotations": {
+    "f68v2": 4,
+    "f72v2": 2
+  }
+}
