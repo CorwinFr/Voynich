@@ -83,6 +83,31 @@ est func, c'est que cet ingredient a ete mal classifie.
 | Ingredients | 141 | ~130 (-faux) | ~200 (+recup) | ~220 |
 | Ratio V:I | 1:13.5 | 1:10 | 1:8 | 1:5 |
 
+## PASSE 0 : REVUE VISUELLE (avant toute correction automatique)
+
+**Principe** : Regarder ATTENTIVEMENT les lignes decodees, une par une.
+Les anomalies automatiques detectent les patterns, mais l'OEIL humain
+voit des choses que les regles ne captent pas :
+
+- Un ingredient decode comme un VERBE (mauvaise table)
+- Un dosage qui n'a pas de sens (ana III dr. = 3 drachmes = trop)
+- Un mot latin qui ne SONNE PAS comme du latin
+- Des repetitions suspectes (le meme decode 5x sur une ligne)
+- Des sequences qui RESSEMBLENT a une recette connue
+- Des lignes qui font SENS si on lit autrement
+
+**Action** :
+1. Prendre les 10 lignes les plus anomaliques (5+ anomalies chacune)
+2. Afficher en format 3 lignes (EVA/TYPE/LAT)
+3. Pour CHAQUE ligne, noter :
+   - Qu'est-ce qui cloche visuellement ?
+   - Quel mot semble mal classifie ?
+   - La ligne ferait-elle plus de sens avec un decoupage different ?
+4. Compiler les observations en REGLES correctrices
+
+**C'est cette etape qui produit les meilleures corrections** — pas les
+compteurs automatiques. L'automatique execute, l'humain comprend.
+
 ## Implementation
 
 ### Script unique : `v12/analysis/fix_anomalies.py`
