@@ -152,10 +152,68 @@ ajoute ses scores, et ecrit le store mis a jour.
 
 ---
 
+### Phase 0.5 — SEGMENTATION PROBABILISTE (avant les cribs)
+
+**Probleme :** On ne peut pas aligner une recette sur un bloc VMS
+si on ne sait pas ou le bloc commence et finit.
+
+**Hypotheses de separateurs (a scorer, pas a presumer) :**
+- `-am` en fin de ligne (71% = probable separateur de phrase)
+- Logogram `r` (recipe) = debut de recette ?
+- Etoiles marginales / marqueurs visuels sur les folios
+- Changement de registre suffixal (-ol → -edy) = changement de section ?
+
+**Methode :**
+1. Lister tous les candidats separateurs
+2. Pour chaque hypothese, calculer la distribution des segments resultants
+3. Comparer avec les longueurs de recettes dans S01-S07
+4. Scorer chaque hypothese de segmentation
+5. Travailler avec les TOP 3 segmentations en parallele (pas une seule)
+
+**Output :** 3 hypotheses de segmentation du VMS avec scores
+
+---
+
+### ATTAQUE 4 — TEST FONDAMENTAL : MOT ou SYLLABE ? (en premier !)
+```
+Priorite : ★★★★★ PREMIER TEST A FAIRE
+Impact : Valide ou invalide TOUT le postulat mot-a-mot du registre
+```
+
+**Principe :**
+Si le VMS est logo-syllabique (comme les hieroglyphes),
+alors le registre mot-a-mot est BIAISE et il faut tout repenser.
+Ce test DOIT passer avant toute autre attaque.
+
+**Methode :**
+1. Pour chaque ingredient de R02, compter lettres ET syllabes latines
+2. Pour chaque mot VMS candidat, compter les glyphes EVA
+3. Tester 3 correlations :
+   a) longueur_EVA × lettres_latin (encodage alphabetique)
+   b) longueur_EVA × syllabes_latin (encodage syllabique)
+   c) pas de correlation (encodage par code/logogramme pur)
+4. Si (a) gagne → K&A a raison, le registre mot-a-mot est valide
+5. Si (b) gagne → systeme syllabique, il faut un registre syllabe-a-syllabe
+6. Si (c) gagne → nomenclator pur, le registre mot-a-mot est valide
+   mais K&A est faux (chaque mot = un code arbitraire)
+
+**CE TEST EST PREREQUIS A TOUT LE RESTE.**
+
+---
+
+### ATTAQUE 3 — GRAMMAIRE SUFFIXALE (contraintes dures)
+```
+Priorite : ★★★★★ DEUXIEME ATTAQUE (apres test fondamental)
+Impact : Classe les 39000 tokens en categories syntaxiques
+```
+
+---
+
 ### ATTAQUE 1 — CRIB MULTI-RECETTES (pas juste l'Aurea)
 ```
-Priorite : ★★★★★
-Impact : Decoupe le texte en segments VERB-INGR-DOSE
+Priorite : ★★★★ (APRES attaques 3+4 qui reduisent l'espace)
+Impact : Propose des mappings directs EVA → ingredient
+Prerequis : Attaques 3 et 4 terminees + segmentation probabiliste
 ```
 
 **Principe :**
@@ -203,9 +261,16 @@ Pour chaque paire (mot_VMS, ingredient_ref) :
 5. **Section-specifique** : certains ingredients sont herbal-only, d'autres pharma-only
 
 **Algorithme :**
-Hungarian assignment (matching bijectif optimal) avec matrice de distance multi-critere.
-Pas 1-a-1 force : un ingredient peut ne pas avoir de match, et certains mots VMS
-ne sont pas des ingredients.
+PREMIERE PASSE : scoring par rang (pas d'assignation forcee).
+Pour chaque mot VMS, classer les ingredients par score decroissant.
+Pour chaque ingredient, classer les mots VMS par score decroissant.
+Pas de matching bijectif en premiere passe — le systeme peut avoir
+des homographes (1 mot EVA = 2 concepts) ou des synonymes graphiques
+(2 mots EVA = 1 concept).
+
+DEUXIEME PASSE (apres convergence attaque 7) :
+Hungarian assignment sur l'espace REDUIT par toutes les contraintes.
+A ce stade, la bijection est plus justifiee.
 
 **Output :** Top 50 matchs avec scores + rang d'alternatives
 
@@ -256,8 +321,10 @@ Impact : Filtre les candidats impossibles
 
 ### ATTAQUE 5 — MODELE DE LANGUE MEDIEVAL (ML/GPU)
 ```
-Priorite : ★★★
-Impact : Score de vraisemblance pour chaque decodage candidat
+Priorite : ★★ (utile pour ELIMINER le charabia, pas pour departager 2 candidats latins valides)
+Impact : Filtre — tue les decodages absurdes, ne tranche pas entre plausibles
+Note : "recipe myrrham" et "recipe masticem" auront la meme perplexite.
+       Le LM sert a tuer "recipe xkzqdm", pas a choisir entre myrrha et mastix.
 ```
 
 **Principe :**
@@ -379,36 +446,40 @@ attacks/
 ## WORKFLOW
 
 ```
-        ┌──────────────────────────────────────────┐
-        │       REGISTRE DE CANDIDATS              │
-        │  (candidate_registry.json)               │
-        │  7820 mots × N candidats × M scores      │
-        └────────────────┬─────────────────────────┘
-                         │
-         ┌───────────────┼───────────────┐
-         │               │               │
-    ATTAQUE 1       ATTAQUE 2       ATTAQUE 3
-    Multi-crib      Distribution    Grammaire
-         │               │               │
-         └───────┬───────┘               │
-                 │                       │
-            ATTAQUE 6              ATTAQUE 4
-            Contexte               Forme
-                 │                       │
-                 └───────┬───────────────┘
-                         │
-                    ATTAQUE 5
-                    Modele LM (GPU)
-                         │
-                    ATTAQUE 7
-                    Convergence CSP
-                         │
-                ┌────────┴────────┐
-                │   RESULTAT      │
-                │  Mapping final  │
-                │  + confiance    │
-                │  + rapport      │
-                └─────────────────┘
+   Phase 0 : INFRASTRUCTURE (loader, parser, candidate_store)
+       │
+   Phase 0.5 : SEGMENTATION PROBABILISTE (ou sont les frontieres?)
+       │
+   Phase 1 : CONTRAINTES DURES (pas d'hypothese sur le contenu)
+       │
+       ├── ATTAQUE 4 : Test fondamental MOT vs SYLLABE
+       │   └── Si syllabique → STOP, refaire le registre
+       │   └── Si mot-a-mot → continuer
+       │
+       ├── ATTAQUE 3 : Grammaire suffixale (suffixe → type)
+       │
+       └── ATTAQUE 2 : Distribution de frequence (scoring souple)
+               │
+   Phase 2 : CRIBS (espace deja reduit par Phase 1)
+       │
+       ├── ATTAQUE 1 : Multi-crib (150 recettes × folios pharma)
+       │
+       └── ATTAQUE 6 : Contexte (bigrams autour des logograms connus)
+               │
+   Phase 3 : SCORING AVANCE
+       │
+       └── ATTAQUE 5 : LM medieval (elimine le charabia)
+               │
+   Phase 4 : CONVERGENCE
+       │
+       └── ATTAQUE 7 : CSP combine (contraintes croisees)
+               │
+       ┌───────┴───────┐
+       │   RESULTAT     │
+       │  candidate_    │
+       │  registry.json │
+       │  + rapport     │
+       └───────────────┘
 ```
 
 **Chaque attaque :**
@@ -445,6 +516,7 @@ Elles communiquent uniquement via le registre central.
 | Le VMS n'est PAS pharmaceutique | 5% | Les distributions de frequence le refuteraient vite |
 | Nos sources de reference manquent LE bon texte | 25% | Ajouter de nouvelles sources enrichit le registre sans tout refaire |
 | Le systeme d'ecriture n'est pas un code mais un langage construit | 10% | Le ML (attaque 5) le detecterait par la distribution atypique |
+| Le systeme est LOGO-SYLLABIQUE (comme les hieroglyphes) | 15% | L'attaque 4 (test fondamental) le detecte AVANT tout le reste. Si positif, refaire le registre en syllabe-a-syllabe |
 
 ---
 
