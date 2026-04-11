@@ -1986,10 +1986,14 @@
   "eva": "tchy",
   "freq": 27,
   "latin": "libra",
-  "type": "LOGO",
-  "ingredient": null,
-  "source": "logogram_table",
-  "confidence": "SUR"
+  "type": "INGR",
+  "ingredient": "gentiana",
+  "source": "external_botanical_id",
+  "confidence": "SUR",
+  "ingredient_external": "Gentiana frigida",
+  "common_name": "fringed gentian",
+  "external_source": "Sherwood+Scott",
+  "external_confidence": "medium"
  },
  "oaiin": {
   "eva": "oaiin",
@@ -3034,10 +3038,14 @@
   "eva": "k",
   "freq": 17,
   "latin": "cum",
-  "type": "GLYPH",
-  "ingredient": null,
-  "source": "glyph_table",
-  "confidence": "SUR"
+  "type": "INGR",
+  "ingredient": "malva",
+  "source": "external_botanical_id",
+  "confidence": "SUR",
+  "ingredient_external": "Malva sylvestris",
+  "common_name": "common mallow",
+  "external_source": "Sherwood+Scott",
+  "external_confidence": "medium"
  },
  "dchey": {
   "eva": "dchey",
@@ -15003,7 +15011,7 @@
   "freq": 2,
   "latin": "caura",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maximÃ‚Â» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÃƒâ€šÃ‚Â» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "CITRUS Arancio, femmina"
@@ -15313,7 +15321,7 @@
   "freq": 2,
   "latin": "pareura",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maximÃ‚Â» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÃƒâ€šÃ‚Â» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "CITRUS Arancio, femmina"
@@ -23744,10 +23752,14 @@
   "eva": "tsheos",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "celosia",
+  "source": "external_botanical_id",
+  "confidence": "INCONNU",
+  "ingredient_external": "Celosia argentea",
+  "common_name": "cockscomb/amaranth",
+  "external_source": "Sherwood+Scott",
+  "external_confidence": "medium"
  },
  "qotcham": {
   "eva": "qotcham",
@@ -23967,7 +23979,7 @@
   "freq": 1,
   "latin": "ca ana II dr.",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maximÃ‚Â» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÃƒâ€šÃ‚Â» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "has_dosage_suffix": true,
@@ -24490,7 +24502,7 @@
   "freq": 1,
   "latin": "care",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maximÃ‚Â» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÃƒâ€šÃ‚Â» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "CITRUS Arancio, femmina"
@@ -25800,10 +25812,14 @@
   "eva": "koair",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "lonicera",
+  "source": "external_botanical_id",
+  "confidence": "INCONNU",
+  "ingredient_external": "Lonicera caprifolium",
+  "common_name": "Italian honeysuckle",
+  "external_source": "Sherwood+Scott",
+  "external_confidence": "medium"
  },
  "chtoiin": {
   "eva": "chtoiin",
@@ -26156,7 +26172,7 @@
   "freq": 1,
   "latin": "ilice",
   "type": "INGR",
-  "ingredient": "iliciÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â», lignum interius",
+  "ingredient": "iliciÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â», lignum interius",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
@@ -27274,7 +27290,11 @@
   "type": "INGR",
   "ingredient": "peruvianus",
   "source": "ka_ingredient",
-  "confidence": "SUR"
+  "confidence": "SUR",
+  "ingredient_external": "Cynara cardunculus",
+  "common_name": "cardoon/artichoke",
+  "external_source": "Sherwood",
+  "external_confidence": "low-medium"
  },
  "pofochey": {
   "eva": "pofochey",
@@ -28626,10 +28646,14 @@
   "eva": "psheoky",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "prunella",
+  "source": "external_botanical_id",
+  "confidence": "INCONNU",
+  "ingredient_external": "Prunella vulgaris",
+  "common_name": "self-heal",
+  "external_source": "Sherwood",
+  "external_confidence": "low-medium"
  },
  "ofshod": {
   "eva": "ofshod",
@@ -28966,7 +28990,7 @@
   "freq": 1,
   "latin": "cire",
   "type": "INGR",
-  "ingredient": "ciregiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â²lo",
+  "ingredient": "ciregiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â²lo",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
@@ -30017,10 +30041,14 @@
   "eva": "tshdar",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "silene",
+  "source": "external_botanical_id",
+  "confidence": "INCONNU",
+  "ingredient_external": "Silene vulgaris",
+  "common_name": "bladder campion",
+  "external_source": "Sherwood",
+  "external_confidence": "low-medium"
  },
  "shepchdy": {
   "eva": "shepchdy",
@@ -30434,10 +30462,14 @@
   "eva": "oo",
   "freq": 1,
   "latin": "ea",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pipeline_short",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "cichorium",
+  "source": "external_botanical_id",
+  "confidence": "PROBABLE",
+  "ingredient_external": "Cichorium intybus",
+  "common_name": "chicory/radicchio",
+  "external_source": "Sherwood+Scott",
+  "external_confidence": "medium"
  },
  "dainl": {
   "eva": "dainl",
@@ -30807,7 +30839,7 @@
   "freq": 1,
   "latin": "lepiece",
   "type": "INGR",
-  "ingredient": "epi- Ã¢â€“Â  medio",
+  "ingredient": "epi- ÃƒÂ¢Ã¢â‚¬â€œÃ‚Â  medio",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "EPIMEDIUM alpinum"
@@ -31565,10 +31597,14 @@
   "eva": "pshey",
   "freq": 1,
   "latin": "percio",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "origanum",
+  "source": "external_botanical_id",
+  "confidence": "PROBABLE",
+  "ingredient_external": "Origanum vulgare",
+  "common_name": "oregano/marjoram",
+  "external_source": "Sherwood+Scott",
+  "external_confidence": "medium"
  },
  "kedalchy": {
   "eva": "kedalchy",
@@ -32386,7 +32422,7 @@
   "ingredient": "desf",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
-  "latin_botanical": "CITRUS Pomo assirio. Pomo dÃ¢â‚¬â„¢Adamo"
+  "latin_botanical": "CITRUS Pomo assirio. Pomo dÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢Adamo"
  },
  "dalteoshy": {
   "eva": "dalteoshy",
@@ -32895,7 +32931,7 @@
   "ingredient": "inanis",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
-  "latin_botanical": "BOLETUS Lingua di Faggio, di Cerro , dÃ¢â‚¬â„¢Abeto da far esca. Pan cuculio"
+  "latin_botanical": "BOLETUS Lingua di Faggio, di Cerro , dÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢Abeto da far esca. Pan cuculio"
  },
  "opchaldy": {
   "eva": "opchaldy",
@@ -33447,10 +33483,14 @@
   "eva": "psheot",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "pulmonaria",
+  "source": "external_botanical_id",
+  "confidence": "INCONNU",
+  "ingredient_external": "Pulmonaria officinalis",
+  "common_name": "lungwort",
+  "external_source": "Sherwood+Scott",
+  "external_confidence": "medium"
  },
  "cholsho": {
   "eva": "cholsho",
@@ -34222,10 +34262,14 @@
   "eva": "psheor",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "astrantia",
+  "source": "external_botanical_id",
+  "confidence": "INCONNU",
+  "ingredient_external": "Astrantia major",
+  "common_name": "great masterwort",
+  "external_source": "Sherwood+Scott",
+  "external_confidence": "medium"
  },
  "qopchedar": {
   "eva": "qopchedar",
@@ -34592,7 +34636,11 @@
   "type": "INGR",
   "ingredient": "peretta di s",
   "source": "ka_ingredient",
-  "confidence": "SUR"
+  "confidence": "SUR",
+  "ingredient_external": "Salvia officinalis",
+  "common_name": "sage",
+  "external_source": "Sherwood+Scott",
+  "external_confidence": "medium"
  },
  "qokodar": {
   "eva": "qokodar",
@@ -34944,10 +34992,14 @@
   "eva": "kadam",
   "freq": 1,
   "latin": "cadum",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "type": "INGR",
+  "ingredient": "achillea",
+  "source": "external_botanical_id",
+  "confidence": "DOUTE_KA",
+  "ingredient_external": "Achillea ptarmica",
+  "common_name": "sneezewort",
+  "external_source": "Sherwood+Scott",
+  "external_confidence": "medium"
  },
  "chocthody": {
   "eva": "chocthody",
@@ -35646,7 +35698,7 @@
   "ingredient": "acacia inerme",
   "source": "gallows_strip_ch_c",
   "confidence": "SUR",
-  "latin_botanical": "GLEDITSHIA inermiÂ»",
+  "latin_botanical": "GLEDITSHIA inermiÃ‚Â»",
   "ch_variant": "ocal"
  },
  "chchsy": {
@@ -56971,7 +57023,7 @@
   "freq": 1,
   "latin": "saparum",
   "type": "INGR",
-  "ingredient": "sapaja rossa nera dÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ aitimi no",
+  "ingredient": "sapaja rossa nera dÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ aitimi no",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
