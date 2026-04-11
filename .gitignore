@@ -42,3 +42,4 @@ data/corpus_*.json
 
 # Old build script (replaced by docs/paper/)
 build_academia_paper.py
+external_repos/
