@@ -1,0 +1,235 @@
+{
+  "_meta": {
+    "description": "Macer Floridus - De Viribus Herbarum (herbal virtues in Latin verse)",
+    "edition": "Choulant 1832",
+    "file": "data/raw_corpus_9a/cleaned/clean_macer_floridus_choulant_1832.txt",
+    "language": "latin",
+    "period": "11th century, France(?)",
+    "count": 37,
+    "version": "2026-04-11"
+  },
+  "entries": [
+    {
+      "id": "MACER_000",
+      "name": "WALAFRIDI STRABONIS, OTHONIS CREMONENSIS Er IOANNI",
+      "raw_text": "WALAFRIDI STRABONIS, OTHONIS CREMONENSIS Er IOANNIS FOLCZ SECUNDUM CODICES MANUSCRIPTOS ET VETERES EDITIONES RECENSUIT, SUPPLEVIT ET ADNOTATIONE CRITICA INSTRUXIT",
+      "n_words": 19
+    },
+    {
+      "id": "MACER_001",
+      "name": "ANONYMI CARMEN GRAECUM DE HERBIS,",
+      "raw_text": "ANONYMI CARMEN GRAECUM DE HERBIS,",
+      "n_words": 5
+    },
+    {
+      "id": "MACER_002",
+      "name": "QUOD E CODICE VINDOBONENSI AUXIT ET CUM GODOFREDI ",
+      "raw_text": "QUOD E CODICE VINDOBONENSI AUXIT ET CUM GODOFREDI HERMANNI SUISQUE EMENDATIONIBUS AMSTELODAMI, apud I. MUELLER Co., in de Kalverstraat No. 163. LoNbINI, apud I. B. BAILLIERE, 219 Regent Street. Parısıs, apud I. B. BAILLIERE , Rue de école de médecine No. 13bis. ΗΝ \"d RR b af τ ἢ d 0d v a n ad 3 τὰ mn rq p Cun sex abhinc annos Aegidii Corboliensis carmina medica ad codicum manuscriptorum et editionum veterum fidem recensita ederem, in animo erat, alia quaedam similis argumenti carmina medio aevo ",
+      "n_words": 2394
+    },
+    {
+      "id": "MACER_003",
+      "name": "MACER FLORIDUS DE VIRIBUS HERBARUM,",
+      "raw_text": "MACER FLORIDUS DE VIRIBUS HERBARUM,",
+      "n_words": 5
+    },
+    {
+      "id": "MACER_004",
+      "name": "OTHO CREMONENSIS DE ELECTIONE MEDICAMENTORUM,",
+      "raw_text": "OTHO CREMONENSIS DE ELECTIONE MEDICAMENTORUM, Fut Romae sub imperi Augustei prioribus temporibus poéta Aemilius Macer Veronensis, de quo Ovidius (Quaeque necet serpens, quae iuvet herba Hacer, cuius etiam meminerunt Disticha moralia, quae Dionysio Catoni vulgo adscribuntur: Virgilium legito, quod si mage nosse laboras Corporis ut cunctos possis depellere morbos, et non minus, quamvis nomen reticuerit, Manilius (astronomicon lib. II. v. 43): Ecce alius pictas volucreis et bella ferarum, Mlle vene",
+      "n_words": 755
+    },
+    {
+      "id": "MACER_005",
+      "name": "Arrenısıa (v",
+      "raw_text": "1. Arrenısıa (v.1—30), a medicis medii aevi fere semper dicitur Arthemesia, germanica lingua olim Duck, Bibot, Biboth, Bibote, Bivot, Bybos, Beybos, nune BeiFuss; botanicis Artemisia vulgaris. fr. Dioscorides ed. Sprengel, IIT, 117, 118, et Matthioli comment. ed. 1558, pag. 445; Plin. hist. nat. XXV, 7; Apuleii l. de herbis ed. Ackermann, cap. 11— 13; Plateari 1. circa instans A. 24; Harpestreng ed. Molbech, 1826, pag. 45 (dynkae); Bartholom. Glanville s. Angl. de proprietatib. rer. Argent. 1485",
+      "n_words": 79
+    },
+    {
+      "id": "MACER_006",
+      "name": "Beronıca (v",
+      "raw_text": "11. Beronıca (v.429 — 491), germ. olim Batonie, Battonie, Betenie, Betonien, nunc Betonie; botan. Betonica officinalis. Cfr. Diosc. IV. 1, Matthiol. p. 481; Plin. XXV. 8; Antonio Musae falso adscriptus liber de herba vetonica, p.435; Plin. XXI. 20; Platear. M. 22; Harpestreng p. 118 (meothyrt, marochus), quamvis in hoc capite de marocho initium solummodo cum Macri capite de melissophyllo conveniat, reliqua huius capitis eadem sint, quae Macer de dracontea narrat.",
+      "n_words": 70
+    },
+    {
+      "id": "MACER_007",
+      "name": "Garspo (v",
+      "raw_text": "99. Garspo (v. 1766— 1773), germ. Ward; botan. Zsatis Tinctoria. Ctr. Diosc. II. 215, Matthiol. p. 339; Plin. XX. 7; Apul. c.69. Glastum vox Celtica est (Plin. XXII. 1, Caes. bell. Gall. V. 14), ex qua prodiit Gallorum azsdon, Italorum Guado, Germanorum Ward, herbae tinctoriae nomina. !",
+      "n_words": 47
+    },
+    {
+      "id": "MACER_008",
+      "name": "Iusquiauus (v",
+      "raw_text": "61. Iusquiauus (v. 1933 —1961), germ. 2,56. Büsen- /kraut; botan. Ayoseyamus (niger). fr. Diosc. IV. 69, Matthiol. p. 529; Plin. XXV. 4 (appollinaris herba) ;: Apul. c. 9.; Platear. J. 1; Harpestreng p. 116 (y/ne); Barth. Angl. Matthiol. p. 21 (in commentario); Platear. G. 3; Harpestreng p. 70 (galliga). Horum capitum series diversissima est in diversis codicibus manuscriptis et editionibus; recepimus in nostram editionem ordinem antiquiorem et usitatiorem, quem etiam Gueroaldi commentarius sequ",
+      "n_words": 5128
+    },
+    {
+      "id": "MACER_009",
+      "name": "MACER FLORIDUS DE VIRIBUS HERBARUM",
+      "raw_text": "MACER FLORIDUS DE VIRIBUS HERBARUM. 1 Herbarum quasdam dicturus carmine vires Herbarum matrem, dedit Artemisia nomen Cui graecus sermo, iustum puto ponere primo. Huius opem fertur prior invenisse Diana, 5 Artemis graece quae dicitur, indeque nomen Herba tenet, quia sic inventrix dicitur eius. Praecipue morbis muliebribus ista medetur: Menstrua deducit eius decoctio sumpta, Hocque facit, matrix si saepe fovetur eadem, 10 Vel si cruda mero sociata terendo bibatur, Aut si trita virens super alvum n",
+      "n_words": 1622
+    },
+    {
+      "id": "MACER_010",
+      "name": "Olfactum s",
+      "raw_text": "91. Olfactum s. olfatum «a, BB. Subdita parat π. — 94 Sis saepe perunclus CC; sit s. perunctus p, 7t, aa, PP, 00, «c5 sic s. perunctus ὃ, 1j, 99; si s. perunctus , xx; nostram lectionem habent y, 4. — 95 Archam f, x, 4, u, a. — 97 Circum β; iuxta «, 9. Curat idem μ. — 101 Coniuncto s. m. utero si CC, cfr. v. 13. — 102 Hunc et antecedentem versum omittit «. — 103 Ex ol. vir. fuerit si B, 5, ἡ, 9, 4. — 104 Stomacho quod erit hoc. unguine fotum, hanc lectionem vulgarem et satis frequentem ipse tuet",
+      "n_words": 24480
+    },
+    {
+      "id": "MACER_011",
+      "name": "Crassit",
+      "raw_text": "9. Crassit. mollis 4. Sumit 0. — 1703 Queis xx. Sint persaepe peruncti x. — 1704 Eius aceto B, à, ὃ, nn, 99; oiv ἀνίσῳ Diosc. lI. 211, ita ut vel hic, vel Macer corrigendus sit. — 1705 Et sic ab ἡ; sic et ab x. — 1706 Dentibus illatum «u, PP, yy, G; illarun μι; nostram lectionem habent rel. edd. et B, y, δ, x, 9, x, A, v. Cohibet y. Dolores ὃ. — 1707 Contunsis γὶ comcussis μι. Sunt Centaureae species, maiorque minorque, 1710 Ut suprascriptis dixi de pluribus herbis, Sed quia perpaucis species es",
+      "n_words": 5904
+    },
+    {
+      "id": "MACER_012",
+      "name": "Pulvere trito y, με; cum pulvere tritum 8",
+      "raw_text": "7. Pulvere trito y, με; cum pulvere tritum 8. — 2079 Ana «, β, 9, ἡ, 9, X, À, u, 7, 66; una rel. edd. Et sic superaddita B8; sic et superaddita p. 2080 Experti nihil utilius hoc pulvere dicunt. Nemo potest omnes Piperis describere vires, Namque Piper ferme medicamina cuncta requirunt, Antidotisque solet pretiosis pluribus addi, Hinc puto tam paucas laudes de simplice dictas 2085 Quod sit in innumeris hoc dignum laude medelis. Est Pyrethrum calidum siccumque, quartus in istis Est gradus; excrucia",
+      "n_words": 3907
+    },
+    {
+      "id": "MACER_013",
+      "name": "ALGA PALUSTRIS SIVE NYMPHAE A",
+      "raw_text": "9. ALGA PALUSTRIS SIVE NYMPHAE A. Alga palustris habet diversa vocabula, quorum Cacabus est Veneris, Nymphaeaque, sive Papaver, 83 Morbus apoplecticus et vertigo caliginosa cedit huic medicamini. — 86 Morsus venenatos. — 96 Nondum in utero formatos. — 98 Sociatur roy 105 Diosc. IV. 182. — 107 Corn. f. 81a; Ranz. p. 96; Diosc. III. Cui locus in causa est cognomen habere Palustre, 110 Crescit enim stagnis ea, sive locis in aquosis... Frondibus oblongum caput ostendit super: undas, Quod de radice s",
+      "n_words": 6829
+    },
+    {
+      "id": "MACER_014",
+      "name": "AMID UM",
+      "raw_text": "AMID UM. 20 Laus est albentis amidi foecunda recentis, Ex antiquato virus prodire putato.",
+      "n_words": 14
+    },
+    {
+      "id": "MACER_015",
+      "name": "ANACARDI",
+      "raw_text": "ANACARDI. Forma maiores anacardi sunt meliores.",
+      "n_words": 6
+    },
+    {
+      "id": "MACER_016",
+      "name": "ANETHUM",
+      "raw_text": "ANETHUM. Haud tibi sit spretum, si linguam pungit anethum. 7 Splendens, libramine leveque pendens o. Inscr. Agaricus o. — 8 Si petis lunen o. — 9 Et fit pars oris salsi compuncta o. — 10 Ac sputum praeterea reddit acutum ©. — 11 Laus huic detur (debetur), praestantius illa medetur o. — 12 Assa tu dic meliorem o. — 13 Pendens armoniacum (sic etiam in inscr.) o. — 14 Plus est valiturum o. — 15 Multi spl. antimonium est melioris o. — 16 Et signum o. — 17 Et mamibus teritur sic (si) illud fragile fe",
+      "n_words": 171
+    },
+    {
+      "id": "MACER_017",
+      "name": "ACETUM",
+      "raw_text": "ACETUM. In terram fusum si spumat, cedat in usum, Gestans completum cumulum bonitatis acetum. BOLUS,. De bonitate boli spem tu tibi ponere noli, 35 Qui frangi nescit, qui parce vixque rubescit, Quo non viscatur dens si cum dente teratur. BALSAMUM. Laudari digna si sint tibi balsama, signa Quis fructus citri color est, lux splendida vitri, Quae mox ut lingas capitis turbare miringas 40 Sentis, et infundas- lactis si stantis in undas 24 Mos est o; dulcoris «nisi sit mel. v. Versus legitur quoque i",
+      "n_words": 279
+    },
+    {
+      "id": "MACER_018",
+      "name": "CARDAMOMUM",
+      "raw_text": "CARDAMOMUM. In morsu dentis si linguam pungere sentis, Non sine dulcore, rufo rutilante colore, Sit cardamomi pretium, tibi collige promi. Spes tibi sit cassa, iubaris si nescia classa Vergit in obscuram caligine plena figuram. Lucida frangenti, candens, haec sit tibi menti. Rufa, gravis, clara, sit cassia fistula cara; Nigra, minus mota resonans, gravitate remota Si venundetur, quasi res sine re reprobetur. Rufa, iuvans gustum, de qua vix fractio frustum \"Tollit, venalis sit cassia lignea talis",
+      "n_words": 395
+    },
+    {
+      "id": "MACER_019",
+      "name": "GALBANU M",
+      "raw_text": "GALBANU M. Haec tua sint cura quae candent galbana dura. nA ΛΘ ΕΒ... ... Laude quis insignis gariofilus bis cape signis: 85 Quem si pertundat unguis liquor intus abundat, Si tumor assit ei coniunctus grossitiei, Qui cum mordetur bene mordicat, aera meretur. GALANG A. Huic laudem pange, quae sit subrufa galange, Si sit acuta, gravis, in odoris munere suavis. GUMMI ARABICUM. 90 Quod mittunt Arabes inquinat insita labes, Gummi si splendet, quia laus ex hoc sibi pendet. HERMODACTYLUS. Laus tibi de i",
+      "n_words": 298
+    },
+    {
+      "id": "MACER_020",
+      "name": "MYROBALANI",
+      "raw_text": "MYROBALANI. 100 Qui gravitate manum gravat elige myrobalanum, Subrufus, fragrans, cerebri loca summa peragrans Ascensu celeri, muscus solet aera mereri, Qui magis est carus in acumine sit subamarus. MACES. 105 Haud pretio sordet si macis acumine mordet Ut quem legas dignum rufedo sit tibi signum. MYRRHA. Myrrham laudate si grossa caret gravitate, Quae potius praestat iubar in rubedine gestat. MANNA. 110 Pulverulenta, levis, non pungens os, neque lenis, Nux est muscata vilis, quasi res reprobata.",
+      "n_words": 76
+    },
+    {
+      "id": "MACER_021",
+      "name": "SAL NITRI",
+      "raw_text": "SAL NITRI. Nitri summa salis laus est albedo nivalis.",
+      "n_words": 9
+    },
+    {
+      "id": "MACER_022",
+      "name": "OPOPANAX",
+      "raw_text": "OPOPANAX. Opopanax clarum subrufum sit tibi carum. OPIUM THEBAICUM. Quod venit a \"Thebis, opio laudem perhibebis, 115 Naribus horrendum, rufum laus dictat emendum. 98 Nigra vendetur si mum. cl. pr. o. — 100 Quod gr. m. premit eligo m.: Intus splendorem g. l. nitorem Qui magis est clarus in acumine sit subamarus, qui versus non huc sed ad caput de musco pertinet. — 105 Est prelio sacer si mordet acumine macer Utque scias dignum rubedo sit tibi signum 9. — 109 Sunt vilia grana nisi o.",
+      "n_words": 86
+    },
+    {
+      "id": "MACER_023",
+      "name": "PIX",
+      "raw_text": "PIX. Quae labem nescit pix lucens graeca nigrescit. . PYRETHRUM. Praetendit iura pyrethri substantia. dura, Integra, confracta putrido sine pulvere, tacta Aspera, gingivis hoc sit laudabile cuivis. RHEUBARBARUM. Passim contusi candor, rubor atque reclusi Visibus extrorsum, gravitas missura deorsum Libram, commendant si qui rheubarbara vendant. SCAMONEA. In gustu grata, frangi levis, albificata, - 125 Sputo clarescens, sit scamonea nigrescens.. SPICA NARDI. Rufa, sapore parum peracuto si quid ama",
+      "n_words": 188
+    },
+    {
+      "id": "MACER_024",
+      "name": "SPODIUM",
+      "raw_text": "SPODIUM. Mixtus candori modicus nigror in meliori 135 Est spodio, nota laus est gravitate remota. Candor squinanti signum est insigne probanti.",
+      "n_words": 21
+    },
+    {
+      "id": "MACER_025",
+      "name": "THAMARINDUS",
+      "raw_text": "THAMARINDUS. Mollis, nigrescens bonus est thamarindus arescens.",
+      "n_words": 7
+    },
+    {
+      "id": "MACER_026",
+      "name": "THUS",
+      "raw_text": "THUS. \"Thus quod clarescit candens contagia nescit.",
+      "n_words": 7
+    },
+    {
+      "id": "MACER_027",
+      "name": "PARS SECUN D A",
+      "raw_text": "PARS SECUN D A. PROOEMIUM. Post complementum doctrinae cognitionis specierum magis necessariarum et. difficiliorum ad cognoscendum: dicenda est et docenda commendatio et laus antidotorum et aliorum in antidotario subsequentium. AUREA ALEXANDRINA. Renes et rheuma, lapis et caput, algida matrix, 140 Vis apoplexiae, disuria tetaneusque, Haec si quem laedunt tibi funditus, aurea, cedunt.",
+      "n_words": 52
+    },
+    {
+      "id": "MACER_028",
+      "name": "ADRIANUM",
+      "raw_text": "ADRIANUM. Offensae lucis caligo, dolor capitalis, Delictum stomachi, capitis, hieranoxia, tumoris Causa melancolia, renum pressura , dolores 145 Stranguriae, splenis tumor algescens hepatisque Si laedunt, sanum faciens est hoc adrianum. 135 E spodio nota o. — 137 Tamariscus 6, aperte falsum. — 138 Hunc versum priori perperam adiecit o, et sequuntur adhuc quatuor versus, qui in cod. z. desunt et ad Othonis opus non pertinent, scilicet: Panis habens oculos, non monstrans caseus ullos, Et pulli stu",
+      "n_words": 452
+    },
+    {
+      "id": "MACER_029",
+      "name": "REQUIES",
+      "raw_text": "REQUIES. Dat requiem requies quartanis, cotidianis, Tertia quae revocat lux febris noxia quassat. ATHANASIA. Fluxum constringit ventris, muliebria sistit, 205 Sanguinei sputi causas abstergit et undas, Fortiter exsiccat athanasia sanguine nares.",
+      "n_words": 31
+    },
+    {
+      "id": "MACER_030",
+      "name": "MICLE T A",
+      "raw_text": "MICLE T A. Sistit haemorrhoidas, torturam mitigat omnem, Compescit fluxum ventris micleta per usum. BENEDICT A. Gutta pedum, vesica dolens, dolor articularis, 210 Regnans in rene gravitas, cedunt benedictae. 194 Aegid. 1. 4. v. 783. — 197 Electuarium purgans a Nicolao Praeposito descriptum. — 199 Discoloratis prodesse dicitur. — 200 Aegid. 1. Tyria sc. lepra. — 212 Medetur paralysi, oculorum morbis, epilepsiae. POTIO PAULI. Febri quartanae confert tua potio, Paule, Confortat nervos, enervat vim ",
+      "n_words": 473
+    },
+    {
+      "id": "MACER_031",
+      "name": "DIAMARGARIT ON",
+      "raw_text": "DIAMARGARIT ON. Laetificat, cor confortat, stomachum iuvat, occat 275 Tristes, cardiacos, macilentos, debilitatos Ex cronico morbo reparat sanatque dianthos. 260 'Triteus i. 4. febris tertiana. — 262 Aegid. 1. 3. v. 312. — 264 — 273 Aegid. 1. 2. v. 46. Occare i. 4. destruere sicut arator glebas. — DIACIMINUM. Rheuma, ptisim, veteris quartanae frigora febris, Pectoris algorem, stomachi delicta relegat, Cui nomen proprium confert ex parte ciminum. DIACOS'T UM. 280 Algens hydropisis, inflati passio",
+      "n_words": 83
+    },
+    {
+      "id": "MACER_032",
+      "name": "DIASEN E",
+      "raw_text": "DIASEN E. Tristem, maniacum, fantasma melancholicorum, 285 Splenis, cardiacae vitium sanat diasene.",
+      "n_words": 12
+    },
+    {
+      "id": "MACER_033",
+      "name": "DIAIRIS",
+      "raw_text": "DIAIRIS. Effugiunt una diairi tussis et asthma, Et simul cedit si disnia frigida laedit. DIACALAMINTUM. Pectoris algori confert tussique senili, Sanat quartanam cui nomen dat calamintum, 290 Abstergit vomitum, digestivam iuvat, aufert Rheuma, ptisim, proprium restaurat in ore colorem. DIACAMER ON. Quod cameron nomen denominat, asthma, dolorem Arteticae, ptisim, tussim, stomachique relegat 295 Errorem, renum proscribit debilitatem. Lascivos motus veneris perducit in usus, Aegid. 1. 2. v. 442. — 2",
+      "n_words": 1065
+    },
+    {
+      "id": "MACER_034",
+      "name": "CUM Jas ὡς A deris eio d ii idea ee",
+      "raw_text": "CUM Jas ὡς A deris eio d ii idea ee quo Ὁ\" Vue 52 E ite Lr ied». died I, Pe N DAMEN",
+      "n_words": 23
+    },
+    {
+      "id": "MACER_035",
+      "name": "CUM GODOFREDI HERMANNI SUISQUE EMENDATIONIBUS K Di",
+      "raw_text": "CUM GODOFREDI HERMANNI SUISQUE EMENDATIONIBUS K DiTDIT ET",
+      "n_words": 8
+    },
+    {
+      "id": "MACER_036",
+      "name": "LUDOVICO CHOULANT MEDICINAE DOCTORI ET PROFESSORI ",
+      "raw_text": "LUDOVICO CHOULANT MEDICINAE DOCTORI ET PROFESSORI S. D. uum abhine annos fere tres, Vir Praestantissime, de Macro a Te edendo aliisque carminibus minoribus huic adjiciendis sermonem mecum institueres, simul petebas, ut si forte haberem, quae ad carmen poetae Graeci de virtutibus herbarum vel emendandum vel illustrandum conferrent, ea Tecum communicarem, ut illis in editione hujus carminis paranda uti posses. — Legi igitur carmen quod mihi antea nonnisi ex Hermanni Viri Summi dissertatione de Orp",
+      "n_words": 4208
+    }
+  ]
+}

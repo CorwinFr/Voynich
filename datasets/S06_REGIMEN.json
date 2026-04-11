@@ -1,0 +1,650 @@
+{
+  "_meta": {
+    "description": "Regimen Sanitatis Salernitanum - health regimen in verse",
+    "editions": [
+      "data/raw_corpus_9a/cleaned/clean_regimen_sanitatis.txt",
+      "clean_regimen_sanitatis_croke_1830.txt"
+    ],
+    "language": "latin",
+    "period": "13th century, Salerno",
+    "count": 127,
+    "version": "2026-04-11"
+  },
+  "entries": [
+    {
+      "id": "REG_001",
+      "raw_text": "Anglorum regi scribit schola tota Salerni: si vis incolumem, si vis te reddere sanum, curas tolle graves, irasci crede profanum, parce mero, cenato parum, non sit tibi vanum surgere post epulas, somnum fuge meridianum, non mictum retine, nec comprime fortiter anum: haec bene si serves, tu longo tempore vives.",
+      "n_words": 49
+    },
+    {
+      "id": "REG_003",
+      "raw_text": "si tibi deficiant medici, medici tibi fiant haec tria, mens laeta, requies, moderata diaeta.",
+      "n_words": 14
+    },
+    {
+      "id": "REG_005",
+      "raw_text": "Lumina mane manus surgens gelida lavet aqua, hac illac modicum pergat, modicum sua membra extendat, crines pectat, dentes fricet. ista confortant cerebrum, confortant cetera membra. lote, cale, sta pranse vel i, frigesce minute. fons, speculum, gramen, haec dant oculis relevamen; mane igitur montes, sub serum inquirito fontes.",
+      "n_words": 47
+    },
+    {
+      "id": "REG_007",
+      "raw_text": "Sit brevis aut nullus tibi somnus meridianus. febris, pigrities, capitis dolor, atque catarrhus: haec tibi proveniunt ex somno meridiano.",
+      "n_words": 19
+    },
+    {
+      "id": "REG_009",
+      "raw_text": "Quattuor ex vento veniunt in ventre retento: spasmus, hydrops, colica, vertigo, quattuor ista.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_011",
+      "raw_text": "Aut sitis atque fames moderata bonum medicamen. cumque superfluitant important saepe gravamen.",
+      "n_words": 12
+    },
+    {
+      "id": "REG_013",
+      "raw_text": "Tu rex, quando bibis, numquam haustu satiaris, saepe parum bibe quod satis est nec te sitis urat. quod satis immo quod minus est sapientia curat. quantuncumque potes parce post balnea potes.",
+      "n_words": 31
+    },
+    {
+      "id": "REG_015",
+      "raw_text": "Ex magna cena stomacho fit maxima poena. ut sis nocte levis, sit tibi cena brevis.",
+      "n_words": 15
+    },
+    {
+      "id": "REG_017",
+      "raw_text": "Tu numquam comedas, stomachum nisi noveris esse purgatum vacuumque cibo, quem sumpseris ante. ex desiderio poteris cognoscere certo; haec tua sunt signa, subtilis in ore diaeta.",
+      "n_words": 26
+    },
+    {
+      "id": "REG_019",
+      "raw_text": "Persica, poma, pira, lac, caseus et caro salsa et caro cervina, leporina, caprina, bovina: haec melancholica sunt, infirmis inimica.",
+      "n_words": 19
+    },
+    {
+      "id": "REG_021",
+      "raw_text": "Ova recentia, vina rubentia, pinguia iura, cum simila pura, naturae sunt valitura.",
+      "n_words": 12
+    },
+    {
+      "id": "REG_023",
+      "raw_text": "Nutrit et impinguat triticum, lac, caseus infans, testiculi, porcina caro, cerebella, medullae, dulcia vina, cibus gustu iucundior, ova sorbilia, maturae ficus uvaeque recentes.",
+      "n_words": 23
+    },
+    {
+      "id": "REG_025",
+      "raw_text": "Vina probantur odore, sapore, nitore, colore. si bona vina cupis, haec quinque probantur in illis, fortia, formosa, fragrantia, frigida, frisca.",
+      "n_words": 20
+    },
+    {
+      "id": "REG_027",
+      "raw_text": "Sunt nutritiva plus dulcia candida vina. si vinum rubeum nimium quandoque bibatur, venter stipatur, vox limpida turbificatur.",
+      "n_words": 17
+    },
+    {
+      "id": "REG_029",
+      "raw_text": "Allia, nux, ruta, pira, raphanus et theriaca, haec sunt antidotum contra mortale venenum.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_031",
+      "raw_text": "Aer sit mundus, habitabilis ac luminosus, nec sit infectus, nec olens foetore cloacae.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_033",
+      "raw_text": "Si tibi serotina noceat potatio vini, hora matutina rebibas, et erit medicina. gignit et humores melius vinum meliores. si fuerit nigrum, corpus reddit tibi pigrum. vinum sit clarumque vetus, subtile, maturum, ac bene lymphatum, saliens, moderamine sumptum.",
+      "n_words": 37
+    },
+    {
+      "id": "REG_035",
+      "raw_text": "Non sit acetosa cervisia, sed bene clara, de validis cocta granis, satis ac veterata. de qua potetur stomachus non inde gravetur.",
+      "n_words": 21
+    },
+    {
+      "id": "REG_037",
+      "raw_text": "Temporibus veris modicum prandere iuberis; sed calor aestatis dapibus nocet immoderatis. autumni fructus caveas; ne sint tibi luctus. de mensa sume quantum vis tempore brumae.",
+      "n_words": 25
+    },
+    {
+      "id": "REG_039",
+      "raw_text": "Salvia cum ruta faciunt tibi pocula tuta. adde rosae florem, minuit potenter amorem.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_041",
+      "raw_text": "Nausea non poterit quemquam vexare marina, antea cum vino mixtam si sumpserit illam.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_043",
+      "raw_text": "Salvia, sal, vinum, piper, allia, petroselinum, ex his fit salsa, nisi sit commixtio falsa.",
+      "n_words": 14
+    },
+    {
+      "id": "REG_045",
+      "raw_text": "Si fore vis sanus, ablue saepe manus. lotio post mensam tibi confert munera bina, mundificat palmas et lumina reddit acuta.",
+      "n_words": 20
+    },
+    {
+      "id": "REG_047",
+      "raw_text": "Panis non calidus, nec sit nimis inveteratus, sed fermentatus, oculatus sit, bene coctus, modice salitus, frugibus validis sit electus. non comedas crustam, choleram quia gignit adustam. panis salsatus, fermentatus, bene coctus, purus sit sanus, quia non ita sit tibi vanus.",
+      "n_words": 40
+    },
+    {
+      "id": "REG_049",
+      "raw_text": "Est caro porcina sine vino peior ovina: si tribuis vina, tunc est cibus et medicina. ilia porcorum bona sunt, mala sunt reliquorum.",
+      "n_words": 22
+    },
+    {
+      "id": "REG_051",
+      "raw_text": "Impedit urinam mustum, solvit cito ventrem, hepatis emphraxin, splenis generat lapidemque.",
+      "n_words": 11
+    },
+    {
+      "id": "REG_053",
+      "raw_text": "Potus aquae sumptus fit edenti valde nocivus, infrigidat stomachumque cibum nititur fore crudum.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_055",
+      "raw_text": "Sunt nutritivae multum carnes vitulinae.",
+      "n_words": 5
+    },
+    {
+      "id": "REG_057",
+      "raw_text": "Sunt bona gallina et capo, turtur, sturna, columba, quiscula vel merula, phasianus, orthygometra, perdix, frigellus, orix, tremulus, amarellus.",
+      "n_words": 18
+    },
+    {
+      "id": "REG_059",
+      "raw_text": "Si pisces molles sunt magno corpore tolles, si pisces duri, parci sunt plus valituri: lucius et perca, saxaulis et albica, tinca, gornus, plagities cum carpa, galbio, truta.",
+      "n_words": 27
+    },
+    {
+      "id": "REG_061",
+      "raw_text": "Vocibus anguillae pravae sunt si comedantur. qui physicam non ignorant, haec testificantur. caseus, anguilla, nimis obsunt si comedantur, ni tu saepe bibas et rebibendo bibas.",
+      "n_words": 25
+    },
+    {
+      "id": "REG_063",
+      "raw_text": "Si sumas ovum, molle sit atque novum.",
+      "n_words": 7
+    },
+    {
+      "id": "REG_065",
+      "raw_text": "Pisam laudare decrevimus ac reprobare: pellibus ablatis est bona pisa satis: est inflativa cum pellibus atque nociva.",
+      "n_words": 17
+    },
+    {
+      "id": "REG_067",
+      "raw_text": "Lac ethicis sanum, caprinum post camelinum; ac nutritivum plus omnibus est asininum, plus nutritivum vaccinum, sic et ovinum. si febriat caput et doleat, non est sanum.",
+      "n_words": 26
+    },
+    {
+      "id": "REG_069",
+      "raw_text": "Lenit et humectat, solvit sine febre butyrum. incidit atque lavat, penetrat, mundat quoque serum.",
+      "n_words": 14
+    },
+    {
+      "id": "REG_071",
+      "raw_text": "Caseus est frigidus, stipans, grossus quoque durus. caseus et panis, bonus est cibus hic bene sanis. si non sunt sani, tunc hunc non iungito pani. ignari medici me dicunt esse nocivum, sed tamen ignorant cur nocumenta feram. languenti stomacho caseus addit opem, si post sumatur terminat ille dapes. qui physicam non ignorant, haec testificantur.",
+      "n_words": 54
+    },
+    {
+      "id": "REG_073",
+      "raw_text": "Inter prandendum sit saepe parumque bibendum. ut minus aegrotes, non inter fercula potes. ut vites poenam, de potibus incipe cenam, singula post ova pocula sume nova.",
+      "n_words": 26
+    },
+    {
+      "id": "REG_075",
+      "raw_text": "Post pisces nux sit, post carnes caseus adsit. Unica nunc prodest, nocet altera, tertia mors est. adde potum piro, nux est medicina veneno. fert pira nostra pirus, sine vino sunt pira virus. si pira sunt virus, sit maledicta pirus. si coquas, antidotum pira sunt, sed cruda venenum. cruda gravant stomachum, relevant pira cocta gravatum. post pira da potum, post pomum vade faecatum.",
+      "n_words": 62
+    },
+    {
+      "id": "REG_077",
+      "raw_text": "Cerasa si comedas, tibi confert grandia dona: expurgant stomachum, nucleus lapidem tibi tollit et de carne sua sanguis eritque bonus.",
+      "n_words": 20
+    },
+    {
+      "id": "REG_079",
+      "raw_text": "Infrigidant, laxant, multum prosunt tibi pruna.",
+      "n_words": 6
+    },
+    {
+      "id": "REG_081",
+      "raw_text": "Persica cum musto vobis datur ordine iusto. sumere sic est mos: nucibus sociando racemos passula non spleni, tussi valet, est bona reni.",
+      "n_words": 22
+    },
+    {
+      "id": "REG_083",
+      "raw_text": "Scrofa, tumor, glandes, ficus cataplasmate cedunt, iunge papaver ei confracta foris tenes ossa. pediculos veneremque facit, sed cuilibet obstat.",
+      "n_words": 19
+    },
+    {
+      "id": "REG_085",
+      "raw_text": "Multiplicant mictum, ventrem dant escula strictum. escula dura bona, sed mollia sunt meliora.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_087",
+      "raw_text": "Provocat urinam mustum, cito solvit et inflat.",
+      "n_words": 7
+    },
+    {
+      "id": "REG_089",
+      "raw_text": "Grossos humores nutrit cerevisia, vires praestat et augmentat carnem generatque cruorem, provocat urinam, ventrem quoque mollit et inflat.",
+      "n_words": 18
+    },
+    {
+      "id": "REG_091",
+      "raw_text": "Infrigidat modicum, sed plus desiccat acetum, infrigidat, macerat, melan: dat, sperma minorat, siccos infestat nervos et impinguia siccat.",
+      "n_words": 18
+    },
+    {
+      "id": "REG_093",
+      "raw_text": "Rapa iuvat stomachum, novit producere ventum, provocat urinam, faciet quoque dente ruinam. si male cocta datur, hinc torsio generatur.",
+      "n_words": 19
+    },
+    {
+      "id": "REG_095",
+      "raw_text": "Egeritur tarde cor, digeritur quoque dure. similiter stomachus, melior sit in extremitates. reddit lingua bonum nutrimentum medicinae. digeritur facile pulmo, cito labitur ipse. est melius cerebrum gallinarum reliquorum.",
+      "n_words": 28
+    },
+    {
+      "id": "REG_097",
+      "raw_text": "Semen feniculi fugat et spiracula culi. bis duo dat marathrum, febres fugat atque venenum et purgat stomachum, lumen quoque reddit acutum.",
+      "n_words": 21
+    },
+    {
+      "id": "REG_099",
+      "raw_text": "Emendat visum, stomachum confortat anisum. copia dulcoris anisi sit melioris.",
+      "n_words": 10
+    },
+    {
+      "id": "REG_101",
+      "raw_text": "Si cruor emanat, spodium sumptum cito sanat. gaudet hepar spodio, mace cor cerebrum quoque moscho, pulmo liquirita, splen capparis stomachumque galanga.",
+      "n_words": 21
+    },
+    {
+      "id": "REG_103",
+      "raw_text": "Vas condimenti praeponi debet edenti. sal virus refugat et non sapidumque saporat; nam sapit esca male quae datur absque sale. urunt persalsa visum spermaque minorant et generant scabiem, pruritum sive rigorem.",
+      "n_words": 31
+    },
+    {
+      "id": "REG_105",
+      "raw_text": "Hi fervore vigent tres: salsus, amarus, acutus. alget acetosus, sic stipans ponticus atque. unctus et insipidus, dulcis: dant temperamentum.",
+      "n_words": 19
+    },
+    {
+      "id": "REG_107",
+      "raw_text": "Bis duo vippa facit, mundat dentes, dat acutum visum, quod minus est, implet, minuit, quod abundat.",
+      "n_words": 16
+    },
+    {
+      "id": "REG_109",
+      "raw_text": "Omnibus assuetam iubeo servare diaetam. approbo sic esse, nisi sit mutare necesse. est Hippocras testis, quoniam sequitur pestis. fortior est meta medicinae certa diaeta: quam si non curas, fatue regis et male curas. quale, quid et quando, quantum, quoties, ubi dando, ista notare cibo debet medicus diaetando.",
+      "n_words": 47
+    },
+    {
+      "id": "REG_111",
+      "raw_text": "Ius caulis solvit, cuius substantia stringit: utraque quando datur; venter laxare paratur.",
+      "n_words": 12
+    },
+    {
+      "id": "REG_113",
+      "raw_text": "Dixerunt malvam veteres quia molliat alvum. malvae radices rasae dedere faeces, vulvam moverunt et fluxum saepe dederunt.",
+      "n_words": 17
+    },
+    {
+      "id": "REG_115",
+      "raw_text": "Mentitur mentha, si sit depellere lenta ventris lumbricos stomachi vermesque nocivos.",
+      "n_words": 11
+    },
+    {
+      "id": "REG_117",
+      "raw_text": "Cur moriatur homo, cui salvia crescit in horto? contra vim mortis non est medicamen in hortis. salvia confortat nervos manuumque tremores tollit et eius ope febris acuta fugit. salvia salvatrix, naturae conciliatrix.",
+      "n_words": 32
+    },
+    {
+      "id": "REG_119",
+      "raw_text": "Salvia, castoreum, lavendula, primula veris, nastur, athanasia: sanat paralytica membra.",
+      "n_words": 10
+    },
+    {
+      "id": "REG_121",
+      "raw_text": "Nobilis est ruta, quia lumina reddit acuta. auxilio rutae, vir, quippe videbis acute. ruta viris coitum minuit, mulieribus auget. ruta facit castum, dat lumen et ingerit astum. cocta facit ruta de pulicibus loca tuta.",
+      "n_words": 34
+    },
+    {
+      "id": "REG_123",
+      "raw_text": "De cepis medici non consentire videntur. cholericis non esse bonas dicit Galienus, phlegmaticis vero multum docet esse salubres, praesertim stomacho, pulchrumque creare colorem. contritis cepis loca denudata capillis saepe fricans poteris capitis reparare decorem. appositas perhibent morsus curare caninos. si trita cum melle prius fuerint et aceto.",
+      "n_words": 47
+    },
+    {
+      "id": "REG_125",
+      "raw_text": "Est modicum granum, siccum calidumque sinapis, dat lacrimas purgatque caput tollitque venenum.",
+      "n_words": 12
+    },
+    {
+      "id": "REG_127",
+      "raw_text": "Crapula discutitur, capitis dolor atque gravedo; purpuream violam dicunt curare caducos.",
+      "n_words": 11
+    },
+    {
+      "id": "REG_129",
+      "raw_text": "Aegris dat somnum vomitum quoque tollit adversum illius semen colicis cum melle medetur. et tussim veterem curat, si saepe bibatur. frigus pulmonis pellit ventrisque tumorem omnibus et morbis subvenit articulorum.",
+      "n_words": 30
+    },
+    {
+      "id": "REG_131",
+      "raw_text": "Ysopus est herba purgans a pectore phlegma. ad pulmonis opus cum melle coquatur ysopus, vultibus eximium fertur reparare colorem.",
+      "n_words": 19
+    },
+    {
+      "id": "REG_133",
+      "raw_text": "Suppositum cancris tritum cum melle medetur, cum vino potum poterit sedare dolorem. saepe solet vomitum ventremque tenere solutum.",
+      "n_words": 18
+    },
+    {
+      "id": "REG_135",
+      "raw_text": "Enula campana reddit praecordia sana. cum succo rutae si succus sumitur huius, affirmat ruptis nil esse salubrius istis.",
+      "n_words": 18
+    },
+    {
+      "id": "REG_137",
+      "raw_text": "Cum vino choleram nigram potatum repellit; sic dicunt veterem suptum curare podagram.",
+      "n_words": 12
+    },
+    {
+      "id": "REG_139",
+      "raw_text": "Nasturtii succus crines retinere fluentes illius asseritur dentisque curare dolorem. et squamas succus sanat cum melle perunctus.",
+      "n_words": 17
+    },
+    {
+      "id": "REG_141",
+      "raw_text": "Coecatis pullis hac lumina mater hirundo, Plinius ut scribit, quamvis sint eruta reddit.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_143",
+      "raw_text": "auribus infusus vermes succus necat eius. Cortex verrucas in aceto cocta resolvit. pomorum succus, flos, partus destruit, eius.",
+      "n_words": 18
+    },
+    {
+      "id": "REG_145",
+      "raw_text": "Confortare crocus dicatur laetificando, membraque defecta confortat hepar reparando.",
+      "n_words": 9
+    },
+    {
+      "id": "REG_147",
+      "raw_text": "reddit fecundas permansum saepe puellas. isto stillantem poteris retinere cruorem.",
+      "n_words": 10
+    },
+    {
+      "id": "REG_149",
+      "raw_text": "Quod piper est nigrum, non est dissolvere pigrum. phlegmata purgabit digestivamque iuvabit. leucopiper stomacho prodest tussique dolori utile, praeveniet motum febrisque rigorem.",
+      "n_words": 22
+    },
+    {
+      "id": "REG_151",
+      "raw_text": "Et mox post escam dormire nimisque moveri: ista gravare solent auditus, ebrietasque. metus, longa fames, vomitus, percussio, casus. ebrietas, frigus, tinnitum causat in aure.",
+      "n_words": 24
+    },
+    {
+      "id": "REG_153",
+      "raw_text": "Balnea, vina, Venus, ventus, piper, allia, fumus, porri cum cepis, lens, fletus, faba, sinapis, sol, coitus, ignis, labor, ictus, acumina, pulvis: ista nocent oculis; sed vigilare magis. feniculus, verbena, rosa, chelidonia, ruta: ex istis fit aqua, quae lumina reddit acuta.",
+      "n_words": 40
+    },
+    {
+      "id": "REG_155",
+      "raw_text": "Sic dentes servas: porrorum collige grana. ne careas thure cum hyoscyamo simul ure. sicque per imbotum fumum cape dente remotum.",
+      "n_words": 20
+    },
+    {
+      "id": "REG_157",
+      "raw_text": "Nux, oleum, frigus capitis anguillaque, potus ac pomum crudum faciunt hominem fore raucum.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_159",
+      "raw_text": "ieiuna, vigila, caleas dape, valde labora, Inspira calidum, modicum bibe, comprime flatum: haec bene tu serva, si vis depellere rheuma. si fluat ad pectus, dicatur rheuma catarrhus: ad fauces bronchus: ad nares esto coryza.",
+      "n_words": 34
+    },
+    {
+      "id": "REG_161",
+      "raw_text": "Auripigmentum, sulphur, miscere memento, his decet apponi calcem: commisce saponi. quattuor haec misce. commixtis quattuor istis fistula curatur, quater ex his si repleatur.",
+      "n_words": 23
+    },
+    {
+      "id": "REG_163",
+      "raw_text": "Si capitis dolor est ex potu, lympha bibatur, ex potu nimio nam febris acuta creatur; si vertex capitis vel frons aestu tribulentur, tempora fronsque simul moderate saepe fricentur; morella cocta nec non calidaque laventur; istud enim credunt capitis prodesse dolori.",
+      "n_words": 40
+    },
+    {
+      "id": "REG_165",
+      "raw_text": "Temporis aestivi ieiunia corpora siccant; quolibet in mense confert vomitus, quoque purgat humores nocuos, stomachi lavat ambitus omnes. ver, autumnus, hiems, aestas dominantur in anno. tempore vernali calidus fit aer humidusque, et nullum tempus melius fit phlebotomiae. usus tunc homini Veneris confert moderatus. corporis et motus ventrisque solutio, sudor, balnea, purgetur tunc corpora cum medicinis.",
+      "n_words": 55
+    },
+    {
+      "id": "REG_167",
+      "raw_text": "aestas more calet sicca et noscatur in illa tunc quoque praecipue choleram rubram dominare. humida, frigida fercula dentur, sit Venus extra, balnea non prosunt, sint rarae phlebotomiae: utilis est requies, sit cum moderamine potus.",
+      "n_words": 34
+    },
+    {
+      "id": "REG_169",
+      "raw_text": "Ossibus ex denis bis centenisque novenis constat homo; denis bis dentibus ex duodenis; ex tricentenis decies sex quinqueque venis.",
+      "n_words": 19
+    },
+    {
+      "id": "REG_171",
+      "raw_text": "Quattuor humores in humano corpore constant: sanguis cum cholera, phlegma, melancholia. terra melan: aqua phleg: et aer sanguis, chole: ignis.",
+      "n_words": 20
+    },
+    {
+      "id": "REG_173",
+      "raw_text": "Natura pingues isti sunt atque iocantes, semper rumores cupiunt audire frequentes. hos Venus et Bacchus delectant, fercula, risus, et facit hos hilares, et dulcia verba loquentes. omnibus hi studiis habiles sunt et magis apti. qualibet ex causa nec hos leviter movet ira. largus, amans, hilaris, ridens rubeique coloris, cantans, carnosus, satis audax atque benignus.",
+      "n_words": 54
+    },
+    {
+      "id": "REG_175",
+      "raw_text": "Est humor cholerae, qui competit impetuosis. hoc genus est hominum cupiens praecellere cunctos; hi leviter discunt, multum comedunt, cito crescunt. inde magnanimi sunt, largi, summa petentes: hirsutus, fallax, irascens, prodigus, audax, astutus, gracilis, siccus croceique coloris.",
+      "n_words": 36
+    },
+    {
+      "id": "REG_177",
+      "raw_text": "Phlegma vires modicas tribuit lotosque brevesque. phlegma facit pingues, sanguis reddit mediocres. otia non studio tradunt, sed corpora somno. sensus hebes, tardus motus, pigritia, somnus. hic somnolentus, piger, in sputamine multus. est huic sensus hebes, pinguis, facie color albus.",
+      "n_words": 39
+    },
+    {
+      "id": "REG_179",
+      "raw_text": "Restat adhuc tristis cholerae substantia nigrae, quae reddit pravos, pertristes, pauca loquentes. hi vigilant studiis, nec mens est dedita somno, servant propositum, sibi nil reputant fore tutum. invidus et tristis, cupidus dextraeque tenacis, non expers fraudis, timidus luteique coloris.",
+      "n_words": 39
+    },
+    {
+      "id": "REG_181",
+      "raw_text": "Hi sunt humores, qui praestant cuique colores. omnibus in rebus ex phlegmate fit color albus. sanguine fit rubens; cholera rubea quoque rufus. corporibus fuscum bilis dat nigra colorem; esse solent fusci quos bilis possidet atra.",
+      "n_words": 35
+    },
+    {
+      "id": "REG_183",
+      "raw_text": "Si peccet sanguis, facies rubet, extat ocellus, inflantur genae corpus nimiumque gravatur, est pulsusque frequens, plenus, mollis, dolor ingens maxime fit frontis et constipatio ventris siccaque lingua, sitis et somnia plena rubore, dulcor adest sputi, sunt acria dulcia quaeque.",
+      "n_words": 39
+    },
+    {
+      "id": "REG_185",
+      "raw_text": "Accusat choleram dextrae dolor, aspera lingua, tinnitus vomitusque frequens, vigilantia multa, multa sitis pinguisque eiectio, tormina ventris, nausea fit morsus cordis, languescit onexia, pulsus adest gracilis, durus veloxque, calescens. aret amaretque os, incendia somnia fingunt.",
+      "n_words": 35
+    },
+    {
+      "id": "REG_187",
+      "raw_text": "Phlegma supergrediens proprias in corpore leges, os facit insipidum, fastidia crebra, salivas, costarum, stomachi simul occipitisque dolores, pulsus adest rarus, tardus, mollis quoque inanis. praecedit fallax phantasmata somnus aquosa.",
+      "n_words": 29
+    },
+    {
+      "id": "REG_189",
+      "raw_text": "Humorum pleno dum faex in corpore regnat, nigra cutis, durus pulsus tenuisque urina, sollicitudo, timor, tristitia, somnia tetra. coacescunt ructus, sapor et sputaminis idem. levaque praecipue tinnit vel sibilat auris.",
+      "n_words": 30
+    },
+    {
+      "id": "REG_191",
+      "raw_text": "denus septenus vix phlebotomum petit annus. Spiritus uberior exit per phlebotomiam: spiritus ex potu vini mox multiplicatur humorumque cibo damnum lente reparatur. lumina clarificat, sincerat phlebotomia mentes et cerebrum, calidas facit esse medullas, viscera purgabit, stomachum ventremque coercet, puros dat sensus, dat somnum, taedia tollit, auditus, vocem, vires producit et auget.",
+      "n_words": 51
+    },
+    {
+      "id": "REG_193",
+      "raw_text": "Tres insunt istis, Maius, September, Aprilis, et sunt lunares, sunt velut Hydra dies. prima dies primi postremoque posteriorum, nec sanguis minui, nec carnis anseris uti. in sene vel iuvene, si venae sanguine plenae, omni mense bene confert incisio venae. hi sunt tres menses: Maius, September, Aprilis. in quibus eminuas, ut longo tempore vivas.",
+      "n_words": 53
+    },
+    {
+      "id": "REG_195",
+      "raw_text": "Fridida natura, frigens regio, dolor ingens, post lavacrum, coitum, minor aetas atque senilis, morbus prolixus, repletio potus et escae, si fragilis, vel subtilis sensus stomachi sit, et fastiditi, tibi non sunt phlebotomandi.",
+      "n_words": 32
+    },
+    {
+      "id": "REG_197",
+      "raw_text": "Unctio, sive potus, lavacrum, vel fascia, motus, debent non fragili tibi singula mente teneri.",
+      "n_words": 14
+    },
+    {
+      "id": "REG_199",
+      "raw_text": "Exhilarat tristes, iratos placat, amantes ne sint amentes, phlebotomia facit.",
+      "n_words": 10
+    },
+    {
+      "id": "REG_201",
+      "raw_text": "Fac plagam largam mediocriter, ut cito fumus exeat uberius liberiusque cruor.",
+      "n_words": 11
+    },
+    {
+      "id": "REG_203",
+      "raw_text": "Sanguine subtracto sex horis est vigilandum, ne somni fumus laedat sensibile corpus. ne nervum laedas, non sit tibi plaga profunda. sanguine purgatus non carpas protinus escas.",
+      "n_words": 26
+    },
+    {
+      "id": "REG_205",
+      "raw_text": "Omnia de lacte vitabis minute, et vitet potum phlebotomatus homo. frigida vitabis, quia sunt inimica minutis. interdictus erit minutis nubilus aer. spiritus exultat minutis luce per auras. omnis apta quies, est motus valde novicus.",
+      "n_words": 34
+    },
+    {
+      "id": "REG_207",
+      "raw_text": "Principio minuas in acutis, peracutis. aetatis mediae multum de sanguine tolle, sed puer atque senex tollet uterque parum. ver tollat duplum, reliquum tempus tibi simplum.",
+      "n_words": 25
+    },
+    {
+      "id": "REG_209",
+      "raw_text": "Aestas, ver, dextras: autumnus hiemsque sinistras. quattuor haec membra: cephe, cor, pes, hepar vacuanda. ver cor, hepar aestas, ordo sequens reliquas.",
+      "n_words": 21
+    },
+    {
+      "id": "REG_211",
+      "raw_text": "Dat salvatella tibi plurima dona minuta: purgat hepar, splenem, pectus, praecordia, vocem; innaturalem tollit de corde dolorem.",
+      "n_words": 17
+    },
+    {
+      "id": "REG_CROKE_087",
+      "raw_text": "collection, vol. i. p. 578. sect. 32. Albertus Aquensis, lib. vi. cap. lii. liv. Ordericus Vitalis, in Duchesne's Gesta Normannorum, p. 780. In anno 1100, consules (comites Robertus, etc.) cum suis reciperunt se, et à Normannis in Italia amicabilitér suscepti sunt. Rogerius Sicilia comes, ejusque nepos Rogerius, Apulie dux, atque Goiffredus de Conversano, nepos Guiscardi ducis, aliique compatriote seu cognati eorum, salvo reditu gavisi sunt, et fatigatos pro Christo in multis agonibus pugiles le",
+      "n_words": 195
+    },
+    {
+      "id": "REG_CROKE_109",
+      "raw_text": "Dic homo cur moritur cui salvia crescit in horto ?— Nullus hortus contra letum medicamina prestat. Salvia confortat nervos, manuumque tremorem Tollit, ope ipsius fugit illicó febris acuta.",
+      "n_words": 28
+    },
+    {
+      "id": "REG_CROKE_121",
+      "raw_text": "Alter usus versuum Salernitanorum. Incipiunt versus medicinales editi à magistris et doctoribus Salernitanis in Apulià, scripti Karolo magno Francorum Regi gloriosissimo. Quorum opusculum in quinque partes dividitur. Quarum prima est de rebus homini naturalibus. Secunda, de rebus homini non naturalibus. Tertia, de rebus contra hominis naturam (i. e. diseases). Quaría, de medicinis simplicibus et compositis. Quinta de curis egritadinum.",
+      "n_words": 59
+    },
+    {
+      "id": "REG_CROKE_135",
+      "raw_text": "Certius est signum contractio testiculorum.",
+      "n_words": 5
+    },
+    {
+      "id": "REG_CROKE_153",
+      "raw_text": "Qu:e petit zegrotans, quamvis contraria, dentur: Tunc natura viget potius cum vota replentur.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_CROKE_155",
+      "raw_text": "Contra Squinonciam. Quando dolet guttur, velut ulcera si patiatur,",
+      "n_words": 9
+    },
+    {
+      "id": "REG_CROKE_239",
+      "raw_text": "Unguentum aureum. Quod trahit ex auro nomen, quo przvalet auro, Unguentum, renes lapidosos curat inunctum. Solvit dura, vias reserat, resolutaque purgat Sewpius appositum, vicibus crebris renovatum. Omnia de gelidis mala discutit insita causis. Militat in morbis, et regnat quatuor annis ?.",
+      "n_words": 41
+    },
+    {
+      "id": "REG_CROKE_265",
+      "raw_text": "Schole Salernitanzm de conservandà valetudine opusculum, cum enarrationibus Arnaldi de Villà Novà. Pise, 4to. PawzER.",
+      "n_words": 15
+    },
+    {
+      "id": "REG_CROKE_293",
+      "raw_text": "Strasburg, per Matthiam Brant, 4to. Gothic letters. BnuwzT. About the beginning of this century was published in quarto, in black letter, Le tresor des poures selon, Maistre Arnaudt de Ville Nove, et Maistre Girard de Sollo, Docteur in Medicine de Montpellier, translate du Latin en Frangois pour l'amour de Dieu. \"The first is a translation of Villa Nova's Treatise de Regimiue Sanitatis. Argentorati, per John Prüs, 4to. ScnuusrEn. Paris, per R. Ledru, 4to. Bnuwzr. Colonie, per Cornelium de Zyryck",
+      "n_words": 104
+    },
+    {
+      "id": "REG_CROKE_305",
+      "raw_text": "De conservandà bonà valetudine, opusculum Scholz Salernitane ad Regem Angliw versibus conscriptum, cum Arnoldi Novicomensis, Medici et Philosophi celeberrimi, brevissimis et utilissimis enarrationibus. Et hzc omnia a barbarie, et infinitis, quibus scatebant, mendis, tam accurate repurgata, ut jam quasi novam faciem induerint, citraque offensionem legi possent. Opera et studio Johannis Curionis et Jacobi Crelli. Francofurti, apud Christianum Egenolphum, 8vo. with wooden cuts. ÁCKERMANN.",
+      "n_words": 63
+    },
+    {
+      "id": "REG_CROKE_315",
+      "raw_text": "Coxn. Grsxzn. Francof. apud hzredes Chr. Egenolphi. Bibl. Bodl. Paris. Antwerpie, apud Jo. Withagium, 12mo. Maxczr.- Conservandz bon: valetudinis precepta integritati resti-",
+      "n_words": 22
+    },
+    {
+      "id": "REG_CROKE_333",
+      "raw_text": "Hygeia: id est, Bone Valetudinis Conservandz Thesaurus locupletissimus. Colonie, Agrippinz typis Pet. à Bruchel, 8vo. min. AckEnMANN.",
+      "n_words": 17
+    },
+    {
+      "id": "REG_CROKE_335",
+      "raw_text": "Schola Salernitana, hoc est de valetudine tuendà, opus Novà methodo instructum, infinitis versibus auctum, commentaris Villanovani, Curionis, Crelliü, et Constansoni illustratum. — Adject; sunt animadversiones nove et copiose Renati Moreau, Doctoris Medici - Parisiensis. Paris, sumptibus Thome Blasi. It is dedicated to Cardinal Richelieu in 1624, 8vo. 795 pages. Apud me.",
+      "n_words": 51
+    },
+    {
+      "id": "REG_CROKE_349",
+      "raw_text": "Schola Salernitana: id est, Conservande Valetudinis Praecepta, post plurimas impressiones cum et sine commentariis in variis locis, nunc bono commodo omnium sanitati suz providé consulere volentium in hbelli hujus formam redacta, unà cum annexis ad finem observationibus quibusdam probatissimis. \"Typis Michael. Thurnmayer, 12mo. AckERMANN.",
+      "n_words": 44
+    },
+    {
+      "id": "REG_CROKE_431",
+      "raw_text": "Allia, nux, ruta, pyra, raphanus, et theriaca, H»c sunt antidotum contra mortale venenum.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_CROKE_457",
+      "raw_text": "Post pyra da potum, post pomum vade fzecatum. Cerasa si comedas tibi confert grandia dona: Expurgant stomachum, nucleus lapidem tibi tollit, Et de carne suà sanguis eritque bonus. Infrigidant, laxant, multüm prosunt tibi, pruna. Persica cum musto vobis datur ordine justo. 126 Sumere sic est mos: nucibus sociando racemos. Passula non spleni, tussi valet, est bona reni. Scrofa, tumor, glandes, ficüs cataplasmate cedit, Junge papaver ei confracta foris tenet ossa. 130 Pediculos, veneremque facit, s",
+      "n_words": 179
+    },
+    {
+      "id": "REG_CROKE_473",
+      "raw_text": "Cur moriatur homo cui salvia crescit in horto? Contra vim mortis non est medicamen in hortis. Salvia confortat nervos, manuumque tremores Tollit, et ejus ope febris acuta fugit. 180 Salvia, castoreum, lavendula, premula veris, Nastur: athanasia, sanant paralytica membra. Salvia salvatrix, nature consiliatrix.",
+      "n_words": 43
+    },
+    {
+      "id": "REG_CROKE_729",
+      "raw_text": "De cholerà lzso spinachia convenit ori, Et stomachis calidis hujus valet esus amari. 130",
+      "n_words": 14
+    },
+    {
+      "id": "REG_CROKE_785",
+      "raw_text": "Tussim effimeras ethicam tibi pinea tollit. Mascula plus tussi valet, et passiva dolori.",
+      "n_words": 13
+    },
+    {
+      "id": "REG_CROKE_821",
+      "raw_text": "calidiora ingrediatur—quandoquidem sanguis et spiritus vehementius incitati, ne dissipentur aut incalescant, sedandi compremendique sunt. Yet this seems contrary to the doctrine delivered afterwards in the Schola itself, 1. 331, Frigida vitabis, quia sunt inimica minutis, unless, in one case, a moderate coolness be understood, in the other, positive cold. Upon the whole I adhere to the third explication.",
+      "n_words": 58
+    },
+    {
+      "id": "REG_CROKE_873",
+      "raw_text": "Manantemque potest naris retinere cruorem Intüs si nares ungas medicamine tali. Contractas vulvas succo curabis eodem,",
+      "n_words": 16
+    }
+  ]
+}

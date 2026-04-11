@@ -1,0 +1,8563 @@
+{
+  "_meta": {
+    "description": "Master ingredient list from AN+DALME+Lylye",
+    "count": 492,
+    "version": "2026-04-11"
+  },
+  "I_myrrha": {
+    "ref_id": "I_myrrha",
+    "canonical": "myrrha",
+    "forms": {
+      "latin": [
+        "myrrha"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 72,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_amomum": {
+    "ref_id": "I_amomum",
+    "canonical": "amomum",
+    "forms": {
+      "latin": [
+        "amomum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 71
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_aqua": {
+    "ref_id": "I_aqua",
+    "canonical": "aqua",
+    "forms": {
+      "latin": [
+        "aqua"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 59,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_cinnamomum": {
+    "ref_id": "I_cinnamomum",
+    "canonical": "cinnamomum",
+    "forms": {
+      "latin": [
+        "cinnamomum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 52,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "calidum_3_siccum_3",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_aloe": {
+    "ref_id": "I_aloe",
+    "canonical": "aloe",
+    "forms": {
+      "latin": [
+        "aloe"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 52,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_vinum": {
+    "ref_id": "I_vinum",
+    "canonical": "vinum",
+    "forms": {
+      "latin": [
+        "vinum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 51
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_crocus": {
+    "ref_id": "I_crocus",
+    "canonical": "crocus",
+    "forms": {
+      "latin": [
+        "crocus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 50
+    },
+    "galenic": "calidum_1_siccum_1",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_anisum": {
+    "ref_id": "I_anisum",
+    "canonical": "anisum",
+    "forms": {
+      "latin": [
+        "anisum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 43,
+      "DALME": 1
+    },
+    "galenic": "calidum_x_siccum_x",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_zingiber": {
+    "ref_id": "I_zingiber",
+    "canonical": "zingiber",
+    "forms": {
+      "latin": [
+        "zingiber"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 41,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_mastix": {
+    "ref_id": "I_mastix",
+    "canonical": "mastix",
+    "forms": {
+      "latin": [
+        "mastix"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 41,
+      "Lylye": 0
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_balsamum": {
+    "ref_id": "I_balsamum",
+    "canonical": "balsamum",
+    "forms": {
+      "latin": [
+        "balsamum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 41
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_foeniculum": {
+    "ref_id": "I_foeniculum",
+    "canonical": "foeniculum",
+    "forms": {
+      "latin": [
+        "foeniculum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 41,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_rosa": {
+    "ref_id": "I_rosa",
+    "canonical": "rosa",
+    "forms": {
+      "latin": [
+        "rosa"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 40,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "frigidum_1_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_cardamomum": {
+    "ref_id": "I_cardamomum",
+    "canonical": "cardamomum",
+    "forms": {
+      "latin": [
+        "cardamomum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 40,
+      "DALME": 1
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_lavandula": {
+    "ref_id": "I_lavandula",
+    "canonical": "lavandula",
+    "forms": {
+      "latin": [
+        "lavandula"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 39,
+      "DALME": 1
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_asarum": {
+    "ref_id": "I_asarum",
+    "canonical": "asarum",
+    "forms": {
+      "latin": [
+        "asarum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 39
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_caryophyllus": {
+    "ref_id": "I_caryophyllus",
+    "canonical": "caryophyllus",
+    "forms": {
+      "latin": [
+        "caryophyllus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 38,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_linum": {
+    "ref_id": "I_linum",
+    "canonical": "linum",
+    "forms": {
+      "latin": [
+        "linum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 36,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_daucus": {
+    "ref_id": "I_daucus",
+    "canonical": "daucus",
+    "forms": {
+      "latin": [
+        "daucus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 35,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_costus": {
+    "ref_id": "I_costus",
+    "canonical": "costus",
+    "forms": {
+      "latin": [
+        "costus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 33,
+      "DALME": 1
+    },
+    "galenic": "calidum_3_siccum_3",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_storax_calamita": {
+    "ref_id": "I_storax_calamita",
+    "canonical": "storax_calamita",
+    "forms": {
+      "latin": [
+        "storax_calamita"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 33
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_apium": {
+    "ref_id": "I_apium",
+    "canonical": "apium",
+    "forms": {
+      "latin": [
+        "apium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 32,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "calidum_3_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_opium": {
+    "ref_id": "I_opium",
+    "canonical": "opium",
+    "forms": {
+      "latin": [
+        "opium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 31,
+      "Lylye": 0
+    },
+    "galenic": "frigidum_4_siccum_4",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_viola": {
+    "ref_id": "I_viola",
+    "canonical": "viola",
+    "forms": {
+      "latin": [
+        "viola"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 28,
+      "Lylye": 0
+    },
+    "galenic": "frigidum_1_humidum_1",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_mel": {
+    "ref_id": "I_mel",
+    "canonical": "mel",
+    "forms": {
+      "latin": [
+        "mel"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 27,
+      "Lylye": 0
+    },
+    "galenic": "calidum_1_siccum_1",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_storax": {
+    "ref_id": "I_storax",
+    "canonical": "storax",
+    "forms": {
+      "latin": [
+        "storax"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 27,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_squinanthum": {
+    "ref_id": "I_squinanthum",
+    "canonical": "squinanthum",
+    "forms": {
+      "latin": [
+        "squinanthum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 27,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_glycyrrhiza": {
+    "ref_id": "I_glycyrrhiza",
+    "canonical": "glycyrrhiza",
+    "forms": {
+      "latin": [
+        "glycyrrhiza"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 27,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "calidum_temp._humidum_temp.",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_carpobalsamum": {
+    "ref_id": "I_carpobalsamum",
+    "canonical": "carpobalsamum",
+    "forms": {
+      "latin": [
+        "carpobalsamum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 25
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_pyrethrum": {
+    "ref_id": "I_pyrethrum",
+    "canonical": "pyrethrum",
+    "forms": {
+      "latin": [
+        "pyrethrum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 25
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_petroselinum": {
+    "ref_id": "I_petroselinum",
+    "canonical": "petroselinum",
+    "forms": {
+      "latin": [
+        "petroselinum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 25,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "calidum_3_siccum_3",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_folium": {
+    "ref_id": "I_folium",
+    "canonical": "folium",
+    "forms": {
+      "latin": [
+        "folium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 25
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_thymus": {
+    "ref_id": "I_thymus",
+    "canonical": "thymus",
+    "forms": {
+      "latin": [
+        "thymus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 24
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_euphorbia": {
+    "ref_id": "I_euphorbia",
+    "canonical": "euphorbia",
+    "forms": {
+      "latin": [
+        "euphorbia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 23,
+      "DALME": 1
+    },
+    "galenic": "calidum_4_siccum_4",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_ruta": {
+    "ref_id": "I_ruta",
+    "canonical": "ruta",
+    "forms": {
+      "latin": [
+        "ruta"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 23
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_nardus": {
+    "ref_id": "I_nardus",
+    "canonical": "nardus",
+    "forms": {
+      "latin": [
+        "nardus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 23,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_galanga": {
+    "ref_id": "I_galanga",
+    "canonical": "galanga",
+    "forms": {
+      "latin": [
+        "galanga"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 22,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_olibanum": {
+    "ref_id": "I_olibanum",
+    "canonical": "olibanum",
+    "forms": {
+      "latin": [
+        "olibanum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 21,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_hyoscyamus": {
+    "ref_id": "I_hyoscyamus",
+    "canonical": "hyoscyamus",
+    "forms": {
+      "latin": [
+        "hyoscyamus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 21,
+      "DALME": 1
+    },
+    "galenic": "frigidum_3_siccum_3",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_mandragora": {
+    "ref_id": "I_mandragora",
+    "canonical": "mandragora",
+    "forms": {
+      "latin": [
+        "mandragora"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 21,
+      "DALME": 1
+    },
+    "galenic": "frigidum_?_siccum_?",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_aristolochia": {
+    "ref_id": "I_aristolochia",
+    "canonical": "aristolochia",
+    "forms": {
+      "latin": [
+        "aristolochia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 21,
+      "DALME": 1
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_ammi": {
+    "ref_id": "I_ammi",
+    "canonical": "ammi",
+    "forms": {
+      "latin": [
+        "ammi"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 21,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_acorus": {
+    "ref_id": "I_acorus",
+    "canonical": "acorus",
+    "forms": {
+      "latin": [
+        "acorus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 21,
+      "DALME": 1
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_lignum_aloes": {
+    "ref_id": "I_lignum_aloes",
+    "canonical": "lignum_aloes",
+    "forms": {
+      "latin": [
+        "lignum_aloes"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 19,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_rhaponticum": {
+    "ref_id": "I_rhaponticum",
+    "canonical": "rhaponticum",
+    "forms": {
+      "latin": [
+        "rhaponticum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 19,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_levisticum": {
+    "ref_id": "I_levisticum",
+    "canonical": "levisticum",
+    "forms": {
+      "latin": [
+        "levisticum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 19
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_cera": {
+    "ref_id": "I_cera",
+    "canonical": "cera",
+    "forms": {
+      "latin": [
+        "cera"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 19,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_gentiana": {
+    "ref_id": "I_gentiana",
+    "canonical": "gentiana",
+    "forms": {
+      "latin": [
+        "gentiana"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 18,
+      "DALME": 1
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_piper_album": {
+    "ref_id": "I_piper_album",
+    "canonical": "piper_album",
+    "forms": {
+      "latin": [
+        "piper_album"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 17
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_rhabarbarum": {
+    "ref_id": "I_rhabarbarum",
+    "canonical": "rhabarbarum",
+    "forms": {
+      "latin": [
+        "rhabarbarum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 17,
+      "DALME": 1
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_oleum": {
+    "ref_id": "I_oleum",
+    "canonical": "oleum",
+    "forms": {
+      "latin": [
+        "oleum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 17
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_cassia_lignea": {
+    "ref_id": "I_cassia_lignea",
+    "canonical": "cassia_lignea",
+    "forms": {
+      "latin": [
+        "cassia_lignea"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 16,
+      "DALME": 1
+    },
+    "galenic": "calidum_x_siccum_x",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_xylobalsamum": {
+    "ref_id": "I_xylobalsamum",
+    "canonical": "xylobalsamum",
+    "forms": {
+      "latin": [
+        "xylobalsamum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 16
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_calamus_aromaticus": {
+    "ref_id": "I_calamus_aromaticus",
+    "canonical": "calamus_aromaticus",
+    "forms": {
+      "latin": [
+        "calamus_aromaticus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 16,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_pulegium": {
+    "ref_id": "I_pulegium",
+    "canonical": "pulegium",
+    "forms": {
+      "latin": [
+        "pulegium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 16
+    },
+    "galenic": "calidum_3_siccum_3",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_nardus_celtica": {
+    "ref_id": "I_nardus_celtica",
+    "canonical": "nardus_celtica",
+    "forms": {
+      "latin": [
+        "nardus_celtica"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 16
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_sagapenum": {
+    "ref_id": "I_sagapenum",
+    "canonical": "sagapenum",
+    "forms": {
+      "latin": [
+        "sagapenum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 16
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_senna": {
+    "ref_id": "I_senna",
+    "canonical": "senna",
+    "forms": {
+      "latin": [
+        "senna"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 16,
+      "Lylye": 0
+    },
+    "galenic": "calidum_x_siccum_x",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_corallium": {
+    "ref_id": "I_corallium",
+    "canonical": "corallium",
+    "forms": {
+      "latin": [
+        "corallium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 15
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_cuminum": {
+    "ref_id": "I_cuminum",
+    "canonical": "cuminum",
+    "forms": {
+      "latin": [
+        "cuminum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 15,
+      "DALME": 1
+    },
+    "galenic": "calidum_3_siccum_3",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_polypodium": {
+    "ref_id": "I_polypodium",
+    "canonical": "polypodium",
+    "forms": {
+      "latin": [
+        "polypodium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 15,
+      "DALME": 1
+    },
+    "galenic": "calidum_x_siccum_x",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_camphora": {
+    "ref_id": "I_camphora",
+    "canonical": "camphora",
+    "forms": {
+      "latin": [
+        "camphora"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 15,
+      "DALME": 1
+    },
+    "galenic": "frigidum_3_siccum_3",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_carum": {
+    "ref_id": "I_carum",
+    "canonical": "carum",
+    "forms": {
+      "latin": [
+        "carum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 14,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_ebur": {
+    "ref_id": "I_ebur",
+    "canonical": "ebur",
+    "forms": {
+      "latin": [
+        "ebur"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 14
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_agaricus": {
+    "ref_id": "I_agaricus",
+    "canonical": "agaricus",
+    "forms": {
+      "latin": [
+        "agaricus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 14,
+      "DALME": 1
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_papaver": {
+    "ref_id": "I_papaver",
+    "canonical": "papaver",
+    "forms": {
+      "latin": [
+        "papaver"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 14,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_cassia_fistula": {
+    "ref_id": "I_cassia_fistula",
+    "canonical": "cassia_fistula",
+    "forms": {
+      "latin": [
+        "cassia_fistula"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 13,
+      "Lylye": 0
+    },
+    "galenic": "calidum_x_humidum_x",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_hyssopus": {
+    "ref_id": "I_hyssopus",
+    "canonical": "hyssopus",
+    "forms": {
+      "latin": [
+        "hyssopus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 13
+    },
+    "galenic": "calidum_3_siccum_3",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_galbanum": {
+    "ref_id": "I_galbanum",
+    "canonical": "galbanum",
+    "forms": {
+      "latin": [
+        "galbanum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 13,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_epithymum": {
+    "ref_id": "I_epithymum",
+    "canonical": "epithymum",
+    "forms": {
+      "latin": [
+        "epithymum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 13,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_saxifraga": {
+    "ref_id": "I_saxifraga",
+    "canonical": "saxifraga",
+    "forms": {
+      "latin": [
+        "saxifraga"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 12
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_piper_longum": {
+    "ref_id": "I_piper_longum",
+    "canonical": "piper_longum",
+    "forms": {
+      "latin": [
+        "piper_longum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 11
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_tragacanthum": {
+    "ref_id": "I_tragacanthum",
+    "canonical": "tragacanthum",
+    "forms": {
+      "latin": [
+        "tragacanthum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 11,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_paeonia": {
+    "ref_id": "I_paeonia",
+    "canonical": "paeonia",
+    "forms": {
+      "latin": [
+        "paeonia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 11,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_piper_nigrum": {
+    "ref_id": "I_piper_nigrum",
+    "canonical": "piper_nigrum",
+    "forms": {
+      "latin": [
+        "piper_nigrum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 11
+    },
+    "galenic": "calidum_4_siccum_4",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_ammoniacum": {
+    "ref_id": "I_ammoniacum",
+    "canonical": "ammoniacum",
+    "forms": {
+      "latin": [
+        "ammoniacum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 11,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_berberis": {
+    "ref_id": "I_berberis",
+    "canonical": "berberis",
+    "forms": {
+      "latin": [
+        "berberis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 11
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_diagridium": {
+    "ref_id": "I_diagridium",
+    "canonical": "diagridium",
+    "forms": {
+      "latin": [
+        "diagridium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 11,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_portulaca": {
+    "ref_id": "I_portulaca",
+    "canonical": "portulaca",
+    "forms": {
+      "latin": [
+        "portulaca"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 11,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_opopanax": {
+    "ref_id": "I_opopanax",
+    "canonical": "opopanax",
+    "forms": {
+      "latin": [
+        "opopanax"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 10
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_absinthium": {
+    "ref_id": "I_absinthium",
+    "canonical": "absinthium",
+    "forms": {
+      "latin": [
+        "absinthium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 10,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_siler": {
+    "ref_id": "I_siler",
+    "canonical": "siler",
+    "forms": {
+      "latin": [
+        "siler"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 9,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_chamaedrys": {
+    "ref_id": "I_chamaedrys",
+    "canonical": "chamaedrys",
+    "forms": {
+      "latin": [
+        "chamaedrys"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 9,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_myrobalanus": {
+    "ref_id": "I_myrobalanus",
+    "canonical": "myrobalanus",
+    "forms": {
+      "latin": [
+        "myrobalanus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 9,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_calamintha": {
+    "ref_id": "I_calamintha",
+    "canonical": "calamintha",
+    "forms": {
+      "latin": [
+        "calamintha"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 9,
+      "Lylye": 0
+    },
+    "galenic": "calidum_3_siccum_3",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_alipta": {
+    "ref_id": "I_alipta",
+    "canonical": "alipta",
+    "forms": {
+      "latin": [
+        "alipta"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 8
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_origanum": {
+    "ref_id": "I_origanum",
+    "canonical": "origanum",
+    "forms": {
+      "latin": [
+        "origanum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 8
+    },
+    "galenic": "calidum_3_siccum_3",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_margarita": {
+    "ref_id": "I_margarita",
+    "canonical": "margarita",
+    "forms": {
+      "latin": [
+        "margarita"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 7
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_laurus": {
+    "ref_id": "I_laurus",
+    "canonical": "laurus",
+    "forms": {
+      "latin": [
+        "laurus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 6
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_bdellium": {
+    "ref_id": "I_bdellium",
+    "canonical": "bdellium",
+    "forms": {
+      "latin": [
+        "bdellium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 6,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_bolus": {
+    "ref_id": "I_bolus",
+    "canonical": "bolus",
+    "forms": {
+      "latin": [
+        "bolus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 6
+    },
+    "galenic": "frigidum_1_siccum_1",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_lacca": {
+    "ref_id": "I_lacca",
+    "canonical": "lacca",
+    "forms": {
+      "latin": [
+        "lacca"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 6
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_lactuca": {
+    "ref_id": "I_lactuca",
+    "canonical": "lactuca",
+    "forms": {
+      "latin": [
+        "lactuca"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 6,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "frigidum_x_humidum_x",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_plantago": {
+    "ref_id": "I_plantago",
+    "canonical": "plantago",
+    "forms": {
+      "latin": [
+        "plantago"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 5,
+      "DALME": 1
+    },
+    "galenic": "frigidum_2_siccum_2",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_centaurea": {
+    "ref_id": "I_centaurea",
+    "canonical": "centaurea",
+    "forms": {
+      "latin": [
+        "centaurea"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 5
+    },
+    "galenic": "calidum_3_siccum_3",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_prunus": {
+    "ref_id": "I_prunus",
+    "canonical": "prunus",
+    "forms": {
+      "latin": [
+        "prunus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 5
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_santalum": {
+    "ref_id": "I_santalum",
+    "canonical": "santalum",
+    "forms": {
+      "latin": [
+        "santalum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 5,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "calidum_3_siccum_3",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_acetum": {
+    "ref_id": "I_acetum",
+    "canonical": "acetum",
+    "forms": {
+      "latin": [
+        "acetum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 5,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_colocynthis": {
+    "ref_id": "I_colocynthis",
+    "canonical": "colocynthis",
+    "forms": {
+      "latin": [
+        "colocynthis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 5,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_tamarindus": {
+    "ref_id": "I_tamarindus",
+    "canonical": "tamarindus",
+    "forms": {
+      "latin": [
+        "tamarindus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 4,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_psyllium": {
+    "ref_id": "I_psyllium",
+    "canonical": "psyllium",
+    "forms": {
+      "latin": [
+        "psyllium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 4
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_mumia": {
+    "ref_id": "I_mumia",
+    "canonical": "mumia",
+    "forms": {
+      "latin": [
+        "mumia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 4,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_turbith": {
+    "ref_id": "I_turbith",
+    "canonical": "turbith",
+    "forms": {
+      "latin": [
+        "turbith"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 4,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_nigella": {
+    "ref_id": "I_nigella",
+    "canonical": "nigella",
+    "forms": {
+      "latin": [
+        "nigella"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 4,
+      "DALME": 1
+    },
+    "galenic": "calidum_3_siccum_3",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_abrotanum": {
+    "ref_id": "I_abrotanum",
+    "canonical": "abrotanum",
+    "forms": {
+      "latin": [
+        "abrotanum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 3
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_zedoaria": {
+    "ref_id": "I_zedoaria",
+    "canonical": "zedoaria",
+    "forms": {
+      "latin": [
+        "zedoaria"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 3,
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME"
+    ]
+  },
+  "I_salvia": {
+    "ref_id": "I_salvia",
+    "canonical": "salvia",
+    "forms": {
+      "latin": [
+        "salvia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 3
+    },
+    "galenic": "calidum_2_siccum_2",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_cerusa": {
+    "ref_id": "I_cerusa",
+    "canonical": "cerusa",
+    "forms": {
+      "latin": [
+        "cerusa"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 3,
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_sempervivum": {
+    "ref_id": "I_sempervivum",
+    "canonical": "sempervivum",
+    "forms": {
+      "latin": [
+        "sempervivum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 3
+    },
+    "galenic": "frigidum_4_unknown_4",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_nymphaea": {
+    "ref_id": "I_nymphaea",
+    "canonical": "nymphaea",
+    "forms": {
+      "latin": [
+        "nymphaea"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 3,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_satyrion": {
+    "ref_id": "I_satyrion",
+    "canonical": "satyrion",
+    "forms": {
+      "latin": [
+        "satyrion"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 2
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_curcuma": {
+    "ref_id": "I_curcuma",
+    "canonical": "curcuma",
+    "forms": {
+      "latin": [
+        "curcuma"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 2
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_borago": {
+    "ref_id": "I_borago",
+    "canonical": "borago",
+    "forms": {
+      "latin": [
+        "borago"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 2,
+      "Lylye": 0
+    },
+    "galenic": "calidum_1_humidum_1",
+    "sources_attested": [
+      "AN",
+      "Lylye"
+    ]
+  },
+  "I_morus": {
+    "ref_id": "I_morus",
+    "canonical": "morus",
+    "forms": {
+      "latin": [
+        "morus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "AN": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_??aqua_apii": {
+    "ref_id": "I_??aqua_apii",
+    "canonical": "??aqua apii",
+    "forms": {
+      "latin": [
+        "??aqua apii"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_arthimisie": {
+    "ref_id": "I_??aqua_arthimisie",
+    "canonical": "??aqua arthimisie",
+    "forms": {
+      "latin": [
+        "??aqua arthimisie"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_ascetose": {
+    "ref_id": "I_??aqua_ascetose",
+    "canonical": "??aqua ascetose",
+    "forms": {
+      "latin": [
+        "??aqua ascetose"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_borraginis": {
+    "ref_id": "I_??aqua_borraginis",
+    "canonical": "??aqua borraginis",
+    "forms": {
+      "latin": [
+        "??aqua borraginis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_bortulasse": {
+    "ref_id": "I_??aqua_bortulasse",
+    "canonical": "??aqua bortulasse",
+    "forms": {
+      "latin": [
+        "??aqua bortulasse"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_brotamy": {
+    "ref_id": "I_??aqua_brotamy",
+    "canonical": "??aqua brotamy",
+    "forms": {
+      "latin": [
+        "??aqua brotamy"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_buglosse": {
+    "ref_id": "I_??aqua_buglosse",
+    "canonical": "??aqua buglosse",
+    "forms": {
+      "latin": [
+        "??aqua buglosse"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_burce_pastoris": {
+    "ref_id": "I_??aqua_burce_pastoris",
+    "canonical": "??aqua burce pastoris",
+    "forms": {
+      "latin": [
+        "??aqua burce pastoris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_capilliveneris": {
+    "ref_id": "I_??aqua_capilliveneris",
+    "canonical": "??aqua capilliveneris",
+    "forms": {
+      "latin": [
+        "??aqua capilliveneris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_caprifolii": {
+    "ref_id": "I_??aqua_caprifolii",
+    "canonical": "??aqua caprifolii",
+    "forms": {
+      "latin": [
+        "??aqua caprifolii"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_crete_marine": {
+    "ref_id": "I_??aqua_crete_marine",
+    "canonical": "??aqua crete marine",
+    "forms": {
+      "latin": [
+        "??aqua crete marine"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_cucurbite": {
+    "ref_id": "I_??aqua_cucurbite",
+    "canonical": "??aqua cucurbite",
+    "forms": {
+      "latin": [
+        "??aqua cucurbite"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_cycoree": {
+    "ref_id": "I_??aqua_cycoree",
+    "canonical": "??aqua cycoree",
+    "forms": {
+      "latin": [
+        "??aqua cycoree"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_dagriotas": {
+    "ref_id": "I_??aqua_dagriotas",
+    "canonical": "??aqua dagriotas",
+    "forms": {
+      "latin": [
+        "??aqua dagriotas"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_darbosse": {
+    "ref_id": "I_??aqua_darbosse",
+    "canonical": "??aqua darbosse",
+    "forms": {
+      "latin": [
+        "??aqua darbosse"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_de_sorbas": {
+    "ref_id": "I_??aqua_de_sorbas",
+    "canonical": "??aqua de sorbas",
+    "forms": {
+      "latin": [
+        "??aqua de sorbas"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_endivie": {
+    "ref_id": "I_??aqua_endivie",
+    "canonical": "??aqua endivie",
+    "forms": {
+      "latin": [
+        "??aqua endivie"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_enulle_campane": {
+    "ref_id": "I_??aqua_enulle_campane",
+    "canonical": "??aqua enulle campane",
+    "forms": {
+      "latin": [
+        "??aqua enulle campane"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_escabiose": {
+    "ref_id": "I_??aqua_escabiose",
+    "canonical": "??aqua escabiose",
+    "forms": {
+      "latin": [
+        "??aqua escabiose"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_feniculi": {
+    "ref_id": "I_??aqua_feniculi",
+    "canonical": "??aqua feniculi",
+    "forms": {
+      "latin": [
+        "??aqua feniculi"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_florum_malve": {
+    "ref_id": "I_??aqua_florum_malve",
+    "canonical": "??aqua florum malve",
+    "forms": {
+      "latin": [
+        "??aqua florum malve"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_fumis_terre": {
+    "ref_id": "I_??aqua_fumis_terre",
+    "canonical": "??aqua fumis terre",
+    "forms": {
+      "latin": [
+        "??aqua fumis terre"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_fummis_terre": {
+    "ref_id": "I_??aqua_fummis_terre",
+    "canonical": "??aqua fummis terre",
+    "forms": {
+      "latin": [
+        "??aqua fummis terre"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_lenticy": {
+    "ref_id": "I_??aqua_lenticy",
+    "canonical": "??aqua lenticy",
+    "forms": {
+      "latin": [
+        "??aqua lenticy"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_mellice": {
+    "ref_id": "I_??aqua_mellice",
+    "canonical": "??aqua mellice",
+    "forms": {
+      "latin": [
+        "??aqua mellice"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_mente": {
+    "ref_id": "I_??aqua_mente",
+    "canonical": "??aqua mente",
+    "forms": {
+      "latin": [
+        "??aqua mente"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_millisol": {
+    "ref_id": "I_??aqua_millisol",
+    "canonical": "??aqua millisol",
+    "forms": {
+      "latin": [
+        "??aqua millisol"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_nenupharis": {
+    "ref_id": "I_??aqua_nenupharis",
+    "canonical": "??aqua nenupharis",
+    "forms": {
+      "latin": [
+        "??aqua nenupharis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_nucis": {
+    "ref_id": "I_??aqua_nucis",
+    "canonical": "??aqua nucis",
+    "forms": {
+      "latin": [
+        "??aqua nucis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_nucum": {
+    "ref_id": "I_??aqua_nucum",
+    "canonical": "??aqua nucum",
+    "forms": {
+      "latin": [
+        "??aqua nucum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_ortice": {
+    "ref_id": "I_??aqua_ortice",
+    "canonical": "??aqua ortice",
+    "forms": {
+      "latin": [
+        "??aqua ortice"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_pimpinelle": {
+    "ref_id": "I_??aqua_pimpinelle",
+    "canonical": "??aqua pimpinelle",
+    "forms": {
+      "latin": [
+        "??aqua pimpinelle"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_quinque_radicibus": {
+    "ref_id": "I_??aqua_quinque_radicibus",
+    "canonical": "??aqua quinque radicibus",
+    "forms": {
+      "latin": [
+        "??aqua quinque radicibus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_raphani": {
+    "ref_id": "I_??aqua_raphani",
+    "canonical": "??aqua raphani",
+    "forms": {
+      "latin": [
+        "??aqua raphani"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_ruthe": {
+    "ref_id": "I_??aqua_ruthe",
+    "canonical": "??aqua ruthe",
+    "forms": {
+      "latin": [
+        "??aqua ruthe"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_salvie": {
+    "ref_id": "I_??aqua_salvie",
+    "canonical": "??aqua salvie",
+    "forms": {
+      "latin": [
+        "??aqua salvie"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_sambuci": {
+    "ref_id": "I_??aqua_sambuci",
+    "canonical": "??aqua sambuci",
+    "forms": {
+      "latin": [
+        "??aqua sambuci"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_sansucy": {
+    "ref_id": "I_??aqua_sansucy",
+    "canonical": "??aqua sansucy",
+    "forms": {
+      "latin": [
+        "??aqua sansucy"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_scabiose": {
+    "ref_id": "I_??aqua_scabiose",
+    "canonical": "??aqua scabiose",
+    "forms": {
+      "latin": [
+        "??aqua scabiose"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_scariole": {
+    "ref_id": "I_??aqua_scariole",
+    "canonical": "??aqua scariole",
+    "forms": {
+      "latin": [
+        "??aqua scariole"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_scolopendrie": {
+    "ref_id": "I_??aqua_scolopendrie",
+    "canonical": "??aqua scolopendrie",
+    "forms": {
+      "latin": [
+        "??aqua scolopendrie"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_solatri": {
+    "ref_id": "I_??aqua_solatri",
+    "canonical": "??aqua solatri",
+    "forms": {
+      "latin": [
+        "??aqua solatri"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_thamaretis": {
+    "ref_id": "I_??aqua_thamaretis",
+    "canonical": "??aqua thamaretis",
+    "forms": {
+      "latin": [
+        "??aqua thamaretis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_thunicis": {
+    "ref_id": "I_??aqua_thunicis",
+    "canonical": "??aqua thunicis",
+    "forms": {
+      "latin": [
+        "??aqua thunicis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_tymy": {
+    "ref_id": "I_??aqua_tymy",
+    "canonical": "??aqua tymy",
+    "forms": {
+      "latin": [
+        "??aqua tymy"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua_ysopi": {
+    "ref_id": "I_??aqua_ysopi",
+    "canonical": "??aqua ysopi",
+    "forms": {
+      "latin": [
+        "??aqua ysopi"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??xvii_potz_per_tenir_enguensplus_vi_jarretas_persas_obra_de_valenciaplus_vi_jarretas_obra_de_valenciaplus_ii_jarretas_obra_de_valencia_per_tenir_confiturasplus_xxxvi_potz_petitz_obra_de_valencia_per_tenir_opiatas_de_ii": {
+    "ref_id": "I_??xvii_potz_per_tenir_enguensplus_vi_jarretas_persas_obra_de_valenciaplus_vi_jarretas_obra_de_valenciaplus_ii_jarretas_obra_de_valencia_per_tenir_confiturasplus_xxxvi_potz_petitz_obra_de_valencia_per_tenir_opiatas_de_ii",
+    "canonical": "??xvii potz per tenir enguensplus vi jarretas persas obra de valenciaplus vi jarretas obra de valenciaplus ii jarretas obra de valencia per tenir confiturasplus xxxvi potz petitz obra de valencia per tenir opiatas de ii",
+    "forms": {
+      "latin": [
+        "??xvii potz per tenir enguensplus vi jarretas persas obra de valenciaplus vi jarretas obra de valenciaplus ii jarretas obra de valencia per tenir confiturasplus xxxvi potz petitz obra de valencia per tenir opiatas de ii"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cart_do_poncyre_confitz_en_mel": {
+    "ref_id": "I_??cart_do_poncyre_confitz_en_mel",
+    "canonical": "??cart do poncyre confitz en mel",
+    "forms": {
+      "latin": [
+        "??cart do poncyre confitz en mel"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??codonhs_confitz_en_mel": {
+    "ref_id": "I_??codonhs_confitz_en_mel",
+    "canonical": "??codonhs confitz en mel",
+    "forms": {
+      "latin": [
+        "??codonhs confitz en mel"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cogordas_confitas_en_sucre": {
+    "ref_id": "I_??cogordas_confitas_en_sucre",
+    "canonical": "??cogordas confitas en sucre",
+    "forms": {
+      "latin": [
+        "??cogordas confitas en sucre"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??confituras_mescladas_en_mel": {
+    "ref_id": "I_??confituras_mescladas_en_mel",
+    "canonical": "??confituras mescladas en mel",
+    "forms": {
+      "latin": [
+        "??confituras mescladas en mel"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??datils_confitz_en_sucre": {
+    "ref_id": "I_??datils_confitz_en_sucre",
+    "canonical": "??datils confitz en sucre",
+    "forms": {
+      "latin": [
+        "??datils confitz en sucre"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??herangez_confitz_en_mel": {
+    "ref_id": "I_??herangez_confitz_en_mel",
+    "canonical": "??herangez confitz en mel",
+    "forms": {
+      "latin": [
+        "??herangez confitz en mel"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??mel_anthozati": {
+    "ref_id": "I_??mel_anthozati",
+    "canonical": "??mel anthozati",
+    "forms": {
+      "latin": [
+        "??mel anthozati"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??mel_passularum": {
+    "ref_id": "I_??mel_passularum",
+    "canonical": "??mel passularum",
+    "forms": {
+      "latin": [
+        "??mel passularum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??mel_rozat": {
+    "ref_id": "I_??mel_rozat",
+    "canonical": "??mel rozat",
+    "forms": {
+      "latin": [
+        "??mel rozat"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??mel_vyolat": {
+    "ref_id": "I_??mel_vyolat",
+    "canonical": "??mel vyolat",
+    "forms": {
+      "latin": [
+        "??mel vyolat"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??nos_confites_en_mel": {
+    "ref_id": "I_??nos_confites_en_mel",
+    "canonical": "??nos confites en mel",
+    "forms": {
+      "latin": [
+        "??nos confites en mel"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pomas_confitas_en_sucre": {
+    "ref_id": "I_??pomas_confitas_en_sucre",
+    "canonical": "??pomas confitas en sucre",
+    "forms": {
+      "latin": [
+        "??pomas confitas en sucre"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??poncires_confitz_en_sucre": {
+    "ref_id": "I_??poncires_confitz_en_sucre",
+    "canonical": "??poncires confitz en sucre",
+    "forms": {
+      "latin": [
+        "??poncires confitz en sucre"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??una_autra_bacina_per_portar_confitures": {
+    "ref_id": "I_??una_autra_bacina_per_portar_confitures",
+    "canonical": "??una autra bacina per portar confitures",
+    "forms": {
+      "latin": [
+        "??una autra bacina per portar confitures"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??conserva_borraginis": {
+    "ref_id": "I_??conserva_borraginis",
+    "canonical": "??conserva borraginis",
+    "forms": {
+      "latin": [
+        "??conserva borraginis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??conserva_buglosse": {
+    "ref_id": "I_??conserva_buglosse",
+    "canonical": "??conserva buglosse",
+    "forms": {
+      "latin": [
+        "??conserva buglosse"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??conserva_capilliveneris": {
+    "ref_id": "I_??conserva_capilliveneris",
+    "canonical": "??conserva capilliveneris",
+    "forms": {
+      "latin": [
+        "??conserva capilliveneris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??conserva_cymfiti": {
+    "ref_id": "I_??conserva_cymfiti",
+    "canonical": "??conserva cymfiti",
+    "forms": {
+      "latin": [
+        "??conserva cymfiti"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??conserva_enule_campane": {
+    "ref_id": "I_??conserva_enule_campane",
+    "canonical": "??conserva enule campane",
+    "forms": {
+      "latin": [
+        "??conserva enule campane"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??conserva_nenupharis": {
+    "ref_id": "I_??conserva_nenupharis",
+    "canonical": "??conserva nenupharis",
+    "forms": {
+      "latin": [
+        "??conserva nenupharis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??conserva_rosarum": {
+    "ref_id": "I_??conserva_rosarum",
+    "canonical": "??conserva rosarum",
+    "forms": {
+      "latin": [
+        "??conserva rosarum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??conserva_salterionis": {
+    "ref_id": "I_??conserva_salterionis",
+    "canonical": "??conserva salterionis",
+    "forms": {
+      "latin": [
+        "??conserva salterionis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??conserva_scolopendrie": {
+    "ref_id": "I_??conserva_scolopendrie",
+    "canonical": "??conserva scolopendrie",
+    "forms": {
+      "latin": [
+        "??conserva scolopendrie"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??conserva_violarum": {
+    "ref_id": "I_??conserva_violarum",
+    "canonical": "??conserva violarum",
+    "forms": {
+      "latin": [
+        "??conserva violarum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??conserva_yrlngonsr": {
+    "ref_id": "I_??conserva_yrlngonsr",
+    "canonical": "??conserva yrlngonsr",
+    "forms": {
+      "latin": [
+        "??conserva yrlngonsr"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrop_de_sucre": {
+    "ref_id": "I_??cyrop_de_sucre",
+    "canonical": "??cyrop de sucre",
+    "forms": {
+      "latin": [
+        "??cyrop de sucre"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrop_de_sucre_en_una_jarra": {
+    "ref_id": "I_??cyrop_de_sucre_en_una_jarra",
+    "canonical": "??cyrop de sucre en una jarra",
+    "forms": {
+      "latin": [
+        "??cyrop de sucre en una jarra"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyropus_rosarum": {
+    "ref_id": "I_??cyropus_rosarum",
+    "canonical": "??cyropus rosarum",
+    "forms": {
+      "latin": [
+        "??cyropus rosarum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_acethose_simplex": {
+    "ref_id": "I_??cyrupus_acethose_simplex",
+    "canonical": "??cyrupus acethose simplex",
+    "forms": {
+      "latin": [
+        "??cyrupus acethose simplex"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_borraginis": {
+    "ref_id": "I_??cyrupus_borraginis",
+    "canonical": "??cyrupus borraginis",
+    "forms": {
+      "latin": [
+        "??cyrupus borraginis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_capilliveneris": {
+    "ref_id": "I_??cyrupus_capilliveneris",
+    "canonical": "??cyrupus capilliveneris",
+    "forms": {
+      "latin": [
+        "??cyrupus capilliveneris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_cytoniorum": {
+    "ref_id": "I_??cyrupus_cytoniorum",
+    "canonical": "??cyrupus cytoniorum",
+    "forms": {
+      "latin": [
+        "??cyrupus cytoniorum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_de_bisanciis": {
+    "ref_id": "I_??cyrupus_de_bisanciis",
+    "canonical": "??cyrupus de bisanciis",
+    "forms": {
+      "latin": [
+        "??cyrupus de bisanciis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_de_agresta": {
+    "ref_id": "I_??cyrupus_de_agresta",
+    "canonical": "??cyrupus de agresta",
+    "forms": {
+      "latin": [
+        "??cyrupus de agresta"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_de_lymonibus": {
+    "ref_id": "I_??cyrupus_de_lymonibus",
+    "canonical": "??cyrupus de lymonibus",
+    "forms": {
+      "latin": [
+        "??cyrupus de lymonibus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_de_radicibus": {
+    "ref_id": "I_??cyrupus_de_radicibus",
+    "canonical": "??cyrupus de radicibus",
+    "forms": {
+      "latin": [
+        "??cyrupus de radicibus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_de_sticados": {
+    "ref_id": "I_??cyrupus_de_sticados",
+    "canonical": "??cyrupus de sticados",
+    "forms": {
+      "latin": [
+        "??cyrupus de sticados"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_de_ysopo": {
+    "ref_id": "I_??cyrupus_de_ysopo",
+    "canonical": "??cyrupus de ysopo",
+    "forms": {
+      "latin": [
+        "??cyrupus de ysopo"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_do_abscincio": {
+    "ref_id": "I_??cyrupus_do_abscincio",
+    "canonical": "??cyrupus do abscincio",
+    "forms": {
+      "latin": [
+        "??cyrupus do abscincio"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_nenupharis": {
+    "ref_id": "I_??cyrupus_nenupharis",
+    "canonical": "??cyrupus nenupharis",
+    "forms": {
+      "latin": [
+        "??cyrupus nenupharis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_scolopendrie": {
+    "ref_id": "I_??cyrupus_scolopendrie",
+    "canonical": "??cyrupus scolopendrie",
+    "forms": {
+      "latin": [
+        "??cyrupus scolopendrie"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_terre_maior": {
+    "ref_id": "I_??cyrupus_terre_maior",
+    "canonical": "??cyrupus terre maior",
+    "forms": {
+      "latin": [
+        "??cyrupus terre maior"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cyrupus_vyolarum": {
+    "ref_id": "I_??cyrupus_vyolarum",
+    "canonical": "??cyrupus vyolarum",
+    "forms": {
+      "latin": [
+        "??cyrupus vyolarum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??hocsimel_dyureticum": {
+    "ref_id": "I_??hocsimel_dyureticum",
+    "canonical": "??hocsimel dyureticum",
+    "forms": {
+      "latin": [
+        "??hocsimel dyureticum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??hocsimel_simplex": {
+    "ref_id": "I_??hocsimel_simplex",
+    "canonical": "??hocsimel simplex",
+    "forms": {
+      "latin": [
+        "??hocsimel simplex"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??hocsimel_squilliticum": {
+    "ref_id": "I_??hocsimel_squilliticum",
+    "canonical": "??hocsimel squilliticum",
+    "forms": {
+      "latin": [
+        "??hocsimel squilliticum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??lohoc_de_pino": {
+    "ref_id": "I_??lohoc_de_pino",
+    "canonical": "??lohoc de pino",
+    "forms": {
+      "latin": [
+        "??lohoc de pino"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??lohoc_sanum": {
+    "ref_id": "I_??lohoc_sanum",
+    "canonical": "??lohoc sanum",
+    "forms": {
+      "latin": [
+        "??lohoc sanum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??ycirop_de_sucre": {
+    "ref_id": "I_??ycirop_de_sucre",
+    "canonical": "??ycirop de sucre",
+    "forms": {
+      "latin": [
+        "??ycirop de sucre"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_sumac": {
+    "ref_id": "I_sumac",
+    "canonical": "sumac",
+    "forms": {
+      "latin": [
+        "sumac"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??alipta_muscata": {
+    "ref_id": "I_??alipta_muscata",
+    "canonical": "??alipta muscata",
+    "forms": {
+      "latin": [
+        "??alipta muscata"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??anthidotus_emagogum": {
+    "ref_id": "I_??anthidotus_emagogum",
+    "canonical": "??anthidotus emagogum",
+    "forms": {
+      "latin": [
+        "??anthidotus emagogum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aromaticum_rosatum": {
+    "ref_id": "I_??aromaticum_rosatum",
+    "canonical": "??aromaticum rosatum",
+    "forms": {
+      "latin": [
+        "??aromaticum rosatum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??athenasia": {
+    "ref_id": "I_??athenasia",
+    "canonical": "??athenasia",
+    "forms": {
+      "latin": [
+        "??athenasia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aurea_alexandira": {
+    "ref_id": "I_??aurea_alexandira",
+    "canonical": "??aurea alexandira",
+    "forms": {
+      "latin": [
+        "??aurea alexandira"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??confectio_amech": {
+    "ref_id": "I_??confectio_amech",
+    "canonical": "??confectio amech",
+    "forms": {
+      "latin": [
+        "??confectio amech"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??confectio_filony": {
+    "ref_id": "I_??confectio_filony",
+    "canonical": "??confectio filony",
+    "forms": {
+      "latin": [
+        "??confectio filony"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_anison": {
+    "ref_id": "I_??dya_anison",
+    "canonical": "??dya anison",
+    "forms": {
+      "latin": [
+        "??dya anison"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_calamentum": {
+    "ref_id": "I_??dya_calamentum",
+    "canonical": "??dya calamentum",
+    "forms": {
+      "latin": [
+        "??dya calamentum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_cartamy": {
+    "ref_id": "I_??dya_cartamy",
+    "canonical": "??dya cartamy",
+    "forms": {
+      "latin": [
+        "??dya cartamy"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_catholicon": {
+    "ref_id": "I_??dya_catholicon",
+    "canonical": "??dya catholicon",
+    "forms": {
+      "latin": [
+        "??dya catholicon"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_cene": {
+    "ref_id": "I_??dya_cene",
+    "canonical": "??dya cene",
+    "forms": {
+      "latin": [
+        "??dya cene"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_curcuma": {
+    "ref_id": "I_??dya_curcuma",
+    "canonical": "??dya curcuma",
+    "forms": {
+      "latin": [
+        "??dya curcuma"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_draganti": {
+    "ref_id": "I_??dya_draganti",
+    "canonical": "??dya draganti",
+    "forms": {
+      "latin": [
+        "??dya draganti"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_laca": {
+    "ref_id": "I_??dya_laca",
+    "canonical": "??dya laca",
+    "forms": {
+      "latin": [
+        "??dya laca"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_margariton": {
+    "ref_id": "I_??dya_margariton",
+    "canonical": "??dya margariton",
+    "forms": {
+      "latin": [
+        "??dya margariton"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_olybani": {
+    "ref_id": "I_??dya_olybani",
+    "canonical": "??dya olybani",
+    "forms": {
+      "latin": [
+        "??dya olybani"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_penidion": {
+    "ref_id": "I_??dya_penidion",
+    "canonical": "??dya penidion",
+    "forms": {
+      "latin": [
+        "??dya penidion"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_prassium": {
+    "ref_id": "I_??dya_prassium",
+    "canonical": "??dya prassium",
+    "forms": {
+      "latin": [
+        "??dya prassium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dya_yris": {
+    "ref_id": "I_??dya_yris",
+    "canonical": "??dya yris",
+    "forms": {
+      "latin": [
+        "??dya yris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dyaculon": {
+    "ref_id": "I_??dyaculon",
+    "canonical": "??dyaculon",
+    "forms": {
+      "latin": [
+        "??dyaculon"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dyamoron": {
+    "ref_id": "I_??dyamoron",
+    "canonical": "??dyamoron",
+    "forms": {
+      "latin": [
+        "??dyamoron"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dyaprunis_simplex": {
+    "ref_id": "I_??dyaprunis_simplex",
+    "canonical": "??dyaprunis simplex",
+    "forms": {
+      "latin": [
+        "??dyaprunis simplex"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dyarodon_abbatis": {
+    "ref_id": "I_??dyarodon_abbatis",
+    "canonical": "??dyarodon abbatis",
+    "forms": {
+      "latin": [
+        "??dyarodon abbatis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dyasinicon": {
+    "ref_id": "I_??dyasinicon",
+    "canonical": "??dyasinicon",
+    "forms": {
+      "latin": [
+        "??dyasinicon"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??electuarium_de_bacsis_lauri": {
+    "ref_id": "I_??electuarium_de_bacsis_lauri",
+    "canonical": "??electuarium de bacsis lauri",
+    "forms": {
+      "latin": [
+        "??electuarium de bacsis lauri"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??electuarium_de_succo_rosatum": {
+    "ref_id": "I_??electuarium_de_succo_rosatum",
+    "canonical": "??electuarium de succo rosatum",
+    "forms": {
+      "latin": [
+        "??electuarium de succo rosatum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??electuarium_pliris": {
+    "ref_id": "I_??electuarium_pliris",
+    "canonical": "??electuarium pliris",
+    "forms": {
+      "latin": [
+        "??electuarium pliris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??iera_ruffiny": {
+    "ref_id": "I_??iera_ruffiny",
+    "canonical": "??iera ruffiny",
+    "forms": {
+      "latin": [
+        "??iera ruffiny"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??iera_ruphyni": {
+    "ref_id": "I_??iera_ruphyni",
+    "canonical": "??iera ruphyni",
+    "forms": {
+      "latin": [
+        "??iera ruphyni"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??iera_hermeticis": {
+    "ref_id": "I_??iera_hermeticis",
+    "canonical": "??iera hermeticis",
+    "forms": {
+      "latin": [
+        "??iera hermeticis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??iera_pigra": {
+    "ref_id": "I_??iera_pigra",
+    "canonical": "??iera pigra",
+    "forms": {
+      "latin": [
+        "??iera pigra"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??ieralogandyon": {
+    "ref_id": "I_??ieralogandyon",
+    "canonical": "??ieralogandyon",
+    "forms": {
+      "latin": [
+        "??ieralogandyon"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??ierapigra_galyeni": {
+    "ref_id": "I_??ierapigra_galyeni",
+    "canonical": "??ierapigra galyeni",
+    "forms": {
+      "latin": [
+        "??ierapigra galyeni"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??justinum:": {
+    "ref_id": "I_??justinum:",
+    "canonical": "??justinum:",
+    "forms": {
+      "latin": [
+        "??justinum:"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??metridat": {
+    "ref_id": "I_??metridat",
+    "canonical": "??metridat",
+    "forms": {
+      "latin": [
+        "??metridat"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??micleta": {
+    "ref_id": "I_??micleta",
+    "canonical": "??micleta",
+    "forms": {
+      "latin": [
+        "??micleta"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??rozata_novella": {
+    "ref_id": "I_??rozata_novella",
+    "canonical": "??rozata novella",
+    "forms": {
+      "latin": [
+        "??rozata novella"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??triffera_magna": {
+    "ref_id": "I_??triffera_magna",
+    "canonical": "??triffera magna",
+    "forms": {
+      "latin": [
+        "??triffera magna"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??triffera_sarracenica": {
+    "ref_id": "I_??triffera_sarracenica",
+    "canonical": "??triffera sarracenica",
+    "forms": {
+      "latin": [
+        "??triffera sarracenica"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??emplastrum_confortativum_et_restrectivum": {
+    "ref_id": "I_??emplastrum_confortativum_et_restrectivum",
+    "canonical": "??emplastrum confortativum et restrectivum",
+    "forms": {
+      "latin": [
+        "??emplastrum confortativum et restrectivum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??emplastrum_de_mellilloto": {
+    "ref_id": "I_??emplastrum_de_mellilloto",
+    "canonical": "??emplastrum de mellilloto",
+    "forms": {
+      "latin": [
+        "??emplastrum de mellilloto"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??emplastrum_de_obcyrocrocio": {
+    "ref_id": "I_??emplastrum_de_obcyrocrocio",
+    "canonical": "??emplastrum de obcyrocrocio",
+    "forms": {
+      "latin": [
+        "??emplastrum de obcyrocrocio"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??lapis\tcristalhi": {
+    "ref_id": "I_??lapis\tcristalhi",
+    "canonical": "??lapis\tcristalhi",
+    "forms": {
+      "latin": [
+        "??lapis\tcristalhi"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??lapis\tentalis": {
+    "ref_id": "I_??lapis\tentalis",
+    "canonical": "??lapis\tentalis",
+    "forms": {
+      "latin": [
+        "??lapis\tentalis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??lapis\tgranatorum": {
+    "ref_id": "I_??lapis\tgranatorum",
+    "canonical": "??lapis\tgranatorum",
+    "forms": {
+      "latin": [
+        "??lapis\tgranatorum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??lapis\tjacintorum": {
+    "ref_id": "I_??lapis\tjacintorum",
+    "canonical": "??lapis\tjacintorum",
+    "forms": {
+      "latin": [
+        "??lapis\tjacintorum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_amethystus": {
+    "ref_id": "I_amethystus",
+    "canonical": "amethystus",
+    "forms": {
+      "latin": [
+        "amethystus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_lapis_entalis": {
+    "ref_id": "I_lapis_entalis",
+    "canonical": "lapis_entalis",
+    "forms": {
+      "latin": [
+        "lapis_entalis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_lapis_judaicus": {
+    "ref_id": "I_lapis_judaicus",
+    "canonical": "lapis_judaicus",
+    "forms": {
+      "latin": [
+        "lapis_judaicus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_lapis_lazuli": {
+    "ref_id": "I_lapis_lazuli",
+    "canonical": "lapis_lazuli",
+    "forms": {
+      "latin": [
+        "lapis_lazuli"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_lapis_lyncis": {
+    "ref_id": "I_lapis_lyncis",
+    "canonical": "lapis_lyncis",
+    "forms": {
+      "latin": [
+        "lapis_lyncis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_lapis_sanguinaris": {
+    "ref_id": "I_lapis_sanguinaris",
+    "canonical": "lapis_sanguinaris",
+    "forms": {
+      "latin": [
+        "lapis_sanguinaris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_lapis_spongiae": {
+    "ref_id": "I_lapis_spongiae",
+    "canonical": "lapis_spongiae",
+    "forms": {
+      "latin": [
+        "lapis_spongiae"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_magnes": {
+    "ref_id": "I_magnes",
+    "canonical": "magnes",
+    "forms": {
+      "latin": [
+        "magnes"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_smaragdus": {
+    "ref_id": "I_smaragdus",
+    "canonical": "smaragdus",
+    "forms": {
+      "latin": [
+        "smaragdus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_brutami": {
+    "ref_id": "I_??oly_brutami",
+    "canonical": "??oly brutami",
+    "forms": {
+      "latin": [
+        "??oly brutami"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_cammille": {
+    "ref_id": "I_??oly_cammille",
+    "canonical": "??oly cammille",
+    "forms": {
+      "latin": [
+        "??oly cammille"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_cucumeris_asinicum": {
+    "ref_id": "I_??oly_cucumeris_asinicum",
+    "canonical": "??oly cucumeris asinicum",
+    "forms": {
+      "latin": [
+        "??oly cucumeris asinicum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_damendas_amaris": {
+    "ref_id": "I_??oly_damendas_amaris",
+    "canonical": "??oly damendas amaris",
+    "forms": {
+      "latin": [
+        "??oly damendas amaris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_davelanas": {
+    "ref_id": "I_??oly_davelanas",
+    "canonical": "??oly davelanas",
+    "forms": {
+      "latin": [
+        "??oly davelanas"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_de_genupuli": {
+    "ref_id": "I_??oly_de_genupuli",
+    "canonical": "??oly de genupuli",
+    "forms": {
+      "latin": [
+        "??oly de genupuli"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_de_rutha": {
+    "ref_id": "I_??oly_de_rutha",
+    "canonical": "??oly de rutha",
+    "forms": {
+      "latin": [
+        "??oly de rutha"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_de_scorpion": {
+    "ref_id": "I_??oly_de_scorpion",
+    "canonical": "??oly de scorpion",
+    "forms": {
+      "latin": [
+        "??oly de scorpion"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_deranges": {
+    "ref_id": "I_??oly_deranges",
+    "canonical": "??oly deranges",
+    "forms": {
+      "latin": [
+        "??oly deranges"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_dylis": {
+    "ref_id": "I_??oly_dylis",
+    "canonical": "??oly dylis",
+    "forms": {
+      "latin": [
+        "??oly dylis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_jusquiamy": {
+    "ref_id": "I_??oly_jusquiamy",
+    "canonical": "??oly jusquiamy",
+    "forms": {
+      "latin": [
+        "??oly jusquiamy"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_lentice": {
+    "ref_id": "I_??oly_lentice",
+    "canonical": "??oly lentice",
+    "forms": {
+      "latin": [
+        "??oly lentice"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_lorini": {
+    "ref_id": "I_??oly_lorini",
+    "canonical": "??oly lorini",
+    "forms": {
+      "latin": [
+        "??oly lorini"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_mandragoris": {
+    "ref_id": "I_??oly_mandragoris",
+    "canonical": "??oly mandragoris",
+    "forms": {
+      "latin": [
+        "??oly mandragoris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_nenupharis": {
+    "ref_id": "I_??oly_nenupharis",
+    "canonical": "??oly nenupharis",
+    "forms": {
+      "latin": [
+        "??oly nenupharis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_rosat": {
+    "ref_id": "I_??oly_rosat",
+    "canonical": "??oly rosat",
+    "forms": {
+      "latin": [
+        "??oly rosat"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_sambuci": {
+    "ref_id": "I_??oly_sambuci",
+    "canonical": "??oly sambuci",
+    "forms": {
+      "latin": [
+        "??oly sambuci"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_violarum": {
+    "ref_id": "I_??oly_violarum",
+    "canonical": "??oly violarum",
+    "forms": {
+      "latin": [
+        "??oly violarum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oly_violat": {
+    "ref_id": "I_??oly_violat",
+    "canonical": "??oly violat",
+    "forms": {
+      "latin": [
+        "??oly violat"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_agregative": {
+    "ref_id": "I_??pillule_agregative",
+    "canonical": "??pillule agregative",
+    "forms": {
+      "latin": [
+        "??pillule agregative"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_auree": {
+    "ref_id": "I_??pillule_auree",
+    "canonical": "??pillule auree",
+    "forms": {
+      "latin": [
+        "??pillule auree"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_cochie": {
+    "ref_id": "I_??pillule_cochie",
+    "canonical": "??pillule cochie",
+    "forms": {
+      "latin": [
+        "??pillule cochie"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_commune": {
+    "ref_id": "I_??pillule_commune",
+    "canonical": "??pillule commune",
+    "forms": {
+      "latin": [
+        "??pillule commune"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_de_agrico": {
+    "ref_id": "I_??pillule_de_agrico",
+    "canonical": "??pillule de agrico",
+    "forms": {
+      "latin": [
+        "??pillule de agrico"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_de_fumoterre": {
+    "ref_id": "I_??pillule_de_fumoterre",
+    "canonical": "??pillule de fumoterre",
+    "forms": {
+      "latin": [
+        "??pillule de fumoterre"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_de_iera_composita": {
+    "ref_id": "I_??pillule_de_iera_composita",
+    "canonical": "??pillule de iera composita",
+    "forms": {
+      "latin": [
+        "??pillule de iera composita"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_de_iero": {
+    "ref_id": "I_??pillule_de_iero",
+    "canonical": "??pillule de iero",
+    "forms": {
+      "latin": [
+        "??pillule de iero"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_de_reubarbaro": {
+    "ref_id": "I_??pillule_de_reubarbaro",
+    "canonical": "??pillule de reubarbaro",
+    "forms": {
+      "latin": [
+        "??pillule de reubarbaro"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_elephangie": {
+    "ref_id": "I_??pillule_elephangie",
+    "canonical": "??pillule elephangie",
+    "forms": {
+      "latin": [
+        "??pillule elephangie"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_ermodactilorum": {
+    "ref_id": "I_??pillule_ermodactilorum",
+    "canonical": "??pillule ermodactilorum",
+    "forms": {
+      "latin": [
+        "??pillule ermodactilorum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_ermodactilorum_maiorum": {
+    "ref_id": "I_??pillule_ermodactilorum_maiorum",
+    "canonical": "??pillule ermodactilorum maiorum",
+    "forms": {
+      "latin": [
+        "??pillule ermodactilorum maiorum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_fetide": {
+    "ref_id": "I_??pillule_fetide",
+    "canonical": "??pillule fetide",
+    "forms": {
+      "latin": [
+        "??pillule fetide"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pillule_pro_dentibus": {
+    "ref_id": "I_??pillule_pro_dentibus",
+    "canonical": "??pillule pro dentibus",
+    "forms": {
+      "latin": [
+        "??pillule pro dentibus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_aromatici_rosati": {
+    "ref_id": "I_??pulvis_aromatici_rosati",
+    "canonical": "??pulvis aromatici rosati",
+    "forms": {
+      "latin": [
+        "??pulvis aromatici rosati"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_benedicte": {
+    "ref_id": "I_??pulvis_benedicte",
+    "canonical": "??pulvis benedicte",
+    "forms": {
+      "latin": [
+        "??pulvis benedicte"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_catartice_imperialis": {
+    "ref_id": "I_??pulvis_catartice_imperialis",
+    "canonical": "??pulvis catartice imperialis",
+    "forms": {
+      "latin": [
+        "??pulvis catartice imperialis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_de_gemmis": {
+    "ref_id": "I_??pulvis_de_gemmis",
+    "canonical": "??pulvis de gemmis",
+    "forms": {
+      "latin": [
+        "??pulvis de gemmis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_ambra": {
+    "ref_id": "I_??pulvis_dya_ambra",
+    "canonical": "??pulvis dya ambra",
+    "forms": {
+      "latin": [
+        "??pulvis dya ambra"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_anthos": {
+    "ref_id": "I_??pulvis_dya_anthos",
+    "canonical": "??pulvis dya anthos",
+    "forms": {
+      "latin": [
+        "??pulvis dya anthos"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_calamenti": {
+    "ref_id": "I_??pulvis_dya_calamenti",
+    "canonical": "??pulvis dya calamenti",
+    "forms": {
+      "latin": [
+        "??pulvis dya calamenti"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_caparis": {
+    "ref_id": "I_??pulvis_dya_caparis",
+    "canonical": "??pulvis dya caparis",
+    "forms": {
+      "latin": [
+        "??pulvis dya caparis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_citonite": {
+    "ref_id": "I_??pulvis_dya_citonite",
+    "canonical": "??pulvis dya citonite",
+    "forms": {
+      "latin": [
+        "??pulvis dya citonite"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_cucurma": {
+    "ref_id": "I_??pulvis_dya_cucurma",
+    "canonical": "??pulvis dya cucurma",
+    "forms": {
+      "latin": [
+        "??pulvis dya cucurma"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_galange": {
+    "ref_id": "I_??pulvis_dya_galange",
+    "canonical": "??pulvis dya galange",
+    "forms": {
+      "latin": [
+        "??pulvis dya galange"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_laca": {
+    "ref_id": "I_??pulvis_dya_laca",
+    "canonical": "??pulvis dya laca",
+    "forms": {
+      "latin": [
+        "??pulvis dya laca"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_margariton": {
+    "ref_id": "I_??pulvis_dya_margariton",
+    "canonical": "??pulvis dya margariton",
+    "forms": {
+      "latin": [
+        "??pulvis dya margariton"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_mente": {
+    "ref_id": "I_??pulvis_dya_mente",
+    "canonical": "??pulvis dya mente",
+    "forms": {
+      "latin": [
+        "??pulvis dya mente"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_musce": {
+    "ref_id": "I_??pulvis_dya_musce",
+    "canonical": "??pulvis dya musce",
+    "forms": {
+      "latin": [
+        "??pulvis dya musce"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_prassii": {
+    "ref_id": "I_??pulvis_dya_prassii",
+    "canonical": "??pulvis dya prassii",
+    "forms": {
+      "latin": [
+        "??pulvis dya prassii"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dya_yaopi": {
+    "ref_id": "I_??pulvis_dya_yaopi",
+    "canonical": "??pulvis dya yaopi",
+    "forms": {
+      "latin": [
+        "??pulvis dya yaopi"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dyacymini": {
+    "ref_id": "I_??pulvis_dyacymini",
+    "canonical": "??pulvis dyacymini",
+    "forms": {
+      "latin": [
+        "??pulvis dyacymini"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dyanison": {
+    "ref_id": "I_??pulvis_dyanison",
+    "canonical": "??pulvis dyanison",
+    "forms": {
+      "latin": [
+        "??pulvis dyanison"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dyaticum_pipericum": {
+    "ref_id": "I_??pulvis_dyaticum_pipericum",
+    "canonical": "??pulvis dyaticum pipericum",
+    "forms": {
+      "latin": [
+        "??pulvis dyaticum pipericum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_dyayris": {
+    "ref_id": "I_??pulvis_dyayris",
+    "canonical": "??pulvis dyayris",
+    "forms": {
+      "latin": [
+        "??pulvis dyayris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_electuarium_ducis": {
+    "ref_id": "I_??pulvis_electuarium_ducis",
+    "canonical": "??pulvis electuarium ducis",
+    "forms": {
+      "latin": [
+        "??pulvis electuarium ducis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_ierologandium": {
+    "ref_id": "I_??pulvis_ierologandium",
+    "canonical": "??pulvis ierologandium",
+    "forms": {
+      "latin": [
+        "??pulvis ierologandium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_pigre": {
+    "ref_id": "I_??pulvis_pigre",
+    "canonical": "??pulvis pigre",
+    "forms": {
+      "latin": [
+        "??pulvis pigre"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_pliris_cum_musco": {
+    "ref_id": "I_??pulvis_pliris_cum_musco",
+    "canonical": "??pulvis pliris cum musco",
+    "forms": {
+      "latin": [
+        "??pulvis pliris cum musco"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_portion_muscate": {
+    "ref_id": "I_??pulvis_portion_muscate",
+    "canonical": "??pulvis portion muscate",
+    "forms": {
+      "latin": [
+        "??pulvis portion muscate"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_requiey": {
+    "ref_id": "I_??pulvis_requiey",
+    "canonical": "??pulvis requiey",
+    "forms": {
+      "latin": [
+        "??pulvis requiey"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulvis_rozate_novelle": {
+    "ref_id": "I_??pulvis_rozate_novelle",
+    "canonical": "??pulvis rozate novelle",
+    "forms": {
+      "latin": [
+        "??pulvis rozate novelle"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_trigonella": {
+    "ref_id": "I_trigonella",
+    "canonical": "trigonella",
+    "forms": {
+      "latin": [
+        "trigonella"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_??i_peyrolet_per_cresteris_que_pesa": {
+    "ref_id": "I_??i_peyrolet_per_cresteris_que_pesa",
+    "canonical": "??i peyrolet per cresteris que pesa",
+    "forms": {
+      "latin": [
+        "??i peyrolet per cresteris que pesa"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??i_taulier_de_botica_an_ii_armaris_fermans_a_clauplus_una_grandt_bacyna_de_coyre_per_obra": {
+    "ref_id": "I_??i_taulier_de_botica_an_ii_armaris_fermans_a_clauplus_una_grandt_bacyna_de_coyre_per_obra",
+    "canonical": "??i taulier de botica an ii armaris fermans a clauplus una grandt bacyna de coyre per obra",
+    "forms": {
+      "latin": [
+        "??i taulier de botica an ii armaris fermans a clauplus una grandt bacyna de coyre per obra"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??ii_cassas_per_getar_cyera": {
+    "ref_id": "I_??ii_cassas_per_getar_cyera",
+    "canonical": "??ii cassas per getar cyera",
+    "forms": {
+      "latin": [
+        "??ii cassas per getar cyera"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??iii_cassetas_de_coyre_luna_bona": {
+    "ref_id": "I_??iii_cassetas_de_coyre_luna_bona",
+    "canonical": "??iii cassetas de coyre luna bona",
+    "forms": {
+      "latin": [
+        "??iii cassetas de coyre luna bona"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aqua": {
+    "ref_id": "I_??aqua",
+    "canonical": "??aqua",
+    "forms": {
+      "latin": [
+        "??aqua"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??asseton_esquilliticum": {
+    "ref_id": "I_??asseton_esquilliticum",
+    "canonical": "??asseton esquilliticum",
+    "forms": {
+      "latin": [
+        "??asseton esquilliticum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??aur_fin_laminat_folhetz_xviii": {
+    "ref_id": "I_??aur_fin_laminat_folhetz_xviii",
+    "canonical": "??aur fin laminat folhetz xviii",
+    "forms": {
+      "latin": [
+        "??aur fin laminat folhetz xviii"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??car_de_poncire_en_mel": {
+    "ref_id": "I_??car_de_poncire_en_mel",
+    "canonical": "??car de poncire en mel",
+    "forms": {
+      "latin": [
+        "??car de poncire en mel"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cassia_fistula_mundata": {
+    "ref_id": "I_??cassia_fistula_mundata",
+    "canonical": "??cassia fistula mundata",
+    "forms": {
+      "latin": [
+        "??cassia fistula mundata"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cassia_fistule": {
+    "ref_id": "I_??cassia_fistule",
+    "canonical": "??cassia fistule",
+    "forms": {
+      "latin": [
+        "??cassia fistule"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cassia_tracta_[trociscata]_cum_melle": {
+    "ref_id": "I_??cassia_tracta_[trociscata]_cum_melle",
+    "canonical": "??cassia tracta [trociscata] cum melle",
+    "forms": {
+      "latin": [
+        "??cassia tracta [trociscata] cum melle"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cassie_pro_cresteris": {
+    "ref_id": "I_??cassie_pro_cresteris",
+    "canonical": "??cassie pro cresteris",
+    "forms": {
+      "latin": [
+        "??cassie pro cresteris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??cerotum_psandalinum": {
+    "ref_id": "I_??cerotum_psandalinum",
+    "canonical": "??cerotum psandalinum",
+    "forms": {
+      "latin": [
+        "??cerotum psandalinum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??de_candelas_vielhas": {
+    "ref_id": "I_??de_candelas_vielhas",
+    "canonical": "??de candelas vielhas",
+    "forms": {
+      "latin": [
+        "??de candelas vielhas"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??dyculon_comun": {
+    "ref_id": "I_??dyculon_comun",
+    "canonical": "??dyculon comun",
+    "forms": {
+      "latin": [
+        "??dyculon comun"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??effusion_de_rozas": {
+    "ref_id": "I_??effusion_de_rozas",
+    "canonical": "??effusion de rozas",
+    "forms": {
+      "latin": [
+        "??effusion de rozas"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??galie_muscate": {
+    "ref_id": "I_??galie_muscate",
+    "canonical": "??galie muscate",
+    "forms": {
+      "latin": [
+        "??galie muscate"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??glassa": {
+    "ref_id": "I_??glassa",
+    "canonical": "??glassa",
+    "forms": {
+      "latin": [
+        "??glassa"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??nos_confides_en_mel": {
+    "ref_id": "I_??nos_confides_en_mel",
+    "canonical": "??nos confides en mel",
+    "forms": {
+      "latin": [
+        "??nos confides en mel"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??ocre": {
+    "ref_id": "I_??ocre",
+    "canonical": "??ocre",
+    "forms": {
+      "latin": [
+        "??ocre"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??oseses_crematz": {
+    "ref_id": "I_??oseses_crematz",
+    "canonical": "??oseses crematz",
+    "forms": {
+      "latin": [
+        "??oseses crematz"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??pulveris_dya_cameron": {
+    "ref_id": "I_??pulveris_dya_cameron",
+    "canonical": "??pulveris dya cameron",
+    "forms": {
+      "latin": [
+        "??pulveris dya cameron"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??suc_de_codonhs": {
+    "ref_id": "I_??suc_de_codonhs",
+    "canonical": "??suc de codonhs",
+    "forms": {
+      "latin": [
+        "??suc de codonhs"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??thamaricis": {
+    "ref_id": "I_??thamaricis",
+    "canonical": "??thamaricis",
+    "forms": {
+      "latin": [
+        "??thamaricis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??torchas_de_cort_an_bastons_viii": {
+    "ref_id": "I_??torchas_de_cort_an_bastons_viii",
+    "canonical": "??torchas de cort an bastons viii",
+    "forms": {
+      "latin": [
+        "??torchas de cort an bastons viii"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??triffere_magne_pulverisate": {
+    "ref_id": "I_??triffere_magne_pulverisate",
+    "canonical": "??triffere magne pulverisate",
+    "forms": {
+      "latin": [
+        "??triffere magne pulverisate"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??ung": {
+    "ref_id": "I_??ung",
+    "canonical": "??ung",
+    "forms": {
+      "latin": [
+        "??ung"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??vin_de_migranas": {
+    "ref_id": "I_??vin_de_migranas",
+    "canonical": "??vin de migranas",
+    "forms": {
+      "latin": [
+        "??vin de migranas"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??ysopum_umidum": {
+    "ref_id": "I_??ysopum_umidum",
+    "canonical": "??ysopum umidum",
+    "forms": {
+      "latin": [
+        "??ysopum umidum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_acacia": {
+    "ref_id": "I_acacia",
+    "canonical": "acacia",
+    "forms": {
+      "latin": [
+        "acacia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_aframomum": {
+    "ref_id": "I_aframomum",
+    "canonical": "aframomum",
+    "forms": {
+      "latin": [
+        "aframomum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_alumen": {
+    "ref_id": "I_alumen",
+    "canonical": "alumen",
+    "forms": {
+      "latin": [
+        "alumen"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_alumen_plumosum": {
+    "ref_id": "I_alumen_plumosum",
+    "canonical": "alumen_plumosum",
+    "forms": {
+      "latin": [
+        "alumen_plumosum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_amygdala_amara": {
+    "ref_id": "I_amygdala_amara",
+    "canonical": "amygdala_amara",
+    "forms": {
+      "latin": [
+        "amygdala_amara"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_amygdala_dulcis": {
+    "ref_id": "I_amygdala_dulcis",
+    "canonical": "amygdala_dulcis",
+    "forms": {
+      "latin": [
+        "amygdala_dulcis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_anacardium": {
+    "ref_id": "I_anacardium",
+    "canonical": "anacardium",
+    "forms": {
+      "latin": [
+        "anacardium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_anethum": {
+    "ref_id": "I_anethum",
+    "canonical": "anethum",
+    "forms": {
+      "latin": [
+        "anethum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_anthera": {
+    "ref_id": "I_anthera",
+    "canonical": "anthera",
+    "forms": {
+      "latin": [
+        "anthera"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_antimonium": {
+    "ref_id": "I_antimonium",
+    "canonical": "antimonium",
+    "forms": {
+      "latin": [
+        "antimonium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_arcanetum": {
+    "ref_id": "I_arcanetum",
+    "canonical": "arcanetum",
+    "forms": {
+      "latin": [
+        "arcanetum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_asa_foetida": {
+    "ref_id": "I_asa_foetida",
+    "canonical": "asa_foetida",
+    "forms": {
+      "latin": [
+        "asa_foetida"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_asparagus": {
+    "ref_id": "I_asparagus",
+    "canonical": "asparagus",
+    "forms": {
+      "latin": [
+        "asparagus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_auripigmentum": {
+    "ref_id": "I_auripigmentum",
+    "canonical": "auripigmentum",
+    "forms": {
+      "latin": [
+        "auripigmentum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_been": {
+    "ref_id": "I_been",
+    "canonical": "been",
+    "forms": {
+      "latin": [
+        "been"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_bistorta": {
+    "ref_id": "I_bistorta",
+    "canonical": "bistorta",
+    "forms": {
+      "latin": [
+        "bistorta"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_blatta_byzantia": {
+    "ref_id": "I_blatta_byzantia",
+    "canonical": "blatta_byzantia",
+    "forms": {
+      "latin": [
+        "blatta_byzantia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_borax": {
+    "ref_id": "I_borax",
+    "canonical": "borax",
+    "forms": {
+      "latin": [
+        "borax"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_bugia": {
+    "ref_id": "I_bugia",
+    "canonical": "bugia",
+    "forms": {
+      "latin": [
+        "bugia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_carthamus": {
+    "ref_id": "I_carthamus",
+    "canonical": "carthamus",
+    "forms": {
+      "latin": [
+        "carthamus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_castanea": {
+    "ref_id": "I_castanea",
+    "canonical": "castanea",
+    "forms": {
+      "latin": [
+        "castanea"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_castoreum": {
+    "ref_id": "I_castoreum",
+    "canonical": "castoreum",
+    "forms": {
+      "latin": [
+        "castoreum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_chamaeleon": {
+    "ref_id": "I_chamaeleon",
+    "canonical": "chamaeleon",
+    "forms": {
+      "latin": [
+        "chamaeleon"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_chamomilla": {
+    "ref_id": "I_chamomilla",
+    "canonical": "chamomilla",
+    "forms": {
+      "latin": [
+        "chamomilla"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_cicer": {
+    "ref_id": "I_cicer",
+    "canonical": "cicer",
+    "forms": {
+      "latin": [
+        "cicer"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_citrus": {
+    "ref_id": "I_citrus",
+    "canonical": "citrus",
+    "forms": {
+      "latin": [
+        "citrus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_colophonia": {
+    "ref_id": "I_colophonia",
+    "canonical": "colophonia",
+    "forms": {
+      "latin": [
+        "colophonia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_corallium_album": {
+    "ref_id": "I_corallium_album",
+    "canonical": "corallium_album",
+    "forms": {
+      "latin": [
+        "corallium_album"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_corallium_rubrum": {
+    "ref_id": "I_corallium_rubrum",
+    "canonical": "corallium_rubrum",
+    "forms": {
+      "latin": [
+        "corallium_rubrum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_coriandrum": {
+    "ref_id": "I_coriandrum",
+    "canonical": "coriandrum",
+    "forms": {
+      "latin": [
+        "coriandrum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_cubeba": {
+    "ref_id": "I_cubeba",
+    "canonical": "cubeba",
+    "forms": {
+      "latin": [
+        "cubeba"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_cucumis_melo": {
+    "ref_id": "I_cucumis_melo",
+    "canonical": "cucumis_melo",
+    "forms": {
+      "latin": [
+        "cucumis_melo"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_cuscuta": {
+    "ref_id": "I_cuscuta",
+    "canonical": "cuscuta",
+    "forms": {
+      "latin": [
+        "cuscuta"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_cyclamen": {
+    "ref_id": "I_cyclamen",
+    "canonical": "cyclamen",
+    "forms": {
+      "latin": [
+        "cyclamen"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_cydonia": {
+    "ref_id": "I_cydonia",
+    "canonical": "cydonia",
+    "forms": {
+      "latin": [
+        "cydonia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_cyperus": {
+    "ref_id": "I_cyperus",
+    "canonical": "cyperus",
+    "forms": {
+      "latin": [
+        "cyperus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_dictamnus": {
+    "ref_id": "I_dictamnus",
+    "canonical": "dictamnus",
+    "forms": {
+      "latin": [
+        "dictamnus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_doronicum": {
+    "ref_id": "I_doronicum",
+    "canonical": "doronicum",
+    "forms": {
+      "latin": [
+        "doronicum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_elaphrium": {
+    "ref_id": "I_elaphrium",
+    "canonical": "elaphrium",
+    "forms": {
+      "latin": [
+        "elaphrium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_eruca": {
+    "ref_id": "I_eruca",
+    "canonical": "eruca",
+    "forms": {
+      "latin": [
+        "eruca"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_eupatorium": {
+    "ref_id": "I_eupatorium",
+    "canonical": "eupatorium",
+    "forms": {
+      "latin": [
+        "eupatorium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_euphorbia_esula": {
+    "ref_id": "I_euphorbia_esula",
+    "canonical": "euphorbia_esula",
+    "forms": {
+      "latin": [
+        "euphorbia_esula"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_euphorbia_lathyris": {
+    "ref_id": "I_euphorbia_lathyris",
+    "canonical": "euphorbia_lathyris",
+    "forms": {
+      "latin": [
+        "euphorbia_lathyris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_galitrichum": {
+    "ref_id": "I_galitrichum",
+    "canonical": "galitrichum",
+    "forms": {
+      "latin": [
+        "galitrichum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_galla": {
+    "ref_id": "I_galla",
+    "canonical": "galla",
+    "forms": {
+      "latin": [
+        "galla"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_glacies": {
+    "ref_id": "I_glacies",
+    "canonical": "glacies",
+    "forms": {
+      "latin": [
+        "glacies"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_gummi": {
+    "ref_id": "I_gummi",
+    "canonical": "gummi",
+    "forms": {
+      "latin": [
+        "gummi"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_gummi_arabicum": {
+    "ref_id": "I_gummi_arabicum",
+    "canonical": "gummi_arabicum",
+    "forms": {
+      "latin": [
+        "gummi_arabicum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_gummi_limonum": {
+    "ref_id": "I_gummi_limonum",
+    "canonical": "gummi_limonum",
+    "forms": {
+      "latin": [
+        "gummi_limonum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_helleborus_albus": {
+    "ref_id": "I_helleborus_albus",
+    "canonical": "helleborus_albus",
+    "forms": {
+      "latin": [
+        "helleborus_albus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_helleborus_niger": {
+    "ref_id": "I_helleborus_niger",
+    "canonical": "helleborus_niger",
+    "forms": {
+      "latin": [
+        "helleborus_niger"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_hermodactylus": {
+    "ref_id": "I_hermodactylus",
+    "canonical": "hermodactylus",
+    "forms": {
+      "latin": [
+        "hermodactylus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_hordeum": {
+    "ref_id": "I_hordeum",
+    "canonical": "hordeum",
+    "forms": {
+      "latin": [
+        "hordeum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_indicum": {
+    "ref_id": "I_indicum",
+    "canonical": "indicum",
+    "forms": {
+      "latin": [
+        "indicum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_inula": {
+    "ref_id": "I_inula",
+    "canonical": "inula",
+    "forms": {
+      "latin": [
+        "inula"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_iris": {
+    "ref_id": "I_iris",
+    "canonical": "iris",
+    "forms": {
+      "latin": [
+        "iris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_juniperus": {
+    "ref_id": "I_juniperus",
+    "canonical": "juniperus",
+    "forms": {
+      "latin": [
+        "juniperus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_ladanum": {
+    "ref_id": "I_ladanum",
+    "canonical": "ladanum",
+    "forms": {
+      "latin": [
+        "ladanum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_lentiscus": {
+    "ref_id": "I_lentiscus",
+    "canonical": "lentiscus",
+    "forms": {
+      "latin": [
+        "lentiscus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_lithospermum": {
+    "ref_id": "I_lithospermum",
+    "canonical": "lithospermum",
+    "forms": {
+      "latin": [
+        "lithospermum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_lycium": {
+    "ref_id": "I_lycium",
+    "canonical": "lycium",
+    "forms": {
+      "latin": [
+        "lycium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_macis": {
+    "ref_id": "I_macis",
+    "canonical": "macis",
+    "forms": {
+      "latin": [
+        "macis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_marcasita": {
+    "ref_id": "I_marcasita",
+    "canonical": "marcasita",
+    "forms": {
+      "latin": [
+        "marcasita"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_melilotum": {
+    "ref_id": "I_melilotum",
+    "canonical": "melilotum",
+    "forms": {
+      "latin": [
+        "melilotum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_myrobalanus_bellericus": {
+    "ref_id": "I_myrobalanus_bellericus",
+    "canonical": "myrobalanus_bellericus",
+    "forms": {
+      "latin": [
+        "myrobalanus_bellericus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_myrobalanus_citrinus": {
+    "ref_id": "I_myrobalanus_citrinus",
+    "canonical": "myrobalanus_citrinus",
+    "forms": {
+      "latin": [
+        "myrobalanus_citrinus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_myrobalanus_emblicus": {
+    "ref_id": "I_myrobalanus_emblicus",
+    "canonical": "myrobalanus_emblicus",
+    "forms": {
+      "latin": [
+        "myrobalanus_emblicus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_myrobalanus_indus": {
+    "ref_id": "I_myrobalanus_indus",
+    "canonical": "myrobalanus_indus",
+    "forms": {
+      "latin": [
+        "myrobalanus_indus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_myrtus": {
+    "ref_id": "I_myrtus",
+    "canonical": "myrtus",
+    "forms": {
+      "latin": [
+        "myrtus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_nasturtium": {
+    "ref_id": "I_nasturtium",
+    "canonical": "nasturtium",
+    "forms": {
+      "latin": [
+        "nasturtium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_nux_moschata": {
+    "ref_id": "I_nux_moschata",
+    "canonical": "nux_moschata",
+    "forms": {
+      "latin": [
+        "nux_moschata"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_oryza": {
+    "ref_id": "I_oryza",
+    "canonical": "oryza",
+    "forms": {
+      "latin": [
+        "oryza"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_petroselinum_macedonicum": {
+    "ref_id": "I_petroselinum_macedonicum",
+    "canonical": "petroselinum_macedonicum",
+    "forms": {
+      "latin": [
+        "petroselinum_macedonicum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_peucedanum": {
+    "ref_id": "I_peucedanum",
+    "canonical": "peucedanum",
+    "forms": {
+      "latin": [
+        "peucedanum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_physalis": {
+    "ref_id": "I_physalis",
+    "canonical": "physalis",
+    "forms": {
+      "latin": [
+        "physalis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_pinguedo_pini": {
+    "ref_id": "I_pinguedo_pini",
+    "canonical": "pinguedo_pini",
+    "forms": {
+      "latin": [
+        "pinguedo_pini"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_piper": {
+    "ref_id": "I_piper",
+    "canonical": "piper",
+    "forms": {
+      "latin": [
+        "piper"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_plumbum_ustum": {
+    "ref_id": "I_plumbum_ustum",
+    "canonical": "plumbum_ustum",
+    "forms": {
+      "latin": [
+        "plumbum_ustum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_pulvis_masticis": {
+    "ref_id": "I_pulvis_masticis",
+    "canonical": "pulvis_masticis",
+    "forms": {
+      "latin": [
+        "pulvis_masticis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_rubia": {
+    "ref_id": "I_rubia",
+    "canonical": "rubia",
+    "forms": {
+      "latin": [
+        "rubia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_rubia_tinctorum": {
+    "ref_id": "I_rubia_tinctorum",
+    "canonical": "rubia_tinctorum",
+    "forms": {
+      "latin": [
+        "rubia_tinctorum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_ruscus": {
+    "ref_id": "I_ruscus",
+    "canonical": "ruscus",
+    "forms": {
+      "latin": [
+        "ruscus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_saccharum": {
+    "ref_id": "I_saccharum",
+    "canonical": "saccharum",
+    "forms": {
+      "latin": [
+        "saccharum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_sal_nitri": {
+    "ref_id": "I_sal_nitri",
+    "canonical": "sal_nitri",
+    "forms": {
+      "latin": [
+        "sal_nitri"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_sanguis_draconis": {
+    "ref_id": "I_sanguis_draconis",
+    "canonical": "sanguis_draconis",
+    "forms": {
+      "latin": [
+        "sanguis_draconis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_sarcocolla": {
+    "ref_id": "I_sarcocolla",
+    "canonical": "sarcocolla",
+    "forms": {
+      "latin": [
+        "sarcocolla"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_scammonia": {
+    "ref_id": "I_scammonia",
+    "canonical": "scammonia",
+    "forms": {
+      "latin": [
+        "scammonia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_semen_barbotinae": {
+    "ref_id": "I_semen_barbotinae",
+    "canonical": "semen_barbotinae",
+    "forms": {
+      "latin": [
+        "semen_barbotinae"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_sesamum": {
+    "ref_id": "I_sesamum",
+    "canonical": "sesamum",
+    "forms": {
+      "latin": [
+        "sesamum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_species_communes": {
+    "ref_id": "I_species_communes",
+    "canonical": "species_communes",
+    "forms": {
+      "latin": [
+        "species_communes"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_spodium": {
+    "ref_id": "I_spodium",
+    "canonical": "spodium",
+    "forms": {
+      "latin": [
+        "spodium"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1,
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME",
+      "Lylye"
+    ]
+  },
+  "I_squilla": {
+    "ref_id": "I_squilla",
+    "canonical": "squilla",
+    "forms": {
+      "latin": [
+        "squilla"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_staphisagria": {
+    "ref_id": "I_staphisagria",
+    "canonical": "staphisagria",
+    "forms": {
+      "latin": [
+        "staphisagria"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_sublimatum": {
+    "ref_id": "I_sublimatum",
+    "canonical": "sublimatum",
+    "forms": {
+      "latin": [
+        "sublimatum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_sulfur": {
+    "ref_id": "I_sulfur",
+    "canonical": "sulfur",
+    "forms": {
+      "latin": [
+        "sulfur"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_terebinthina": {
+    "ref_id": "I_terebinthina",
+    "canonical": "terebinthina",
+    "forms": {
+      "latin": [
+        "terebinthina"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_terra_sigillata": {
+    "ref_id": "I_terra_sigillata",
+    "canonical": "terra_sigillata",
+    "forms": {
+      "latin": [
+        "terra_sigillata"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_tutia": {
+    "ref_id": "I_tutia",
+    "canonical": "tutia",
+    "forms": {
+      "latin": [
+        "tutia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_umbilicus_marinus": {
+    "ref_id": "I_umbilicus_marinus",
+    "canonical": "umbilicus_marinus",
+    "forms": {
+      "latin": [
+        "umbilicus_marinus"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_urtica": {
+    "ref_id": "I_urtica",
+    "canonical": "urtica",
+    "forms": {
+      "latin": [
+        "urtica"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_vitex": {
+    "ref_id": "I_vitex",
+    "canonical": "vitex",
+    "forms": {
+      "latin": [
+        "vitex"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??troci_de_reubarbaro": {
+    "ref_id": "I_??troci_de_reubarbaro",
+    "canonical": "??troci de reubarbaro",
+    "forms": {
+      "latin": [
+        "??troci de reubarbaro"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??troci_de_tyro": {
+    "ref_id": "I_??troci_de_tyro",
+    "canonical": "??troci de tyro",
+    "forms": {
+      "latin": [
+        "??troci de tyro"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??trocici_caparis": {
+    "ref_id": "I_??trocici_caparis",
+    "canonical": "??trocici caparis",
+    "forms": {
+      "latin": [
+        "??trocici caparis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??trocici_croci_magistri": {
+    "ref_id": "I_??trocici_croci_magistri",
+    "canonical": "??trocici croci magistri",
+    "forms": {
+      "latin": [
+        "??trocici croci magistri"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??trocici_de_eupatorio": {
+    "ref_id": "I_??trocici_de_eupatorio",
+    "canonical": "??trocici de eupatorio",
+    "forms": {
+      "latin": [
+        "??trocici de eupatorio"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??trocici_de_spodio": {
+    "ref_id": "I_??trocici_de_spodio",
+    "canonical": "??trocici de spodio",
+    "forms": {
+      "latin": [
+        "??trocici de spodio"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??trocici_diavi": {
+    "ref_id": "I_??trocici_diavi",
+    "canonical": "??trocici diavi",
+    "forms": {
+      "latin": [
+        "??trocici diavi"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??trocici_dyacoralhi": {
+    "ref_id": "I_??trocici_dyacoralhi",
+    "canonical": "??trocici dyacoralhi",
+    "forms": {
+      "latin": [
+        "??trocici dyacoralhi"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??trocici_squillitici": {
+    "ref_id": "I_??trocici_squillitici",
+    "canonical": "??trocici squillitici",
+    "forms": {
+      "latin": [
+        "??trocici squillitici"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??trocici_ydroca": {
+    "ref_id": "I_??trocici_ydroca",
+    "canonical": "??trocici ydroca",
+    "forms": {
+      "latin": [
+        "??trocici ydroca"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??trocicy_squillitici": {
+    "ref_id": "I_??trocicy_squillitici",
+    "canonical": "??trocicy squillitici",
+    "forms": {
+      "latin": [
+        "??trocicy squillitici"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??unguent_agripa": {
+    "ref_id": "I_??unguent_agripa",
+    "canonical": "??unguent agripa",
+    "forms": {
+      "latin": [
+        "??unguent agripa"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??unguent_arrogon": {
+    "ref_id": "I_??unguent_arrogon",
+    "canonical": "??unguent arrogon",
+    "forms": {
+      "latin": [
+        "??unguent arrogon"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??unguent_marciatum": {
+    "ref_id": "I_??unguent_marciatum",
+    "canonical": "??unguent marciatum",
+    "forms": {
+      "latin": [
+        "??unguent marciatum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??unguent_album": {
+    "ref_id": "I_??unguent_album",
+    "canonical": "??unguent album",
+    "forms": {
+      "latin": [
+        "??unguent album"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??unguent_citrinum": {
+    "ref_id": "I_??unguent_citrinum",
+    "canonical": "??unguent citrinum",
+    "forms": {
+      "latin": [
+        "??unguent citrinum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??unguent_comitis": {
+    "ref_id": "I_??unguent_comitis",
+    "canonical": "??unguent comitis",
+    "forms": {
+      "latin": [
+        "??unguent comitis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??unguent_dyaulte": {
+    "ref_id": "I_??unguent_dyaulte",
+    "canonical": "??unguent dyaulte",
+    "forms": {
+      "latin": [
+        "??unguent dyaulte"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??unguent_fuscum": {
+    "ref_id": "I_??unguent_fuscum",
+    "canonical": "??unguent fuscum",
+    "forms": {
+      "latin": [
+        "??unguent fuscum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??unguent_ponfiligos": {
+    "ref_id": "I_??unguent_ponfiligos",
+    "canonical": "??unguent ponfiligos",
+    "forms": {
+      "latin": [
+        "??unguent ponfiligos"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??unguent_populyon": {
+    "ref_id": "I_??unguent_populyon",
+    "canonical": "??unguent populyon",
+    "forms": {
+      "latin": [
+        "??unguent populyon"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_??unnguant_egiptiacum": {
+    "ref_id": "I_??unnguant_egiptiacum",
+    "canonical": "??unnguant egiptiacum",
+    "forms": {
+      "latin": [
+        "??unnguant egiptiacum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "DALME": 1
+    },
+    "galenic": "",
+    "sources_attested": [
+      "DALME"
+    ]
+  },
+  "I_zuccarum": {
+    "ref_id": "I_zuccarum",
+    "canonical": "zuccarum",
+    "forms": {
+      "latin": [
+        "zuccarum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "Lylye"
+    ]
+  },
+  "I_aqua_rosarum": {
+    "ref_id": "I_aqua_rosarum",
+    "canonical": "aqua_rosarum",
+    "forms": {
+      "latin": [
+        "aqua_rosarum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "Lylye"
+    ]
+  },
+  "I_lithargyrum": {
+    "ref_id": "I_lithargyrum",
+    "canonical": "lithargyrum",
+    "forms": {
+      "latin": [
+        "lithargyrum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "Lylye"
+    ]
+  },
+  "I_oleum_rosatum": {
+    "ref_id": "I_oleum_rosatum",
+    "canonical": "oleum_rosatum",
+    "forms": {
+      "latin": [
+        "oleum_rosatum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "Lylye"
+    ]
+  },
+  "I_mel_rosatum": {
+    "ref_id": "I_mel_rosatum",
+    "canonical": "mel_rosatum",
+    "forms": {
+      "latin": [
+        "mel_rosatum"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "Lylye"
+    ]
+  },
+  "I_lac_mulieris": {
+    "ref_id": "I_lac_mulieris",
+    "canonical": "lac_mulieris",
+    "forms": {
+      "latin": [
+        "lac_mulieris"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "Lylye"
+    ]
+  },
+  "I_endivia": {
+    "ref_id": "I_endivia",
+    "canonical": "endivia",
+    "forms": {
+      "latin": [
+        "endivia"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "Lylye"
+    ]
+  },
+  "I_fumaria": {
+    "ref_id": "I_fumaria",
+    "canonical": "fumaria",
+    "forms": {
+      "latin": [
+        "fumaria"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "Lylye"
+    ]
+  },
+  "I_sal": {
+    "ref_id": "I_sal",
+    "canonical": "sal",
+    "forms": {
+      "latin": [
+        "sal"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "Lylye"
+    ]
+  },
+  "I_albumen_ovi": {
+    "ref_id": "I_albumen_ovi",
+    "canonical": "albumen_ovi",
+    "forms": {
+      "latin": [
+        "albumen_ovi"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "Lylye"
+    ]
+  },
+  "I_capparis": {
+    "ref_id": "I_capparis",
+    "canonical": "capparis",
+    "forms": {
+      "latin": [
+        "capparis"
+      ]
+    },
+    "category": "",
+    "frequency": {
+      "Lylye": 0
+    },
+    "galenic": "",
+    "sources_attested": [
+      "Lylye"
+    ]
+  }
+}

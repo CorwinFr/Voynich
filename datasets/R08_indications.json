@@ -1,0 +1,331 @@
+{
+  "_meta": {
+    "description": "Common medieval diseases and therapeutic indications from pharmaceutical texts",
+    "sources": [
+      "AN",
+      "CI",
+      "Macer",
+      "Avicenna"
+    ],
+    "note": "Seed list. Will grow as more sources are parsed.",
+    "version": "2026-04-11"
+  },
+  "M_dolor_capitis": {
+    "ref_id": "M_dolor_capitis",
+    "canonical": "dolor capitis",
+    "gloss_en": "headache",
+    "forms": {
+      "latin": [
+        "dolor capitis",
+        "capitis dolor",
+        "capitis vitium",
+        "cephalea",
+        "emigranea"
+      ],
+      "old_french": [
+        "dolor del chief",
+        "mal de teste",
+        "hoeftsware"
+      ]
+    }
+  },
+  "M_vertigo": {
+    "ref_id": "M_vertigo",
+    "canonical": "vertigo",
+    "gloss_en": "dizziness",
+    "forms": {
+      "latin": [
+        "vertigo",
+        "vertiginem"
+      ]
+    }
+  },
+  "M_dolor_oculorum": {
+    "ref_id": "M_dolor_oculorum",
+    "canonical": "dolor oculorum",
+    "gloss_en": "eye pain",
+    "forms": {
+      "latin": [
+        "dolor oculorum",
+        "oculorum dolor",
+        "lippitudo",
+        "caliginem oculorum"
+      ],
+      "old_french": [
+        "dolor des oilz",
+        "mal des yex"
+      ]
+    }
+  },
+  "M_dolor_stomachi": {
+    "ref_id": "M_dolor_stomachi",
+    "canonical": "dolor stomachi",
+    "gloss_en": "stomach ache",
+    "forms": {
+      "latin": [
+        "dolor stomachi",
+        "stomachi dolor",
+        "dolor ventris"
+      ],
+      "old_french": [
+        "dolor del ventre",
+        "mal del estomac"
+      ]
+    }
+  },
+  "M_febris": {
+    "ref_id": "M_febris",
+    "canonical": "febris",
+    "gloss_en": "fever",
+    "forms": {
+      "latin": [
+        "febris",
+        "febrem",
+        "febribus",
+        "febris quartana",
+        "febris tertiana",
+        "febris cotidiana"
+      ],
+      "old_french": [
+        "fievre",
+        "fievres",
+        "quartaine",
+        "tiercaine"
+      ]
+    }
+  },
+  "M_vulnus": {
+    "ref_id": "M_vulnus",
+    "canonical": "vulnus",
+    "gloss_en": "wound",
+    "forms": {
+      "latin": [
+        "vulnus",
+        "vulnera",
+        "vulneris",
+        "plaga",
+        "plagam"
+      ],
+      "old_french": [
+        "plaie",
+        "plaies"
+      ]
+    }
+  },
+  "M_ulcus": {
+    "ref_id": "M_ulcus",
+    "canonical": "ulcus",
+    "gloss_en": "ulcer/sore",
+    "forms": {
+      "latin": [
+        "ulcus",
+        "ulceris",
+        "ulcera",
+        "ulceribus"
+      ],
+      "old_french": [
+        "ulcere",
+        "ulceres"
+      ]
+    }
+  },
+  "M_tussis": {
+    "ref_id": "M_tussis",
+    "canonical": "tussis",
+    "gloss_en": "cough",
+    "forms": {
+      "latin": [
+        "tussis",
+        "tussim",
+        "tussi"
+      ],
+      "old_french": [
+        "toz",
+        "tos"
+      ]
+    }
+  },
+  "M_asthma": {
+    "ref_id": "M_asthma",
+    "canonical": "asthma",
+    "gloss_en": "difficulty breathing",
+    "forms": {
+      "latin": [
+        "asthma",
+        "asma",
+        "dyspnea",
+        "orthopnea"
+      ],
+      "old_french": [
+        "asme"
+      ]
+    }
+  },
+  "M_constipatio": {
+    "ref_id": "M_constipatio",
+    "canonical": "constipatio",
+    "gloss_en": "constipation",
+    "forms": {
+      "latin": [
+        "constipatio",
+        "stipticitas",
+        "ventris constrictio"
+      ]
+    }
+  },
+  "M_diarrhea": {
+    "ref_id": "M_diarrhea",
+    "canonical": "diarrhea",
+    "gloss_en": "diarrhea",
+    "forms": {
+      "latin": [
+        "diarrhea",
+        "diarrhoea",
+        "fluxus ventris",
+        "lienteria"
+      ],
+      "old_french": [
+        "flux del ventre"
+      ]
+    }
+  },
+  "M_dolor": {
+    "ref_id": "M_dolor",
+    "canonical": "dolor",
+    "gloss_en": "pain (general)",
+    "forms": {
+      "latin": [
+        "dolor",
+        "dolorem",
+        "dolore",
+        "doloris"
+      ],
+      "old_french": [
+        "dolor",
+        "dolur"
+      ]
+    }
+  },
+  "M_apostema": {
+    "ref_id": "M_apostema",
+    "canonical": "apostema",
+    "gloss_en": "abscess/swelling",
+    "forms": {
+      "latin": [
+        "apostema",
+        "apostemata",
+        "apostematis",
+        "tumor",
+        "tumorem"
+      ],
+      "old_french": [
+        "aposteme",
+        "enflement"
+      ]
+    }
+  },
+  "M_calculus": {
+    "ref_id": "M_calculus",
+    "canonical": "calculus",
+    "gloss_en": "kidney/bladder stone",
+    "forms": {
+      "latin": [
+        "calculus",
+        "calculum",
+        "lapis",
+        "lapidem",
+        "lapidis"
+      ],
+      "old_french": [
+        "pierre",
+        "gravele"
+      ]
+    }
+  },
+  "M_scabies": {
+    "ref_id": "M_scabies",
+    "canonical": "scabies",
+    "gloss_en": "scabies/itch",
+    "forms": {
+      "latin": [
+        "scabies",
+        "scabiem",
+        "pruritus",
+        "pruritum"
+      ],
+      "old_french": [
+        "roigne",
+        "demangeison"
+      ]
+    }
+  },
+  "M_arthritis": {
+    "ref_id": "M_arthritis",
+    "canonical": "arthritis",
+    "gloss_en": "joint pain/gout",
+    "forms": {
+      "latin": [
+        "arthritis",
+        "articulorum dolor",
+        "podagra",
+        "gutta"
+      ],
+      "old_french": [
+        "goute",
+        "artetike"
+      ]
+    }
+  },
+  "M_menstrua": {
+    "ref_id": "M_menstrua",
+    "canonical": "menstrua",
+    "gloss_en": "menstruation",
+    "forms": {
+      "latin": [
+        "menstrua",
+        "menstruorum",
+        "menses",
+        "purgatio mulieris"
+      ],
+      "old_french": [
+        "flors de feme",
+        "purgation"
+      ]
+    }
+  },
+  "M_venenum": {
+    "ref_id": "M_venenum",
+    "canonical": "venenum",
+    "gloss_en": "poison/venom",
+    "forms": {
+      "latin": [
+        "venenum",
+        "veneni",
+        "venenum",
+        "morsus serpentis",
+        "morsus canis"
+      ],
+      "old_french": [
+        "venin",
+        "morsure"
+      ]
+    }
+  },
+  "M_vermes": {
+    "ref_id": "M_vermes",
+    "canonical": "vermes",
+    "gloss_en": "intestinal worms",
+    "forms": {
+      "latin": [
+        "vermes",
+        "vermium",
+        "lumbrici",
+        "lumbricorum"
+      ],
+      "old_french": [
+        "vers",
+        "verms"
+      ]
+    }
+  }
+}

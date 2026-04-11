@@ -1,0 +1,394 @@
+{
+  "_meta": {
+    "description": "Galenic pharmaceutical forms (types of preparations)",
+    "sources": [
+      "AN",
+      "CI",
+      "Grabadin",
+      "Compendium Aromatariorum"
+    ],
+    "version": "2026-04-11"
+  },
+  "F_electuarium": {
+    "ref_id": "F_electuarium",
+    "canonical": "electuarium",
+    "gloss_en": "electuary (paste with honey)",
+    "forms": {
+      "latin": [
+        "electuarium",
+        "electuarii",
+        "electuario"
+      ],
+      "old_french": [
+        "letuaire",
+        "electuaire"
+      ],
+      "italian": [
+        "elettuario"
+      ]
+    },
+    "description": "Soft paste of powdered drugs mixed with honey or syrup. Taken orally.",
+    "AN_count": 35,
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "F_unguentum": {
+    "ref_id": "F_unguentum",
+    "canonical": "unguentum",
+    "gloss_en": "ointment",
+    "forms": {
+      "latin": [
+        "unguentum",
+        "unguenti",
+        "unguento"
+      ],
+      "old_french": [
+        "oignement",
+        "oingnement"
+      ],
+      "italian": [
+        "unguento"
+      ]
+    },
+    "description": "Fat-based preparation for external application (wax + oil + drugs).",
+    "AN_count": 18,
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "F_emplastrum": {
+    "ref_id": "F_emplastrum",
+    "canonical": "emplastrum",
+    "gloss_en": "plaster/poultice",
+    "forms": {
+      "latin": [
+        "emplastrum",
+        "emplastri",
+        "emplastro"
+      ],
+      "old_french": [
+        "emplastre"
+      ],
+      "italian": [
+        "impiastro",
+        "empiastro"
+      ]
+    },
+    "description": "Adhesive preparation applied to skin. Wax/resin base.",
+    "AN_count": 12,
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "F_syrupus": {
+    "ref_id": "F_syrupus",
+    "canonical": "syrupus",
+    "gloss_en": "syrup",
+    "forms": {
+      "latin": [
+        "syrupus",
+        "syrupi",
+        "syrupo",
+        "sirupus"
+      ],
+      "old_french": [
+        "syrop",
+        "sirop"
+      ],
+      "italian": [
+        "sciroppo"
+      ]
+    },
+    "description": "Sugar/honey solution infused with drugs. Taken orally.",
+    "AN_count": 15,
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "F_pilulae": {
+    "ref_id": "F_pilulae",
+    "canonical": "pilulae",
+    "gloss_en": "pills",
+    "forms": {
+      "latin": [
+        "pilulae",
+        "pilularum",
+        "pililas"
+      ],
+      "old_french": [
+        "pillules",
+        "piloles"
+      ],
+      "italian": [
+        "pillole"
+      ]
+    },
+    "description": "Small balls of drug paste. Rolled by hand.",
+    "AN_count": 10,
+    "sources_attested": [
+      "AN",
+      "Grabadin"
+    ]
+  },
+  "F_trochisci": {
+    "ref_id": "F_trochisci",
+    "canonical": "trochisci",
+    "gloss_en": "lozenges/tablets",
+    "forms": {
+      "latin": [
+        "trochisci",
+        "trochiscorum",
+        "trochiscus"
+      ],
+      "old_french": [
+        "trochisques",
+        "pastilles"
+      ]
+    },
+    "description": "Flat discs of dried drug paste. Dissolved in mouth or reconstituted.",
+    "AN_count": 8,
+    "sources_attested": [
+      "AN",
+      "Grabadin"
+    ]
+  },
+  "F_pulvis": {
+    "ref_id": "F_pulvis",
+    "canonical": "pulvis",
+    "gloss_en": "powder",
+    "forms": {
+      "latin": [
+        "pulvis",
+        "pulveris",
+        "pulvere"
+      ],
+      "old_french": [
+        "poldre",
+        "poudre"
+      ],
+      "italian": [
+        "polvere"
+      ]
+    },
+    "description": "Ground drug. Simplest form. Often mixed with liquid before use.",
+    "AN_count": 20,
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "F_oleum": {
+    "ref_id": "F_oleum",
+    "canonical": "oleum",
+    "gloss_en": "medicated oil",
+    "forms": {
+      "latin": [
+        "oleum",
+        "olei",
+        "oleo"
+      ],
+      "old_french": [
+        "huile",
+        "oile"
+      ],
+      "italian": [
+        "olio"
+      ]
+    },
+    "description": "Oil infused with drugs by heating/maceration.",
+    "AN_count": 5,
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "F_decoctio": {
+    "ref_id": "F_decoctio",
+    "canonical": "decoctio",
+    "gloss_en": "decoction",
+    "forms": {
+      "latin": [
+        "decoctio",
+        "decoctionis",
+        "decoctione"
+      ],
+      "old_french": [
+        "decoction",
+        "cuiture"
+      ]
+    },
+    "description": "Liquid obtained by boiling plant material in water/wine.",
+    "AN_count": 0,
+    "sources_attested": [
+      "CI",
+      "Macer"
+    ]
+  },
+  "F_infusio": {
+    "ref_id": "F_infusio",
+    "canonical": "infusio",
+    "gloss_en": "infusion",
+    "forms": {
+      "latin": [
+        "infusio",
+        "infusionis",
+        "infusione"
+      ]
+    },
+    "description": "Liquid obtained by steeping plant material without boiling.",
+    "AN_count": 0,
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "F_cataplasma": {
+    "ref_id": "F_cataplasma",
+    "canonical": "cataplasma",
+    "gloss_en": "poultice/cataplasm",
+    "forms": {
+      "latin": [
+        "cataplasma",
+        "cataplasma",
+        "cataplasmate"
+      ],
+      "old_french": [
+        "cataplasme"
+      ]
+    },
+    "description": "Warm, moist mass of herbs applied to body.",
+    "AN_count": 3,
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_collyrium": {
+    "ref_id": "F_collyrium",
+    "canonical": "collyrium",
+    "gloss_en": "eye-wash/eye-drop",
+    "forms": {
+      "latin": [
+        "collyrium",
+        "collyrii",
+        "collyrio"
+      ]
+    },
+    "description": "Liquid or ointment for eye treatment.",
+    "AN_count": 5,
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "F_gargarisma": {
+    "ref_id": "F_gargarisma",
+    "canonical": "gargarisma",
+    "gloss_en": "gargle",
+    "forms": {
+      "latin": [
+        "gargarisma",
+        "gargarismum",
+        "gargarismus"
+      ]
+    },
+    "description": "Liquid for throat gargling.",
+    "AN_count": 2,
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_suppositoria": {
+    "ref_id": "F_suppositoria",
+    "canonical": "suppositoria",
+    "gloss_en": "suppository",
+    "forms": {
+      "latin": [
+        "suppositoria",
+        "suppositorium",
+        "pessarium",
+        "pessaria"
+      ]
+    },
+    "description": "Solid preparation inserted rectally or vaginally.",
+    "AN_count": 3,
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "F_ceratum": {
+    "ref_id": "F_ceratum",
+    "canonical": "ceratum",
+    "gloss_en": "cerate (wax preparation)",
+    "forms": {
+      "latin": [
+        "ceratum",
+        "cerati",
+        "cerato"
+      ],
+      "old_french": [
+        "cerat"
+      ]
+    },
+    "description": "Wax-based preparation, stiffer than ointment.",
+    "AN_count": 4,
+    "sources_attested": [
+      "AN",
+      "Grabadin"
+    ]
+  },
+  "F_confectio": {
+    "ref_id": "F_confectio",
+    "canonical": "confectio",
+    "gloss_en": "confection",
+    "forms": {
+      "latin": [
+        "confectio",
+        "confectionis",
+        "confectione"
+      ],
+      "old_french": [
+        "confection"
+      ]
+    },
+    "description": "General term for prepared compound medicine.",
+    "AN_count": 10,
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_potio": {
+    "ref_id": "F_potio",
+    "canonical": "potio",
+    "gloss_en": "potion/drink",
+    "forms": {
+      "latin": [
+        "potio",
+        "potionis",
+        "potione",
+        "potus"
+      ],
+      "old_french": [
+        "boisson",
+        "bevrage"
+      ]
+    },
+    "description": "Liquid medicine taken by mouth.",
+    "AN_count": 5,
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  }
+}

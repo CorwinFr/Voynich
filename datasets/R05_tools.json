@@ -1,0 +1,311 @@
+{
+  "_meta": {
+    "description": "Pharmaceutical instruments and supports mentioned in medieval recipes",
+    "sources": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ],
+    "version": "2026-04-11"
+  },
+  "T_mortarium": {
+    "ref_id": "T_mortarium",
+    "canonical": "mortarium",
+    "gloss_en": "mortar",
+    "forms": {
+      "latin": [
+        "mortarium",
+        "mortarii",
+        "mortario"
+      ],
+      "old_french": [
+        "mortier"
+      ]
+    },
+    "use": "Grinding drugs with pestle",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "T_pistillum": {
+    "ref_id": "T_pistillum",
+    "canonical": "pistillum",
+    "gloss_en": "pestle",
+    "forms": {
+      "latin": [
+        "pistillum",
+        "pistilli",
+        "pistillo"
+      ],
+      "old_french": [
+        "pestel",
+        "pilote"
+      ]
+    },
+    "use": "Grinding in mortar",
+    "sources_attested": [
+      "AN",
+      "Grabadin"
+    ]
+  },
+  "T_ignis": {
+    "ref_id": "T_ignis",
+    "canonical": "ignis",
+    "gloss_en": "fire",
+    "forms": {
+      "latin": [
+        "ignis",
+        "ignem",
+        "igni",
+        "ignis lentus",
+        "ignem lentum"
+      ],
+      "old_french": [
+        "feu",
+        "feu lent"
+      ]
+    },
+    "use": "Heating/cooking. ignis lentus = slow/gentle fire",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "T_pannus": {
+    "ref_id": "T_pannus",
+    "canonical": "pannus",
+    "gloss_en": "cloth (for straining)",
+    "forms": {
+      "latin": [
+        "pannus",
+        "pannum",
+        "panno",
+        "linteum",
+        "linteo"
+      ],
+      "old_french": [
+        "drap",
+        "linge"
+      ]
+    },
+    "use": "Straining liquid (cola per pannum)",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "T_vas": {
+    "ref_id": "T_vas",
+    "canonical": "vas",
+    "gloss_en": "vessel/container",
+    "forms": {
+      "latin": [
+        "vas",
+        "vase",
+        "vasis",
+        "vaso"
+      ],
+      "old_french": [
+        "vaissel",
+        "pot"
+      ]
+    },
+    "use": "Storage or processing",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "T_setaceum": {
+    "ref_id": "T_setaceum",
+    "canonical": "setaceum",
+    "gloss_en": "sieve",
+    "forms": {
+      "latin": [
+        "setaceum",
+        "setaceo",
+        "cribrum",
+        "cribro"
+      ],
+      "old_french": [
+        "tamis",
+        "bultel"
+      ]
+    },
+    "use": "Sifting powder",
+    "sources_attested": [
+      "AN",
+      "Grabadin"
+    ]
+  },
+  "T_olla": {
+    "ref_id": "T_olla",
+    "canonical": "olla",
+    "gloss_en": "pot (for cooking)",
+    "forms": {
+      "latin": [
+        "olla",
+        "ollam",
+        "olla",
+        "cacabus",
+        "cacabo"
+      ],
+      "old_french": [
+        "pot",
+        "chauderon"
+      ]
+    },
+    "use": "Boiling/decoction",
+    "sources_attested": [
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "T_spatula": {
+    "ref_id": "T_spatula",
+    "canonical": "spatula",
+    "gloss_en": "spatula",
+    "forms": {
+      "latin": [
+        "spatula",
+        "spatulam",
+        "spatula"
+      ]
+    },
+    "use": "Stirring/mixing ointments",
+    "sources_attested": [
+      "Grabadin"
+    ]
+  },
+  "T_cera": {
+    "ref_id": "T_cera",
+    "canonical": "cera",
+    "gloss_en": "wax (as base material)",
+    "forms": {
+      "latin": [
+        "cera",
+        "ceram",
+        "cerae",
+        "cera alba",
+        "cera nova"
+      ],
+      "old_french": [
+        "cire",
+        "cire blanche"
+      ]
+    },
+    "use": "Base for ointments and cerates. Melted with oil.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "T_aqua": {
+    "ref_id": "T_aqua",
+    "canonical": "aqua",
+    "gloss_en": "water (as vehicle/solvent)",
+    "forms": {
+      "latin": [
+        "aqua",
+        "aquam",
+        "aquae",
+        "aqua calida",
+        "aqua frigida",
+        "aqua rosata",
+        "aqua fontana"
+      ],
+      "old_french": [
+        "eve",
+        "eave",
+        "iaue",
+        "eve chaude",
+        "eve froide",
+        "eve rose"
+      ]
+    },
+    "use": "Vehicle for dissolving, washing, decoction. aqua rosata = rose water.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "T_vinum": {
+    "ref_id": "T_vinum",
+    "canonical": "vinum",
+    "gloss_en": "wine (as vehicle/solvent)",
+    "forms": {
+      "latin": [
+        "vinum",
+        "vino",
+        "vini",
+        "vinum album",
+        "vinum rubeum",
+        "vinum calidum"
+      ],
+      "old_french": [
+        "vin",
+        "vin blanc",
+        "vin vermel",
+        "vin chaut"
+      ]
+    },
+    "use": "Vehicle for oral medicines. detur cum vino calido.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "T_mel": {
+    "ref_id": "T_mel",
+    "canonical": "mel",
+    "gloss_en": "honey (as excipient)",
+    "forms": {
+      "latin": [
+        "mel",
+        "melle",
+        "mellis",
+        "mel rosatum",
+        "mel despumatum"
+      ],
+      "old_french": [
+        "miel",
+        "miel rosat",
+        "miel escume"
+      ]
+    },
+    "use": "Excipient for electuaries. mel despumatum = clarified honey.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "T_acetum": {
+    "ref_id": "T_acetum",
+    "canonical": "acetum",
+    "gloss_en": "vinegar (as vehicle)",
+    "forms": {
+      "latin": [
+        "acetum",
+        "aceto",
+        "aceti",
+        "acetum forte"
+      ],
+      "old_french": [
+        "aisil",
+        "vinaigre"
+      ]
+    },
+    "use": "Vehicle/solvent. Strong solvent for minerals.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  }
+}

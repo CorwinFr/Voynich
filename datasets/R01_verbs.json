@@ -1,0 +1,909 @@
+{
+  "_meta": {
+    "description": "Pharmaceutical verbs of medieval Latin and vernacular traditions (12th-15th c.)",
+    "sources": [
+      "Antidotarium Nicolai (van den Berg 1917)",
+      "Circa Instans (Dorveaux 1913)",
+      "Grabadin / Liber Servitoris (Al-Zahrawi)",
+      "Macer Floridus (Choulant 1832)",
+      "Ricettario Fiorentino (1498)",
+      "Compendium Aromatariorum (Saladino 1488)"
+    ],
+    "version": "2026-04-11"
+  },
+  "V_recipe": {
+    "ref_id": "V_recipe",
+    "canonical": "recipe",
+    "gloss_en": "take/prepare",
+    "gloss_fr": "prends",
+    "forms": {
+      "latin": [
+        "recipe",
+        "recipiat",
+        "recipiatur",
+        "recipiantur",
+        "accipe",
+        "accipiat"
+      ],
+      "old_french": [
+        "prenez",
+        "pren",
+        "pernez"
+      ],
+      "italian": [
+        "prendi",
+        "recipe",
+        "ricevi"
+      ],
+      "middle_dutch": [
+        "nemt"
+      ],
+      "abbreviation": [
+        "Rp.",
+        "R."
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 137,
+      "CI": 365
+    },
+    "notes": "Universal opening verb of every recipe. Abbreviated Rp. in manuscripts.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin",
+      "Macer",
+      "Ricettario Fiorentino"
+    ]
+  },
+  "V_misce": {
+    "ref_id": "V_misce",
+    "canonical": "misce",
+    "gloss_en": "mix/blend",
+    "gloss_fr": "melange",
+    "forms": {
+      "latin": [
+        "misce",
+        "misceatur",
+        "misceantur",
+        "commisce",
+        "commisceatur",
+        "incorpora",
+        "incorporetur"
+      ],
+      "old_french": [
+        "meslez",
+        "melliz"
+      ],
+      "italian": [
+        "mescola",
+        "mischia"
+      ],
+      "abbreviation": [
+        "M."
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 72,
+      "CI": 50
+    },
+    "notes": "Core mixing verb. Often final instruction.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_tere": {
+    "ref_id": "V_tere",
+    "canonical": "tere",
+    "gloss_en": "grind/crush",
+    "gloss_fr": "broie/pile",
+    "forms": {
+      "latin": [
+        "tere",
+        "terantur",
+        "teratur",
+        "contere",
+        "contundantur",
+        "contundatur",
+        "trita",
+        "tritum",
+        "tritus",
+        "pulveriza",
+        "pulverizetur"
+      ],
+      "old_french": [
+        "tribliz",
+        "triblez",
+        "pilez",
+        "broiez"
+      ],
+      "italian": [
+        "pesta",
+        "trita",
+        "macina"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 89,
+      "CI": 80
+    },
+    "notes": "Grinding in mortar. 'terantur' = most common passive form in AN. 89/137 AN recipes.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_coque": {
+    "ref_id": "V_coque",
+    "canonical": "coque",
+    "gloss_en": "cook/boil",
+    "gloss_fr": "cuis",
+    "forms": {
+      "latin": [
+        "coque",
+        "coquatur",
+        "coquantur",
+        "coctum",
+        "cocta",
+        "coctus",
+        "decoque",
+        "decoquatur",
+        "bulliat",
+        "bulliatur",
+        "fac bullire"
+      ],
+      "old_french": [
+        "cuire",
+        "cuite",
+        "cuisiez",
+        "faites cuire",
+        "cuisez"
+      ],
+      "italian": [
+        "cuoci",
+        "cuocere",
+        "cotto",
+        "bollire"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 45,
+      "CI": 175
+    },
+    "notes": "Core cooking verb. Often cum (with) + liquid (aqua, vino). decoque = decoct (reduce by boiling).",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin",
+      "Macer"
+    ]
+  },
+  "V_cola": {
+    "ref_id": "V_cola",
+    "canonical": "cola",
+    "gloss_en": "strain/filter",
+    "gloss_fr": "filtre/passe",
+    "forms": {
+      "latin": [
+        "cola",
+        "coletur",
+        "colentur",
+        "colatum",
+        "colata"
+      ],
+      "old_french": [
+        "coulez",
+        "colez"
+      ],
+      "italian": [
+        "cola",
+        "colate"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 31,
+      "CI": 40
+    },
+    "notes": "Straining through cloth (per pannum). After cooking/infusing.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_solve": {
+    "ref_id": "V_solve",
+    "canonical": "solve",
+    "gloss_en": "dissolve",
+    "gloss_fr": "dissous",
+    "forms": {
+      "latin": [
+        "solve",
+        "solvatur",
+        "solvantur",
+        "solutum",
+        "soluta",
+        "dissolve",
+        "dissolvatur"
+      ],
+      "old_french": [
+        "fondez",
+        "destemperez"
+      ],
+      "italian": [
+        "dissolvi",
+        "sciogli"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 20,
+      "CI": 15
+    },
+    "notes": "Dissolving in liquid. solve in aqua/vino.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_infunde": {
+    "ref_id": "V_infunde",
+    "canonical": "infunde",
+    "gloss_en": "infuse/steep",
+    "gloss_fr": "infuse/trempe",
+    "forms": {
+      "latin": [
+        "infunde",
+        "infundatur",
+        "infundantur",
+        "infusum",
+        "infusa",
+        "macera",
+        "maceretur"
+      ],
+      "old_french": [
+        "trempez",
+        "metez tremper"
+      ],
+      "italian": [
+        "infundi",
+        "macera"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 15,
+      "CI": 25
+    },
+    "notes": "Steeping in liquid. Often overnight (per noctem).",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_funde": {
+    "ref_id": "V_funde",
+    "canonical": "funde",
+    "gloss_en": "pour",
+    "gloss_fr": "verse",
+    "forms": {
+      "latin": [
+        "funde",
+        "fundatur",
+        "effunde",
+        "effundatur",
+        "superfunde"
+      ],
+      "old_french": [
+        "versez",
+        "getez"
+      ],
+      "italian": [
+        "versa"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 10,
+      "CI": 20
+    },
+    "notes": "Pouring liquid. superfunde = pour over.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_pone": {
+    "ref_id": "V_pone",
+    "canonical": "pone",
+    "gloss_en": "place/put",
+    "gloss_fr": "mets/place",
+    "forms": {
+      "latin": [
+        "pone",
+        "ponatur",
+        "ponantur",
+        "positum",
+        "impone",
+        "imponatur",
+        "superpone"
+      ],
+      "old_french": [
+        "metez",
+        "metez desus",
+        "metez dedenz"
+      ],
+      "italian": [
+        "poni",
+        "metti"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 25,
+      "CI": 422
+    },
+    "notes": "Placing ingredient in vessel, on wound, etc. metez is the #1 CI verb.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_adde": {
+    "ref_id": "V_adde",
+    "canonical": "adde",
+    "gloss_en": "add",
+    "gloss_fr": "ajoute",
+    "forms": {
+      "latin": [
+        "adde",
+        "addatur",
+        "addantur",
+        "additum",
+        "adiunge",
+        "adiice"
+      ],
+      "old_french": [
+        "ajostez",
+        "metez"
+      ],
+      "italian": [
+        "aggiungi"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 30,
+      "CI": 20
+    },
+    "notes": "Adding ingredient to mixture. adde X ad Y.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_liquefac": {
+    "ref_id": "V_liquefac",
+    "canonical": "liquefac",
+    "gloss_en": "melt/liquefy",
+    "gloss_fr": "fonds/liquefie",
+    "forms": {
+      "latin": [
+        "liquefac",
+        "liquefiat",
+        "liquefactum",
+        "liquefacta"
+      ],
+      "old_french": [
+        "fondez"
+      ],
+      "italian": [
+        "liquefa",
+        "fondi"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 15,
+      "Grabadin": 40
+    },
+    "notes": "Melting wax, fat, resin. liquefac super ignem lentum (melt over slow fire).",
+    "sources_attested": [
+      "AN",
+      "Grabadin"
+    ]
+  },
+  "V_exprime": {
+    "ref_id": "V_exprime",
+    "canonical": "exprime",
+    "gloss_en": "press out/squeeze",
+    "gloss_fr": "exprime/presse",
+    "forms": {
+      "latin": [
+        "exprime",
+        "exprimatur",
+        "expressum",
+        "pressa"
+      ],
+      "old_french": [
+        "premez",
+        "pressez",
+        "espraignez"
+      ],
+      "italian": [
+        "spremi"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 8,
+      "CI": 30
+    },
+    "notes": "Pressing juice from herbs. Often succum exprime.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_incide": {
+    "ref_id": "V_incide",
+    "canonical": "incide",
+    "gloss_en": "cut/chop",
+    "gloss_fr": "coupe/taille",
+    "forms": {
+      "latin": [
+        "incide",
+        "incidantur",
+        "incidatur",
+        "concide",
+        "minue",
+        "minutim"
+      ],
+      "old_french": [
+        "tailliez",
+        "detrenchiz",
+        "copez"
+      ],
+      "italian": [
+        "taglia",
+        "trita"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 12,
+      "CI": 25
+    },
+    "notes": "Cutting herbs before processing. minutim = finely.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_ablue": {
+    "ref_id": "V_ablue",
+    "canonical": "ablue",
+    "gloss_en": "wash",
+    "gloss_fr": "lave",
+    "forms": {
+      "latin": [
+        "ablue",
+        "abluatur",
+        "abluantur",
+        "ablutum",
+        "abluta",
+        "lava",
+        "lavetur"
+      ],
+      "old_french": [
+        "lavez"
+      ],
+      "italian": [
+        "lava"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 10,
+      "CI": 36
+    },
+    "notes": "Washing ingredients or wound. ablue cum aqua.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_da": {
+    "ref_id": "V_da",
+    "canonical": "da",
+    "gloss_en": "give/administer",
+    "gloss_fr": "donne",
+    "forms": {
+      "latin": [
+        "da",
+        "detur",
+        "datur",
+        "dentur",
+        "dantur",
+        "exhibe",
+        "exhibeatur",
+        "propina",
+        "propinetur"
+      ],
+      "old_french": [
+        "donez",
+        "donez a boivre"
+      ],
+      "italian": [
+        "dai",
+        "somministra"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 118,
+      "CI": 212
+    },
+    "notes": "Administering to patient. detur cum vino/aqua. datur = is given.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_fiat": {
+    "ref_id": "V_fiat",
+    "canonical": "fiat",
+    "gloss_en": "let it be made",
+    "gloss_fr": "qu'il soit fait",
+    "forms": {
+      "latin": [
+        "fiat",
+        "fiant",
+        "conficiatur",
+        "conficiantur",
+        "dispensentur",
+        "dispensetur",
+        "formetur",
+        "formentur"
+      ],
+      "old_french": [
+        "faites",
+        "soit fait"
+      ],
+      "italian": [
+        "sia fatto"
+      ],
+      "abbreviation": [
+        "ft."
+      ]
+    },
+    "pos": "verb_subjunctive",
+    "frequency": {
+      "AN": 198,
+      "CI": 292
+    },
+    "notes": "Final instruction. fiat electuarium/unguentum/emplastrum. ft. = abbreviation.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_valet": {
+    "ref_id": "V_valet",
+    "canonical": "valet",
+    "gloss_en": "is effective against",
+    "gloss_fr": "vaut contre",
+    "forms": {
+      "latin": [
+        "valet",
+        "prodest",
+        "confert",
+        "iuvat",
+        "auxiliatur"
+      ],
+      "old_french": [
+        "vaut",
+        "valt",
+        "est bon"
+      ],
+      "italian": [
+        "vale",
+        "giova"
+      ]
+    },
+    "pos": "verb_indicative",
+    "frequency": {
+      "AN": 155,
+      "CI": 300
+    },
+    "notes": "Introduces therapeutic indication. valet contra/ad + disease.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_purgat": {
+    "ref_id": "V_purgat",
+    "canonical": "purgat",
+    "gloss_en": "purges/cleanses",
+    "gloss_fr": "purge",
+    "forms": {
+      "latin": [
+        "purgat",
+        "purgatur",
+        "mundificat",
+        "mundificatur",
+        "abstergit",
+        "evacuat"
+      ],
+      "old_french": [
+        "purge",
+        "nettoie"
+      ],
+      "italian": [
+        "purga"
+      ]
+    },
+    "pos": "verb_indicative",
+    "frequency": {
+      "AN": 104,
+      "CI": 60
+    },
+    "notes": "Purgative action. Key concept in humoral medicine.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer",
+      "Avicenna"
+    ]
+  },
+  "V_confortat": {
+    "ref_id": "V_confortat",
+    "canonical": "confortat",
+    "gloss_en": "strengthens",
+    "gloss_fr": "conforte/renforce",
+    "forms": {
+      "latin": [
+        "confortat",
+        "confortatur",
+        "roborat",
+        "firmat",
+        "corroborat"
+      ],
+      "old_french": [
+        "conforte",
+        "renforce"
+      ],
+      "italian": [
+        "conforta"
+      ]
+    },
+    "pos": "verb_indicative",
+    "frequency": {
+      "AN": 40,
+      "CI": 50
+    },
+    "notes": "Strengthening organ/body. confortat stomachum/cerebrum.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_provocat": {
+    "ref_id": "V_provocat",
+    "canonical": "provocat",
+    "gloss_en": "provokes/stimulates",
+    "gloss_fr": "provoque",
+    "forms": {
+      "latin": [
+        "provocat",
+        "movet",
+        "excitat",
+        "stimulat"
+      ],
+      "old_french": [
+        "esmeut",
+        "provoque"
+      ],
+      "italian": [
+        "provoca"
+      ]
+    },
+    "pos": "verb_indicative",
+    "frequency": {
+      "AN": 20,
+      "CI": 60
+    },
+    "notes": "provocat urinam/menstrua/sudorem. Key pharma concept.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_sanat": {
+    "ref_id": "V_sanat",
+    "canonical": "sanat",
+    "gloss_en": "heals/cures",
+    "gloss_fr": "guerit/soigne",
+    "forms": {
+      "latin": [
+        "sanat",
+        "curat",
+        "medetur",
+        "remediat"
+      ],
+      "old_french": [
+        "garist",
+        "sane"
+      ],
+      "italian": [
+        "sana",
+        "guarisce"
+      ]
+    },
+    "pos": "verb_indicative",
+    "frequency": {
+      "AN": 30,
+      "CI": 80
+    },
+    "notes": "General healing. sanat vulnera/ulcera.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_ungue": {
+    "ref_id": "V_ungue",
+    "canonical": "ungue",
+    "gloss_en": "anoint/apply ointment",
+    "gloss_fr": "oins",
+    "forms": {
+      "latin": [
+        "ungue",
+        "ungatur",
+        "inunge",
+        "inungatur",
+        "lini",
+        "liniatur",
+        "illini"
+      ],
+      "old_french": [
+        "oigniez",
+        "enoingnez"
+      ],
+      "italian": [
+        "ungi"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 15,
+      "CI": 79
+    },
+    "notes": "Applying ointment/oil to body. oigniez = 4th most common CI verb.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_bibe": {
+    "ref_id": "V_bibe",
+    "canonical": "bibe",
+    "gloss_en": "drink",
+    "gloss_fr": "bois",
+    "forms": {
+      "latin": [
+        "bibe",
+        "bibat",
+        "bibatur",
+        "potetur",
+        "sumat",
+        "sumatur",
+        "sumitur"
+      ],
+      "old_french": [
+        "bevez",
+        "boivre",
+        "beu"
+      ],
+      "italian": [
+        "bevi"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 30,
+      "CI": 100
+    },
+    "notes": "Taking medicine orally. bibe/sumat cum vino/aqua.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_sicca": {
+    "ref_id": "V_sicca",
+    "canonical": "sicca",
+    "gloss_en": "dry",
+    "gloss_fr": "seche",
+    "forms": {
+      "latin": [
+        "sicca",
+        "siccetur",
+        "siccentur",
+        "desiccatur",
+        "exsicca"
+      ],
+      "old_french": [
+        "seichiez",
+        "faites secher"
+      ],
+      "italian": [
+        "secca"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 8,
+      "CI": 15
+    },
+    "notes": "Drying herbs before grinding. In shade (in umbra) or sun (in sole).",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_cribra": {
+    "ref_id": "V_cribra",
+    "canonical": "cribra",
+    "gloss_en": "sift/sieve",
+    "gloss_fr": "tamise",
+    "forms": {
+      "latin": [
+        "cribra",
+        "cribretur",
+        "cribrentur",
+        "cerne",
+        "cernatur"
+      ],
+      "old_french": [
+        "tamisez",
+        "buletez"
+      ],
+      "italian": [
+        "setaccia"
+      ]
+    },
+    "pos": "verb_imperative",
+    "frequency": {
+      "AN": 10,
+      "CI": 8
+    },
+    "notes": "Sifting powder after grinding. per setaceum/cribrum.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  }
+}

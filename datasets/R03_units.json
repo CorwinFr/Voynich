@@ -1,0 +1,315 @@
+{
+  "_meta": {
+    "description": "Medieval pharmaceutical weights, measures, and dose markers",
+    "sources": [
+      "AN (van den Berg 1917)",
+      "Compendium Aromatariorum (Saladino 1488)",
+      "CI (Dorveaux 1913)"
+    ],
+    "version": "2026-04-11"
+  },
+  "U_granum": {
+    "ref_id": "U_granum",
+    "canonical": "granum",
+    "gloss_en": "grain",
+    "type": "weight",
+    "forms": {
+      "latin": [
+        "granum",
+        "grani",
+        "grana",
+        "granorum"
+      ],
+      "old_french": [
+        "grain",
+        "grains",
+        "corne",
+        "cornes"
+      ],
+      "abbreviation": [
+        "gr.",
+        "g."
+      ]
+    },
+    "weight_grams": 0.065,
+    "subdivisions": "smallest unit",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Compendium"
+    ]
+  },
+  "U_scrupulus": {
+    "ref_id": "U_scrupulus",
+    "canonical": "scrupulus",
+    "gloss_en": "scruple",
+    "type": "weight",
+    "forms": {
+      "latin": [
+        "scrupulus",
+        "scrupuli",
+        "scrupulum",
+        "scrupulos"
+      ],
+      "abbreviation": [
+        "scr.",
+        "3"
+      ]
+    },
+    "weight_grams": 1.3,
+    "subdivisions": "1 scrupulus = 20 grana",
+    "sources_attested": [
+      "AN",
+      "Compendium"
+    ]
+  },
+  "U_drachma": {
+    "ref_id": "U_drachma",
+    "canonical": "drachma",
+    "gloss_en": "drachm",
+    "type": "weight",
+    "forms": {
+      "latin": [
+        "drachma",
+        "drachmam",
+        "drachmas",
+        "drachmae",
+        "dragma",
+        "dragmam"
+      ],
+      "old_french": [
+        "drame",
+        "dragme",
+        "drames"
+      ],
+      "abbreviation": [
+        ".z.",
+        "dr.",
+        "3"
+      ]
+    },
+    "weight_grams": 3.9,
+    "subdivisions": "1 drachma = 3 scrupuli = 60 grana",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Compendium"
+    ]
+  },
+  "U_uncia": {
+    "ref_id": "U_uncia",
+    "canonical": "uncia",
+    "gloss_en": "ounce",
+    "type": "weight",
+    "forms": {
+      "latin": [
+        "uncia",
+        "unciam",
+        "uncias",
+        "unciae",
+        "unciarum"
+      ],
+      "old_french": [
+        "once",
+        "onces"
+      ],
+      "abbreviation": [
+        ".O.",
+        "oz.",
+        "j."
+      ]
+    },
+    "weight_grams": 31.1,
+    "subdivisions": "1 uncia = 8 drachmae",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Compendium"
+    ]
+  },
+  "U_libra": {
+    "ref_id": "U_libra",
+    "canonical": "libra",
+    "gloss_en": "pound",
+    "type": "weight",
+    "forms": {
+      "latin": [
+        "libra",
+        "libram",
+        "libras",
+        "librae",
+        "librarum"
+      ],
+      "old_french": [
+        "livre",
+        "livres"
+      ],
+      "abbreviation": [
+        ".lb.",
+        "lb."
+      ]
+    },
+    "weight_grams": 373.2,
+    "subdivisions": "1 libra = 12 unciae = 96 drachmae",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Compendium"
+    ]
+  },
+  "U_manipulus": {
+    "ref_id": "U_manipulus",
+    "canonical": "manipulus",
+    "gloss_en": "handful",
+    "type": "volume",
+    "forms": {
+      "latin": [
+        "manipulus",
+        "manipulum",
+        "manipuli"
+      ],
+      "old_french": [
+        "poignee"
+      ],
+      "abbreviation": [
+        "M.",
+        "man."
+      ]
+    },
+    "weight_grams": null,
+    "subdivisions": "approximate, varies by herb",
+    "sources_attested": [
+      "CI",
+      "Macer"
+    ]
+  },
+  "U_pugillus": {
+    "ref_id": "U_pugillus",
+    "canonical": "pugillus",
+    "gloss_en": "pinch (3 fingers)",
+    "type": "volume",
+    "forms": {
+      "latin": [
+        "pugillus",
+        "pugillum",
+        "pugilli"
+      ],
+      "old_french": [
+        "pincee"
+      ]
+    },
+    "weight_grams": null,
+    "subdivisions": "smaller than manipulus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "U_cochlear": {
+    "ref_id": "U_cochlear",
+    "canonical": "cochlear",
+    "gloss_en": "spoonful",
+    "type": "volume",
+    "forms": {
+      "latin": [
+        "cochlear",
+        "cochlearium",
+        "coclearia"
+      ],
+      "old_french": [
+        "cuilleree"
+      ]
+    },
+    "weight_grams": null,
+    "subdivisions": "~5-15ml depending on period",
+    "sources_attested": [
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "U_cyathus": {
+    "ref_id": "U_cyathus",
+    "canonical": "cyathus",
+    "gloss_en": "cup/measure",
+    "type": "volume",
+    "forms": {
+      "latin": [
+        "cyathus",
+        "cyathi",
+        "ciatus"
+      ]
+    },
+    "weight_grams": null,
+    "subdivisions": "~45ml (Roman measure, still used medieval)",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "D_ana": {
+    "ref_id": "D_ana",
+    "canonical": "ana",
+    "gloss_en": "of each / equal parts",
+    "type": "dose_marker",
+    "forms": {
+      "latin": [
+        "ana",
+        "an"
+      ],
+      "abbreviation": [
+        "aa.",
+        "an."
+      ]
+    },
+    "notes": "All preceding ingredients share the same dose that follows.",
+    "sources_attested": [
+      "AN (universal)",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "D_quantum_sufficit": {
+    "ref_id": "D_quantum_sufficit",
+    "canonical": "quantum sufficit",
+    "gloss_en": "as much as needed",
+    "type": "dose_marker",
+    "forms": {
+      "latin": [
+        "quantum sufficit",
+        "quod sufficit"
+      ],
+      "old_french": [
+        "tant que souffise",
+        "autant qu'il souffist"
+      ],
+      "abbreviation": [
+        "q.s."
+      ]
+    },
+    "notes": "Used for excipients (mel, aqua). No fixed quantity.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "D_semis": {
+    "ref_id": "D_semis",
+    "canonical": "semis",
+    "gloss_en": "half",
+    "type": "fraction",
+    "forms": {
+      "latin": [
+        "semis",
+        "dimidium",
+        "medium"
+      ],
+      "abbreviation": [
+        ".S.",
+        "ss."
+      ]
+    },
+    "notes": ".z.ii. et .S. = 2.5 drachms.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  }
+}

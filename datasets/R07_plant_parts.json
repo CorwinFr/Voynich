@@ -1,0 +1,220 @@
+{
+  "_meta": {
+    "description": "Plant parts used in medieval pharmacy",
+    "sources": [
+      "AN",
+      "CI",
+      "Macer",
+      "Alphita"
+    ],
+    "version": "2026-04-11"
+  },
+  "P_radix": {
+    "ref_id": "P_radix",
+    "canonical": "radix",
+    "gloss_en": "root",
+    "forms": {
+      "latin": [
+        "radix",
+        "radicis",
+        "radicem",
+        "radices",
+        "radicum"
+      ],
+      "old_french": [
+        "racine",
+        "racines"
+      ]
+    }
+  },
+  "P_folium": {
+    "ref_id": "P_folium",
+    "canonical": "folium",
+    "gloss_en": "leaf",
+    "forms": {
+      "latin": [
+        "folium",
+        "folii",
+        "folia",
+        "foliorum"
+      ],
+      "old_french": [
+        "fuelle",
+        "fuelles",
+        "foille"
+      ]
+    }
+  },
+  "P_semen": {
+    "ref_id": "P_semen",
+    "canonical": "semen",
+    "gloss_en": "seed",
+    "forms": {
+      "latin": [
+        "semen",
+        "seminis",
+        "semina",
+        "seminum"
+      ],
+      "old_french": [
+        "semence",
+        "semences",
+        "saet"
+      ]
+    }
+  },
+  "P_flos": {
+    "ref_id": "P_flos",
+    "canonical": "flos",
+    "gloss_en": "flower",
+    "forms": {
+      "latin": [
+        "flos",
+        "floris",
+        "flores",
+        "florum"
+      ],
+      "old_french": [
+        "flor",
+        "flors",
+        "fleur"
+      ]
+    }
+  },
+  "P_cortex": {
+    "ref_id": "P_cortex",
+    "canonical": "cortex",
+    "gloss_en": "bark",
+    "forms": {
+      "latin": [
+        "cortex",
+        "corticis",
+        "corticem",
+        "cortices"
+      ],
+      "old_french": [
+        "escorce"
+      ]
+    }
+  },
+  "P_succus": {
+    "ref_id": "P_succus",
+    "canonical": "succus",
+    "gloss_en": "juice/sap",
+    "forms": {
+      "latin": [
+        "succus",
+        "succi",
+        "succum",
+        "succo"
+      ],
+      "old_french": [
+        "jus",
+        "suc"
+      ]
+    }
+  },
+  "P_lignum": {
+    "ref_id": "P_lignum",
+    "canonical": "lignum",
+    "gloss_en": "wood",
+    "forms": {
+      "latin": [
+        "lignum",
+        "ligni",
+        "ligno"
+      ],
+      "old_french": [
+        "bois",
+        "fust"
+      ]
+    }
+  },
+  "P_gummi": {
+    "ref_id": "P_gummi",
+    "canonical": "gummi",
+    "gloss_en": "gum/resin",
+    "forms": {
+      "latin": [
+        "gummi",
+        "gumma",
+        "gummae",
+        "resina",
+        "resinae"
+      ],
+      "old_french": [
+        "gomme",
+        "resine"
+      ]
+    }
+  },
+  "P_fructus": {
+    "ref_id": "P_fructus",
+    "canonical": "fructus",
+    "gloss_en": "fruit/berry",
+    "forms": {
+      "latin": [
+        "fructus",
+        "fructi",
+        "fructum",
+        "bacca",
+        "baccae",
+        "baccarum"
+      ],
+      "old_french": [
+        "fruit",
+        "baie"
+      ]
+    }
+  },
+  "P_herba": {
+    "ref_id": "P_herba",
+    "canonical": "herba",
+    "gloss_en": "herb (whole plant)",
+    "forms": {
+      "latin": [
+        "herba",
+        "herbae",
+        "herbam",
+        "herbas"
+      ],
+      "old_french": [
+        "herbe",
+        "herbes"
+      ]
+    }
+  },
+  "P_summitas": {
+    "ref_id": "P_summitas",
+    "canonical": "summitas",
+    "gloss_en": "tip/top (flowering top)",
+    "forms": {
+      "latin": [
+        "summitas",
+        "summitatis",
+        "summitates"
+      ],
+      "old_french": [
+        "somite",
+        "cime"
+      ]
+    }
+  },
+  "P_tuber": {
+    "ref_id": "P_tuber",
+    "canonical": "tuber",
+    "gloss_en": "tuber/bulb",
+    "forms": {
+      "latin": [
+        "tuber",
+        "tuberis",
+        "bulbus",
+        "bulbi"
+      ],
+      "old_french": [
+        "bulbe",
+        "oignon"
+      ]
+    }
+  }
+}

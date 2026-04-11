@@ -1,0 +1,763 @@
+{
+  "_meta": {
+    "source_text": "Antidotarium Nicolai",
+    "edition": "van den Berg 1917",
+    "file": "data/raw_corpus_9a/cleaned/clean_antidotarium_nicolai_1917.txt",
+    "language": "latin",
+    "period": "~1150, Salerno",
+    "count": 150,
+    "version": "2026-04-11"
+  },
+  "entries": [
+    {
+      "id": "AN_001",
+      "raw_text": "Recipe asari carpobalsami iusquiami an .5.ii. et .8.\")) gariofilorum opii mirre ciperi afi .5.ij. balsami cinamomi folii zedoare ) zinziberis costi coralli casie lignee euforbii dragaganti turis meu ') storacis calamite saliunce ) cardamomi '') siselei ') napei ') saxifragie ''') aneti anisi aiï ..i. ligni aloes reubarbari \") alipte castorei spice galange opoponacis ') anacardi masticis sulfuris vivi ') pionie dach corts vore den acces me wine dar in gesodew es pigami. yringi ) rosé thimi acori-) pulegii aristologie longe gentiane corti- fol- 2 r. cis mandragore camedreos fu ) baccarum lauri amei dauci •') macro piperis leucopiperis xilobalsami karvi amomi petrosellini ) seminis -) levisttci -) rute seminis sinoni -) an. ..i. et .S. ) auri purificati •\"') argenti meri albarum ) margaritarum blacte bizantie ossis de corde cervi an .9.i. et grana .xiiii. '') eboris limature calami aromatici piretri an. grana .viiii. ) meilis quod sufficit. detur in modum avellane ) \") febricitantibus cum",
+      "n_words": 262
+    },
+    {
+      "id": "AN_002",
+      "raw_text": "Recipe opii tebaici ..iü. casie lignee iusquiami amborum ') aii .5.ii. et grana .vi. et tertiam partem unius grani \"). siseleos '-') -) seminis apii an .5.!. et .9.8. et grana .ii. ') folii origani draganti an ..i. opobalsami petroselini ') macis ) storacis calami ■') zinziberis xilobalsami ciperi ) carpobalsami \"') an ..i. musci ) grana .vi. '') seminis maratri ) calami aromatici aiï .9.ii. et grana .ii. - ') cinamomi spice '\") croci costi reupontici )piretn acori dauci cretici anisi an .3.8. et grana .vi. castorei .5.!. et .8. ') scrapini ') mirre rosé cardamomi amomi rute '') agrestis ') seminis ameos aiï .9.i. '\") grana .iiii. casie fïstulc .).i. '\"') '') Alii addunt lilifagi. ..j.ii. ') ) meilis quod sufficit '). Catarrum frigidum mire solvit hoc acharistum \"). f\"l- 2 v. 3- CHaristum ) sine numere interpretatur. et proprie ') datur contra catarrum et contra omne vitium pectoris ex frigiditate. ) maxime asmaticis ') arteticis tussientibus. )confert fluxum patientibus. flegmaticum p",
+      "n_words": 177
+    },
+    {
+      "id": "AN_003",
+      "raw_text": "Recipe costi galbani opii -) fenicon \") indi \") ysopi seminis lini ':') an .3.1. spice croci -) coralli xilobalsami casiefistule. '') xilocassie calami aromatici reupontici mirre storacis '') calamite'-) opoponacis bdellii armoniaci '\"') olibani '-') cicidon celtice -) abrotani acori -\") asari -') blacte ''\") roris siriaci \") squille ■'-) dampnidon piretri ) amomi '■) anisi psillii ozimi ) dauci levistici maratri mico- nis ) melanopiperis macropiperis leucopiperis floris ''') siriaci ) ontbreekt in F,. — Lj. Fj: Brathyos. ontbreekt bij NM. — zie . — F,: squille marin. — NM cinamomi. — F,: vesce . — ontbreekt in Fi en NM. aiï .'.ii. ') elempnii .9.i. et .S. \") ellebori nigri zinziberis an .9.i. ) foï- 3 rmei quod sufficit ). Dissintiendos subvenit athanasie '). 4. A THanasia ) .1. immortalis proprie valet ad fluxum san- - 3 r. guinis mulieris. datur cum succo plantaginis: ') qui succus debet prius duci super lapidem molarem cum lapide emathitide tamdiu donec in sanguineum colorem vertat",
+      "n_words": 206
+    },
+    {
+      "id": "AN_004",
+      "raw_text": "Recipe cinamomi casie '\") an ...iii. et grana .vi. \") croci orientalis ') squinanti storacis calidi '\"') fu sileris ') iusquiami apii dauci anisi \")opii an .3.!. et .S. et grana .iii. \") spice folii '') castorei '') mirre lapidis emathitis sanguinis draconis coralli rubei mumie ) costi boli simphiti j lempnias '°) asari acori corticis mandragore pulegii ) baccarum ') lauri meu -) macropiperis Icucopiperis petroselini aiï ..i. -) meilis quod sufficiat. dosis eius est .3.iii. ) cum succo plantaginis propinata lientericis discintericis et ad diariam valet '•''). Alcancalon istud febribus confert peracutis '). foi. 3 c A Lcancalon-) ).i. unctum bonum.-)') datur patientibus acutas febres cum syrupo ') violato \"') vel aqua frigida ). datur tertianariis et duplici tertiane cum duobus .3. ) aut tribus bopi') reubarbari. et aqua tepida diste mperatum ) et bibitum mirabiliter medetur ). fol. 3 et datur contra caliginem oculorum patientibus ex fumo ®) et calore ) : ) vel ex acuta febre. epatycis ",
+      "n_words": 184
+    },
+    {
+      "id": "AN_005",
+      "raw_text": "Recipe mirabolanorum citrin. kebul. corticis '\"). an .3.vii. \") indorum .5.vii. squinanti ') portulace violarum scariolarum '°) ') an ..8. ') bellirici emblici aïï .5.i. et .gr.vii. ') masticis .5.ii. et .'ê.i. ') tamarindi ..iü. floris nenufaris berberis ) ben rubei')) reubarbari ') an .3.i. et grana .iiii. '°) medulle-\") casiefistule ) ..iiii. ) conficitur sic ■■) in duabus libris aque pone syrupi) violati •) ..S. ) et bulliat donec aliquantulum coloretur \") aqua. ) postea ab igne deponatur et coletur. de eadem aqua accipiatur quod sufficiat ad abluendum casiam fistulam et tamarindes, cola per catiam et cum alia aqua addatur libra .i. et .8. zuchari et bulliat usque ad aque consumptionem ). postea addatur lotura '-) casiefistule et tamarindorum et iterum bulliat ad spissitudinem -). Si vis probare si coctum sit : ponatur ') super marmore : et si adhereat quasi mei coctum est : -') et tune ab i) zie litargië in de woordenlijst, — 1. icgew. — waarschijnlijk verkeerd; Antimoron is een l",
+      "n_words": 293
+    },
+    {
+      "id": "AN_006",
+      "raw_text": "Recipe aloes .3.V. et .8. et grana .vi. '\") ) casiefis ..i. et grana .vi. et .8. maratri \") masticis an ..ii. grana .v. )'') croci .5.8. asari .'S.ü. et grana .v. et '■) silobalsami yreos ') .3.i. aaron ) draguntee an .9.i. et grana .ii. et .8. \") agarici colloquintide ') nitri cuforbii castorei ') aiï .3:ii. et grana .V. alexandrii '-) apii ) petroselini aiï .Id.ïi. et grana .v, ) ellebori nigri .5.8. ) diagridii .l.ii. et grana .v. ) -') cocognidii .9.ii. grana Ntidotum '■) .i. contradatum emagogum ,i. sanguinem , menstrualem ducens : valens ad multas mulierum passiones. matricem que non usu purgatur purgat mirabiliter: menstrua educit. et fetus -) in utero occidit: quod postea extrahit. et post partum que non sunt puri) ontbreekt in F,. — tot ontbreekt in F,. — zie . — deze woorden alleen in Lj. — L.j Antimorum, F, Athanaton, F.2 Anthamiron, NM Diatamaros. — ■ ontbreekt in Fj. — . ontbreekt in F, en NM. — ontbreekt in II) ontbreekt in F., en NM. — F.: .3.ii. et .gr.vi. — tot ontbree",
+      "n_words": 333
+    },
+    {
+      "id": "AN_007",
+      "raw_text": "Recipe asari \") acori amomi ') seminis atriplicis maratri an .9.i. et .gr.vi. ') anisi .9.ii. ') aristologie longe artemisie casie ') fistule ) \") an .9.ii. et gr.xiiii. '') ') centauree minoris ') .9.i. et .gr.vi. -°)-') '•) centauree maioris .9.ii. ) ') dauci cretici .9.ii. °) ellebori nigri .3.i. ) foliorum lauri .9.i.S. et gr.iii. ) liquiricie ..i. et .9.i. ) '°) lupini .3.ii. melancii .9.ii. mirre ,9.ii. et gr.xiiii. -') orobi .9.i. ') stipteree ) .9.ii. ') macedonici ..ii. et gr.xiiii.') piretri '') .9.ii. et gr.xiiii. piperis ') ..i. et .y.ii. et gr.vii. ) seminis rute ) .9.ii. et gr.xiiii spice .9.ii. et gr.xiiii. pulegii ) .9.ii. et gr.xiiii. ) ') pionie .9.i. et gr.vii. ') ciperi .9.i. ') ) sinoni .3.ii. ) squinanti .3.i. et gr.xiii. '') ') garioi) ontbreekt bij NM. — 1. selirosim, — Fjt membres. — in Fj volgt eerst nog: et guerit ceulx qui ne contiennent point la viande. Elle met hors puissaument Ie fleume. — tot ontbreekt bij NM. — zie . — tot staat in Fj vóór „nona pars co",
+      "n_words": 333
+    },
+    {
+      "id": "AN_008",
+      "raw_text": "Recipe terbentine opoponacis galbani ase \"\") serapini castorei antimonii sulfuris '') bdelii aspalti armoniacis storacis ') liquide \") car- nis leonis diagridii euforbii agarici interioris \"j colloquintide \"') ellebori nigri polipodii tapsie piretri '\") squinanti '•) peucedani asari ') ciperi \"') pionie betonice \"') camedreos polii amomi'\"') levistici seminis rute ') sanguinis draconis an .3.1. ) cinamomi gariofilorum macis \"') cardamomi anisi maratri balsami aïï .9.i. et .8. '') ambre grana .v. mei quod sufficit. ') datur cum vino in quo cocta sit salvia ')aut herba paralisis ' ): in sero in modum castanee. BEnedicta ') dicitur quoniam ab omnibus aquibussumi- fol. 5. r. tur est benedicta: ') si detur habentibus infirmitates contra quas inventa fuit '). valet ad guttam ''') arteticam podagricis ex frigiditate). renes et vesicam purgat. ') media pars confecta est librae .ii. ')24",
+      "n_words": 137
+    },
+    {
+      "id": "AN_009",
+      "raw_text": "Recipe turbit esule'-\"') zuchari an .3.x. ') diagridii hermodactili rosarum aiï .3.V. ') gariofilorum ') spice -) zinziben's '') croci saxifragie) macropiperis amonii gardamonii ') petroselini ) litospermatis ) salis gemnie galange macis ) carvi fenicull sparagi ) bruxi granorum solis an .3.1. mei quod sufficit. datur in sero cum vino calido ad modum castanee ). 10. Onfectio alipte muscate °) alipta .1. mixtura. \") valet) fol. 5 pueris patientibus asma et '°) constrictionem pectoris. et etiam non valentibus lac retinere. \") fit inde optimum fumigium et odoriferum. quo utuntur apostolici et imperatores in capellis ') suis. et intrat in preciosissimis medicinis et electuariis.",
+      "n_words": 104
+    },
+    {
+      "id": "AN_010",
+      "raw_text": "Recipe laudani purissimi ..iii ') storacis calamite optime '■) ..i. et .8. storacis rubee .i. ') \").ligni ') fol. 5 aque rosarum quod sufficit. -') Confice sic in diebus canicularibus pone storacem calamitam et storacem rubeam et laudanum in catino ad solem cooperto cum panno subtilissimo ne pulvis possit attingere. et cum mollificata fuerint ad solem pone in mortario ereo calefacto ad solem cum pistillo ferreo similiter calefacto. et fortiter insimul conterantur donec ad nigrum deveniant colorem. postea addes pulverem ligni aloes. et insimul fortiter contere et camphore similiter. postea contere museum in tribus .. aque rosarum et de hac aqua ') aliquantulum madefactum -) marmor prius bene lotum et calefactum ad solem. et accipe ..i. ') cum tabula planissima de eadem aqua madefacta super marmor diu agitetur donec ad subtilitatem iunci deveniat : hoc modo facias super marmore madefacto et tabula de eadem aqua supradicta. et cum reposueris supersparge de illa aqua. valet -) ut supra dix",
+      "n_words": 169
+    },
+    {
+      "id": "AN_011",
+      "raw_text": "Recipe ontbreekt in 2's - — geen gewichtsteeken ingevuld in L, ; de andere texten hebben alle: gepulvert ende mi;/gi'/ tpulvr vcxetter hant \\n de palme ende da« 11. \"Onfectio gallie inuscatc ') : ) que intrat in preciosissimis medicinis et electuariis •').",
+      "n_words": 43
+    },
+    {
+      "id": "AN_012",
+      "raw_text": "Recipe masticis ..ii. gummi) ..i. camphore .y.i. ) hec autem bene terantur'\") subtilissime et cribrentur et trocisci inde fiant) cum aqua rosarum et siccentur ad umbram •\"'). et postquam fuerint desiccati terantur subtilissime. et misceantur cum ..iiii. olei sambaci ') -) bulliti et colati ad medietatem •'). deinde misce cum speciebus istis bene tritis.",
+      "n_words": 54
+    },
+    {
+      "id": "AN_013",
+      "raw_text": "Recipe cinamomi gariofilorum nucis muscate aiï ..S. \") et omnibus istis cómmixtis et bene manibus malaxatis) fiant trocisci'-) in medio concavi et cum sigillo sigiliati ad pondus unius .5. et .S. et postea ungatur '\") aqua rosarum cum musco \"). 12. Onfectio nere '-) ita fit.",
+      "n_words": 46
+    },
+    {
+      "id": "AN_014",
+      "raw_text": "Recipe ambre orientalis vel occidentalis ..i. ligni aloes optimi ...iii. ') musci .9.8. camphore grana .v. ) Conficiantur sic: inveniatur caciola ad modum cacie qua colatur syrupus vel mei tarnen non perforata : et ibi apponatur ambra : et super prunas liqueat''): et liquefacta ab igne deponatur: et postea lignum aloes pulverisatum subtilissime admisceatur. deinde addatur muscus diligenter malaxando cum manibus: et ad ultimum camphora tamen unaquaque \"\") pulverisata. postea diligenter malaxando cum manibus extrahatur supra concam encam concavam et sigillatam extcndatur: et cum infrigidatum fuerit inde extrahatur et frustatim incidatur. valet dolori matricis si ') per inferiora fumum recipiat. et est preciosius incensum quod inter cetera reperitur. valet etiam satis ad concipiendum. herten deren mach. entie ziec sijn 'm de mage. ende tiden met rosewatre. In cowden tide;/ vnet wine nuchterew. ende te 14. - — latntirgariton ') dicitur a duobus margaritarum generi- bus ) pcrforatarum et no",
+      "n_words": 172
+    },
+    {
+      "id": "AN_015",
+      "raw_text": "Recipe gariofilorum cinamomi spice galange ligni aloes liquiricic ) trociscorum diarodon diavi ) an .5.!. et .S. nucis mus- .5.1. margaritarum perforatarum et non perforatarum zinziberis ossis de corde cervi' eboris '') blacte bizancie an .3.8. musci ambre camphore grana .vi. ') mei rosatum quod sufficit. datur in estate cum rodostomate '\") vel frigida. in hyeme cum vino '\"') mane et meridie. valet ut superius dlximus maxime ptisicis etiam con17. y ' - lantos. ) \"') dicitur quia fit de floribus dendrolibani viola- , rum et rosarum aii ), ) valet tristibus macilentis cardiacis. multum letificat. et convalescentes ex egritudinibus miro modo confortat) .vi. ') confecta est libr.ii. et .8.')",
+      "n_words": 110
+    },
+    {
+      "id": "AN_016",
+      "raw_text": "Recipe florum roris marini ..i. ') rosarum violarum liquiricie an .5.vi. gariofilorum spice nucis muscate galange cinamomi zinziberis \"') zedoarie ') macis ligni aloes cardamomi anisi aneti an .3.iiii. ■'\") mei quod sufficit. datur mane '\") et meridie ) febricitantibus cum frigida : non febricitantibus cum vino. M- t-\". yasaturicCN es goet iegen die passie diemew in griex vede M heet saturiasis: dats in dietsche den vede te doen In-aurie •- qua.de lendene/z. ende meerr/ luxwrie die bi andren men der vint. linde es goet in bekerez/dcw owgemakew dan giet(?/ in ene?i dorgatew lepel ende ziet daer dore. Da« newt tsop van violen) .i.S.- da« doet wedr ziedew op tfier in diere doetr in dese specie;/ \\\\ Ne;//t sandali wit ende root. spodii. 18. ■ H \" lasatirion •') ') dicitur a satirionum radicibus. satiriasis f\"l- 7 fenim grece erectio virgc latine dicitur-). proprie datur illis qui debilitatem patiuntur renum : et libidincm ) mirabiliter provocat ex aliqua occasione predicta sine mora restau",
+      "n_words": 171
+    },
+    {
+      "id": "AN_017",
+      "raw_text": "Recipe satirionum testiculorum viridium) baucie \"') nucis indice pistacearum '') secacul pinearum enucleatarum an ..j.xii. gariofilorum ') zinzi- beris anisi eruce ) seminis lingue avis aiï .5.V. cinamomi ) caudarum stincorum '\") viridium \") seminis bulbi ') aiï ..ii. et .8. musci. grana .vii. Conficitur ') sic in tantum meilis dispumati quod sufflcit: ponantur testiculi satirionum et baucie et secacul unaquaque per se in supradicto melle ponantur prius bene contrita: et cum spatula bene commisceantur : et bulliant deinde aliquantulum. deinde addantur pinee et pistacee ') ') bene trite : et cum aliquantulum bullierit'-) ab igne dcponatur: et pulvis predictarum specierum commiscendo adiungatur. ad ultimum vero museum ') distemperatum cum aqua rosarum \") apponatur : ') et sic usui reservetur. -)detur in sero cum vino dulci '') vel condito ') coclearium unum. iQ W laprunis '•') \"-') vel diamascenon ') dicitur a prunis: que f«l- 7 v. ibi intrant. datur acutis et pcracutis patientibus: et m",
+      "n_words": 175
+    },
+    {
+      "id": "AN_018",
+      "raw_text": "Recipe prunorum damascenorum viridium \"-) numero .c. que poni debent in stagnato : et tantum aque quod bene coperiantur et buUiant quousque dissolvi videantur. ')tunc ab igne deponantur. et cum aliquautulum infrigidata fuerint ab aqua extrahantur. et in cribro super catinum posito pruna ponantur ). et manibus tam •') fricentur : ut nihil preter ossa et cortices in cribo remaneant. et fiat syrupus ). in aqua illa in qua decocta fuerint pruna ponatur ..i. ) violarum et iterum bullire permittatur. \") et abstractis violis ponantur ibi ) librae .ii. zuchari ) 1. 8 r. et libra .i. de pulpis prunorum. et coquantur ad spissitudinem. Incipiente inspissari adde ..i. °) tamarindorum et cassie fistule medelle ..i. ) dissolute ') et collate cum supradicta decoctione prunorum. memento tarnen quod in aqua prunorum bulliat ..8. \") violarum ut dictum est. et cum ad perfectionem decoctionis pervenerit semper agregando cum spatula-): postea superspargatur pulvis istarum specierum.",
+      "n_words": 152
+    },
+    {
+      "id": "AN_019",
+      "raw_text": "Recipe sandalorum alborum et rubrorum spodii et reubarbari cinnamomi '') an .5.iii rosarum violarum seminis portulace scariole ') seminis berberis ') succi liquiricie draganti. an .3.ii. seminum citroli melonis et curcurbiti mundatorum ') an .3.1. datur omni hora diei ') cum frigida sine diagridio ) ad modum castanee. Si laxativum facere volueris ') ponantur in unaquaque libra .5.viii. ') diagridii quando ab igne deponitur. datur in declinatione febrium laxativum ad purgationem in matutinali hora ad modum castanee cum aqua calida. yacamerON es also vele geselt alse de; mwsce te salme«te. anacardi. ossium dactillorww. carpobalsami. anijs, de num ). valet ad omnem causam\") palati et gutturis. cadentem uvam sublevat. et humorosam desiccat. ) medietatis '') est libra .i.",
+      "n_words": 117
+    },
+    {
+      "id": "AN_020",
+      "raw_text": "Recipe mororum celsi libram .8. mororum bati libram .i. ) meilis libram .8. sape ..iii. Confice sic succum mororum cum melle et sapa in vase eneo stagnato ad prunas suaviter decoque. cum autem scire volueris si coctum sit pone ex eo guttam super marmore donec gutta marmori inviscata appareat et adhereat. ) tune cola. et in vase stagnato usui conserva. et cum opus fuerit gargarizetur. 15. \"p — lacameron ) '\") id est ducens hominem de morte ad vitam \"). quod facit asmaticis '-) arteriacis ') tussientibus tipsicis ') et omnem imbecillitatem stomachi'') emendat. debiles lumbos '\"') confortat. luxuriam provocat : \"'') et omnem'') quod in diarodon iulii laudatur adimplet .X. pars confecta est libram .ii.",
+      "n_words": 116
+    },
+    {
+      "id": "AN_021",
+      "raw_text": "Recipe antofoli zinziberis ') an .3.V. et .9.i. et grana .xvi. ') '-) cinamomi gariofilorum ') aiï .3.iiii. et .y.i. et grana .xiii. ) ') galange ') ) spice zedoare costi piretri dactilorum carpobalsami -) anisi ami fructus id est iuniperi) riiï .3.1. et .9.ii. et grana .viii.\"'))') )leucopiperis melanopiperis -) macropiperis aiï .3.1. et .9.ii. et grana .viii. ) limature auri puri et argenti meri ossis de corde cervi an .9.ii. et .8.'\") musci') ■ der leveren of apostemew in de levre of in de eftde 'legen verstoptheit. ende iege;z v'xdt '\\n de dardra;/ke dar anijs in gesodew es. rasure eboris aii .9.i. et grana .vii. ) ambre .9.i. ) mei quod suf- ficit. datur de eo .3.iii. ) mane) vel vespere cum vino). 35. w — lalacca)) valet ad frigiditatem stomaci. enfraxin tumo- , rem et duritiem epatis et spienis emendat: et omnia que ydropicis minantur. proficit nefreticis: et calculosis subvenit: et menstruis imperat.",
+      "n_words": 156
+    },
+    {
+      "id": "AN_022",
+      "raw_text": "Recipe liquiritie') .5. vii. spice .3.iiii. costi melanopiperis an .3.ii.S. lacce croci zinziberis galbani dauci siselei petroselini an .3.ii. calami aromatici casie lignee masticis bdellii carpobalsami an .3.ii. cinamomi gariofilorum amigdolarum amararum rute an .3.1.8. aloes epatici mirre ysopi fu meu camepiteos balsami thuris masculi siselei aïï .3.!. reubarbari squinanti polii an .3.ii. gentiane aristologie rotunde an .3.8. mei quod sufficit. detur ad modum avellane cum apozimate radicis apii feniculi yris eupatorii apii levistici an .3. .8. 6. \" — lacurcuma) valet ad epatis passionem et ad frigidita- tem stomaci et ad vitium spienis.",
+      "n_words": 94
+    },
+    {
+      "id": "AN_023",
+      "raw_text": "Recipe curcuma cinnamomi spice asari casie an ..i. costi squinanti mirre an .-i-S. mei quod sufficit. datur cum oxizacara. .1. haselnot nuchtren ende houde;;t in de« mo;;t. og \"W lagalanga ') que valet ad nimiam stomaci debilitatem foi. 13 r. et eius ventositatem. digestionem procurat. stomacum confortat. renes frigidos calefacit et omne superfluum flegma a stomaco dissolvit et expellit. oppilationem spienis et epatis aperit. sensum acuit. hominem ilarem reddit. canos ante tempus retardat; et omnibus frigidam natu ram habentibus convenit.",
+      "n_words": 80
+    },
+    {
+      "id": "AN_024",
+      "raw_text": "Recipe) galange zinziberis gariofilorum nuwe. h-et doel wel orine maken, nxet wine genomew levre. melte de zide. iege?/ pine an de niere. Y.ïvde gereit mewstrua. ende",
+      "n_words": 26
+    },
+    {
+      "id": "AN_025",
+      "raw_text": "Recipe nardi, amomi, melanopiperis, marathri an .3.iiij. zingiberis, hyssopi, petroselini, leucopiperis an .3.iij. croci, cassiae, trochisc. hedychroi, epithymi, enulae, betonicae, pigani, sinonis, ameos, seseleos, levistici an .5.i, meilis quod sufficit. deter in modum avellanae. DIamana ') utilis ad mollificandum sanguinem, ad choleram reprimendam et etiam melancholiam. valet etiam ad hepar calefactum et corpus sua virtute purgat. recipiatur de eo unciam .8. in aurora cum calida; et ad multa alia corporis incommoda valet.",
+      "n_words": 72
+    },
+    {
+      "id": "AN_026",
+      "raw_text": "Recipe mannae, zucchari violati, cassiae fistulae ana uncias iiij. tamarindi, zucchari rósati ana unciam .i. haec omnia resolvantur aqua decoctionis capillorum veneris, scolopendriae, hepaticae ana uncias iij. seminum frigidorum mundatorum, violarum ana unciam .i. prunorum numero xx. colaturae addantur zuchari libras .iij. et coquatur ad spissitudinem sicut fit in tryphera saracenica; et tune addantur istae species:",
+      "n_words": 56
+    },
+    {
+      "id": "AN_027",
+      "raw_text": "Recipe seminum frigidorum mundatorum, violarum, nenupharis, scariolae, loctucae, portulacae ana unciam .i. rheubarbari, foliorum senae, anisi ana unciam .i. et drachmam .i. sumatur ut dictum est superius. 2A ir — ' laciminum dicitur quia plus ibi est de cimino quam de aliqua specie '). valet precipue ad pectoris et stomaci) frigiditatem et capitis) \"). ventositatem intestinorum solvit. quartanariis febrientibus mirabiliter procurat) .xii. pars libra .i.",
+      "n_words": 65
+    },
+    {
+      "id": "AN_028",
+      "raw_text": "Recipe cumini pridie in aceto infusi et exsiccati .5.viii.9.i. ) cinamomi gariofilorum. an .5.11.8.) zinpiperis .3.1.'\")\") nardi carvi ') masticis) an .9.ii.S. \") mei quod sufficiat. ') dosis .3.iii. datur post comestionem cum vino. 3/. \"W — laysopum ').",
+      "n_words": 39
+    },
+    {
+      "id": "AN_029",
+      "raw_text": "Recipe ysopi yreos thimi melanopiperis fol- '3 »\"• an .3. XXX. gliconii tymbre pigani cimini an .3.XX. carnis dactilorum caricarum passarum enucleatarum maratri an .3.x. zinziberis anisi carvi levistici an mei quod sutficit. sumatur mane et sero cum tepida. Maniacum multum fugat hoc diasene tumultum ). 33. \"w — lasene dicitur quia plus de sene ponitur ibi quani de alia specie), valet proprie mullicis) maniacis cardiacis'') et tristibus'). tota confectio venit libra .i.",
+      "n_words": 73
+    },
+    {
+      "id": "AN_030",
+      "raw_text": "Recipe sene ..iii. '') avellanarum assatarum numero ris-') spice ozimi '-) zinziberis folia ') gariofoli ') ') cardamomi ') meilis'') quod sufficit. detur cum aqua in qua infusum est sene ') per noctem sub divo'). Confïcitur sic cum melle: avellane bene pulverisate et°) dispumato melle ad ignem decoquantur. deinde pulvis specierum admisceatur. quod valet quartanariis et magis Lia diasenae ') descriptie. R. senae, unc. iii. cinnamomi, gariofilorum, folii, cardamomi, galangae, macis, ligni aloes, piperis longi, zingiberis, zedoariae, spicae, nucis muscate aiï drach .iii. boraginem et calamenturn adde -) et caetera quae melancholiam purgant, avellanarum assatarum. 1. setae combustae, drach .ii. lapidis armeni, unc .i. lapidis lazuli, drach .iii. zuchari, unc .v. melHs dispumati quod sufficit. 20. — ' laprassium ) ) dicitur a prassio viridi quod ibi plus in- foi. 8 r. trat quam de aliis speciebus ■'). valet ad omnem pectoris frigiditatem '). et maxime ad catarrum et ad cerebri frigiditatem",
+      "n_words": 185
+    },
+    {
+      "id": "AN_031",
+      "raw_text": "Recipe prassii viridis .5.V. et .8. \") dragaganti pinearum ') mundatarum '). amigdolarum ') pistacearum ') carnium dactilorum ficuum ') pinguium -''') passularum '-) enucleatarum \") aiï ..iii. ') et .8. cinamomi gariofilorum nucis muscate macis'-) ligni aloes galange zinziberis zedoarie spice liquiricie reupontici anacardi storacis ') calamite ' masticis mirre galbani terbentine yreos aristologie rotunde radicum caparis gentiane melanopiperis anisi feniculi ) aneti seminis apii macedonici ') saxifragie aiï .g.ii. ermodactilorum'') origani paucedani '') squinanti ') cardamomi leucopiperis carvi levistici vincetoxici '-) aiï .5.1.8. et grana .ii.8. \") balsami ') pulegii diptami ') costi piretri satiregie'-'') basiliconis pionie macropiperis\") amomi sinoni ') ■') orobi \") aiï .5.1.) grana .ii. et terciam partem alterius-\"') xilobalsami '-) casiefistule -) coralli ogen ■ sacht oude hooftsvwre. ende geneest apostetnew in rasure ') eboris ') carpobalsami ) dauci cretici an .3.8. musci ambre ",
+      "n_words": 287
+    },
+    {
+      "id": "AN_032",
+      "raw_text": "Recipe castorei cis macropiperis an .3.i. ') mei ') quod sufficit datur sero ') ') cum vino calido in quo coctum sit olibanum et salvia '®). 22. ' larodon abbatis') a rosis dicitur que ibi intrant plus fol. 9. r. quam de aliis speciebus ). nomen accepit abbatis ab abbate de curia compositum ), datur proprie ictericis epaticis ptisicis ethicis et cardiacis qui patiuntur ex calore de acutis.') et ad calefactio nem stomaci pulmonis et totius corporis: et convalescentibus ex longis et acutis egritudinibus mirabiliter auxiliatur et pars .vi. confecta est librae .ii..",
+      "n_words": 93
+    },
+    {
+      "id": "AN_033",
+      "raw_text": "Recipe sandalorum alb. et rubr. an ..j.ii.S. draganti gummi arabici spodii an .'S.i\\. ') asari spice masticis cardamomi ' croci • xiloaloes gariofilorum gallie muscate ') anisi maratri cinamoni succi liquiricie reubarbari seminis basiliconis berberis scariole ) portulace papaveris albi '-) citroli melonis cucumeris) et cucurbite aiï .9.i.°) ossis de corde cervi margaritarum an.3.S. °) zuchari candi rosarum an ..i..ïn) camphore terciam partem unius .9. et ) grana .vii. musci. grana .iii.S. syrupi facti de aqua rosarum quod sufficit datur mane ') ') et meridie cum rodostomate vel cum farina ') si opus fuerit. 2?. W lapenidion dicitur a penidiis qui ibi intrant plus quam de aliis speciebus '). valet ad omne vitium pulmonis et tussis: et raucedinem vocis factam ex siccitate \"). ptisicis\") subvenit ) .vi. pars confecta est libra .i..",
+      "n_words": 132
+    },
+    {
+      "id": "AN_034",
+      "raw_text": "Recipe penidiorum .5.xvi.S. ■\") pinearum et amigdolarum mundatarum seminis papaveris albi an -S-iii. et .9.i.') cinamomi gariofili, zinziberis succi liquiricie dragaganti gummi arabici amidi-) seminis citroli melonis cucumeris cucurbitarum purgatarum an .5.1.8.\") camphore tertiam partem syrupi ) violarum quod sufl) tot ontbreekt bij NM ; tot in Fj ; tot eenigszins anders bij NM. — zie l). — in Lj, F, NM volgen hierna eerst nog: foeniculi, cinamomi succi glycyrrhizoe, rhei harbari. — ontbreekt in Fj. — F, : .s.ii.; tot ontbreekt in F,. — zie . — F,: .j-iii.; hierna volgt bij NM nog: coralli, crystalli, sem. lactucae papav. alb. mandragorae Sn .9.i. — NM, Lj, F,, MT: alléén gr. .vii. — hierna in F, alleen: ou eve fraide . — L.,: aqua frigida; waarschijnlijk is farina een drukfout voor frigida. — van Diapenidion af ontbreekt in F, en NM. — l F,: de fraidor. — ontbreekt in NM. — ontbreekt in Fj en NM. — tot T ontbreekt in Fj en NM. — F,: s.xvii. et .S. ; van af ontbreekt bij NM hittew cowt",
+      "n_words": 311
+    },
+    {
+      "id": "AN_035",
+      "raw_text": "Recipe dragaganti albi .3.ii. '•) gummi arabici melonis citroli cucurbite -°) an .3.ii.') penidiarum ..iii. j camphore .9.8.) syrupi gileni ) quod sufficit). Conficitur sic semina cum aqua ponantur super zucharum tantum tamen de aqua quod — L2 crassum. — van pulverisate af ontbreekt in F. — in Fj volgt: et soit meu OU une spatule. — in F volgt alleen : Il soit doné a tisane chaude OU o vin chaut. — NM : diatragacanthes frigida. — van diadragantum af ontbreekt in F, en NM. — L2: caliditate et siccitate. — Lj: et peripneumonicis valet; in F ontbreekt: pleureticis en peripleumonicis. — vanhieraftot",
+      "n_words": 104
+    },
+    {
+      "id": "AN_036",
+      "raw_text": "Recipe ontbreekt bij NM; hiervóór ongeveer hetzelfde maar met andere woorden. — van af in F, alleen: sera tenu en la bouche longuement. — 16 NM : ,5.ii. ; in F,: dragagant .g.iii. — in F, en NM ontbreekt : albi. — F, : alleen 5. ii. — 35. \" yacastoreuM es sine name o»zdat castoreum in de M L confexie gaet. hets goet iege/? swrheit va« de« hooft I W hoefde. 'Ende iege?i troet e vel. ende jegew swinpossit zuccharum coopereri: et bulliant usque ad dissolutionem zuchari. postea colentur per pannum rarissimum et colatum ') ad decoctionem syrupi coquatur. postea tundatur in mortario bene miscendo pulverem specierum. 25. \"\"W \" lacastoreum a castoreo dicitur quod ibi recipitur). valet contra gravissimam cephalicam ) epilenticis) vertiginosis ''). auxiliatur emigranicis et monopagicis. prodest doloribus. paralisim) omnium membrorum emendat et maxime capitis. enfraxim spienis et epatis et renum ') solvit: et omnibus egritudinibus secundum frigidum nocentibus obstat) .xvi. pars librae .ii. °)",
+      "n_words": 159
+    },
+    {
+      "id": "AN_037",
+      "raw_text": "Recipe castorei mirabolanorum aiï .3.iii. minus gr. .i.S. \") ase \") mirre euforbii aiï .3.1. et grana .xvii. '■) aloes .3.1.8. minus grana .1.') folii ) antimonii piretri liquiricie ■') draganti calami aromatici nitri ) galbani ) ') squinanti ) opopanacis spice') serapini ') nucis muscate casiefistule piperis longi albi et nigri xilobalsami carpobalsami coloquintide reupontici) storacis calamite ') zinziberis cinamomi an .3.i. et grana .ii. ') staxifragie ') '') dauci ) maratri petroselini apii) seminis sileris°) dampnococti') sinoni petrolei storacis rubee-) sanguinis draconis cardamomi ) ) turis maioris et minoris) agarici) masticis) salis armoniaci zedoarie anisi an .9.i. grana .viiii. ') saturegie ysopi camedreos pulegii origani balsamite -\"') ocimi) brance ursine diptami rute seminis\") aristologie melte ■ me«t deriMie doet. Hets goet iege;? de melte. ende longe ') et rotunde aaron -) mabathematicon ) asari ) salvie rosé fol. lo r. bedellii) aiï. gr. .xvii. ) epithimi polipodii opo",
+      "n_words": 276
+    },
+    {
+      "id": "AN_038",
+      "raw_text": "Recipe anisi apii asari aiï .3.ii. et .9.ii.') squinanti melanopiperis mirre aiï .5.ii.S. reubarbari croci aristologie rotunde et longe ) aiï .3.ii. et .9.ii. ) costi .5.1.8. cinamomi casie lignee ) aiï .j.i. et .9.i.''') mei quod sufficit. datur cum decoctione caparis vel scolopendrie) sero et mane.) dosis est .5.ii. cum vino calido. 28. ' — \" lairis\") dicitur ab yreos. prodest disnoicis') -) arte- riacis) tussientibus -). vocem perditam restaurat si fuerit ex frigiditate -) .xii. pars est librae .iii.",
+      "n_words": 81
+    },
+    {
+      "id": "AN_039",
+      "raw_text": "Recipe yris ..i. pulegii ysopi liquiricie aiï .3.vi. i) Bij NM ontbreekt longe; er volgt na rotunde nog : brassicae sylvestris decoctae. — ontbreekt bij NM. — van rotunde af ontbreekt in F,. — NM : gr.xviii. ; er volgen dan ambar. gr.x., ossis de corde cervi .3. iii., ossis naris purpurae 3.1. — L, : alipiados ; NM : laureolae, zie woordenlijst. — Fi : gr.ix. — 1. peucedani. — in L.2, NM, Fi is peuc. absinth. an gr.vii. geplaatst achter de volgende rij simplicia zooals in MT — ontbreekt in F,. — NM: fol. mandr. — NM: siliquas .ii.S.; F, : gr.ix. — NM : gr.xiii.; et t. p. unius ontbreekt in F,. — NM heeft nog: serici usti. gr.xii. — het volgende heeft NM korter en vóór . — in F ontbreekt van hier tot . — in Li ontbreekt na nefr. : cum decoctione. — F, : a tiercé. — van Diacostum af ontbreekt in F,. — sunt staat hier te veel. — van ig) af ontbreekt in Fj. — casie fist. — F alleen: .3.1.' — het volgende ontbreekt in F. — 1. dispnoicis. — voor de verg. met NM : zie woordenlijst. — si fueri",
+      "n_words": 211
+    },
+    {
+      "id": "AN_040",
+      "raw_text": "Recipe toe. In de plaats daarvan vindt men bij NM : prodest ad collumellam quae veluti acus intus pertusa esse videtur, asthmaticos et diffic. spirantes. — voor de verg. met F: zie woordenlijst. dragaganti ') amigdalarum pinearum cinnamomi zinziberis piperis fol. ii r. an ..iii. caricarum carnium dactilorum passarum emundatarum-) aiï .5.iiii.S.) storacis rubee .3.ii. et 9.i. meH) quod sufficit. sumatur sero cum vino calido). 2Q. \"w lacalamentum a calamento dictum est ). valet precipue fol. ii r. ad omne vitium pectoris ) ex frigiditate : '°) maxime hiis ) qui in senili sunt etate. valet etiam tussientibus ex frigida causa et quartanariis: si ex eo utuntur post prandium : et post cenam in sero cum vino\") cum duobus .9. dyagridii et euforbii .vi. in modum nucis ante duas horas accessionis cum apozimate pigani vel roris marini quod prestat quotidianariis .xv. pars est librae .ii.",
+      "n_words": 145
+    },
+    {
+      "id": "AN_041",
+      "raw_text": "Recipe calamenti pulegii ysopi '-) melanopiperis siselei) petroselini an .5.iiii. ') et aneti'') cinamomi zinziberis an .9.ii. ö) mei') quod sufficit. datur post prandium in cena): Hoc nimium confert ad ventris solutionem \"). tatur quod ibi intrat-'). proprie datur omni solutioni ventris maxime discintericis-) cum decoctione aque pluvialis in qua sit spodium coctum) vel cum aqua rosarum et lientericis cum careno .xii. pars librae .ii. ) ■■')",
+      "n_words": 67
+    },
+    {
+      "id": "AN_042",
+      "raw_text": "Recipe capita papaverum non minis viridium nee nimis siccorum°) numero .xii ). rosarum ..iiii.S. ) croci acacie liquiricie aiï .5.1. boli ..S. cinnamomi simphiti ) ypoquistidos balaustie an .5.!. myrtillorum ..i. ) coralli rubei et albi\" sumac sanguinis dracoriis lacce ■\"') roris syriaci an .S.ii.S. ) seminis portulace .3.8. ') Conficitur sic: capita papaverum ponantur in tantundem aque pluvialis quod bene coperiantur et per tres dies ibi dimittantur ) et in ipsa aqua usque ad tertiam partem bulliantur: et postea colentur ) et in colatura ponatur libram .i.S. '\") meilis myrtini.\") 32. et in tali melle supradicta admisceantur. Confectio meilis myrtini talis est : in duabus libras meilis dispumati ponatur una libra succi myrtilorum et coquatur ad succi consumptionem : et postea coletur. dosis eius .3.iiii. vel. vi. '-). Diacitoniten ''). - ■ r- \"W lacitoniten ') dicitur a citoniis unde fit, valet ad debi- foi, 12 r. I B litatem stomaci si fuerit ex frigiditate. appetitum I m confortat si",
+      "n_words": 222
+    },
+    {
+      "id": "AN_043",
+      "raw_text": "Recipe citoniorum in aqua elixatorum a cortice exteriori et a nucleis interioribus mundatorum libras .iii. meilis dispumati libras .iiii.S. supra dicta citonia bene ut diximus mundata et fortiter trita in . mortario in caldario cum predicto melle super ignem ponantur : et cum spatula semper agirando bulliant donec inspissari incipiant. Si vis scire quando coctum fuerit: ponatur aliquantulum super marmor infusum aqua rosarum: si non inviscatur ut colligere valeas coctum est: et tune ab igne deponatur. et pulvis harum specierum cum spatula semper agitando superspargatur.",
+      "n_words": 85
+    },
+    {
+      "id": "AN_044",
+      "raw_text": "Recipe cinamomi ..S. zinziberis ..i. galange piperis an ..3. ') gariofilorum nucis muscate an -S-iii. spice ligni aloes macis cardamomi liquiritie an .3.ii. zedoarie an ..i. deinde super marmor infusum aqua rosarum cum aliquantulo musci distemperatum super marmor spargatur: et cum infrigidatum tuerit cum cultello frustatim incidatur : et si laxativum facere volueris in unaquaque libra apponatur ■o-S. scamonee trite. tamen cum fuerit calidum antequam supra marmor ponatur scamonea bene comisceatur. laxativum detur cum vino calido in sero. simplex autem detur mane post prandium et post cenam. 30. \"'W lapapaver') quod mirabiliter prodest ethicis thisicis fol. n. v, nimium vigilantibus-). confecta est librae .iiii. )",
+      "n_words": 105
+    },
+    {
+      "id": "AN_045",
+      "raw_text": "Recipe succi liquiricie dragaganti gummi arabici an .5.x. ) seminis papaveris albi penidiorum an .3.XX. ) amigdolarum dulcium mundatarum .3.x. '') amidi '') seminis citoniorum portulace an .3.V. ') seminis melonis et cucurbite et cucumeris ) lactuce malve aiï .3.viii. ) fac pulverem. confice cum succo \") violarum vel sapa. 3- Atolicon •\"') valet epaticis sple'neticis. datur in acutis et pèracutis quia mollificat digerit confortat.",
+      "n_words": 65
+    },
+    {
+      "id": "AN_046",
+      "raw_text": "Recipe sene mundate medulle casiefistule tamarindorum ') seminum communium candi penidii ..i. syrupi quod sufficit in quo ponantur polipodii ..viii. feniculi ..iü. in libras .iii. aque et syrupizentur cum .9.ii. zuchari. 42. \" Lectuarium de succo rosarum) ab eodem succo die- turn est ). expertum est contra guttam calidam. ) coleram nigram ) purgat et convalescentes ex egritudine scilicet quotidianariis et tertianariis purgat sine molestia ) et reliquias malorum humorum potenter educit i) L2 na tamar. : an .5.viii.; wat nu volgt ia L,, wijkt te zeer af van L,, om het in noten mede te deelen; er volg-t: rheub. violar. polypo. anisi. an j-üü- liq- mundatae, peni. candi. an 3. iii. quatuor se. frigidorum mundator .,5.i. Accipe iterum. li. .1. polyp. quercini, et tere modicum et in aqua diutissime decoque et ex colatura fac syrupum cum li .viii. zuc. In parte autem colaturae distempera cassiam et tamarindos et in fine decoctionis serupi pone; deinde confice electarium imponendo pulveres ali",
+      "n_words": 218
+    },
+    {
+      "id": "AN_047",
+      "raw_text": "Recipe zucchari succi rosa- rum ana libram unam et uncias quatuor '). sandali albi et rubei et citrini ) ana drammas sex. spodii drammas tres. diagridii drammas duodecim ). camphore scropulum unum ). tempera ad modum electuarii cum syrupe facto de eodem zucharo et succo rosarum. datur cum aqua calida in mane ad modum castanee. 43. W Lectuarium frigidum secundum Cophonem) quod op- fol, 15 r. time tercianarios et quotidianarios et erraticas febres purgando sanat : et etiam habentibus stomacum colericum familiare est. tertia pars confecta est librae quatuor.",
+      "n_words": 89
+    },
+    {
+      "id": "AN_048",
+      "raw_text": "Recipe sandalorum alborum et rubeorum et spodii dragaganti gummi arabici amili rasure eboris reubarbari sene rosarum violarum seminis fumiterre berberis sebesten seminis portulace maratri anisi ) ana drammas tres ). emblici unciam unam. Conficitur sic: psillii uncie octo ponantur in sufificienti aqua ferventi in qua bullierit libra media polipodii quercini viridis mundati et triti omnes herbe diuretice violarum et prunorum : et tamdiu dimittantur donec bene congelentur. deinde coletur fortiter per saccum. ad meliorem vero mucilaginis constrictionem intromittatur in saccellum aliquantulum aque ferventissime : et colature addantur scamonee uncie sex pulverizate: prius tarnen cum aqua frigida inter manus fricate et bene cum eadem mucilagine fricentur manibus. deinde apponantur zuchari libre quatuor dissoluti prius cum sufficienti aqua decoctionis polipodii cerarum ) herbarum diureticarum. et colati deinde super ignem positum bullire permittatur. cumque ad medium decoctionis pervenerit add",
+      "n_words": 290
+    },
+    {
+      "id": "AN_049",
+      "raw_text": "Recipe psillii libras .iii. et in aqua ferventi pone per triduüm, postea coletur: et in colatura admisceantur scamonee ..iü. et zucchari libras .iii. et per duos dies dimittatur: et postea coquantur. deponantur ab igne et pulvis istarum specierum admisceatur qui ).",
+      "n_words": 41
+    },
+    {
+      "id": "AN_050",
+      "raw_text": "Recipe sandali albi et rubei rosarum reubarbari spodii draganti gummi arabici violarum berberis, an .3.8. ) seminis portulace scariole. aiï .3.iii. in estate detur apud sompnum: in hyeme circa mediam noctem. in utroque tempore cum aqua calida ad modum castanee. E\" Lectuarium ducis dicitur quia abbas de curia illud J composuit ad opus ducis Rogerii filii Roberti viscardi\") propter indigestionem et ventositatem stomaci ■ et intestinorum : et ilii \") dolorem \") : et vitium lapidis ■\"').",
+      "n_words": 77
+    },
+    {
+      "id": "AN_051",
+      "raw_text": "Recipe anisi .5.11. et .gr.xv. ) liquiricie masticis an .9.ii. et grana .v, ) ') camedreos zinziberis cinamomi galange maratri karvi an .9.i. grana .xv. ') xilocasie \") calamenti\") dauci piretri piperis albi et longi ciperi squinanti ') yreos amomi folii \") asari ') aiï .9.i. ') spice croci gummi arabici dragaganti seminis aneti calami aromatic! cubebe gariofilorum carpobalsami ) ') iuniperi alexandri '') sileris pentafilon seminis sparagi citri \") acori radicis ameos reubarbari indi\") urtice reupontici nucis miristice ligni aloes basilici ''') milii solis saxifrage seminis citroli melonis cucumeris et cucurbite scariole petrosellini been albi et rubei storacis ) calamite ) cardamomi. aiï gr. .xv. penidiorum ..S. et .3.ii. et .8. ) mei quod sufficit: datur post prandium et ad ') cenam cum vino calido. ) si datur contra lapidis vitium sumatur cum decoctione millisolis vel scolopendrie. 41. \" Lectuarium pliris arcoticon ) pliris est completa medi- cina arcoticon principium interpretatur ",
+      "n_words": 190
+    },
+    {
+      "id": "AN_052",
+      "raw_text": "Recipe cinamomi gariofilorum ligni aloes galange spice nucis muscate zinziberis spodii squinanti ciperi ) rosarum violarum an .3.1. et gr.xv. ') folii '-) liquiricie masticis storacis sansuci balsamite ') basiliconis cardamomi macropiperis et leucopiperis ') mirtilli corticis ') citri an .y.ii. et gr.v. \") gemmarum ') been ') albi et rubei coralli syrici combusti an .9.i. et gr.ii. ''•') musci gr.vii. et .8. ) camphore grana .v. syrupi rosacei ) quod sufficit \"). detur febricitantibus '-) cum aqua ) mane et sero : ) non febricitantibus cum vino. i) conf. alipte muscate. — 1. eboris. — 1. anacardi. litospermatis. — 1. acori. — 1. peucedani. — 1. cimini miconis. 39. ' \"Sdra') dicitur quia Esdra propheta in babylonia in exilio positus eam primo invenit ). datur melanconicis timidis: et quibus inest malus appetitus prodest. valet etiam comedentibus carbones et tuffos) et testas ollarum : et ad nimiam cerebri frigiditatem ). valet ad dolorem et putredinem aurium ex reumatica causa •\"') si h",
+      "n_words": 274
+    },
+    {
+      "id": "AN_053",
+      "raw_text": "Recipe alipte muscate mirre zuchari foliorum rute apii seminis camedreos fenugreci. an .j.i. et ..1. et gr.i. '') eboris limature pigami lilifagi golene balaustie an ..i. et gr.vii.S. et parum plus\"), cinnamomi gariofilorum xiloaloes ') spice zedoare lacce '') rosarum caparis pulegii abrotani melanopiperis petroselini ossium dactilorum aiï .y.ii.S. et gr.iiii. ') galange ) zinziberis croci ortensis anacardi litodemonis ) mandragore acori ') peonie thimi ysopi roris syriaci ') basilici dauci feniculi altee '■') olivarum seminis): vini veteris optimi an .3.8. gr.i. '') balsami croci ') orientalis ) folii ') costi gallie calami aromatici casie fistule mirobalanorum nardi celtice xilobalsami ) dragaganti J EnrtV doet wel huut wassen sondr linke. Si opent dert es. ende trect die materie uut in waseme. Knde ondr die rebben. In dese steden daarop geleit trecse ende rijpse coralli albi et rubei confïte rubee castorei oppopanacis bdellii galbani aspalti terbentine masticis tyriace ) adriani ') ",
+      "n_words": 292
+    },
+    {
+      "id": "AN_054",
+      "raw_text": "Recipe litargiri ..vi. cere rubeae colofonie an , ..ii. ) populei ) visci quercini aiï ..i. ) armoniaci lapidis') calaminaris \"') an .3.vi. ') masticis •\") muniie '). an .3.8. terbentine galbani bdellii mirre calcucemenon ) sarcocolle lepidos calcis ) diptami aristologie rotunde ') prassii viridis ') opopanacis an .3.iii. ') Conficitur sic oppopanacum et armoniacum et galbanum aliquantulum tusa'') ponantur per noctem in vino ita ut coperiantur. et mane bulliant donec liquefiant : et per catiolam colentur: et iterum bulliant ad vini consumptionem. litargirum in pulverem subtilissimum redactum cum sufficienti oleo in caldario distemperetur et super ignem ponatur : et cum spatula iterum agitetur tamdiu donec super lapidem positum in modum cere ') inspissetur: et statim addatur cera : et liquefacta cera addatur colofonia. postea addatur mastix et olibanum. deinde mirra ponatur '•) et facto intervallo ponatur bdelium. deinde viscus quercinus. liquefacto visco ponatur terebentina '). liquefa",
+      "n_words": 303
+    },
+    {
+      "id": "AN_055",
+      "raw_text": "Recipe melissae, corticis citri, garyophyllorum , galliae muscatae, masticis, croci Orientalis, cinnamomi, nucis muscate, cardamomi, neheremisch, id est semen paeoniae, ben albi et rubei, zedoariae, doronici, loco eius ponitur semis pondus galangae, seminis ocymi maioris, et ocymi garyophyllorum, omnium ana unciam .8. musci quantum est .x. pars unius supradicta; deinde sumantur chebuli .xx. emblici .xxx. et terantur in tribus libris aquae, coquantur donec ad unam redeant: et coletur; in colatura vero mittatur libra .i, meilis, deinde bulliant donec consumpta sit aqua; postea ex hoc melle conficiatur pulvis praedictarum, quod in triplum sit mei ad species; de quo cum necesse fuerit; sumatur ad magnitudinem avellanae. medicamen laetitiam et coloris pulchritudinem et digestionis bonitatem operatur et canos retardat, ELectuarium laetitiae Galliae. ')",
+      "n_words": 120
+    },
+    {
+      "id": "AN_056",
+      "raw_text": "Recipe succi pomorum dulcium et odoriferorum, succi cytoniorum aromaticorum, vini veteris, succi boraginis, florum basiliconis, aut seminum eius, croci, zedoariae, x'lobalsami, garyophyllorum, corticis citri, galangae, macis, nucis muscatae, styracis calamitae ana drachmas .ii.S. ambrae, muschi, camphorae ana drachman, .8. anisi, rasurae eboris, thymi, epithymi ana drachmam .i. margaritarum .3.1. ossis de corde cervi drachmam .8. limaturae auri, lunaturae argenti, ana 9.8. zucchari albi quod sufficit. frat electuarium. 46. Mplastrum ceroneum a cera dictum precipue valet ad omnem dolorem spatularum ) et pee- toris ex frigiditate. et si humor frigidus illuc fecerit discursum mire solvit. ) splenem remollit. valet ad ydropisim de frigida causa: epaticis de eadem causa): matricis frigiditati superpositum multum resistit. tertia pars confecta est libre .ii. )",
+      "n_words": 119
+    },
+    {
+      "id": "AN_057",
+      "raw_text": "Recipe picis navalis bene colate. cere an ..ii. et l) Dit praeparaat is uit Lj overgenomen; het ontbreekt in L. — 1. zie woordenlijst. — van pectoris af ontbreekt in F,. — epatic. de eadem causa ontbreekt in Fj. — tert. pars conf. est .iX'.ii. ontbreekt in Fj. 3.iii. ') serapini .fss.. armoniaci terbentine colofonie croci. aiï ..i. et .3-i\"- ) aloes thuris mirre, an ..i. oppoponacis galbani storacis calamite ) masticis aluminis ) fenigreci. an .5.vi. ) confite rubee bdellii. an .5.iii. litargiri .5.1.8. ) Conficitur sic serapinum ) ) galbanum ') armoniacum opoponacum aliquantulum tunsa ) ponantur in vino) et preparentur ut in apostolicon dictum est. °) bulliant ad vini medietatis') consumptionem.j et stagnato super ignem posito : cum inceperit bullire pix navalis bene colata addatur : et cum spatula semper agitetur. liquefacta pice addatur cera: et ea liquefacta \") ponatur colofonia : ) et postea storax cum pistello calido trita frustatim in stagnato ponatur ). post hanc ponatur mastix",
+      "n_words": 295
+    },
+    {
+      "id": "AN_058",
+      "raw_text": "Recipe ) picis colofonie cere. an I miwct vaet olyew van rosew. of vc\\et olie« vaw camodrog/ wonde//, en wultse vs\\et goede« vleesche. 1 I vandor nieren eide in die blasé. Y.wde iegew harti) I. euforbii. — 1. calami. — 1. litospermatis. ..i. et ..iii. ') Conficitur sic: galbanum armoniacum aliquantulum contusa : ponantur in sufficienti aceto per noctem : et mane mittantur super ignem et eliquentur. et eliquate per catiam ) colentur: et iterum coquantur donec pars aceti consumetur ). tune pix navalis ponatur bene colata. liquata pice addatur cera: et ea liquata ponatur colofonia. deinde terbentina; et facto intervallo ) ponatur mastix et olibanum et mirra ') cum spatula semper agitando. ad ultinium cum bene fuerit coctum \") in aqua frigida infundatur: ') et ab aqua extracto manibus exprimatur. ut aqua inde exeat : et super marmor inunctum oleo aureo laurino cum pulvere croci malaxetur et factis magdalionibus usui reservetur. ' \"W lloantropos ) amicus hominis interpretatur. proprie valet",
+      "n_words": 193
+    },
+    {
+      "id": "AN_059",
+      "raw_text": "Recipe folii i) F,: 5.ii. ; NM 3.8. et 5.1.8. — per catiam ontbreekt in F,; NM heeft: per saccum extenni linteo factum. — van colentur ontbreekt bij NM. — facto interv. ontbreekt in F, en NM. — van hier af ontbreekt bij NM. in de plaats daarvan : deinde funde super marmor, et croco in pulverem trito in sperso, ipsum subigito. — c. bene f. coct. ontbreekt in F. — het volgende ontbreekt in F, ; in de plaats daarvan : puis soit apraint et formé mandalions. — voor de vergelijking met NM en Fj : zie woordenlijst. i) 1. mulsa. — 1. leucopiperis. — open plek in het HS. donici aneti ) miliisolis lapidis lyncis aiï .9.ii, et .8. cinamomi fol. i8 r. calami ) aromatici polipodii fisalidi melanopiperis seminis levistici et petrosellini et urtice seminis citri litospermatis bardane ) baccarum edere aiï /S.ü. galange nardi zedoarie betonice fu meu sparagi cardamomi apii maratri eruce sinapis orobi albi et rubei aiï .5.8. gariofilorum zinziberis. casie lignee piretri costi spice celtice mirobalanorum",
+      "n_words": 270
+    },
+    {
+      "id": "AN_060",
+      "raw_text": "Recipe leucopiperis iusquiami aiï .g.v. opii .g.ii.8. casie fistulae '•) .g.i. et .8. ') ') seminis apii .g.i. petrosellini maratri dauci cretici aiï .3.ii. et gr.v. croci ') .5.8. \"') nardi piretri ) zedoarie. an .gr.xv. alii addunt cinamomi .5.1. et .8. '') euforbii costi aiï .g.i. mei quod sufifïcit. datur in modum fabe egyptiace '). 50. \"\" Ariofilatum ) dicitur a gariofilis qui ibi intrant. gario- fili ore retenti ') singultum stringunt. cocti et bulliti ') in aqua et bibiti vomitum ') stomaci et subversionem mirabiliter ') reprimunt. valet proprie-\") accide eructantibus: et digestionem optime \") celebrat. i) L2: anisi. — Lg'. calamenthi, wat wel verkeerd zal zijn. — L.2 : sem. bardanae. — Lg heeft alleen: 3.i. — L2: gr.xv. — L2 heeft nog: laxativum vero cum aqua calida. — voor de verg. met NM zie woordenlijst. — i. e. n. a ontbreekt in Fi; het voorwoord in Fj is ongeveer als in Lj; het heeft nog: a dolor de chef; het is moeilijk met dit te vergelijken. — I-j • poligoni ; F, : poli",
+      "n_words": 250
+    },
+    {
+      "id": "AN_061",
+      "raw_text": "Recipe cinamomi gariofilorum zinziberis liquiricie rosarum an .5.ii. et gr.xv. ) ligni aloes galange cardi ) miristici ■') nardi zedoarie violarum an .5.i. et gr.vii. et .8. ) reubarbari macis ) croci alipte costi ciperi cardamomi basilici anisi ') levistici eboris limature an .ö.i. et .8. et gr.iii. et .8. ) meilis quod sufficit ). datur post prandium in sero cum vino vel rodostomate post cenam in modum avellane '°). 51. \"\"UYgia greca \"). '-) hygia id est salvatrix. greca dicitur quia a grecis fuit inventa '). valet proprie ad reuma gingivarum et dolorem dentium fricata super eos '■■)ore sepe abluto cum aceto caiido : et sordidas nebulas ab oculis aufert .vi. pars est libra .i. ')",
+      "n_words": 117
+    },
+    {
+      "id": "AN_062",
+      "raw_text": "Recipe iusquiami ') storacis ') calamite ') galbani ) agarici ) mirre opoponacis scordeon origani an .3.1. et gr.x. ') gentiane pigami ) sticados ') prassii cardamomi an .9.ii. et .8. ') balsami nardi. croci squinanti thimiamatis ) armoniaci ■') terbentine casie lignee '') mandragore yringi radicis -) rosé eupatorii ') euforbii melanopiperis levistici dauci feniculi trifolii seminis aiï .9.ii. ) mei quod sufficit. datur cum vino caiido in modum avellane. i) spirit, meat. ontbreekt in Fj. — .viii. prs. e. ffi.i. ontbreekt in F,. — et gr.xv. ontbreekt in F,. — ontbreekt in F,. — Lj nucis myristicae ; ontbreekt in F,. — et gr.vii. et s. ontbreekt in F. — ontbreekt in Fj. — Fj heeft alleen: 5.i. et demie. — meilis q.s. ontbreekt in F,. — F, heeft in plaats van het volgende : soit doné en quantité d'une noiz menne ou eve rosé ou o eve freide. — voor de verg. met NM zie woordenlijst. — tot ontbreekt in Fj. — et gr.xv. ontbreekt in Fj. — stor. cal. galb. agar. behoren in L2 tot de volgende ri",
+      "n_words": 280
+    },
+    {
+      "id": "AN_063",
+      "raw_text": "Recipe cinamomi ..'n'u et ,9.i. et gr.xvi. croci .5.ii. et .9.ii. nardi mirre olibani opii mandragore macropiperis anisi ameos selini ■) sileris iusquiami an ..i, et .9.ii. et gr.viii. mei quod sufficit. datur ad modum avellane ante horam accessionis cum calida. 53. \"Ustinum \"j dicitur quia a lustino imperatore primo fuit inventum. precipue ) datur calculosis : ) et patientibus dolorem ilii. valet stranguirie et dissurie: et his qui mingunt mucos .vi. pars librae .ii. )",
+      "n_words": 76
+    },
+    {
+      "id": "AN_064",
+      "raw_text": "Recipe cinnamomi folii \") costi nardi casie '°) aristologie longe et rotunde elempnii ) ysopi mei quod sufficit. detur cum vino in quo coctum fuerit milium itontripON brect de« stee« in de blasé, ende in de lendenew. Knde hets goet jegew die pine vande;/ lankew. Ne;«t naerdi. gingeb. meu. melanopipris. macrpip?ris. lewcopiperis ). saxifrage. saet van serpentines. i) dezelfde fout in F,. — 1. peucedani. — 1. leucopiperis. 54. \"W \"W' Atarticum imperiale ) id est laxativum pro imperatoribus factum et pro aliis delicatis hominibus. ducit enim sine lesione. hec '') precipue confert pinquibus hominibus qui semper sunt constipati. valet multum iliosis. iuvat eos qui ex ventositate stomaci et intestinorum laborant, medietas libra .1.)",
+      "n_words": 114
+    },
+    {
+      "id": "AN_065",
+      "raw_text": "Recipe diagridii zucchari an .5.iiii.S. '') cinamomi nardi saxifragie polipodii an .5.11.') mirobalanorum citri hermodactili polipodii) aiï .g.ii. )) gariofilorum zinziberis celtice '\") melanopiperis macropipecis cardamomi amomi aiï .5.1.8. '■') mei quod sufficit. sumatur cum vino calido) vel aqua calida ') mane vel sero. Hec lapidem renum pertundit et inde repellit '). 55. w' Itontripon pertundens lapidem interpretatur. hoc proprie lapidem frangit et expellit si in renibus vel vesica fuerint. hac medicina utentes. nee dolorem ilii nee lapidis vitium incurrunt. stranguiriam et dissuriam sine mora solvit .viii. pars est librae .ii. \")",
+      "n_words": 92
+    },
+    {
+      "id": "AN_066",
+      "raw_text": "i) zie lienteria in de woordenlijst. — 1. cedri. — 1. meliloti. — 1. armoniaci. — 1. cassami. — NM : seminis agni. — 1. reupontice. selini ') seminis ) sinoni ) cardamomi aneti seminis euforbii lapis lincis olei nardini muscelini aiï .3.i. minus ) gr.iiii. ) mei ') quod sufficit. detur in sero cum vino calido. Multis adest datum renibus aptum hoc metridatum ''). c5 m M'Etridatum ) id est mater omnium antidotorum sive a Metridato rege dictum faciens ad omnes passiones capitis virorum et mulierum si fuerint ex frigiditate. maxime melancolicis et timidis epilenticis maniacis fantasticis: mirabiliter prodest cephalargicis emigraneis dolorem cilii patientibus et lachrymantibus oculis: et ad omnia capitis vitia vel aurium subvenit. dentium doloribus et palato et omnibus vitiis oris et maxillarum medetur si super locum dolentem ponatur : et iterum ad modum emplastri ponatur in temporibus unde fit discursio. squinantiam solvit et apoplecticis cum cerusa acceptum facit, tussientibus et asmatici",
+      "n_words": 284
+    },
+    {
+      "id": "AN_067",
+      "raw_text": "Recipe storacis calamite) .3.1. et .9.1.) gariofilorum nardi xilobalsami oroboni ) lentici ''') draganti masticis galbani gummi cedri aspalti castorei olphei ) bdelli terre figuli melliloti laudani opopanacis armoniacis ) apii sulfuris vivi liquiricie nitri ypoquistidos acatie rosarum camedrei ypericon abrotani pionie ysopi origani elempnii rami cedri ) et dampnicon aristologie longe epithimi peucedani centauree rorismarini yringi radicis balaustie cimarum mirre ) psidie '\") romei squille carpobalsami git anisi iusquiami cimini feniculi cardamomi siselei tesapii \") amei sinoni levistici seminis rute seminis miconis apii dauci seminis rapé rnacropiperis ozimi amomi aiï ..i. ' acori illafeos cassami filis ) zuccozarie catariaci ') aiï .'S.n. balsami cinamomi croci costi squinanti zinziberis folii terbentine mirre libani ') casie agarici spice celtice reupontici yrei asari diptami prassii interioris ') sticados artemisie calamenti scordei silfïi ') camapitheos leucopiperis melanopiperis o",
+      "n_words": 294
+    },
+    {
+      "id": "AN_068",
+      "raw_text": "Recipe piperis albi .gr.xvii. thuris masculi mirre gentiane iusquiami aiï ...vi. opii .3.iiii. croci .5.iiii. ) musci ) gr.vii. euforbii aristologie longe an .3.i. et .9.i.') mandragore .3.i. et .'S.i. mei quod sufficit detur ut superius in laude diximus. Tortio quem ventris cogit est micleta iuvame'n ). 58. nL MIcleta ) -) id est experta, proprie valet ad emorroydas et ad ventris tortionem et rugitum lienterie et disinterie : et optima est omni solutioni ventris. medietas est libra .1.",
+      "n_words": 79
+    },
+    {
+      "id": "AN_069",
+      "raw_text": "Recipe mirobalanorum citrinorum indorum kebulorum mundatorum assatorum an -s.ii.S. nasturcii .3.ii. ) bellericorum emblicorum assatorum .3.ii. cimini anisi ameos carvi '°) an .3.i. et .8. infusa in aceto die ac nocte dimittantur et assata pulverizentur. tune adde spodium balaustias sumac masticem gummi arabici an .3.i. et .gr.xv. fricentur omnia cum oleo rosarum et temperentur omnia mirtino syrupo. dentur cum aqua pluviali mane meridie. et sero. i) alleen in Lj. — voor de vergelijking met NM en F zie woordenlijst. — .g.i. et .9.i. ontbreekt in Lj. — alleen in Lj. — er staat Mideta. — Lj: 3.S. — Lj nog marathri. el rosaceUM heet in griex rodomel. nde men maenen pot. Da« doet de« pot in ene« ketel. «0? so doetiV' in .4. rose« cleine gesneden me/ .1. messe. «(ii? zied/ mage me«t zoetr houdt soet betr es. Hei suvrt de mage ende of in .1. fiolc ende sett in de zonne .40. dage. ende roevet .2. El rosaceum -) quod greci rodomel vocant ) sic fit. in .X. libris albissimi et purissimi meilis dis",
+      "n_words": 318
+    },
+    {
+      "id": "AN_070",
+      "raw_text": "Recipe lapidem lyncis ..ü. et .gr.xv. croci orientalis ') .3.i. et gr.xviii. ) zinziberis euforbii mirre olibani ) vesice apri lapidis in epate vel in vesica porci inventi ) cimini seminis ) iusquiami seminis macedonici citri omnium decem an .3.i. gr. vi. nardi squinanti costi piretri casie reupontici prassii elempnii sansucci gliconis roris marini gentiane saxifrage gummi edere cipressi pullularum ) baccarum dampnidis piperis nigri et albi seminis rute et iuniperi omnium an ,3.8. et .gr.iiii. balsami storacis sanguinis hirci ') sturci ) anseris ) acori fu meu aristologie longe et rotunde betonice fisaliadis '°) s \") dauci ') petroselini seminis eruce ') omnium an .gr.ii. ') seminis urtice .9.i. ) et .gr.ii. et .8. succi sparagi et brussi an .gr.v.8. \") mei quod sufficit. dosis eius sit .5.111. et cum vino tepido. Ende wil mewt makew laxerende, so sal men in elc M. doeji mowt M W vandor kelew. ende in handen, ende in voeten, geO Popira magna ). opopira dicitur a succo : et igne. opos e",
+      "n_words": 310
+    },
+    {
+      "id": "AN_071",
+      "raw_text": "Recipe opii thebaici '°) .3.ii. et .9.i. et .gr.iiii. ) cinamomi '°) gariofilorum nardi galange croci costi zedoarie zinziberis \") xilobalsami '°) reupontici piretri coralli albi \") et rubei '°) draganti mirre castorei ') opoponacis \"') piperis nigri albi et longi an .5.ii. et .gr.vi. ') rasure eboris '\") lilifagi herbe paralisis an .5.1. et .gr.xiiii. ') balsami musci xiloaloes '\") i) 1. phthisis. — alleen in L,. — voor de verg. met NM zie woordenlijst; de voorrede is in F, veel korter n. 1. : Opopira vaut a paralesie d'eux , de bouche, de langue, de goitron, de mains et de piez, boiue en vin oü sauge soit cuite et castor, doné en quantité d'une noiz de coudre . — colericis cum ontbreekt in L.2. — L., : melancholicis. — open plaats in den text. — overbodig. — typice behoort bij febrientibus. — Fi • opium .5.ii. — ontbreekt in Fj. — in F, volgt op gingimbre: ana 5.1!. rasure d'iveure. — squinanti casiefistule storacis calamite masticis confite rubee galbani serapini asari ') ) melHIoti",
+      "n_words": 314
+    },
+    {
+      "id": "AN_072",
+      "raw_text": "Recipe prunorum damascenorum '\") librae .iii. \") et decoquantur in libras .v. aque usque ad medietatem. deinde ab aqua extrahantur et ponantur in cribro et catino subterposito. tamdiu in manibus fricentur donec pulpa exeat tota : et in aqua ubi cocta sunt pruna bulliat ..S. violarum : et postea fiat syrupus cum duabus libris zuchari et .8. ') addito succo prunorum predicto ') bulliat ad spissitudinem. et postea addantur ..iiii. tamarindorum et ..ü. casie fistule mundate et dissolute cum aqua rosarum et colate. colatura namque ponatur in syrupo: et cum inceperit inspissari ponantur ibi succi utrorumque granatorum ..viii. et quamdiu ad perfectum venerit coctionem agitando cum spatula semper adde i) ontbreekt in F,. — Lj'. plantae assae foetide. — in F volgt achter prassii ; aiï .5.i. — In L2 volgt nog eboris, waarbij het volgende alexandrini zou behooren. — et gr.xviii. ontbreekt in Fj. — het volgende ontbreekt in F,. — alleen in L,. — voor de verg. met Fj en NM zie woordenlijst. — L2 : ",
+      "n_words": 192
+    },
+    {
+      "id": "AN_073",
+      "raw_text": "Recipe ') pulverem sandalorum alborum et rubeorum spodii aiï .3.iiii. portulate -S-vi. rosarum draganti aiï .3.ii. Si vero laxativum facere volueris in unaquaque libra pone .3.vii. scamonee pulverizate. tune scilicet quando ab igne deponitur. et diaprunis ') si laxativum facere volueris eodem modo facias. detur mane simplex: meridie cum frigida: laxativum detur summo mane cum calida in modum castanee. OXizaccare ) dicitur ab oxi quod est acetum et zucharo dicitur ). valet tertiane ) acutis et quartane non vere '). coleram in stomaco existentem purgat ).",
+      "n_words": 86
+    },
+    {
+      "id": "AN_074",
+      "raw_text": "Recipe zuchari libram .i. succi malorum granatorum ..viii. aceti ..iiii. ad ignem in stagnato vase pone: et tamdiu bulliat cum spatula semper agitando donec ad quantitatem zuchari deveniat: ut in pisside portari possit. detur in mane cum calida ..i. et .8.). OXimel ) sic fit.",
+      "n_words": 45
+    },
+    {
+      "id": "AN_075",
+      "raw_text": "Recipe meilis despumati libram .i. aceti fortissimi libram .i. et .8. in quo bulliant radices feniculi ,3.ii. ) radices rafani .5. 8. '°) radices apii petroselini macedonici sparagi bruxi frage ') an ,.iiii. polipodii ..viii. omnia ista bulliant in libras .ii. aceti '). deinde coletur: et colatura ') supradicto melli ') addatur. in stagnato vase semper agitando cum spatula ') tamdiu lento igne bulliat donec ad consumptionem succi ') deveniat. valet ut oxizaccara: \") digerit dividit ) et flegma mirabiliter purgat. datur in mane cum calida. l) L2: recepit; de text schijnt hier wat corrupt. — zie bij diaprunis bladz. 29 reg. 4 V. o.. — NM heeft hetzelfde praeparaat wat anders beschreven; zie woordenlijst. — • van af ontbreekt in F,; dicitur ontbreekt in Lj, het is overbodig. — in Fj ook nog: a cotidianes. — non vere ontbreekt in F,. — het voorwoord heeft F, na het eigenlijke recept. — 5.1. et .8. ontbreekt 1. saxifrage. ■ — vóór deinde coletur in Lj nog: bulliat usque ad tertiam partem; i",
+      "n_words": 340
+    },
+    {
+      "id": "AN_076",
+      "raw_text": "Recipe olei libras duas. succi malorum ') mandragore ') uncias quatuor. iusquiami albi succi uncias duas. papaveris nigri ortensis capitum succi uncias tres ). violarum recentium cimarum succi cicute ) ambarum ana unciam unam ). opii storacis ana unciam mediam. Conficitur sic in oleo omnes succi mittantur: et per decem dies ad solem bene admisceantur : undecimo vero die ad consumptionem succi coquantur. Cumque coctum fuerit ab igne deponatur : et cum infrigidatum fuerit coletur : ) et in parte ipsius olei opium et storax soluti 'j medicamini supermittantur : ') et bene commixtum in vase reconditum usui reservetur. hoc vero unguentum ) contra calefactioncm epatis sepe inunctum mirifice valet. OLeum camomellinum °) salubre ad fervorem et dolo- fol, 23 r. rem capitis: et stomaci. causas ex colera rubea sine aliquo calore commotas compellit. articulisque proficit: et ad alia multa facit.",
+      "n_words": 141
+    },
+    {
+      "id": "AN_077",
+      "raw_text": "Recipe olei dulcis uncias decem et cocto. florum camomille mense iulii collectorum libram mediam. Conficitur sic: flores in oleo communi mittantur in diebus canicularibus in vitreo vase ad solem suspendantur : et bene obturato. et post quadraginta dies in lento loco ponatur. et usui reservetur. ende dan hestadet. Si es goet geplaestert iegew de?i dagelikew rede rede. of gesmeert an de« slaep entew rugge bovew totew lendegroei ex c\\ \"MW o;/!dat hise te gadere sette entie romeyne hete/zt tenne. Me« vind?/ in die apoteke. apie. dampnotti. sileris. perOLeum frigidissimum -) viride sic fit.",
+      "n_words": 93
+    },
+    {
+      "id": "AN_078",
+      "raw_text": "Recipe olei communis albi et abluti libras quatuor. cimarum rubi tenerrimarum foliorum violarum vermicularis cimbalarie sempervive solatri foliorum papaveris iusquiami mandragore crasule maioris portulace lactuce bardane omnium ana uncias tres. ) hec omnia insimul bene terantur: et in supradicto oleo mittantur per tres dies. post tertium vero diem super ignem ponatur. et usque ad spissitudinem bulliat. postea coletur. deinde in fictili vase ponatur super ignem: et bulliat ad succi consumptionem. tune ab igne deponatur: et permittatur residere. et illud clarius quod supernatat coUigatur: et usui reservetur. valet in acutis et peracutis: fronti et temporibus inunc- tum. valet et retro inunctum per dorsum a nucha usque ad caudam inunctum: et per ventrem similiter: et vole manuum et plante pedum eodem modo contra omnem calorem potenter medetur. POtio sancti Pauli -). dicitur potio a potando. sancti Pauli: quia sanctus Paulus eam composuit. hec eadem a romanis potio maior vocatur: quia Paul",
+      "n_words": 217
+    },
+    {
+      "id": "AN_079",
+      "raw_text": "Recipe nitri .3.iii. ) et .l.i. castorei antimonii sinoni folii dampnocri sileris apii petroselini maratri dauci stafisagrie an .3.1. et .y.i. ) calami aromatici mirabolanorum liquiricie draganti pionie piretri aiï .9.iii. ) costi coloquintide agarici masticis aristologie longe et rotunde rosarum mabathematicon asari lilifagi aaronis diptami basiliconis brance ursine balsamite origani pulegii camedrei vel ysopi saturegie piperis albi et nigri et longi seminis rute an .y.i. et gr.xviii. cardamomi turis an ..i. et gr.iiii. balsami nardi croci squinanti casie mirre opoponacis sulfuris mandragore gentiane braccei euforbii amomi ') sanguinis merguli an .9.i. cinamomi gariofilorum zinziberis anacardi xilobalsami reupontici peucedani carpobalsami ') storacis calamite serapini asari sanguinis draconis coaguli leporis coaguli agni et caprioli et vituli : et fellis ursini sanguinis anatis petrolei an .9.i. minus gr.iiii.) herbe peralisis .5.vii. gr.iiii. mei quod sufficit. datur capitalibus pass",
+      "n_words": 264
+    },
+    {
+      "id": "AN_080",
+      "raw_text": "Recipe aloes ..xi. et gr.xv. ') croci costi anacardi agarici coralli mirre armoniaci terbentine galbani serapini opoponacis confite ') rubee ') storacis calamite yrei an .3.iiii. et .8. opii olibani masticis bdelii cozumbri. an .3.ii. et ,gr.xv. ') balsami folii an .A. et .8. melisse .3.ii. Conficiantur sic. galbanum serapinum armoniacum opoponacum. iste gumme aliquantulum terantur l) ontbreekt in Lj. — T.2: gr.iii. — van hier tot ontbreekt in F,. — voor de vergelijking met NM zie woordenlijst. — zie . — ontbreekt in cholia. — tot ontbreekt in Fj. — ll) zie . — et gr.xv. ontbreekt in F,; Lj: gr.xx. — ontbreekt in F,. — et gr.xv. ontbreekt in Fj. et in albo et odorifero ') vino sufficienter ') nocte una imponan- tur. mane vero super ignem ponantur: et bulliant -). postea adde meilis dispumati ..iiii. ) et dimittantur bullire quousque incipiant inspissari. tune storax) calamita confita rubea et cozumbrum cum pistello calido optime trita ponantur in caldario semper agitando cum spatula do",
+      "n_words": 297
+    },
+    {
+      "id": "AN_081",
+      "raw_text": "Recipe opii thebaici .3.vi. ') zuchari. ') 5.ii. et /S.i. et .8. siselei .3.11. calami aromatici castorei carpobalsami cardamomi petroselini an .3.!. et .3.i. zinziberis casie serapini piperis '') albi '') iusquiami seminis lini ') seminis rute agrestis maratri \") an .3.9.ii. ') anacardi ') piretri meu euforbii anisi trifolii acuti ) dauci cretici an .9.1. et .8. mei ) quod sufticit. fol. 26. v, datur in modum avellane ) in sero cum vino calido. 76- Igra Galieni •') \"). pigra id est amara. Galieni ab inventore dicitur. ) valet mirabiliter ad omnem '°) capitis frigiditatem: et stomaci indigestionem) procurat ). votionem adiuvat: detur in balneo si fieri potest : vel eunti dormitum cum vino calido .vii. est libra .1,)",
+      "n_words": 120
+    },
+    {
+      "id": "AN_082",
+      "raw_text": "Recipe aloes optimi ) .3.xiii. ') et .8. cinnamomi nardi costi croci squinanti silobalsami casiefistule masticis asari rosarum amomi absinthii ') aiï .3.!. et .gr.vii. mei quod sufficit. ') datur ut supra diximus. yj. \"\"W Otio muscata\"') maior. muscata a musco dicitur: eo quod muscus preciosior est et odorosior sit aliis speciebus. \") valet cardiacis scotomaticis et ad omnem stomaci debilitatem et corporis confortationem '): et ad vitia pulmonis. ') pars .iii. confecta est librae .ii.-°)",
+      "n_words": 76
+    },
+    {
+      "id": "AN_083",
+      "raw_text": "Recipe spice optime -') piperis longi zinziberis zedoarie ) confite rubee confite muscate) gariofilorum ) xiloaloes) rosarum violarum anacardi acori coralli costi levistici nucis muscate rasure eboris margaritarum integrarum et perforatarum antofali '\") reubarbari ) amomi ossis de corde cervi ) croci piperis Lj: quae. — alleen in L en L2. — voor de verg. met NM zie woordenlijst. — van af ontbreekt in Fj. — et corp. confort. ontbreekt in ontbreekt in L2 en F, ; na spice volgt nog in beiden : folii. — in Fj na gar. : grid'n ,i.9. Men saelt ö;/ficiere; me ve;ïkelsope. Dese pillulen claren die ogen. et purgant stomachum secure ')• 80. \" illule sine quibus esse nolo es goet iege;? cataalbi ossium dactilorum beliculi ') marini ') spodii sandali albi et rubei macis -) liquiricie cinnamomi aliptc ') anisi draganti blacte ') bisantie ') cardamomi ozimi ') seminis basilice) limature auri et argenti omnium) xP) aïï .L).ii.) musci camphore ambre omnium ') trium ') ail ..i. \"') zuchari candi aiï .5",
+      "n_words": 199
+    },
+    {
+      "id": "AN_084",
+      "raw_text": "Recipe aloes unc .i. masticis unc .8. gariofilorum, rosarum rubearum, aiï dra. .i. croci, diagridii, an scrup .ii. confice cum succo foeniculi vel absinthii. Pilule sine quibus \"). 2'8. \"W — pilule sine quibus esse nolo '). pilule a rotunditate dicte. sine quibus esse nolo : propter summam efficaciam quam habent. sive quia superiores purgant humores. ') valent proprie ad cataractas ') et obscuritates et caligines ) oculorum. caput mirabiliter a colera flegma ') et malitia ') purgant. ab omnibus pravis humoribus visum custodiunt. iliosis mirabiliter conferunt. aurium dolorem sanant. in sero .x. vel .xiii. ') sumantur cum ovo vel farinata'). medietas est ..iü. ')",
+      "n_words": 105
+    },
+    {
+      "id": "AN_085",
+      "raw_text": "Recipe aloes epatici abluti et odoriferi ') .5.xiiii. mirobalanorum citrinorum kebulorum belliricorum emblicorum) indorum reubarbari masticis absinthii rosarum violarum sene agarici cuscute) aiï .3.1.°) temperentur cum succo feniculi scamonee foi. 27 v. bene trite et pulverisate -S.vi. et .8.') admisceantur ita tantum quod pulvis scamonee per pannum cum ipso succo sit expressus. et sit tanta succi quantitas que sufficiat ad confectionem pilularum : et manibus primo inunctis oleo violarum vel communi secundum nostram doctrinam abluti formentur in modum ciceris. 79. \"\"W \"pilule auree. ) pilule a rotonditate dicte. auree ab excellentia auri dicuntur. sicut enim aurum inter cetera metalla preciosius habetur : sic pilule iste inter alias meliores approbantur. proprie ) purgant caput. lumen oculorum acuunt. ventositatem stomaci et intestinorum expellunt et sine molestia purgant. ) medietas est librae .ii. et ..ii. •')",
+      "n_words": 133
+    },
+    {
+      "id": "AN_086",
+      "raw_text": "Recipe aloes diagridii an .g.v. rosarum apii seminis an ..ii. et .8. anisi seminis feniculi aiï .M. et .8. ') croci coloquintide interioris ) masticis ') aiï .5.1. informentur in modum ciceris 'j cum aqua infusionis draganti. dentur in sero .ix. vel .xi.) cum 80. IT — ïlule diacastoree\") a castoreo dicte sunt : quod intrat. ''■) paraliticis mirabiliter prosunt. una vel tres ') distemperate cum aqua calida naribus iniciantur. ') ita ut aliquantulum vertat se : et ore aperto sinat flegma exire. oculos mundificant et dentes lapsos confirmant \"). strangui- , riam curant. dolorem cilii ex aliquo frigido reumate solvunt .iii. pars est libra .i. et .8.'')",
+      "n_words": 108
+    },
+    {
+      "id": "AN_087",
+      "raw_text": "Recipe castorei apii ') croci zinziberis i) alleen in Lj. — ontbreekt in L.2; voor de verg. met NM zie woordenlijst; breekt in F,. — Fj : poivre; het volgende ontbreekt in F\",. — in de LTGl staat : dantur xv vel xx. — in Lj in de marge genoteerd. — voor de verg. met NM zie woordenlijst; tot ontbreekt in Fj. — zie . — una v. tres ontbreekt in Fj. — narib. inic. ontbreekt in Fj. — iuxt. ign. parv. ontbreekt in Fj. — tot",
+      "n_words": 87
+    },
+    {
+      "id": "AN_088",
+      "raw_text": "Recipe ontbreekt in F,; in de plaats daarvan: et tolent les dolors i) 1. octomere, zooals in I.j. — 1. cretici? sagrie epithimi ellebori ') albi ') spice an .3.1. Confice cum succo fol- 28 r. bete et informa in modiim ciceris'-). Pllule artetice ) valent contra arteticam et podagram.",
+      "n_words": 50
+    },
+    {
+      "id": "AN_089",
+      "raw_text": "Recipe hermodactili turbiti agarici aiï .3.iiii. casie lignee ) gariofilorum xilobalsami carpobalsami ■') zinziberis masticis ) feniculi anisi salsifrage ) semen sparagi bruxi rosé granorum solis sal gemme an .3.8.) aloes ad pondus omnium. Conficitur cum succo ') feniculi '\"). 82. ' — pllule optomere) id est de .viii. speciebus. humores spissos de capite deponunt: et visum clarificant: et cataractas oculorum prohibent.",
+      "n_words": 62
+    },
+    {
+      "id": "AN_090",
+      "raw_text": "Recipe aloes diagridii an masticis agarici kebulorum absinthii omnium .vii. an .3.1. terantur et cum succo stringni ') distemperentur et in modum ciceris formentur. dentur ex eis .viiii. mane vel vespere cum vino. 84. \" — pllule de quinque generibus mirabolanorum ').",
+      "n_words": 42
+    },
+    {
+      "id": "AN_091",
+      "raw_text": "Recipe fol- 2i mirabolanorum citrinorum chebulorum beliricorum emblicorum indorum agarici dyagridii coloquintide sene anisi ') an ..S. \") turbit anisi maratri ') mastifiant pilule. valent') arteticis podagricis spleneticis: et ad visum clarificandum. coleram purgant adustam. i) ontbreekt in L en F. — Fj : poivre. — voor de verg. met Fj en NM zie woordenlijst. — in L2 volgt nardi. — in L2 volgen nu macis, galang. — 6; in L2 volgt: asae foetidae. — 1. saxifrage. — Lj'. 5.11. ; daarop volgt : scammonee 5.1. — ontbreekt in Lj. — in 1-2 volgt nog: vel ivae. — alleen in L. — 1-2: ö-ü. — !• strigni; in L2 staat hierbij in de marge „foeniculi\" aangeteekend. — voor de vergelijking met F zie woordenlijst. — ontbreekt in L2 en NM; staat hier waarschijnlijk te veel; zie 2de woord na .5.8. — NM: .5.ii.9.i.S.; hierop volgt epithymi daarna turbit enz. — ontbreekt bij NM. — NM : litzi id est viridi. — L2: gi'.v. ; NM: .5.1. et gr.xvi.; dan volgt rhei barbari. exag. i. — NM : 3.S. ; dan volgt: succi fo",
+      "n_words": 225
+    },
+    {
+      "id": "AN_092",
+      "raw_text": "Recipe mirtili balaustiarum psidie) simphiti) sanguinis draconis boli acacie ) ypoquistidos rosarum ) tartari sumac ) trocisci ) galie ) muscate) galle cinnamomi spodii masticis) gummi ara- fol, 28 v. bici an .3.i. opii thebaici ) .3.8. cum succo cimarum mirti lentisci tempera: et fac pilulas in modum orobi. dentur .ix. vel .xi. cum aqua rosarum vel pluviali. 85. W 'pilule cinoglosse) multum sunt utiles ad acre et tenue reuma, plurimos enim scio quamvis longo tempore reumatizantes his subsceptis proculdubio esse curatos.",
+      "n_words": 82
+    },
+    {
+      "id": "AN_093",
+      "raw_text": "Recipe cinoglosse opii seminis iusquiami- omnium trium an .3.iiii. mirre trocliten ') .3.vi. olibani .3.V. gariofilorum .3.ii. cinnamomi .3.ii. et cor. cubri '') .3.11. temperentur cum rodostomate idest cum aqua rosarum : et formentur pilule ad modum ciceris ex quibus dentur .v. vel .vii. eunti dormitum. 87. \"\"V illule ante cibuM. Ne;//t ligni aloes. naglen. galigae//. 16. \"Ilule ante cibum'): et post cibum ad digestionem con- fortandum et virtutem digestivam.",
+      "n_words": 70
+    },
+    {
+      "id": "AN_094",
+      "raw_text": "Recipe cinnamomi bari ad pondus omnium supradictorum aloes ad pondus omnium supradictorum. Confice cum vino. sumantur ante cibum .vii. et 87. W—Ilule arabice ') contra omnem dolorem capitis. etsi per c. annos duraverint. purgant mirabiliter omnes humores: et generant leticiam : et auferunt tristiciam. mentem acuunt. visum reddunt. auditum restaurant, memoriam tribuunt. scotomiam vertiginem emigraneam oculos dentes gingivas stomacum splenem sonitum aurium omnibus humoribus: etatibus: omnibus temporibus sine molestia in viris et mulieribus purgant.",
+      "n_words": 74
+    },
+    {
+      "id": "AN_095",
+      "raw_text": "Recipe aloes ..iiii. brionie mirobalanorum citrinorum belliricorum indorum kebulorum emblicorum masticis diagridii asari rosé an ..i. Confice cum succo feniculi : vel absintii croci .3.1. castorei -ö-iii. Ilule de elacterio ').",
+      "n_words": 31
+    },
+    {
+      "id": "AN_096",
+      "raw_text": "Recipe aloes ..ii. masticis ..i. elacterii ..iii. Conficitur cum succo siccidis vel cum succo accis-) vel como'): et da .iii. vel .v. suaviter ducunt: et principaliter malitiam) et flegma purgg \"\"W — Ilule cotie'). G. '') probate ad emigraneum dolorem sto- fo. 29 r. maci et ilium '').",
+      "n_words": 48
+    },
+    {
+      "id": "AN_097",
+      "raw_text": "Recipe aloes absintii pulpe coloquintide scamonee equale pondus: masticis dimidium unius predictorum. Confice cum succo feniculi vel absintii vel solatri : et fac pilulas. dentur secundum quantitatem 90 Ilule fetide ').",
+      "n_words": 31
+    },
+    {
+      "id": "AN_098",
+      "raw_text": "Recipe mirabolanorum citrinorum che- bulorum beliricorum indorum emblicorum dyagridii agarici spice coloquintide an .3.V. aloes epatici .3,vii. terantur et cum succo fumiterre informentur pilule ad modum ciceris. 91. Ilule de fumoterre ').",
+      "n_words": 32
+    },
+    {
+      "id": "AN_099",
+      "raw_text": "Recipe mirabolanorum citrinorum chebulorum indorum emblicorum aiï .5.V. aloes .5.vii. dyagridii .5.V. conficiantur cum succo feniculi. Vadrumeron) \"j id est de quatuor numeris: vel .iiii. rebus ) expertum est ad asmaticos et ex catarro tussientibus. valet etiam ad dolorem) et frigiditatem stomachi. digestionem ) procurat). renes debiles relevat .ix. pars est libra .i. )",
+      "n_words": 54
+    },
+    {
+      "id": "AN_100",
+      "raw_text": "Recipe elempnii ..i.S.5.iii. ) seminis maratri ..i. piperis -ó.vi. cumini .5.iii. ) mei quod. sufficit datur mane vel vespere cum vino calido ). veteris, que recipiebat tibar id est sulfur vivum. vomitum et subversionem stomaci aufert. debilitatem et sitim reprimit. defectis ex longa infirmitate mire subvenit. sudores diaforeticos compescit .xx. pars est librae .ii.",
+      "n_words": 54
+    },
+    {
+      "id": "AN_101",
+      "raw_text": "Recipe rose) zuchari '°) liquiricie an ..i. et .A. et .9,ii. et .8.\") cinamomi .5.11. et .9.ii.gr.ii. ''•) gariofilorum nardi apii an .9.i. et .gr.viii. ') mei ') quod sufficit') datur mane meridie et sero) cum frigida. l) vergeten het gewicht in te vullen. RVbea trociscata ') dicitur ab ipso colore : trociscata a trociscis: qui ibi ponuntur dicta. valet tercianariis quotidianariis ante horani accessionis data cum rodostomate ) ad modum avellane. naribus et pulsibus) de eadem inunctis sanitatem prestat. reumati ex acri flegmate facto data cum tipsana subvenit .viii. ) pars est libra .1.",
+      "n_words": 95
+    },
+    {
+      "id": "AN_102",
+      "raw_text": "Recipe') Hquiricie cinamomi papaveris albi °) aiï .3.iii. et .9.i. et gr.v. croci iusquiami rosarum apii seminis aiï .g.ii. et .gr.xvi. ) nardi violarum an .3.!. et .gr.viii. ) gariofilorum storacis optime opii thebaici aiï .9.8.) trocisci croci magnetis et ydiocri ') mirre anisi aiï .gr.xv. \") vel syrupi rosarum vel rodactilis ') mei quod sufficit. hebben m cotidianez ende 'm trtianew ende in .4. deii cortse m,?/ musa enea. ende in acutis. peracutis. doet.?r suker met. Daarna doet in .1. glasijn vat. ende sett/ in te middage. nde na den .30. dagew suldijt doe;? in ene scotele. 95- ' Equies magna. ') vel magna medicina, requies dicitur eo quod requiem patientibus prestat. et sompnum maxime typice febrientibus quotidianariis tertianariis quartanariis acutis et peracutis prestat .vi. pars est libra .i.",
+      "n_words": 130
+    },
+    {
+      "id": "AN_103",
+      "raw_text": "Recipe rosarum et violarum an .3.iii.) opii iusquiami miconis papaveris albi mandragore scariole lactuce seminis portulace psilii nucis muscate cinamomi et zuchari ) an ..i. et .8. sandali albi et rubei et citrini ) spodii draganti an .9.ii. et .gr.v. ) da patientibus acutam cum syrupo violato: interpolate cum melle confectam dare possumus. datur quartanariis cum vino calido acutas et peracutas. et tertianariis cum aqua calida vel syrupo. requies est opiata quasi frigida. precipue valet ad sompnum inducendum ad modum castanee data. cum autem est data hominibus quasi sanis tempestive debent multum comedere vel cenare. et postea detur eunti dormitum quod si aliquis abhorret sumere distemperatur cum succo rosarum vel syrupo violato: et coletur et postea detur. lecet'') omnino non faciat effectum nam multum valet etiam sic data. Item attendendum est quod ex speciebus huius medicine syrupus factus bonus est ad sompnum provocandum. scilicet ut species bulliant in aqua trite. et colentur et a",
+      "n_words": 305
+    },
+    {
+      "id": "AN_104",
+      "raw_text": "Recipe salis communis ..xvi. cinamomi ..üü. zinziberis amomi piretri cumini amei piperis sileris saturegie ysopi origani pulegii an ..i. que omnia terendo in pulverem reddige : et in omni cibo utere et usui serva. q8. /■ — Otira magna ) id est que interpretatur salvatrix. si cum mulsa bibatur capitis dolorem antiquum tollit. veterem vel silvestrem frenexim placat. epilenticis et melancolicis subvenit. oculorum aurium et dentium dolorem mirabiliter sanat. mulieris lac solvit: et per aurem iniectum auditum redit. cum tepida sumpta disnoicis asmaticis medetur. tussim antiquam et recentem tollit. stomacum vomentem et de singultu et dolore laborantem sanat. peripleumoniam et pleu- resim et epatis tensiones deponit. yctericos ex abundantia felHs rubei purgat et ad pristinum colorem revocat. sanguinis sputum cum oximelle sumpta vel decoctione polligonie vel plantaginis sistit. fluxum ventris constringit. brachiorum et coxarutn dolorem sedat. et his qui pro dolore dormire non possunt mire somp",
+      "n_words": 173
+    },
+    {
+      "id": "AN_105",
+      "raw_text": "Recipe storacis optime .5.iiii. ') et .8. apii .5.iii. et .9.1. costi mirre'-) opii petroselini macedonici an .5.iii. siseli .3.ii. et .9.ii. piperis nigri ). 5.ii. et .3.i. et .8. cinamomi nardi an .3.ii. et .9.8. ) squinanti synoni) synaci) anisi an .3.ii. castorei .5.i. et .8. reupontici .3.i. et .9.1. trocisci croci magnetis) asari an .3.!. piperis albi .9.ii. et .8. ydiocri .3.8. amomi piperis longi an.9.i.) alii apponunt croci .3.ii. et .9.ii.) mei quod sufficit. datur in modum avellane. Qg g -y Tomaticon frigidum facimus: quod valet contra omnem calorem. sitim reprimit '\") : et patientibus debilitatem ex nimio calore potenter subvenit. \") acutis et peracutis'-) mirifice prodest.",
+      "n_words": 110
+    },
+    {
+      "id": "AN_106",
+      "raw_text": "Recipe zuchari libram .i.) sandali albi et rubei aiï .3.i. et .8. spodii berberis ') seminis porrosarum et violarum nenufaris aiï .3.i. ') conficitur sic: supradictum zucharum ponatur in stagnato cum libra .i. aque rosarum et tamdiu bulliat cum spatula agitando donec ad aque consumptionem deveniat. deinde pulvis predictarum specierum bene '•) cribratus ') immisceatur cum spatula agitando in stagnato. cum autem probare volueris utrum sit coctum supra marmor-) gutta proiiciatur: que si coaguletur bene coctum est: et si coctum fuerit tune ponatur supra marmore prius abluto et inuncto oleo rosarum vel violarum : et tune cum cultello eodem modo oleo inuncto frustatim incidatur dum calidum est. ) datur mane ') etmeridie) cum frigida. 100. /' Tomaticum calidum stomacum confortat. digestivam vvertutem adiuvat et) iliosis confert.",
+      "n_words": 126
+    },
+    {
+      "id": "AN_107",
+      "raw_text": "Recipe zuchari modo ut stomaticum frigidum, si vero laxativum facere volueris ontbreekt in F. — in Fj volgt: oint d'eule rosé ou d'eule viole. — • d. c. e ontbreekt in Fj. — bij NM volgt: inflationem dissolvit. Datur ante et post cibum; tot ontbreekt bij NM. — Fi libr. ii. — zie . — in F, volgt: musque. — NM heeft: g.i. ; het volgende heeft NM anders, / yroop Vyolaet maect me« \\n de selve maniere, datme// maect cyroop rosaet. En '\\\\et vrverscht in droge; heete« cortsen. entie tysike sijn. Ynde lacseert die verstopt sijn in den lichame. 102. Irupus rosaceus ') sic fit.",
+      "n_words": 106
+    },
+    {
+      "id": "AN_108",
+      "raw_text": "Recipe rosas recentes et pone fol- 3 v. in vase et) supersparge aquam ferventem: et coperi vas ne fumus exeat inde : et cum frigidata est aquam proice rosas exprimendo. deinde aquam eandem bullientem super alias rosas recentes iterum proiice : et supra dicto modo facimus mutando rosas tamdiu donec ipsa aqua sit rubea. deinde in .iiii. aque libras .iiii. zuchari ) pone: et cum bullire inceperit album ovi. cum aqua frigida pone. et concutias tantum quousque spumescat. et spumam illam in syrupum bullientem super asperge : et cum nigrescere spuma inceperit suaviter cum catia removeas. ) et iterum aliam spumam infunde. et supradicto modo fac) quousque clarus) fiat syrupus et cum ceperit quasi filum facere:') vel super marmor positus veP) supra unguem non difundit coctum est. valet siccitati ') et calori febrium. sitim reprimit. confortat\") et constipat. 103. X\" yrupus violatus eodem modo fit. qui multum valet fe- bricitantibus ptisicis et constipatis ventrem humectat et laxat:'\") et ut brev",
+      "n_words": 194
+    },
+    {
+      "id": "AN_109",
+      "raw_text": "Recipe aque libras .iiii. et ponatur ibi ..S. ') violarum liquiritie papaveris albi aiï .§.8. seminis citoni et malve mundate. medulle seminis bam- bacis medulle seminis citroli melonis cucumeris '') cucurbite mundatarum : seminis portulace dragaganti gummi arabici an .5.iii. omnia in aqua vel sacculo bene trita ponantur ., et .8. ') et sacculus in predicta aqua ponatur et bulliat ad medietatem: et sacculo abstracto ab aqua libre .ii. zucchari apponantur: et fiat syrupus et clarificetur ut supra docuimus. 106. — Yrupus contra acutas et peracutas passiones. )",
+      "n_words": 88
+    },
+    {
+      "id": "AN_110",
+      "raw_text": "Recipe succi portulace: melHs'-) pelestini ) libram .i. vel cum aqua decoctionis citroli melonis et cucurbite vel capillorum veneris. herbe epatice politrici adianci ceterac. in aqua ista vel in succo predicto fac bullire liquiriciam mundatam et tritam : et draganti violarum an ..i. prunorum numero .v. sempervive aut cotilidonis .3.1. ) deinde coletur et colature adde zucchari libram .1. et fiat syrupus ut diximus clarificetur secundum quod debet vel ut superius diximus. deinde psilium et semen citoniorum aïï .3.i, in sacculo mitte sandali albi et rubei et spodii berberis rosarum portulace lactuce scariole aiï .3.8. pulveriza et horum pulverem in eodem sacculo pone et ibidem reubarbari pulverizati .3.1. hec simul bullire facias usque ad decoctionem. datur contra acutas et peracutas sine apostemate cum aqua frigida. Ï07- /\" Yrupus contra omnem fluxum ventris.)",
+      "n_words": 132
+    },
+    {
+      "id": "AN_111",
+      "raw_text": "Recipe zucchari libram ,i. aque rosarum vel pluvialis. libram .i. et .8. et in aqua ista ponatur mirtini ..i. rosarum sumach acacie balaustie spodii ypoquistidos an .. mediam. sorbarum mundatarum .x. mespilorum ) viridium numero .V. cornarum vel prunorum immaturorum .x. draganti liqui ritie gummi arabici an .3.8. que sunt terenda terantur et bulliant in supradicta aqua donec ad quantitatem unius libre deveniant: et colature ponatur zuccharum predictum. et fiat syrupus et clarificetur ut diximus. iruples de fumo terre. fumus terre dats grisecom. lo8. Yrupus de papavere ') contra omnem ventris solutionem.",
+      "n_words": 92
+    },
+    {
+      "id": "AN_112",
+      "raw_text": "Recipe capita papaveris recentia sive humida numero. C. 1. plantaginis balaustie gallarum prunellarum immaturarum an .5.!.. Conficitur sic omnia ista in aqua pluviali .9.V. dimitte per biduum. in tertio vero die coque aquam bene usque ad consumptionem medietatis postea cola per pannum fortiter. cum autem colata fuerit admisce illi colature tertiam partem mellis. et iterum coque donec ad spissitudinem meilis redigatur. et tune conde in vase vitreo: et cum opus fuerit in 109. Pongia somnifera. ')",
+      "n_words": 76
+    },
+    {
+      "id": "AN_113",
+      "raw_text": "Recipe opii thebaici .g-i. iusquiami ) foi. 32 v. succi more immature rubi seminis lactuce succi cicute coconidii) .i. papaveris succi mandragore succi edere arboree aiï ..i. hec omnia simul in vase mitte: et ibi spongiam marinam novam qualis de mare exierit: ut non tangat eam aqua dulcis: et pene ad solem in canicularibus diebus donec omnia consumantur. cumque opus fuerit aqua nimis calida illam parum fomenta et postea naribus patientis appone: et cito dormiet. cum autem exitare volueris succum radicum feniculi naribus apponetur: mox expergiscetur. fol ,2 iio. g — Yrupus diureticus ').",
+      "n_words": 94
+    },
+    {
+      "id": "AN_114",
+      "raw_text": "Recipe apii petrosilini feniculi anisi fol- 33 •■• poiitrici splendilidon caparis tamarisci siselei. est) fimerine granorum solis seminis melonis citroli cucumeris et cucurbite cretani ) saxifragie seminis citri lapis qui invenitur in spongia marina pulvis cicadarum amomi thimi camepitheos ossa cerasorum pomorum et persicorum cardamomi yreos spice nardi gariofilorum costi et nucis muscate aiï .3.iii. galange thimi epi- - V Yriaca ) magna Galeni. tyriaca dicitur domina medi- cinarum. Galieni : quia ab eo composita fuit. facit contra gravissimas passiones totius humani corporis epilenticis cathalenticis apopleticis cephalargicis. stomaticis ) emigranicis. prodest ad raucedinem vocis et constrictionem pectoris. optima est arteticis) asmaticis emothoicis yctericis ydropicis peripleumonicis yliosis: et vulnera in intestinis habentibus. nefreticis calculosis colericis subvenit. menstrua educit et fetum mortuum expellit. lepros et variolas et frigorem periodicum et ceteras passiones inveterat",
+      "n_words": 177
+    },
+    {
+      "id": "AN_115",
+      "raw_text": "Recipe trociscorum squilliticorum .5.ii. et .9.ii. piperis longi .g.ii. ) trocis corum tyri et diacoralli an .3.!. et .9.i. ) xilobalsami .9.i. ) et gr.vii. opii agarici yris rosé scordei seminis rapé silvestris cinamomi opobalsami an ..i. et gr.xiiii. reubarbari cere '\") spice costi squinanti zinziberis cassie lignee storacis calamite mirre terbentine turis masculi calamenti diptami sticados pollii radicis pentafilon petrosilini piperis albi aiï .9.i. et gr.vii. folii gummi arabice meilis dispumati quod sufficit. que terenda sunt tere : et gummas in vino liquefactas cum pulvere et melle commisce sufficienti vel cum speciebus teras. datur in modum avellane cum tepida apoplelicis scotomaticis cephalargicis emigranicis ad raucedinem vocis et constrictionem pectoris cum melle aut dragaganto ita ut in ore teneatur. asmaticis cum decoctione lilifagi. emotoicis ex pectore et pulmonis vitio cum ptisana. ad veteratas passiones cum apozimate ysopi. yctericis cum decoctione assari. ydropicis cum",
+      "n_words": 283
+    },
+    {
+      "id": "AN_116",
+      "raw_text": "Recipe mirre aristologie rotunde gentiane baccarum lauri excorticatarum aiï ..i. et .9.ii. minus gr.xi. fenu- l. 34 r. greci nigelle zedoarie aiï .3.!, et .9.ii. ') diptami camedrei pigami .3.1. et .9.ii. et gr.vii. gummi edere calcanti usti aiï .3.!.) esdre magne .3.i. ) ossis de corde cervi mumie antefarmaci afi .3.i. cornu cervi usti .3.iii. mei quod sufficit datur in modum avellane. 113. w Rifera saracenica) id est iuvenilis invenem hominem reddit. saracenica quia a saracenis inventa). datur proprie yctericis epaticis) et patientibus dolorem capitis ex fumositate colere rubee '). datur contra duplicem tertianam. et restaurat visum amissum ex calore): et colorem) perditum ad pristimum revocat. datur mane cum tepida .viii. pars libra .i. ').",
+      "n_words": 116
+    },
+    {
+      "id": "AN_117",
+      "raw_text": "Recipe zucchari ..iii. \") mirabolanorum citrinorum corticis medulle cassie fistule et tamarindorum aiï .§.i. et .8. '\") kebulorum ) mundatorum manne aiï .3.vi. et .9.ii. et gr.v. ') indi '\"') violarum recentium '°) si possunt inveniri \") aH ..8.') anisi maratri aiï .3.ii. et gr.xv. ) masticis ') macis aiï .3.1. et gr.vii. et .8.°) bellirici emblici aiï .0-8. et gr.iiii.-') Conficitur sic: in duabus libris aque ponantur ..iii.') violarum ) recentium si poterunt inveniri. si non siccarum) et bulliant donec deveniat aqua ad purpureum colorem et viole sint remisse. postea) leviter expressum ) coletur. de colatura illa pars accipiatur. et casie fistule et tamarindorum per caciam abluantur. et colentur per eadem, in alia aqua libra .i. et .g.viii.) zucchari immittantur et super ignem ponantur et ad spissitudinem bulliat: et cum inceperit inspissari: addatur colatura casie fistule et tamarindorum postea manna. cum volueris scire utrum sit coctum ponatur gutta super marmor. ') et si quasi mei ",
+      "n_words": 302
+    },
+    {
+      "id": "AN_118",
+      "raw_text": "Recipe opii .3.11. cinamomi gariofilorum galange spice zedoarie zinziberis costi storacis calamite\") calami aromatici ciperi ) yris peucedani acori mandragore celtice rosé piperis anisi apii petroselini macedonici) dauci iusquiami) feniculi ozimi cimini ') an .3.i. meilis quod sufficit ). datur in modum castanee : ut supra diximus. hete mage levere tysike geelsucht 15. W W Rionfilon ')) dicitur a 'viridibus foHis rute que in eo ponuntur ). valet proprie quartanariis et vere quotidiane). in hyeme et vere ) post prandium ). in sero cum vino '') .iiii. ') libra .i.",
+      "n_words": 90
+    },
+    {
+      "id": "AN_119",
+      "raw_text": "Recipe piperis albi ) quod inter) nigrum invenitur ..i. ) piperis nigri ..ii. '°) cimini assi \") ..i. ') zinziberis nitri ') piretri an .3.ii. piperis longi .3.8. petroselini ameos dauci anisi elempnii spice ciperi apii siselei costi an .3.8. et gr.v. et .8.') dactilorum mundatorum numero .xii. foliorum rute viridis ..i. et .8. ) mei quod sufficit '\"). datur ut supra diximus. Ii6- W Riasandali ') dicitur a tribus generibus sandalorum qui ibi intrant. ') datur proprie contra calorem epatis ') et stomaci ') ptisicis\") yctericis ). medietas est librae .ii.').",
+      "n_words": 92
+    },
+    {
+      "id": "AN_120",
+      "raw_text": "Recipe sandali albi et rubei et citrini ) seminis portulace an. solidum .i. et .8. amili ) gummi arabici draganti seminis melonis'-) citroli ) cucumeris) et cucurbite) seminis scariole an. solidum .i. camphore .9.i. et .8. ) alii quadruplicant pondus rosarum -\\ syrupi rosacei quod sufificit -'). datur mane''') et meridie in modum castanee ') cum frigida. IJ. w W Heodoriton yperiston ). theodoriton dicitur a deo da- turn. yperiston : id est bene expertum interpretatur'') facit enim contra emigraneum dolorem) et vertiginem capitis : et contra fluxum flegmatis quod in faucibus et gutture) decurrit. Unde fit homo quandoque sine voce. ) valet etiam spleneticis \") sine febre. colorem bonum facit ) si simplex detur. sed si purgationem facere volueris adhibeas .9.ii. ) scamonee\") et fortius operabitur .xii. pars librae .ii.",
+      "n_words": 131
+    },
+    {
+      "id": "AN_121",
+      "raw_text": "Recipe aloes epatici .3.iii. et gr.iii. °) et tertiam partem unius grani \") cinnamomi camedrei ') acori an -S-iii. croci casie lignee ') reunardi costi masticis asari '') silfii ') squille \") asse) armoniacis bdellii electuarii ') indi ') ypericon epithimi polipodii brasice \") succi '') °) piperis albi ) et longi an .3.1. et .8.') squinanti zinziberis smirne) mirabolanorum coloquintide ) serapini smirne\") oppoponacis) castorei absinthii aristologie longe petroselini gentiane amomi an .9.ii.) diagridi piperis nigri an .9.i. ') mei quod sufficit') datur mane') et sero cum vino calido .3.iii. ') 118. r W Heodoriton anacardinum) ab anacardis dicitur: qui parat. vertiginem '-) capitis et maxime posteriori parte aufert. ■) flegma quod ibi est purgat. causis matricis mirabiliter confert \"). si eam purgare volueris .viii. pars confecta est librae .ii.",
+      "n_words": 131
+    },
+    {
+      "id": "AN_122",
+      "raw_text": "Recipe aloes epatici ..i. ') yrei casie aiï .3.vii. ) et .8. folii ) spice mirabolanorum corticum ) meu epithimi an .3.iii. et .9.i.) gariofilorum reupontici masticis squinanti an .3.1. et gr.iii.) mei quod sufficit ) conficitur sic: Accipe ) corticis radicis feniculi bene triti ) et abluti ) libram .i. et pone in duabus libris aceti et stet ibi per .vii. °) : et postea tere ipsas radices °) et in eoderii aceto coque usque ad tertiam partem : et cum omni) diligentia) cola per pannum et pone in duabus libris meilis dispumati et bulliat usque ad aceti consumptionem. cum tali melle confice. \") supradicte autem radices colligantur in maio vel iulio : quia aute hoc tempus humide sunt et post hoc sicce sunt. dosis est .3.i. vel .ii. cum mulsa. valet. fol, 36 v. TRocisci diarodon ') id est rotunda confectio. trocisci isti in diamargariton intrant et in diarodon .v. pars est .3.x. et gr.xii.",
+      "n_words": 157
+    },
+    {
+      "id": "AN_123",
+      "raw_text": "Recipe croci 9.ii. et gr.vii. ) camphore gr.xii. rosarum viridium .3.iiii. ') spodii .3.ii. sandali rubei .3.1.8. gr.vii. ') sandali albi .3.i. et gr.xii. '°). Conficitur sic: in marmorea) pila recentes rosé sine intermissione terantur. deinde ceterarum subtilissimus pulvis specierum supponatur : et cum sufficiënt! rodostomate conficiatur. ad ultimum adhibeatur camphora). deinde trocisci informentur et ad umbram exsiccentur: et usi serventur. squillen die geheel sijn ende steecse in .1. deech geworpew. Knde dmiddelste salme« stotew in .1. 20. Rocisci diani ') dicuntur a violis albis. tertia pars est .vi.5. et .8.",
+      "n_words": 91
+    },
+    {
+      "id": "AN_124",
+      "raw_text": "Recipe foliorum violarum albarum viridium .3.V. ) seminis plantaginis .3.!. ) amili .3.iii. ) seminis papaveris albi .3.0. et .9.i. '') balsami .9.i. reubarbari .9.i. ) rodostomate quod sufficit : ) confice ad modum 121. 'JT W Rocisci ydiocri) qui in rubea et sotira intrant .vi. fol- 36 v. pars est .3.vi.",
+      "n_words": 52
+    },
+    {
+      "id": "AN_125",
+      "raw_text": "Recipe amomi cerefolii ) mirre casie maratri an. gr.x. ) amarici gr.v. ') vini ascalonis quod sufficit.') hec omnia tere et cum vino illo trociscos informa. et cum fumo 122. W W Rocisci croci magnetis ') ') intrant in rubeam et soti- fol- 36 v. ram.",
+      "n_words": 46
+    },
+    {
+      "id": "AN_126",
+      "raw_text": "Recipe croci .3.iii. rosarum ameos mirre an .3.1. et .8. xiloaloes .9.ii. informentur cum aqua sic fiunt. squillam integram divide et involve in pasta fermentata et in furno coque. abstracta de massa et eiectis corticibus eius medium tere in mortario: et tantundem farine orobi adde et inde trociscos informa: et cum vino aut melle tempera: et in umbra sicca: et si deest orobum tantundem panis assi subtilissime triti pone. exinde trociscos informa et in loco umbroso sicca. formeert ronde trsiskew. ende droochse in die scaduwe. 124. Rocissci diacoralli ').",
+      "n_words": 89
+    },
+    {
+      "id": "AN_127",
+      "raw_text": "Recipe coralli rubei cinamomi de his omnibus facto pulvere cum vino tempera et trociscos pensantes solidos singulos informa: et in umbra sicca. 125. JT Rocisci de aniso ) valentes paratis ad ydropisim. Re- cipe anisi eupatorii an .3.iii. apii absinthii masticis anisi) aneti asari spice amigdalarum amararum aiï .3.i. aloes epatici. .3.iiii. et .8. informa trociscos ad pondus .3.i. 126. Rocisci de tyro) qui in magna tyriaca Galeni recipi- foi. 37 r. untur sic fiunt. Invenias tyros in longitudine unius palmi existentes : oculos habentes rubeos et linguam mobilem et cornua in modum grani frumenti. caput et caudam tribus digitis mensuratis abscinde. medium quod remanet excoria: et intestinis proiectis optime dulci aqua lava : et sic coque donec spine a carnibus separentur. postea spinis proiectis carnem in marmoreo mortario satis tere: et commixta eiusdem ponderis farina orobi vel panis assi cum iure suo tempera: et fac inde trociscos pensantes singulos solidos: et in umbra sicca. dicitur a",
+      "n_words": 236
+    },
+    {
+      "id": "AN_128",
+      "raw_text": "Recipe tapsie ) panormitane vel aragonensis collecte in mense maii sive iulii) .-iü- croci affricani ) .5.i.S. ) nucis vomice ..S. asari ..i.'). Confice sic: in duabus libris melHs dispumati adde ..iiii. succi asari : et bulliat ad succi consumptionem°): et si succum habere ') volueris) pone tapsie asari an ..ii. et .8.) et dimidiam cataputiarum : et totuni depone in aqua marina et bulliat usque ad medietatem : et aqua ponatur in libris .ii. meilis dispumati et coque usque ad aque consumptionem. et cum tali melle confice. detur mane in modum castanee cum tepida °) vel oxicera'). duris hominibus cum tota substantia: debilibus colatura tantum. Omitus patriarche ').",
+      "n_words": 109
+    },
+    {
+      "id": "AN_129",
+      "raw_text": "Recipe tapsie libram .i. croci ..ii. mei quod sufficit. detur cum tepida ante accessionem. 129. \"W\" \"Omitus ') valens tertianariis et quartanariis : sed maxi- me competit quotidianariis.",
+      "n_words": 28
+    },
+    {
+      "id": "AN_130",
+      "raw_text": "Recipe tapsie ..iiii. assari baccari ..i. cinamomi ..i. croci ortulani ..i. seminis atriplicis .§.8. mei quod sufficit. datur in modum castanee cum calida. •o.S- — • in Lj volgt: meilis assarini quod sufficit. quod sic fit; F,: .3.8. — et S — het volgende ontbreekt in Fj. — ll) 1. oxisaccara. — voor de vergel. met F en NM zie woordenlijst. 119. y W ngwentuM cytrinUM maect scone ansichte. «é- del) 1. ame//ti. — umblici = umbellici. — d. w. z. de umb. marini. 34. \"Jf \"Y'gum citrinum. ')) Citrinum dicitur quia in porno citrino decoquitur ). pulcram reddit faciem. lentigines de facie tollit. nigredinem a sole inductam destruit et pustulas ') in quacunque parte corporis ortas ') salsi flemmatis ') mirabiliter destruit et aufert. cicatricem in corpore subtiliat. leprosi faciem) si ex eo ungatur) multum emendat. rubori oculorum : pruritui et pallori et erisipile \"') valet. medietas est libre .iii. \").",
+      "n_words": 152
+    },
+    {
+      "id": "AN_131",
+      "raw_text": "Recipe boracis ..ii. camphore .5.i. coralli albi .5.8.) aminti dulcis ..i.) umbellici marini dragaganti albi '■') amidi cristalli antali '\") dentali '\") olibani albi ') nitri aiï .g.iii. marmoris albi .g.ii. ') gerse serpentarie ..i. ) ceruse communis -o-vi. '-) hoc modo fit ). Tere dragantum et umbellicos marinos in mortario marmoreo ') cum pistello ferreo insimul. cetera sigillatim in eodem mortario terantur: et cum panno subtili albo cribentur ''): et cum assungia porcina novella albissima libra .i. et .8. ') sepi porcini vel caprini .i. et .8. ') assungie gallinacee ..i. Confice sic:') caldarium plenum aqua super ignem bulliat : et cacabus cum assungiis in caldario pendeat in ipsa aqua: et de calore aque liquefiant assungee : et lique facte per subtilem pannum et album colentur in catinum: et mox totus pulvis apponatur: preter camphoram et boracem cum spatulo semper agitando: ut omnium bona fiat incorporatio. hoc facto in uno citro cavato vel duobus mittatur') et ponatur et cum spa",
+      "n_words": 223
+    },
+    {
+      "id": "AN_132",
+      "raw_text": "Recipe radicis evisci, phu, meu, ana libras .ii. -) utriusque aristolochiae, helenii ), hyssopi, pulegii, artemisiae, pentaphylli, rutae, foliorum lauri, acori, herbae) venti, ) roris marini, matrisylvae, )\"') saxifragiae, 'j cyperi,) chamedryos, asparagi, ) brusci, feniculi, anisi, ) ) ana libram ,i. ') apii, ireos, levistici, granorum solis, petroselini, ) sileris, amomi)) cardamomi, anethi, baccarum lauri, ) iuniperi, lapidis lyncis ') an libram .8.') basilicae, sem. urticae, '') sem. ) citri, \") sinapis, euphorbii, ana uncias .iiii. '') adipis ursini et vulpini, olei laurini petrolei ) ana uncias .iii. ') schoenanthi, costi, pyrethri, thuris, masticis, myrrhae ana uncias .ii. ') muscelei -o-i- ') olei.) et cerae quod sufficit. \") Herbae colligantur in mense Maii et contritae mittantur in oleo, vel virio albo, in quo sint viginti diebus; postea addatur oleum, quod sufficit et bulliant donec herbae incipiant diminui et colentur per saccum ; et ponantur ibidem cerae libras .xii. bulli",
+      "n_words": 264
+    },
+    {
+      "id": "AN_133",
+      "raw_text": "Recipe oculorum populi libram .i. et •S. papaveris rubei ■\"') foliorum mandragore cimarum ) rubi tenerrimarum foliorum iusquiami solatri vermicularis lactuce sempervive) bardane\")\") viole scatunceli\") id est umbellici veneris) an ..iii. ') assungie novelle porcine sine sale libras .ii. \") oculorum populi perse bene pistentur ') et iterum cum assungia pistentur): in magdaleones informentur: per duos dies dimittantur. tertio vero die omnes herbe supradicte coUigantur et per se bene terantur: et cum magdaleonibus iterum terantur et misceantur: et formatis magdaleonibus per .ix. ') dies reserventur: et postea vero magdaleones illi frustatim in caldario cum libra .i. odoriferi et optimi vini ponantur: et buUiant usque ad consumptionem vini cum spatula semper agitando: et postea per saccum expressum bene cola: et colatum dimitte infrigidari et in vase reconde. 132. \"W \"▼'Nguentum agrippa ') '•): quo Agrippa rex iudeorum utebatur. quod tante dignitatis erat quod nemini discipulorum tradere vo",
+      "n_words": 184
+    },
+    {
+      "id": "AN_134",
+      "raw_text": "Recipe brionie libras .ii. radicis ebuli tribuli marini an ..ii. ') radicis siccidis libram ,i. squille -o-vi. yreos .iii. radicis filicis ..ii. -) omnes radices ') ter vel quater bene) abluantur et') in pilo marmoreo) terantur: et in quatuor) libris olei lentisci ) ponantur ') per duos dies. sed si per .vi. vel per .vii. dimittatur plus valet: quia calorem et odorem sibi et efficaciam vendicat). tertio vero ') velut dictum est ad ignem ponatur : et tamdiu bulliat donec incipiat dimitti. deinde ponatur in sacco et exprimando coletur: et cum colatum fuerit super ignem ponatur: et cum bullire inceperit ponantur .-v. ) cere albissime: et liquefacta cera ab igne deponatur: et cum frigidatum fuerit collige et serva. simo medico dicitur a quo fuit inventum.') quod facit ad dolorem ) et frigiditatem capitis et pectoris et stomaci: et ad selirosim) spienis et epatis'): et ad ilii dolorem ad solem vel ad ignem inunctum statim subvenit)). mit\"): et contra omnes dolores '-) mcdetur potenter .iiii",
+      "n_words": 169
+    },
+    {
+      "id": "AN_135",
+      "raw_text": "Recipe cere albe libras .ii. ') olei libras ,viii. ■') sempervive camedrei ') centauree fragarie) quinquefolii herba tetrait\"-)) an ..iiii. et .8.) evisci ) radicis) cimini ) mirte'') an .g.iiii.) fenugreci ..i. et .8.') butiri ..i. et -o-ü. ) urtice violarum papaveris nigri ) mente') sarasenice et alie mente '\") ') politrici \") lapaceoli carduncelli '-) matris silve mature ) herbe muscate ') alleluia ) lingue cervine ') crispule ) camphore-)\") storacis medulle cervine an .5. et .8.\") adipis ursini gallinacei ') masticis an -o-i- \") thuris .§.8. ') olei nardini .5.ii. '-) herbe colligantur in medietate mensis maii. uno die omnes herbe iste colHgantur vel duobus ) si potest \") ab hora tertia usque ad meridiem, Conficitur sic : ') herbas tritas diebus .vii. in optimo -) et adorifero ) vino infunde. octavo vero die ad lentum ignem ponantur \") et cum vinum aliquantulum ) consumari) addatur supradictum oleum ■) : et bulliant donec incipiant diminui. deinde studiose ) colentur: et proiectis ",
+      "n_words": 295
+    },
+    {
+      "id": "AN_136",
+      "raw_text": "Recipe roris marini maiorane) radicis) iari)) serpilli rute radicis siccidis'') '°) an .3.iii. et •S. ') foliorum lauri salvie savine aiï ..iii. ')'') policarie maioris et minoris .'.ix. ') brionie -o-iii- laureole .\".ix. ') nepite ') libram .8.')') masticis olibani aiï .j.vii. \") piretri euforbii) ') zinziberis piperis an ..i. 'j ) olei muscellini .§.8. '°) ') petrolei) .-i-') adipis ursini olei laurini an ..iii.) butiri ..iiii. ) olei communis libras .v. ) cere libram .i.'-)) herbarum) radices hora supradicta colligantur ) omnes herbe') uno vel duobus diebus ut dictum est superius. fortiter ) contusis) ponantur in olei per .vii. dies. octavo autem die super ignem ponantur •\") et coquantur donec herbe destruantur. postea per saccum fortiter colentur: et iterum super ignem ponantur): et cum bullire inceperint addantur oleum laurinum butirum adeps ursinus et cera. qua liquefacta adde '') petroleum et muscelinum. postea) masticem et olibanum i) tot",
+      "n_words": 148
+    },
+    {
+      "id": "AN_137",
+      "raw_text": "Recipe ontbreekt bij NM in de plnats daarvan: ad omnem dolorem stomachi et ventris, ad uterina mala, distensiones, quartanas, comitiales spinae dolores et renum. In quartana ante invasionem inungantur spina et scapulae. — tot ontbreekt in F, in de plaats daarvan alleen : vaut a fraidor. — zie . — 1. tetanum, zooals in Lj', ontbreekt in Fj. — ontbreekt in Fj. — tot ontbreekt in F,. — zie . — ontbreekt bij NM. — ontbreekt bijNM;in de plaats hiervan heeft hij : sampsychi, iridis. — NN : malvae sylvestris. — NM 5.ii.5.ii. et quartam paitem; L2: j. iiii. et ... ; Fj : 3. iiii. et .S. — Lg en F,: s-iii.; NM: o-i-- 5 tot laureole ontbreekt bij NM. — NM: ..iiii.S.; F,: ..viii. ; tot ontbreekt in F,. — NM: calaminthae g.iii. ; in L.2 yolgt NM: .tï?.ii.S. — Lo en F,: (t'.i. et J.iii. ; NM : (f.S. et quartam partem; van hieraf hetzelfde met andere woorden bij NM. — 1. herbe. — 1. contuse. l) ruimte open in het HS. — 1. colofonie resine; in Lj staat ook colophoniae, resinae. zinziberis ') piperis'",
+      "n_words": 225
+    },
+    {
+      "id": "AN_138",
+      "raw_text": "Recipe radicis evisci libras .ii. ) seminis lini et fenugreci an. libram .i. °) squille libram .8.°)) olei libram .iiii. cere libram .i. terbentine gummi edere galbani an ..ii- colofonie resine aïï libr. .8. nota quod si ista non'')ponantur. scilicet actis et ciclaminis valet ad consolidationem vulnerum : et quidam addunt butirum.') omnes herbe)'-) et radices bene abluantur et terantur similiter lini semen fenugrecum et squilla et cum bene trita fuerint ponantur in .vii. libras aque per tres dies. quarto autem die ponantur super ignem : et bulliant donec inspissari ). deinde paulatim in sacco ponatur et cum exprimere volueris addatur aliquantulum ferventis aque ') ad abstractionem illius succi viscosi ). de succo isto accipiantur libras .ii. et ponantur in quatuor libris olei: et bulliant ad succi consumptionem ) : quod erit cum nihil succi supernataverit '''). postea addatur libram .i. cere: et cum liquefacta fuerit addatur terbentina ') postea gummi edere contusi ''') galbani \"\")') e",
+      "n_words": 313
+    },
+    {
+      "id": "AN_139",
+      "raw_text": "Recipe fenugreci seminis lini caricarum tamarici farine ordei aceti olei et cere albe. omnia ista tribus diebus stent ad mollificandum et postea coquantur usque ad consumptionem aceti: et postea colentur et reserventur: et ex eis fiat g. \"W' \"▼\"Nguentum laxativum ) ) dicitur quia ventrem laxat. cum autem volueris inungere post unctionem abstineat .vi. horis. valet etiam constipatis : et lapidosis nefreticis super pectinem et ventrem inunctum. medietas est librae .iii.",
+      "n_words": 71
+    },
+    {
+      "id": "AN_140",
+      "raw_text": "Recipe succi cucurbite agrestis succi interioris ) squille succi ciclaminis succi radicis anabule succi radicis ebuli succi mediani ) corticis sambuci lactis) titimalli camomille an .§.ii. ) violarum succi radicis cucumeris agrestis : et succi pomi eiusdem •\") : et succi ) mercurilialis ) : et succi radicis polipodii succi herbe laureole succi ®) capillorum °) veneris ) catapucie '°) an .§.ii. \") diagridii an .§.i. et .8.) nucis vomice .i. castaneole indice ) .§.i. ') euforbii ..i. ') ''') omnes supradicte herbe et radices in mense maii colligantur. Conficitur sic ') : succos et cataputias ) tritas cum tribus ') libris olei .vi. diebus ®) .vii. vero die tamdiu coque donec succorum quantitas consumetur. tune adde cere albe libram .i. ') cum felle taurino ) : et cum spatula agitando donec cera et fel liquefiant: et postea addatur pulvis terendorum. es ane de« lichame. Nemt ceruse .2.. litargiru;; mastic. ende wierooc. Da« doeter in rosewatr ende tempert over dicke gnouch si in effenen po",
+      "n_words": 283
+    },
+    {
+      "id": "AN_141",
+      "raw_text": "Recipe Ceruse ..ii. '\"') litargiri ..i. \") olibani .3.iii. \") masticis .3.11. ) unaquaeque species per se teratur hoc modo: pulvis ceruse cum pauco oleo distemperetur : et postea addatur litargirum. deinde mastix et olibanum. cum) pistello bene semper agitando paulatim ) aqua rosarum ponatur et cum inceperit inspissari addatur oleum et aqua rosarum: et tamdiu ducatur donec sit bene incorporatum -) et recondatur et non sit spissum multum neque tenue ). 140. \"jr \"Y'Nguentum ') contra serpiginem et impetiginem atque elefantiam.",
+      "n_words": 82
+    },
+    {
+      "id": "AN_142",
+      "raw_text": "Recipe ') aloes litargeri arsenici argenti vivi '■) tartari masticis olibani cimini picule ) assungie veteris, que sunt terenda tere: et tempera cum aceto et oleo et succo lapaceoli et succo fumiterre quod sufficiat: et postea inungatur ad solem vel ad ignem. 143. \" \"TErapigra Galyeni ) '') Yera idest sacra picra idest amara que) facit ad diversas capitis possiones. sive egritudines aurium oculorum distemperantiam. stomacum quoque optime purgat. causas epatis emendat spienis durities et diversitatem ) removet et extenuat. renibus et vesice proficit: et matricis distemperantiam emundat) .x. pars est libra .i.",
+      "n_words": 93
+    },
+    {
+      "id": "AN_143",
+      "raw_text": "Recipe cinnamomi spice croci squinanti asari) xilocassie '\") xilobalsami ) carpobalsami ) viole absinthii \") agarici rosarum turbit coloquintide masticis an .9.ii. ') aloes ad pondus omnium specierum .x.3. et 9.ii. ') mei quod sufficit. dosis eius .5.iii. '\"\"') cum abstinentia mane cum calida \"). Si vero pilulas informes: da .xv. aut .xvii. cum sufficienti diagridio. 141. \"W nFEralogodion \")memphytum. yera idest sacra: logos idest sermo memphytum idest impeditio '). curat enim impeditam locutionem ') ex quacunque causa, simplex vel laxativum datum') purgat melanconiam et flegma\") mirabiliter cum calida.®) datur epilenticis cum calida '') sale et mulsa. ') curat stomaticos) et spumantes caducos verdyagr/dii. coloqwmtide datter in es .3.3. euforbii. nitri. polipodii. tiginosos et qui Hnguam sibi mordent. cephalargicis ') emigrani- cis et qui ita vexantur ex capitis commotionibus ut videantur quasi demonum habere: singulis mensibus ut diximus data purticis subvenit: et menstrua educit. ne",
+      "n_words": 160
+    },
+    {
+      "id": "AN_144",
+      "raw_text": "Recipe coloquintide interioris polipodii an ..ii. ) euforbii polii '\"') coconidii. an .5.1. et .8. et gr.vi. ''') absinthii mirre an ..ï.') et gr.xii ) centauree agarici armoniaci timiamatis ) folii 'j bearum ') casie ') camedrei bdelli prassii an .9.i. et gr.xiiii. ) cinamomi opopanacis castorei aristologie longe piperis albi et nigri et longi croci ) serapini) petrosellini '') an -S-S. \") ellebori albi et nigri an gr.vi. \") mei quod sufficit datur mane sero cum calida in modum castanee. f°l- 42 v. — Era rufini'). ') Yera ut diximus: Rufini ab auctore °- 42 v. dicitur '). datur proprie scabiosis ex flegmate salso elefantiosis serpiginosis °). curat utramque morpheam cum tepida '). destruit antiquam cephalicam et emigraneam et monopagiam dolorem capitis vel stomaticis epilenticis catalenticis et eis qui ex fumo stomaci extenebrescunt ita ut subitaneum timorem viderent : vel ex ventositate stomaci tinitum aurium patiuntur ut in furias vertantur deponitur cacocimia stomaci epatis et spie",
+      "n_words": 182
+    },
+    {
+      "id": "AN_145",
+      "raw_text": "Recipe aloes ..i. ') ellebori albi et nigri an .§.8. ) diagridii colloquintide inte- rioris an .3.iii. ) nitri euforbii polipodii salis armoniacis an .3.1!. et gr.xv.) piperis camedrei) croci agarici masticis epithimi an .3.1. et .8.) casie lignee ) xilobalsami ) opopanacis git°) an .9.ii. et .8. ) mirre gr.xv. ') meilis quod sufficit. datur in sero cum calida in modum castanee. 144 \" T\" Erapigra Constantini ') ) dicta est ab auctore Constan- tino qui eam composuit. valet ad visum recuperandum et retinendum. tota venit libra .i. et .8.",
+      "n_words": 91
+    },
+    {
+      "id": "AN_146",
+      "raw_text": "Recipe mirabolanorum kebuli indi citrini violarum absinthii an .3.iiii. ) bellirici emblici casie fistule ') epithimi agarici sene CLiscute squinanti reubarbari an .3.ii, ') xilocasie spice anisi masticis xiloaloes salis gemme '°) nitri an .3.1. ') mei quod sufficit detur in sero cum vino calido \"'). j.r 'W \"Terapigra '°)-) abbatis de curia flegma et melanconiam purgat : et ad guttam que sit de frigido et sicco humore unde membra videntur contracta valet. paraliticis datur cum tepida vel vino. medietas est libra .i.",
+      "n_words": 83
+    },
+    {
+      "id": "AN_147",
+      "raw_text": "Recipe agarici coloquintide turbit epithimi cuscute an 9.ii.°) et gr.v. squinanti carpobalsami xiloaloes xilocasie croci folii ) lapis lazuli an .3.11. diagridii .3.i. et .8- aloes epatici .3.iiii. et .8.) mei quod sufficit ). Si vero pilulas inde facere volueris tempera cum succo absinthii : et da .viiii. vel .xi. l) 1. cretani. — klein gat in het HS. 146. ■■'1 Era fortissima ') Galieni) facit cephalargicis scotoma- fol- 27 r. ticis epilempticis melanconicis apopleticis paraliticis maniacis alopithiacis ) litargicis et qui in somno meditantur mortem. ad aurium auditus oculorum passionibus fauces et arterias facit, dentium dolorem sedat. vocem claram facit, asmaticos orthopnoicos et longinquos egritudines sanat. pleureticis ydropicis yctericis epaticis et spleneticis prodest. artheticum colicis ciliacis desintericis medetur, nefreticis et sciaticis relevat flegmaticum. quartanarios et emitriteos adiuvat. febres omnes avertit. elefantiosos purgat. venenis obsistit et cancrosis proficit.",
+      "n_words": 142
+    },
+    {
+      "id": "AN_148",
+      "raw_text": "Recipe coloquintide squille agarici armoniaci ellebori nigri silphii ypericon an ..v. ) epithimi ) bdelii camedrei basilicon ') succi casie an .§.iiii. ) smirnis) sagapeni aristologie longe piperis albi et longi cinnami opoponacis castorei an .g.iii. et .8.) petroselini absinthii piperis nigri an ..ü. ) aloes ..i. et .8. °) mei quod sutficit. detur ex ea .3.0. vel ,iii. \") mane cum calida). 14. yinziber conditum sic fit )'-)",
+      "n_words": 69
+    },
+    {
+      "id": "AN_149",
+      "raw_text": "Recipe yringorum ') qui ha- bent folia ad modum' cretani marini : quod saraceni secacul vocant. ') bene radantur cum cultello. postea coquantur in aqua donec dimittant se stringi manibus \"\"). postea abstrahantur ab aqua : et a lignis que sunt interius mundentur: et cum cultello frustatim incidantur ') et in mortario marmoreo bene pistentur ') : et cum manibus ') exprimantur: ut aqua inde exeat. ponderentur libras .iii. et ponantur in libras .X. meilis dispumati et albissimi : et coquantur donec incipiant rubere et addatur libra .8. zinziberis frustatim incisi: et dimitte bullire tam diu) quod adhereat digito') in marmore supposito. ') postea tolle ab igne et impone pulverem istarum specierum.",
+      "n_words": 112
+    },
+    {
+      "id": "AN_150",
+      "raw_text": "Recipe zinziberis ..iii. galange gariofilorum cinamomi nucis muscate cardamomi an ..S. pinearum mundatarum .o-iü.) et pistacearum ..iiii. zedoarie .§.i. et .8.) dactillorum .g.iiii. ■) et cum omnibus istis condiatur). stomacum confortat. digestivam virtutem adiuvat. vitio pectoris ex fngiditate valet. renes confortat. libidinem incitat. ET ) quia sufficienter de dispensatione omnium confec- tionum emplastrorum atque unguentorum diximus nunc videndum est de speciebus et herbis secundum proprium pondus et mensuras quod ad omnium supradictarum tam opiatarum quam laxativarum medicinarum et electuariorum receptionem pertinet). pondera igitur vel mensure que in arte medicinali reperiuntur hec sunt que subtili ingenio ac solerti studio summa ordinavimus diligentia ad opus omnium in arte medicinali studere volentium : per quod ponderari ) supradicte res ab uno .9. usque ad libram .xii. unciarum per grana frumenti coUecta. Incipiendum est igitur a scropulo. Scropulus est pondus .xx. gr. duo scr",
+      "n_words": 287
+    }
+  ]
+}

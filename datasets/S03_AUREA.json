@@ -1,0 +1,744 @@
+{
+  "description": "Aurea Alexandrina - Recipe #1 of Antidotarium Nicolai. PRIMARY CRIB for f103r.",
+  "source": "van den Berg 1917 edition, editio princeps 1471 (L1)",
+  "note": "68 ingredients, largest recipe in AN. Used as crib for VMS folio f103r.",
+  "count": 1,
+  "entries": [
+    {
+      "id": "AUREA_001",
+      "name": "Aurea Alexandrina",
+      "source": {
+        "text": "Antidotarium Nicolai",
+        "edition": "van den Berg 1917, pp.5-7",
+        "file": "BruteForce/Plants/AureaAlexandrina/aurea_alexandrina_crib_L1.txt",
+        "language": "latin"
+      },
+      "type": "electuarium",
+      "category": "compound_recipe",
+      "raw_text": "Recipe asari carpobalsami iusquiami an .z.ii. et .S. gariofilorum opii mirre ciperi an .z.ij. balsami cinamomi folii zedoare zinziberis costi coralli casie lignee euforbii dragaganti turis meu storacis calamite saliunce cardamomi siselei napei saxifragie aneti anisi an .z.i. ligni aloes reubarbari alipte castorei spice galange opoponacis anacardi masticis sulfuris vivi pionie yringi rose thimi acori pulegii aristologie longe gentiane corticis mandragore camedreos fu baccarum lauri amei dauci mac",
+      "tokens": [
+        {
+          "pos": 1,
+          "raw": "Recipe",
+          "type": "VERB",
+          "normalized": "recipe"
+        },
+        {
+          "pos": 2,
+          "raw": "asari",
+          "type": "INGR",
+          "normalized": "asari"
+        },
+        {
+          "pos": 3,
+          "raw": "carpobalsami",
+          "type": "INGR",
+          "normalized": "carpobalsami"
+        },
+        {
+          "pos": 4,
+          "raw": "iusquiami",
+          "type": "INGR",
+          "normalized": "iusquiami"
+        },
+        {
+          "pos": 5,
+          "raw": "an",
+          "type": "DOSE",
+          "normalized": "an"
+        },
+        {
+          "pos": 6,
+          "raw": "ii",
+          "type": "QTY",
+          "normalized": "ii"
+        },
+        {
+          "pos": 7,
+          "raw": "et",
+          "type": "CONJ",
+          "normalized": "et"
+        },
+        {
+          "pos": 8,
+          "raw": "gariofilorum",
+          "type": "INGR",
+          "normalized": "gariofilorum"
+        },
+        {
+          "pos": 9,
+          "raw": "opii",
+          "type": "INGR",
+          "normalized": "opii"
+        },
+        {
+          "pos": 10,
+          "raw": "mirre",
+          "type": "INGR",
+          "normalized": "mirre"
+        },
+        {
+          "pos": 11,
+          "raw": "ciperi",
+          "type": "INGR",
+          "normalized": "ciperi"
+        },
+        {
+          "pos": 12,
+          "raw": "an",
+          "type": "DOSE",
+          "normalized": "an"
+        },
+        {
+          "pos": 13,
+          "raw": "ij",
+          "type": "GRAM",
+          "normalized": "ij"
+        },
+        {
+          "pos": 14,
+          "raw": "balsami",
+          "type": "INGR",
+          "normalized": "balsami"
+        },
+        {
+          "pos": 15,
+          "raw": "cinamomi",
+          "type": "INGR",
+          "normalized": "cinamomi"
+        },
+        {
+          "pos": 16,
+          "raw": "folii",
+          "type": "PART",
+          "normalized": "folii"
+        },
+        {
+          "pos": 17,
+          "raw": "zedoare",
+          "type": "INGR",
+          "normalized": "zedoare"
+        },
+        {
+          "pos": 18,
+          "raw": "zinziberis",
+          "type": "INGR",
+          "normalized": "zinziberis"
+        },
+        {
+          "pos": 19,
+          "raw": "costi",
+          "type": "INGR",
+          "normalized": "costi"
+        },
+        {
+          "pos": 20,
+          "raw": "coralli",
+          "type": "INGR",
+          "normalized": "coralli"
+        },
+        {
+          "pos": 21,
+          "raw": "casie",
+          "type": "INGR",
+          "normalized": "casie"
+        },
+        {
+          "pos": 22,
+          "raw": "lignee",
+          "type": "INGR",
+          "normalized": "lignee"
+        },
+        {
+          "pos": 23,
+          "raw": "euforbii",
+          "type": "INGR",
+          "normalized": "euforbii"
+        },
+        {
+          "pos": 24,
+          "raw": "dragaganti",
+          "type": "INGR",
+          "normalized": "dragaganti"
+        },
+        {
+          "pos": 25,
+          "raw": "turis",
+          "type": "INGR",
+          "normalized": "turis"
+        },
+        {
+          "pos": 26,
+          "raw": "meu",
+          "type": "INGR",
+          "normalized": "meu"
+        },
+        {
+          "pos": 27,
+          "raw": "storacis",
+          "type": "INGR",
+          "normalized": "storacis"
+        },
+        {
+          "pos": 28,
+          "raw": "calamite",
+          "type": "INGR",
+          "normalized": "calamite"
+        },
+        {
+          "pos": 29,
+          "raw": "saliunce",
+          "type": "INGR",
+          "normalized": "saliunce"
+        },
+        {
+          "pos": 30,
+          "raw": "cardamomi",
+          "type": "INGR",
+          "normalized": "cardamomi"
+        },
+        {
+          "pos": 31,
+          "raw": "siselei",
+          "type": "INGR",
+          "normalized": "siselei"
+        },
+        {
+          "pos": 32,
+          "raw": "napei",
+          "type": "INGR",
+          "normalized": "napei"
+        },
+        {
+          "pos": 33,
+          "raw": "saxifragie",
+          "type": "INGR",
+          "normalized": "saxifragie"
+        },
+        {
+          "pos": 34,
+          "raw": "aneti",
+          "type": "INGR",
+          "normalized": "aneti"
+        },
+        {
+          "pos": 35,
+          "raw": "anisi",
+          "type": "INGR",
+          "normalized": "anisi"
+        },
+        {
+          "pos": 36,
+          "raw": "an",
+          "type": "DOSE",
+          "normalized": "an"
+        },
+        {
+          "pos": 37,
+          "raw": "ligni",
+          "type": "PART",
+          "normalized": "ligni"
+        },
+        {
+          "pos": 38,
+          "raw": "aloes",
+          "type": "INGR",
+          "normalized": "aloes"
+        },
+        {
+          "pos": 39,
+          "raw": "reubarbari",
+          "type": "INGR",
+          "normalized": "reubarbari"
+        },
+        {
+          "pos": 40,
+          "raw": "alipte",
+          "type": "INGR",
+          "normalized": "alipte"
+        },
+        {
+          "pos": 41,
+          "raw": "castorei",
+          "type": "INGR",
+          "normalized": "castorei"
+        },
+        {
+          "pos": 42,
+          "raw": "spice",
+          "type": "INGR",
+          "normalized": "spice"
+        },
+        {
+          "pos": 43,
+          "raw": "galange",
+          "type": "INGR",
+          "normalized": "galange"
+        },
+        {
+          "pos": 44,
+          "raw": "opoponacis",
+          "type": "INGR",
+          "normalized": "opoponacis"
+        },
+        {
+          "pos": 45,
+          "raw": "anacardi",
+          "type": "INGR",
+          "normalized": "anacardi"
+        },
+        {
+          "pos": 46,
+          "raw": "masticis",
+          "type": "INGR",
+          "normalized": "masticis"
+        },
+        {
+          "pos": 47,
+          "raw": "sulfuris",
+          "type": "INGR",
+          "normalized": "sulfuris"
+        },
+        {
+          "pos": 48,
+          "raw": "vivi",
+          "type": "QTY",
+          "normalized": "vivi"
+        },
+        {
+          "pos": 49,
+          "raw": "pionie",
+          "type": "INGR",
+          "normalized": "pionie"
+        },
+        {
+          "pos": 50,
+          "raw": "yringi",
+          "type": "INGR",
+          "normalized": "yringi"
+        },
+        {
+          "pos": 51,
+          "raw": "rose",
+          "type": "INGR",
+          "normalized": "rose"
+        },
+        {
+          "pos": 52,
+          "raw": "thimi",
+          "type": "INGR",
+          "normalized": "thimi"
+        },
+        {
+          "pos": 53,
+          "raw": "acori",
+          "type": "INGR",
+          "normalized": "acori"
+        },
+        {
+          "pos": 54,
+          "raw": "pulegii",
+          "type": "INGR",
+          "normalized": "pulegii"
+        },
+        {
+          "pos": 55,
+          "raw": "aristologie",
+          "type": "INGR",
+          "normalized": "aristologie"
+        },
+        {
+          "pos": 56,
+          "raw": "longe",
+          "type": "INGR",
+          "normalized": "longe"
+        },
+        {
+          "pos": 57,
+          "raw": "gentiane",
+          "type": "INGR",
+          "normalized": "gentiane"
+        },
+        {
+          "pos": 58,
+          "raw": "corticis",
+          "type": "PART",
+          "normalized": "corticis"
+        },
+        {
+          "pos": 59,
+          "raw": "mandragore",
+          "type": "INGR",
+          "normalized": "mandragore"
+        },
+        {
+          "pos": 60,
+          "raw": "camedreos",
+          "type": "INGR",
+          "normalized": "camedreos"
+        },
+        {
+          "pos": 61,
+          "raw": "fu",
+          "type": "GRAM",
+          "normalized": "fu"
+        },
+        {
+          "pos": 62,
+          "raw": "baccarum",
+          "type": "INGR",
+          "normalized": "baccarum"
+        },
+        {
+          "pos": 63,
+          "raw": "lauri",
+          "type": "INGR",
+          "normalized": "lauri"
+        },
+        {
+          "pos": 64,
+          "raw": "amei",
+          "type": "INGR",
+          "normalized": "amei"
+        },
+        {
+          "pos": 65,
+          "raw": "dauci",
+          "type": "INGR",
+          "normalized": "dauci"
+        },
+        {
+          "pos": 66,
+          "raw": "macro",
+          "type": "INGR",
+          "normalized": "macro"
+        },
+        {
+          "pos": 67,
+          "raw": "piperis",
+          "type": "INGR",
+          "normalized": "piperis"
+        },
+        {
+          "pos": 68,
+          "raw": "leucopiperis",
+          "type": "INGR",
+          "normalized": "leucopiperis"
+        },
+        {
+          "pos": 69,
+          "raw": "xilobalsami",
+          "type": "INGR",
+          "normalized": "xilobalsami"
+        },
+        {
+          "pos": 70,
+          "raw": "petrosellini",
+          "type": "INGR",
+          "normalized": "petrosellini"
+        },
+        {
+          "pos": 71,
+          "raw": "seminis",
+          "type": "PART",
+          "normalized": "seminis"
+        },
+        {
+          "pos": 72,
+          "raw": "levistici",
+          "type": "INGR",
+          "normalized": "levistici"
+        },
+        {
+          "pos": 73,
+          "raw": "rute",
+          "type": "INGR",
+          "normalized": "rute"
+        },
+        {
+          "pos": 74,
+          "raw": "seminis",
+          "type": "PART",
+          "normalized": "seminis"
+        },
+        {
+          "pos": 75,
+          "raw": "sinoni",
+          "type": "INGR",
+          "normalized": "sinoni"
+        },
+        {
+          "pos": 76,
+          "raw": "an",
+          "type": "DOSE",
+          "normalized": "an"
+        },
+        {
+          "pos": 77,
+          "raw": "et",
+          "type": "CONJ",
+          "normalized": "et"
+        },
+        {
+          "pos": 78,
+          "raw": "auri",
+          "type": "INGR",
+          "normalized": "auri"
+        },
+        {
+          "pos": 79,
+          "raw": "purificati",
+          "type": "INGR",
+          "normalized": "purificati"
+        },
+        {
+          "pos": 80,
+          "raw": "argenti",
+          "type": "INGR",
+          "normalized": "argenti"
+        },
+        {
+          "pos": 81,
+          "raw": "meri",
+          "type": "INGR",
+          "normalized": "meri"
+        },
+        {
+          "pos": 82,
+          "raw": "albarum",
+          "type": "INGR",
+          "normalized": "albarum"
+        },
+        {
+          "pos": 83,
+          "raw": "margaritarum",
+          "type": "INGR",
+          "normalized": "margaritarum"
+        },
+        {
+          "pos": 84,
+          "raw": "blacte",
+          "type": "INGR",
+          "normalized": "blacte"
+        },
+        {
+          "pos": 85,
+          "raw": "bizantie",
+          "type": "INGR",
+          "normalized": "bizantie"
+        },
+        {
+          "pos": 86,
+          "raw": "ossis",
+          "type": "INGR",
+          "normalized": "ossis"
+        },
+        {
+          "pos": 87,
+          "raw": "de",
+          "type": "PREP",
+          "normalized": "de"
+        },
+        {
+          "pos": 88,
+          "raw": "corde",
+          "type": "INGR",
+          "normalized": "corde"
+        },
+        {
+          "pos": 89,
+          "raw": "cervi",
+          "type": "INGR",
+          "normalized": "cervi"
+        },
+        {
+          "pos": 90,
+          "raw": "an",
+          "type": "DOSE",
+          "normalized": "an"
+        },
+        {
+          "pos": 91,
+          "raw": "et",
+          "type": "CONJ",
+          "normalized": "et"
+        },
+        {
+          "pos": 92,
+          "raw": "grana",
+          "type": "UNIT",
+          "normalized": "grana"
+        },
+        {
+          "pos": 93,
+          "raw": ".xiiii.",
+          "type": "QTY",
+          "normalized": "xiiii"
+        },
+        {
+          "pos": 94,
+          "raw": "eboris",
+          "type": "INGR",
+          "normalized": "eboris"
+        },
+        {
+          "pos": 95,
+          "raw": "limature",
+          "type": "INGR",
+          "normalized": "limature"
+        },
+        {
+          "pos": 96,
+          "raw": "calami",
+          "type": "INGR",
+          "normalized": "calami"
+        },
+        {
+          "pos": 97,
+          "raw": "aromatici",
+          "type": "INGR",
+          "normalized": "aromatici"
+        },
+        {
+          "pos": 98,
+          "raw": "piretri",
+          "type": "INGR",
+          "normalized": "piretri"
+        },
+        {
+          "pos": 99,
+          "raw": "an",
+          "type": "DOSE",
+          "normalized": "an"
+        },
+        {
+          "pos": 100,
+          "raw": "grana",
+          "type": "UNIT",
+          "normalized": "grana"
+        },
+        {
+          "pos": 101,
+          "raw": ".viiii.",
+          "type": "QTY",
+          "normalized": "viiii"
+        },
+        {
+          "pos": 102,
+          "raw": "mellis",
+          "type": "INGR",
+          "normalized": "mellis"
+        },
+        {
+          "pos": 103,
+          "raw": "quod",
+          "type": "GRAM",
+          "normalized": "quod"
+        },
+        {
+          "pos": 104,
+          "raw": "sufficit",
+          "type": "DOSE",
+          "normalized": "sufficit"
+        },
+        {
+          "pos": 105,
+          "raw": "ADMINISTRATION",
+          "type": "INGR",
+          "normalized": "administration"
+        }
+      ],
+      "summary": {
+        "n_tokens": 105,
+        "n_verbs": 1,
+        "n_ingredients": 79,
+        "n_dosages": 13,
+        "verbs": [
+          "recipe"
+        ],
+        "ingredients": [
+          "acori",
+          "administration",
+          "albarum",
+          "alipte",
+          "aloes",
+          "amei",
+          "anacardi",
+          "aneti",
+          "anisi",
+          "argenti",
+          "aristologie",
+          "aromatici",
+          "asari",
+          "auri",
+          "baccarum",
+          "balsami",
+          "bizantie",
+          "blacte",
+          "calami",
+          "calamite",
+          "camedreos",
+          "cardamomi",
+          "carpobalsami",
+          "casie",
+          "castorei",
+          "cervi",
+          "cinamomi",
+          "ciperi",
+          "coralli",
+          "corde",
+          "costi",
+          "dauci",
+          "dragaganti",
+          "eboris",
+          "euforbii",
+          "galange",
+          "gariofilorum",
+          "gentiane",
+          "iusquiami",
+          "lauri",
+          "leucopiperis",
+          "levistici",
+          "lignee",
+          "limature",
+          "longe",
+          "macro",
+          "mandragore",
+          "margaritarum",
+          "masticis",
+          "mellis",
+          "meri",
+          "meu",
+          "mirre",
+          "napei",
+          "opii",
+          "opoponacis",
+          "ossis",
+          "petrosellini",
+          "pionie",
+          "piperis",
+          "piretri",
+          "pulegii",
+          "purificati",
+          "reubarbari",
+          "rose",
+          "rute",
+          "saliunce",
+          "saxifragie",
+          "sinoni",
+          "siselei",
+          "spice",
+          "storacis",
+          "sulfuris",
+          "thimi",
+          "turis",
+          "xilobalsami",
+          "yringi",
+          "zedoare",
+          "zinziberis"
+        ],
+        "ratio_verb_ingr": "1:79.0"
+      }
+    }
+  ]
+}
