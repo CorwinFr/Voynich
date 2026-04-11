@@ -665,10 +665,12 @@
   "eva": "cho",
   "freq": 87,
   "latin": "ia",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pipeline_short",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "caepa",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "ALLIUM Porriolo",
+  "ch_variant": "cao"
  },
  "dam": {
   "eva": "dam",
@@ -4005,9 +4007,11 @@
   "freq": 12,
   "latin": "piera",
   "type": "INGR",
-  "ingredient": "piera",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "cerasa dulcia",
+  "source": "gallows_strip_ch_c",
+  "confidence": "SUR",
+  "latin_botanical": "PRUNUS Ciliegia visciolina. Visciolo",
+  "ch_variant": "cor"
  },
  "qoteol": {
   "eva": "qoteol",
@@ -4449,9 +4453,11 @@
   "freq": 11,
   "latin": "periodura",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "coda 1 cavallina",
+  "source": "gallows_strip_ch_c",
+  "confidence": "SUR",
+  "latin_botanical": "EQUISETUM arvense",
+  "ch_variant": "cedar"
  },
  "checkhey": {
   "eva": "checkhey",
@@ -6260,9 +6266,11 @@
   "freq": 7,
   "latin": "perio",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "cuor mio",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "AMYGDALI Cotogna napoletana",
+  "ch_variant": "caey"
  },
  "opy": {
   "eva": "opy",
@@ -7947,10 +7955,12 @@
   "eva": "kchody",
   "freq": 5,
   "latin": "cum cum ?h ac de in",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pattern_suffix",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "cedornella",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "MELISSA officinalis",
+  "ch_variant": "cody"
  },
  "cholor": {
   "eva": "cholor",
@@ -7975,9 +7985,11 @@
   "freq": 5,
   "latin": "periura",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "curcuma",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "CURCUMA longa . L. Curcuma rorunda . L",
+  "ch_variant": "car"
  },
  "qokchod": {
   "eva": "qokchod",
@@ -10388,9 +10400,11 @@
   "freq": 4,
   "latin": "perioedura",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "coeruleo",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "IPOMAEA Rampichino . Rampichino turchino",
+  "ch_variant": "ceodar"
  },
  "qool": {
   "eva": "qool",
@@ -11639,9 +11653,11 @@
   "freq": 3,
   "latin": "perieili",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "cainpestris latifolia",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "ULMLJS Olmo piramidale",
+  "ch_variant": "cocthy"
  },
  "kom": {
   "eva": "kom",
@@ -14985,7 +15001,7 @@
   "freq": 2,
   "latin": "caura",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maxim» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÂ» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "CITRUS Arancio, femmina"
@@ -15295,7 +15311,7 @@
   "freq": 2,
   "latin": "pareura",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maxim» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÂ» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "CITRUS Arancio, femmina"
@@ -15358,13 +15374,15 @@
   "eva": "fchodaiin",
   "freq": 2,
   "latin": "periede ana II dr.",
-  "type": "DOSE_COMPOUND",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
+  "type": "INGR",
+  "ingredient": "cedornella",
+  "source": "gallows_strip_ch_c",
   "confidence": "PROBABLE",
   "has_dosage_suffix": true,
   "dosage": "ana II dr.",
-  "prefix": "fchod"
+  "prefix": "fchod",
+  "latin_botanical": "MELISSA officinalis",
+  "ch_variant": "codaiin"
  },
  "qoos": {
   "eva": "qoos",
@@ -15641,18 +15659,22 @@
   "freq": 2,
   "latin": "periedece",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "cedornella",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "MELISSA officinalis",
+  "ch_variant": "codol"
  },
  "chair": {
   "eva": "chair",
   "freq": 2,
   "latin": "iuir",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "type": "INGR",
+  "ingredient": "cainpestris latifolia",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "ULMLJS Olmo piramidale",
+  "ch_variant": "cair"
  },
  "qotoiin": {
   "eva": "qotoiin",
@@ -15771,9 +15793,11 @@
   "freq": 2,
   "latin": "perie",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "caepa",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "ALLIUM Porriolo",
+  "ch_variant": "cao"
  },
  "soshy": {
   "eva": "soshy",
@@ -16305,9 +16329,11 @@
   "freq": 2,
   "latin": "periesd et",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "cesino , o segeno",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "FICI Srgeno o Perticone",
+  "ch_variant": "coldy"
  },
  "ololdy": {
   "eva": "ololdy",
@@ -16414,9 +16440,11 @@
   "freq": 2,
   "latin": "eliadura",
   "type": "INGR",
-  "ingredient": "eliantemo",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "cedornella",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "MELISSA officinalis",
+  "ch_variant": "codar"
  },
  "oam": {
   "eva": "oam",
@@ -16576,9 +16604,11 @@
   "freq": 2,
   "latin": "periedura",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "cedornella",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "MELISSA officinalis",
+  "ch_variant": "codar"
  },
  "dly": {
   "eva": "dly",
@@ -16795,13 +16825,15 @@
   "eva": "kcheodaiin",
   "freq": 2,
   "latin": "(kcheod) ana II dr.",
-  "type": "DOSE_COMPOUND",
-  "ingredient": null,
-  "source": "ka_decode",
+  "type": "INGR",
+  "ingredient": "coeruleo",
+  "source": "gallows_strip_ch_c",
   "confidence": "PROBABLE",
   "has_dosage_suffix": true,
   "dosage": "ana II dr.",
-  "prefix": "kcheod"
+  "prefix": "kcheod",
+  "latin_botanical": "IPOMAEA Rampichino . Rampichino turchino",
+  "ch_variant": "ceodaiin"
  },
  "odan": {
   "eva": "odan",
@@ -17261,13 +17293,15 @@
   "eva": "pchedain",
   "freq": 2,
   "latin": "periode ana I dr.",
-  "type": "DOSE_COMPOUND",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "PROBABLE",
+  "type": "INGR",
+  "ingredient": "coda 1 cavallina",
+  "source": "gallows_strip_ch_c",
+  "confidence": "SUR",
   "has_dosage_suffix": true,
   "dosage": "ana I dr.",
-  "prefix": "pched"
+  "prefix": "pched",
+  "latin_botanical": "EQUISETUM arvense",
+  "ch_variant": "cedain"
  },
  "todar": {
   "eva": "todar",
@@ -23059,9 +23093,11 @@
   "freq": 1,
   "latin": "peruinus",
   "type": "INGR",
-  "ingredient": "peruvianus",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "acuminato si levi tutto il paragrafa",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "AMARELLA Cr. v",
+  "ch_variant": "acays"
  },
  "otores": {
   "eva": "otores",
@@ -23385,10 +23421,12 @@
   "eva": "kchsy",
   "freq": 1,
   "latin": "cius",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "type": "INGR",
+  "ingredient": "cuscuta",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "CUSCUTA europaea",
+  "ch_variant": "csy"
  },
  "chydaiin": {
   "eva": "chydaiin",
@@ -23927,7 +23965,7 @@
   "freq": 1,
   "latin": "ca ana II dr.",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maxim» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÂ» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "has_dosage_suffix": true,
@@ -24112,9 +24150,11 @@
   "freq": 1,
   "latin": "perieura",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "caepa",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "ALLIUM Porriolo",
+  "ch_variant": "cooiin"
  },
  "dolds": {
   "eva": "dolds",
@@ -24448,7 +24488,7 @@
   "freq": 1,
   "latin": "care",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maxim» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÂ» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "CITRUS Arancio, femmina"
@@ -25339,9 +25379,11 @@
   "freq": 1,
   "latin": "pareiere",
   "type": "INGR",
-  "ingredient": "pareira",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "acero",
+  "source": "gallows_strip_ch_c",
+  "confidence": "SUR",
+  "latin_botanical": "ACER campestre",
+  "ch_variant": "ocor"
  },
  "oporody": {
   "eva": "oporody",
@@ -26112,7 +26154,7 @@
   "freq": 1,
   "latin": "ilice",
   "type": "INGR",
-  "ingredient": "iliciÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â», lignum interius",
+  "ingredient": "iliciÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â», lignum interius",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
@@ -26185,9 +26227,11 @@
   "freq": 1,
   "latin": "pereioede et",
   "type": "INGR",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "aconito",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "ACONITUM Luparia . Strozza Lupo",
+  "ch_variant": "oceody"
  },
  "sykaiin": {
   "eva": "sykaiin",
@@ -26308,9 +26352,11 @@
   "freq": 1,
   "latin": "perireura",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "cerasa dulcia",
+  "source": "gallows_strip_ch_c",
+  "confidence": "SUR",
+  "latin_botanical": "PRUNUS Ciliegia visciolina. Visciolo",
+  "ch_variant": "coroiin"
  },
  "chpchol": {
   "eva": "chpchol",
@@ -27006,13 +27052,15 @@
   "eva": "pochaiin",
   "freq": 1,
   "latin": "(poch) ana II dr.",
-  "type": "DOSE_COMPOUND",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
+  "type": "INGR",
+  "ingredient": "acuminato si levi tutto il paragrafa",
+  "source": "gallows_strip_ch_c",
   "confidence": "PROBABLE",
   "has_dosage_suffix": true,
   "dosage": "ana II dr.",
-  "prefix": "poch"
+  "prefix": "poch",
+  "latin_botanical": "AMARELLA Cr. v",
+  "ch_variant": "ocaiin"
  },
  "chpcheos": {
   "eva": "chpcheos",
@@ -27108,10 +27156,12 @@
   "eva": "kdchody",
   "freq": 1,
   "latin": "cum de cum ?h ac de in",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pattern_suffix",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "decumana",
+  "source": "gallows_strip_ch_c",
+  "confidence": "SUR",
+  "latin_botanical": "CITRUS Arancio fiammato",
+  "ch_variant": "dcaody"
  },
  "otalchey": {
   "eva": "otalchey",
@@ -28849,9 +28899,11 @@
   "freq": 1,
   "latin": "pereiepar",
   "type": "INGR",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "acero",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "ACER campestre",
+  "ch_variant": "ocof"
  },
  "opchory": {
   "eva": "opchory",
@@ -28912,7 +28964,7 @@
   "freq": 1,
   "latin": "cire",
   "type": "INGR",
-  "ingredient": "ciregiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â²lo",
+  "ingredient": "ciregiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â²lo",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
@@ -29766,13 +29818,15 @@
   "eva": "fchaiin",
   "freq": 1,
   "latin": "(fch) ana II dr.",
-  "type": "DOSE_COMPOUND",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
+  "type": "INGR",
+  "ingredient": "curcuma",
+  "source": "gallows_strip_ch_c",
   "confidence": "PROBABLE",
   "has_dosage_suffix": true,
   "dosage": "ana II dr.",
-  "prefix": "fch"
+  "prefix": "fch",
+  "latin_botanical": "CURCUMA longa . L. Curcuma rorunda . L",
+  "ch_variant": "caiin"
  },
  "shykeody": {
   "eva": "shykeody",
@@ -30091,9 +30145,11 @@
   "freq": 1,
   "latin": "perioeoperi",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "cepea",
+  "source": "gallows_strip_ch_c",
+  "confidence": "SUR",
+  "latin_botanical": "",
+  "ch_variant": "ceoepcy"
  },
  "yfody": {
   "eva": "yfody",
@@ -30564,9 +30620,11 @@
   "freq": 1,
   "latin": "periudun",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "cadmia",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "",
+  "ch_variant": "cadan"
  },
  "chcfhal": {
   "eva": "chcfhal",
@@ -30747,7 +30805,7 @@
   "freq": 1,
   "latin": "lepiece",
   "type": "INGR",
-  "ingredient": "epi- ■ medio",
+  "ingredient": "epi- â–  medio",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "EPIMEDIUM alpinum"
@@ -32326,7 +32384,7 @@
   "ingredient": "desf",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
-  "latin_botanical": "CITRUS Pomo assirio. Pomo d’Adamo"
+  "latin_botanical": "CITRUS Pomo assirio. Pomo dâ€™Adamo"
  },
  "dalteoshy": {
   "eva": "dalteoshy",
@@ -32835,7 +32893,7 @@
   "ingredient": "inanis",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
-  "latin_botanical": "BOLETUS Lingua di Faggio, di Cerro , d’Abeto da far esca. Pan cuculio"
+  "latin_botanical": "BOLETUS Lingua di Faggio, di Cerro , dâ€™Abeto da far esca. Pan cuculio"
  },
  "opchaldy": {
   "eva": "opchaldy",
@@ -33044,9 +33102,11 @@
   "freq": 1,
   "latin": "perioepi",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "caepa",
+  "source": "gallows_strip_ch_c",
+  "confidence": "SUR",
+  "latin_botanical": "ALLIUM Porriolo",
+  "ch_variant": "caeocphy"
  },
  "chepchx": {
   "eva": "chepchx",
@@ -33674,9 +33734,11 @@
   "freq": 1,
   "latin": "perioedei",
   "type": "INGR",
-  "ingredient": "perico",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "coeruleo",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "IPOMAEA Rampichino . Rampichino turchino",
+  "ch_variant": "ceodcy"
  },
  "chedyty": {
   "eva": "chedyty",
@@ -33782,9 +33844,11 @@
   "freq": 1,
   "latin": "perniece",
   "type": "INGR",
-  "ingredient": "pernicona lunga",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "incenso",
+  "source": "gallows_strip_ch_c",
+  "confidence": "SUR",
+  "latin_botanical": "BOSWELLIA sacra",
+  "ch_variant": "ycol"
  },
  "shorpchor": {
   "eva": "shorpchor",
@@ -35442,10 +35506,12 @@
   "eva": "kcheedchdy",
   "freq": 1,
   "latin": "cum cum ?h ?e ?e de cum ?h de in",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pattern_suffix",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "coda 1 cavallina",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "EQUISETUM arvense",
+  "ch_variant": "ceedcdy"
  },
  "oedain": {
   "eva": "oedain",
@@ -35574,10 +35640,12 @@
   "eva": "ochal",
   "freq": 1,
   "latin": "eius",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "type": "INGR",
+  "ingredient": "acacia inerme",
+  "source": "gallows_strip_ch_c",
+  "confidence": "SUR",
+  "latin_botanical": "GLEDITSHIA inermi»",
+  "ch_variant": "ocal"
  },
  "chchsy": {
   "eva": "chchsy",
@@ -35691,10 +35759,12 @@
   "eva": "kcheot",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "coeruleo",
+  "source": "gallows_strip_ch_c",
+  "confidence": "PROBABLE",
+  "latin_botanical": "IPOMAEA Rampichino . Rampichino turchino",
+  "ch_variant": "ceot"
  },
  "shodshey": {
   "eva": "shodshey",
@@ -56899,7 +56969,7 @@
   "freq": 1,
   "latin": "saparum",
   "type": "INGR",
-  "ingredient": "sapaja rossa nera dÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ aitimi no",
+  "ingredient": "sapaja rossa nera dÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ aitimi no",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
