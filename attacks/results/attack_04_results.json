@@ -1,0 +1,210 @@
+{
+  "logograms_test": {
+    "n_anchors": 16,
+    "r_letters": 0.1697,
+    "r_syllables": -0.1155,
+    "avg_ratio_letters_per_glyph": 3.06,
+    "avg_ratio_syllables_per_glyph": 1.22,
+    "details": [
+      {
+        "eva": "o",
+        "latin": "ac",
+        "eva_glyphs": 1,
+        "latin_letters": 2,
+        "latin_syllables": 1,
+        "ratio_letters": 2.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "l",
+        "latin": "se",
+        "eva_glyphs": 1,
+        "latin_letters": 2,
+        "latin_syllables": 1,
+        "ratio_letters": 2.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "d",
+        "latin": "de",
+        "eva_glyphs": 1,
+        "latin_letters": 2,
+        "latin_syllables": 1,
+        "ratio_letters": 2.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "r",
+        "latin": "recipe",
+        "eva_glyphs": 1,
+        "latin_letters": 6,
+        "latin_syllables": 3,
+        "ratio_letters": 6.0,
+        "ratio_syllables": 3.0
+      },
+      {
+        "eva": "v",
+        "latin": "vel",
+        "eva_glyphs": 1,
+        "latin_letters": 3,
+        "latin_syllables": 1,
+        "ratio_letters": 3.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "x",
+        "latin": "crux",
+        "eva_glyphs": 1,
+        "latin_letters": 4,
+        "latin_syllables": 1,
+        "ratio_letters": 4.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "k",
+        "latin": "cum",
+        "eva_glyphs": 1,
+        "latin_letters": 3,
+        "latin_syllables": 1,
+        "ratio_letters": 3.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "m",
+        "latin": "misce",
+        "eva_glyphs": 1,
+        "latin_letters": 5,
+        "latin_syllables": 2,
+        "ratio_letters": 5.0,
+        "ratio_syllables": 2.0
+      },
+      {
+        "eva": "f",
+        "latin": "per",
+        "eva_glyphs": 1,
+        "latin_letters": 3,
+        "latin_syllables": 1,
+        "ratio_letters": 3.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "t",
+        "latin": "el",
+        "eva_glyphs": 1,
+        "latin_letters": 2,
+        "latin_syllables": 1,
+        "ratio_letters": 2.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "y",
+        "latin": "in",
+        "eva_glyphs": 1,
+        "latin_letters": 2,
+        "latin_syllables": 1,
+        "ratio_letters": 2.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "c",
+        "latin": "cum",
+        "eva_glyphs": 1,
+        "latin_letters": 3,
+        "latin_syllables": 1,
+        "ratio_letters": 3.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "s",
+        "latin": "est",
+        "eva_glyphs": 1,
+        "latin_letters": 3,
+        "latin_syllables": 1,
+        "ratio_letters": 3.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "sh",
+        "latin": "ci",
+        "eva_glyphs": 1,
+        "latin_letters": 2,
+        "latin_syllables": 1,
+        "ratio_letters": 2.0,
+        "ratio_syllables": 1.0
+      },
+      {
+        "eva": "p",
+        "latin": "usque",
+        "eva_glyphs": 1,
+        "latin_letters": 5,
+        "latin_syllables": 2,
+        "ratio_letters": 5.0,
+        "ratio_syllables": 2.0
+      },
+      {
+        "eva": "air",
+        "latin": "aier",
+        "eva_glyphs": 2,
+        "latin_letters": 4,
+        "latin_syllables": 1,
+        "ratio_letters": 2.0,
+        "ratio_syllables": 0.5
+      }
+    ],
+    "verdict": "NOMENCLATOR"
+  },
+  "eva_length_distribution": {
+    "6": 1998,
+    "7": 1090,
+    "5": 2093,
+    "4": 1389,
+    "3": 536,
+    "9": 111,
+    "11": 11,
+    "2": 169,
+    "8": 393,
+    "10": 20,
+    "1": 29,
+    "12": 1
+  },
+  "latin_letter_distribution": {
+    "6": 63,
+    "10": 40,
+    "8": 56,
+    "14": 7,
+    "12": 15,
+    "5": 45,
+    "9": 44,
+    "16": 4,
+    "13": 9,
+    "22": 1,
+    "7": 51,
+    "11": 21,
+    "19": 1,
+    "18": 5,
+    "27": 1,
+    "17": 4,
+    "15": 6,
+    "4": 23,
+    "3": 10,
+    "24": 1,
+    "23": 1,
+    "21": 1
+  },
+  "latin_syllable_distribution": {
+    "3": 147,
+    "4": 88,
+    "2": 114,
+    "6": 14,
+    "7": 1,
+    "5": 26,
+    "8": 6,
+    "9": 1,
+    "1": 12
+  },
+  "peaks": {
+    "eva_glyphs": 5,
+    "latin_letters": 6,
+    "latin_syllables": 3
+  }
+}
