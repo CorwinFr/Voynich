@@ -1,0 +1,11 @@
+{
+  "verif1_an_ratio_varies": true,
+  "verif2_jaccard": 0.36363636363636365,
+  "verif3_dual_roots": 141,
+  "verif4_same_folio_both": 141,
+  "verif5_ol_then_aiin": {
+    "ol_first": 43,
+    "dose_first": 49,
+    "total": 92
+  }
+}
