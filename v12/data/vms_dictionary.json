@@ -3390,11 +3390,12 @@
  "okees": {
   "eva": "okees",
   "freq": 15,
-  "latin": "quos",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "latin": "gius",
+  "type": "INGR",
+  "ingredient": "hyoscyamus",
+  "source": "missing_hunt_confusion_ee>ch",
+  "confidence": "SUR",
+  "matched_name": "giusquiamo"
  },
  "teedy": {
   "eva": "teedy",
@@ -4570,11 +4571,12 @@
  "alam": {
   "eva": "alam",
   "freq": 11,
-  "latin": "usum",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "latin": "inceum",
+  "type": "INGR",
+  "ingredient": "olibanum",
+  "source": "missing_hunt_confusion_a>y",
+  "confidence": "SUR",
+  "matched_name": "incenso"
  },
  "oteeo": {
   "eva": "oteeo",
@@ -15001,7 +15003,7 @@
   "freq": 2,
   "latin": "caura",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maximÂ» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÃ‚Â» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "CITRUS Arancio, femmina"
@@ -15311,7 +15313,7 @@
   "freq": 2,
   "latin": "pareura",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maximÂ» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÃ‚Â» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "CITRUS Arancio, femmina"
@@ -23965,7 +23967,7 @@
   "freq": 1,
   "latin": "ca ana II dr.",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maximÂ» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÃ‚Â» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "has_dosage_suffix": true,
@@ -24488,7 +24490,7 @@
   "freq": 1,
   "latin": "care",
   "type": "INGR",
-  "ingredient": "auranthiai, fructu maximÂ» foliis acutiotibus",
+  "ingredient": "auranthiai, fructu maximÃ‚Â» foliis acutiotibus",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "CITRUS Arancio, femmina"
@@ -26154,7 +26156,7 @@
   "freq": 1,
   "latin": "ilice",
   "type": "INGR",
-  "ingredient": "iliciÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â», lignum interius",
+  "ingredient": "iliciÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â», lignum interius",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
@@ -28964,7 +28966,7 @@
   "freq": 1,
   "latin": "cire",
   "type": "INGR",
-  "ingredient": "ciregiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â²lo",
+  "ingredient": "ciregiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â²lo",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
@@ -30805,7 +30807,7 @@
   "freq": 1,
   "latin": "lepiece",
   "type": "INGR",
-  "ingredient": "epi- â–  medio",
+  "ingredient": "epi- Ã¢â€“Â  medio",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
   "latin_botanical": "EPIMEDIUM alpinum"
@@ -32384,7 +32386,7 @@
   "ingredient": "desf",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
-  "latin_botanical": "CITRUS Pomo assirio. Pomo dâ€™Adamo"
+  "latin_botanical": "CITRUS Pomo assirio. Pomo dÃ¢â‚¬â„¢Adamo"
  },
  "dalteoshy": {
   "eva": "dalteoshy",
@@ -32893,7 +32895,7 @@
   "ingredient": "inanis",
   "source": "gallows_strip_nomenclator",
   "confidence": "SUR",
-  "latin_botanical": "BOLETUS Lingua di Faggio, di Cerro , dâ€™Abeto da far esca. Pan cuculio"
+  "latin_botanical": "BOLETUS Lingua di Faggio, di Cerro , dÃ¢â‚¬â„¢Abeto da far esca. Pan cuculio"
  },
  "opchaldy": {
   "eva": "opchaldy",
@@ -35644,7 +35646,7 @@
   "ingredient": "acacia inerme",
   "source": "gallows_strip_ch_c",
   "confidence": "SUR",
-  "latin_botanical": "GLEDITSHIA inermi»",
+  "latin_botanical": "GLEDITSHIA inermiÂ»",
   "ch_variant": "ocal"
  },
  "chchsy": {
@@ -56969,7 +56971,7 @@
   "freq": 1,
   "latin": "saparum",
   "type": "INGR",
-  "ingredient": "sapaja rossa nera dÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ aitimi no",
+  "ingredient": "sapaja rossa nera dÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ aitimi no",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
