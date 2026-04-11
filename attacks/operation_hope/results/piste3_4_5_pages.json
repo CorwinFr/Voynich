@@ -1,0 +1,37 @@
+{
+  "f1r_lines": 32,
+  "f116v_lines": 2,
+  "f57v_lines": 14,
+  "f1r_sample": [
+    "<f1r>      <! $Q=A $P=A $F=a $B=1 $I=T $L=A $H=1 $C=1 $X=V>",
+    "<f1r.1,@P0>       <%>fachys.ykal.ar.ataiin.shol.shory.[cth:oto]res.y.kor.sholdy<!doodle: @254;>",
+    "<f1r.2,+P0>       sory.ckhar.or,y.kair.chtaiin.shar.ase.cthar.cthar,dan",
+    "<f1r.3,+P0>       syaiir.sheky.or.ykaiin.shod.cthoary.cthes.daraiin.sy",
+    "<f1r.4,+P0>       soiin.oteey.oteo[s:r],roloty.cthiar,daiin.okaiin.or.okan",
+    "<f1r.5,+P0>       sair,y.chear.cthaiin.cphar.cfhaiin",
+    "<f1r.6,=Pt>       ydaraishy<$>",
+    "<f1r.7,*P0>       <%><!doodle: @252;>odar.{c'y}.shol.cphoy.oydar.sh.s.cfhoaiin.shodary",
+    "<f1r.8,+P0>       yshey.shody.okchoy.otchol.chocthy.os,chy.dain.chor.kos",
+    "<f1r.9,+P0>       daiin.shos.cfhol.shody"
+  ],
+  "f116v_full": [
+    "<f116v>    <! $Q=T $P=X $F=z $B=1 $I=T      $H=3 $X=V>",
+    "<f116v.1,@Lx>     oror.sheey<!valsch vbren so nim gaf mich o>"
+  ],
+  "f57v_full": [
+    "<f57v>     <! $Q=H $P=B $F=a $B=1 $I=C      $H=1>",
+    "<f57v.1,@L0>      <!10:30>dairal",
+    "<f57v.2,@Cc>      <!10:30>v.sal,y.soeos.vs.ar.okees.o.d.soefchees.l,g.sos.okey.defo.f.o.rkedam.sh.ofol.sar.ddal.yty.s.y.daiir.otey.dshdy.dkal[s:r].oty,pchchy.a.r.opaiin.dal.karody.v,r,okeey.daram.qoka",
+    "<f57v.3,+Cc>      <!10:30>o.l.[d:j].r.v.x.k.m.f.@169;.t.r.@170;.@171;.y.I.@172;.o.l.d.r.v.x.k.m.f.@169;.t.r.@170;.@171;.y.c.@172;.o.l.d.r.v.x.k.m.p.@169;.t.r.@170;.@171;.y.c.@172;.o.l.d.r.v.x.k.m.p.@1",
+    "<f57v.4,+Cc>      <!10:00>daiin.otey.of[che:eee]y.shes.o.d.okeeod.l.o.lkeeol.dkedar.yf.aros.s.y.chedaiin.k.eeety.x.deeodal.vo.tchor.{ch'}.kedar.dal.@172;.daiin.aiin.otal.daro.v",
+    "<f57v.5,+Cc>      <!10:00>o.[v:a].l.r.m.aiin.d.@170;.c.f.[s:r].y.l.k.x.l.r.@171;,ar.o.r.[a:?].t.l.[s:r].d.y.dar.teodar.otodal.sheky.oteeody.x.[s:r].l",
+    "<f57v.6,@L0>      otodara[g:m]",
+    "<f57v.7,@L0>      oparairdly",
+    "<f57v.8,@L0>      olkeedal",
+    "<f57v.9,@L0>      otardaly",
+    "<f57v.10,@Ro>     ark[a:o]ldy",
+    "<f57v.11,@Ro>     ara?arar",
+    "<f57v.12,@Ro>     okeely",
+    "<f57v.13,@Ro>     ocfhor,okear"
+  ]
+}
