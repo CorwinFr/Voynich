@@ -1,0 +1,117 @@
+{
+  "total_dd": 254,
+  "same_root": 13,
+  "diff_root": 241,
+  "pct_same": 5,
+  "ic_combos": {
+    "D1-D1": 61,
+    "D1-D2": 35,
+    "D2-D2": 99,
+    "D2-D1": 55,
+    "D3-D2": 3,
+    "D2-D3": 1
+  },
+  "top_pairs": [
+    {
+      "r1": "ok",
+      "r2": "qok",
+      "count": 7
+    },
+    {
+      "r1": "ok",
+      "r2": "ot",
+      "count": 7
+    },
+    {
+      "r1": "qok",
+      "r2": "ot",
+      "count": 6
+    },
+    {
+      "r1": "ot",
+      "r2": "ot",
+      "count": 5
+    },
+    {
+      "r1": "ok",
+      "r2": "ok",
+      "count": 4
+    },
+    {
+      "r1": "ot",
+      "r2": "alk",
+      "count": 4
+    },
+    {
+      "r1": "r",
+      "r2": "ot",
+      "count": 3
+    },
+    {
+      "r1": "qok",
+      "r2": "ok",
+      "count": 3
+    },
+    {
+      "r1": "t",
+      "r2": "qok",
+      "count": 3
+    },
+    {
+      "r1": "qok",
+      "r2": "qok",
+      "count": 2
+    },
+    {
+      "r1": "ok",
+      "r2": "chok",
+      "count": 2
+    },
+    {
+      "r1": "qot",
+      "r2": "qok",
+      "count": 2
+    },
+    {
+      "r1": "chod",
+      "r2": "ot",
+      "count": 2
+    },
+    {
+      "r1": "qok",
+      "r2": "sh",
+      "count": 2
+    },
+    {
+      "r1": "qok",
+      "r2": "chok",
+      "count": 2
+    },
+    {
+      "r1": "ch",
+      "r2": "qok",
+      "count": 2
+    },
+    {
+      "r1": "sh",
+      "r2": "ok",
+      "count": 2
+    },
+    {
+      "r1": "lk",
+      "r2": "ok",
+      "count": 2
+    },
+    {
+      "r1": "ched",
+      "r2": "d",
+      "count": 2
+    },
+    {
+      "r1": "she",
+      "r2": "ok",
+      "count": 2
+    }
+  ],
+  "conclusion": "94% of consecutive D-D pairs have DIFFERENT roots. -ain/-aiin suffix is NOT exclusive to doses \u2014 it appears on ingredients, prepositions, and grammatical words too."
+}
