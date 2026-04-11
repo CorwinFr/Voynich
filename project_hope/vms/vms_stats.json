@@ -1,0 +1,69 @@
+{
+  "total_folios": 226,
+  "total_lines": 5229,
+  "total_words": 38437,
+  "total_blocks": 784,
+  "total_variants": 18930,
+  "total_uncertain": 88,
+  "total_logograms": 1451,
+  "total_dose_candidates": 4972,
+  "sections": {
+    "herbal_a": 111,
+    "volvelle": 1,
+    "astro": 10,
+    "cosmo": 22,
+    "balnea": 20,
+    "bio": 6,
+    "herbal_b": 32,
+    "pharma": 24
+  },
+  "words_by_section": {
+    "herbal_a": 10243,
+    "volvelle": 179,
+    "astro": 1752,
+    "cosmo": 2587,
+    "balnea": 6954,
+    "bio": 1855,
+    "herbal_b": 3976,
+    "pharma": 10891
+  },
+  "blocks_by_section": {
+    "herbal_a": 221,
+    "volvelle": 1,
+    "astro": 40,
+    "cosmo": 23,
+    "balnea": 96,
+    "bio": 31,
+    "herbal_b": 86,
+    "pharma": 286
+  },
+  "suffix_types": {
+    "AL": 1816,
+    "AIN_DOUBLE": 3357,
+    "OL": 2110,
+    "OR": 1768,
+    "DY": 2304,
+    "AR": 2336,
+    "AIR": 387,
+    "EEY_DOUBLE": 1725,
+    "SHY": 168,
+    "EY_SINGLE": 2111,
+    "AIN_SINGLE": 1544,
+    "EOL": 815,
+    "CHY": 786,
+    "AM": 681,
+    "AIN_TRIPLE": 71,
+    "OM": 147,
+    "EEY_TRIPLE": 178,
+    "EDY_SINGLE": 2920,
+    "EDY_DOUBLE": 1222
+  },
+  "consensus_dist": {
+    "2": 10133,
+    "4": 515,
+    "1": 10787,
+    "3": 5698,
+    "0": 9725,
+    "5": 30
+  }
+}
