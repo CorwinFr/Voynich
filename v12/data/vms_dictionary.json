@@ -839,10 +839,11 @@
   "eva": "sain",
   "freq": 64,
   "latin": "sain",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "type": "INGR",
+  "ingredient": "suage",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Strozza Preti, o Coral- lina"
  },
  "qotar": {
   "eva": "qotar",
@@ -1319,10 +1320,11 @@
   "eva": "tar",
   "freq": 42,
   "latin": "iure",
-  "type": "LOGO",
-  "ingredient": null,
-  "source": "logogram_table",
-  "confidence": "SUR"
+  "type": "INGR",
+  "ingredient": "urens",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "URTICA Ortica della China"
  },
  "oteody": {
   "eva": "oteody",
@@ -2684,10 +2686,11 @@
   "eva": "pol",
   "freq": 19,
   "latin": "pace",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pipeline_short",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "acero",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "ACER campestre"
  },
  "chain": {
   "eva": "chain",
@@ -5081,10 +5084,11 @@
   "eva": "od",
   "freq": 9,
   "latin": "ede",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pipeline_short",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "edera",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "HEDERA helix"
  },
  "ytody": {
   "eva": "ytody",
@@ -5699,10 +5703,11 @@
   "eva": "por",
   "freq": 8,
   "latin": "pare",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pipeline_short",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "araco nero",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PISUM Ochrus"
  },
  "okcho": {
   "eva": "okcho",
@@ -6282,9 +6287,10 @@
   "freq": 7,
   "latin": "perura",
   "type": "INGR",
-  "ingredient": "peruvianus",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "urens",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "URTICA Ortica della China"
  },
  "ksho": {
   "eva": "ksho",
@@ -6983,10 +6989,11 @@
   "eva": "tshol",
   "freq": 6,
   "latin": "eliciens",
-  "type": "LOGO",
-  "ingredient": null,
-  "source": "logogram_table",
-  "confidence": "SUR"
+  "type": "INGR",
+  "ingredient": "ciampolina",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Ciampellina"
  },
  "qokchd": {
   "eva": "qokchd",
@@ -8108,10 +8115,11 @@
   "eva": "tsho",
   "freq": 5,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "ciampolina",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Ciampellina"
  },
  "che": {
   "eva": "che",
@@ -8573,13 +8581,14 @@
   "eva": "podaiin",
   "freq": 5,
   "latin": "(pod) ana II dr.",
-  "type": "DOSE_COMPOUND",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
-  "confidence": "PROBABLE",
+  "type": "INGR",
+  "ingredient": "edera",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
   "has_dosage_suffix": true,
   "dosage": "ana II dr.",
-  "prefix": "pod"
+  "prefix": "pod",
+  "latin_botanical": "HEDERA helix"
  },
  "rcheey": {
   "eva": "rcheey",
@@ -9206,10 +9215,11 @@
   "eva": "pshol",
   "freq": 4,
   "latin": "perciens",
-  "type": "LOGO",
-  "ingredient": null,
-  "source": "logogram_table",
-  "confidence": "SUR"
+  "type": "INGR",
+  "ingredient": "ciampolina",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Ciampellina"
  },
  "dchar": {
   "eva": "dchar",
@@ -9611,10 +9621,11 @@
   "eva": "tshor",
   "freq": 4,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "ciampolina",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Ciampellina"
  },
  "ko": {
   "eva": "ko",
@@ -12389,10 +12400,11 @@
   "eva": "kshody",
   "freq": 3,
   "latin": "cum ci ac de in",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pattern_suffix",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "ciampolina",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Ciampellina"
  },
  "choror": {
   "eva": "choror",
@@ -14972,10 +14984,11 @@
   "eva": "kooiin",
   "freq": 2,
   "latin": "caura",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "type": "INGR",
+  "ingredient": "auranthiai, fructu maxim» foliis acutiotibus",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "CITRUS Arancio, femmina"
  },
  "loeees": {
   "eva": "loeees",
@@ -15282,9 +15295,10 @@
   "freq": 2,
   "latin": "pareura",
   "type": "INGR",
-  "ingredient": "pareira",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "auranthiai, fructu maxim» foliis acutiotibus",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "CITRUS Arancio, femmina"
  },
  "kshor": {
   "eva": "kshor",
@@ -15680,10 +15694,11 @@
   "eva": "torshor",
   "freq": 2,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "arcidiavolo",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "CELTIS australis"
  },
  "shkchy": {
   "eva": "shkchy",
@@ -16343,10 +16358,11 @@
   "eva": "kshol",
   "freq": 2,
   "latin": "cum ci ac se",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pattern_suffix",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "ciampolina",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Ciampellina"
  },
  "olols": {
   "eva": "olols",
@@ -16707,9 +16723,10 @@
   "freq": 2,
   "latin": "pereduire",
   "type": "INGR",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "edera",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "HEDERA helix"
  },
  "oked": {
   "eva": "oked",
@@ -17099,10 +17116,11 @@
   "eva": "tedo",
   "freq": 2,
   "latin": "lode",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "type": "INGR",
+  "ingredient": "edera",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "HEDERA helix"
  },
  "ofy": {
   "eva": "ofy",
@@ -17700,9 +17718,10 @@
   "freq": 2,
   "latin": "perede et",
   "type": "INGR",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "edera",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "HEDERA helix"
  },
  "chtedy": {
   "eva": "chtedy",
@@ -23495,10 +23514,11 @@
   "eva": "kydainy",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "indaco",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "INDIGOFER A Anil. Indigofera Argentea . Indigo- fera tinctoria; INDIGOFER ARUM, foecuk coerulea"
  },
  "ypchaiin": {
   "eva": "ypchaiin",
@@ -23906,13 +23926,14 @@
   "eva": "koaiin",
   "freq": 1,
   "latin": "ca ana II dr.",
-  "type": "DOSE_COMPOUND",
-  "ingredient": "careno",
-  "source": "ka_ingredient",
-  "confidence": "PROBABLE",
+  "type": "INGR",
+  "ingredient": "auranthiai, fructu maxim» foliis acutiotibus",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
   "has_dosage_suffix": true,
   "dosage": "ana II dr.",
-  "prefix": "ko"
+  "prefix": "ko",
+  "latin_botanical": "CITRUS Arancio, femmina"
  },
  "qotoy": {
   "eva": "qotoy",
@@ -24035,10 +24056,11 @@
   "eva": "kodalchy",
   "freq": 1,
   "latin": "cum ac de ?a se cum ?h in",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pattern_suffix",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "edera",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "HEDERA helix"
  },
  "chpady": {
   "eva": "chpady",
@@ -24426,9 +24448,10 @@
   "freq": 1,
   "latin": "care",
   "type": "INGR",
-  "ingredient": "careno",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "auranthiai, fructu maxim» foliis acutiotibus",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "CITRUS Arancio, femmina"
  },
  "eekar": {
   "eva": "eekar",
@@ -24699,9 +24722,10 @@
   "freq": 1,
   "latin": "perecenci",
   "type": "INGR",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "acero",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "ACER campestre"
  },
  "tshodody": {
   "eva": "tshodody",
@@ -25169,10 +25193,11 @@
   "eva": "tydlo",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "indaco",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "INDIGOFER A Anil. Indigofera Argentea . Indigo- fera tinctoria; INDIGOFER ARUM, foecuk coerulea"
  },
  "oykeey": {
   "eva": "oykeey",
@@ -25605,9 +25630,10 @@
   "freq": 1,
   "latin": "peresdiede et",
   "type": "INGR",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "acero",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "ACER campestre"
  },
  "shcphy": {
   "eva": "shcphy",
@@ -25935,9 +25961,10 @@
   "freq": 1,
   "latin": "perdnieura",
   "type": "INGR",
-  "ingredient": "perdigli di fuentcarai",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "den- taria caustica",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PLUVIA AGO europaea"
  },
  "yfodain": {
   "eva": "yfodain",
@@ -26085,7 +26112,7 @@
   "freq": 1,
   "latin": "ilice",
   "type": "INGR",
-  "ingredient": "iliciÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â», lignum interius",
+  "ingredient": "iliciÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â», lignum interius",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
@@ -26130,9 +26157,10 @@
   "freq": 1,
   "latin": "pererere",
   "type": "INGR",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "araco nero",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PISUM Ochrus"
  },
  "dtchan": {
   "eva": "dtchan",
@@ -26390,10 +26418,11 @@
   "eva": "fshody",
   "freq": 1,
   "latin": "per ci ac de in",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pattern_suffix",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "ciampolina",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Ciampellina"
  },
  "ypod": {
   "eva": "ypod",
@@ -26742,9 +26771,10 @@
   "freq": 1,
   "latin": "perdreuired et",
   "type": "INGR",
-  "ingredient": "perdigli di fuentcarai",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "dragoncello",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "ARTEMISIA dracunculus"
  },
  "yoar": {
   "eva": "yoar",
@@ -26846,10 +26876,11 @@
   "eva": "told",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "acero",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "ACER campestre"
  },
  "ytdg": {
   "eva": "ytdg",
@@ -27386,10 +27417,11 @@
   "eva": "toldshy",
   "freq": 1,
   "latin": "el ac se de ci in",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pattern_suffix",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "acero",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "ACER campestre"
  },
  "chofchy": {
   "eva": "chofchy",
@@ -27585,9 +27617,10 @@
   "freq": 1,
   "latin": "pernusuraere",
   "type": "INGR",
-  "ingredient": "pernicona lunga",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "insalatuccia",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PICRIDIUM volgare"
  },
  "ytchyd": {
   "eva": "ytchyd",
@@ -27708,9 +27741,10 @@
   "freq": 1,
   "latin": "perndidem",
   "type": "INGR",
-  "ingredient": "pernicona lunga",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "indiane",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": ""
  },
  "opyaiin": {
   "eva": "opyaiin",
@@ -27894,9 +27928,10 @@
   "freq": 1,
   "latin": "pereduirece",
   "type": "INGR",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "edera",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "HEDERA helix"
  },
  "odaiiily": {
   "eva": "odaiiily",
@@ -28415,13 +28450,14 @@
   "eva": "poeeaiin",
   "freq": 1,
   "latin": "(poee) ana II dr.",
-  "type": "DOSE_COMPOUND",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
-  "confidence": "PROBABLE",
+  "type": "INGR",
+  "ingredient": "europaea , media oblongo ftuctu corni",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
   "has_dosage_suffix": true,
   "dosage": "ana II dr.",
-  "prefix": "poee"
+  "prefix": "poee",
+  "latin_botanical": "OLE Oliva morchia infrantola Oli- vo infrantoio"
  },
  "qofchor": {
   "eva": "qofchor",
@@ -28754,10 +28790,11 @@
   "eva": "ksor",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "suage",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Strozza Preti, o Coral- lina"
  },
  "shoteo": {
   "eva": "shoteo",
@@ -28875,7 +28912,7 @@
   "freq": 1,
   "latin": "cire",
   "type": "INGR",
-  "ingredient": "ciregiÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â²lo",
+  "ingredient": "ciregiÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â²lo",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
@@ -29051,13 +29088,14 @@
   "eva": "posaiin",
   "freq": 1,
   "latin": "(pos) ana II dr.",
-  "type": "DOSE_COMPOUND",
-  "ingredient": "peretta di s",
-  "source": "ka_ingredient",
-  "confidence": "PROBABLE",
+  "type": "INGR",
+  "ingredient": "asarabacca",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
   "has_dosage_suffix": true,
   "dosage": "ana II dr.",
-  "prefix": "pos"
+  "prefix": "pos",
+  "latin_botanical": "ASARUM curopaeum"
  },
  "cheecthy": {
   "eva": "cheecthy",
@@ -29198,10 +29236,11 @@
   "eva": "okeeesy",
   "freq": 1,
   "latin": "quos",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "type": "INGR",
+  "ingredient": "querce marina",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "FUCUS vesiculosus"
  },
  "shorchey": {
   "eva": "shorchey",
@@ -29493,9 +29532,10 @@
   "freq": 1,
   "latin": "codo",
   "type": "INGR",
-  "ingredient": "codolina",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "edera",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "HEDERA helix"
  },
  "chepakeo": {
   "eva": "chepakeo",
@@ -30212,10 +30252,11 @@
   "eva": "kschdy",
   "freq": 1,
   "latin": "cum est cum ?h de in",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pattern_suffix",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "siderite",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Danese; VIBURNUM Opulus"
  },
  "shdydy": {
   "eva": "shdydy",
@@ -30429,9 +30470,10 @@
   "freq": 1,
   "latin": "perureiere",
   "type": "INGR",
-  "ingredient": "peruvianus",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "arieti-num , semine nigm",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "CTCER Cece di Spagna. Cece premice"
  },
  "roaiin": {
   "eva": "roaiin",
@@ -30705,9 +30747,10 @@
   "freq": 1,
   "latin": "lepiece",
   "type": "INGR",
-  "ingredient": "lepidio",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "epi- ■ medio",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "EPIMEDIUM alpinum"
  },
  "ofchor": {
   "eva": "ofchor",
@@ -30941,10 +30984,11 @@
   "eva": "tolor",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "asarabacca",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "ASARUM curopaeum"
  },
  "okshol": {
   "eva": "okshol",
@@ -30995,10 +31039,11 @@
   "eva": "okchop",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "quinquefolia",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "HEDER Eli era. Ellera arborea . Lellera"
  },
  "chshol": {
   "eva": "chshol",
@@ -32099,13 +32144,14 @@
   "eva": "tarodaiin",
   "freq": 1,
   "latin": "(tarod) ana II dr.",
-  "type": "DOSE_COMPOUND",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "PROBABLE",
+  "type": "INGR",
+  "ingredient": "urens",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
   "has_dosage_suffix": true,
   "dosage": "ana II dr.",
-  "prefix": "tarod"
+  "prefix": "tarod",
+  "latin_botanical": "URTICA Ortica della China"
  },
  "ofchtar": {
   "eva": "ofchtar",
@@ -32277,9 +32323,10 @@
   "freq": 1,
   "latin": "perdusuire",
   "type": "INGR",
-  "ingredient": "perdigli di fuentcarai",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "desf",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "CITRUS Pomo assirio. Pomo d’Adamo"
  },
  "dalteoshy": {
   "eva": "dalteoshy",
@@ -32483,10 +32530,11 @@
   "eva": "tshodpy",
   "freq": 1,
   "latin": "?",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "INCONNU"
+  "type": "INGR",
+  "ingredient": "ciampolina",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Ciampellina"
  },
  "oray": {
   "eva": "oray",
@@ -32784,9 +32832,10 @@
   "freq": 1,
   "latin": "pernqunduce",
   "type": "INGR",
-  "ingredient": "pernicona lunga",
-  "source": "ka_ingredient",
-  "confidence": "SUR"
+  "ingredient": "inanis",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "BOLETUS Lingua di Faggio, di Cerro , d’Abeto da far esca. Pan cuculio"
  },
  "opchaldy": {
   "eva": "opchaldy",
@@ -32837,10 +32886,11 @@
   "eva": "kosary",
   "freq": 1,
   "latin": "cesare",
-  "type": "KA",
-  "ingredient": null,
-  "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "type": "INGR",
+  "ingredient": "asarabacca",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "ASARUM curopaeum"
  },
  "chko": {
   "eva": "chko",
@@ -34331,10 +34381,11 @@
   "eva": "tsholdchy",
   "freq": 1,
   "latin": "el ci ac se de cum ?h in",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pattern_suffix",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "ciampolina",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "PYRI Ciampellina"
  },
  "dcheodaiin": {
   "eva": "dcheodaiin",
@@ -34562,10 +34613,11 @@
   "eva": "tdokchcfhy",
   "freq": 1,
   "latin": "el de ac cum cum ?h cum per ?h in",
-  "type": "FUNC",
-  "ingredient": null,
-  "source": "pattern_suffix",
-  "confidence": "PROBABLE"
+  "type": "INGR",
+  "ingredient": "edera",
+  "source": "gallows_strip_nomenclator",
+  "confidence": "SUR",
+  "latin_botanical": "HEDERA helix"
  },
  "ycphko": {
   "eva": "ycphko",
@@ -56847,7 +56899,7 @@
   "freq": 1,
   "latin": "saparum",
   "type": "INGR",
-  "ingredient": "sapaja rossa nera dÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ aitimi no",
+  "ingredient": "sapaja rossa nera dÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ aitimi no",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
