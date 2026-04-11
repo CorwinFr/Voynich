@@ -115,7 +115,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokeedy": {
   "eva": "qokeedy",
@@ -241,7 +241,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "l": {
   "eva": "l",
@@ -286,7 +286,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "r": {
   "eva": "r",
@@ -371,7 +371,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoky": {
   "eva": "qoky",
@@ -430,7 +430,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otal": {
   "eva": "otal",
@@ -449,7 +449,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sho": {
   "eva": "sho",
@@ -485,7 +485,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lchedy": {
   "eva": "lchedy",
@@ -503,7 +503,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dair": {
   "eva": "dair",
@@ -512,7 +512,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sheol": {
   "eva": "sheol",
@@ -548,7 +548,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oky": {
   "eva": "oky",
@@ -566,7 +566,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokol": {
   "eva": "qokol",
@@ -575,7 +575,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oteedy": {
   "eva": "oteedy",
@@ -641,7 +641,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qotedy": {
   "eva": "qotedy",
@@ -713,7 +713,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "air": {
   "eva": "air",
@@ -731,7 +731,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sar": {
   "eva": "sar",
@@ -779,7 +779,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "d": {
   "eva": "d",
@@ -824,7 +824,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheky": {
   "eva": "cheky",
@@ -860,7 +860,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "raiin": {
   "eva": "raiin",
@@ -887,7 +887,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "keedy": {
   "eva": "keedy",
@@ -1055,7 +1055,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sor": {
   "eva": "sor",
@@ -1082,7 +1082,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ody": {
   "eva": "ody",
@@ -1118,7 +1118,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chal": {
   "eva": "chal",
@@ -1127,7 +1127,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chaiin": {
   "eva": "chaiin",
@@ -1148,7 +1148,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lkaiin": {
   "eva": "lkaiin",
@@ -1238,7 +1238,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoteey": {
   "eva": "qoteey",
@@ -1406,7 +1406,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lkeey": {
   "eva": "lkeey",
@@ -1730,7 +1730,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shcthy": {
   "eva": "shcthy",
@@ -1748,7 +1748,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chl": {
   "eva": "chl",
@@ -1766,7 +1766,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykeedy": {
   "eva": "ykeedy",
@@ -1811,7 +1811,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokor": {
   "eva": "qokor",
@@ -1820,7 +1820,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "daly": {
   "eva": "daly",
@@ -1901,7 +1901,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okchy": {
   "eva": "okchy",
@@ -1949,7 +1949,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kor": {
   "eva": "kor",
@@ -2048,7 +2048,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qotor": {
   "eva": "qotor",
@@ -2297,7 +2297,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dary": {
   "eva": "dary",
@@ -2360,7 +2360,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kchey": {
   "eva": "kchey",
@@ -2369,7 +2369,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kchedy": {
   "eva": "kchedy",
@@ -2486,7 +2486,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykedy": {
   "eva": "ykedy",
@@ -2522,7 +2522,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "rain": {
   "eva": "rain",
@@ -2552,7 +2552,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ctho": {
   "eva": "ctho",
@@ -2642,7 +2642,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okair": {
   "eva": "okair",
@@ -2660,7 +2660,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chocthy": {
   "eva": "chocthy",
@@ -2735,7 +2735,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shecthy": {
   "eva": "shecthy",
@@ -2774,7 +2774,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "aral": {
   "eva": "aral",
@@ -2948,7 +2948,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qockhey": {
   "eva": "qockhey",
@@ -3014,7 +3014,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "key": {
   "eva": "key",
@@ -3041,7 +3041,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okchor": {
   "eva": "okchor",
@@ -3077,7 +3077,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ory": {
   "eva": "ory",
@@ -3161,7 +3161,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chokchy": {
   "eva": "chokchy",
@@ -3197,7 +3197,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheeor": {
   "eva": "cheeor",
@@ -3335,7 +3335,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ot": {
   "eva": "ot",
@@ -3380,7 +3380,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okees": {
   "eva": "okees",
@@ -3518,7 +3518,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "aldy": {
   "eva": "aldy",
@@ -3623,7 +3623,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cphy": {
   "eva": "cphy",
@@ -3761,7 +3761,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokechy": {
   "eva": "qokechy",
@@ -3815,7 +3815,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dshor": {
   "eva": "dshor",
@@ -3833,7 +3833,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chokeey": {
   "eva": "chokeey",
@@ -3860,7 +3860,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "keeol": {
   "eva": "keeol",
@@ -3878,7 +3878,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chckhdy": {
   "eva": "chckhdy",
@@ -3950,7 +3950,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "olkal": {
   "eva": "olkal",
@@ -3968,7 +3968,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "da": {
   "eva": "da",
@@ -4040,7 +4040,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "choiin": {
   "eva": "choiin",
@@ -4133,7 +4133,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ly": {
   "eva": "ly",
@@ -4160,7 +4160,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shdar": {
   "eva": "shdar",
@@ -4475,7 +4475,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oram": {
   "eva": "oram",
@@ -4826,7 +4826,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ytchedy": {
   "eva": "ytchedy",
@@ -5075,7 +5075,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "od": {
   "eva": "od",
@@ -5129,7 +5129,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chotol": {
   "eva": "chotol",
@@ -5294,7 +5294,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okshey": {
   "eva": "okshey",
@@ -5366,7 +5366,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokeeol": {
   "eva": "qokeeol",
@@ -5375,7 +5375,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oeedy": {
   "eva": "oeedy",
@@ -5420,7 +5420,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sholdy": {
   "eva": "sholdy",
@@ -5693,7 +5693,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "por": {
   "eva": "por",
@@ -5729,7 +5729,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ro": {
   "eva": "ro",
@@ -5756,7 +5756,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokees": {
   "eva": "qokees",
@@ -5765,7 +5765,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "alaiin": {
   "eva": "alaiin",
@@ -5798,7 +5798,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokedar": {
   "eva": "qokedar",
@@ -5870,7 +5870,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ytchdy": {
   "eva": "ytchdy",
@@ -5999,7 +5999,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oeey": {
   "eva": "oeey",
@@ -6017,7 +6017,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "yteeody": {
   "eva": "yteeody",
@@ -6149,7 +6149,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ydy": {
   "eva": "ydy",
@@ -6221,7 +6221,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoeeey": {
   "eva": "qoeeey",
@@ -6419,7 +6419,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chekey": {
   "eva": "chekey",
@@ -6668,7 +6668,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chokar": {
   "eva": "chokar",
@@ -6821,7 +6821,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kechy": {
   "eva": "kechy",
@@ -6866,7 +6866,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qopol": {
   "eva": "qopol",
@@ -6950,7 +6950,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "tcheey": {
   "eva": "tcheey",
@@ -7097,7 +7097,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ytchol": {
   "eva": "ytchol",
@@ -7160,7 +7160,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pchol": {
   "eva": "pchol",
@@ -7187,7 +7187,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shekeey": {
   "eva": "shekeey",
@@ -7205,7 +7205,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ockhedy": {
   "eva": "ockhedy",
@@ -7232,7 +7232,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chetey": {
   "eva": "chetey",
@@ -7241,7 +7241,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lchal": {
   "eva": "lchal",
@@ -7268,7 +7268,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykchey": {
   "eva": "ykchey",
@@ -7277,7 +7277,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "yaiin": {
   "eva": "yaiin",
@@ -7286,7 +7286,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pchody": {
   "eva": "pchody",
@@ -7331,7 +7331,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oteodaiin": {
   "eva": "oteodaiin",
@@ -7469,7 +7469,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dalal": {
   "eva": "dalal",
@@ -7496,7 +7496,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokeos": {
   "eva": "qokeos",
@@ -7505,7 +7505,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sshedy": {
   "eva": "sshedy",
@@ -7586,7 +7586,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otear": {
   "eva": "otear",
@@ -7739,7 +7739,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lpchedy": {
   "eva": "lpchedy",
@@ -7778,7 +7778,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ydain": {
   "eva": "ydain",
@@ -7811,7 +7811,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "yto": {
   "eva": "yto",
@@ -7880,7 +7880,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ydar": {
   "eva": "ydar",
@@ -8018,7 +8018,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otchar": {
   "eva": "otchar",
@@ -8159,7 +8159,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sheoy": {
   "eva": "sheoy",
@@ -8168,7 +8168,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ypchey": {
   "eva": "ypchey",
@@ -8177,7 +8177,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokoiin": {
   "eva": "qokoiin",
@@ -8294,7 +8294,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chokor": {
   "eva": "chokor",
@@ -8486,7 +8486,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ypar": {
   "eva": "ypar",
@@ -8696,7 +8696,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "alkar": {
   "eva": "alkar",
@@ -8750,7 +8750,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chekeey": {
   "eva": "chekeey",
@@ -8759,7 +8759,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chekchy": {
   "eva": "chekchy",
@@ -8768,7 +8768,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kcheody": {
   "eva": "kcheody",
@@ -8825,7 +8825,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "opcheey": {
   "eva": "opcheey",
@@ -8861,7 +8861,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoteor": {
   "eva": "qoteor",
@@ -9239,7 +9239,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chokeo": {
   "eva": "chokeo",
@@ -9257,7 +9257,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ytoldy": {
   "eva": "ytoldy",
@@ -9323,7 +9323,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chckhol": {
   "eva": "chckhol",
@@ -9389,7 +9389,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chochy": {
   "eva": "chochy",
@@ -9470,7 +9470,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chyty": {
   "eva": "chyty",
@@ -9479,7 +9479,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "octhody": {
   "eva": "octhody",
@@ -9518,7 +9518,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "osain": {
   "eva": "osain",
@@ -9596,7 +9596,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "yt": {
   "eva": "yt",
@@ -9848,7 +9848,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cholody": {
   "eva": "cholody",
@@ -9956,7 +9956,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykeo": {
   "eva": "ykeo",
@@ -10169,7 +10169,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qopor": {
   "eva": "qopor",
@@ -10187,7 +10187,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cpheo": {
   "eva": "cpheo",
@@ -10232,7 +10232,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ckhedy": {
   "eva": "ckhedy",
@@ -10325,7 +10325,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "aky": {
   "eva": "aky",
@@ -10397,7 +10397,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheoar": {
   "eva": "cheoar",
@@ -10415,7 +10415,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otalal": {
   "eva": "otalal",
@@ -10583,7 +10583,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otcheody": {
   "eva": "otcheody",
@@ -10700,7 +10700,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dedy": {
   "eva": "dedy",
@@ -11021,7 +11021,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lkeody": {
   "eva": "lkeody",
@@ -11555,7 +11555,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "opydaiin": {
   "eva": "opydaiin",
@@ -11576,7 +11576,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pchy": {
   "eva": "pchy",
@@ -11648,7 +11648,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "odl": {
   "eva": "odl",
@@ -11693,7 +11693,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykshy": {
   "eva": "ykshy",
@@ -11861,7 +11861,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokeees": {
   "eva": "qokeees",
@@ -11870,7 +11870,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "daror": {
   "eva": "daror",
@@ -11951,7 +11951,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "doiiin": {
   "eva": "doiiin",
@@ -11978,7 +11978,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ocphy": {
   "eva": "ocphy",
@@ -12026,7 +12026,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oeeeos": {
   "eva": "oeeeos",
@@ -12053,7 +12053,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "yol": {
   "eva": "yol",
@@ -12098,7 +12098,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chsky": {
   "eva": "chsky",
@@ -12227,7 +12227,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chkol": {
   "eva": "chkol",
@@ -12263,7 +12263,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykeos": {
   "eva": "ykeos",
@@ -12365,7 +12365,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "yd": {
   "eva": "yd",
@@ -12506,7 +12506,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dag": {
   "eva": "dag",
@@ -12701,7 +12701,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "aiy": {
   "eva": "aiy",
@@ -13022,7 +13022,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dchos": {
   "eva": "dchos",
@@ -13067,7 +13067,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "todal": {
   "eva": "todal",
@@ -13307,7 +13307,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sheokeey": {
   "eva": "sheokeey",
@@ -13523,7 +13523,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oteeam": {
   "eva": "oteeam",
@@ -13625,7 +13625,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "teo": {
   "eva": "teo",
@@ -13670,7 +13670,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ytedar": {
   "eva": "ytedar",
@@ -13778,7 +13778,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pshedy": {
   "eva": "pshedy",
@@ -13904,7 +13904,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "solkeey": {
   "eva": "solkeey",
@@ -14099,7 +14099,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "opol": {
   "eva": "opol",
@@ -14183,7 +14183,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otedam": {
   "eva": "otedam",
@@ -14393,7 +14393,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oeeor": {
   "eva": "oeeor",
@@ -14624,7 +14624,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheed": {
   "eva": "cheed",
@@ -14633,7 +14633,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "teedar": {
   "eva": "teedar",
@@ -15128,7 +15128,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "keam": {
   "eva": "keam",
@@ -15395,7 +15395,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dchodaiin": {
   "eva": "dchodaiin",
@@ -15416,7 +15416,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chof": {
   "eva": "chof",
@@ -15485,7 +15485,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheain": {
   "eva": "cheain",
@@ -15701,7 +15701,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qodchy": {
   "eva": "qodchy",
@@ -15740,7 +15740,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykoly": {
   "eva": "ykoly",
@@ -15929,7 +15929,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chog": {
   "eva": "chog",
@@ -16019,7 +16019,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokcheo": {
   "eva": "qokcheo",
@@ -16082,7 +16082,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dchal": {
   "eva": "dchal",
@@ -16127,7 +16127,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otch": {
   "eva": "otch",
@@ -16418,7 +16418,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okodaiin": {
   "eva": "okodaiin",
@@ -16526,7 +16526,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shotchey": {
   "eva": "shotchey",
@@ -16652,7 +16652,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chokchaiin": {
   "eva": "chokchaiin",
@@ -16682,7 +16682,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "yches": {
   "eva": "yches",
@@ -16718,7 +16718,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pcheeody": {
   "eva": "pcheeody",
@@ -16736,7 +16736,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chee": {
   "eva": "chee",
@@ -16745,7 +16745,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ksheey": {
   "eva": "ksheey",
@@ -16937,7 +16937,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "olchdaiin": {
   "eva": "olchdaiin",
@@ -17411,7 +17411,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "eeody": {
   "eva": "eeody",
@@ -17474,7 +17474,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "tshed": {
   "eva": "tshed",
@@ -17849,7 +17849,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chokan": {
   "eva": "chokan",
@@ -18176,7 +18176,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lchdal": {
   "eva": "lchdal",
@@ -18386,7 +18386,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "opaldaiin": {
   "eva": "opaldaiin",
@@ -18524,7 +18524,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheot": {
   "eva": "cheot",
@@ -18701,7 +18701,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okeorar": {
   "eva": "okeorar",
@@ -19157,7 +19157,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "teeo": {
   "eva": "teeo",
@@ -19535,7 +19535,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "aloy": {
   "eva": "aloy",
@@ -19574,7 +19574,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ypaiin": {
   "eva": "ypaiin",
@@ -19634,7 +19634,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "opalal": {
   "eva": "opalal",
@@ -19706,7 +19706,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sheokey": {
   "eva": "sheokey",
@@ -19733,7 +19733,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "tear": {
   "eva": "tear",
@@ -19787,7 +19787,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "keoly": {
   "eva": "keoly",
@@ -19814,7 +19814,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "alshy": {
   "eva": "alshy",
@@ -20615,7 +20615,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qcthy": {
   "eva": "qcthy",
@@ -20690,7 +20690,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oshedy": {
   "eva": "oshedy",
@@ -20735,7 +20735,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lchedar": {
   "eva": "lchedar",
@@ -20834,7 +20834,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "opshedy": {
   "eva": "opshedy",
@@ -20927,7 +20927,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "tarar": {
   "eva": "tarar",
@@ -21212,7 +21212,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qotchedar": {
   "eva": "qotchedar",
@@ -21386,7 +21386,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "keeodaiin": {
   "eva": "keeodaiin",
@@ -21407,7 +21407,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoay": {
   "eva": "qoay",
@@ -21443,7 +21443,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "loiiin": {
   "eva": "loiiin",
@@ -21701,7 +21701,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chctham": {
   "eva": "chctham",
@@ -21710,7 +21710,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "podar": {
   "eva": "podar",
@@ -22016,7 +22016,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qkain": {
   "eva": "qkain",
@@ -22151,7 +22151,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dlchd": {
   "eva": "dlchd",
@@ -22160,7 +22160,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lair": {
   "eva": "lair",
@@ -22187,7 +22187,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "paiir": {
   "eva": "paiir",
@@ -22415,7 +22415,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lchdaiin": {
   "eva": "lchdaiin",
@@ -23294,7 +23294,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shokcheey": {
   "eva": "shokcheey",
@@ -23330,7 +23330,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ctholdar": {
   "eva": "ctholdar",
@@ -23360,7 +23360,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kchsy": {
   "eva": "kchsy",
@@ -23453,7 +23453,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lchiody": {
   "eva": "lchiody",
@@ -23480,7 +23480,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "schody": {
   "eva": "schody",
@@ -23567,7 +23567,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kydain": {
   "eva": "kydain",
@@ -24056,7 +24056,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dytcheey": {
   "eva": "dytcheey",
@@ -24110,7 +24110,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shkchor": {
   "eva": "shkchor",
@@ -24248,7 +24248,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoykeeey": {
   "eva": "qoykeeey",
@@ -24401,7 +24401,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "olchaj": {
   "eva": "olchaj",
@@ -24683,7 +24683,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "deeeese": {
   "eva": "deeeese",
@@ -24746,7 +24746,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lshol": {
   "eva": "lshol",
@@ -24800,7 +24800,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otshal": {
   "eva": "otshal",
@@ -24854,7 +24854,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ooaiin": {
   "eva": "ooaiin",
@@ -25058,7 +25058,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shealy": {
   "eva": "shealy",
@@ -25208,7 +25208,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dayty": {
   "eva": "dayty",
@@ -25352,7 +25352,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "olcfholy": {
   "eva": "olcfholy",
@@ -25415,7 +25415,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cthoor": {
   "eva": "cthoor",
@@ -25544,7 +25544,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "socthody": {
   "eva": "socthody",
@@ -25820,7 +25820,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kald": {
   "eva": "kald",
@@ -25910,7 +25910,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "tchyky": {
   "eva": "tchyky",
@@ -25967,7 +25967,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ytychy": {
   "eva": "ytychy",
@@ -25976,7 +25976,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shokshor": {
   "eva": "shokshor",
@@ -26012,7 +26012,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "odyd": {
   "eva": "odyd",
@@ -26085,7 +26085,7 @@
   "freq": 1,
   "latin": "ilice",
   "type": "INGR",
-  "ingredient": "iliciÃƒâ€šÃ‚Â», lignum interius",
+  "ingredient": "iliciÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â», lignum interius",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
@@ -26237,7 +26237,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "doal": {
   "eva": "doal",
@@ -26345,7 +26345,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sholo": {
   "eva": "sholo",
@@ -26456,7 +26456,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cphaldy": {
   "eva": "cphaldy",
@@ -26510,7 +26510,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dychear": {
   "eva": "dychear",
@@ -26735,7 +26735,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pdrairdy": {
   "eva": "pdrairdy",
@@ -26753,7 +26753,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ytcharg": {
   "eva": "ytcharg",
@@ -26840,7 +26840,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "told": {
   "eva": "told",
@@ -26912,7 +26912,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oscheor": {
   "eva": "oscheor",
@@ -27026,7 +27026,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokchs": {
   "eva": "qokchs",
@@ -27071,7 +27071,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kdchody": {
   "eva": "kdchody",
@@ -27110,7 +27110,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lshod": {
   "eva": "lshod",
@@ -27170,7 +27170,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ochaiin": {
   "eva": "ochaiin",
@@ -27302,7 +27302,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chokeady": {
   "eva": "chokeady",
@@ -27461,7 +27461,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kchochaiin": {
   "eva": "kchochaiin",
@@ -27644,7 +27644,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okchain": {
   "eva": "okchain",
@@ -27731,7 +27731,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lolchor": {
   "eva": "lolchor",
@@ -27767,7 +27767,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "olfchor": {
   "eva": "olfchor",
@@ -27830,7 +27830,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "alg": {
   "eva": "alg",
@@ -28139,7 +28139,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ockhoees": {
   "eva": "ockhoees",
@@ -28559,7 +28559,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chofo": {
   "eva": "chofo",
@@ -28694,7 +28694,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sches": {
   "eva": "sches",
@@ -28730,7 +28730,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "peshy": {
   "eva": "peshy",
@@ -28875,7 +28875,7 @@
   "freq": 1,
   "latin": "cire",
   "type": "INGR",
-  "ingredient": "ciregiÃƒÆ’Ã‚Â²lo",
+  "ingredient": "ciregiÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â²lo",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
@@ -28913,7 +28913,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chschsy": {
   "eva": "chschsy",
@@ -29174,7 +29174,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chyt": {
   "eva": "chyt",
@@ -29183,7 +29183,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qekeochor": {
   "eva": "qekeochor",
@@ -29255,7 +29255,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dkeeor": {
   "eva": "dkeeor",
@@ -29369,7 +29369,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chkeaiin": {
   "eva": "chkeaiin",
@@ -29402,7 +29402,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ctholdy": {
   "eva": "ctholdy",
@@ -29420,7 +29420,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chokeor": {
   "eva": "chokeor",
@@ -29720,7 +29720,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "fchaiin": {
   "eva": "fchaiin",
@@ -29870,7 +29870,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dosg": {
   "eva": "dosg",
@@ -30125,7 +30125,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "olk": {
   "eva": "olk",
@@ -30356,7 +30356,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "schaiin": {
   "eva": "schaiin",
@@ -30422,7 +30422,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "parchor": {
   "eva": "parchor",
@@ -30617,7 +30617,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "asy": {
   "eva": "asy",
@@ -30680,7 +30680,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "daiild": {
   "eva": "daiild",
@@ -30980,7 +30980,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ckholdy": {
   "eva": "ckholdy",
@@ -31373,7 +31373,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chefaiin": {
   "eva": "chefaiin",
@@ -31463,7 +31463,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kedalchy": {
   "eva": "kedalchy",
@@ -31637,7 +31637,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "aj": {
   "eva": "aj",
@@ -31778,7 +31778,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otshaiin": {
   "eva": "otshaiin",
@@ -31799,7 +31799,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "toshy": {
   "eva": "toshy",
@@ -31943,7 +31943,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shols": {
   "eva": "shols",
@@ -32363,7 +32363,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "tarchor": {
   "eva": "tarchor",
@@ -32390,7 +32390,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "yshee": {
   "eva": "yshee",
@@ -32399,7 +32399,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chekcheey": {
   "eva": "chekcheey",
@@ -32597,7 +32597,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oyd": {
   "eva": "oyd",
@@ -32624,7 +32624,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "roiry": {
   "eva": "roiry",
@@ -33023,7 +33023,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "teoly": {
   "eva": "teoly",
@@ -33320,7 +33320,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kchossy": {
   "eva": "kchossy",
@@ -33356,7 +33356,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dochod": {
   "eva": "dochod",
@@ -33365,7 +33365,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dcthy": {
   "eva": "dcthy",
@@ -33401,7 +33401,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ltchey": {
   "eva": "ltchey",
@@ -33410,7 +33410,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oteiy": {
   "eva": "oteiy",
@@ -33833,7 +33833,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "keolchey": {
   "eva": "keolchey",
@@ -33869,7 +33869,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cphokchol": {
   "eva": "cphokchol",
@@ -33950,7 +33950,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chokchodaiin": {
   "eva": "chokchodaiin",
@@ -34439,7 +34439,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pchodal": {
   "eva": "pchodal",
@@ -34793,7 +34793,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoekar": {
   "eva": "qoekar",
@@ -35087,7 +35087,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qkchol": {
   "eva": "qkchol",
@@ -35579,7 +35579,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheeckhody": {
   "eva": "cheeckhody",
@@ -35783,7 +35783,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kedaiin": {
   "eva": "kedaiin",
@@ -35966,7 +35966,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "j": {
   "eva": "j",
@@ -36029,7 +36029,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "deeodal": {
   "eva": "deeodal",
@@ -36344,7 +36344,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sholaiin": {
   "eva": "sholaiin",
@@ -36797,7 +36797,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dalols": {
   "eva": "dalols",
@@ -36851,7 +36851,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sharal": {
   "eva": "sharal",
@@ -37364,7 +37364,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoais": {
   "eva": "qoais",
@@ -37466,7 +37466,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qopr": {
   "eva": "qopr",
@@ -37676,7 +37676,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shokaiir": {
   "eva": "shokaiir",
@@ -38012,7 +38012,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dadeam": {
   "eva": "dadeam",
@@ -38201,7 +38201,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kars": {
   "eva": "kars",
@@ -38219,7 +38219,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dalkal": {
   "eva": "dalkal",
@@ -38258,7 +38258,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oeteody": {
   "eva": "oeteody",
@@ -38459,7 +38459,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "keds": {
   "eva": "keds",
@@ -38468,7 +38468,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "archeo": {
   "eva": "archeo",
@@ -38522,7 +38522,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chokeed": {
   "eva": "chokeed",
@@ -38660,7 +38660,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykchos": {
   "eva": "ykchos",
@@ -38705,7 +38705,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oekain": {
   "eva": "oekain",
@@ -39626,7 +39626,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cphocthy": {
   "eva": "cphocthy",
@@ -39818,7 +39818,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okozy": {
   "eva": "okozy",
@@ -39845,7 +39845,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chio": {
   "eva": "chio",
@@ -40034,7 +40034,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oshchey": {
   "eva": "oshchey",
@@ -40301,7 +40301,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykos": {
   "eva": "ykos",
@@ -40364,7 +40364,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "choekcheey": {
   "eva": "choekcheey",
@@ -40463,7 +40463,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dkeeeg": {
   "eva": "dkeeeg",
@@ -40526,7 +40526,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykoin": {
   "eva": "ykoin",
@@ -40862,7 +40862,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "yeej": {
   "eva": "yeej",
@@ -41351,7 +41351,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "airchy": {
   "eva": "airchy",
@@ -41450,7 +41450,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okcheyr": {
   "eva": "okcheyr",
@@ -41504,7 +41504,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "iy": {
   "eva": "iy",
@@ -41885,7 +41885,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "choteosam": {
   "eva": "choteosam",
@@ -42065,7 +42065,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "choeteedy": {
   "eva": "choeteedy",
@@ -42284,7 +42284,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chetalchs": {
   "eva": "chetalchs",
@@ -42338,7 +42338,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otalchy": {
   "eva": "otalchy",
@@ -42401,7 +42401,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otchykey": {
   "eva": "otchykey",
@@ -42512,7 +42512,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "solalald": {
   "eva": "solalald",
@@ -42530,7 +42530,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oety": {
   "eva": "oety",
@@ -42539,7 +42539,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okldam": {
   "eva": "okldam",
@@ -43370,7 +43370,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shoteey": {
   "eva": "shoteey",
@@ -43730,7 +43730,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chealpy": {
   "eva": "chealpy",
@@ -43922,7 +43922,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "arkaly": {
   "eva": "arkaly",
@@ -43940,7 +43940,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sheeoeky": {
   "eva": "sheeoeky",
@@ -44126,7 +44126,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "opalg": {
   "eva": "opalg",
@@ -44183,7 +44183,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "alas": {
   "eva": "alas",
@@ -44396,7 +44396,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "opcheolfy": {
   "eva": "opcheolfy",
@@ -44414,7 +44414,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otolopaiin": {
   "eva": "otolopaiin",
@@ -44672,7 +44672,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okechs": {
   "eva": "okechs",
@@ -44681,7 +44681,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chepcheesaly": {
   "eva": "chepcheesaly",
@@ -45023,7 +45023,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ssheckhy": {
   "eva": "ssheckhy",
@@ -45188,7 +45188,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dainy": {
   "eva": "dainy",
@@ -45680,7 +45680,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoolkal": {
   "eva": "qoolkal",
@@ -45806,7 +45806,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "rosol": {
   "eva": "rosol",
@@ -46076,7 +46076,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "loiii": {
   "eva": "loiii",
@@ -46103,7 +46103,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "olchedr": {
   "eva": "olchedr",
@@ -47198,7 +47198,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "psheedy": {
   "eva": "psheedy",
@@ -47333,7 +47333,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "polshey": {
   "eva": "polshey",
@@ -47783,7 +47783,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "toroly": {
   "eva": "toroly",
@@ -49307,7 +49307,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "solshed": {
   "eva": "solshed",
@@ -49562,7 +49562,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dolshed": {
   "eva": "dolshed",
@@ -50297,7 +50297,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "darchy": {
   "eva": "darchy",
@@ -50627,7 +50627,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kchedar": {
   "eva": "kchedar",
@@ -50930,7 +50930,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheepchdy": {
   "eva": "cheepchdy",
@@ -51167,7 +51167,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "doeedey": {
   "eva": "doeedey",
@@ -52007,7 +52007,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "teraiin": {
   "eva": "teraiin",
@@ -52214,7 +52214,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ypeor": {
   "eva": "ypeor",
@@ -52286,7 +52286,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oteeodam": {
   "eva": "oteeodam",
@@ -52784,7 +52784,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cthodol": {
   "eva": "cthodol",
@@ -52838,7 +52838,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "keodam": {
   "eva": "keodam",
@@ -52973,7 +52973,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shekor": {
   "eva": "shekor",
@@ -52991,7 +52991,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheomam": {
   "eva": "cheomam",
@@ -53576,7 +53576,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykocfhy": {
   "eva": "ykocfhy",
@@ -53804,7 +53804,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "doigom": {
   "eva": "doigom",
@@ -54152,7 +54152,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "loy": {
   "eva": "loy",
@@ -54317,7 +54317,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dalg": {
   "eva": "dalg",
@@ -54665,7 +54665,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cpheal": {
   "eva": "cpheal",
@@ -54755,7 +54755,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shctheo": {
   "eva": "shctheo",
@@ -54992,7 +54992,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shodam": {
   "eva": "shodam",
@@ -55274,7 +55274,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ykaro": {
   "eva": "ykaro",
@@ -55838,7 +55838,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "shokocfhy": {
   "eva": "shokocfhy",
@@ -55982,7 +55982,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoches": {
   "eva": "qoches",
@@ -56126,7 +56126,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "soysar": {
   "eva": "soysar",
@@ -56216,7 +56216,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oparal": {
   "eva": "oparal",
@@ -56288,7 +56288,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokold": {
   "eva": "qokold",
@@ -56333,7 +56333,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qotocthey": {
   "eva": "qotocthey",
@@ -56351,7 +56351,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "keshey": {
   "eva": "keshey",
@@ -56369,7 +56369,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oeksa": {
   "eva": "oeksa",
@@ -56534,7 +56534,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otolsar": {
   "eva": "otolsar",
@@ -56675,7 +56675,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okolol": {
   "eva": "okolol",
@@ -56847,7 +56847,7 @@
   "freq": 1,
   "latin": "saparum",
   "type": "INGR",
-  "ingredient": "sapaja rossa nera dÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ aitimi no",
+  "ingredient": "sapaja rossa nera dÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ aitimi no",
   "source": "ka_ingredient",
   "confidence": "SUR"
  },
@@ -57215,7 +57215,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "orey": {
   "eva": "orey",
@@ -57242,7 +57242,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chopcheey": {
   "eva": "chopcheey",
@@ -57323,7 +57323,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheeckhey": {
   "eva": "cheeckhey",
@@ -57674,7 +57674,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "teeeol": {
   "eva": "teeeol",
@@ -57794,7 +57794,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "koda": {
   "eva": "koda",
@@ -57953,7 +57953,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "daor": {
   "eva": "daor",
@@ -58199,7 +58199,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qyoeey": {
   "eva": "qyoeey",
@@ -58334,7 +58334,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "eoy": {
   "eva": "eoy",
@@ -58361,7 +58361,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheoch": {
   "eva": "cheoch",
@@ -58436,7 +58436,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pcheady": {
   "eva": "pcheady",
@@ -58556,7 +58556,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "opchyt": {
   "eva": "opchyt",
@@ -58676,7 +58676,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ypcholdy": {
   "eva": "ypcholdy",
@@ -58760,7 +58760,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "daloky": {
   "eva": "daloky",
@@ -59672,7 +59672,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ocphedy": {
   "eva": "ocphedy",
@@ -59744,7 +59744,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dchodees": {
   "eva": "dchodees",
@@ -59771,7 +59771,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokecho": {
   "eva": "qokecho",
@@ -59843,7 +59843,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoteode": {
   "eva": "qoteode",
@@ -59978,7 +59978,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "charaiin": {
   "eva": "charaiin",
@@ -60143,7 +60143,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cholcham": {
   "eva": "cholcham",
@@ -60197,7 +60197,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qokeshedy": {
   "eva": "qokeshedy",
@@ -60497,7 +60497,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheeta": {
   "eva": "cheeta",
@@ -60506,7 +60506,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoeechdy": {
   "eva": "qoeechdy",
@@ -60581,7 +60581,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otkchedy": {
   "eva": "otkchedy",
@@ -60731,7 +60731,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheokcheo": {
   "eva": "cheokcheo",
@@ -60911,7 +60911,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "saraisl": {
   "eva": "saraisl",
@@ -61106,7 +61106,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lksheey": {
   "eva": "lksheey",
@@ -61436,7 +61436,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qkair": {
   "eva": "qkair",
@@ -61589,7 +61589,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sairom": {
   "eva": "sairom",
@@ -62030,7 +62030,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "arxor": {
   "eva": "arxor",
@@ -62204,7 +62204,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okcheeo": {
   "eva": "okcheeo",
@@ -62285,7 +62285,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pcheodair": {
   "eva": "pcheodair",
@@ -62348,7 +62348,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "porarchy": {
   "eva": "porarchy",
@@ -62393,7 +62393,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pshoair": {
   "eva": "pshoair",
@@ -62990,7 +62990,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ycheoto": {
   "eva": "ycheoto",
@@ -63305,7 +63305,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oarar": {
   "eva": "oarar",
@@ -64022,7 +64022,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pairar": {
   "eva": "pairar",
@@ -64550,7 +64550,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sokod": {
   "eva": "sokod",
@@ -65102,7 +65102,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoiiedy": {
   "eva": "qoiiedy",
@@ -65621,7 +65621,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "polshedaiin": {
   "eva": "polshedaiin",
@@ -65699,7 +65699,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sheeain": {
   "eva": "sheeain",
@@ -65999,7 +65999,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kai": {
   "eva": "kai",
@@ -66092,7 +66092,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "qoteedaiin": {
   "eva": "qoteedaiin",
@@ -66239,7 +66239,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "opchedal": {
   "eva": "opchedal",
@@ -66293,7 +66293,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chedyteokain": {
   "eva": "chedyteokain",
@@ -66470,7 +66470,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "okshdy": {
   "eva": "okshdy",
@@ -66653,7 +66653,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kshartar": {
   "eva": "kshartar",
@@ -67523,7 +67523,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pcheokeey": {
   "eva": "pcheokeey",
@@ -67727,7 +67727,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "sheedar": {
   "eva": "sheedar",
@@ -67799,7 +67799,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheolchal": {
   "eva": "cheolchal",
@@ -68093,7 +68093,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "laram": {
   "eva": "laram",
@@ -68177,7 +68177,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "pcheoor": {
   "eva": "pcheoor",
@@ -68339,7 +68339,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lkchor": {
   "eva": "lkchor",
@@ -68432,7 +68432,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "loaiin": {
   "eva": "loaiin",
@@ -68471,7 +68471,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lcholkaiin": {
   "eva": "lcholkaiin",
@@ -68504,7 +68504,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "folchear": {
   "eva": "folchear",
@@ -68648,7 +68648,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ctharad": {
   "eva": "ctharad",
@@ -69167,7 +69167,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "aar": {
   "eva": "aar",
@@ -69419,7 +69419,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "oteeodl": {
   "eva": "oteeodl",
@@ -69455,7 +69455,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "keeed": {
   "eva": "keeed",
@@ -69464,7 +69464,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "lkeeedam": {
   "eva": "lkeeedam",
@@ -69557,7 +69557,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "chdairod": {
   "eva": "chdairod",
@@ -69794,7 +69794,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "dkair": {
   "eva": "dkair",
@@ -70559,7 +70559,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "tainary": {
   "eva": "tainary",
@@ -71039,7 +71039,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "otlaiin": {
   "eva": "otlaiin",
@@ -71069,7 +71069,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kchedshedy": {
   "eva": "kchedshedy",
@@ -71672,7 +71672,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "kchetam": {
   "eva": "kchetam",
@@ -71699,7 +71699,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "ycheedaiin": {
   "eva": "ycheedaiin",
@@ -72122,7 +72122,7 @@
   "type": "KA",
   "ingredient": null,
   "source": "ka_decode",
-  "confidence": "DOUTE_KA"
+  "confidence": "PROBABLE"
  },
  "cheychear": {
   "eva": "cheychear",
