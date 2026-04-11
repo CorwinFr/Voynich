@@ -1,0 +1,282 @@
+{
+  "description": "14 EVA suffixes forming a flexional grammar system. Same roots take all suffixes.",
+  "key_findings": [
+    "-am is SENTENCE TERMINATOR (71% at line end) - PROVEN",
+    "-or is OPENER (22% at line start) - PROVEN",
+    "-ol/-or dominant in HERBAL (descriptive register)",
+    "-edy/-eedy dominant in BALNEA/PHARMA (procedural register)",
+    "Anti-correlation: pages with chol.daiin (31 folios) have -edy ratio 0.17",
+    "daiin bridges 80% DIFFERENT suffix types => not simply \"et\""
+  ],
+  "source_analysis": "docs/SESSION7_SUFFIX_PARADIGMS.md",
+  "confidence": "STATISTICAL_FACT for distributions; HYPOTHESIS for role interpretations",
+  "count": 14,
+  "entries": [
+    {
+      "suffix": "aiin",
+      "total_count": 3353,
+      "avg_line_position": 0.485,
+      "pct_line_start": 17.0,
+      "pct_line_end": 11.5,
+      "pct_herbal": 49.9,
+      "pct_balnea": 10.8,
+      "pct_pharma": 31.8,
+      "n_unique_roots": 457,
+      "top5_words": [
+        "daiin(847)",
+        "qokaiin(267)",
+        "okaiin(212)",
+        "otaiin(154)",
+        "saiin(129)"
+      ],
+      "hypothesized_role": "CONNECTOR - middle position, links syntagms"
+    },
+    {
+      "suffix": "ain",
+      "total_count": 1540,
+      "avg_line_position": 0.492,
+      "pct_line_start": 15.1,
+      "pct_line_end": 10.8,
+      "pct_herbal": 23.6,
+      "pct_balnea": 29.9,
+      "pct_pharma": 43.7,
+      "n_unique_roots": 267,
+      "top5_words": [
+        "qokain(277)",
+        "dain(215)",
+        "okain(139)",
+        "otain(96)",
+        "sain(63)"
+      ],
+      "hypothesized_role": "SHORT_CONNECTOR - pharma+balnea 72%"
+    },
+    {
+      "suffix": "eedy",
+      "total_count": 1219,
+      "avg_line_position": 0.469,
+      "pct_line_start": 9.8,
+      "pct_line_end": 5.3,
+      "pct_herbal": 11.0,
+      "pct_balnea": 38.1,
+      "pct_pharma": 46.3,
+      "n_unique_roots": 129,
+      "top5_words": [
+        "qokeedy(306)",
+        "okeedy(111)",
+        "oteedy(100)",
+        "sheedy(83)",
+        "qoteedy(76)"
+      ],
+      "hypothesized_role": "PROCEDURAL_EXTENDED - balnea+pharma 84%"
+    },
+    {
+      "suffix": "edy",
+      "total_count": 4124,
+      "avg_line_position": 0.484,
+      "pct_line_start": 9.6,
+      "pct_line_end": 6.3,
+      "pct_herbal": 15.6,
+      "pct_balnea": 42.5,
+      "pct_pharma": 38.3,
+      "n_unique_roots": 387,
+      "top5_words": [
+        "chedy(504)",
+        "shedy(435)",
+        "qokeedy(306)",
+        "qokedy(274)",
+        "otedy(156)"
+      ],
+      "hypothesized_role": "PROCEDURAL_ITEM - balnea+pharma 78%, list element"
+    },
+    {
+      "suffix": "eey",
+      "total_count": 1895,
+      "avg_line_position": 0.424,
+      "pct_line_start": 13.0,
+      "pct_line_end": 3.8,
+      "pct_herbal": 28.4,
+      "pct_balnea": 16.6,
+      "pct_pharma": 42.9,
+      "n_unique_roots": 274,
+      "top5_words": [
+        "qokeey(308)",
+        "cheey(183)",
+        "okeey(180)",
+        "sheey(148)",
+        "oteey(139)"
+      ],
+      "hypothesized_role": "MODIFIER - pharma+herbal mix, degree/detail"
+    },
+    {
+      "suffix": "ey",
+      "total_count": 3976,
+      "avg_line_position": 0.433,
+      "pct_line_start": 11.8,
+      "pct_line_end": 5.0,
+      "pct_herbal": 32.3,
+      "pct_balnea": 20.7,
+      "pct_pharma": 35.0,
+      "n_unique_roots": 638,
+      "top5_words": [
+        "chey(351)",
+        "qokeey(308)",
+        "shey(276)",
+        "cheey(183)",
+        "okeey(180)"
+      ],
+      "hypothesized_role": "LIGHT_MODIFIER - mixed distribution"
+    },
+    {
+      "suffix": "dy",
+      "total_count": 6432,
+      "avg_line_position": 0.506,
+      "pct_line_start": 10.5,
+      "pct_line_end": 11.1,
+      "pct_herbal": 27.6,
+      "pct_balnea": 31.1,
+      "pct_pharma": 33.1,
+      "n_unique_roots": 1042,
+      "top5_words": [
+        "chedy(504)",
+        "shedy(435)",
+        "qokeedy(306)",
+        "qokedy(274)",
+        "otedy(156)"
+      ],
+      "hypothesized_role": "INSTRUCTION_MARKER - functional roots cho/sho concentrate here"
+    },
+    {
+      "suffix": "ol",
+      "total_count": 2927,
+      "avg_line_position": 0.43,
+      "pct_line_start": 16.3,
+      "pct_line_end": 6.8,
+      "pct_herbal": 56.4,
+      "pct_balnea": 17.7,
+      "pct_pharma": 17.2,
+      "n_unique_roots": 429,
+      "top5_words": [
+        "chol(398)",
+        "shol(183)",
+        "cheol(171)",
+        "qol(144)",
+        "sheol(109)"
+      ],
+      "hypothesized_role": "DESCRIPTOR - herbal dominant, property/quality"
+    },
+    {
+      "suffix": "or",
+      "total_count": 1754,
+      "avg_line_position": 0.399,
+      "pct_line_start": 24.4,
+      "pct_line_end": 7.5,
+      "pct_herbal": 65.6,
+      "pct_balnea": 10.2,
+      "pct_pharma": 16.8,
+      "n_unique_roots": 369,
+      "top5_words": [
+        "chor(214)",
+        "shor(95)",
+        "cheor(92)",
+        "dor(65)",
+        "sor(51)"
+      ],
+      "hypothesized_role": "OPENER - 22% at line start, 64% herbal, subject/descriptor"
+    },
+    {
+      "suffix": "ar",
+      "total_count": 2345,
+      "avg_line_position": 0.5,
+      "pct_line_start": 16.0,
+      "pct_line_end": 10.5,
+      "pct_herbal": 39.2,
+      "pct_balnea": 14.1,
+      "pct_pharma": 32.0,
+      "n_unique_roots": 505,
+      "top5_words": [
+        "dar(328)",
+        "qokar(158)",
+        "otar(147)",
+        "okar(135)",
+        "char(87)"
+      ],
+      "hypothesized_role": "PURPOSE/RESULT - mixed distribution"
+    },
+    {
+      "suffix": "al",
+      "total_count": 1811,
+      "avg_line_position": 0.542,
+      "pct_line_start": 10.8,
+      "pct_line_end": 15.8,
+      "pct_herbal": 27.0,
+      "pct_balnea": 23.0,
+      "pct_pharma": 29.7,
+      "n_unique_roots": 391,
+      "top5_words": [
+        "dal(241)",
+        "qokal(193)",
+        "okal(148)",
+        "otal(135)",
+        "qotal(60)"
+      ],
+      "hypothesized_role": "MEASURE/LOCATION - pharma+balnea 52%"
+    },
+    {
+      "suffix": "am",
+      "total_count": 685,
+      "avg_line_position": 0.874,
+      "pct_line_start": 6.9,
+      "pct_line_end": 72.7,
+      "pct_herbal": 43.1,
+      "pct_balnea": 6.7,
+      "pct_pharma": 33.3,
+      "n_unique_roots": 247,
+      "top5_words": [
+        "dam(87)",
+        "otam(47)",
+        "okam(31)",
+        "qokam(25)",
+        "cham(17)"
+      ],
+      "hypothesized_role": "SENTENCE_TERMINATOR - 71% at line end, proven"
+    },
+    {
+      "suffix": "om",
+      "total_count": 140,
+      "avg_line_position": 0.771,
+      "pct_line_start": 6.4,
+      "pct_line_end": 57.9,
+      "pct_herbal": 72.1,
+      "pct_balnea": 7.9,
+      "pct_pharma": 12.1,
+      "n_unique_roots": 77,
+      "top5_words": [
+        "chom(13)",
+        "cheom(8)",
+        "cthom(7)",
+        "dom(7)",
+        "shom(4)"
+      ],
+      "hypothesized_role": "PARAGRAPH_SEPARATOR - 56% at line end, herbal 72%"
+    },
+    {
+      "suffix": "air",
+      "total_count": 393,
+      "avg_line_position": 0.401,
+      "pct_line_start": 26.7,
+      "pct_line_end": 3.3,
+      "pct_herbal": 33.3,
+      "pct_balnea": 5.6,
+      "pct_pharma": 43.5,
+      "n_unique_roots": 106,
+      "top5_words": [
+        "dair(109)",
+        "sair(29)",
+        "otair(26)",
+        "qokair(21)",
+        "okair(20)"
+      ],
+      "hypothesized_role": "RARE_MODIFIER - pharma 43%"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+Entry#,OldFrench,Latin,French,Thermal,ThermalDeg,Moisture,MoistureDeg
+13,AMIDUM,Amidum,Amidon,calidum,,siccum,
+15,ANTIMONIUM,Antimonium,Antimoine,calidum,,siccum,
+22,ACACIE,Acacia,Acacia,frigidum,4,siccum,4
+28,AGARIC,Agaricus,Agaric,calidum,2,siccum,2
+34,AUZ,Allium,Ail,calidum,,siccum,
+42,ACHORIJS,Acorus calamus,Acore,calidum,,siccum,
+47,ARM0NI4C,Ammoniacum,Gomme ammoniaque,calidum,3,,3
+53,ANIS,Anisum,Anis,calidum,,siccum,
+60,ALUISNE,Absinthium,Absinthe,calidum,1,siccum,1
+73,ANACHAR,Anacardium,Anacarde,calidum,4,siccum,4
+78,AMANDES AMERES,Amygdala amara,Amande amere,calidum,2,,2
+83,ARISTOLOGE,Aristolochia,Aristoloche,calidum,2,siccum,2
+87,AMBRE,Ambra,Ambre gris,calidum,2,siccum,2
+90,ARMOISE,Artemisia,Armoise,calidum,3,siccum,3
+95,AISSIL,Acetum,Vinaigre,frigidum,2,siccum,2
+102,ALCHANE,Lawsonia/Alkanna,Henne,frigidum,1,siccum,1
+106,ORPIMENT,Auripigmentum,Orpiment,calidum,4,siccum,4
+133,BALSE,Pastinaca,Panais,calidum,2,,1
+137,BORRAIS,Borax,Borax,calidum,2,siccum,2
+141,BELLERIS,,,frigidum,,siccum,
+142,BOL,Bolus armeniacus,Bol d'Armenie,frigidum,1,siccum,1
+147,BALAUSTES,Balaustium,Fleur de grenadier,frigidum,2,siccum,2
+153,BOBRACES,Borago,Bourrache,calidum,1,humidum,1
+158,BIÏOINE,Betonica,Betoine,calidum,4,siccum,4
+162,VERNIZ,Vernix,Vernis,frigidum,1,siccum,1
+167,BRANQUE URSINE,Acanthus/Branca ursina,Acanthe,calidum,2,humidum,2
+171,BERBERIS,Berberis,Epine-vinette,calidum,2,siccum,2
+175,BISTORTE,Bistorta,Bistorte,calidum,,siccum,
+182,BEDEGAR ^,Bedegar,Bedegar/Eglantier,frigidum,,,
+190,CYCLAM,Cyclamen,Cyclamen,calidum,3,siccum,3
+201,CAMPHRE,Camphora,Camphre,frigidum,3,siccum,3
+211,O piretrès,,,calidum,3,siccum,3
+212,COLOQUINTE,Colocynthis,Coloquinte,calidum,3,siccum,3
+221,CASSIAFFISTLE ^,Cassia fistula,Casse,calidum,,humidum,
+223,CUSCUTE,Cuscuta,Cuscute,calidum,1,siccum,1
+225,CARDAMOME ^,Cardamomum,Cardamome,calidum,2,siccum,2
+231,CERUSE,Cerusa,Ceruse,frigidum,2,siccum,2
+234,CAPARIS,Capparis,Caprier,calidum,,,
+241,CALEMENT,Calamintha,Calament,calidum,3,siccum,3
+249,(luitez de la marriz,,,calidum,3,siccum,2
+262,GASSIALIGNEE,Cassia lignea,Casse en bois,calidum,,siccum,
+274,CASTORE,Castoreum,Castoreum,calidum,3,siccum,3
+284,CUBEBES,Cubeba,Cubebe,calidum,,,
+290,CANELE,Cinnamomum,Cannelle,calidum,3,siccum,3
+292,CYPRÈS,Cupressus,Cypres,calidum,1,siccum,1
+302,CAMEDREOS,Chamaedrys/Teucrium,Germandrée,calidum,3,siccum,3
+311,CARVI,Carum carvi,Carvi,calidum,3,siccum,3
+314,COMIN,Cuminum,Cumin,calidum,3,siccum,3
+322,CEdUE,Cicuta,Cigue,calidum,3,siccum,3
+328,CROC,Crocus/Saffron,Safran,calidum,1,siccum,1
+333,(CYPERONJ,Cyperus,Souchet,calidum,2,siccum,2
+354,CATHAPFCES,Euphorbia lathyris,Catapuce,calidum,3,,3
+362,CRETANUM,Cretanum/Dictamnus creticus,Dictame de Crete,calidum,3,siccum,3
+365,COST,Costus,Costus,calidum,3,siccum,3
+371,CANTABRON,,,calidum,,siccum,
+375,"Huit. Soc. fr. hist. méd., X, 1911 (Snppl‘)",,,,,siccum,
+376,COLOFONE,Colophonia,Colophane,calidum,2,siccum,2
+381,GOGORDES,,,calidum,,humidum,
+387,CELARONNE,Chelidonia,Chelidoine,calidum,4,siccum,4
+394,CORRIENDRE,Coriandrum,Coriandre,calidum,2,siccum,2
+396,DIAGRIDE,Scammonia,Scammonee,calidum,3,siccum,3
+404,DRAGAGANT,Tragacanthum,Gomme adragante,calidum,2,humidum,2
+415,DAUC,Daucus,Carotte sauvage,calidum,,siccum,
+423,DRAGANÏ,,,calidum,2,siccum,2
+430,DITAM,Dictamnus,Dictame,calidum,,siccum,
+437,ENDIVIA,Endivia/Cichorium,Endive/Chicoree,frigidum,,siccum,
+443,ENULA,Inula helenium,Aunee,calidum,3,humidum,3
+449,EPYTIM,Epithymum,Epithyme,calidum,3,siccum,3
+456,EUFORBE,Euphorbia,Euphorbe,calidum,4,siccum,4
+466,EPATIQUE,Hepatica,Hepatique,frigidum,1,siccum,1
+468,ES ARS,Aes ustum,Airain brule,calidum,4,siccum,4
+472,ELATERE,,,calidum,,siccum,
+482,ELLEBRE,Helleborus,Hellebore,calidum,4,siccum,4
+490,ESULE,Euphorbia esula,Esule,calidum,4,siccum,4
+493,ERIJE,,,calidum,,siccum,
+495,EMASÏISÏES,,,frigidum,,siccum,
+499,HYEBLES,,,calidum,,,
+502,EUPASTÜIRE,,,calidum,2,siccum,2
+515,GARIOFILAÏE,Geum/Caryophyllata,Benoite,calidum,2,siccum,2
+519,GIT,Nigella,Nigelle,calidum,3,siccum,3
+524,GREMIL,Lithospermum,Gremil,calidum,3,siccum,3
+525,(ÎALLITRICUM,,,calidum,,siccum,
+529,GALLES,Galla,Galle de chene,frigidum,2,siccum,2
+535,GALLE MUSGATE,,,calidum,,siccum,
+543,JUSQUIAME,Hyoscyamus,Jusquiame,frigidum,3,siccum,3
+555,JARUS,,,calidum,3,siccum,3
+561,IRIS,Iris,Iris,calidum,2,siccum,2
+564,IPOQUISTIDOS 3,,,calidum,2,siccum,2
+567,JUNIPERON,Juniperus,Genevrier,calidum,3,siccum,3
+575,LADANUM,Ladanum,Ladanum,calidum,2,humidum,2
+549,YSOPE,Hyssopus,Hysope,calidum,3,siccum,3
+581,LIQUARICE,Glycyrrhiza,Reglisse,calidum,tempéré,humidum,tempéré
+587,LAPIS [LAZULI],,,frigidum,,siccum,
+595,LILION,,,calidum,,,
+599,LICIUMi,,,calidum,1,siccum,1
+607,LANGUE D’OISEL,,,calidum,1,siccum,1
+610,LAPASSE,,,calidum,3,siccum,3
+623,LITARGIRON,Lithargyrum,Litharge,calidum,1,siccum,1
+631,LAITUES,Lactuca,Laitue,frigidum,,humidum,
+640,LORIER,Laurus,Laurier,calidum,,siccum,
+650,LENÏISC,Lentiscus/Pistacia,Lentisque,calidum,,siccum,
+654,LENTILLES,,,frigidum,,,
+656,LAUREOLE,Daphne laureola,Laureole,calidum,,siccum,
+660,LIVESCHE,Levisticum,Livèche,calidum,2,siccum,2
+662,LAPIS MAGNETE,Magnes,Aimant,calidum,3,siccum,3
+666,MIRTE,Myrtus,Myrte,frigidum,,siccum,
+670,MAIGNE,Adeps,Graisse,calidum,1,humidum,1
+673,(Fol. 43 c) MELLILOTUM,,,calidum,1,siccum,1
+674,MAUVE,Malva,Mauve,frigidum,2,humidum,2
+680,MASTIC,Mastix,Mastic,calidum,2,siccum,2
+685,MENTE,Mentha,Menthe,calidum,2,siccum,2
+698,MARGARITES,Margarita,Perle,frigidum,,siccum,
+700,Donez la poldre de margarites o çucre rosat,,,calidum,4,siccum,4
+705,MANDAGLOIRE,Mandragora,Mandragore,frigidum,indéterminé,siccum,indéterminé
+710,MEU,,,calidum,2,,2
+714,MALA CITONIA,,,calidum,,siccum,
+722,(Fol. 47 b) MALES GRENAIES,,,calidum,,,
+729,MALA MACIANA,,,frigidum,,,
+731,MARROGES,,,calidum,4,siccum,4
+739,(Fol. 48 b) MALLABATRE,,,calidum,,siccum,
+740,MIEL,Mel,Miel,calidum,1,siccum,1
+747,MUSC,,,calidum,2,siccum,2
+758,MIROBOLANZ,,,frigidum,2,siccum,2
+770,MACIS,Macis,Macis,calidum,2,siccum,2
+775,MIRRE,Myrrha,Myrrhe,calidum,2,siccum,2
+781,MAJORANE,Majorana/Origanum,Marjolaine,calidum,2,siccum,2
+787,MELISSE,Melissa,Melisse,calidum,2,siccum,2
+789,MORES,,,calidum,,,
+793,NESTURTE 6,Nasturtium,Cresson,calidum,4,siccum,4
+800,NIÏRE,,,calidum,2,siccum,2
+806,NENUPHAR ^,Nymphaea,Nenuphar,calidum,2,,2
+808,NOIS MUSCATES ^,Nux moschata,Noix muscade,calidum,,,
+811,NOIZ INDE,Nux indica/Cocos,Noix de coco,calidum,,siccum,
+813,(Fol. 33 b) NOIZ VOMIÏE,,,calidum,,,
+815,OSSIMUM,Ocimum,Basilic,calidum,2,siccum,2
+821,OPOPANAC,Opopanax,Opopanax,calidum,3,siccum,3
+829,OPIUM,Opium,Opium,frigidum,4,siccum,4
+835,ORIGANUM,Origanum,Origan,calidum,3,siccum,3
+842,OSIFENICIA,,,frigidum,2,siccum,2
+844,ORGE,,,frigidum,,siccum,
+847,OS DE CUER DE CERF,,,frigidum,,siccum,
+851,OS DE SECHE,,,frigidum,,siccum,
+854,OLIBANUM,Olibanum/Thus,Encens,calidum,2,siccum,2
+867,POIVRES,Piper,Poivre,calidum,4,siccum,4
+874,(Fol. 57 b) PIOME,,,calidum,2,,2
+880,PAVOT,Papaver,Pavot,frigidum,,siccum,
+884,PEUCED4NUM,Peucedanum,Peucedane,calidum,,siccum,
+888,PERESIL,Petroselinum,Persil,calidum,3,siccum,3
+889,POLLICAIRE,Pulicaria,Herbe aux puces,calidum,,siccum,
+894,FIGNOLES,,,calidum,,humidum,
+896,FRUNES,,,frigidum,,humidum,
+898,FENIDES,,,calidum,,,
+908,POLIPODE,Polypodium,Polypode,calidum,,siccum,
+911,PETROLEUM,Petroleum,Petrole,calidum,4,siccum,4
+918,PARITAIRE,Parietaria,Paritaire,calidum,3,siccum,3
+922,PORÏULAGUE,Portulaca,Pourpier,frigidum,3,siccum,3
+925,PULEGIUM,Pulegium/Mentha pulegium,Pouliot,calidum,3,siccum,3
+930,POIRES,,,calidum,,,
+937,PASSES,,,calidum,,humidum,
+942,PLOMS,,,calidum,2,,2
+945,POLIOEL,,,calidum,,,
+948,POIZ,,,calidum,2,siccum,2
+977,RAFFLES,,,,2,siccum,2
+983,RAIZ,,,calidum,2,siccum,2
+984,REUBARBE,Rheum/Rhabarbarum,Rhubarbe,calidum,2,siccum,2
+988,REUPONTIC,Rhaponticum,Reupontic,calidum,,siccum,
+989,RUREE,,,calidum,2,siccum,2
+992,RUE,Ruta,Rue,calidum,2,,2
+1007,(Fol. 65 b) ROS MARIN,,,calidum,,siccum,
+1015,RUEE ce est boissons,,,calidum,,siccum,
+1032,STORIAUX,Storax,Styrax,calidum,1,siccum,1
+1040,STRIGNUM3 SOLATRUM'',Solanum,Morelle,frigidum,2,siccum,2
+1047,SEUZ,,,calidum,,,
+1048,SUMAC,Sumac/Rhus,Sumac,calidum,3,,3
+1049,SANDLES,Santalum,Santal,calidum,3,siccum,3
+1051,SAGAPIN,Sagapenum,Sagapenum,calidum,3,siccum,3
+1057,SEMPERVIVA,Sempervivum,Joubarbe,frigidum,4,,4
+1062,S1SELE0S«,,,calidum,2,siccum,2
+1065,SOFFRE,Sulfur,Soufre,calidum,2,siccum,2
+1070,SANC DE DRAGON,Sanguis draconis,Sang de dragon,frigidum,3,siccum,3
+1073,O aucune chose,,,calidum,1,siccum,1
+1077,SATIRIQN 1,Orchis/Satyrion,Satyrion,calidum,3,siccum,3
+1081,SPODE,Spodium,Spode,frigidum,4,siccum,4
+1087,SÏYNS,,,calidum,3,siccum,3
+1088,SCORDEON,Scordium/Teucrium,Scordium,calidum,3,siccum,3
+1090,SAVON ‘,,,calidum,,siccum,
+1093,SAUGE,Salvia,Sauge,calidum,2,siccum,2
+1096,(Fol. 70 b) SCABIOSE,,,calidum,2,siccum,2
+1102,SENACIONS,,,calidum,2,siccum,2
+1104,SERPENTAIRE,Dracunculus/Serpentaria,Serpentaire,calidum,,siccum,
+1108,SÉNÉ,Senna,Sene,calidum,,siccum,
+1109,SERPAUX,,,calidum,,siccum,
+1113,SARRIEE,Satureja,Sarriette,calidum,,siccum,
+1116,(Fol. 71 a) TARTHARUM,,,calidum,,siccum,
+1123,TERRE SOILLEE,Terra sigillata,Terre scellee,frigidum,,siccum,
+1125,(Tuile rosat,,,calidum,2,siccum,2
+1127,(Fol. 71 c) TYTLMAL 3,,,calidum,3,siccum,3
+1130,TU R BIT,Turbith,Turbith,calidum,3,siccum,3
+1132,TAUPSE,,,calidum,3,siccum,3
+1134,TOILES D’IRAIGNES,,,frigidum,,,
+249,CENTAURE,Centaurea,Centauree,calidum,3,siccum,3
+954,ROSES,Rosa,Rose,frigidum,1,siccum,2
+1022,SPIC,Lavandula,Lavande,calidum,2,siccum,2
+1,ACHE,Apium,Ache/Celeri,calidum,3,siccum,2
+[STD],VIOLETE,Viola,Violette,frigidum,1,humidum,1
+[STD],PLANTAIN,Plantago,Plantain,frigidum,2,siccum,2
+[STD],GENCIANE,Gentiana,Gentiane,calidum,2,siccum,2

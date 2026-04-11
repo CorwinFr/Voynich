@@ -1,0 +1,133 @@
+{
+  "description": "Quantity/dosage notation system (SPECULATIVE - probably partially wrong)",
+  "source": "Session 6 analysis, docs/SESSION6_BILAN_COMPLET.md",
+  "warnings": [
+    "System produces 72 dosages on f103r where Aurea has only 7 => TOO MANY",
+    "Suffix -aiin was originally decoded as \"aquam\" (WRONG, fixed session 6)",
+    "Suffix -aiin was then hypothesized as dosage marker (PROBABLY WRONG)",
+    "The quantity notation needs complete rethinking"
+  ],
+  "current_hypothesis": {
+    "a": {
+      "value": "ana",
+      "meaning": "of each (equal parts)",
+      "confidence": "SPECULATIVE"
+    },
+    "i": {
+      "value": "1",
+      "meaning": "one unit",
+      "confidence": "SPECULATIVE"
+    },
+    "ii": {
+      "value": "2",
+      "meaning": "two units",
+      "confidence": "SPECULATIVE"
+    },
+    "n": {
+      "value": "drachma",
+      "meaning": "1 drachm (~3.4g)",
+      "confidence": "SPECULATIVE"
+    },
+    "e": {
+      "value": "et",
+      "meaning": "and (connector)",
+      "confidence": "SPECULATIVE"
+    },
+    "h": {
+      "value": "(silent)",
+      "meaning": "mute/modifier",
+      "confidence": "SPECULATIVE"
+    }
+  },
+  "standard_medieval_units": [
+    {
+      "latin": "granum",
+      "abbrev": "gr.",
+      "weight_g": 0.065,
+      "source": "AN/Compendium"
+    },
+    {
+      "latin": "scrupulum",
+      "abbrev": "scr.",
+      "weight_g": 1.3,
+      "grains": 20,
+      "source": "AN"
+    },
+    {
+      "latin": "drachma",
+      "abbrev": "dr. / z.",
+      "weight_g": 3.9,
+      "scrupuli": 3,
+      "source": "AN"
+    },
+    {
+      "latin": "uncia",
+      "abbrev": "oz. / j.",
+      "weight_g": 31.1,
+      "drachmae": 8,
+      "source": "AN"
+    },
+    {
+      "latin": "libra",
+      "abbrev": "lb.",
+      "weight_g": 373.2,
+      "unciae": 12,
+      "source": "AN"
+    },
+    {
+      "latin": "manipulus",
+      "abbrev": "M.",
+      "meaning": "handful",
+      "source": "CI"
+    },
+    {
+      "latin": "pugillus",
+      "abbrev": "",
+      "meaning": "pinch",
+      "source": "CI"
+    },
+    {
+      "latin": "cochlear",
+      "abbrev": "",
+      "meaning": "spoonful",
+      "source": "CI"
+    }
+  ],
+  "standard_abbreviations": [
+    {
+      "abbrev": "ana",
+      "meaning": "of each, equal parts",
+      "source": "AN universal"
+    },
+    {
+      "abbrev": "q.s.",
+      "latin": "quantum sufficit",
+      "meaning": "as much as needed",
+      "source": "AN"
+    },
+    {
+      "abbrev": "ss.",
+      "latin": "semis",
+      "meaning": "half",
+      "source": "AN"
+    },
+    {
+      "abbrev": "Rp.",
+      "latin": "recipe",
+      "meaning": "take",
+      "source": "AN universal"
+    },
+    {
+      "abbrev": "M.",
+      "latin": "misce",
+      "meaning": "mix",
+      "source": "AN"
+    },
+    {
+      "abbrev": "ft.",
+      "latin": "fiat",
+      "meaning": "let it be made",
+      "source": "AN"
+    }
+  ]
+}

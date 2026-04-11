@@ -1,0 +1,284 @@
+{
+  "_meta": {
+    "description": "Pharmaceutical tools and equipment",
+    "period": "12th-15th century",
+    "version": "2026-04-11",
+    "count": 14
+  },
+  "T_mortarium": {
+    "ref_id": "T_mortarium",
+    "canonical": "mortarium",
+    "gloss_en": "mortar",
+    "gloss_fr": "mortier",
+    "forms": {
+      "latin": [
+        "mortarium",
+        "mortario",
+        "mortarii"
+      ]
+    },
+    "material": "stone, bronze (ereum), marble",
+    "use": "Grinding with pistillum",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "T_pistillum": {
+    "ref_id": "T_pistillum",
+    "canonical": "pistillum",
+    "gloss_en": "pestle",
+    "gloss_fr": "pilon",
+    "forms": {
+      "latin": [
+        "pistillum",
+        "pistillo"
+      ]
+    },
+    "material": "stone, iron (ferreum)",
+    "use": "Pounding in mortarium",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "T_ignis": {
+    "ref_id": "T_ignis",
+    "canonical": "ignis",
+    "gloss_en": "fire",
+    "gloss_fr": "feu",
+    "forms": {
+      "latin": [
+        "ignis",
+        "ignem",
+        "igni",
+        "super ignem",
+        "ad ignem",
+        "ab igne",
+        "ad prunas"
+      ]
+    },
+    "use": "Heating. ad prunas = on coals (gentle). super ignem = on fire (direct).",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "T_pannum": {
+    "ref_id": "T_pannum",
+    "canonical": "pannum",
+    "gloss_en": "cloth",
+    "gloss_fr": "drap/linge",
+    "forms": {
+      "latin": [
+        "pannum",
+        "panno",
+        "pannum subtilissimum"
+      ]
+    },
+    "use": "Filtering (cola per pannum). Also for wrapping poultices.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "T_vas": {
+    "ref_id": "T_vas",
+    "canonical": "vas",
+    "gloss_en": "vessel/container",
+    "gloss_fr": "vase/recipient",
+    "forms": {
+      "latin": [
+        "vas",
+        "vase",
+        "vasis",
+        "vasculo"
+      ]
+    },
+    "use": "Container for storage. vas stagnatum = tin-plated vessel.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "T_catinum": {
+    "ref_id": "T_catinum",
+    "canonical": "catinum",
+    "gloss_en": "bowl/basin",
+    "gloss_fr": "bassin",
+    "forms": {
+      "latin": [
+        "catinum",
+        "catino"
+      ]
+    },
+    "use": "Wide bowl for mixing/melting at sun.",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "T_cribrum": {
+    "ref_id": "T_cribrum",
+    "canonical": "cribrum",
+    "gloss_en": "sieve",
+    "gloss_fr": "tamis/crible",
+    "forms": {
+      "latin": [
+        "cribrum",
+        "cribro"
+      ]
+    },
+    "use": "Sieving powders.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "T_marmor": {
+    "ref_id": "T_marmor",
+    "canonical": "marmor",
+    "gloss_en": "marble slab",
+    "gloss_fr": "marbre",
+    "forms": {
+      "latin": [
+        "marmor",
+        "marmore",
+        "super marmore"
+      ]
+    },
+    "use": "Surface for kneading pastes and testing consistency.",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "T_spatula": {
+    "ref_id": "T_spatula",
+    "canonical": "spatula",
+    "gloss_en": "spatula",
+    "gloss_fr": "spatule",
+    "forms": {
+      "latin": [
+        "spatula",
+        "cum spatula"
+      ]
+    },
+    "use": "Stirring while cooking.",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "T_sol": {
+    "ref_id": "T_sol",
+    "canonical": "sol",
+    "gloss_en": "sun",
+    "gloss_fr": "soleil",
+    "forms": {
+      "latin": [
+        "sol",
+        "solem",
+        "soli",
+        "ad solem"
+      ]
+    },
+    "use": "Drying or warming. ad solem = in the sun. ad umbram = in the shade.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "T_balneum": {
+    "canonical": "balneum",
+    "gloss_en": "bath/bathing facility",
+    "gloss_fr": "bain/etablissement thermal",
+    "forms": {
+      "latin": [
+        "balneum",
+        "balnei",
+        "balneo",
+        "balnea",
+        "balneis",
+        "balneas",
+        "balneorum",
+        "baln",
+        "balneum"
+      ]
+    },
+    "source": "De Balneis Puteolanis"
+  },
+  "T_sudatorium": {
+    "canonical": "sudatorium",
+    "gloss_en": "sweat bath/steam room",
+    "gloss_fr": "etuve/sudatorium",
+    "forms": {
+      "latin": [
+        "sudatorium",
+        "sudatorii",
+        "sudatorio",
+        "sudatoria",
+        "sudatoriis",
+        "fudatoria",
+        "fudatorii"
+      ]
+    },
+    "source": "De Balneis Puteolanis"
+  },
+  "T_fons": {
+    "canonical": "fons",
+    "gloss_en": "spring/fountain",
+    "gloss_fr": "source/fontaine",
+    "forms": {
+      "latin": [
+        "fons",
+        "fontis",
+        "fonte",
+        "fontem",
+        "fontes",
+        "fontium"
+      ]
+    },
+    "source": "De Balneis Puteolanis"
+  },
+  "T_lavacrum": {
+    "canonical": "lavacrum",
+    "gloss_en": "bath/wash basin",
+    "gloss_fr": "lavoir/bassin",
+    "forms": {
+      "latin": [
+        "lavacrum",
+        "lavacri",
+        "lavacro",
+        "lavacra"
+      ]
+    },
+    "source": "De Balneis Puteolanis"
+  },
+  "T_lanceta": {
+    "ref_id": "T_lanceta",
+    "canonical": "lanceta",
+    "meaning": "lancet (phlebotomy instrument)",
+    "forms": {
+      "latin": [
+        "lanceta",
+        "lancetam",
+        "lancete",
+        "phlebotomum"
+      ]
+    }
+  },
+  "T_colatorium": {
+    "ref_id": "T_colatorium",
+    "canonical": "colatorium",
+    "meaning": "strainer, filter",
+    "forms": {
+      "latin": [
+        "colatorium",
+        "colatorij",
+        "colatura",
+        "colaturam",
+        "coletur"
+      ]
+    }
+  }
+}

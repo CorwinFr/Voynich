@@ -1,0 +1,149 @@
+{
+  "description": "Recipe structure templates from reference texts, for comparison with VMS decode",
+  "templates": [
+    {
+      "name": "Antidotarium Nicolai format",
+      "source": "data/raw_corpus_9a/antidotarium_nicolai_1917.txt",
+      "source_ref": "van den Berg 1917 edition",
+      "structure": "Recipe [INGREDIENT_LIST] ana [DOSAGE]. [SINGLE_INSTRUCTION].",
+      "pattern": [
+        "VERB:recipe",
+        "INGR",
+        "INGR",
+        "INGR",
+        "...",
+        "DOSE:ana Z.ii",
+        "VERB:terantur",
+        "PREP:cum",
+        "INGR:melle",
+        "RESULT:fiat electuarium"
+      ],
+      "characteristics": {
+        "n_recipes": 137,
+        "avg_ingredients_per_recipe": "8-15",
+        "verb_to_ingredient_ratio": "1:30",
+        "ingredient_format": "pure list, no verbs between",
+        "dosage_position": "at END of ingredient list",
+        "instruction_count": "1-2 per recipe (at very end)",
+        "organization": "alphabetical by recipe name"
+      },
+      "example_latin": "Recipe aloem epaticam, mirram, crocus, xilobalsami, ana drachmam unam; masticis, rose, spice, seminis apii, ana scrupulos duos. Terantur et cum melle rosato dispensentur.",
+      "match_vms": "POOR - VMS alternates verb-ingredient, AN lists ingredients in block"
+    },
+    {
+      "name": "Circa Instans format (monograph)",
+      "source": "BruteForce/Plants/Corpus_Pharmaceutique/sources_brutes/circa_instans_full_text.txt",
+      "source_ref": "Dorveaux 1913 edition (Old French)",
+      "structure": "[PLANT_NAME] est [QUALITY1] et [QUALITY2]. [PROPERTIES]. [USAGE_RECIPES].",
+      "pattern": [
+        "NOUN:plant",
+        "COPULA:est",
+        "QUALITY:calidum/frigidum",
+        "DEGREE:in N gradu",
+        "CONJ:et",
+        "QUALITY:siccum/humidum",
+        "DEGREE:in N gradu",
+        ".",
+        "PROPERTY:valet contra...",
+        ".",
+        "VERB:recipe/prenez",
+        "INGR",
+        "VERB:coque",
+        "PREP:cum",
+        "INGR",
+        "."
+      ],
+      "characteristics": {
+        "n_entries": "~270 simples",
+        "format": "monograph per plant",
+        "verb_to_ingredient_ratio": "1:3-5",
+        "galenic_formula": "ALWAYS present, first sentence",
+        "usage_recipes": "1-5 short recipes per plant",
+        "organization": "roughly alphabetical"
+      },
+      "example_latin": "Absinthium est calidum in primo gradu et siccum in eodem. Valet contra dolorem stomachi. Recipe succum absinthii et da cum vino.",
+      "example_old_french": "Aluisne est chauz el permer degre et ses el segont. Le jus vaut contre dolor del ventre. Prenez le jus et le donez ovec vin.",
+      "match_vms": "BEST MATCH for herbal section - 1 plant per page, descriptions then usage"
+    },
+    {
+      "name": "Grabadin / Liber Servitoris format",
+      "source": "Reference (no full text in repo)",
+      "source_ref": "Al-Zahrawi, Latin translations 12th century",
+      "structure": "Accipe [INGR], [VERB] [TOOL], [VERB], [VERB], [RESULT].",
+      "pattern": [
+        "VERB:accipe",
+        "INGR",
+        "CONJ:et",
+        "INGR",
+        "CONJ:et",
+        "VERB:liquefac",
+        "PREP:super",
+        "TOOL:ignem lentum",
+        "CONJ:et",
+        "VERB:misce",
+        "ADV:bene",
+        "CONJ:et",
+        "VERB:cola",
+        "PREP:per",
+        "TOOL:pannum",
+        "CONJ:et",
+        "VERB:pone",
+        "PREP:in",
+        "CONTAINER:vase"
+      ],
+      "characteristics": {
+        "format": "step-by-step procedures",
+        "verb_to_ingredient_ratio": "1:1-2 (very verb-heavy)",
+        "organization": "by preparation type (oils, ointments, syrups, electuaries, pills)",
+        "tools_mentioned": "mortar, fire, cloth, vessel"
+      },
+      "example_latin": "Accipe oleum rosaceum et ceram albam et liquefac super ignem lentum et misce bene et cola per pannum et pone in vase.",
+      "match_vms": "POSSIBLE MATCH for balnea/pharma sections (-edy register)"
+    },
+    {
+      "name": "Tacuinum Sanitatis format",
+      "source": "Reference (no full text in repo)",
+      "source_ref": "Ibn Butlan, Latin translation 13th century",
+      "structure": "[ITEM]. Natura: [QUALITY]. Optimum: [BEST_TYPE]. Iuvamentum: [BENEFIT]. Nocumentum: [HARM]. Remotio nocumenti: [REMEDY].",
+      "pattern": [
+        "NOUN:item",
+        "LABEL:Natura",
+        "QUALITY",
+        "LABEL:Optimum",
+        "DESCRIPTOR",
+        "LABEL:Iuvamentum",
+        "BENEFIT",
+        "LABEL:Nocumentum",
+        "HARM",
+        "LABEL:Remotio",
+        "REMEDY"
+      ],
+      "characteristics": {
+        "format": "standardized 6-field entries",
+        "very_structured": true,
+        "illustrated": true,
+        "organization": "by category (plants, animals, activities, states)"
+      },
+      "match_vms": "POSSIBLE for astro/cosmo sections (structured, illustrated, calendar-linked)"
+    }
+  ],
+  "vms_observed_structure": {
+    "herbal_section": {
+      "folios": "f1r-f57r, f85r-f102v",
+      "suffix_register": "-ol, -or dominant",
+      "structure_observed": "[gallows_prefix] [description_words] [chol.daiin on 31/148 pages] [more_words] [word-am = sentence end]",
+      "verb_to_content_ratio": "~1:10-13 (between AN and CI)",
+      "organization": "1 plant per page (recto+verso = same plant)"
+    },
+    "balnea_section": {
+      "folios": "f75r-f84v",
+      "suffix_register": "-edy, -eedy dominant",
+      "structure_observed": "Long chains of -edy words (lists/procedures)"
+    },
+    "pharma_section": {
+      "folios": "f103r-f116r",
+      "suffix_register": "-edy, -ain dominant",
+      "structure_observed": "Alternating ingredient-verb pattern (NOT pure list like AN)"
+    }
+  }
+}

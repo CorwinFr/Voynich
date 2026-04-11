@@ -1,0 +1,684 @@
+{
+  "_meta": {
+    "description": "Aurea Alexandrina - Recipe #1 of Antidotarium Nicolai. PRIMARY CRIB for VMS f103r.",
+    "source": "van den Berg 1917 edition, editio princeps 1471 (L1)",
+    "note": "68 ingredients, largest recipe in AN. Premium crib for VMS folio f103r.",
+    "language": "latin",
+    "period": "12th-13th century, Salerno",
+    "format": "AN (ingredient list + dosage)",
+    "count": 1,
+    "n_tokens": 105,
+    "n_with_ref": 84,
+    "token_types": {
+      "VERB": 1,
+      "INGR": 78,
+      "DOSE": 7,
+      "QTY": 4,
+      "CONJ": 3,
+      "GRAM": 3,
+      "PART": 6,
+      "PREP": 1,
+      "UNIT": 2
+    },
+    "version": "2026-04-11",
+    "builder": "build_S03_AUREA.py",
+    "ref_rate": 80.0
+  },
+  "entries": [
+    {
+      "id": "AUREA_001",
+      "name": "Aurea Alexandrina",
+      "source": {
+        "text": "Antidotarium Nicolai",
+        "edition": "van den Berg 1917, pp.5-7",
+        "language": "latin"
+      },
+      "type": "electuarium",
+      "category": "compound_recipe",
+      "raw_text": "Recipe asari carpobalsami iusquiami an .z.ii. et .S. gariofilorum opii mirre ciperi an .z.ij. balsami cinamomi folii zedoare zinziberis costi coralli casie lignee euforbii dragaganti turis meu storacis calamite saliunce cardamomi siselei napei saxifragie aneti anisi an .z.i. ligni aloes reubarbari alipte castorei spice galange opoponacis anacardi masticis sulfuris vivi pionie yringi rose thimi acori pulegii aristologie longe gentiane corticis mandragore camedreos fu baccarum lauri amei dauci mac",
+      "tokens": [
+        {
+          "pos": 1,
+          "raw": "Recipe",
+          "type": "VERB",
+          "ref": "V_recipe"
+        },
+        {
+          "pos": 2,
+          "raw": "asari",
+          "type": "INGR",
+          "ref": "I_asarum"
+        },
+        {
+          "pos": 3,
+          "raw": "carpobalsami",
+          "type": "INGR",
+          "ref": "I_carpobalsamum"
+        },
+        {
+          "pos": 4,
+          "raw": "iusquiami",
+          "type": "INGR",
+          "ref": "I_iusquiamus"
+        },
+        {
+          "pos": 5,
+          "raw": "an",
+          "type": "DOSE",
+          "ref": "D_ana"
+        },
+        {
+          "pos": 6,
+          "raw": "ii",
+          "type": "QTY",
+          "value": "ii"
+        },
+        {
+          "pos": 7,
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "pos": 8,
+          "raw": "gariofilorum",
+          "type": "INGR",
+          "ref": "I_gariofilum"
+        },
+        {
+          "pos": 9,
+          "raw": "opii",
+          "type": "INGR",
+          "ref": "I_opium"
+        },
+        {
+          "pos": 10,
+          "raw": "mirre",
+          "type": "INGR",
+          "ref": "I_myrrha"
+        },
+        {
+          "pos": 11,
+          "raw": "ciperi",
+          "type": "INGR",
+          "ref": "I_ciperus"
+        },
+        {
+          "pos": 12,
+          "raw": "an",
+          "type": "DOSE",
+          "ref": "D_ana"
+        },
+        {
+          "pos": 13,
+          "raw": "ij",
+          "type": "GRAM"
+        },
+        {
+          "pos": 14,
+          "raw": "balsami",
+          "type": "INGR",
+          "ref": "I_balsamum"
+        },
+        {
+          "pos": 15,
+          "raw": "cinamomi",
+          "type": "INGR",
+          "ref": "I_cinnamomum"
+        },
+        {
+          "pos": 16,
+          "raw": "folii",
+          "type": "PART",
+          "ref": "P_folium"
+        },
+        {
+          "pos": 17,
+          "raw": "zedoare",
+          "type": "INGR",
+          "ref": "I_zedoaria"
+        },
+        {
+          "pos": 18,
+          "raw": "zinziberis",
+          "type": "INGR",
+          "ref": "I_zingiber"
+        },
+        {
+          "pos": 19,
+          "raw": "costi",
+          "type": "INGR",
+          "ref": "I_costus"
+        },
+        {
+          "pos": 20,
+          "raw": "coralli",
+          "type": "INGR",
+          "ref": "I_corallium"
+        },
+        {
+          "pos": 21,
+          "raw": "casie",
+          "type": "INGR",
+          "ref": "I_casia_lignea"
+        },
+        {
+          "pos": 22,
+          "raw": "lignee",
+          "type": "INGR"
+        },
+        {
+          "pos": 23,
+          "raw": "euforbii",
+          "type": "INGR",
+          "ref": "I_euphorbium"
+        },
+        {
+          "pos": 24,
+          "raw": "dragaganti",
+          "type": "INGR",
+          "ref": "I_dragagantum"
+        },
+        {
+          "pos": 25,
+          "raw": "turis",
+          "type": "INGR",
+          "ref": "I_thus"
+        },
+        {
+          "pos": 26,
+          "raw": "meu",
+          "type": "INGR",
+          "ref": "I_meu"
+        },
+        {
+          "pos": 27,
+          "raw": "storacis",
+          "type": "INGR",
+          "ref": "I_storacis"
+        },
+        {
+          "pos": 28,
+          "raw": "calamite",
+          "type": "INGR",
+          "ref": "I_calaminthum"
+        },
+        {
+          "pos": 29,
+          "raw": "saliunce",
+          "type": "INGR",
+          "ref": "I_salia_celtica"
+        },
+        {
+          "pos": 30,
+          "raw": "cardamomi",
+          "type": "INGR",
+          "ref": "I_cardamomum"
+        },
+        {
+          "pos": 31,
+          "raw": "siselei",
+          "type": "INGR",
+          "ref": "I_seselium"
+        },
+        {
+          "pos": 32,
+          "raw": "napei",
+          "type": "INGR",
+          "ref": "I_napellus"
+        },
+        {
+          "pos": 33,
+          "raw": "saxifragie",
+          "type": "INGR",
+          "ref": "I_saxifragia"
+        },
+        {
+          "pos": 34,
+          "raw": "aneti",
+          "type": "INGR",
+          "ref": "I_anethum"
+        },
+        {
+          "pos": 35,
+          "raw": "anisi",
+          "type": "INGR",
+          "ref": "I_anisum"
+        },
+        {
+          "pos": 36,
+          "raw": "an",
+          "type": "DOSE",
+          "ref": "D_ana"
+        },
+        {
+          "pos": 37,
+          "raw": "ligni",
+          "type": "PART",
+          "ref": "P_lignum"
+        },
+        {
+          "pos": 38,
+          "raw": "aloes",
+          "type": "INGR",
+          "ref": "I_aloe"
+        },
+        {
+          "pos": 39,
+          "raw": "reubarbari",
+          "type": "INGR",
+          "ref": "I_reubarbarum"
+        },
+        {
+          "pos": 40,
+          "raw": "alipte",
+          "type": "INGR",
+          "ref": "I_aliptae"
+        },
+        {
+          "pos": 41,
+          "raw": "castorei",
+          "type": "INGR",
+          "ref": "I_castoreum"
+        },
+        {
+          "pos": 42,
+          "raw": "spice",
+          "type": "INGR",
+          "ref": "I_spica"
+        },
+        {
+          "pos": 43,
+          "raw": "galange",
+          "type": "INGR",
+          "ref": "I_galanga"
+        },
+        {
+          "pos": 44,
+          "raw": "opoponacis",
+          "type": "INGR",
+          "ref": "I_opopanax"
+        },
+        {
+          "pos": 45,
+          "raw": "anacardi",
+          "type": "INGR",
+          "ref": "I_anacardium"
+        },
+        {
+          "pos": 46,
+          "raw": "masticis",
+          "type": "INGR",
+          "ref": "I_mastix"
+        },
+        {
+          "pos": 47,
+          "raw": "sulfuris",
+          "type": "INGR",
+          "ref": "I_sulphur"
+        },
+        {
+          "pos": 48,
+          "raw": "vivi",
+          "type": "QTY",
+          "value": "vivi"
+        },
+        {
+          "pos": 49,
+          "raw": "pionie",
+          "type": "INGR",
+          "ref": "I_pionia"
+        },
+        {
+          "pos": 50,
+          "raw": "yringi",
+          "type": "INGR",
+          "ref": "I_eryngium"
+        },
+        {
+          "pos": 51,
+          "raw": "rose",
+          "type": "INGR",
+          "ref": "I_rosa"
+        },
+        {
+          "pos": 52,
+          "raw": "thimi",
+          "type": "INGR",
+          "ref": "I_thymus"
+        },
+        {
+          "pos": 53,
+          "raw": "acori",
+          "type": "INGR",
+          "ref": "I_acorus"
+        },
+        {
+          "pos": 54,
+          "raw": "pulegii",
+          "type": "INGR",
+          "ref": "I_pulegium"
+        },
+        {
+          "pos": 55,
+          "raw": "aristologie",
+          "type": "INGR",
+          "ref": "I_aristologia"
+        },
+        {
+          "pos": 56,
+          "raw": "longe",
+          "type": "INGR"
+        },
+        {
+          "pos": 57,
+          "raw": "gentiane",
+          "type": "INGR",
+          "ref": "I_gentiana"
+        },
+        {
+          "pos": 58,
+          "raw": "corticis",
+          "type": "PART",
+          "ref": "P_cortex"
+        },
+        {
+          "pos": 59,
+          "raw": "mandragore",
+          "type": "INGR",
+          "ref": "I_mandragora"
+        },
+        {
+          "pos": 60,
+          "raw": "camedreos",
+          "type": "INGR",
+          "ref": "I_camedreos"
+        },
+        {
+          "pos": 61,
+          "raw": "fu",
+          "type": "GRAM"
+        },
+        {
+          "pos": 62,
+          "raw": "baccarum",
+          "type": "PART",
+          "ref": "P_bacca"
+        },
+        {
+          "pos": 63,
+          "raw": "lauri",
+          "type": "INGR",
+          "ref": "I_laurus"
+        },
+        {
+          "pos": 64,
+          "raw": "amei",
+          "type": "INGR",
+          "ref": "I_ammi"
+        },
+        {
+          "pos": 65,
+          "raw": "dauci",
+          "type": "INGR",
+          "ref": "I_daucus"
+        },
+        {
+          "pos": 66,
+          "raw": "macro",
+          "type": "INGR",
+          "ref": "I_macis"
+        },
+        {
+          "pos": 67,
+          "raw": "piperis",
+          "type": "INGR",
+          "ref": "I_piper_nigrum"
+        },
+        {
+          "pos": 68,
+          "raw": "leucopiperis",
+          "type": "INGR",
+          "ref": "I_piper_album"
+        },
+        {
+          "pos": 69,
+          "raw": "xilobalsami",
+          "type": "INGR",
+          "ref": "I_xylobalsamum"
+        },
+        {
+          "pos": 70,
+          "raw": "petrosellini",
+          "type": "INGR",
+          "ref": "I_petroselinum"
+        },
+        {
+          "pos": 71,
+          "raw": "seminis",
+          "type": "PART",
+          "ref": "P_semen"
+        },
+        {
+          "pos": 72,
+          "raw": "levistici",
+          "type": "INGR",
+          "ref": "I_levisticum"
+        },
+        {
+          "pos": 73,
+          "raw": "rute",
+          "type": "INGR",
+          "ref": "I_ruta"
+        },
+        {
+          "pos": 74,
+          "raw": "seminis",
+          "type": "PART",
+          "ref": "P_semen"
+        },
+        {
+          "pos": 75,
+          "raw": "sinoni",
+          "type": "INGR",
+          "ref": "I_sinon"
+        },
+        {
+          "pos": 76,
+          "raw": "an",
+          "type": "DOSE",
+          "ref": "D_ana"
+        },
+        {
+          "pos": 77,
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "pos": 78,
+          "raw": "auri",
+          "type": "INGR",
+          "ref": "I_aurum"
+        },
+        {
+          "pos": 79,
+          "raw": "purificati",
+          "type": "INGR"
+        },
+        {
+          "pos": 80,
+          "raw": "argenti",
+          "type": "INGR",
+          "ref": "I_argentum"
+        },
+        {
+          "pos": 81,
+          "raw": "meri",
+          "type": "INGR"
+        },
+        {
+          "pos": 82,
+          "raw": "albarum",
+          "type": "INGR"
+        },
+        {
+          "pos": 83,
+          "raw": "margaritarum",
+          "type": "INGR",
+          "ref": "I_margarita"
+        },
+        {
+          "pos": 84,
+          "raw": "blacte",
+          "type": "INGR",
+          "ref": "I_blatta_byzantia"
+        },
+        {
+          "pos": 85,
+          "raw": "bizantie",
+          "type": "INGR",
+          "ref": "I_blatta_byzantia"
+        },
+        {
+          "pos": 86,
+          "raw": "ossis",
+          "type": "INGR",
+          "ref": "I_os_cervi"
+        },
+        {
+          "pos": 87,
+          "raw": "de",
+          "type": "PREP"
+        },
+        {
+          "pos": 88,
+          "raw": "corde",
+          "type": "INGR"
+        },
+        {
+          "pos": 89,
+          "raw": "cervi",
+          "type": "INGR"
+        },
+        {
+          "pos": 90,
+          "raw": "an",
+          "type": "DOSE",
+          "ref": "D_ana"
+        },
+        {
+          "pos": 91,
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "pos": 92,
+          "raw": "grana",
+          "type": "UNIT",
+          "ref": "U_granum"
+        },
+        {
+          "pos": 93,
+          "raw": ".xiiii.",
+          "type": "QTY",
+          "value": "xiiii"
+        },
+        {
+          "pos": 94,
+          "raw": "eboris",
+          "type": "INGR",
+          "ref": "I_ebur"
+        },
+        {
+          "pos": 95,
+          "raw": "limature",
+          "type": "INGR"
+        },
+        {
+          "pos": 96,
+          "raw": "calami",
+          "type": "INGR",
+          "ref": "I_calamus_aromaticus"
+        },
+        {
+          "pos": 97,
+          "raw": "aromatici",
+          "type": "INGR",
+          "ref": "I_calamus_aromaticus"
+        },
+        {
+          "pos": 98,
+          "raw": "piretri",
+          "type": "INGR",
+          "ref": "I_pirethrum"
+        },
+        {
+          "pos": 99,
+          "raw": "an",
+          "type": "DOSE",
+          "ref": "D_ana"
+        },
+        {
+          "pos": 100,
+          "raw": "grana",
+          "type": "UNIT",
+          "ref": "U_granum"
+        },
+        {
+          "pos": 101,
+          "raw": ".viiii.",
+          "type": "QTY",
+          "value": "viiii"
+        },
+        {
+          "pos": 102,
+          "raw": "mellis",
+          "type": "INGR",
+          "ref": "I_mel"
+        },
+        {
+          "raw": "quod",
+          "type": "CONJ"
+        },
+        {
+          "pos": 104,
+          "raw": "sufficit",
+          "type": "DOSE",
+          "note": "quantum sufficit"
+        },
+        {
+          "pos": 105,
+          "raw": "ADMINISTRATION",
+          "type": "INGR"
+        }
+      ],
+      "summary": {
+        "n_tokens": 105,
+        "n_with_ref": 84,
+        "type_distribution": {
+          "VERB": 1,
+          "INGR": 78,
+          "DOSE": 7,
+          "QTY": 4,
+          "CONJ": 3,
+          "GRAM": 3,
+          "PART": 6,
+          "PREP": 1,
+          "UNIT": 2
+        },
+        "ingredients_with_ref": 69,
+        "ingredients_no_ref": 9,
+        "ingr_no_ref_list": [
+          "lignee",
+          "longe",
+          "purificati",
+          "meri",
+          "albarum",
+          "corde",
+          "cervi",
+          "limature",
+          "ADMINISTRATION"
+        ]
+      }
+    }
+  ]
+}

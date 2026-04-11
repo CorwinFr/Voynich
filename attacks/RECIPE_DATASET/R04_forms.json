@@ -1,0 +1,449 @@
+{
+  "_meta": {
+    "description": "Galenic pharmaceutical forms",
+    "period": "12th-15th century",
+    "version": "2026-04-11",
+    "count": 21
+  },
+  "F_electuarium": {
+    "ref_id": "F_electuarium",
+    "canonical": "electuarium",
+    "gloss_en": "electuary (paste)",
+    "gloss_fr": "electuaire (pate a avaler)",
+    "forms": {
+      "latin": [
+        "electuarium",
+        "electuarii",
+        "electuario"
+      ]
+    },
+    "description": "Thick paste of powders + honey/sugar. Taken orally, ad modum castanee (chestnut-sized).",
+    "typical_base": "mel (honey)",
+    "administration": "oral",
+    "frequency": {
+      "AN": 50
+    },
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_unguentum": {
+    "ref_id": "F_unguentum",
+    "canonical": "unguentum",
+    "gloss_en": "ointment",
+    "gloss_fr": "onguent",
+    "forms": {
+      "latin": [
+        "unguentum",
+        "unguenti",
+        "unguento"
+      ]
+    },
+    "description": "Fat-based topical preparation.",
+    "typical_base": "oleum + cera (oil + wax)",
+    "administration": "topical",
+    "frequency": {
+      "AN": 15
+    },
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "F_emplastrum": {
+    "ref_id": "F_emplastrum",
+    "canonical": "emplastrum",
+    "gloss_en": "plaster/poultice",
+    "gloss_fr": "emplastre",
+    "forms": {
+      "latin": [
+        "emplastrum",
+        "emplastri",
+        "emplastro"
+      ]
+    },
+    "description": "Solid preparation applied to skin.",
+    "typical_base": "cera + resina",
+    "administration": "topical",
+    "frequency": {
+      "AN": 10
+    },
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_syrupus": {
+    "ref_id": "F_syrupus",
+    "canonical": "syrupus",
+    "gloss_en": "syrup",
+    "gloss_fr": "sirop",
+    "forms": {
+      "latin": [
+        "syrupus",
+        "syrupi",
+        "syrupo",
+        "sirupus"
+      ]
+    },
+    "description": "Sugar/honey-based liquid. Boiled then filtered.",
+    "typical_base": "zucharium + aqua",
+    "administration": "oral",
+    "frequency": {
+      "AN": 15
+    },
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_pilulae": {
+    "ref_id": "F_pilulae",
+    "canonical": "pilulae",
+    "gloss_en": "pills",
+    "gloss_fr": "pilules",
+    "forms": {
+      "latin": [
+        "pilulae",
+        "pilulas",
+        "pilularum"
+      ]
+    },
+    "description": "Small balls of paste. Easier dosing than electuary.",
+    "typical_base": "pulvis + liquid",
+    "administration": "oral",
+    "frequency": {
+      "AN": 10
+    },
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "F_trocisci": {
+    "ref_id": "F_trocisci",
+    "canonical": "trocisci",
+    "gloss_en": "lozenges/troches",
+    "gloss_fr": "trochisques/pastilles",
+    "forms": {
+      "latin": [
+        "trocisci",
+        "trociscus",
+        "trociscos"
+      ]
+    },
+    "description": "Small dried discs. Dissolved in liquid before use.",
+    "typical_base": "pulvis + aqua rosarum",
+    "administration": "oral/topical",
+    "frequency": {
+      "AN": 10
+    },
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "F_pulvis": {
+    "ref_id": "F_pulvis",
+    "canonical": "pulvis",
+    "gloss_en": "powder",
+    "gloss_fr": "poudre",
+    "forms": {
+      "latin": [
+        "pulvis",
+        "pulverem",
+        "pulveris",
+        "pulveres"
+      ]
+    },
+    "description": "Finely ground mixture. Base for many other forms.",
+    "typical_base": "ground ingredients",
+    "administration": "oral/topical",
+    "frequency": {
+      "AN": 20
+    },
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_oleum": {
+    "ref_id": "F_oleum",
+    "canonical": "oleum",
+    "gloss_en": "medicated oil",
+    "gloss_fr": "huile medicinale",
+    "forms": {
+      "latin": [
+        "oleum",
+        "olei",
+        "oleo"
+      ]
+    },
+    "description": "Oil infused with herbs/substances.",
+    "typical_base": "oleum olivarum",
+    "administration": "topical",
+    "frequency": {
+      "AN": 8
+    },
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_collirium": {
+    "ref_id": "F_collirium",
+    "canonical": "collirium",
+    "gloss_en": "eye-wash/eye-drop",
+    "gloss_fr": "collyre",
+    "forms": {
+      "latin": [
+        "collirium",
+        "collirii",
+        "collirio",
+        "colliria",
+        "collirij",
+        "colliriis"
+      ]
+    },
+    "description": "Liquid preparation for eyes.",
+    "typical_base": "aqua + dissolved ingredients",
+    "administration": "ophthalmic",
+    "frequency": {
+      "AN": 5
+    },
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_suppositoium": {
+    "ref_id": "F_suppositorium",
+    "canonical": "suppositorium",
+    "gloss_en": "suppository",
+    "gloss_fr": "suppositoire",
+    "forms": {
+      "latin": [
+        "suppositorium",
+        "suppositorii",
+        "suppositoria"
+      ]
+    },
+    "description": "Solid preparation for rectal insertion.",
+    "typical_base": "cera/mel + active ingredients",
+    "administration": "rectal",
+    "frequency": {
+      "AN": 3
+    },
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_pessarium": {
+    "ref_id": "F_pessarium",
+    "canonical": "pessarium",
+    "gloss_en": "pessary",
+    "gloss_fr": "pessaire",
+    "forms": {
+      "latin": [
+        "pessarium",
+        "pessarii",
+        "pessaria"
+      ]
+    },
+    "description": "Vaginal preparation.",
+    "typical_base": "lana (wool) + active ingredients",
+    "administration": "vaginal",
+    "frequency": {
+      "AN": 3
+    },
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_clyster": {
+    "ref_id": "F_clyster",
+    "canonical": "clyster",
+    "gloss_en": "enema",
+    "gloss_fr": "clystere/lavement",
+    "forms": {
+      "latin": [
+        "clyster",
+        "clystere",
+        "clysterium"
+      ]
+    },
+    "description": "Liquid injected rectally.",
+    "typical_base": "decoction",
+    "administration": "rectal",
+    "frequency": {
+      "AN": 3
+    },
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "F_cataplasma": {
+    "ref_id": "F_cataplasma",
+    "canonical": "cataplasma",
+    "gloss_en": "cataplasm/hot poultice",
+    "gloss_fr": "cataplasme",
+    "forms": {
+      "latin": [
+        "cataplasma",
+        "cataplasma",
+        "cataplasmate"
+      ]
+    },
+    "description": "Hot moist mass applied to skin.",
+    "typical_base": "herba cocta (cooked herb)",
+    "administration": "topical",
+    "frequency": {
+      "CI": 10
+    },
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "F_fumigium": {
+    "ref_id": "F_fumigium",
+    "canonical": "fumigium",
+    "gloss_en": "fumigation/smoke",
+    "gloss_fr": "fumigation",
+    "forms": {
+      "latin": [
+        "fumigium",
+        "fumigatio",
+        "suffumigatio"
+      ]
+    },
+    "description": "Inhalation of smoke from burning substances.",
+    "typical_base": "resin/herbs burned",
+    "administration": "inhalation",
+    "frequency": {
+      "AN": 3
+    },
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "F_aqua": {
+    "ref_id": "F_aqua",
+    "canonical": "aqua",
+    "gloss_en": "medicated water",
+    "gloss_fr": "eau medicinale",
+    "forms": {
+      "latin": [
+        "aqua",
+        "aquae",
+        "aquam"
+      ]
+    },
+    "description": "Water infused or distilled with active ingredients.",
+    "typical_base": "aqua + herbs",
+    "administration": "oral/topical",
+    "frequency": {
+      "CI": 8
+    },
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "F_trochiscus": {
+    "ref_id": "F_trochiscus",
+    "canonical": "trochiscus",
+    "gloss_en": "troche/lozenge",
+    "gloss_fr": "trochisque/pastille",
+    "forms": {
+      "latin": [
+        "trochisci",
+        "trochiscorum",
+        "trochiscus",
+        "trocisci"
+      ]
+    }
+  },
+  "F_confectio": {
+    "ref_id": "F_confectio",
+    "canonical": "confectio",
+    "gloss_en": "confection/preparation",
+    "gloss_fr": "confection/préparation",
+    "forms": {
+      "latin": [
+        "confectio",
+        "confectionis",
+        "confectione",
+        "confectionem",
+        "confectiones",
+        "onfectio"
+      ]
+    }
+  },
+  "F_suppositorium": {
+    "ref_id": "F_suppositorium",
+    "canonical": "suppositorium",
+    "gloss_en": "suppository",
+    "forms": {
+      "latin": [
+        "suppositoriis",
+        "suppositoriorum",
+        "suppositorium"
+      ]
+    }
+  },
+  "F_ptisana": {
+    "ref_id": "F_ptisana",
+    "canonical": "ptisana",
+    "gloss_en": "tisane/barley water",
+    "forms": {
+      "latin": [
+        "ptisana",
+        "ptisanam",
+        "ptisanae"
+      ]
+    }
+  },
+  "F_decoctio": {
+    "ref_id": "F_decoctio",
+    "canonical": "decoctio",
+    "gloss_en": "decoction",
+    "forms": {
+      "latin": [
+        "decoctio",
+        "decoctionis",
+        "decoctionis"
+      ]
+    }
+  },
+  "F_pillula": {
+    "ref_id": "F_pillula",
+    "canonical": "pillula",
+    "gloss_en": "pill",
+    "forms": {
+      "latin": [
+        "pillule",
+        "pillulae",
+        "pillula",
+        "pillulas",
+        "pillularum",
+        "pillulis"
+      ]
+    }
+  },
+  "F_trociscus": {
+    "ref_id": "F_trociscus",
+    "canonical": "trociscus",
+    "meaning": "troche, lozenge",
+    "forms": {
+      "latin": [
+        "trociscus",
+        "trociscorum",
+        "trociscos",
+        "trociscis",
+        "trocisci"
+      ]
+    }
+  }
+}

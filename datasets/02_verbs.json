@@ -1,0 +1,157 @@
+{
+  "description": "Pharmaceutical verbs: confirmed (logogram) + decoded (K&A) + expected (reference texts, not yet found in VMS)",
+  "reference_texts": {
+    "AN": "Antidotarium Nicolai (van den Berg 1917) - data/raw_corpus_9a/antidotarium_nicolai_1917.txt",
+    "CI": "Circa Instans (Platearius/Dorveaux 1913) - BruteForce/Plants/Corpus_Pharmaceutique/sources_brutes/circa_instans_full_text.txt",
+    "Grabadin": "Liber Servitoris (Al-Zahrawi, Latin translation)"
+  },
+  "confidence_scale": {
+    "CONFIRMED": "logogram table, bifolio cross-validated",
+    "PROBABLE": "K&A decode + matches corpus verb",
+    "SPECULATIVE": "K&A decode, weak corpus evidence",
+    "REFERENCE": "Expected from reference texts, NOT YET found in VMS"
+  },
+  "count": 14,
+  "entries": [
+    {
+      "eva_form": "r",
+      "latin": "recipe",
+      "gloss": "take/prepare",
+      "detection": "logogram",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 175,
+      "reference": "Standard pharma abbreviation Rp. Universal in AN/CI/Grabadin"
+    },
+    {
+      "eva_form": "m",
+      "latin": "misce",
+      "gloss": "mix/blend",
+      "detection": "logogram",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 15,
+      "reference": "Standard pharma M. In AN 72/137 recipes"
+    },
+    {
+      "eva_form": "?",
+      "latin": "coque",
+      "gloss": "cook/boil",
+      "detection": "ka_decode",
+      "confidence": "PROBABLE",
+      "source": "ka_pipeline_v12",
+      "vms_freq_est": 50,
+      "reference": "AN: 45/137 recipes. CI: in most plant entries. Grabadin: core verb"
+    },
+    {
+      "eva_form": "?",
+      "latin": "tere",
+      "gloss": "grind/crush",
+      "detection": "ka_decode",
+      "confidence": "PROBABLE",
+      "source": "ka_pipeline_v12",
+      "vms_freq_est": 30,
+      "reference": "AN: 89/137 recipes (terantur). CI: preparation step"
+    },
+    {
+      "eva_form": "?",
+      "latin": "cola",
+      "gloss": "strain/filter",
+      "detection": "ka_decode",
+      "confidence": "PROBABLE",
+      "source": "ka_pipeline_v12",
+      "vms_freq_est": 20,
+      "reference": "AN: 31/137. Grabadin: per pannum"
+    },
+    {
+      "eva_form": "?",
+      "latin": "solve",
+      "gloss": "dissolve",
+      "detection": "ka_decode",
+      "confidence": "SPECULATIVE",
+      "source": "ka_pipeline_v12",
+      "vms_freq_est": 15,
+      "reference": "AN: solve in aqua/vino"
+    },
+    {
+      "eva_form": "?",
+      "latin": "funde",
+      "gloss": "pour",
+      "detection": "ka_decode",
+      "confidence": "SPECULATIVE",
+      "source": "ka_pipeline_v12",
+      "vms_freq_est": 10,
+      "reference": "Grabadin: funde in vas"
+    },
+    {
+      "eva_form": "?",
+      "latin": "pone",
+      "gloss": "place/put",
+      "detection": "ka_decode",
+      "confidence": "SPECULATIVE",
+      "source": "ka_pipeline_v12",
+      "vms_freq_est": 10,
+      "reference": "AN: pone in vase"
+    },
+    {
+      "eva_form": "?",
+      "latin": "liquefac",
+      "gloss": "melt/liquefy",
+      "detection": "NOT_FOUND",
+      "confidence": "REFERENCE",
+      "source": "AN/Grabadin expected verb",
+      "vms_freq_est": 0,
+      "reference": "Grabadin: liquefac super ignem lentum"
+    },
+    {
+      "eva_form": "?",
+      "latin": "distilla",
+      "gloss": "distill",
+      "detection": "NOT_FOUND",
+      "confidence": "REFERENCE",
+      "source": "AN/Grabadin expected verb",
+      "vms_freq_est": 0,
+      "reference": "Late medieval technique"
+    },
+    {
+      "eva_form": "?",
+      "latin": "adde",
+      "gloss": "add",
+      "detection": "NOT_FOUND",
+      "confidence": "REFERENCE",
+      "source": "AN expected verb",
+      "vms_freq_est": 0,
+      "reference": "AN: adde X ad Y"
+    },
+    {
+      "eva_form": "?",
+      "latin": "incorpora",
+      "gloss": "incorporate",
+      "detection": "NOT_FOUND",
+      "confidence": "REFERENCE",
+      "source": "AN expected verb",
+      "vms_freq_est": 0,
+      "reference": "AN: incorpora cum melle"
+    },
+    {
+      "eva_form": "?",
+      "latin": "bullia",
+      "gloss": "boil",
+      "detection": "NOT_FOUND",
+      "confidence": "REFERENCE",
+      "source": "AN expected verb",
+      "vms_freq_est": 0,
+      "reference": "AN: fac bullire"
+    },
+    {
+      "eva_form": "?",
+      "latin": "ablue",
+      "gloss": "wash",
+      "detection": "NOT_FOUND",
+      "confidence": "REFERENCE",
+      "source": "CI expected verb",
+      "vms_freq_est": 0,
+      "reference": "CI: ablue cum aqua"
+    }
+  ]
+}

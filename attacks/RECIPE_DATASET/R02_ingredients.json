@@ -1,0 +1,6912 @@
+{
+  "_meta": {
+    "description": "Medieval pharmaceutical ingredients - normalized",
+    "period": "12th-15th century",
+    "version": "2026-04-11",
+    "note": "Enriched with AN forms. 268 entries total.",
+    "count": 375
+  },
+  "I_amidum": {
+    "ref_id": "I_amidum",
+    "canonical": "Amidum",
+    "gloss_fr": "Amidon",
+    "forms": {
+      "latin": [
+        "Amidum",
+        "amidum"
+      ],
+      "old_french": [
+        "AMIDUM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_amidum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_antimonium": {
+    "ref_id": "I_antimonium",
+    "canonical": "Antimonium",
+    "gloss_fr": "Antimoine",
+    "forms": {
+      "latin": [
+        "Antimonium",
+        "antimonium"
+      ],
+      "old_french": [
+        "ANTIMONIUM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_antimonium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_acacia": {
+    "ref_id": "I_acacia",
+    "canonical": "Acacia",
+    "gloss_fr": "Acacia",
+    "forms": {
+      "latin": [
+        "Acacia",
+        "acacia"
+      ],
+      "old_french": [
+        "ACACIE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_acacia",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_agaricus": {
+    "ref_id": "I_agaricus",
+    "canonical": "Agaricus",
+    "gloss_fr": "Agaric",
+    "forms": {
+      "latin": [
+        "Agaricus",
+        "agaricus"
+      ],
+      "old_french": [
+        "AGARIC"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_agaricus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_allium": {
+    "ref_id": "I_allium",
+    "canonical": "Allium",
+    "gloss_fr": "Ail",
+    "forms": {
+      "latin": [
+        "Allium",
+        "allium"
+      ],
+      "old_french": [
+        "AUZ"
+      ],
+      "regimen": [
+        "allia",
+        "allii"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_allium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_acorus_calamus": {
+    "ref_id": "I_acorus_calamus",
+    "canonical": "Acorus calamus",
+    "gloss_fr": "Acore",
+    "forms": {
+      "latin": [
+        "Acorus calamus",
+        "acorus calamus"
+      ],
+      "old_french": [
+        "ACHORIJS"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_acorus_calamus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_ammoniacum": {
+    "ref_id": "I_ammoniacum",
+    "canonical": "Ammoniacum",
+    "gloss_fr": "Gomme ammoniaque",
+    "forms": {
+      "latin": [
+        "Ammoniacum",
+        "ammoniacum"
+      ],
+      "old_french": [
+        "ARM0NI4C"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_ammoniacum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_anisum": {
+    "ref_id": "I_anisum",
+    "canonical": "Anisum",
+    "gloss_fr": "Anis",
+    "forms": {
+      "latin": [
+        "Anisum",
+        "anisum"
+      ],
+      "old_french": [
+        "ANIS"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_anisum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_absinthium": {
+    "ref_id": "I_absinthium",
+    "canonical": "Absinthium",
+    "gloss_fr": "Absinthe",
+    "forms": {
+      "latin": [
+        "Absinthium",
+        "absinthium"
+      ],
+      "old_french": [
+        "ALUISNE"
+      ],
+      "dalme": [
+        "absinthii",
+        "absinthi"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_absinthium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_anacardium": {
+    "ref_id": "I_anacardium",
+    "canonical": "Anacardium",
+    "gloss_fr": "Anacarde",
+    "forms": {
+      "latin": [
+        "Anacardium",
+        "anacardium"
+      ],
+      "old_french": [
+        "ANACHAR"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_anacardium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_amygdala_amara": {
+    "ref_id": "I_amygdala_amara",
+    "canonical": "Amygdala amara",
+    "gloss_fr": "Amande amere",
+    "forms": {
+      "latin": [
+        "Amygdala amara",
+        "amygdala amara"
+      ],
+      "old_french": [
+        "AMANDES AMERES"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_amygdala_amara",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_aristolochia": {
+    "ref_id": "I_aristolochia",
+    "canonical": "Aristolochia",
+    "gloss_fr": "Aristoloche",
+    "forms": {
+      "latin": [
+        "Aristolochia",
+        "aristolochia"
+      ],
+      "old_french": [
+        "ARISTOLOGE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_aristolochia",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_ambra": {
+    "ref_id": "I_ambra",
+    "canonical": "Ambra",
+    "gloss_fr": "Ambre gris",
+    "forms": {
+      "latin": [
+        "Ambra",
+        "ambra"
+      ],
+      "old_french": [
+        "AMBRE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_ambra",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_artemisia": {
+    "ref_id": "I_artemisia",
+    "canonical": "Artemisia",
+    "gloss_fr": "Armoise",
+    "forms": {
+      "latin": [
+        "Artemisia",
+        "artemisia"
+      ],
+      "old_french": [
+        "ARMOISE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_artemisia",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_acetum": {
+    "ref_id": "I_acetum",
+    "canonical": "Acetum",
+    "gloss_fr": "Vinaigre",
+    "forms": {
+      "latin": [
+        "Acetum",
+        "acetum"
+      ],
+      "old_french": [
+        "AISSIL"
+      ],
+      "regimen": [
+        "aceto",
+        "aceti"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_acetum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_lawsonia/alkanna": {
+    "ref_id": "I_lawsonia/alkanna",
+    "canonical": "Lawsonia/Alkanna",
+    "gloss_fr": "Henne",
+    "forms": {
+      "latin": [
+        "Lawsonia/Alkanna",
+        "lawsonia/alkanna"
+      ],
+      "old_french": [
+        "ALCHANE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_lawsonia/alkanna",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_auripigmentum": {
+    "ref_id": "I_auripigmentum",
+    "canonical": "Auripigmentum",
+    "gloss_fr": "Orpiment",
+    "forms": {
+      "latin": [
+        "Auripigmentum",
+        "auripigmentum"
+      ],
+      "old_french": [
+        "ORPIMENT"
+      ],
+      "regimen": [
+        "auripigmenti"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_auripigmentum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_pastinaca": {
+    "ref_id": "I_pastinaca",
+    "canonical": "Pastinaca",
+    "gloss_fr": "Panais",
+    "forms": {
+      "latin": [
+        "Pastinaca",
+        "pastinaca"
+      ],
+      "old_french": [
+        "BALSE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_pastinaca",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_borax": {
+    "ref_id": "I_borax",
+    "canonical": "Borax",
+    "gloss_fr": "Borax",
+    "forms": {
+      "latin": [
+        "Borax",
+        "borax"
+      ],
+      "old_french": [
+        "BORRAIS"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_borax",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_bolus_armeniacus": {
+    "ref_id": "I_bolus_armeniacus",
+    "canonical": "Bolus armeniacus",
+    "gloss_fr": "Bol d'Armenie",
+    "forms": {
+      "latin": [
+        "Bolus armeniacus",
+        "bolus armeniacus"
+      ],
+      "old_french": [
+        "BOL"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_bolus_armeniacus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_balaustium": {
+    "ref_id": "I_balaustium",
+    "canonical": "Balaustium",
+    "gloss_fr": "Fleur de grenadier",
+    "forms": {
+      "latin": [
+        "Balaustium",
+        "balaustium",
+        "balaustie",
+        "balaustia",
+        "balaustiorum"
+      ],
+      "old_french": [
+        "BALAUSTES"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_balaustium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_borago": {
+    "ref_id": "I_borago",
+    "canonical": "Borago",
+    "gloss_fr": "Bourrache",
+    "forms": {
+      "latin": [
+        "Borago",
+        "borago"
+      ],
+      "old_french": [
+        "BOBRACES"
+      ],
+      "dalme": [
+        "buglosse",
+        "boraginis"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_borago",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_betonica": {
+    "ref_id": "I_betonica",
+    "canonical": "Betonica",
+    "gloss_fr": "Betoine",
+    "forms": {
+      "latin": [
+        "Betonica",
+        "betonica"
+      ],
+      "old_french": [
+        "BIÏOINE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_betonica",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_vernix": {
+    "ref_id": "I_vernix",
+    "canonical": "Vernix",
+    "gloss_fr": "Vernis",
+    "forms": {
+      "latin": [
+        "Vernix",
+        "vernix"
+      ],
+      "old_french": [
+        "VERNIZ"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_vernix",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_acanthus/branca_ursina": {
+    "ref_id": "I_acanthus/branca_ursina",
+    "canonical": "Acanthus/Branca ursina",
+    "gloss_fr": "Acanthe",
+    "forms": {
+      "latin": [
+        "Acanthus/Branca ursina",
+        "acanthus/branca ursina"
+      ],
+      "old_french": [
+        "BRANQUE URSINE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_acanthus/branca_ursina",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_berberis": {
+    "ref_id": "I_berberis",
+    "canonical": "Berberis",
+    "gloss_fr": "Epine-vinette",
+    "forms": {
+      "latin": [
+        "Berberis",
+        "berberis"
+      ],
+      "old_french": [
+        "BERBERIS"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_berberis",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_bistorta": {
+    "ref_id": "I_bistorta",
+    "canonical": "Bistorta",
+    "gloss_fr": "Bistorte",
+    "forms": {
+      "latin": [
+        "Bistorta",
+        "bistorta"
+      ],
+      "old_french": [
+        "BISTORTE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_bistorta",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_bedegar": {
+    "ref_id": "I_bedegar",
+    "canonical": "Bedegar",
+    "gloss_fr": "Bedegar/Eglantier",
+    "forms": {
+      "latin": [
+        "Bedegar",
+        "bedegar"
+      ],
+      "old_french": [
+        "BEDEGAR ^"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_bedegar",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cyclamen": {
+    "ref_id": "I_cyclamen",
+    "canonical": "Cyclamen",
+    "gloss_fr": "Cyclamen",
+    "forms": {
+      "latin": [
+        "Cyclamen",
+        "cyclamen"
+      ],
+      "old_french": [
+        "CYCLAM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cyclamen",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_camphora": {
+    "ref_id": "I_camphora",
+    "canonical": "Camphora",
+    "gloss_fr": "Camphre",
+    "forms": {
+      "latin": [
+        "Camphora",
+        "camphora"
+      ],
+      "old_french": [
+        "CAMPHRE"
+      ],
+      "dalme": [
+        "camphore",
+        "camphorae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_camphora",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_colocynthis": {
+    "ref_id": "I_colocynthis",
+    "canonical": "Colocynthis",
+    "gloss_fr": "Coloquinte",
+    "forms": {
+      "latin": [
+        "Colocynthis",
+        "colocynthis"
+      ],
+      "old_french": [
+        "COLOQUINTE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_colocynthis",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cassia_fistula": {
+    "ref_id": "I_cassia_fistula",
+    "canonical": "Cassia fistula",
+    "gloss_fr": "Casse",
+    "forms": {
+      "latin": [
+        "Cassia fistula",
+        "cassia fistula"
+      ],
+      "old_french": [
+        "CASSIAFFISTLE ^"
+      ],
+      "dalme": [
+        "cassie",
+        "cassia",
+        "cassiae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cassia_fistula",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cuscuta": {
+    "ref_id": "I_cuscuta",
+    "canonical": "Cuscuta",
+    "gloss_fr": "Cuscute",
+    "forms": {
+      "latin": [
+        "Cuscuta",
+        "cuscuta"
+      ],
+      "old_french": [
+        "CUSCUTE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cuscuta",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cardamomum": {
+    "ref_id": "I_cardamomum",
+    "canonical": "Cardamomum",
+    "gloss_fr": "Cardamome",
+    "forms": {
+      "latin": [
+        "Cardamomum",
+        "cardamomum"
+      ],
+      "old_french": [
+        "CARDAMOME ^"
+      ],
+      "dalme": [
+        "cardamomi"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cardamomum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cerusa": {
+    "ref_id": "I_cerusa",
+    "canonical": "Cerusa",
+    "gloss_fr": "Ceruse",
+    "forms": {
+      "latin": [
+        "Cerusa",
+        "cerusa"
+      ],
+      "old_french": [
+        "CERUSE"
+      ],
+      "dalme": [
+        "cerusae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cerusa",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_capparis": {
+    "ref_id": "I_capparis",
+    "canonical": "Capparis",
+    "gloss_fr": "Caprier",
+    "forms": {
+      "latin": [
+        "Capparis",
+        "capparis"
+      ],
+      "old_french": [
+        "CAPARIS"
+      ],
+      "regimen": [
+        "cappari"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_capparis",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_calamintha": {
+    "ref_id": "I_calamintha",
+    "canonical": "Calamintha",
+    "gloss_fr": "Calament",
+    "forms": {
+      "latin": [
+        "Calamintha",
+        "calamintha"
+      ],
+      "old_french": [
+        "CALEMENT"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_calamintha",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cassia_lignea": {
+    "ref_id": "I_cassia_lignea",
+    "canonical": "Cassia lignea",
+    "gloss_fr": "Casse en bois",
+    "forms": {
+      "latin": [
+        "Cassia lignea",
+        "cassia lignea"
+      ],
+      "old_french": [
+        "GASSIALIGNEE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cassia_lignea",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_castoreum": {
+    "ref_id": "I_castoreum",
+    "canonical": "Castoreum",
+    "gloss_fr": "Castoreum",
+    "forms": {
+      "latin": [
+        "Castoreum",
+        "castoreum"
+      ],
+      "old_french": [
+        "CASTORE"
+      ],
+      "regimen": [
+        "castorei"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_castoreum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cubeba": {
+    "ref_id": "I_cubeba",
+    "canonical": "Cubeba",
+    "gloss_fr": "Cubebe",
+    "forms": {
+      "latin": [
+        "Cubeba",
+        "cubeba"
+      ],
+      "old_french": [
+        "CUBEBES"
+      ],
+      "dalme": [
+        "cubebe",
+        "cubebae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cubeba",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cinnamomum": {
+    "ref_id": "I_cinnamomum",
+    "canonical": "Cinnamomum",
+    "gloss_fr": "Cannelle",
+    "forms": {
+      "latin": [
+        "Cinnamomum",
+        "cinnamomum"
+      ],
+      "old_french": [
+        "CANELE"
+      ],
+      "dalme": [
+        "cinamomi",
+        "cinnamomi",
+        "canelle"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cinnamomum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cupressus": {
+    "ref_id": "I_cupressus",
+    "canonical": "Cupressus",
+    "gloss_fr": "Cypres",
+    "forms": {
+      "latin": [
+        "Cupressus",
+        "cupressus"
+      ],
+      "old_french": [
+        "CYPRÈS"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cupressus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_chamaedrys/teucrium": {
+    "ref_id": "I_chamaedrys/teucrium",
+    "canonical": "Chamaedrys/Teucrium",
+    "gloss_fr": "Germandrée",
+    "forms": {
+      "latin": [
+        "Chamaedrys/Teucrium",
+        "chamaedrys/teucrium"
+      ],
+      "old_french": [
+        "CAMEDREOS"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_chamaedrys/teucrium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_carum_carvi": {
+    "ref_id": "I_carum_carvi",
+    "canonical": "Carum carvi",
+    "gloss_fr": "Carvi",
+    "forms": {
+      "latin": [
+        "Carum carvi",
+        "carum carvi"
+      ],
+      "old_french": [
+        "CARVI"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_carum_carvi",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cuminum": {
+    "ref_id": "I_cuminum",
+    "canonical": "Cuminum",
+    "gloss_fr": "Cumin",
+    "forms": {
+      "latin": [
+        "Cuminum",
+        "cuminum"
+      ],
+      "old_french": [
+        "COMIN"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cuminum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cicuta": {
+    "ref_id": "I_cicuta",
+    "canonical": "Cicuta",
+    "gloss_fr": "Cigue",
+    "forms": {
+      "latin": [
+        "Cicuta",
+        "cicuta"
+      ],
+      "old_french": [
+        "CEdUE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cicuta",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_crocus/saffron": {
+    "ref_id": "I_crocus/saffron",
+    "canonical": "Crocus/Saffron",
+    "gloss_fr": "Safran",
+    "forms": {
+      "latin": [
+        "Crocus/Saffron",
+        "crocus/saffron"
+      ],
+      "old_french": [
+        "CROC"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_crocus/saffron",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cyperus": {
+    "ref_id": "I_cyperus",
+    "canonical": "Cyperus",
+    "gloss_fr": "Souchet",
+    "forms": {
+      "latin": [
+        "Cyperus",
+        "cyperus"
+      ],
+      "old_french": [
+        "(CYPERONJ"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cyperus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_euphorbia_lathyris": {
+    "ref_id": "I_euphorbia_lathyris",
+    "canonical": "Euphorbia lathyris",
+    "gloss_fr": "Catapuce",
+    "forms": {
+      "latin": [
+        "Euphorbia lathyris",
+        "euphorbia lathyris"
+      ],
+      "old_french": [
+        "CATHAPFCES"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_euphorbia_lathyris",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_cretanum/dictamnus_creticus": {
+    "ref_id": "I_cretanum/dictamnus_creticus",
+    "canonical": "Cretanum/Dictamnus creticus",
+    "gloss_fr": "Dictame de Crete",
+    "forms": {
+      "latin": [
+        "Cretanum/Dictamnus creticus",
+        "cretanum/dictamnus creticus"
+      ],
+      "old_french": [
+        "CRETANUM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_cretanum/dictamnus_creticus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_costus": {
+    "ref_id": "I_costus",
+    "canonical": "Costus",
+    "gloss_fr": "Costus",
+    "forms": {
+      "latin": [
+        "Costus",
+        "costus"
+      ],
+      "old_french": [
+        "COST"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_costus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_colophonia": {
+    "ref_id": "I_colophonia",
+    "canonical": "Colophonia",
+    "gloss_fr": "Colophane",
+    "forms": {
+      "latin": [
+        "Colophonia",
+        "colophonia"
+      ],
+      "old_french": [
+        "COLOFONE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_colophonia",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_chelidonia": {
+    "ref_id": "I_chelidonia",
+    "canonical": "Chelidonia",
+    "gloss_fr": "Chelidoine",
+    "forms": {
+      "latin": [
+        "Chelidonia",
+        "chelidonia"
+      ],
+      "old_french": [
+        "CELARONNE"
+      ],
+      "regimen": [
+        "chelidoniae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_chelidonia",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_coriandrum": {
+    "ref_id": "I_coriandrum",
+    "canonical": "Coriandrum",
+    "gloss_fr": "Coriandre",
+    "forms": {
+      "latin": [
+        "Coriandrum",
+        "coriandrum"
+      ],
+      "old_french": [
+        "CORRIENDRE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_coriandrum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_scammonia": {
+    "ref_id": "I_scammonia",
+    "canonical": "Scammonia",
+    "gloss_fr": "Scammonee",
+    "forms": {
+      "latin": [
+        "Scammonia",
+        "scammonia"
+      ],
+      "old_french": [
+        "DIAGRIDE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_scammonia",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_tragacanthum": {
+    "ref_id": "I_tragacanthum",
+    "canonical": "Tragacanthum",
+    "gloss_fr": "Gomme adragante",
+    "forms": {
+      "latin": [
+        "Tragacanthum",
+        "tragacanthum"
+      ],
+      "old_french": [
+        "DRAGAGANT"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_tragacanthum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_daucus": {
+    "ref_id": "I_daucus",
+    "canonical": "Daucus",
+    "gloss_fr": "Carotte sauvage",
+    "forms": {
+      "latin": [
+        "Daucus",
+        "daucus"
+      ],
+      "old_french": [
+        "DAUC"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_daucus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_dictamnus": {
+    "ref_id": "I_dictamnus",
+    "canonical": "Dictamnus",
+    "gloss_fr": "Dictame",
+    "forms": {
+      "latin": [
+        "Dictamnus",
+        "dictamnus"
+      ],
+      "old_french": [
+        "DITAM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_dictamnus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_endivia/cichorium": {
+    "ref_id": "I_endivia/cichorium",
+    "canonical": "Endivia/Cichorium",
+    "gloss_fr": "Endive/Chicoree",
+    "forms": {
+      "latin": [
+        "Endivia/Cichorium",
+        "endivia/cichorium"
+      ],
+      "old_french": [
+        "ENDIVIA"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_endivia/cichorium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_inula_helenium": {
+    "ref_id": "I_inula_helenium",
+    "canonical": "Inula helenium",
+    "gloss_fr": "Aunee",
+    "forms": {
+      "latin": [
+        "Inula helenium",
+        "inula helenium"
+      ],
+      "old_french": [
+        "ENULA"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_inula_helenium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_epithymum": {
+    "ref_id": "I_epithymum",
+    "canonical": "Epithymum",
+    "gloss_fr": "Epithyme",
+    "forms": {
+      "latin": [
+        "Epithymum",
+        "epithymum"
+      ],
+      "old_french": [
+        "EPYTIM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_epithymum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_euphorbia": {
+    "ref_id": "I_euphorbia",
+    "canonical": "Euphorbia",
+    "gloss_fr": "Euphorbe",
+    "forms": {
+      "latin": [
+        "Euphorbia",
+        "euphorbia"
+      ],
+      "old_french": [
+        "EUFORBE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_euphorbia",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_hepatica": {
+    "ref_id": "I_hepatica",
+    "canonical": "Hepatica",
+    "gloss_fr": "Hepatique",
+    "forms": {
+      "latin": [
+        "Hepatica",
+        "hepatica"
+      ],
+      "old_french": [
+        "EPATIQUE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_hepatica",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_aes_ustum": {
+    "ref_id": "I_aes_ustum",
+    "canonical": "Aes ustum",
+    "gloss_fr": "Airain brule",
+    "forms": {
+      "latin": [
+        "Aes ustum",
+        "aes ustum"
+      ],
+      "old_french": [
+        "ES ARS"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_aes_ustum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_helleborus": {
+    "ref_id": "I_helleborus",
+    "canonical": "Helleborus",
+    "gloss_fr": "Hellebore",
+    "forms": {
+      "latin": [
+        "Helleborus",
+        "helleborus"
+      ],
+      "old_french": [
+        "ELLEBRE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_helleborus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_euphorbia_esula": {
+    "ref_id": "I_euphorbia_esula",
+    "canonical": "Euphorbia esula",
+    "gloss_fr": "Esule",
+    "forms": {
+      "latin": [
+        "Euphorbia esula",
+        "euphorbia esula"
+      ],
+      "old_french": [
+        "ESULE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_euphorbia_esula",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_geum/caryophyllata": {
+    "ref_id": "I_geum/caryophyllata",
+    "canonical": "Geum/Caryophyllata",
+    "gloss_fr": "Benoite",
+    "forms": {
+      "latin": [
+        "Geum/Caryophyllata",
+        "geum/caryophyllata"
+      ],
+      "old_french": [
+        "GARIOFILAÏE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_geum/caryophyllata",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_nigella": {
+    "ref_id": "I_nigella",
+    "canonical": "Nigella",
+    "gloss_fr": "Nigelle",
+    "forms": {
+      "latin": [
+        "Nigella",
+        "nigella"
+      ],
+      "old_french": [
+        "GIT"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_nigella",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_lithospermum": {
+    "ref_id": "I_lithospermum",
+    "canonical": "Lithospermum",
+    "gloss_fr": "Gremil",
+    "forms": {
+      "latin": [
+        "Lithospermum",
+        "lithospermum"
+      ],
+      "old_french": [
+        "GREMIL"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_lithospermum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_galla": {
+    "ref_id": "I_galla",
+    "canonical": "Galla",
+    "gloss_fr": "Galle de chene",
+    "forms": {
+      "latin": [
+        "Galla",
+        "galla"
+      ],
+      "old_french": [
+        "GALLES"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_galla",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_hyoscyamus": {
+    "ref_id": "I_hyoscyamus",
+    "canonical": "Hyoscyamus",
+    "gloss_fr": "Jusquiame",
+    "forms": {
+      "latin": [
+        "Hyoscyamus",
+        "hyoscyamus"
+      ],
+      "old_french": [
+        "JUSQUIAME"
+      ],
+      "regimen": [
+        "hyoscyamo",
+        "hyoscyami"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_hyoscyamus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_iris": {
+    "ref_id": "I_iris",
+    "canonical": "Iris",
+    "gloss_fr": "Iris",
+    "forms": {
+      "latin": [
+        "Iris",
+        "iris"
+      ],
+      "old_french": [
+        "IRIS"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_iris",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_juniperus": {
+    "ref_id": "I_juniperus",
+    "canonical": "Juniperus",
+    "gloss_fr": "Genevrier",
+    "forms": {
+      "latin": [
+        "Juniperus",
+        "juniperus"
+      ],
+      "old_french": [
+        "JUNIPERON"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_juniperus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_ladanum": {
+    "ref_id": "I_ladanum",
+    "canonical": "Ladanum",
+    "gloss_fr": "Ladanum",
+    "forms": {
+      "latin": [
+        "Ladanum",
+        "ladanum"
+      ],
+      "old_french": [
+        "LADANUM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_ladanum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_hyssopus": {
+    "ref_id": "I_hyssopus",
+    "canonical": "Hyssopus",
+    "gloss_fr": "Hysope",
+    "forms": {
+      "latin": [
+        "Hyssopus",
+        "hyssopus"
+      ],
+      "old_french": [
+        "YSOPE"
+      ],
+      "regimen": [
+        "ysopus",
+        "ysopi",
+        "hysopus"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_hyssopus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_glycyrrhiza": {
+    "ref_id": "I_glycyrrhiza",
+    "canonical": "Glycyrrhiza",
+    "gloss_fr": "Reglisse",
+    "forms": {
+      "latin": [
+        "Glycyrrhiza",
+        "glycyrrhiza"
+      ],
+      "old_french": [
+        "LIQUARICE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_glycyrrhiza",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_lithargyrum": {
+    "ref_id": "I_lithargyrum",
+    "canonical": "Lithargyrum",
+    "gloss_fr": "Litharge",
+    "forms": {
+      "latin": [
+        "Lithargyrum",
+        "lithargyrum"
+      ],
+      "old_french": [
+        "LITARGIRON"
+      ],
+      "dalme": [
+        "litargirii",
+        "litargiri"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_lithargyrum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_lactuca": {
+    "ref_id": "I_lactuca",
+    "canonical": "Lactuca",
+    "gloss_fr": "Laitue",
+    "forms": {
+      "latin": [
+        "Lactuca",
+        "lactuca"
+      ],
+      "old_french": [
+        "LAITUES"
+      ],
+      "dalme": [
+        "lactuce",
+        "lactucae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_lactuca",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_laurus": {
+    "ref_id": "I_laurus",
+    "canonical": "Laurus",
+    "gloss_fr": "Laurier",
+    "forms": {
+      "latin": [
+        "Laurus",
+        "laurus"
+      ],
+      "old_french": [
+        "LORIER"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_laurus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_lentiscus/pistacia": {
+    "ref_id": "I_lentiscus/pistacia",
+    "canonical": "Lentiscus/Pistacia",
+    "gloss_fr": "Lentisque",
+    "forms": {
+      "latin": [
+        "Lentiscus/Pistacia",
+        "lentiscus/pistacia"
+      ],
+      "old_french": [
+        "LENÏISC"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_lentiscus/pistacia",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_daphne_laureola": {
+    "ref_id": "I_daphne_laureola",
+    "canonical": "Daphne laureola",
+    "gloss_fr": "Laureole",
+    "forms": {
+      "latin": [
+        "Daphne laureola",
+        "daphne laureola"
+      ],
+      "old_french": [
+        "LAUREOLE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_daphne_laureola",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_levisticum": {
+    "ref_id": "I_levisticum",
+    "canonical": "Levisticum",
+    "gloss_fr": "Livèche",
+    "forms": {
+      "latin": [
+        "Levisticum",
+        "levisticum"
+      ],
+      "old_french": [
+        "LIVESCHE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_levisticum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_magnes": {
+    "ref_id": "I_magnes",
+    "canonical": "Magnes",
+    "gloss_fr": "Aimant",
+    "forms": {
+      "latin": [
+        "Magnes",
+        "magnes"
+      ],
+      "old_french": [
+        "LAPIS MAGNETE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_magnes",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_myrtus": {
+    "ref_id": "I_myrtus",
+    "canonical": "Myrtus",
+    "gloss_fr": "Myrte",
+    "forms": {
+      "latin": [
+        "Myrtus",
+        "myrtus"
+      ],
+      "old_french": [
+        "MIRTE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_myrtus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_adeps": {
+    "ref_id": "I_adeps",
+    "canonical": "Adeps",
+    "gloss_fr": "Graisse",
+    "forms": {
+      "latin": [
+        "Adeps",
+        "adeps"
+      ],
+      "old_french": [
+        "MAIGNE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_adeps",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_malva": {
+    "ref_id": "I_malva",
+    "canonical": "Malva",
+    "gloss_fr": "Mauve",
+    "forms": {
+      "latin": [
+        "Malva",
+        "malva"
+      ],
+      "old_french": [
+        "MAUVE"
+      ],
+      "regimen": [
+        "malvae",
+        "malvam",
+        "malvam"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_malva",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_mastix": {
+    "ref_id": "I_mastix",
+    "canonical": "Mastix",
+    "gloss_fr": "Mastic",
+    "forms": {
+      "latin": [
+        "Mastix",
+        "mastix"
+      ],
+      "old_french": [
+        "MASTIC"
+      ],
+      "dalme": [
+        "mastice",
+        "masticis"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_mastix",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_mentha": {
+    "ref_id": "I_mentha",
+    "canonical": "Mentha",
+    "gloss_fr": "Menthe",
+    "forms": {
+      "latin": [
+        "Mentha",
+        "mentha"
+      ],
+      "old_french": [
+        "MENTE"
+      ],
+      "regimen": [
+        "menthae",
+        "mentham"
+      ],
+      "dalme": [
+        "menthe"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_mentha",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_margarita": {
+    "ref_id": "I_margarita",
+    "canonical": "Margarita",
+    "gloss_fr": "Perle",
+    "forms": {
+      "latin": [
+        "Margarita",
+        "margarita"
+      ],
+      "old_french": [
+        "MARGARITES"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_margarita",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_mandragora": {
+    "ref_id": "I_mandragora",
+    "canonical": "Mandragora",
+    "gloss_fr": "Mandragore",
+    "forms": {
+      "latin": [
+        "Mandragora",
+        "mandragora"
+      ],
+      "old_french": [
+        "MANDAGLOIRE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_mandragora",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_mel": {
+    "ref_id": "I_mel",
+    "canonical": "Mel",
+    "gloss_fr": "Miel",
+    "forms": {
+      "latin": [
+        "Mel",
+        "mel"
+      ],
+      "old_french": [
+        "MIEL"
+      ],
+      "regimen": [
+        "melle",
+        "mellis"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_mel",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_macis": {
+    "ref_id": "I_macis",
+    "canonical": "Macis",
+    "gloss_fr": "Macis",
+    "forms": {
+      "latin": [
+        "Macis",
+        "macis"
+      ],
+      "old_french": [
+        "MACIS"
+      ],
+      "regimen": [
+        "mace"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_macis",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_myrrha": {
+    "ref_id": "I_myrrha",
+    "canonical": "Myrrha",
+    "gloss_fr": "Myrrhe",
+    "forms": {
+      "latin": [
+        "Myrrha",
+        "myrrha",
+        "myrrhe",
+        "myrrhae",
+        "myrrham"
+      ],
+      "old_french": [
+        "MIRRE"
+      ],
+      "dalme": [
+        "myrrhae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_myrrha",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_majorana/origanum": {
+    "ref_id": "I_majorana/origanum",
+    "canonical": "Majorana/Origanum",
+    "gloss_fr": "Marjolaine",
+    "forms": {
+      "latin": [
+        "Majorana/Origanum",
+        "majorana/origanum"
+      ],
+      "old_french": [
+        "MAJORANE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_majorana/origanum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_melissa": {
+    "ref_id": "I_melissa",
+    "canonical": "Melissa",
+    "gloss_fr": "Melisse",
+    "forms": {
+      "latin": [
+        "Melissa",
+        "melissa"
+      ],
+      "old_french": [
+        "MELISSE"
+      ],
+      "dalme": [
+        "mellisse",
+        "melissae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_melissa",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_nasturtium": {
+    "ref_id": "I_nasturtium",
+    "canonical": "Nasturtium",
+    "gloss_fr": "Cresson",
+    "forms": {
+      "latin": [
+        "Nasturtium",
+        "nasturtium"
+      ],
+      "old_french": [
+        "NESTURTE 6"
+      ],
+      "regimen": [
+        "nasturtii"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_nasturtium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_nymphaea": {
+    "ref_id": "I_nymphaea",
+    "canonical": "Nymphaea",
+    "gloss_fr": "Nenuphar",
+    "forms": {
+      "latin": [
+        "Nymphaea",
+        "nymphaea"
+      ],
+      "old_french": [
+        "NENUPHAR ^"
+      ],
+      "dalme": [
+        "nenupharis",
+        "nympheae",
+        "nenuphar"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_nymphaea",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_nux_moschata": {
+    "ref_id": "I_nux_moschata",
+    "canonical": "Nux moschata",
+    "gloss_fr": "Noix muscade",
+    "forms": {
+      "latin": [
+        "Nux moschata",
+        "nux moschata"
+      ],
+      "old_french": [
+        "NOIS MUSCATES ^"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_nux_moschata",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_nux_indica/cocos": {
+    "ref_id": "I_nux_indica/cocos",
+    "canonical": "Nux indica/Cocos",
+    "gloss_fr": "Noix de coco",
+    "forms": {
+      "latin": [
+        "Nux indica/Cocos",
+        "nux indica/cocos"
+      ],
+      "old_french": [
+        "NOIZ INDE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_nux_indica/cocos",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_ocimum": {
+    "ref_id": "I_ocimum",
+    "canonical": "Ocimum",
+    "gloss_fr": "Basilic",
+    "forms": {
+      "latin": [
+        "Ocimum",
+        "ocimum"
+      ],
+      "old_french": [
+        "OSSIMUM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_ocimum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_opopanax": {
+    "ref_id": "I_opopanax",
+    "canonical": "Opopanax",
+    "gloss_fr": "Opopanax",
+    "forms": {
+      "latin": [
+        "Opopanax",
+        "opopanax"
+      ],
+      "old_french": [
+        "OPOPANAC"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_opopanax",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_opium": {
+    "ref_id": "I_opium",
+    "canonical": "Opium",
+    "gloss_fr": "Opium",
+    "forms": {
+      "latin": [
+        "Opium",
+        "opium",
+        "opij",
+        "opio",
+        "opii"
+      ],
+      "old_french": [
+        "OPIUM"
+      ],
+      "dalme": [
+        "opii",
+        "opio"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_opium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_origanum": {
+    "ref_id": "I_origanum",
+    "canonical": "Origanum",
+    "gloss_fr": "Origan",
+    "forms": {
+      "latin": [
+        "Origanum",
+        "origanum"
+      ],
+      "old_french": [
+        "ORIGANUM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_origanum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_olibanum/thus": {
+    "ref_id": "I_olibanum/thus",
+    "canonical": "Olibanum/Thus",
+    "gloss_fr": "Encens",
+    "forms": {
+      "latin": [
+        "Olibanum/Thus",
+        "olibanum/thus"
+      ],
+      "old_french": [
+        "OLIBANUM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_olibanum/thus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_piper": {
+    "ref_id": "I_piper",
+    "canonical": "Piper",
+    "gloss_fr": "Poivre",
+    "forms": {
+      "latin": [
+        "Piper",
+        "piper"
+      ],
+      "old_french": [
+        "POIVRES"
+      ],
+      "regimen": [
+        "piperis"
+      ],
+      "dalme": [
+        "pivre",
+        "pebre"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_piper",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_papaver": {
+    "ref_id": "I_papaver",
+    "canonical": "Papaver",
+    "gloss_fr": "Pavot",
+    "forms": {
+      "latin": [
+        "Papaver",
+        "papaver"
+      ],
+      "old_french": [
+        "PAVOT"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_papaver",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_peucedanum": {
+    "ref_id": "I_peucedanum",
+    "canonical": "Peucedanum",
+    "gloss_fr": "Peucedane",
+    "forms": {
+      "latin": [
+        "Peucedanum",
+        "peucedanum"
+      ],
+      "old_french": [
+        "PEUCED4NUM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_peucedanum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_petroselinum": {
+    "ref_id": "I_petroselinum",
+    "canonical": "Petroselinum",
+    "gloss_fr": "Persil",
+    "forms": {
+      "latin": [
+        "Petroselinum",
+        "petroselinum"
+      ],
+      "old_french": [
+        "PERESIL"
+      ],
+      "regimen": [
+        "petroselini",
+        "petrosellini"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_petroselinum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_pulicaria": {
+    "ref_id": "I_pulicaria",
+    "canonical": "Pulicaria",
+    "gloss_fr": "Herbe aux puces",
+    "forms": {
+      "latin": [
+        "Pulicaria",
+        "pulicaria"
+      ],
+      "old_french": [
+        "POLLICAIRE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_pulicaria",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_polypodium": {
+    "ref_id": "I_polypodium",
+    "canonical": "Polypodium",
+    "gloss_fr": "Polypode",
+    "forms": {
+      "latin": [
+        "Polypodium",
+        "polypodium"
+      ],
+      "old_french": [
+        "POLIPODE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_polypodium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_petroleum": {
+    "ref_id": "I_petroleum",
+    "canonical": "Petroleum",
+    "gloss_fr": "Petrole",
+    "forms": {
+      "latin": [
+        "Petroleum",
+        "petroleum"
+      ],
+      "old_french": [
+        "PETROLEUM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_petroleum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_parietaria": {
+    "ref_id": "I_parietaria",
+    "canonical": "Parietaria",
+    "gloss_fr": "Paritaire",
+    "forms": {
+      "latin": [
+        "Parietaria",
+        "parietaria"
+      ],
+      "old_french": [
+        "PARITAIRE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_parietaria",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_portulaca": {
+    "ref_id": "I_portulaca",
+    "canonical": "Portulaca",
+    "gloss_fr": "Pourpier",
+    "forms": {
+      "latin": [
+        "Portulaca",
+        "portulaca"
+      ],
+      "old_french": [
+        "PORÏULAGUE"
+      ],
+      "dalme": [
+        "portulace",
+        "portulacae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_portulaca",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_pulegium/mentha_pulegium": {
+    "ref_id": "I_pulegium/mentha_pulegium",
+    "canonical": "Pulegium/Mentha pulegium",
+    "gloss_fr": "Pouliot",
+    "forms": {
+      "latin": [
+        "Pulegium/Mentha pulegium",
+        "pulegium/mentha pulegium"
+      ],
+      "old_french": [
+        "PULEGIUM"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_pulegium/mentha_pulegium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_rheum/rhabarbarum": {
+    "ref_id": "I_rheum/rhabarbarum",
+    "canonical": "Rheum/Rhabarbarum",
+    "gloss_fr": "Rhubarbe",
+    "forms": {
+      "latin": [
+        "Rheum/Rhabarbarum",
+        "rheum/rhabarbarum"
+      ],
+      "old_french": [
+        "REUBARBE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_rheum/rhabarbarum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_rhaponticum": {
+    "ref_id": "I_rhaponticum",
+    "canonical": "Rhaponticum",
+    "gloss_fr": "Reupontic",
+    "forms": {
+      "latin": [
+        "Rhaponticum",
+        "rhaponticum"
+      ],
+      "old_french": [
+        "REUPONTIC"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_rhaponticum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_ruta": {
+    "ref_id": "I_ruta",
+    "canonical": "Ruta",
+    "gloss_fr": "Rue",
+    "forms": {
+      "latin": [
+        "Ruta",
+        "ruta",
+        "rutae",
+        "ruthe",
+        "rutam"
+      ],
+      "old_french": [
+        "RUE"
+      ],
+      "regimen": [
+        "rutae",
+        "rutam",
+        "rute"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_ruta",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_storax": {
+    "ref_id": "I_storax",
+    "canonical": "Storax",
+    "gloss_fr": "Styrax",
+    "forms": {
+      "latin": [
+        "Storax",
+        "storax"
+      ],
+      "old_french": [
+        "STORIAUX"
+      ],
+      "dalme": [
+        "storacis"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_storax",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_solanum": {
+    "ref_id": "I_solanum",
+    "canonical": "Solanum",
+    "gloss_fr": "Morelle",
+    "forms": {
+      "latin": [
+        "Solanum",
+        "solanum"
+      ],
+      "old_french": [
+        "STRIGNUM3 SOLATRUM''"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_solanum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_sumac/rhus": {
+    "ref_id": "I_sumac/rhus",
+    "canonical": "Sumac/Rhus",
+    "gloss_fr": "Sumac",
+    "forms": {
+      "latin": [
+        "Sumac/Rhus",
+        "sumac/rhus"
+      ],
+      "old_french": [
+        "SUMAC"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_sumac/rhus",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_santalum": {
+    "ref_id": "I_santalum",
+    "canonical": "Santalum",
+    "gloss_fr": "Santal",
+    "forms": {
+      "latin": [
+        "Santalum",
+        "santalum"
+      ],
+      "old_french": [
+        "SANDLES"
+      ],
+      "dalme": [
+        "sandali",
+        "santali",
+        "sandalorum"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_santalum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_sagapenum": {
+    "ref_id": "I_sagapenum",
+    "canonical": "Sagapenum",
+    "gloss_fr": "Sagapenum",
+    "forms": {
+      "latin": [
+        "Sagapenum",
+        "sagapenum"
+      ],
+      "old_french": [
+        "SAGAPIN"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_sagapenum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_sempervivum": {
+    "ref_id": "I_sempervivum",
+    "canonical": "Sempervivum",
+    "gloss_fr": "Joubarbe",
+    "forms": {
+      "latin": [
+        "Sempervivum",
+        "sempervivum"
+      ],
+      "old_french": [
+        "SEMPERVIVA"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_sempervivum",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_sulfur": {
+    "ref_id": "I_sulfur",
+    "canonical": "Sulfur",
+    "gloss_fr": "Soufre",
+    "forms": {
+      "latin": [
+        "Sulfur",
+        "sulfur"
+      ],
+      "old_french": [
+        "SOFFRE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_sulfur",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_sanguis_draconis": {
+    "ref_id": "I_sanguis_draconis",
+    "canonical": "Sanguis draconis",
+    "gloss_fr": "Sang de dragon",
+    "forms": {
+      "latin": [
+        "Sanguis draconis",
+        "sanguis draconis"
+      ],
+      "old_french": [
+        "SANC DE DRAGON"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_sanguis_draconis",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_orchis/satyrion": {
+    "ref_id": "I_orchis/satyrion",
+    "canonical": "Orchis/Satyrion",
+    "gloss_fr": "Satyrion",
+    "forms": {
+      "latin": [
+        "Orchis/Satyrion",
+        "orchis/satyrion"
+      ],
+      "old_french": [
+        "SATIRIQN 1"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_orchis/satyrion",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_spodium": {
+    "ref_id": "I_spodium",
+    "canonical": "Spodium",
+    "gloss_fr": "Spode",
+    "forms": {
+      "latin": [
+        "Spodium",
+        "spodium"
+      ],
+      "old_french": [
+        "SPODE"
+      ],
+      "regimen": [
+        "spodio"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_spodium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_scordium/teucrium": {
+    "ref_id": "I_scordium/teucrium",
+    "canonical": "Scordium/Teucrium",
+    "gloss_fr": "Scordium",
+    "forms": {
+      "latin": [
+        "Scordium/Teucrium",
+        "scordium/teucrium"
+      ],
+      "old_french": [
+        "SCORDEON"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_scordium/teucrium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_salvia": {
+    "ref_id": "I_salvia",
+    "canonical": "Salvia",
+    "gloss_fr": "Sauge",
+    "forms": {
+      "latin": [
+        "Salvia",
+        "salvia"
+      ],
+      "old_french": [
+        "SAUGE"
+      ],
+      "regimen": [
+        "salviae",
+        "salviam"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_salvia",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_dracunculus/serpentaria": {
+    "ref_id": "I_dracunculus/serpentaria",
+    "canonical": "Dracunculus/Serpentaria",
+    "gloss_fr": "Serpentaire",
+    "forms": {
+      "latin": [
+        "Dracunculus/Serpentaria",
+        "dracunculus/serpentaria"
+      ],
+      "old_french": [
+        "SERPENTAIRE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_dracunculus/serpentaria",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_senna": {
+    "ref_id": "I_senna",
+    "canonical": "Senna",
+    "gloss_fr": "Sene",
+    "forms": {
+      "latin": [
+        "Senna",
+        "senna"
+      ],
+      "old_french": [
+        "SÉNÉ"
+      ],
+      "dalme": [
+        "sene",
+        "sennae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_senna",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_satureja": {
+    "ref_id": "I_satureja",
+    "canonical": "Satureja",
+    "gloss_fr": "Sarriette",
+    "forms": {
+      "latin": [
+        "Satureja",
+        "satureja"
+      ],
+      "old_french": [
+        "SARRIEE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_satureja",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_terra_sigillata": {
+    "ref_id": "I_terra_sigillata",
+    "canonical": "Terra sigillata",
+    "gloss_fr": "Terre scellee",
+    "forms": {
+      "latin": [
+        "Terra sigillata",
+        "terra sigillata"
+      ],
+      "old_french": [
+        "TERRE SOILLEE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_terra_sigillata",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_turbith": {
+    "ref_id": "I_turbith",
+    "canonical": "Turbith",
+    "gloss_fr": "Turbith",
+    "forms": {
+      "latin": [
+        "Turbith",
+        "turbith"
+      ],
+      "old_french": [
+        "TU R BIT"
+      ],
+      "dalme": [
+        "turbit"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_turbith",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_centaurea": {
+    "ref_id": "I_centaurea",
+    "canonical": "Centaurea",
+    "gloss_fr": "Centauree",
+    "forms": {
+      "latin": [
+        "Centaurea",
+        "centaurea"
+      ],
+      "old_french": [
+        "CENTAURE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_centaurea",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_rosa": {
+    "ref_id": "I_rosa",
+    "canonical": "Rosa",
+    "gloss_fr": "Rose",
+    "forms": {
+      "latin": [
+        "Rosa",
+        "rosa"
+      ],
+      "old_french": [
+        "ROSES"
+      ],
+      "regimen": [
+        "rosae",
+        "rosam",
+        "rose"
+      ],
+      "dalme": [
+        "rosarum"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_rosa",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_lavandula": {
+    "ref_id": "I_lavandula",
+    "canonical": "Lavandula",
+    "gloss_fr": "Lavande",
+    "forms": {
+      "latin": [
+        "Lavandula",
+        "lavandula"
+      ],
+      "old_french": [
+        "SPIC"
+      ],
+      "regimen": [
+        "lavendula",
+        "lavendulae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_lavandula",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_apium": {
+    "ref_id": "I_apium",
+    "canonical": "Apium",
+    "gloss_fr": "Ache/Celeri",
+    "forms": {
+      "latin": [
+        "Apium",
+        "apium",
+        "apij",
+        "apio",
+        "apii"
+      ],
+      "old_french": [
+        "ACHE"
+      ],
+      "dalme": [
+        "apii",
+        "apio"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_apium",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_viola": {
+    "ref_id": "I_viola",
+    "canonical": "Viola",
+    "gloss_fr": "Violette",
+    "forms": {
+      "latin": [
+        "Viola",
+        "viola"
+      ],
+      "old_french": [
+        "VIOLETE"
+      ],
+      "regimen": [
+        "violam",
+        "violae"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_viola",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_plantago": {
+    "ref_id": "I_plantago",
+    "canonical": "Plantago",
+    "gloss_fr": "Plantain",
+    "forms": {
+      "latin": [
+        "Plantago",
+        "plantago"
+      ],
+      "old_french": [
+        "PLANTAIN"
+      ],
+      "dalme": [
+        "plantaginis",
+        "plantagine"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_plantago",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_gentiana": {
+    "ref_id": "I_gentiana",
+    "canonical": "Gentiana",
+    "gloss_fr": "Gentiane",
+    "forms": {
+      "latin": [
+        "Gentiana",
+        "gentiana"
+      ],
+      "old_french": [
+        "GENCIANE"
+      ]
+    },
+    "category": "simple",
+    "galenic": "Q_gentiana",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "I_zucharium": {
+    "ref_id": "I_zucharium",
+    "canonical": "zucharium",
+    "gloss_en": "sugar",
+    "gloss_fr": "sucre",
+    "forms": {
+      "latin": [
+        "zucharium",
+        "zuchari",
+        "zucharo",
+        "zuccari",
+        "saccharum"
+      ]
+    },
+    "category": "processed",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_aqua": {
+    "ref_id": "I_aqua",
+    "canonical": "aqua",
+    "gloss_en": "water",
+    "gloss_fr": "eau",
+    "forms": {
+      "latin": [
+        "aqua",
+        "aquae",
+        "aquam",
+        "aque",
+        "aquis",
+        "aquarum"
+      ]
+    },
+    "category": "liquid",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_aqua_rosarum": {
+    "ref_id": "I_aqua_rosarum",
+    "canonical": "aqua rosarum",
+    "gloss_en": "rose water",
+    "gloss_fr": "eau de rose",
+    "forms": {
+      "latin": [
+        "aqua rosarum"
+      ]
+    },
+    "category": "liquid",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_vinum": {
+    "ref_id": "I_vinum",
+    "canonical": "vinum",
+    "gloss_en": "wine",
+    "gloss_fr": "vin",
+    "forms": {
+      "latin": [
+        "vinum",
+        "vini",
+        "vino",
+        "cum vino"
+      ],
+      "regimen": [
+        "vina"
+      ]
+    },
+    "category": "liquid",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_oleum": {
+    "ref_id": "I_oleum",
+    "canonical": "oleum",
+    "gloss_en": "oil (olive)",
+    "gloss_fr": "huile",
+    "forms": {
+      "latin": [
+        "oleum",
+        "olei",
+        "oleo"
+      ],
+      "dalme": [
+        "oli"
+      ]
+    },
+    "category": "liquid",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_cera": {
+    "ref_id": "I_cera",
+    "canonical": "cera",
+    "gloss_en": "wax",
+    "gloss_fr": "cire",
+    "forms": {
+      "latin": [
+        "cera",
+        "ceram",
+        "cerae"
+      ],
+      "dalme": [
+        "cere"
+      ]
+    },
+    "category": "animal_product",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_muscus": {
+    "ref_id": "I_muscus",
+    "canonical": "muscus",
+    "gloss_en": "musk",
+    "gloss_fr": "musc",
+    "forms": {
+      "latin": [
+        "muscus",
+        "musci",
+        "musco",
+        "museum"
+      ]
+    },
+    "category": "animal_product",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_diagridium": {
+    "ref_id": "I_diagridium",
+    "canonical": "diagridium",
+    "gloss_en": "scammony extract",
+    "gloss_fr": "diagride",
+    "forms": {
+      "latin": [
+        "diagridium",
+        "diagridii"
+      ]
+    },
+    "category": "processed",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_turbit": {
+    "ref_id": "I_turbit",
+    "canonical": "turbit",
+    "gloss_en": "turbith",
+    "gloss_fr": "turbith",
+    "forms": {
+      "latin": [
+        "turbit",
+        "turbitum"
+      ]
+    },
+    "category": "root",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_reubarbum": {
+    "ref_id": "I_reubarbum",
+    "canonical": "reubarbum",
+    "gloss_en": "rhubarb",
+    "gloss_fr": "rhubarbe",
+    "forms": {
+      "latin": [
+        "reubarbum",
+        "reubarbari",
+        "reubarbarum"
+      ]
+    },
+    "category": "root",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_tamarindus": {
+    "ref_id": "I_tamarindus",
+    "canonical": "tamarindus",
+    "gloss_en": "tamarind",
+    "gloss_fr": "tamarin",
+    "forms": {
+      "latin": [
+        "tamarindus",
+        "tamarindi",
+        "tamarindorum"
+      ]
+    },
+    "category": "fruit",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_sene": {
+    "ref_id": "I_sene",
+    "canonical": "sene",
+    "gloss_en": "senna",
+    "gloss_fr": "sene",
+    "forms": {
+      "latin": [
+        "sene",
+        "sennae"
+      ]
+    },
+    "category": "leaf",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_aloe": {
+    "ref_id": "I_aloe",
+    "canonical": "aloe",
+    "gloss_en": "aloe",
+    "gloss_fr": "aloes",
+    "forms": {
+      "latin": [
+        "aloe",
+        "aloes",
+        "aloem",
+        "aloen"
+      ]
+    },
+    "category": "resin",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_crocus": {
+    "ref_id": "I_crocus",
+    "canonical": "crocus",
+    "gloss_en": "saffron",
+    "gloss_fr": "safran",
+    "forms": {
+      "latin": [
+        "crocus",
+        "croci",
+        "crocum"
+      ],
+      "dalme": [
+        "safran"
+      ]
+    },
+    "category": "spice",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_gariofilum": {
+    "ref_id": "I_gariofilum",
+    "canonical": "gariofilum",
+    "gloss_en": "cloves",
+    "gloss_fr": "girofle",
+    "forms": {
+      "latin": [
+        "gariofilum",
+        "gariofilorum",
+        "gariofili"
+      ]
+    },
+    "category": "spice",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_zingiber": {
+    "ref_id": "I_zingiber",
+    "canonical": "zingiber",
+    "gloss_en": "ginger",
+    "gloss_fr": "gingembre",
+    "forms": {
+      "latin": [
+        "zingiber",
+        "zinziberis",
+        "zinziberi"
+      ],
+      "dalme": [
+        "gingibre",
+        "gingembre"
+      ]
+    },
+    "category": "spice",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_storacis": {
+    "ref_id": "I_storacis",
+    "canonical": "storax",
+    "gloss_en": "storax",
+    "gloss_fr": "storax",
+    "forms": {
+      "latin": [
+        "storax",
+        "storacis",
+        "storacem",
+        "storacis calamite"
+      ]
+    },
+    "category": "resin",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_olibanum": {
+    "ref_id": "I_olibanum",
+    "canonical": "olibanum",
+    "gloss_en": "frankincense",
+    "gloss_fr": "encens",
+    "forms": {
+      "latin": [
+        "olibanum",
+        "olibani",
+        "turis",
+        "tus"
+      ]
+    },
+    "category": "resin",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_galanga": {
+    "ref_id": "I_galanga",
+    "canonical": "galanga",
+    "gloss_en": "galangal",
+    "gloss_fr": "galanga",
+    "forms": {
+      "latin": [
+        "galanga",
+        "galange",
+        "galangam"
+      ],
+      "regimen": [
+        "galangae"
+      ]
+    },
+    "category": "root",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_nux_muscata": {
+    "ref_id": "I_nux_muscata",
+    "canonical": "nux muscata",
+    "gloss_en": "nutmeg",
+    "gloss_fr": "muscade",
+    "forms": {
+      "latin": [
+        "nux muscata",
+        "nucis muscate"
+      ],
+      "dalme": [
+        "nucis muscatae",
+        "noix muscade"
+      ]
+    },
+    "category": "spice",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_liquiritia": {
+    "ref_id": "I_liquiritia",
+    "canonical": "liquiritia",
+    "gloss_en": "liquorice",
+    "gloss_fr": "reglisse",
+    "forms": {
+      "latin": [
+        "liquiritia",
+        "liquiricie",
+        "liquiriciam",
+        "liquiritie",
+        "liquiritiae",
+        "liquiritiam"
+      ],
+      "regimen": [
+        "liquirita",
+        "liquiritiae"
+      ]
+    },
+    "category": "root",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_ambrosia": {
+    "ref_id": "I_ambrosia",
+    "canonical": "ambrosia",
+    "forms": {
+      "latin": [
+        "ambre",
+        "ambra",
+        "ambrae",
+        "ambrarum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_amomum": {
+    "ref_id": "I_amomum",
+    "canonical": "amomum",
+    "forms": {
+      "latin": [
+        "amomi",
+        "amomum",
+        "amomo"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_amygdala": {
+    "ref_id": "I_amygdala",
+    "canonical": "amygdala",
+    "forms": {
+      "latin": [
+        "amigdalarum",
+        "amigdalas",
+        "amigdola",
+        "amygdalarum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_aristologia": {
+    "ref_id": "I_aristologia",
+    "canonical": "aristologia",
+    "forms": {
+      "latin": [
+        "aristologie",
+        "aristologia",
+        "aristologiae"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_asarum": {
+    "ref_id": "I_asarum",
+    "canonical": "asarum",
+    "forms": {
+      "latin": [
+        "asari",
+        "asarum",
+        "asaro"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_aspalthum": {
+    "ref_id": "I_aspalthum",
+    "canonical": "aspalthum",
+    "forms": {
+      "latin": [
+        "aspalti",
+        "aspaltum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_balsamum": {
+    "ref_id": "I_balsamum",
+    "canonical": "balsamum",
+    "forms": {
+      "latin": [
+        "balsami",
+        "balsamum",
+        "balsamo"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_bdellium": {
+    "ref_id": "I_bdellium",
+    "canonical": "bdellium",
+    "forms": {
+      "latin": [
+        "bdellii",
+        "bdellium",
+        "bdelii"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_calamus_aromaticus": {
+    "ref_id": "I_calamus_aromaticus",
+    "canonical": "calamus aromaticus",
+    "forms": {
+      "latin": [
+        "calami",
+        "calami aromatici",
+        "calamo"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_carpobalsamum": {
+    "ref_id": "I_carpobalsamum",
+    "canonical": "carpobalsamum",
+    "forms": {
+      "latin": [
+        "carpobalsami",
+        "carpobalsamum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_casia_fistula": {
+    "ref_id": "I_casia_fistula",
+    "canonical": "casia fistula",
+    "forms": {
+      "latin": [
+        "casiefistule",
+        "casie fistule",
+        "casiefistulae",
+        "casiae fistulae",
+        "casiefis",
+        "cassie fistule"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_casia_lignea": {
+    "ref_id": "I_casia_lignea",
+    "canonical": "casia lignea",
+    "forms": {
+      "latin": [
+        "casie lignee",
+        "casiae ligneae",
+        "casie",
+        "casiae",
+        "xilocassie",
+        "xilocassia"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_ciperus": {
+    "ref_id": "I_ciperus",
+    "canonical": "ciperus",
+    "forms": {
+      "latin": [
+        "ciperi",
+        "ciperum",
+        "cipero",
+        "cyperi"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_coloquintida": {
+    "ref_id": "I_coloquintida",
+    "canonical": "coloquintida",
+    "forms": {
+      "latin": [
+        "colloquintide",
+        "colloquintida",
+        "coloquintide"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_corallium": {
+    "ref_id": "I_corallium",
+    "canonical": "corallium",
+    "forms": {
+      "latin": [
+        "coralli",
+        "corallium",
+        "corallio",
+        "corallum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_dragagantum": {
+    "ref_id": "I_dragagantum",
+    "canonical": "dragagantum",
+    "forms": {
+      "latin": [
+        "dragaganti",
+        "draganti",
+        "dragagantum",
+        "dragaganto",
+        "draganti albi"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_ebur": {
+    "ref_id": "I_ebur",
+    "canonical": "ebur",
+    "forms": {
+      "latin": [
+        "eboris",
+        "ebur"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_elleborus": {
+    "ref_id": "I_elleborus",
+    "canonical": "elleborus",
+    "forms": {
+      "latin": [
+        "ellebori",
+        "elleborum",
+        "elleboro",
+        "ellebori nigri"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_euphorbium": {
+    "ref_id": "I_euphorbium",
+    "canonical": "euphorbium",
+    "forms": {
+      "latin": [
+        "euforbii",
+        "euphorbium",
+        "euforbium",
+        "cuforbii"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_feniculm": {
+    "ref_id": "I_feniculm",
+    "canonical": "feniculm",
+    "forms": {
+      "latin": [
+        "feniculi",
+        "feniculum",
+        "feniculo",
+        "maratri",
+        "maratrum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_folium": {
+    "ref_id": "I_folium",
+    "canonical": "folium",
+    "forms": {
+      "latin": [
+        "folii",
+        "folium",
+        "folio"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_galbanum": {
+    "ref_id": "I_galbanum",
+    "canonical": "galbanum",
+    "forms": {
+      "latin": [
+        "galbani",
+        "galbanum",
+        "galbano"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_gummi_arabicum": {
+    "ref_id": "I_gummi_arabicum",
+    "canonical": "gummi arabicum",
+    "forms": {
+      "latin": [
+        "gummi",
+        "gummi arabici",
+        "gummae"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_iusquiamus": {
+    "ref_id": "I_iusquiamus",
+    "canonical": "iusquiamus",
+    "forms": {
+      "latin": [
+        "iusquiami",
+        "iusquiamum",
+        "iusquiamo"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_lignum_aloes": {
+    "ref_id": "I_lignum_aloes",
+    "canonical": "lignum aloes",
+    "forms": {
+      "latin": [
+        "ligni aloes",
+        "lignum aloes",
+        "ligno aloes"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_lupinus": {
+    "ref_id": "I_lupinus",
+    "canonical": "lupinus",
+    "forms": {
+      "latin": [
+        "lupini",
+        "lupinum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_mirabolanum": {
+    "ref_id": "I_mirabolanum",
+    "canonical": "mirabolanum",
+    "forms": {
+      "latin": [
+        "mirabolanorum",
+        "mirabolanum",
+        "mirabolano",
+        "mirabolani"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_nardus": {
+    "ref_id": "I_nardus",
+    "canonical": "nardus",
+    "forms": {
+      "latin": [
+        "nardi",
+        "nardum",
+        "nardo",
+        "nardus"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_piper_longum": {
+    "ref_id": "I_piper_longum",
+    "canonical": "piper longum",
+    "forms": {
+      "latin": [
+        "macropiperis",
+        "piper longum",
+        "macropiperem"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_piper_nigrum": {
+    "ref_id": "I_piper_nigrum",
+    "canonical": "piper nigrum",
+    "forms": {
+      "latin": [
+        "melanopiperis",
+        "piper nigrum",
+        "piperis",
+        "piperem"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_piper_album": {
+    "ref_id": "I_piper_album",
+    "canonical": "piper album",
+    "forms": {
+      "latin": [
+        "leucopiperis",
+        "piper album",
+        "leucopiperem"
+      ],
+      "regimen": [
+        "leucopiper"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_pionia": {
+    "ref_id": "I_pionia",
+    "canonical": "pionia",
+    "forms": {
+      "latin": [
+        "pionie",
+        "pionia",
+        "pioniae"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_pirethrum": {
+    "ref_id": "I_pirethrum",
+    "canonical": "pirethrum",
+    "forms": {
+      "latin": [
+        "piretri",
+        "pirethrum",
+        "piretrum",
+        "piretro"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_polipodium": {
+    "ref_id": "I_polipodium",
+    "canonical": "polipodium",
+    "forms": {
+      "latin": [
+        "polipodii",
+        "polipodium"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_polium": {
+    "ref_id": "I_polium",
+    "canonical": "polium",
+    "forms": {
+      "latin": [
+        "polii",
+        "polium"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_pulegium": {
+    "ref_id": "I_pulegium",
+    "canonical": "pulegium",
+    "forms": {
+      "latin": [
+        "pulegii",
+        "pulegium",
+        "pulegio"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_reubarbarum": {
+    "ref_id": "I_reubarbarum",
+    "canonical": "reubarbarum",
+    "forms": {
+      "latin": [
+        "reubarbari",
+        "reubarbarum",
+        "reubarbaro",
+        "rhabarbari"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_reuponticum": {
+    "ref_id": "I_reuponticum",
+    "canonical": "reuponticum",
+    "forms": {
+      "latin": [
+        "reupontici",
+        "reuponticum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_sandalum": {
+    "ref_id": "I_sandalum",
+    "canonical": "sandalum",
+    "forms": {
+      "latin": [
+        "sandalorum",
+        "sandalum",
+        "sandali"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_sapa": {
+    "ref_id": "I_sapa",
+    "canonical": "sapa",
+    "forms": {
+      "latin": [
+        "sape",
+        "sapa",
+        "sapam"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_saxifragia": {
+    "ref_id": "I_saxifragia",
+    "canonical": "saxifragia",
+    "forms": {
+      "latin": [
+        "saxifragie",
+        "saxifragia",
+        "saxifragiae"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_sena": {
+    "ref_id": "I_sena",
+    "canonical": "sena",
+    "forms": {
+      "latin": [
+        "sene",
+        "sena",
+        "senae"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_serapinum": {
+    "ref_id": "I_serapinum",
+    "canonical": "serapinum",
+    "forms": {
+      "latin": [
+        "serapini",
+        "serapinum",
+        "scrapini"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_spica": {
+    "ref_id": "I_spica",
+    "canonical": "spica",
+    "forms": {
+      "latin": [
+        "spice",
+        "spica",
+        "spicae"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_squilla": {
+    "ref_id": "I_squilla",
+    "canonical": "squilla",
+    "forms": {
+      "latin": [
+        "squille",
+        "squilla",
+        "squillae"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_squinantum": {
+    "ref_id": "I_squinantum",
+    "canonical": "squinantum",
+    "forms": {
+      "latin": [
+        "squinanti",
+        "squinantum",
+        "squinanto"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_storax_rubea": {
+    "ref_id": "I_storax_rubea",
+    "canonical": "storax rubea",
+    "forms": {
+      "latin": [
+        "storacis rubee",
+        "storax rubea"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_terbentina": {
+    "ref_id": "I_terbentina",
+    "canonical": "terbentina",
+    "forms": {
+      "latin": [
+        "terbentine",
+        "terbentina",
+        "terebentina"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_thus": {
+    "ref_id": "I_thus",
+    "canonical": "thus",
+    "forms": {
+      "latin": [
+        "turis",
+        "thus",
+        "ture"
+      ],
+      "dalme": [
+        "encens",
+        "thuris"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_xylobalsamum": {
+    "ref_id": "I_xylobalsamum",
+    "canonical": "xylobalsamum",
+    "forms": {
+      "latin": [
+        "xilobalsami",
+        "xylobalsamum",
+        "xilobalsamum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_zedoaria": {
+    "ref_id": "I_zedoaria",
+    "canonical": "zedoaria",
+    "forms": {
+      "latin": [
+        "zedoare",
+        "zedoaria",
+        "zedoariae"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_zuccharum": {
+    "ref_id": "I_zuccharum",
+    "canonical": "zuccharum",
+    "forms": {
+      "latin": [
+        "zuchari",
+        "zuccharum",
+        "zucaro",
+        "zucchari"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_zuccharum_violatum": {
+    "ref_id": "I_zuccharum_violatum",
+    "canonical": "zuccharum violatum",
+    "forms": {
+      "latin": [
+        "zucchari violati",
+        "zucharum violatum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_acorus": {
+    "ref_id": "I_acorus",
+    "canonical": "acorus",
+    "forms": {
+      "latin": [
+        "acori",
+        "acorum",
+        "acoro"
+      ],
+      "regimen": [
+        "acorus"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_agaricum": {
+    "ref_id": "I_agaricum",
+    "canonical": "agaricum",
+    "forms": {
+      "latin": [
+        "agarici",
+        "agaricum",
+        "agarico"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_aliptae": {
+    "ref_id": "I_aliptae",
+    "canonical": "aliptae",
+    "forms": {
+      "latin": [
+        "alipte",
+        "alipta"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_abrotanum": {
+    "ref_id": "I_abrotanum",
+    "canonical": "abrotanum",
+    "forms": {
+      "latin": [
+        "abrotani",
+        "abrotanum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_aurum": {
+    "ref_id": "I_aurum",
+    "canonical": "aurum",
+    "forms": {
+      "latin": [
+        "auri",
+        "aurum",
+        "auro"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_argentum": {
+    "ref_id": "I_argentum",
+    "canonical": "argentum",
+    "forms": {
+      "latin": [
+        "argenti",
+        "argentum",
+        "argento"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_bolus": {
+    "ref_id": "I_bolus",
+    "canonical": "bolus",
+    "forms": {
+      "latin": [
+        "boli",
+        "bolum",
+        "bolo"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_savina": {
+    "ref_id": "I_savina",
+    "canonical": "savina",
+    "forms": {
+      "latin": [
+        "savine",
+        "savina"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_succus": {
+    "ref_id": "I_succus",
+    "canonical": "succus",
+    "forms": {
+      "latin": [
+        "succo",
+        "succum",
+        "succus",
+        "succi"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_plantaginis": {
+    "ref_id": "I_plantaginis",
+    "canonical": "plantaginis",
+    "forms": {
+      "latin": [
+        "plantaginis",
+        "plantago",
+        "plantaginem"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_scariola": {
+    "ref_id": "I_scariola",
+    "canonical": "scariola",
+    "forms": {
+      "latin": [
+        "scariole",
+        "scariola",
+        "scariolarum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_meu": {
+    "ref_id": "I_meu",
+    "canonical": "meu",
+    "forms": {
+      "latin": [
+        "meu"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_seselium": {
+    "ref_id": "I_seselium",
+    "canonical": "seselium",
+    "forms": {
+      "latin": [
+        "siselei",
+        "siseleos",
+        "siselis"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_stipteria": {
+    "ref_id": "I_stipteria",
+    "canonical": "stipteria",
+    "forms": {
+      "latin": [
+        "stipteree",
+        "stipteria"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_orobum": {
+    "ref_id": "I_orobum",
+    "canonical": "orobum",
+    "forms": {
+      "latin": [
+        "orobi",
+        "orobum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_camedreos": {
+    "ref_id": "I_camedreos",
+    "canonical": "camedreos",
+    "forms": {
+      "latin": [
+        "camedreos",
+        "chamaedrys"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_sinon": {
+    "ref_id": "I_sinon",
+    "canonical": "sinon",
+    "forms": {
+      "latin": [
+        "sinoni",
+        "sinon"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_dactylus": {
+    "ref_id": "I_dactylus",
+    "canonical": "dactylus",
+    "forms": {
+      "latin": [
+        "dactilorum",
+        "dactylus"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_carica": {
+    "ref_id": "I_carica",
+    "canonical": "carica",
+    "forms": {
+      "latin": [
+        "caricarum",
+        "carica"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_passula": {
+    "ref_id": "I_passula",
+    "canonical": "passula",
+    "forms": {
+      "latin": [
+        "passarum",
+        "passula",
+        "passularum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_thymus": {
+    "ref_id": "I_thymus",
+    "canonical": "thymus",
+    "forms": {
+      "latin": [
+        "thimi",
+        "thymus",
+        "thymum",
+        "tymbre"
+      ],
+      "regimen": [
+        "thymi"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_puleium_regale": {
+    "ref_id": "I_puleium_regale",
+    "canonical": "puleium regale",
+    "forms": {
+      "latin": [
+        "pigami",
+        "piganum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_satureia": {
+    "ref_id": "I_satureia",
+    "canonical": "satureia",
+    "forms": {
+      "latin": [
+        "satirionum",
+        "satirion"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_prunus": {
+    "ref_id": "I_prunus",
+    "canonical": "prunus",
+    "forms": {
+      "latin": [
+        "prunorum",
+        "prunum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_morus": {
+    "ref_id": "I_morus",
+    "canonical": "morus",
+    "forms": {
+      "latin": [
+        "mororum",
+        "morum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_mumia": {
+    "ref_id": "I_mumia",
+    "canonical": "mumia",
+    "forms": {
+      "latin": [
+        "mumie",
+        "mumia"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_lapis_hematitis": {
+    "ref_id": "I_lapis_hematitis",
+    "canonical": "lapis hematitis",
+    "forms": {
+      "latin": [
+        "emathitis",
+        "hematitis",
+        "lapidis emathitis"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_symphytum": {
+    "ref_id": "I_symphytum",
+    "canonical": "symphytum",
+    "forms": {
+      "latin": [
+        "simphiti",
+        "symphytum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_lemnia": {
+    "ref_id": "I_lemnia",
+    "canonical": "lemnia",
+    "forms": {
+      "latin": [
+        "lempnias",
+        "lemnia",
+        "lemnias"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_hermodactylus": {
+    "ref_id": "I_hermodactylus",
+    "canonical": "hermodactylus",
+    "forms": {
+      "latin": [
+        "hermodactili",
+        "hermodactylum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_sal_gemma": {
+    "ref_id": "I_sal_gemma",
+    "canonical": "sal gemma",
+    "forms": {
+      "latin": [
+        "salis gemnie",
+        "sal gemma"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_litospermum": {
+    "ref_id": "I_litospermum",
+    "canonical": "litospermum",
+    "forms": {
+      "latin": [
+        "litospermatis",
+        "litospermum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_psillium": {
+    "ref_id": "I_psillium",
+    "canonical": "psillium",
+    "forms": {
+      "latin": [
+        "psillii",
+        "psillium"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_ozimum": {
+    "ref_id": "I_ozimum",
+    "canonical": "ozimum",
+    "forms": {
+      "latin": [
+        "ozimi",
+        "ozimum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_elempnium": {
+    "ref_id": "I_elempnium",
+    "canonical": "elempnium",
+    "forms": {
+      "latin": [
+        "elempnii",
+        "elempnium"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_tapsie": {
+    "ref_id": "I_tapsie",
+    "canonical": "tapsie",
+    "forms": {
+      "latin": [
+        "tapsie",
+        "tapsia"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_cocognidium": {
+    "ref_id": "I_cocognidium",
+    "canonical": "cocognidium",
+    "forms": {
+      "latin": [
+        "cocognidii",
+        "cocognidium"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_celticum": {
+    "ref_id": "I_celticum",
+    "canonical": "celticum",
+    "forms": {
+      "latin": [
+        "celtice",
+        "celticum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_laudanum": {
+    "ref_id": "I_laudanum",
+    "canonical": "laudanum",
+    "forms": {
+      "latin": [
+        "laudani",
+        "laudanum",
+        "laudano"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_penidium": {
+    "ref_id": "I_penidium",
+    "canonical": "penidium",
+    "forms": {
+      "latin": [
+        "penidiorum",
+        "penidium"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_pinea": {
+    "ref_id": "I_pinea",
+    "canonical": "pinea",
+    "forms": {
+      "latin": [
+        "pinearum",
+        "pinea"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_ben": {
+    "ref_id": "I_ben",
+    "canonical": "ben",
+    "forms": {
+      "latin": [
+        "ben rubei",
+        "ben"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_nenufar": {
+    "ref_id": "I_nenufar",
+    "canonical": "nenufar",
+    "forms": {
+      "latin": [
+        "nenufaris",
+        "nenufar"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_belliricum": {
+    "ref_id": "I_belliricum",
+    "canonical": "belliricum",
+    "forms": {
+      "latin": [
+        "bellirici",
+        "belliricum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_emblicum": {
+    "ref_id": "I_emblicum",
+    "canonical": "emblicum",
+    "forms": {
+      "latin": [
+        "emblici",
+        "emblicum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_esule": {
+    "ref_id": "I_esule",
+    "canonical": "esule",
+    "forms": {
+      "latin": [
+        "esule",
+        "esula"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_salia_celtica": {
+    "ref_id": "I_salia_celtica",
+    "canonical": "salia celtica",
+    "forms": {
+      "latin": [
+        "saliunce",
+        "saliunca"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_napellus": {
+    "ref_id": "I_napellus",
+    "canonical": "napellus",
+    "forms": {
+      "latin": [
+        "napei",
+        "napellum"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_carvi": {
+    "ref_id": "I_carvi",
+    "canonical": "carvi",
+    "forms": {
+      "latin": [
+        "carvi",
+        "karvi"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_lignum": {
+    "ref_id": "I_lignum",
+    "canonical": "lignum",
+    "forms": {
+      "latin": [
+        "ligni"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_macedonicum": {
+    "ref_id": "I_macedonicum",
+    "canonical": "macedonicum",
+    "forms": {
+      "latin": [
+        "macedonici"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_melancium": {
+    "ref_id": "I_melancium",
+    "canonical": "melancium",
+    "forms": {
+      "latin": [
+        "melancii",
+        "melancium"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_atriplex": {
+    "ref_id": "I_atriplex",
+    "canonical": "atriplex",
+    "forms": {
+      "latin": [
+        "atriplicis",
+        "atriplex"
+      ]
+    },
+    "category": "simple",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "I_nux": {
+    "ref_id": "I_nux",
+    "canonical": "nux",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "nux",
+        "nucis",
+        "nuces",
+        "nucum"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_sinapis": {
+    "ref_id": "I_sinapis",
+    "canonical": "sinapis",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "sinapis",
+        "sinapi"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_feniculam": {
+    "ref_id": "I_feniculam",
+    "canonical": "feniculus",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "feniculus",
+        "feniculi",
+        "feniculum"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_verbena": {
+    "ref_id": "I_verbena",
+    "canonical": "verbena",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "verbena",
+        "verbenae"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_enula": {
+    "ref_id": "I_enula",
+    "canonical": "enula",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "enula",
+        "enulae",
+        "enulam"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_primula": {
+    "ref_id": "I_primula",
+    "canonical": "primula",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "primula"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_raphanus": {
+    "ref_id": "I_raphanus",
+    "canonical": "raphanus",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "raphanus",
+        "raphani"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_theriaca": {
+    "ref_id": "I_theriaca",
+    "canonical": "theriaca",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "theriaca",
+        "theriacam",
+        "theriacae"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_lac": {
+    "ref_id": "I_lac",
+    "canonical": "lac",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "lac",
+        "lactis",
+        "lacte"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_caseus": {
+    "ref_id": "I_caseus",
+    "canonical": "caseus",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "caseus",
+        "casei",
+        "caseum"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_triticum": {
+    "ref_id": "I_triticum",
+    "canonical": "triticum",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "triticum",
+        "tritici"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_porcina": {
+    "ref_id": "I_porcina",
+    "canonical": "porcina",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "porcina",
+        "porcinae"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_ovum": {
+    "ref_id": "I_ovum",
+    "canonical": "ova",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "ova",
+        "ovum",
+        "ovi",
+        "ovorum"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_ficus": {
+    "ref_id": "I_ficus",
+    "canonical": "ficus",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "ficus",
+        "fici"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_uva": {
+    "ref_id": "I_uva",
+    "canonical": "uvae",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "uvae",
+        "uvas",
+        "uva",
+        "uvaeque"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_cepa": {
+    "ref_id": "I_cepa",
+    "canonical": "cepa",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "cepa",
+        "cepis",
+        "cepae",
+        "ceparum"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_porrum": {
+    "ref_id": "I_porrum",
+    "canonical": "porri",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "porri",
+        "porrus",
+        "porrorum",
+        "porrorum"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_lens": {
+    "ref_id": "I_lens",
+    "canonical": "lens",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "lens",
+        "lentis"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_faba": {
+    "ref_id": "I_faba",
+    "canonical": "faba",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "faba",
+        "fabae"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_anguilla": {
+    "ref_id": "I_anguilla",
+    "canonical": "anguilla",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "anguilla",
+        "anguillae",
+        "anguillaque"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_persica": {
+    "ref_id": "I_persica",
+    "canonical": "persica",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "persica"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_pomum": {
+    "ref_id": "I_pomum",
+    "canonical": "poma",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "poma",
+        "pomum",
+        "pomorum"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_pirum": {
+    "ref_id": "I_pirum",
+    "canonical": "pira",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "pira",
+        "pirum",
+        "piri"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_cervisia": {
+    "ref_id": "I_cervisia",
+    "canonical": "cervisia",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "cervisia",
+        "cervisiae"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_sal": {
+    "ref_id": "I_sal",
+    "canonical": "sal",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "sal",
+        "sale",
+        "salis"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_sulphur": {
+    "ref_id": "I_sulphur",
+    "canonical": "sulphur",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "sulphur",
+        "sulfuris"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_calx": {
+    "ref_id": "I_calx",
+    "canonical": "calcem",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "calcem",
+        "calx",
+        "calcis"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_sapo": {
+    "ref_id": "I_sapo",
+    "canonical": "saponi",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "saponi",
+        "sapo",
+        "saponis"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_moschus": {
+    "ref_id": "I_moschus",
+    "canonical": "moscho",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "moscho",
+        "moschum",
+        "moschi"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_morella": {
+    "ref_id": "I_morella",
+    "canonical": "morella",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "morella",
+        "morellae"
+      ]
+    },
+    "sources": [
+      "S06_REGIMEN"
+    ]
+  },
+  "I_fumaria": {
+    "ref_id": "I_fumaria",
+    "canonical": "fumiterre",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "fumiterre",
+        "fumaria",
+        "fumariae"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_sambucus": {
+    "ref_id": "I_sambucus",
+    "canonical": "sambuci",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "sambuci",
+        "sambucus",
+        "sambuci"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_endiva": {
+    "ref_id": "I_endiva",
+    "canonical": "endivie",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "endivie",
+        "endivia",
+        "endiviae"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_scabiosa": {
+    "ref_id": "I_scabiosa",
+    "canonical": "scabioze",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "scabioze",
+        "scabiosa",
+        "scabiosae"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_genista": {
+    "ref_id": "I_genista",
+    "canonical": "geneste",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "geneste",
+        "genista",
+        "genistae"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_camomilla": {
+    "ref_id": "I_camomilla",
+    "canonical": "camomille",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "camomille",
+        "camomilla",
+        "camomillae",
+        "chamomilla"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_manna": {
+    "ref_id": "I_manna",
+    "canonical": "manne",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "manne",
+        "manna",
+        "mannae"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_rhabarbarum": {
+    "ref_id": "I_rhabarbarum",
+    "canonical": "reubarbari",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "reubarbari",
+        "reubarbarum",
+        "rhabarbari"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_myrobalanus": {
+    "ref_id": "I_myrobalanus",
+    "canonical": "mirabolani",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "mirabolani",
+        "myrobalani",
+        "mirabolanorum"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_saccharum": {
+    "ref_id": "I_saccharum",
+    "canonical": "zucre",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "zucre",
+        "zuccari",
+        "saccharum",
+        "sacchari",
+        "succari",
+        "sucre"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_gumma_arabica": {
+    "ref_id": "I_gumma_arabica",
+    "canonical": "gomme",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "gomme",
+        "gumma",
+        "gummae"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_terebinthina": {
+    "ref_id": "I_terebinthina",
+    "canonical": "terebintine",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "terebintine",
+        "terebinthina",
+        "terebinthinae"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_caryophyllum": {
+    "ref_id": "I_caryophyllum",
+    "canonical": "gariofili",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "gariofili",
+        "gariofilorum",
+        "caryophylli",
+        "girofle"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_spica_nardi": {
+    "ref_id": "I_spica_nardi",
+    "canonical": "spice nardi",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "spice nardi",
+        "spica",
+        "nardi"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_benzoinum": {
+    "ref_id": "I_benzoinum",
+    "canonical": "benzoe",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "benzoe",
+        "benzoini"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_vitriolum": {
+    "ref_id": "I_vitriolum",
+    "canonical": "vitrioli",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "vitrioli",
+        "vitriolum"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_arsenicum": {
+    "ref_id": "I_arsenicum",
+    "canonical": "arsenici",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "arsenici",
+        "arsenicum"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_verdigris": {
+    "ref_id": "I_verdigris",
+    "canonical": "viridis aeris",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "viridis aeris",
+        "verdet"
+      ]
+    },
+    "sources": [
+      "S07_DALME"
+    ]
+  },
+  "I_feniculum": {
+    "ref_id": "I_feniculum",
+    "canonical": "feniculum",
+    "gloss_en": "fennel",
+    "gloss_fr": "fenouil",
+    "forms": {
+      "latin": [
+        "feniculi",
+        "feniculum",
+        "feniculo",
+        "maratri",
+        "maratrum"
+      ]
+    }
+  },
+  "I_chamaedris": {
+    "ref_id": "I_chamaedris",
+    "canonical": "chamaedrys",
+    "gloss_en": "wall germander",
+    "gloss_fr": "germandrée petit-chêne",
+    "forms": {
+      "latin": [
+        "camedreos",
+        "chamaedrys",
+        "chamaedrios"
+      ]
+    }
+  },
+  "I_ammi": {
+    "ref_id": "I_ammi",
+    "canonical": "ammi",
+    "gloss_en": "bishop's weed",
+    "gloss_fr": "ammi",
+    "forms": {
+      "latin": [
+        "amei",
+        "ammi",
+        "ammeos"
+      ]
+    }
+  },
+  "I_nitrum": {
+    "ref_id": "I_nitrum",
+    "canonical": "nitrum",
+    "gloss_en": "nitre / saltpeter",
+    "gloss_fr": "nitre / salpêtre",
+    "forms": {
+      "latin": [
+        "nitri",
+        "nitrum",
+        "nitro"
+      ]
+    }
+  },
+  "I_pix": {
+    "ref_id": "I_pix",
+    "canonical": "pix",
+    "gloss_en": "pitch",
+    "gloss_fr": "poix",
+    "forms": {
+      "latin": [
+        "picis",
+        "picem",
+        "pix",
+        "pice"
+      ]
+    }
+  },
+  "I_blatta_byzantia": {
+    "ref_id": "I_blatta_byzantia",
+    "canonical": "blatta byzantia",
+    "gloss_en": "Byzantine purple shell",
+    "gloss_fr": "blatte de Byzance",
+    "forms": {
+      "latin": [
+        "blacte",
+        "bizantie",
+        "blatta byzantia",
+        "blattae bizantiae"
+      ]
+    }
+  },
+  "I_eryngium": {
+    "ref_id": "I_eryngium",
+    "canonical": "eryngium",
+    "gloss_en": "sea holly",
+    "gloss_fr": "panicaut / chardon Roland",
+    "forms": {
+      "latin": [
+        "yringi",
+        "eringi",
+        "eryngium",
+        "eryngii"
+      ]
+    }
+  },
+  "I_butyrum": {
+    "ref_id": "I_butyrum",
+    "canonical": "butyrum",
+    "gloss_en": "butter",
+    "gloss_fr": "beurre",
+    "forms": {
+      "latin": [
+        "butiri",
+        "butyrum",
+        "butirum",
+        "butiro"
+      ]
+    }
+  },
+  "I_aaron": {
+    "ref_id": "I_aaron",
+    "canonical": "aaron",
+    "gloss_en": "cuckoo-pint / lords-and-ladies",
+    "gloss_fr": "arum / gouet",
+    "forms": {
+      "latin": [
+        "aaron",
+        "aron",
+        "aari"
+      ]
+    }
+  },
+  "I_scolopendrium": {
+    "ref_id": "I_scolopendrium",
+    "canonical": "scolopendrium",
+    "gloss_en": "hart's tongue fern",
+    "gloss_fr": "scolopendre / langue de cerf",
+    "forms": {
+      "latin": [
+        "scolopendrie",
+        "scolopendrium",
+        "scolopendrii"
+      ]
+    }
+  },
+  "I_adipem": {
+    "ref_id": "I_adipem",
+    "canonical": "adeps",
+    "gloss_en": "fat / lard",
+    "gloss_fr": "graisse / saindoux",
+    "forms": {
+      "latin": [
+        "adipis",
+        "adipe",
+        "adipem",
+        "adeps"
+      ]
+    }
+  },
+  "I_resina": {
+    "ref_id": "I_resina",
+    "canonical": "resina",
+    "gloss_en": "resin",
+    "gloss_fr": "résine",
+    "forms": {
+      "latin": [
+        "resine",
+        "resina",
+        "resinae",
+        "resinam"
+      ]
+    }
+  },
+  "I_draguntea": {
+    "ref_id": "I_draguntea",
+    "canonical": "draguntea",
+    "gloss_en": "dragon arum",
+    "gloss_fr": "serpentaire",
+    "forms": {
+      "latin": [
+        "draguntee",
+        "draguntea",
+        "dracontea"
+      ]
+    }
+  },
+  "I_os_cervi": {
+    "ref_id": "I_os_cervi",
+    "canonical": "os cervi",
+    "gloss_en": "stag bone (heart bone)",
+    "gloss_fr": "os de coeur de cerf",
+    "forms": {
+      "latin": [
+        "ossis",
+        "os cervi",
+        "ossis de corde cervi"
+      ]
+    }
+  },
+  "I_calaminthum": {
+    "ref_id": "I_calaminthum",
+    "canonical": "calamintha",
+    "gloss_en": "calamint",
+    "gloss_fr": "calament",
+    "forms": {
+      "latin": [
+        "calamite",
+        "calamintha",
+        "calamintham",
+        "calamenti"
+      ]
+    }
+  },
+  "I_anethum": {
+    "ref_id": "I_anethum",
+    "canonical": "anethum",
+    "gloss_en": "dill",
+    "gloss_fr": "aneth",
+    "forms": {
+      "latin": [
+        "aneti",
+        "anethum",
+        "anethi"
+      ]
+    }
+  },
+  "I_urtica": {
+    "ref_id": "I_urtica",
+    "canonical": "urtica",
+    "gloss_en": "nettle",
+    "gloss_fr": "ortie",
+    "forms": {
+      "latin": [
+        "urtica",
+        "urticae",
+        "urticam"
+      ]
+    }
+  },
+  "I_sinapi": {
+    "ref_id": "I_sinapi",
+    "canonical": "sinapis",
+    "gloss_en": "mustard",
+    "gloss_fr": "moutarde",
+    "forms": {
+      "latin": [
+        "sinapis",
+        "sinapi",
+        "sinapium"
+      ]
+    }
+  },
+  "I_paeonia": {
+    "ref_id": "I_paeonia",
+    "canonical": "paeonia",
+    "gloss_en": "peony",
+    "gloss_fr": "pivoine",
+    "forms": {
+      "latin": [
+        "pionie",
+        "pionia",
+        "pioniae",
+        "paeonia"
+      ]
+    }
+  },
+  "I_ostrutium": {
+    "ref_id": "I_ostrutium",
+    "canonical": "ostrutium",
+    "gloss_en": "masterwort",
+    "gloss_fr": "impératoire",
+    "forms": {
+      "latin": [
+        "ostrutium",
+        "ostrutii"
+      ]
+    }
+  },
+  "I_althaea": {
+    "ref_id": "I_althaea",
+    "canonical": "althaea",
+    "gloss_en": "marshmallow",
+    "gloss_fr": "guimauve",
+    "forms": {
+      "latin": [
+        "althaea",
+        "althaeae",
+        "althaeam"
+      ]
+    }
+  },
+  "I_chamomilla": {
+    "ref_id": "I_chamomilla",
+    "canonical": "chamomilla",
+    "gloss_en": "chamomile",
+    "gloss_fr": "camomille",
+    "forms": {
+      "latin": [
+        "chamomilla",
+        "camomilla",
+        "camomille",
+        "chamomillae"
+      ]
+    }
+  },
+  "I_ligusticum": {
+    "ref_id": "I_ligusticum",
+    "canonical": "ligusticum",
+    "gloss_en": "lovage",
+    "gloss_fr": "livèche",
+    "forms": {
+      "latin": [
+        "ligusticum",
+        "ligustici"
+      ]
+    }
+  },
+  "I_serpillum": {
+    "ref_id": "I_serpillum",
+    "canonical": "serpillum",
+    "gloss_en": "wild thyme",
+    "gloss_fr": "serpolet",
+    "forms": {
+      "latin": [
+        "serpillum",
+        "serpilli",
+        "serpillum"
+      ]
+    }
+  },
+  "I_marrubium": {
+    "ref_id": "I_marrubium",
+    "canonical": "marrubium",
+    "gloss_en": "horehound",
+    "gloss_fr": "marrube",
+    "forms": {
+      "latin": [
+        "marrubium",
+        "marrubii"
+      ]
+    }
+  },
+  "I_senecio": {
+    "ref_id": "I_senecio",
+    "canonical": "senecio",
+    "gloss_en": "groundsel",
+    "gloss_fr": "séneçon",
+    "forms": {
+      "latin": [
+        "senecio",
+        "senecionis"
+      ]
+    }
+  },
+  "I_nepeta": {
+    "ref_id": "I_nepeta",
+    "canonical": "nepeta",
+    "gloss_en": "catmint",
+    "gloss_fr": "népète / cataire",
+    "forms": {
+      "latin": [
+        "nepeta",
+        "nepetae"
+      ]
+    }
+  },
+  "I_meum": {
+    "ref_id": "I_meum",
+    "canonical": "meum",
+    "gloss_en": "baldmoney / spignel",
+    "gloss_fr": "méum / fenouil des Alpes",
+    "forms": {
+      "latin": [
+        "meu",
+        "meum",
+        "mei"
+      ]
+    }
+  },
+  "I_citrolus": {
+    "ref_id": "I_citrolus",
+    "canonical": "citroli",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "citroli",
+        "citrolus",
+        "citroli"
+      ]
+    }
+  },
+  "I_melon": {
+    "ref_id": "I_melon",
+    "canonical": "melonis",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "melonis",
+        "melonum",
+        "melo"
+      ]
+    }
+  },
+  "I_epithimum": {
+    "ref_id": "I_epithimum",
+    "canonical": "epithimi",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "epithimi",
+        "epithimum"
+      ]
+    }
+  },
+  "I_citrus": {
+    "ref_id": "I_citrus",
+    "canonical": "citri",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "citri",
+        "citrus"
+      ]
+    }
+  },
+  "I_ros_marinus": {
+    "ref_id": "I_ros_marinus",
+    "canonical": "roris marini",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "roris marini",
+        "roris"
+      ]
+    }
+  },
+  "I_cucumis": {
+    "ref_id": "I_cucumis",
+    "canonical": "cucumeris",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "cucumeris",
+        "cucumis",
+        "cucumerum"
+      ]
+    }
+  },
+  "I_siler": {
+    "ref_id": "I_siler",
+    "canonical": "sileris",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "sileris",
+        "siler"
+      ]
+    }
+  },
+  "I_diptamnus": {
+    "ref_id": "I_diptamnus",
+    "canonical": "diptami",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "diptami",
+        "diptamnum",
+        "diptamnus"
+      ]
+    }
+  },
+  "I_prassium": {
+    "ref_id": "I_prassium",
+    "canonical": "prassii",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "prassii",
+        "prassium"
+      ]
+    }
+  },
+  "I_ameos": {
+    "ref_id": "I_ameos",
+    "canonical": "ameos",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "ameos"
+      ]
+    }
+  },
+  "I_arnoglossa": {
+    "ref_id": "I_arnoglossa",
+    "canonical": "arnoglossa",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "arnoglossa"
+      ]
+    }
+  },
+  "I_cantharides": {
+    "ref_id": "I_cantharides",
+    "canonical": "cantharides",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "cantarides",
+        "cantaridum",
+        "cantaridarum"
+      ]
+    }
+  },
+  "I_bryonia": {
+    "ref_id": "I_bryonia",
+    "canonical": "bryonia",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "bryonia",
+        "brioninum"
+      ]
+    }
+  },
+  "I_fraxinus": {
+    "ref_id": "I_fraxinus",
+    "canonical": "fraxinus",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "fraxinus",
+        "fraxininum"
+      ]
+    }
+  },
+  "I_cannabis": {
+    "ref_id": "I_cannabis",
+    "canonical": "cannabis",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "cannabis"
+      ]
+    }
+  },
+  "I_chimolea": {
+    "ref_id": "I_chimolea",
+    "canonical": "chimolea",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "chimolea",
+        "cimolea"
+      ]
+    }
+  },
+  "I_oxymel": {
+    "ref_id": "I_oxymel",
+    "canonical": "oxymel",
+    "gloss_en": "",
+    "gloss_fr": "",
+    "forms": {
+      "latin": [
+        "oximelle",
+        "oxymellium"
+      ]
+    }
+  },
+  "I_linum": {
+    "ref_id": "I_linum",
+    "canonical": "linum",
+    "gloss_en": "flax/linseed",
+    "gloss_fr": "lin",
+    "forms": {
+      "latin": [
+        "linum",
+        "lini",
+        "lino"
+      ]
+    }
+  },
+  "I_ptisana": {
+    "ref_id": "I_ptisana",
+    "canonical": "ptisana",
+    "gloss_en": "barley water/tisane",
+    "gloss_fr": "tisane",
+    "forms": {
+      "latin": [
+        "ptisana",
+        "ptisanam",
+        "ptisanae"
+      ]
+    }
+  },
+  "I_sanguis": {
+    "canonical": "sanguis",
+    "gloss_en": "blood",
+    "gloss_fr": "sang",
+    "forms": {
+      "latin": [
+        "sanguis",
+        "sanguinis",
+        "sanguine",
+        "sanguinem",
+        "sanguineus",
+        "sanguinis",
+        "fanguinis",
+        "fanguinem"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "I_farina": {
+    "canonical": "farina",
+    "gloss_en": "flour/meal",
+    "gloss_fr": "farine",
+    "forms": {
+      "latin": [
+        "farina",
+        "farinae",
+        "farinam"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "I_panis": {
+    "canonical": "panis",
+    "gloss_en": "bread",
+    "gloss_fr": "pain",
+    "forms": {
+      "latin": [
+        "panis",
+        "pane",
+        "panem",
+        "panes"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "I_lapis": {
+    "canonical": "lapis",
+    "gloss_en": "stone (mineral remedy)",
+    "gloss_fr": "pierre (remede mineral)",
+    "forms": {
+      "latin": [
+        "lapis",
+        "lapidis",
+        "lapidem",
+        "lapide",
+        "lapides"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "I_urina": {
+    "canonical": "urina",
+    "gloss_en": "urine (diagnostic/remedy)",
+    "gloss_fr": "urine (diagnostic/remede)",
+    "forms": {
+      "latin": [
+        "urina",
+        "urinae",
+        "urinam",
+        "urinas"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "I_caro": {
+    "canonical": "caro",
+    "gloss_en": "flesh/meat",
+    "gloss_fr": "chair/viande",
+    "forms": {
+      "latin": [
+        "caro",
+        "carnis",
+        "carne",
+        "carnem",
+        "carnes"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "I_species": {
+    "canonical": "species",
+    "gloss_en": "spice/compound mixture",
+    "gloss_fr": "epice/melange compose",
+    "forms": {
+      "latin": [
+        "species",
+        "specierum",
+        "speciebus",
+        "speciem"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "I_materia": {
+    "canonical": "materia",
+    "gloss_en": "matter/substance",
+    "gloss_fr": "matiere/substance",
+    "forms": {
+      "latin": [
+        "materia",
+        "materiae",
+        "materiam",
+        "materie"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "I_herba": {
+    "canonical": "herba",
+    "gloss_en": "herb/plant",
+    "gloss_fr": "herbe/plante",
+    "forms": {
+      "latin": [
+        "herba",
+        "herbe",
+        "herbae",
+        "herbam",
+        "herbas",
+        "herbarum"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "I_alumen": {
+    "canonical": "alumen",
+    "gloss_en": "alum",
+    "gloss_fr": "alun",
+    "forms": {
+      "latin": [
+        "alumen",
+        "aluminis",
+        "alumine",
+        "alum",
+        "aluminium"
+      ]
+    },
+    "source": "De Balneis Puteolanis"
+  },
+  "I_bitumen": {
+    "canonical": "bitumen",
+    "gloss_en": "bitumen/pitch",
+    "gloss_fr": "bitume/poix",
+    "forms": {
+      "latin": [
+        "bitumen",
+        "bituminis",
+        "bitumine",
+        "bituminum"
+      ]
+    },
+    "source": "De Balneis Puteolanis"
+  },
+  "I_myrrhus": {
+    "canonical": "myrtus",
+    "gloss_en": "myrtle",
+    "gloss_fr": "myrte",
+    "forms": {
+      "latin": [
+        "myrtus",
+        "myrti",
+        "myrto",
+        "myrtum"
+      ]
+    },
+    "source": "Tacuinum Sanitatis"
+  },
+  "I_malum": {
+    "ref_id": "I_malum",
+    "canonical": "malum",
+    "gloss_fr": "pomme",
+    "forms": {
+      "latin": [
+        "malum",
+        "mala",
+        "malorum",
+        "mali",
+        "malis",
+        "poma",
+        "pomum",
+        "pomis"
+      ]
+    },
+    "category": "fructus",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_oryza": {
+    "ref_id": "I_oryza",
+    "canonical": "oryza",
+    "gloss_fr": "riz",
+    "forms": {
+      "latin": [
+        "oryza",
+        "oryzae",
+        "rizon",
+        "risi",
+        "risum"
+      ]
+    },
+    "category": "granum",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_hordeum": {
+    "ref_id": "I_hordeum",
+    "canonical": "hordeum",
+    "gloss_fr": "orge",
+    "forms": {
+      "latin": [
+        "hordeum",
+        "hordei",
+        "hordeo",
+        "ordeum",
+        "ordei"
+      ]
+    },
+    "category": "granum",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_caepa": {
+    "ref_id": "I_caepa",
+    "canonical": "caepa",
+    "gloss_fr": "oignon",
+    "forms": {
+      "latin": [
+        "caepa",
+        "caepae",
+        "cepa",
+        "cepae",
+        "cepis",
+        "cepas"
+      ]
+    },
+    "category": "herba",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_cucurbita": {
+    "ref_id": "I_cucurbita",
+    "canonical": "cucurbita",
+    "gloss_fr": "courge",
+    "forms": {
+      "latin": [
+        "cucurbita",
+        "cucurbitae",
+        "cucurbitam",
+        "cucurbitas"
+      ]
+    },
+    "category": "herba",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_spinachia": {
+    "ref_id": "I_spinachia",
+    "canonical": "spinachia",
+    "gloss_fr": "epinard",
+    "forms": {
+      "latin": [
+        "spinachia",
+        "spinachiae",
+        "spinacia",
+        "spinaciae"
+      ]
+    },
+    "category": "herba",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_milium": {
+    "ref_id": "I_milium",
+    "canonical": "milium",
+    "gloss_fr": "millet",
+    "forms": {
+      "latin": [
+        "milium",
+        "milii",
+        "milio"
+      ]
+    },
+    "category": "granum",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_gallina": {
+    "ref_id": "I_gallina",
+    "canonical": "gallina",
+    "gloss_fr": "poule",
+    "forms": {
+      "latin": [
+        "gallina",
+        "gallinae",
+        "gallinarum",
+        "gallinis",
+        "pullus",
+        "pulli",
+        "pullis",
+        "pullorum"
+      ]
+    },
+    "category": "animal",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_piscis": {
+    "ref_id": "I_piscis",
+    "canonical": "piscis",
+    "gloss_fr": "poisson",
+    "forms": {
+      "latin": [
+        "piscis",
+        "pisce",
+        "piscium",
+        "pisces",
+        "piscibus",
+        "piscem"
+      ]
+    },
+    "category": "animal",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_persicum": {
+    "ref_id": "I_persicum",
+    "canonical": "persicum",
+    "gloss_fr": "peche",
+    "forms": {
+      "latin": [
+        "persica",
+        "persicae",
+        "persicum",
+        "persicorum",
+        "persicis"
+      ]
+    },
+    "category": "fructus",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_prunum": {
+    "ref_id": "I_prunum",
+    "canonical": "prunum",
+    "gloss_fr": "prune",
+    "forms": {
+      "latin": [
+        "prunum",
+        "pruna",
+        "prunorum",
+        "prunis",
+        "prunus"
+      ]
+    },
+    "category": "fructus",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_cerasum": {
+    "ref_id": "I_cerasum",
+    "canonical": "cerasum",
+    "gloss_fr": "cerise",
+    "forms": {
+      "latin": [
+        "cerasum",
+        "cerasa",
+        "cerasorum",
+        "cerasis"
+      ]
+    },
+    "category": "fructus",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_avena": {
+    "ref_id": "I_avena",
+    "canonical": "avena",
+    "gloss_fr": "avoine",
+    "forms": {
+      "latin": [
+        "avena",
+        "avenae",
+        "avenis"
+      ]
+    },
+    "category": "granum",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_beta": {
+    "ref_id": "I_beta",
+    "canonical": "beta",
+    "gloss_fr": "bette/betterave",
+    "forms": {
+      "latin": [
+        "beta",
+        "betae",
+        "betas",
+        "betis"
+      ]
+    },
+    "category": "herba",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_brassica": {
+    "ref_id": "I_brassica",
+    "canonical": "brassica",
+    "gloss_fr": "chou",
+    "forms": {
+      "latin": [
+        "brassica",
+        "brassicae",
+        "brassicam",
+        "caulis",
+        "caule",
+        "caulibus"
+      ]
+    },
+    "category": "herba",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_cicer": {
+    "ref_id": "I_cicer",
+    "canonical": "cicer",
+    "gloss_fr": "pois chiche",
+    "forms": {
+      "latin": [
+        "cicer",
+        "ciceris",
+        "cicere",
+        "ciceribus"
+      ]
+    },
+    "category": "granum",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "I_collum": {
+    "ref_id": "I_collum",
+    "canonical": "collum",
+    "meaning": "neck",
+    "forms": {
+      "latin": [
+        "collum",
+        "collo",
+        "colli"
+      ]
+    }
+  },
+  "I_guttur": {
+    "ref_id": "I_guttur",
+    "canonical": "guttur",
+    "meaning": "throat",
+    "forms": {
+      "latin": [
+        "guttur",
+        "gutturis",
+        "gutture"
+      ]
+    }
+  },
+  "I_pectus": {
+    "ref_id": "I_pectus",
+    "canonical": "pectus",
+    "meaning": "chest, breast",
+    "forms": {
+      "latin": [
+        "pectus",
+        "pectoris",
+        "pectore"
+      ]
+    }
+  },
+  "I_pulmo": {
+    "ref_id": "I_pulmo",
+    "canonical": "pulmo",
+    "meaning": "lung",
+    "forms": {
+      "latin": [
+        "pulmo",
+        "pulmonis",
+        "pulmonem",
+        "pulmone"
+      ]
+    }
+  },
+  "I_epar": {
+    "ref_id": "I_epar",
+    "canonical": "epar/hepar",
+    "meaning": "liver",
+    "forms": {
+      "latin": [
+        "epar",
+        "hepar",
+        "hepatis",
+        "hepate",
+        "epatis",
+        "epate"
+      ]
+    }
+  },
+  "I_intestinum": {
+    "ref_id": "I_intestinum",
+    "canonical": "intestinum",
+    "meaning": "intestine, bowels",
+    "forms": {
+      "latin": [
+        "intestinum",
+        "intestina",
+        "intestini",
+        "intestinis",
+        "intestino"
+      ]
+    }
+  },
+  "I_ren": {
+    "ref_id": "I_ren",
+    "canonical": "ren",
+    "meaning": "kidney",
+    "forms": {
+      "latin": [
+        "ren",
+        "renes",
+        "renum",
+        "renibus",
+        "renis"
+      ]
+    }
+  },
+  "I_vesica": {
+    "ref_id": "I_vesica",
+    "canonical": "vesica",
+    "meaning": "bladder",
+    "forms": {
+      "latin": [
+        "vesica",
+        "vesicae",
+        "vesicam",
+        "vesicea",
+        "veficam",
+        "vefice"
+      ]
+    }
+  },
+  "I_genu": {
+    "ref_id": "I_genu",
+    "canonical": "genu",
+    "meaning": "knee",
+    "forms": {
+      "latin": [
+        "genu",
+        "genua",
+        "genuum",
+        "genibus"
+      ]
+    }
+  },
+  "I_tibia": {
+    "ref_id": "I_tibia",
+    "canonical": "tibia",
+    "meaning": "shin, lower leg",
+    "forms": {
+      "latin": [
+        "tibia",
+        "tibias",
+        "tibiam",
+        "tibiae",
+        "tibiarum"
+      ]
+    }
+  },
+  "I_pes": {
+    "ref_id": "I_pes",
+    "canonical": "pes",
+    "meaning": "foot",
+    "forms": {
+      "latin": [
+        "pes",
+        "pedes",
+        "pedum",
+        "pedis",
+        "pedibus"
+      ]
+    }
+  },
+  "I_vena": {
+    "ref_id": "I_vena",
+    "canonical": "vena",
+    "meaning": "vein (phlebotomy)",
+    "forms": {
+      "latin": [
+        "vena",
+        "vene",
+        "venae",
+        "venam",
+        "venis",
+        "venarum"
+      ]
+    }
+  },
+  "I_scapula": {
+    "ref_id": "I_scapula",
+    "canonical": "scapula",
+    "meaning": "shoulder blade",
+    "forms": {
+      "latin": [
+        "scapula",
+        "scapulas",
+        "scapulae",
+        "scapulis",
+        "spatulas",
+        "fcapulas"
+      ]
+    }
+  },
+  "I_manus": {
+    "ref_id": "I_manus",
+    "canonical": "manus",
+    "meaning": "hand",
+    "forms": {
+      "latin": [
+        "manus",
+        "manuum",
+        "manibus",
+        "manum"
+      ]
+    }
+  },
+  "I_fenugraecum": {
+    "ref_id": "I_fenugraecum",
+    "canonical": "fenugraecum",
+    "meaning": "fenugreek",
+    "forms": {
+      "latin": [
+        "fenugraecum",
+        "fenugreci",
+        "fenugreco",
+        "fenugreci"
+      ]
+    }
+  },
+  "I_baurac": {
+    "ref_id": "I_baurac",
+    "canonical": "baurac/borax",
+    "meaning": "borax",
+    "forms": {
+      "latin": [
+        "baurac",
+        "borax",
+        "boracis"
+      ]
+    }
+  },
+  "I_armoniacum": {
+    "ref_id": "I_armoniacum",
+    "canonical": "armoniacum/ammoniacum",
+    "meaning": "ammoniac gum",
+    "forms": {
+      "latin": [
+        "armoniacum",
+        "armoniaci",
+        "ammoniacum",
+        "ammoniaci"
+      ]
+    }
+  },
+  "I_alcohol": {
+    "ref_id": "I_alcohol",
+    "canonical": "alcohol",
+    "meaning": "alcohol/antimony powder",
+    "forms": {
+      "latin": [
+        "alcohol",
+        "alcoholis"
+      ]
+    }
+  }
+}

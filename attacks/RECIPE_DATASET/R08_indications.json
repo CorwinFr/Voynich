@@ -1,0 +1,1452 @@
+{
+  "_meta": {
+    "description": "Medical conditions and therapeutic indications",
+    "period": "12th-15th century",
+    "version": "2026-04-11",
+    "count": 85
+  },
+  "M_cephalargia": {
+    "ref_id": "M_cephalargia",
+    "canonical": "cephalargia",
+    "gloss_en": "headache",
+    "gloss_fr": "mal de tete",
+    "forms": {
+      "latin": [
+        "cephalargia",
+        "cephalargicis",
+        "dolor capitis"
+      ]
+    },
+    "body_region": "head",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_emigranea": {
+    "ref_id": "M_emigranea",
+    "canonical": "emigranea",
+    "gloss_en": "migraine",
+    "gloss_fr": "migraine",
+    "forms": {
+      "latin": [
+        "emigranea",
+        "emigraneam",
+        "hemicrania"
+      ]
+    },
+    "body_region": "head",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_epilepsia": {
+    "ref_id": "M_epilepsia",
+    "canonical": "epilepsia",
+    "gloss_en": "epilepsy",
+    "gloss_fr": "epilepsie",
+    "forms": {
+      "latin": [
+        "epilepsia",
+        "epilenticis",
+        "morbus caducus"
+      ]
+    },
+    "body_region": "head",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_paralysis": {
+    "ref_id": "M_paralysis",
+    "canonical": "paralysis",
+    "gloss_en": "paralysis",
+    "gloss_fr": "paralysie",
+    "forms": {
+      "latin": [
+        "paralysis",
+        "paraliticis"
+      ]
+    },
+    "body_region": "head",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_litargia": {
+    "ref_id": "M_litargia",
+    "canonical": "litargia",
+    "gloss_en": "lethargy",
+    "gloss_fr": "lethargie",
+    "forms": {
+      "latin": [
+        "litargia",
+        "litargicis",
+        "lethargia"
+      ]
+    },
+    "body_region": "head",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_dolor_oculorum": {
+    "ref_id": "M_dolor_oculorum",
+    "canonical": "dolor oculorum",
+    "gloss_en": "eye pain",
+    "gloss_fr": "douleur des yeux",
+    "forms": {
+      "latin": [
+        "dolor oculorum",
+        "oculorum doloribus"
+      ]
+    },
+    "body_region": "eyes",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_caligo": {
+    "ref_id": "M_caligo",
+    "canonical": "caligo",
+    "gloss_en": "dimness of sight",
+    "gloss_fr": "obscurcissement de la vue",
+    "forms": {
+      "latin": [
+        "caligo",
+        "caliginem oculorum"
+      ]
+    },
+    "body_region": "eyes",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_tussis": {
+    "ref_id": "M_tussis",
+    "canonical": "tussis",
+    "gloss_en": "cough",
+    "gloss_fr": "toux",
+    "forms": {
+      "latin": [
+        "tussis",
+        "tussim",
+        "tussientibus"
+      ]
+    },
+    "body_region": "chest",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "M_asma": {
+    "ref_id": "M_asma",
+    "canonical": "asma",
+    "gloss_en": "asthma",
+    "gloss_fr": "asthme",
+    "forms": {
+      "latin": [
+        "asma",
+        "asmaticis"
+      ]
+    },
+    "body_region": "chest",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_ptisis": {
+    "ref_id": "M_ptisis",
+    "canonical": "ptisis",
+    "gloss_en": "consumption/TB",
+    "gloss_fr": "phtisie",
+    "forms": {
+      "latin": [
+        "ptisis",
+        "ptisicis"
+      ]
+    },
+    "body_region": "chest",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_dolor_stomachi": {
+    "ref_id": "M_dolor_stomachi",
+    "canonical": "dolor stomachi",
+    "gloss_en": "stomach pain",
+    "gloss_fr": "douleur d'estomac",
+    "forms": {
+      "latin": [
+        "dolor stomachi",
+        "stomaci indigestionem"
+      ]
+    },
+    "body_region": "stomach",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_vomitus": {
+    "ref_id": "M_vomitus",
+    "canonical": "vomitus",
+    "gloss_en": "vomiting",
+    "gloss_fr": "vomissement",
+    "forms": {
+      "latin": [
+        "vomitus",
+        "vomitum"
+      ]
+    },
+    "body_region": "stomach",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_dysenteria": {
+    "ref_id": "M_dysenteria",
+    "canonical": "dysenteria",
+    "gloss_en": "dysentery",
+    "gloss_fr": "dysenterie",
+    "forms": {
+      "latin": [
+        "dysenteria",
+        "discinteriam",
+        "discintericis"
+      ]
+    },
+    "body_region": "bowels",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_diarrhea": {
+    "ref_id": "M_diarrhea",
+    "canonical": "diarrhea",
+    "gloss_en": "diarrhea",
+    "gloss_fr": "diarrhee",
+    "forms": {
+      "latin": [
+        "diarrhea",
+        "diariam",
+        "fluxum ventris"
+      ]
+    },
+    "body_region": "bowels",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_constipatio": {
+    "ref_id": "M_constipatio",
+    "canonical": "constipatio",
+    "gloss_en": "constipation",
+    "gloss_fr": "constipation",
+    "forms": {
+      "latin": [
+        "constipatio",
+        "ventris constipatione"
+      ]
+    },
+    "body_region": "bowels",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_colica": {
+    "ref_id": "M_colica",
+    "canonical": "colica",
+    "gloss_en": "colic",
+    "gloss_fr": "colique",
+    "forms": {
+      "latin": [
+        "colica",
+        "colicam"
+      ]
+    },
+    "body_region": "bowels",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_icteria": {
+    "ref_id": "M_icteria",
+    "canonical": "icteria",
+    "gloss_en": "jaundice",
+    "gloss_fr": "jaunisse/ictere",
+    "forms": {
+      "latin": [
+        "icteria",
+        "icteritia",
+        "yctericis"
+      ]
+    },
+    "body_region": "liver",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_oppilatio_hepatis": {
+    "ref_id": "M_oppilatio_hepatis",
+    "canonical": "oppilatio hepatis",
+    "gloss_en": "liver obstruction",
+    "gloss_fr": "obstruction du foie",
+    "forms": {
+      "latin": [
+        "oppilatio hepatis",
+        "epatis enfrasim"
+      ]
+    },
+    "body_region": "liver",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_oppilatio_splenis": {
+    "ref_id": "M_oppilatio_splenis",
+    "canonical": "oppilatio splenis",
+    "gloss_en": "spleen obstruction",
+    "gloss_fr": "obstruction de la rate",
+    "forms": {
+      "latin": [
+        "oppilatio splenis",
+        "selirosim in spiene"
+      ]
+    },
+    "body_region": "spleen",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_calculus": {
+    "ref_id": "M_calculus",
+    "canonical": "calculus",
+    "gloss_en": "kidney/bladder stone",
+    "gloss_fr": "calcul/pierre",
+    "forms": {
+      "latin": [
+        "calculus",
+        "calculis",
+        "petram in vesica",
+        "lapidem"
+      ]
+    },
+    "body_region": "kidneys",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_stranguria": {
+    "ref_id": "M_stranguria",
+    "canonical": "stranguria",
+    "gloss_en": "difficulty urinating",
+    "gloss_fr": "strangurie",
+    "forms": {
+      "latin": [
+        "stranguria",
+        "stranguirium"
+      ]
+    },
+    "body_region": "bladder",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_nephritica": {
+    "ref_id": "M_nephritica",
+    "canonical": "nephritica",
+    "gloss_en": "kidney disease",
+    "gloss_fr": "nephrite",
+    "forms": {
+      "latin": [
+        "nephritica",
+        "nefreticis"
+      ]
+    },
+    "body_region": "kidneys",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_gutta": {
+    "ref_id": "M_gutta",
+    "canonical": "gutta",
+    "gloss_en": "gout",
+    "gloss_fr": "goutte",
+    "forms": {
+      "latin": [
+        "gutta",
+        "guttam",
+        "podagra",
+        "podagricis"
+      ]
+    },
+    "body_region": "joints",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_artetica": {
+    "ref_id": "M_artetica",
+    "canonical": "artetica",
+    "gloss_en": "arthritis",
+    "gloss_fr": "arthrite",
+    "forms": {
+      "latin": [
+        "artetica",
+        "arteticis",
+        "arteticam"
+      ]
+    },
+    "body_region": "joints",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_sciatica": {
+    "ref_id": "M_sciatica",
+    "canonical": "sciatica",
+    "gloss_en": "sciatica",
+    "gloss_fr": "sciatique",
+    "forms": {
+      "latin": [
+        "sciatica",
+        "sciaticis"
+      ]
+    },
+    "body_region": "joints",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_scabies": {
+    "ref_id": "M_scabies",
+    "canonical": "scabies",
+    "gloss_en": "scabies/itch",
+    "gloss_fr": "gale",
+    "forms": {
+      "latin": [
+        "scabies",
+        "scabiem",
+        "scabie",
+        "fcabies",
+        "fcabiem"
+      ]
+    },
+    "body_region": "skin",
+    "sources_attested": [
+      "CI",
+      "Macer"
+    ]
+  },
+  "M_lepra": {
+    "ref_id": "M_lepra",
+    "canonical": "lepra",
+    "gloss_en": "leprosy",
+    "gloss_fr": "lepre",
+    "forms": {
+      "latin": [
+        "lepra",
+        "lepram"
+      ]
+    },
+    "body_region": "skin",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "M_apostema": {
+    "ref_id": "M_apostema",
+    "canonical": "apostema",
+    "gloss_en": "abscess/swelling",
+    "gloss_fr": "aposteme/abces",
+    "forms": {
+      "latin": [
+        "apostema",
+        "apostemata",
+        "apostematum",
+        "apostematis",
+        "apostemate",
+        "apostematibus"
+      ]
+    },
+    "body_region": "any",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_vulnus": {
+    "ref_id": "M_vulnus",
+    "canonical": "vulnus",
+    "gloss_en": "wound",
+    "gloss_fr": "blessure/plaie",
+    "forms": {
+      "latin": [
+        "vulnus",
+        "vulnera",
+        "vulnerum",
+        "vulneribus"
+      ]
+    },
+    "body_region": "any",
+    "sources_attested": [
+      "CI",
+      "Macer"
+    ]
+  },
+  "M_ulcus": {
+    "ref_id": "M_ulcus",
+    "canonical": "ulcus",
+    "gloss_en": "ulcer",
+    "gloss_fr": "ulcere",
+    "forms": {
+      "latin": [
+        "ulcus",
+        "ulcera",
+        "ulcerum"
+      ]
+    },
+    "body_region": "any",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "M_febris": {
+    "ref_id": "M_febris",
+    "canonical": "febris",
+    "gloss_en": "fever",
+    "gloss_fr": "fievre",
+    "forms": {
+      "latin": [
+        "febris",
+        "febrem",
+        "febribus",
+        "febricitantibus",
+        "febres",
+        "febrium",
+        "febri",
+        "feb:is",
+        "effimera"
+      ]
+    },
+    "body_region": "systemic",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "M_febris_tertiana": {
+    "ref_id": "M_febris_tertiana",
+    "canonical": "febris tertiana",
+    "gloss_en": "tertian fever (malaria)",
+    "gloss_fr": "fievre tierce",
+    "forms": {
+      "latin": [
+        "tertiana",
+        "tertianariis"
+      ]
+    },
+    "body_region": "systemic",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_febris_quartana": {
+    "ref_id": "M_febris_quartana",
+    "canonical": "febris quartana",
+    "gloss_en": "quartan fever",
+    "gloss_fr": "fievre quarte",
+    "forms": {
+      "latin": [
+        "quartana",
+        "quartanariis"
+      ]
+    },
+    "body_region": "systemic",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_menstrua": {
+    "ref_id": "M_menstrua",
+    "canonical": "menstrua",
+    "gloss_en": "menstruation disorders",
+    "gloss_fr": "troubles menstruels",
+    "forms": {
+      "latin": [
+        "menstrua",
+        "menstruis",
+        "menstruorum"
+      ]
+    },
+    "body_region": "uterus",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "M_matrix": {
+    "ref_id": "M_matrix",
+    "canonical": "de matrice",
+    "gloss_en": "uterine disorders",
+    "gloss_fr": "troubles de la matrice",
+    "forms": {
+      "latin": [
+        "de matrice",
+        "matricis"
+      ]
+    },
+    "body_region": "uterus",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "M_venenum": {
+    "ref_id": "M_venenum",
+    "canonical": "venenum",
+    "gloss_en": "poison/envenomation",
+    "gloss_fr": "poison/empoisonnement",
+    "forms": {
+      "latin": [
+        "venenum",
+        "veneno",
+        "morsus"
+      ]
+    },
+    "body_region": "systemic",
+    "sources_attested": [
+      "CI",
+      "Macer"
+    ]
+  },
+  "M_dolor_dentium": {
+    "ref_id": "M_dolor_dentium",
+    "canonical": "dolor dentium",
+    "gloss_en": "toothache",
+    "gloss_fr": "mal de dents",
+    "forms": {
+      "latin": [
+        "dolor dentium",
+        "dolorem dentium"
+      ]
+    },
+    "body_region": "mouth",
+    "sources_attested": [
+      "CI",
+      "Macer"
+    ]
+  },
+  "M_hydrops": {
+    "ref_id": "M_hydrops",
+    "canonical": "hydrops",
+    "gloss_en": "dropsy/edema",
+    "gloss_fr": "hydropisie",
+    "forms": {
+      "latin": [
+        "hydrops",
+        "hydropisis"
+      ]
+    },
+    "body_region": "systemic",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "M_dolor": {
+    "ref_id": "M_dolor",
+    "canonical": "dolor",
+    "gloss_en": "pain (general)",
+    "gloss_fr": "douleur (generale)",
+    "forms": {
+      "latin": [
+        "dolor",
+        "dolorem",
+        "doloribus",
+        "doloris",
+        "dolores",
+        "dolore",
+        "dolorum"
+      ]
+    },
+    "body_region": "any",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "M_stomachi": {
+    "ref_id": "M_stomachi",
+    "canonical": "morbus stomachi",
+    "gloss_en": "stomach ailment",
+    "gloss_fr": "mal d'estomac",
+    "forms": {
+      "latin": [
+        "stomachus",
+        "stomachum",
+        "stomacho",
+        "stomachi",
+        "stomachumque"
+      ]
+    }
+  },
+  "M_ventris": {
+    "ref_id": "M_ventris",
+    "canonical": "morbus ventris",
+    "gloss_en": "bowel complaint",
+    "gloss_fr": "mal du ventre",
+    "forms": {
+      "latin": [
+        "venter",
+        "ventris",
+        "ventrem",
+        "ventre"
+      ]
+    }
+  },
+  "M_cholerae": {
+    "ref_id": "M_cholerae",
+    "canonical": "cholera",
+    "gloss_en": "bile / choleric disorder",
+    "gloss_fr": "bile / cholère",
+    "forms": {
+      "latin": [
+        "cholera",
+        "choleram",
+        "cholerae",
+        "cholericis"
+      ]
+    }
+  },
+  "M_hepatis": {
+    "ref_id": "M_hepatis",
+    "canonical": "morbus hepatis",
+    "gloss_en": "liver disease",
+    "gloss_fr": "maladie du foie",
+    "forms": {
+      "latin": [
+        "hepar",
+        "hepatis",
+        "hepati"
+      ]
+    }
+  },
+  "M_phlegmatis": {
+    "ref_id": "M_phlegmatis",
+    "canonical": "phlegma",
+    "gloss_en": "phlegm",
+    "gloss_fr": "flegme",
+    "forms": {
+      "latin": [
+        "phlegma",
+        "phlegmata",
+        "phlegmatis",
+        "phlegmaticis"
+      ]
+    }
+  },
+  "M_cerebri": {
+    "ref_id": "M_cerebri",
+    "canonical": "morbus cerebri",
+    "gloss_en": "brain ailment",
+    "gloss_fr": "mal du cerveau",
+    "forms": {
+      "latin": [
+        "cerebrum",
+        "cerebri",
+        "cerebella",
+        "cerebro"
+      ]
+    }
+  },
+  "M_pulmonis": {
+    "ref_id": "M_pulmonis",
+    "canonical": "morbus pulmonis",
+    "gloss_en": "lung disease",
+    "gloss_fr": "maladie du poumon",
+    "forms": {
+      "latin": [
+        "pulmo",
+        "pulmonis",
+        "pulmone"
+      ]
+    }
+  },
+  "M_splenis": {
+    "ref_id": "M_splenis",
+    "canonical": "morbus splenis",
+    "gloss_en": "spleen disease",
+    "gloss_fr": "maladie de la rate",
+    "forms": {
+      "latin": [
+        "splen",
+        "splenis",
+        "splene"
+      ]
+    }
+  },
+  "M_catarrhus": {
+    "ref_id": "M_catarrhus",
+    "canonical": "catarrhus",
+    "gloss_en": "catarrh",
+    "gloss_fr": "catarrhe",
+    "forms": {
+      "latin": [
+        "catarrhus",
+        "catarrhum",
+        "catarrho"
+      ]
+    }
+  },
+  "M_melancholiae": {
+    "ref_id": "M_melancholiae",
+    "canonical": "melancholia",
+    "gloss_en": "melancholy",
+    "gloss_fr": "mélancolie",
+    "forms": {
+      "latin": [
+        "melancholia",
+        "melancholica",
+        "melancholiae"
+      ]
+    }
+  },
+  "M_rheumatis": {
+    "ref_id": "M_rheumatis",
+    "canonical": "rheuma",
+    "gloss_en": "rheum / flux",
+    "gloss_fr": "rhume / flux",
+    "forms": {
+      "latin": [
+        "rheuma",
+        "rheumatis"
+      ]
+    }
+  },
+  "M_spasmi": {
+    "ref_id": "M_spasmi",
+    "canonical": "spasmus",
+    "gloss_en": "spasm",
+    "gloss_fr": "spasme",
+    "forms": {
+      "latin": [
+        "spasmus",
+        "spasmi"
+      ]
+    }
+  },
+  "M_vertiginis": {
+    "ref_id": "M_vertiginis",
+    "canonical": "vertigo",
+    "gloss_en": "vertigo",
+    "gloss_fr": "vertige",
+    "forms": {
+      "latin": [
+        "vertigo",
+        "vertiginis"
+      ]
+    }
+  },
+  "M_podagrae": {
+    "ref_id": "M_podagrae",
+    "canonical": "podagra",
+    "gloss_en": "gout",
+    "gloss_fr": "goutte",
+    "forms": {
+      "latin": [
+        "podagra",
+        "podagram",
+        "podagrae"
+      ]
+    }
+  },
+  "M_coryza": {
+    "ref_id": "M_coryza",
+    "canonical": "coryza",
+    "gloss_en": "head cold",
+    "gloss_fr": "coryza / rhume de cerveau",
+    "forms": {
+      "latin": [
+        "coryza",
+        "coryzae"
+      ]
+    }
+  },
+  "M_hydropisis": {
+    "ref_id": "M_hydropisis",
+    "canonical": "hydrops",
+    "gloss_en": "dropsy",
+    "gloss_fr": "hydropisie",
+    "forms": {
+      "latin": [
+        "hydrops",
+        "hydropisis"
+      ]
+    }
+  },
+  "M_colicae": {
+    "ref_id": "M_colicae",
+    "canonical": "colica",
+    "gloss_en": "colic",
+    "gloss_fr": "colique",
+    "forms": {
+      "latin": [
+        "colica",
+        "colicae",
+        "colicam"
+      ]
+    }
+  },
+  "M_scabiei": {
+    "ref_id": "M_scabiei",
+    "canonical": "scabies",
+    "gloss_en": "scabies / itch",
+    "gloss_fr": "gale",
+    "forms": {
+      "latin": [
+        "scabies",
+        "scabiem",
+        "scabiei"
+      ]
+    }
+  },
+  "M_capitis": {
+    "ref_id": "M_capitis",
+    "canonical": "dolor capitis",
+    "gloss_en": "headache",
+    "gloss_fr": "mal de tete",
+    "forms": {
+      "latin": [
+        "capitis",
+        "caput",
+        "capite"
+      ]
+    }
+  },
+  "M_pectoris": {
+    "ref_id": "M_pectoris",
+    "canonical": "dolor pectoris",
+    "gloss_en": "chest pain",
+    "gloss_fr": "douleur thoracique",
+    "forms": {
+      "latin": [
+        "pectoris",
+        "pectus",
+        "pectore"
+      ]
+    }
+  },
+  "M_febris_quotidiana": {
+    "ref_id": "M_febris_quotidiana",
+    "canonical": "febris quotidiana",
+    "gloss_en": "quotidian fever",
+    "forms": {
+      "latin": [
+        "cotidianam",
+        "cotidiana"
+      ]
+    }
+  },
+  "M_dysuria": {
+    "ref_id": "M_dysuria",
+    "canonical": "dysuria",
+    "gloss_en": "dysuria",
+    "forms": {
+      "latin": [
+        "dissuriam",
+        "dysuriam",
+        "disuriam"
+      ]
+    }
+  },
+  "M_erysipelas": {
+    "ref_id": "M_erysipelas",
+    "canonical": "erysipelas",
+    "gloss_en": "erysipelas",
+    "forms": {
+      "latin": [
+        "erisipillas",
+        "erisipelas",
+        "erysipelas"
+      ]
+    }
+  },
+  "M_morphea": {
+    "ref_id": "M_morphea",
+    "canonical": "morphea",
+    "gloss_en": "morphea/skin disease",
+    "forms": {
+      "latin": [
+        "morpheam",
+        "morphea"
+      ]
+    }
+  },
+  "M_pleuresis": {
+    "ref_id": "M_pleuresis",
+    "canonical": "pleuresis",
+    "gloss_en": "pleurisy",
+    "forms": {
+      "latin": [
+        "pleurisim",
+        "pleuresim",
+        "pleuresin"
+      ]
+    }
+  },
+  "M_fistula": {
+    "ref_id": "M_fistula",
+    "canonical": "fistula",
+    "gloss_en": "fistula",
+    "forms": {
+      "latin": [
+        "fistulam",
+        "fistulas",
+        "fistula"
+      ]
+    }
+  },
+  "M_cancer": {
+    "ref_id": "M_cancer",
+    "canonical": "cancer",
+    "gloss_en": "cancer",
+    "forms": {
+      "latin": [
+        "cancros",
+        "cancrum",
+        "cancer"
+      ]
+    }
+  },
+  "M_tetanus": {
+    "ref_id": "M_tetanus",
+    "canonical": "tetanus",
+    "gloss_en": "tetanus",
+    "forms": {
+      "latin": [
+        "tetanum",
+        "tetanus"
+      ]
+    }
+  },
+  "M_raucedo": {
+    "ref_id": "M_raucedo",
+    "canonical": "raucedo",
+    "gloss_en": "hoarseness",
+    "forms": {
+      "latin": [
+        "raucedinem",
+        "raucedo"
+      ]
+    }
+  },
+  "M_phrenesis": {
+    "ref_id": "M_phrenesis",
+    "canonical": "phrenesis",
+    "gloss_en": "frenzy/delirium",
+    "forms": {
+      "latin": [
+        "freneticis",
+        "frenesis",
+        "phrenesis"
+      ]
+    }
+  },
+  "M_elephantiasis": {
+    "ref_id": "M_elephantiasis",
+    "canonical": "elephantiasis",
+    "gloss_en": "elephantiasis/leprosy",
+    "forms": {
+      "latin": [
+        "elefantiosis",
+        "elefantiam",
+        "elephantiasis"
+      ]
+    }
+  },
+  "M_diarrhoea": {
+    "ref_id": "M_diarrhoea",
+    "canonical": "diarrhoea",
+    "gloss_en": "diarrhoea",
+    "forms": {
+      "latin": [
+        "diarriam",
+        "diarrhoea"
+      ]
+    }
+  },
+  "M_dentis": {
+    "ref_id": "M_dentis",
+    "canonical": "dolor dentium",
+    "gloss_en": "toothache",
+    "forms": {
+      "latin": [
+        "dentium",
+        "dentis"
+      ]
+    }
+  },
+  "M_vermes": {
+    "ref_id": "M_vermes",
+    "canonical": "vermes",
+    "gloss_en": "intestinal worms",
+    "forms": {
+      "latin": [
+        "lumbricos",
+        "ascarides",
+        "vermes"
+      ]
+    }
+  },
+  "M_spasmus": {
+    "ref_id": "M_spasmus",
+    "canonical": "spasmus",
+    "gloss_en": "spasm",
+    "forms": {
+      "latin": [
+        "spasmum",
+        "spasmo",
+        "spasmus"
+      ]
+    }
+  },
+  "M_cholera": {
+    "canonical": "cholera",
+    "gloss_en": "choler/bile disorder",
+    "gloss_fr": "cholere/trouble biliaire",
+    "forms": {
+      "latin": [
+        "colera",
+        "cholera",
+        "colerae",
+        "coleram",
+        "cholerae",
+        "choleram"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "M_passio": {
+    "canonical": "passio",
+    "gloss_en": "disease/suffering",
+    "gloss_fr": "maladie/souffrance",
+    "forms": {
+      "latin": [
+        "passio",
+        "passionis",
+        "passione",
+        "passionem",
+        "passiones",
+        "passionibus"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "M_morbus_oculorum": {
+    "canonical": "morbus oculorum",
+    "gloss_en": "eye disease",
+    "gloss_fr": "maladie des yeux",
+    "forms": {
+      "latin": [
+        "oculis",
+        "oculorum",
+        "oculos",
+        "oculo",
+        "oculi"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "M_vena": {
+    "canonical": "morbus venae",
+    "gloss_en": "vein disorder/phlebotomy",
+    "gloss_fr": "trouble veineux/phlebotomie",
+    "forms": {
+      "latin": [
+        "vena",
+        "venae",
+        "venam",
+        "venas",
+        "venis"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "M_podagra": {
+    "canonical": "podagra",
+    "gloss_en": "gout",
+    "gloss_fr": "goutte",
+    "forms": {
+      "latin": [
+        "podagra",
+        "podagram",
+        "podagrae",
+        "podagras",
+        "podagris"
+      ]
+    },
+    "source": "De Balneis Puteolanis"
+  },
+  "M_arthritis": {
+    "canonical": "arthritis",
+    "gloss_en": "joint disease",
+    "gloss_fr": "arthrite",
+    "forms": {
+      "latin": [
+        "arthritis",
+        "arthritides",
+        "arthritidem",
+        "arthritidis"
+      ]
+    },
+    "source": "De Balneis Puteolanis"
+  },
+  "M_nephritis": {
+    "canonical": "nephritis",
+    "gloss_en": "kidney disease",
+    "gloss_fr": "nephrite",
+    "forms": {
+      "latin": [
+        "nephritis",
+        "nephritides",
+        "nephritidem",
+        "nephritidis"
+      ]
+    },
+    "source": "De Balneis Puteolanis"
+  },
+  "M_splen": {
+    "canonical": "morbus splenis",
+    "gloss_en": "spleen disease",
+    "gloss_fr": "maladie de la rate",
+    "forms": {
+      "latin": [
+        "splen",
+        "splenis",
+        "splenem",
+        "splene",
+        "splenicis"
+      ]
+    },
+    "source": "De Balneis Puteolanis"
+  },
+  "M_opilatio": {
+    "canonical": "opilatio",
+    "gloss_en": "obstruction/blockage",
+    "gloss_fr": "obstruction/blocage",
+    "forms": {
+      "latin": [
+        "opilatio",
+        "opilationes",
+        "opilationem",
+        "opilatione",
+        "opilat",
+        "opilationibus"
+      ]
+    },
+    "source": "Tacuinum Sanitatis"
+  },
+  "M_ventositas": {
+    "canonical": "ventositas",
+    "gloss_en": "flatulence/wind",
+    "gloss_fr": "flatulence/vent",
+    "forms": {
+      "latin": [
+        "ventositas",
+        "ventositatem",
+        "ventositates",
+        "ventositatis",
+        "uentositatem",
+        "uentofitates",
+        "uentofitatem"
+      ]
+    },
+    "source": "Tacuinum Sanitatis"
+  },
+  "M_ebrietas": {
+    "canonical": "ebrietas",
+    "gloss_en": "drunkenness/intoxication",
+    "gloss_fr": "ivresse/intoxication",
+    "forms": {
+      "latin": [
+        "ebrietas",
+        "ebrietatis",
+        "ebrietatem",
+        "ebrietate",
+        "inebrians",
+        "inebriat",
+        "ebrietate"
+      ]
+    },
+    "source": "Tacuinum Sanitatis"
+  },
+  "M_inflatio": {
+    "ref_id": "M_inflatio",
+    "canonical": "inflatio",
+    "gloss_fr": "ballonnement/gonflement",
+    "forms": {
+      "latin": [
+        "inflatio",
+        "inflationis",
+        "inflatione",
+        "inflationem",
+        "inflat"
+      ]
+    },
+    "category": "digestive",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "M_appetitus": {
+    "ref_id": "M_appetitus",
+    "canonical": "appetitus",
+    "gloss_fr": "appetit (perte/exces)",
+    "forms": {
+      "latin": [
+        "appetitum",
+        "appetitus",
+        "appetitu",
+        "appetit"
+      ]
+    },
+    "category": "digestive",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "M_sitis": {
+    "ref_id": "M_sitis",
+    "canonical": "sitis",
+    "gloss_fr": "soif",
+    "forms": {
+      "latin": [
+        "sitis",
+        "sitim",
+        "siti",
+        "fitim",
+        "fitis"
+      ]
+    },
+    "category": "general",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "M_cura_cutis": {
+    "ref_id": "M_cura_cutis",
+    "canonical": "cura cutis",
+    "gloss_fr": "soin de la peau/prurit",
+    "forms": {
+      "latin": [
+        "pruritus",
+        "pruritum",
+        "scabies",
+        "impetiginem",
+        "impetigo"
+      ]
+    },
+    "category": "dermatological",
+    "sources_attested": [
+      "De Balneis"
+    ]
+  },
+  "M_urina": {
+    "ref_id": "M_urina",
+    "canonical": "urina",
+    "meaning": "urine (uroscopy)",
+    "forms": {
+      "latin": [
+        "urina",
+        "urinae",
+        "urinam",
+        "urinas",
+        "vrina",
+        "vrine"
+      ]
+    }
+  },
+  "M_phlebotomia": {
+    "ref_id": "M_phlebotomia",
+    "canonical": "phlebotomia",
+    "meaning": "bloodletting, phlebotomy",
+    "forms": {
+      "latin": [
+        "phlebotomia",
+        "phlebotomiae",
+        "phlebotomiam",
+        "flebotomia",
+        "flebotomie"
+      ]
+    }
+  },
+  "M_dolor_lateris": {
+    "ref_id": "M_dolor_lateris",
+    "canonical": "dolor lateris",
+    "meaning": "pain in the side (pleurisy)",
+    "forms": {
+      "latin": [
+        "dolor lateris",
+        "lateris dolor",
+        "pleuresis",
+        "pleurefis"
+      ]
+    }
+  },
+  "M_hulcus": {
+    "ref_id": "M_hulcus",
+    "canonical": "hulcus/ulcus",
+    "meaning": "ulcer, wound",
+    "forms": {
+      "latin": [
+        "hulcus",
+        "ulcus",
+        "hulcera",
+        "hulceribus",
+        "ulcera",
+        "ulceribus",
+        "ulceris",
+        "ulcere"
+      ]
+    }
+  },
+  "M_alopitia": {
+    "ref_id": "M_alopitia",
+    "canonical": "alopecia",
+    "meaning": "hair loss, alopecia",
+    "forms": {
+      "latin": [
+        "alopitia",
+        "alopitiam",
+        "alopecia",
+        "alopeciam"
+      ]
+    }
+  },
+  "M_furfures": {
+    "ref_id": "M_furfures",
+    "canonical": "furfures",
+    "meaning": "dandruff, skin flakes",
+    "forms": {
+      "latin": [
+        "furfures",
+        "furfuribus"
+      ]
+    }
+  }
+}

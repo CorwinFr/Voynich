@@ -1,0 +1,1489 @@
+{
+  "description": "Botanical identifications for herbal folios from multiple researchers",
+  "source_file": "data/botanical_identifications.tsv",
+  "proposers": [
+    "Dana Scott",
+    "Sherwood",
+    "Ethel Voynich",
+    "Tucker & Talbert",
+    "Tucker & Janick",
+    "Stephen Bax",
+    "Steve D"
+  ],
+  "warnings": [
+    "Most IDs have low-medium confidence",
+    "Different proposers often disagree on species",
+    "New World species (Tucker) are controversial",
+    "Plant names are NOT directly encoded in K&A text (session 3 finding)"
+  ],
+  "count": 163,
+  "entries": [
+    {
+      "folio": "f1r",
+      "section": "herbal_A",
+      "species": "Syzygium aromaticum",
+      "common_name": "Cloves",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Only one proposer; spice plant not typical herbal"
+    },
+    {
+      "folio": "f1v",
+      "section": "herbal_A",
+      "species": "Atropa belladonna",
+      "common_name": "Deadly Nightshade / Belladonna",
+      "proposer": "Ethel Voynich; Sherwood",
+      "confidence": "medium",
+      "notes": "Multiple proposers agree on Solanaceae family"
+    },
+    {
+      "folio": "f1v",
+      "section": "herbal_A",
+      "species": "Ipomoea arborescens (=I. murucoides)",
+      "common_name": "Cazahuate / Morning Glory Tree",
+      "proposer": "Tucker & Talbert (2013); Tucker & Janick (2018)",
+      "confidence": "medium",
+      "notes": "New World ID; compared to Codex Cruz-Badianus f9r \"xiuhamolli\""
+    },
+    {
+      "folio": "f2r",
+      "section": "herbal_A",
+      "species": "Centaurea diffusa",
+      "common_name": "Diffuse Knapweed",
+      "proposer": "Sherwood",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f2r",
+      "section": "herbal_A",
+      "species": "Centaurea cyanus",
+      "common_name": "Cornflower",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Differs from Sherwood on species"
+    },
+    {
+      "folio": "f2v",
+      "section": "herbal_A",
+      "species": "Nymphoides aquatica",
+      "common_name": "Banana Plant / Nymphoides",
+      "proposer": "Dana Scott",
+      "confidence": "medium",
+      "notes": "Water plant with floating leaves"
+    },
+    {
+      "folio": "f2v",
+      "section": "herbal_A",
+      "species": "Nymphaea candida",
+      "common_name": "White Water Lily",
+      "proposer": "Dana Scott (alt); Ethel Voynich",
+      "confidence": "medium-high",
+      "notes": "One of earliest accepted IDs; multiple proposers agree on aquatic plant"
+    },
+    {
+      "folio": "f3r",
+      "section": "herbal_A",
+      "species": "Celosia argentea",
+      "common_name": "Feathery Amaranth / Cockscomb",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f3v",
+      "section": "herbal_A",
+      "species": "Aconitum columbianum",
+      "common_name": "Monkshood",
+      "proposer": "Sherwood",
+      "confidence": "low",
+      "notes": "Single proposer (European paradigm)"
+    },
+    {
+      "folio": "f3v",
+      "section": "herbal_A",
+      "species": "Helleborus foetidus",
+      "common_name": "Stinking Hellebore / Dungwort",
+      "proposer": "Stephen Bax; Steve D",
+      "confidence": "medium",
+      "notes": "Bax identified via text decoding + morphology; multiple proposers"
+    },
+    {
+      "folio": "f4r",
+      "section": "herbal_A",
+      "species": "Saxifraga cespitosa",
+      "common_name": "Alpine Saxifrage",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f4v",
+      "section": "herbal_A",
+      "species": "Campanula rapunculus",
+      "common_name": "Rampion",
+      "proposer": "Dana Scott; Sherwood",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f5r",
+      "section": "herbal_A",
+      "species": "Arnica montana",
+      "common_name": "Wolf's Bane / European Arnica",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f5v",
+      "section": "herbal_A",
+      "species": "Malva sylvestris",
+      "common_name": "Common Mallow",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f6r",
+      "section": "herbal_A",
+      "species": "Acanthus mollis",
+      "common_name": "Bear's Breeches / Acanthus",
+      "proposer": "Ethel Voynich; Sherwood",
+      "confidence": "medium",
+      "notes": "Early ID confirmed by later researcher"
+    },
+    {
+      "folio": "f6v",
+      "section": "herbal_A",
+      "species": "Ricinus communis",
+      "common_name": "Castor Oil Plant",
+      "proposer": "Ethel Voynich; Sherwood",
+      "confidence": "medium",
+      "notes": "Distinctive palmate leaves"
+    },
+    {
+      "folio": "f6v",
+      "section": "herbal_A",
+      "species": "Eryngium maritimum",
+      "common_name": "Sea Holly",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Different from Sherwood/Voynich ID"
+    },
+    {
+      "folio": "f7r",
+      "section": "herbal_A",
+      "species": "Trientalis europaea",
+      "common_name": "Starflower / Chickweed Wintergreen",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f7v",
+      "section": "herbal_A",
+      "species": "Myrica gale",
+      "common_name": "Bog Myrtle / Sweet Gale",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f8r",
+      "section": "herbal_A",
+      "species": "Pisum sativum",
+      "common_name": "Green Pea",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f8v",
+      "section": "herbal_A",
+      "species": "Symphytum officinale",
+      "common_name": "Comfrey",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; well-known medicinal herb"
+    },
+    {
+      "folio": "f9r",
+      "section": "herbal_A",
+      "species": "Rumex crispus",
+      "common_name": "Curly Dock",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f9r",
+      "section": "herbal_A",
+      "species": "Ricinus communis",
+      "common_name": "Castor Oil Plant",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Differs from Steve D"
+    },
+    {
+      "folio": "f9v",
+      "section": "herbal_A",
+      "species": "Viola tricolor / V. bertolonii",
+      "common_name": "Wild Pansy / Violet",
+      "proposer": "Ethel Voynich; Sherwood; Steve D",
+      "confidence": "high",
+      "notes": "One of most widely accepted IDs; multiple independent proposers; Wikipedia notes \"reasonable certainty\""
+    },
+    {
+      "folio": "f10r",
+      "section": "herbal_A",
+      "species": "Cichorium pumilum",
+      "common_name": "Chicory / Endive",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f10v",
+      "section": "herbal_A",
+      "species": "Linnaea borealis",
+      "common_name": "Twinflower",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f11r",
+      "section": "herbal_A",
+      "species": "Rosmarinus officinalis",
+      "common_name": "Rosemary",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; common medicinal herb"
+    },
+    {
+      "folio": "f11v",
+      "section": "herbal_A",
+      "species": "Curcuma longa",
+      "common_name": "Turmeric",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "low-medium",
+      "notes": "Exotic spice; not European native"
+    },
+    {
+      "folio": "f12r",
+      "section": "herbal_A",
+      "species": "Taraxacum officinale",
+      "common_name": "Dandelion",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f12v",
+      "section": "herbal_A",
+      "species": "Calendula officinalis",
+      "common_name": "Pot Marigold",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f13r",
+      "section": "herbal_A",
+      "species": "Musa acuminata",
+      "common_name": "Banana",
+      "proposer": "Sherwood",
+      "confidence": "low",
+      "notes": "Controversial; banana unlikely in European herbal"
+    },
+    {
+      "folio": "f13v",
+      "section": "herbal_A",
+      "species": "Lonicera periclymenum",
+      "common_name": "Honeysuckle / Woodbine",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f14r",
+      "section": "herbal_A",
+      "species": "Scorzonera hispanica",
+      "common_name": "Black Salsify / Viper's Grass",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f14v",
+      "section": "herbal_A",
+      "species": "Stachys monnieri",
+      "common_name": "Wood Betony / Heal-All",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f15r",
+      "section": "herbal_A",
+      "species": "Sonchus oleraceus",
+      "common_name": "Sow Thistle",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f15v",
+      "section": "herbal_A",
+      "species": "Paris quadrifolia",
+      "common_name": "Herb Paris",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Distinctive 4-leaf morphology"
+    },
+    {
+      "folio": "f16r",
+      "section": "herbal_A",
+      "species": "Cannabis sativa",
+      "common_name": "Cannabis / Hemp",
+      "proposer": "Sherwood; Steve D",
+      "confidence": "medium",
+      "notes": "Two proposers agree; palmate leaves distinctive"
+    },
+    {
+      "folio": "f16v",
+      "section": "herbal_A",
+      "species": "Carthamus lanatus",
+      "common_name": "Woolly Distaff Thistle",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f16v",
+      "section": "herbal_A",
+      "species": "Chrysanthemum sp.",
+      "common_name": "Chrysanthemum",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Differs from Steve D"
+    },
+    {
+      "folio": "f17r",
+      "section": "herbal_A",
+      "species": "Catananche caerulea",
+      "common_name": "Cupid's Dart",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f17v",
+      "section": "herbal_A",
+      "species": "Fallopia convolvulus",
+      "common_name": "Black Bindweed / Wild Buckwheat",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f17v",
+      "section": "herbal_A",
+      "species": "Dioscorea sp.",
+      "common_name": "Yam",
+      "proposer": "Dana Scott (alt)",
+      "confidence": "low",
+      "notes": "Alternative ID"
+    },
+    {
+      "folio": "f18r",
+      "section": "herbal_A",
+      "species": "Aster alpinus",
+      "common_name": "Alpine Aster",
+      "proposer": "Ethel Voynich; Sherwood",
+      "confidence": "medium",
+      "notes": "Early ID; two proposers"
+    },
+    {
+      "folio": "f18v",
+      "section": "herbal_A",
+      "species": "Telfairia pedata",
+      "common_name": "Fluted Pumpkin",
+      "proposer": "Sherwood",
+      "confidence": "low",
+      "notes": "African species; controversial provenance"
+    },
+    {
+      "folio": "f19r",
+      "section": "herbal_A",
+      "species": "Polemonium caeruleum",
+      "common_name": "Greek Valerian / Jacob's Ladder",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f19v",
+      "section": "herbal_A",
+      "species": "Draba nivalis",
+      "common_name": "Nailwort / Whitlow-grass",
+      "proposer": "Sherwood",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f20r",
+      "section": "herbal_A",
+      "species": "Astragalus hypoglottis",
+      "common_name": "Milk Vetch",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f20v",
+      "section": "herbal_A",
+      "species": "Cynara cardunculus",
+      "common_name": "Cardoon / Artichoke",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f21r",
+      "section": "herbal_A",
+      "species": "Anagallis arvensis",
+      "common_name": "Scarlet Pimpernel",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f21v",
+      "section": "herbal_A",
+      "species": "Dictamnus albus",
+      "common_name": "Burning Bush / White Dittany",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f22r",
+      "section": "herbal_A",
+      "species": "Verbena officinalis",
+      "common_name": "Common Vervain / Holy Herb",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Common medieval medicinal herb"
+    },
+    {
+      "folio": "f22v",
+      "section": "herbal_A",
+      "species": "Tulipa gesneriana",
+      "common_name": "Tulip",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; but tulips arrived in Europe late 15th/16th c."
+    },
+    {
+      "folio": "f23r",
+      "section": "herbal_A",
+      "species": "Pulsatilla vulgaris",
+      "common_name": "Pasque Flower",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f23v",
+      "section": "herbal_A",
+      "species": "Borago officinalis",
+      "common_name": "Borage / Starflower",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f23v",
+      "section": "herbal_A",
+      "species": "Passiflora sp.",
+      "common_name": "Passion Flower",
+      "proposer": "Tucker & Janick (2018)",
+      "confidence": "low",
+      "notes": "New World ID; controversial"
+    },
+    {
+      "folio": "f24r",
+      "section": "herbal_A",
+      "species": "Cucumis sativus",
+      "common_name": "Cucumber",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f24v",
+      "section": "herbal_A",
+      "species": "Pueraria lobata",
+      "common_name": "Kudzu",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "East Asian species; questionable"
+    },
+    {
+      "folio": "f24v",
+      "section": "herbal_A",
+      "species": "Ficus religiosa",
+      "common_name": "Sacred Fig / Bo Tree",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "South Asian species; questionable"
+    },
+    {
+      "folio": "f25r",
+      "section": "herbal_A",
+      "species": "Thymus capitatus",
+      "common_name": "Wild Thyme / Conehead Thyme",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f25v",
+      "section": "herbal_A",
+      "species": "Isatis tinctoria",
+      "common_name": "Woad",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; important dye plant"
+    },
+    {
+      "folio": "f26r",
+      "section": "herbal_A",
+      "species": "Prunella vulgaris",
+      "common_name": "Self-Heal / Healall",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Very common medieval herb"
+    },
+    {
+      "folio": "f26v",
+      "section": "herbal_A",
+      "species": "Lens culinaris",
+      "common_name": "Lentil",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f27r",
+      "section": "herbal_A",
+      "species": "Spinacia oleracea",
+      "common_name": "Spinach",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f27v",
+      "section": "herbal_A",
+      "species": "Dianthus superbus",
+      "common_name": "Fringed Pink / Dianthus",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f28r",
+      "section": "herbal_A",
+      "species": "Aristolochia sp.",
+      "common_name": "Birthwort / Pipevine",
+      "proposer": "Sherwood",
+      "confidence": "medium",
+      "notes": "Genus-level agreement is common; distinctive pipe-shaped flowers"
+    },
+    {
+      "folio": "f28v",
+      "section": "herbal_A",
+      "species": "Rhododendron caucasicum",
+      "common_name": "White Rhododendron",
+      "proposer": "Sherwood; Steve D",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f28v",
+      "section": "herbal_A",
+      "species": "Dahlia imperialis",
+      "common_name": "Tree Dahlia",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "New World species; controversial"
+    },
+    {
+      "folio": "f29r",
+      "section": "herbal_A",
+      "species": "Lactuca sativa var. longifolia",
+      "common_name": "Romaine / Cos Lettuce",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f29v",
+      "section": "herbal_A",
+      "species": "Nigella sativa",
+      "common_name": "Black Cumin / Roman Coriander",
+      "proposer": "Sherwood; Stephen Bax",
+      "confidence": "medium-high",
+      "notes": "Bax decoded text as \"kaur\" = black; morphology matches; two independent proposers"
+    },
+    {
+      "folio": "f30r",
+      "section": "herbal_A",
+      "species": "Prunella vulgaris",
+      "common_name": "Healall / Self-Heal",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Note: same ID as f26r; possibly a variant drawing"
+    },
+    {
+      "folio": "f30v",
+      "section": "herbal_A",
+      "species": "Cuscuta europaea",
+      "common_name": "Dodder / Witch's Hair",
+      "proposer": "Sherwood",
+      "confidence": "medium",
+      "notes": "Distinctive parasitic morphology"
+    },
+    {
+      "folio": "f31r",
+      "section": "herbal_A",
+      "species": "Erigeron acris",
+      "common_name": "Blue Fleabane",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f31v",
+      "section": "herbal_A",
+      "species": "Valeriana officinalis",
+      "common_name": "Valerian",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Well-known medicinal herb"
+    },
+    {
+      "folio": "f32r",
+      "section": "herbal_A",
+      "species": "Veronica triphyllos",
+      "common_name": "Finger Speedwell",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f32v",
+      "section": "herbal_A",
+      "species": "Campanula rotundifolia",
+      "common_name": "Harebell / Bluebell",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f33r",
+      "section": "herbal_A",
+      "species": "Silene vulgaris",
+      "common_name": "Bladder Campion",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Bladder calyx is distinctive"
+    },
+    {
+      "folio": "f33v",
+      "section": "herbal_A",
+      "species": "Tanacetum parthenium",
+      "common_name": "Feverfew",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Well-known medicinal herb"
+    },
+    {
+      "folio": "f33v",
+      "section": "herbal_A",
+      "species": "Helianthus annuus",
+      "common_name": "Sunflower",
+      "proposer": "Brumbaugh (1970s)",
+      "confidence": "low",
+      "notes": "Disputed; Stolfi showed weak resemblance; O'Neill's sunflower is actually f93r"
+    },
+    {
+      "folio": "f34r",
+      "section": "herbal_A",
+      "species": "Cirsium arvense",
+      "common_name": "Canada Thistle",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f34r",
+      "section": "herbal_A",
+      "species": "Anemone hortensis",
+      "common_name": "Garden Anemone",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f34v",
+      "section": "herbal_A",
+      "species": "Lunaria annua",
+      "common_name": "Honesty / Money Plant",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; distinctive round seed pods"
+    },
+    {
+      "folio": "f35r",
+      "section": "herbal_A",
+      "species": "Cichorium intybus",
+      "common_name": "Radicchio / Chicory",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f35v",
+      "section": "herbal_A",
+      "species": "Ribes nigrum",
+      "common_name": "Blackcurrant",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f35v",
+      "section": "herbal_A",
+      "species": "Hedera helix",
+      "common_name": "Ivy",
+      "proposer": "voynich.nu (multiple)",
+      "confidence": "medium",
+      "notes": "Noted \"striking similarity\" to Paris MS BN Lat.6823 f60r; \"inconceivable that it was not in some way inspired\""
+    },
+    {
+      "folio": "f36r",
+      "section": "herbal_A",
+      "species": "Delphinium staphisagria",
+      "common_name": "Stavesacre / Delphinium",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f36v",
+      "section": "herbal_A",
+      "species": "Lamium amplexicaule",
+      "common_name": "Henbit Dead-nettle",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f37r",
+      "section": "herbal_A",
+      "species": "Mentha longifolia",
+      "common_name": "Horse Mint / Wild Mint",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f37v",
+      "section": "herbal_A",
+      "species": "Emilia fosbergii",
+      "common_name": "Tassel Flower",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "low-medium",
+      "notes": "Tropical weed; provenance questionable"
+    },
+    {
+      "folio": "f38r",
+      "section": "herbal_A",
+      "species": "Equisetum arvense",
+      "common_name": "Horsetail",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer; Sherwood left unidentified"
+    },
+    {
+      "folio": "f38v",
+      "section": "herbal_A",
+      "species": "Lythrum salicaria",
+      "common_name": "Purple Loosestrife",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f38v",
+      "section": "herbal_A",
+      "species": "Euphorbia myrsinites",
+      "common_name": "Myrtle Spurge",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Different from Steve D"
+    },
+    {
+      "folio": "f39r",
+      "section": "herbal_A",
+      "species": "Crocus sativus",
+      "common_name": "Saffron Crocus",
+      "proposer": "Ethel Voynich; Steve D",
+      "confidence": "medium",
+      "notes": "Two proposers across time; high-value spice; recognizable morphology"
+    },
+    {
+      "folio": "f39v",
+      "section": "herbal_A",
+      "species": "Tagetes patula",
+      "common_name": "French Marigold",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "New World species if correct"
+    },
+    {
+      "folio": "f40r",
+      "section": "herbal_A",
+      "species": "Erodium malacoides",
+      "common_name": "Mallow-leaved Stork's Bill",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f40v",
+      "section": "herbal_A",
+      "species": "Crocus vernus",
+      "common_name": "Giant Crocus / Spring Crocus",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f41r",
+      "section": "herbal_A",
+      "species": "Origanum vulgare",
+      "common_name": "Wild Marjoram / Oregano",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; common culinary herb"
+    },
+    {
+      "folio": "f41v",
+      "section": "herbal_A",
+      "species": "Coriandrum sativum",
+      "common_name": "Coriander / Cilantro",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; well-known herb"
+    },
+    {
+      "folio": "f42r",
+      "section": "herbal_A",
+      "species": "Rhus aromatica",
+      "common_name": "Fragrant Sumac",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer; New World"
+    },
+    {
+      "folio": "f42r",
+      "section": "herbal_A",
+      "species": "Typhonium flagelliforme",
+      "common_name": "Rodent Tuber",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Tropical Asian species"
+    },
+    {
+      "folio": "f42v",
+      "section": "herbal_A",
+      "species": "Aquilegia vulgaris",
+      "common_name": "European Columbine",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; distinctive spurred flowers"
+    },
+    {
+      "folio": "f43r",
+      "section": "herbal_A",
+      "species": "Stellaria media",
+      "common_name": "Common Chickweed",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f43v",
+      "section": "herbal_A",
+      "species": "Fagopyrum esculentum",
+      "common_name": "Buckwheat",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f43v",
+      "section": "herbal_A",
+      "species": "Elytrigia repens",
+      "common_name": "Couch Grass",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Different from Steve D"
+    },
+    {
+      "folio": "f44r",
+      "section": "herbal_A",
+      "species": "Mandragora officinarum",
+      "common_name": "Mandrake",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; anthropomorphic root drawing common in herbals"
+    },
+    {
+      "folio": "f44v",
+      "section": "herbal_A",
+      "species": "Apium graveolens",
+      "common_name": "Celery / Smallage",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f45r",
+      "section": "herbal_A",
+      "species": "Atriplex hortensis",
+      "common_name": "Garden Orach / Saltbush",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f45v",
+      "section": "herbal_A",
+      "species": "Lavandula angustifolia",
+      "common_name": "Lavender",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; common medicinal herb"
+    },
+    {
+      "folio": "f46r",
+      "section": "herbal_A",
+      "species": "Leucanthemum vulgare",
+      "common_name": "Oxeye Daisy",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f46v",
+      "section": "herbal_A",
+      "species": "Inula conyza",
+      "common_name": "Ploughman's Spikenard",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f46v",
+      "section": "herbal_A",
+      "species": "Tanacetum balsamita",
+      "common_name": "Costmary",
+      "proposer": "Ellie Velinska",
+      "confidence": "low",
+      "notes": "Alternative to Sherwood; costmary may be anachronistic"
+    },
+    {
+      "folio": "f47r",
+      "section": "herbal_A",
+      "species": "Sempervivum tectorum",
+      "common_name": "Houseleek / Hen and Chicks",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Distinctive rosette morphology"
+    },
+    {
+      "folio": "f47r",
+      "section": "herbal_A",
+      "species": "Alchemilla vulgaris",
+      "common_name": "Lady's Mantle",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Different from Sherwood"
+    },
+    {
+      "folio": "f47v",
+      "section": "herbal_A",
+      "species": "Pulmonaria officinalis",
+      "common_name": "Lungwort",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f48r",
+      "section": "herbal_A",
+      "species": "Hyoscyamus niger",
+      "common_name": "Henbane",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f48r",
+      "section": "herbal_A",
+      "species": "Adonis vernalis",
+      "common_name": "Yellow Pheasant's Eye",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Different from Steve D"
+    },
+    {
+      "folio": "f48v",
+      "section": "herbal_A",
+      "species": "Ruta graveolens",
+      "common_name": "Rue / Herb of Grace",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; important medicinal herb"
+    },
+    {
+      "folio": "f49r",
+      "section": "herbal_A",
+      "species": "Nymphaea caerulea",
+      "common_name": "Blue Nile Lotus",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "low-medium",
+      "notes": "Egyptian species; provenance question"
+    },
+    {
+      "folio": "f49v",
+      "section": "herbal_A",
+      "species": "Centella asiatica",
+      "common_name": "Gotu Kola",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Asian species"
+    },
+    {
+      "folio": "f50r",
+      "section": "herbal_A",
+      "species": "Astrantia major",
+      "common_name": "Great Masterwort",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f50v",
+      "section": "herbal_A",
+      "species": "Gentiana frigida",
+      "common_name": "Fringed Gentian",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f51r",
+      "section": "herbal_A",
+      "species": "Cakile maritima",
+      "common_name": "European Sea Rocket",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f51v",
+      "section": "herbal_A",
+      "species": "Salvia officinalis",
+      "common_name": "Common Sage",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree; major medicinal herb"
+    },
+    {
+      "folio": "f52r",
+      "section": "herbal_A",
+      "species": "Anemone coronaria",
+      "common_name": "Poppy Anemone",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f52v",
+      "section": "herbal_A",
+      "species": "Athyrium filix-femina",
+      "common_name": "Lady Fern",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Fern; possibly the \"maidenhair fern\" cited by Wikipedia as certain"
+    },
+    {
+      "folio": "f53r",
+      "section": "herbal_A",
+      "species": "Achillea ptarmica",
+      "common_name": "Sneezewort",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f53v",
+      "section": "herbal_A",
+      "species": "Hieracium aurantiacum",
+      "common_name": "Orange Hawkweed",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f54r",
+      "section": "herbal_A",
+      "species": "Cirsium oleraceum",
+      "common_name": "Cabbage Thistle",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f54v",
+      "section": "herbal_A",
+      "species": "Perovskia atriplicifolia",
+      "common_name": "Russian Sage",
+      "proposer": "Sherwood",
+      "confidence": "low",
+      "notes": "Central Asian species"
+    },
+    {
+      "folio": "f54v",
+      "section": "herbal_A",
+      "species": "Solanum dulcamara",
+      "common_name": "Bittersweet Nightshade",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Different from Sherwood"
+    },
+    {
+      "folio": "f55r",
+      "section": "herbal_A",
+      "species": "Fumaria officinalis",
+      "common_name": "Common Fumitory",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f55v",
+      "section": "herbal_A",
+      "species": "Brassica oleracea",
+      "common_name": "Broccoli / Wild Cabbage",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f56r",
+      "section": "herbal_A",
+      "species": "Drosera intermedia",
+      "common_name": "Oblong-leaved Sundew",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium-high",
+      "notes": "Multiple proposers; distinctive carnivorous morphology widely noted"
+    },
+    {
+      "folio": "f56v",
+      "section": "herbal_A",
+      "species": "Cycas revoluta",
+      "common_name": "Sago Palm",
+      "proposer": "Sherwood",
+      "confidence": "low",
+      "notes": "Cycad; East Asian provenance question"
+    },
+    {
+      "folio": "f57r",
+      "section": "herbal_A",
+      "species": "Sherardia arvensis",
+      "common_name": "Blue Field Madder",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f65r",
+      "section": "herbal_B",
+      "species": "Alchemilla vulgaris",
+      "common_name": "Lady's Mantle",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f65v",
+      "section": "herbal_B",
+      "species": "Centaurea cyanus",
+      "common_name": "Cornflower",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f66v",
+      "section": "herbal_B",
+      "species": "Satureja montana",
+      "common_name": "Winter Savory",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f87r",
+      "section": "pharma",
+      "species": "Satureja hortensis",
+      "common_name": "Summer Savory",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f87v",
+      "section": "pharma",
+      "species": "Primula vulgaris",
+      "common_name": "Primrose",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Left-side plant"
+    },
+    {
+      "folio": "f87v",
+      "section": "pharma",
+      "species": "Pedicularis flammea",
+      "common_name": "Flame Lousewort",
+      "proposer": "Sherwood",
+      "confidence": "low",
+      "notes": "Right-side plant; arctic species"
+    },
+    {
+      "folio": "f89v",
+      "section": "pharma",
+      "species": "Zantedeschia sp.",
+      "common_name": "Calla Lily",
+      "proposer": "Ethel Voynich",
+      "confidence": "low",
+      "notes": "Middle bottom position; Southern African species"
+    },
+    {
+      "folio": "f89v",
+      "section": "pharma",
+      "species": "Actaea spicata",
+      "common_name": "Baneberry",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Different from Voynich ID"
+    },
+    {
+      "folio": "f90r",
+      "section": "pharma",
+      "species": "Papaver somniferum",
+      "common_name": "Opium Poppy",
+      "proposer": "Ethel Voynich",
+      "confidence": "medium",
+      "notes": "Important medicinal/narcotic; recognizable morphology"
+    },
+    {
+      "folio": "f90r",
+      "section": "pharma",
+      "species": "Campanula rapunculoides",
+      "common_name": "Creeping Bellflower",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Different from Voynich ID"
+    },
+    {
+      "folio": "f90v",
+      "section": "pharma",
+      "species": "Eruca vesicaria",
+      "common_name": "Arugula / Rocket",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f90v",
+      "section": "pharma",
+      "species": "Conyza bonariensis",
+      "common_name": "Fleabane",
+      "proposer": "Sherwood",
+      "confidence": "low",
+      "notes": "Additional plant on same folio"
+    },
+    {
+      "folio": "f93r",
+      "section": "pharma",
+      "species": "Helianthus annuus",
+      "common_name": "Sunflower",
+      "proposer": "O'Neill (1944); Tucker & Janick",
+      "confidence": "medium",
+      "notes": "One of earliest and most famous IDs; confirmed by Guy (1991); disputed by Stolfi; New World plant"
+    },
+    {
+      "folio": "f93r",
+      "section": "pharma",
+      "species": "Cynara cardunculus",
+      "common_name": "Artichoke / Cardoon",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Alternative to sunflower ID"
+    },
+    {
+      "folio": "f93v",
+      "section": "pharma",
+      "species": "Actaea rubra",
+      "common_name": "Red Baneberry",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f93v",
+      "section": "pharma",
+      "species": "Lupinus sp.",
+      "common_name": "Lupin",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f94r",
+      "section": "pharma",
+      "species": "Botrychium lunaria",
+      "common_name": "Moonwort / Moonfern",
+      "proposer": "Dana Scott; Sherwood",
+      "confidence": "medium",
+      "notes": "Two proposers agree; distinctive frond morphology"
+    },
+    {
+      "folio": "f94v",
+      "section": "pharma",
+      "species": "Agrostemma githago",
+      "common_name": "Corncockle",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f95r",
+      "section": "pharma",
+      "species": "Glycyrrhiza glabra",
+      "common_name": "Liquorice",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Important medicinal root"
+    },
+    {
+      "folio": "f95r",
+      "section": "pharma",
+      "species": "Plantago lanceolata",
+      "common_name": "Ribwort Plantain",
+      "proposer": "Sherwood",
+      "confidence": "low-medium",
+      "notes": "Very common medicinal herb"
+    },
+    {
+      "folio": "f95v",
+      "section": "pharma",
+      "species": "Althaea rosea",
+      "common_name": "Hollyhock",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f95v",
+      "section": "pharma",
+      "species": "Sambucus nigra",
+      "common_name": "Elderberry",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f96r",
+      "section": "pharma",
+      "species": "Helleborus foetidus",
+      "common_name": "Stinking Hellebore",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer"
+    },
+    {
+      "folio": "f96r",
+      "section": "pharma",
+      "species": "Angelica archangelica",
+      "common_name": "Garden Angelica",
+      "proposer": "Dana Scott",
+      "confidence": "low",
+      "notes": "Different from Steve D"
+    },
+    {
+      "folio": "f96v",
+      "section": "pharma",
+      "species": "Tamus communis",
+      "common_name": "Black Bryony",
+      "proposer": "Sherwood; Dana Scott",
+      "confidence": "medium",
+      "notes": "Two proposers agree"
+    },
+    {
+      "folio": "f99v",
+      "section": "pharma",
+      "species": "Dionaea muscipula",
+      "common_name": "Venus Flytrap",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "New World species; highly controversial"
+    },
+    {
+      "folio": "f100r",
+      "section": "pharma",
+      "species": "Capsicum annuum",
+      "common_name": "Capsicum Pepper",
+      "proposer": "O'Neill (1944)",
+      "confidence": "low-medium",
+      "notes": "One of earliest IDs; upper right corner; New World; \"no longer generally accepted\" per voynich.nu"
+    },
+    {
+      "folio": "f100r",
+      "section": "pharma",
+      "species": "Opuntia ficus-indica",
+      "common_name": "Prickly Pear Cactus",
+      "proposer": "Tucker & Talbert (2013)",
+      "confidence": "low",
+      "notes": "Plant #8 on f100r; \"obviously a cactus pad or fruit\"; disputed by Petersen"
+    },
+    {
+      "folio": "f101v",
+      "section": "pharma",
+      "species": "Zingiber officinale",
+      "common_name": "Ginger",
+      "proposer": "Steve D",
+      "confidence": "low",
+      "notes": "Single proposer"
+    }
+  ]
+}

@@ -1,0 +1,2529 @@
+{
+  "description": "EVA root morphemes with suffix paradigm. LEXICAL roots (high entropy) take all suffixes evenly. FUNCTIONAL roots concentrate on 1-2.",
+  "key_findings": [
+    "Root \"d\" is FUNCTIONAL: 48% -aiin, 0% -edy. Probably a grammatical particle.",
+    "Roots \"cho\",\"sho\",\"cheo\" are FUNCTIONAL: 87-98% -dy. Probably markers.",
+    "Roots \"ch\",\"sh\",\"ok\",\"qok\",\"ot\" are LEXICAL: 10-14 suffixes each."
+  ],
+  "classification": {
+    "LEXICAL": "entropy >= 2.5",
+    "MIXED": "2.0 - 2.5",
+    "FUNCTIONAL": "entropy < 2.0"
+  },
+  "count": 127,
+  "entries": [
+    {
+      "root": "ch",
+      "total_freq": 2090,
+      "n_suffixes_attested": 14,
+      "entropy": 3.06,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 24.1,
+      "suffix_counts": {
+        "edy": 504,
+        "ol": 398,
+        "ey": 351,
+        "or": 214,
+        "eey": 183,
+        "dy": 146,
+        "ar": 87,
+        "eedy": 59,
+        "al": 49,
+        "aiin": 48,
+        "ain": 19,
+        "am": 17,
+        "om": 13,
+        "air": 2
+      }
+    },
+    {
+      "root": "qok",
+      "total_freq": 2073,
+      "n_suffixes_attested": 14,
+      "entropy": 3.27,
+      "type": "LEXICAL",
+      "dominant_suffix": "eey",
+      "dominant_pct": 14.9,
+      "suffix_counts": {
+        "eey": 308,
+        "eedy": 306,
+        "ain": 277,
+        "edy": 274,
+        "aiin": 267,
+        "al": 193,
+        "ar": 158,
+        "ey": 108,
+        "ol": 100,
+        "or": 30,
+        "am": 25,
+        "air": 21,
+        "dy": 4,
+        "om": 2
+      }
+    },
+    {
+      "root": "d",
+      "total_freq": 2023,
+      "n_suffixes_attested": 14,
+      "entropy": 2.57,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 41.9,
+      "suffix_counts": {
+        "aiin": 847,
+        "ar": 328,
+        "al": 241,
+        "ain": 215,
+        "air": 109,
+        "ol": 108,
+        "am": 87,
+        "or": 65,
+        "om": 7,
+        "eey": 6,
+        "eedy": 4,
+        "edy": 3,
+        "dy": 2,
+        "ey": 1
+      }
+    },
+    {
+      "root": "sh",
+      "total_freq": 1355,
+      "n_suffixes_attested": 14,
+      "entropy": 2.83,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 32.1,
+      "suffix_counts": {
+        "edy": 435,
+        "ey": 276,
+        "ol": 183,
+        "eey": 148,
+        "or": 95,
+        "eedy": 83,
+        "dy": 45,
+        "ar": 33,
+        "aiin": 20,
+        "al": 17,
+        "ain": 9,
+        "am": 6,
+        "om": 4,
+        "air": 1
+      }
+    },
+    {
+      "root": "ok",
+      "total_freq": 1266,
+      "n_suffixes_attested": 14,
+      "entropy": 3.35,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 16.7,
+      "suffix_counts": {
+        "aiin": 212,
+        "eey": 180,
+        "al": 148,
+        "ain": 139,
+        "ar": 135,
+        "edy": 115,
+        "eedy": 111,
+        "ol": 76,
+        "ey": 63,
+        "or": 33,
+        "am": 31,
+        "air": 20,
+        "om": 2,
+        "dy": 1
+      }
+    },
+    {
+      "root": "ot",
+      "total_freq": 1181,
+      "n_suffixes_attested": 13,
+      "entropy": 3.42,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 13.2,
+      "suffix_counts": {
+        "edy": 156,
+        "aiin": 154,
+        "ar": 147,
+        "eey": 139,
+        "al": 135,
+        "eedy": 100,
+        "ain": 96,
+        "ol": 81,
+        "ey": 61,
+        "am": 47,
+        "or": 37,
+        "air": 26,
+        "dy": 2
+      }
+    },
+    {
+      "root": "qot",
+      "total_freq": 583,
+      "n_suffixes_attested": 13,
+      "entropy": 3.35,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 15.1,
+      "suffix_counts": {
+        "edy": 88,
+        "aiin": 79,
+        "eedy": 76,
+        "ar": 64,
+        "al": 60,
+        "ain": 60,
+        "eey": 45,
+        "ol": 43,
+        "or": 26,
+        "ey": 23,
+        "am": 13,
+        "air": 5,
+        "om": 1
+      }
+    },
+    {
+      "root": "s",
+      "total_freq": 486,
+      "n_suffixes_attested": 10,
+      "entropy": 2.83,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 26.5,
+      "suffix_counts": {
+        "aiin": 129,
+        "ar": 80,
+        "ol": 67,
+        "ain": 63,
+        "or": 51,
+        "al": 51,
+        "air": 29,
+        "am": 13,
+        "om": 2,
+        "eey": 1
+      }
+    },
+    {
+      "root": "k",
+      "total_freq": 478,
+      "n_suffixes_attested": 13,
+      "entropy": 3.41,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 16.7,
+      "suffix_counts": {
+        "aiin": 80,
+        "eedy": 61,
+        "eey": 56,
+        "ar": 56,
+        "edy": 47,
+        "ain": 43,
+        "ol": 39,
+        "al": 28,
+        "or": 27,
+        "ey": 16,
+        "air": 13,
+        "am": 9,
+        "om": 3
+      }
+    },
+    {
+      "root": "che",
+      "total_freq": 377,
+      "n_suffixes_attested": 9,
+      "entropy": 2.17,
+      "type": "MIXED",
+      "dominant_suffix": "ol",
+      "dominant_pct": 45.4,
+      "suffix_counts": {
+        "ol": 171,
+        "or": 92,
+        "ar": 52,
+        "al": 32,
+        "eey": 9,
+        "om": 8,
+        "am": 7,
+        "aiin": 4,
+        "ain": 2
+      }
+    },
+    {
+      "root": "t",
+      "total_freq": 301,
+      "n_suffixes_attested": 13,
+      "entropy": 3.38,
+      "type": "LEXICAL",
+      "dominant_suffix": "ol",
+      "dominant_pct": 15.0,
+      "suffix_counts": {
+        "ol": 45,
+        "aiin": 45,
+        "ar": 42,
+        "edy": 40,
+        "al": 25,
+        "or": 24,
+        "eey": 21,
+        "eedy": 15,
+        "ey": 14,
+        "air": 13,
+        "ain": 11,
+        "am": 5,
+        "om": 1
+      }
+    },
+    {
+      "root": "yk",
+      "total_freq": 258,
+      "n_suffixes_attested": 13,
+      "entropy": 3.17,
+      "type": "LEXICAL",
+      "dominant_suffix": "eey",
+      "dominant_pct": 22.9,
+      "suffix_counts": {
+        "eey": 59,
+        "aiin": 46,
+        "ar": 38,
+        "eedy": 31,
+        "edy": 21,
+        "ol": 15,
+        "ain": 11,
+        "al": 10,
+        "ey": 8,
+        "air": 8,
+        "or": 6,
+        "am": 4,
+        "dy": 1
+      }
+    },
+    {
+      "root": "lk",
+      "total_freq": 244,
+      "n_suffixes_attested": 12,
+      "entropy": 3.07,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 19.7,
+      "suffix_counts": {
+        "aiin": 48,
+        "eey": 39,
+        "eedy": 37,
+        "ain": 34,
+        "ar": 31,
+        "edy": 27,
+        "ey": 7,
+        "am": 5,
+        "al": 5,
+        "ol": 4,
+        "air": 4,
+        "or": 3
+      }
+    },
+    {
+      "root": "olk",
+      "total_freq": 238,
+      "n_suffixes_attested": 12,
+      "entropy": 3.23,
+      "type": "LEXICAL",
+      "dominant_suffix": "eedy",
+      "dominant_pct": 18.1,
+      "suffix_counts": {
+        "eedy": 43,
+        "eey": 38,
+        "ain": 34,
+        "aiin": 29,
+        "edy": 26,
+        "ar": 19,
+        "ey": 14,
+        "al": 13,
+        "am": 11,
+        "air": 5,
+        "ol": 3,
+        "or": 3
+      }
+    },
+    {
+      "root": "cth",
+      "total_freq": 235,
+      "n_suffixes_attested": 12,
+      "entropy": 3.0,
+      "type": "LEXICAL",
+      "dominant_suffix": "ol",
+      "dominant_pct": 24.3,
+      "suffix_counts": {
+        "ol": 57,
+        "ey": 51,
+        "or": 44,
+        "ar": 15,
+        "eey": 15,
+        "aiin": 13,
+        "edy": 13,
+        "al": 8,
+        "om": 7,
+        "dy": 7,
+        "ain": 4,
+        "am": 1
+      }
+    },
+    {
+      "root": "yt",
+      "total_freq": 235,
+      "n_suffixes_attested": 12,
+      "entropy": 3.41,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 16.6,
+      "suffix_counts": {
+        "aiin": 39,
+        "eey": 31,
+        "eedy": 30,
+        "ar": 24,
+        "edy": 24,
+        "al": 18,
+        "or": 14,
+        "ain": 13,
+        "ol": 13,
+        "ey": 13,
+        "am": 12,
+        "air": 4
+      }
+    },
+    {
+      "root": "lch",
+      "total_freq": 223,
+      "n_suffixes_attested": 11,
+      "entropy": 2.19,
+      "type": "MIXED",
+      "dominant_suffix": "edy",
+      "dominant_pct": 51.6,
+      "suffix_counts": {
+        "edy": 115,
+        "ey": 49,
+        "dy": 18,
+        "eey": 13,
+        "eedy": 9,
+        "al": 6,
+        "or": 5,
+        "ol": 3,
+        "ar": 3,
+        "ain": 1,
+        "am": 1
+      }
+    },
+    {
+      "root": "she",
+      "total_freq": 220,
+      "n_suffixes_attested": 9,
+      "entropy": 2.16,
+      "type": "MIXED",
+      "dominant_suffix": "ol",
+      "dominant_pct": 49.5,
+      "suffix_counts": {
+        "ol": 109,
+        "or": 46,
+        "ar": 25,
+        "al": 19,
+        "aiin": 8,
+        "eey": 5,
+        "ain": 3,
+        "om": 3,
+        "am": 2
+      }
+    },
+    {
+      "root": "q",
+      "total_freq": 175,
+      "n_suffixes_attested": 8,
+      "entropy": 0.97,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "ol",
+      "dominant_pct": 82.3,
+      "suffix_counts": {
+        "ol": 144,
+        "or": 21,
+        "eey": 3,
+        "eedy": 2,
+        "aiin": 2,
+        "ey": 1,
+        "edy": 1,
+        "ar": 1
+      }
+    },
+    {
+      "root": "ol",
+      "total_freq": 174,
+      "n_suffixes_attested": 12,
+      "entropy": 2.92,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 29.9,
+      "suffix_counts": {
+        "aiin": 52,
+        "dy": 31,
+        "or": 27,
+        "ol": 18,
+        "ar": 14,
+        "ain": 12,
+        "al": 5,
+        "am": 5,
+        "om": 3,
+        "eedy": 3,
+        "eey": 3,
+        "air": 1
+      }
+    },
+    {
+      "root": "r",
+      "total_freq": 167,
+      "n_suffixes_attested": 9,
+      "entropy": 2.69,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 37.1,
+      "suffix_counts": {
+        "aiin": 62,
+        "ain": 21,
+        "ol": 19,
+        "al": 16,
+        "ar": 16,
+        "or": 15,
+        "am": 12,
+        "air": 5,
+        "om": 1
+      }
+    },
+    {
+      "root": "otch",
+      "total_freq": 165,
+      "n_suffixes_attested": 12,
+      "entropy": 2.85,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 21.2,
+      "suffix_counts": {
+        "edy": 35,
+        "ey": 33,
+        "ol": 30,
+        "dy": 30,
+        "or": 17,
+        "am": 5,
+        "ar": 5,
+        "al": 3,
+        "eey": 3,
+        "aiin": 2,
+        "om": 1,
+        "eedy": 1
+      }
+    },
+    {
+      "root": "qokch",
+      "total_freq": 154,
+      "n_suffixes_attested": 11,
+      "entropy": 2.43,
+      "type": "MIXED",
+      "dominant_suffix": "dy",
+      "dominant_pct": 34.4,
+      "suffix_counts": {
+        "dy": 53,
+        "edy": 40,
+        "ey": 28,
+        "ol": 15,
+        "or": 9,
+        "aiin": 2,
+        "eey": 2,
+        "eedy": 2,
+        "ain": 1,
+        "al": 1,
+        "ar": 1
+      }
+    },
+    {
+      "root": "oke",
+      "total_freq": 151,
+      "n_suffixes_attested": 9,
+      "entropy": 2.46,
+      "type": "MIXED",
+      "dominant_suffix": "ol",
+      "dominant_pct": 43.0,
+      "suffix_counts": {
+        "ol": 65,
+        "eey": 28,
+        "or": 19,
+        "al": 13,
+        "ar": 9,
+        "eedy": 8,
+        "om": 4,
+        "am": 3,
+        "aiin": 2
+      }
+    },
+    {
+      "root": "l",
+      "total_freq": 144,
+      "n_suffixes_attested": 10,
+      "entropy": 2.77,
+      "type": "LEXICAL",
+      "dominant_suffix": "ol",
+      "dominant_pct": 26.4,
+      "suffix_counts": {
+        "ol": 38,
+        "or": 38,
+        "dy": 24,
+        "aiin": 13,
+        "ar": 8,
+        "al": 7,
+        "am": 5,
+        "ain": 5,
+        "om": 4,
+        "air": 2
+      }
+    },
+    {
+      "root": "od",
+      "total_freq": 143,
+      "n_suffixes_attested": 11,
+      "entropy": 2.6,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 42.0,
+      "suffix_counts": {
+        "aiin": 60,
+        "ar": 22,
+        "ain": 17,
+        "al": 17,
+        "or": 8,
+        "am": 7,
+        "air": 5,
+        "ol": 2,
+        "eey": 2,
+        "eedy": 2,
+        "ey": 1
+      }
+    },
+    {
+      "root": "dch",
+      "total_freq": 134,
+      "n_suffixes_attested": 14,
+      "entropy": 3.1,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 20.1,
+      "suffix_counts": {
+        "edy": 27,
+        "or": 25,
+        "ol": 25,
+        "ey": 17,
+        "eey": 12,
+        "dy": 9,
+        "aiin": 5,
+        "ar": 4,
+        "eedy": 4,
+        "al": 2,
+        "ain": 1,
+        "am": 1,
+        "om": 1,
+        "air": 1
+      }
+    },
+    {
+      "root": "ched",
+      "total_freq": 133,
+      "n_suffixes_attested": 9,
+      "entropy": 2.49,
+      "type": "MIXED",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 28.6,
+      "suffix_counts": {
+        "aiin": 38,
+        "ar": 35,
+        "al": 25,
+        "ain": 19,
+        "am": 6,
+        "ol": 5,
+        "or": 3,
+        "eey": 1,
+        "ey": 1
+      }
+    },
+    {
+      "root": "o",
+      "total_freq": 129,
+      "n_suffixes_attested": 12,
+      "entropy": 2.66,
+      "type": "LEXICAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 39.5,
+      "suffix_counts": {
+        "dy": 51,
+        "aiin": 26,
+        "ar": 12,
+        "ain": 12,
+        "eedy": 9,
+        "eey": 8,
+        "air": 3,
+        "al": 2,
+        "or": 2,
+        "edy": 2,
+        "ol": 1,
+        "am": 1
+      }
+    },
+    {
+      "root": "kch",
+      "total_freq": 125,
+      "n_suffixes_attested": 13,
+      "entropy": 2.89,
+      "type": "LEXICAL",
+      "dominant_suffix": "ol",
+      "dominant_pct": 20.0,
+      "suffix_counts": {
+        "ol": 25,
+        "ey": 22,
+        "edy": 22,
+        "dy": 21,
+        "or": 20,
+        "aiin": 4,
+        "eey": 4,
+        "al": 2,
+        "om": 1,
+        "am": 1,
+        "ar": 1,
+        "ain": 1,
+        "eedy": 1
+      }
+    },
+    {
+      "root": "okch",
+      "total_freq": 124,
+      "n_suffixes_attested": 11,
+      "entropy": 2.93,
+      "type": "LEXICAL",
+      "dominant_suffix": "ey",
+      "dominant_pct": 24.2,
+      "suffix_counts": {
+        "ey": 30,
+        "edy": 23,
+        "dy": 20,
+        "or": 17,
+        "ol": 14,
+        "eey": 6,
+        "ar": 5,
+        "al": 4,
+        "om": 2,
+        "aiin": 2,
+        "ain": 1
+      }
+    },
+    {
+      "root": "opch",
+      "total_freq": 123,
+      "n_suffixes_attested": 11,
+      "entropy": 2.49,
+      "type": "MIXED",
+      "dominant_suffix": "edy",
+      "dominant_pct": 39.8,
+      "suffix_counts": {
+        "edy": 49,
+        "ey": 30,
+        "dy": 18,
+        "ol": 6,
+        "or": 5,
+        "eey": 5,
+        "al": 3,
+        "eedy": 3,
+        "ar": 2,
+        "aiin": 1,
+        "ain": 1
+      }
+    },
+    {
+      "root": "tch",
+      "total_freq": 122,
+      "n_suffixes_attested": 11,
+      "entropy": 2.77,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 27.0,
+      "suffix_counts": {
+        "edy": 33,
+        "ey": 22,
+        "or": 21,
+        "ol": 18,
+        "dy": 14,
+        "eey": 6,
+        "ar": 3,
+        "al": 2,
+        "aiin": 1,
+        "am": 1,
+        "ain": 1
+      }
+    },
+    {
+      "root": "qoke",
+      "total_freq": 120,
+      "n_suffixes_attested": 9,
+      "entropy": 2.3,
+      "type": "MIXED",
+      "dominant_suffix": "ol",
+      "dominant_pct": 42.5,
+      "suffix_counts": {
+        "ol": 51,
+        "eey": 27,
+        "or": 21,
+        "eedy": 6,
+        "ar": 6,
+        "al": 4,
+        "om": 2,
+        "ain": 2,
+        "aiin": 1
+      }
+    },
+    {
+      "root": "qo",
+      "total_freq": 117,
+      "n_suffixes_attested": 11,
+      "entropy": 3.19,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 18.8,
+      "suffix_counts": {
+        "aiin": 22,
+        "eedy": 19,
+        "dy": 18,
+        "eey": 16,
+        "or": 10,
+        "ar": 9,
+        "ain": 6,
+        "al": 5,
+        "edy": 5,
+        "ol": 4,
+        "air": 3
+      }
+    },
+    {
+      "root": "cho",
+      "total_freq": 110,
+      "n_suffixes_attested": 6,
+      "entropy": 0.98,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 83.6,
+      "suffix_counts": {
+        "dy": 92,
+        "aiin": 8,
+        "ar": 4,
+        "or": 2,
+        "eey": 2,
+        "ol": 2
+      }
+    },
+    {
+      "root": "or",
+      "total_freq": 106,
+      "n_suffixes_attested": 11,
+      "entropy": 2.91,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 32.1,
+      "suffix_counts": {
+        "aiin": 34,
+        "ain": 16,
+        "ol": 12,
+        "am": 11,
+        "al": 10,
+        "ar": 8,
+        "or": 7,
+        "om": 3,
+        "air": 3,
+        "dy": 1,
+        "ey": 1
+      }
+    },
+    {
+      "root": "qotch",
+      "total_freq": 100,
+      "n_suffixes_attested": 11,
+      "entropy": 2.71,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 25.0,
+      "suffix_counts": {
+        "edy": 25,
+        "dy": 23,
+        "ey": 18,
+        "ol": 13,
+        "or": 12,
+        "eedy": 3,
+        "ar": 2,
+        "am": 1,
+        "ain": 1,
+        "aiin": 1,
+        "eey": 1
+      }
+    },
+    {
+      "root": "cheo",
+      "total_freq": 100,
+      "n_suffixes_attested": 5,
+      "entropy": 0.6,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 91.0,
+      "suffix_counts": {
+        "dy": 91,
+        "ar": 4,
+        "al": 2,
+        "aiin": 2,
+        "or": 1
+      }
+    },
+    {
+      "root": "olch",
+      "total_freq": 93,
+      "n_suffixes_attested": 10,
+      "entropy": 2.36,
+      "type": "MIXED",
+      "dominant_suffix": "edy",
+      "dominant_pct": 39.8,
+      "suffix_counts": {
+        "edy": 37,
+        "ey": 25,
+        "eey": 11,
+        "dy": 10,
+        "eedy": 3,
+        "ar": 2,
+        "or": 2,
+        "am": 1,
+        "al": 1,
+        "ain": 1
+      }
+    },
+    {
+      "root": "chd",
+      "total_freq": 93,
+      "n_suffixes_attested": 13,
+      "entropy": 3.0,
+      "type": "LEXICAL",
+      "dominant_suffix": "ar",
+      "dominant_pct": 22.6,
+      "suffix_counts": {
+        "ar": 21,
+        "al": 19,
+        "aiin": 16,
+        "am": 10,
+        "or": 9,
+        "ain": 8,
+        "ol": 2,
+        "air": 2,
+        "edy": 2,
+        "eedy": 1,
+        "eey": 1,
+        "ey": 1,
+        "dy": 1
+      }
+    },
+    {
+      "root": "qod",
+      "total_freq": 89,
+      "n_suffixes_attested": 11,
+      "entropy": 2.44,
+      "type": "MIXED",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 49.4,
+      "suffix_counts": {
+        "aiin": 44,
+        "ar": 13,
+        "ain": 10,
+        "al": 7,
+        "air": 3,
+        "am": 3,
+        "eedy": 3,
+        "or": 2,
+        "eey": 2,
+        "ol": 1,
+        "om": 1
+      }
+    },
+    {
+      "root": "ckh",
+      "total_freq": 88,
+      "n_suffixes_attested": 11,
+      "entropy": 2.87,
+      "type": "LEXICAL",
+      "dominant_suffix": "ey",
+      "dominant_pct": 30.7,
+      "suffix_counts": {
+        "ey": 27,
+        "ol": 21,
+        "eey": 10,
+        "or": 8,
+        "ar": 4,
+        "dy": 4,
+        "edy": 4,
+        "am": 3,
+        "aiin": 3,
+        "al": 3,
+        "ain": 1
+      }
+    },
+    {
+      "root": "chk",
+      "total_freq": 88,
+      "n_suffixes_attested": 11,
+      "entropy": 3.16,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 20.5,
+      "suffix_counts": {
+        "aiin": 18,
+        "eey": 13,
+        "ain": 12,
+        "al": 12,
+        "ar": 10,
+        "ey": 7,
+        "edy": 5,
+        "or": 3,
+        "ol": 3,
+        "am": 3,
+        "eedy": 2
+      }
+    },
+    {
+      "root": "ych",
+      "total_freq": 87,
+      "n_suffixes_attested": 12,
+      "entropy": 2.94,
+      "type": "LEXICAL",
+      "dominant_suffix": "eey",
+      "dominant_pct": 23.0,
+      "suffix_counts": {
+        "eey": 20,
+        "ey": 16,
+        "or": 15,
+        "edy": 11,
+        "ol": 10,
+        "eedy": 7,
+        "ain": 3,
+        "ar": 1,
+        "air": 1,
+        "om": 1,
+        "am": 1,
+        "dy": 1
+      }
+    },
+    {
+      "root": "pch",
+      "total_freq": 84,
+      "n_suffixes_attested": 11,
+      "entropy": 2.68,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 41.7,
+      "suffix_counts": {
+        "edy": 35,
+        "or": 12,
+        "dy": 10,
+        "ey": 7,
+        "ol": 6,
+        "ar": 5,
+        "eey": 3,
+        "al": 3,
+        "aiin": 1,
+        "om": 1,
+        "eedy": 1
+      }
+    },
+    {
+      "root": "chod",
+      "total_freq": 82,
+      "n_suffixes_attested": 10,
+      "entropy": 2.09,
+      "type": "MIXED",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 56.1,
+      "suffix_counts": {
+        "aiin": 46,
+        "ar": 13,
+        "ain": 8,
+        "al": 7,
+        "air": 2,
+        "ol": 2,
+        "am": 1,
+        "ey": 1,
+        "or": 1,
+        "dy": 1
+      }
+    },
+    {
+      "root": "dsh",
+      "total_freq": 81,
+      "n_suffixes_attested": 9,
+      "entropy": 2.5,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 42.0,
+      "suffix_counts": {
+        "edy": 34,
+        "or": 13,
+        "ey": 11,
+        "eey": 8,
+        "eedy": 5,
+        "ol": 4,
+        "dy": 4,
+        "ar": 1,
+        "al": 1
+      }
+    },
+    {
+      "root": "chok",
+      "total_freq": 78,
+      "n_suffixes_attested": 11,
+      "entropy": 3.23,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 20.5,
+      "suffix_counts": {
+        "aiin": 16,
+        "eey": 13,
+        "ain": 10,
+        "ey": 7,
+        "al": 7,
+        "ar": 7,
+        "or": 5,
+        "ol": 4,
+        "edy": 4,
+        "eedy": 3,
+        "am": 2
+      }
+    },
+    {
+      "root": "lsh",
+      "total_freq": 77,
+      "n_suffixes_attested": 8,
+      "entropy": 2.06,
+      "type": "MIXED",
+      "dominant_suffix": "edy",
+      "dominant_pct": 51.9,
+      "suffix_counts": {
+        "edy": 40,
+        "ey": 17,
+        "eedy": 7,
+        "eey": 6,
+        "dy": 3,
+        "or": 2,
+        "ol": 1,
+        "ar": 1
+      }
+    },
+    {
+      "root": "ote",
+      "total_freq": 76,
+      "n_suffixes_attested": 9,
+      "entropy": 2.33,
+      "type": "MIXED",
+      "dominant_suffix": "ol",
+      "dominant_pct": 48.7,
+      "suffix_counts": {
+        "ol": 37,
+        "or": 13,
+        "eey": 7,
+        "ar": 6,
+        "al": 6,
+        "eedy": 2,
+        "aiin": 2,
+        "ain": 2,
+        "om": 1
+      }
+    },
+    {
+      "root": "qopch",
+      "total_freq": 76,
+      "n_suffixes_attested": 11,
+      "entropy": 2.56,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 40.8,
+      "suffix_counts": {
+        "edy": 31,
+        "dy": 16,
+        "ey": 10,
+        "ol": 6,
+        "eey": 4,
+        "or": 2,
+        "ar": 2,
+        "eedy": 2,
+        "aiin": 1,
+        "air": 1,
+        "am": 1
+      }
+    },
+    {
+      "root": "chot",
+      "total_freq": 73,
+      "n_suffixes_attested": 13,
+      "entropy": 3.44,
+      "type": "LEXICAL",
+      "dominant_suffix": "ar",
+      "dominant_pct": 15.1,
+      "suffix_counts": {
+        "ar": 11,
+        "aiin": 10,
+        "ol": 9,
+        "ey": 8,
+        "al": 8,
+        "eey": 7,
+        "ain": 5,
+        "or": 4,
+        "am": 4,
+        "om": 2,
+        "air": 2,
+        "edy": 2,
+        "eedy": 1
+      }
+    },
+    {
+      "root": "chckh",
+      "total_freq": 70,
+      "n_suffixes_attested": 10,
+      "entropy": 2.47,
+      "type": "MIXED",
+      "dominant_suffix": "ey",
+      "dominant_pct": 42.9,
+      "suffix_counts": {
+        "ey": 30,
+        "dy": 13,
+        "edy": 11,
+        "ol": 4,
+        "al": 4,
+        "aiin": 3,
+        "or": 2,
+        "am": 1,
+        "eey": 1,
+        "om": 1
+      }
+    },
+    {
+      "root": "al",
+      "total_freq": 70,
+      "n_suffixes_attested": 10,
+      "entropy": 3.15,
+      "type": "LEXICAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 20.0,
+      "suffix_counts": {
+        "dy": 14,
+        "am": 11,
+        "aiin": 8,
+        "ol": 8,
+        "or": 8,
+        "al": 6,
+        "ain": 5,
+        "om": 4,
+        "ar": 4,
+        "air": 2
+      }
+    },
+    {
+      "root": "ar",
+      "total_freq": 69,
+      "n_suffixes_attested": 8,
+      "entropy": 2.8,
+      "type": "LEXICAL",
+      "dominant_suffix": "al",
+      "dominant_pct": 27.5,
+      "suffix_counts": {
+        "al": 19,
+        "am": 11,
+        "ol": 9,
+        "aiin": 9,
+        "ar": 8,
+        "or": 6,
+        "ain": 4,
+        "om": 3
+      }
+    },
+    {
+      "root": "chek",
+      "total_freq": 65,
+      "n_suffixes_attested": 11,
+      "entropy": 3.21,
+      "type": "LEXICAL",
+      "dominant_suffix": "al",
+      "dominant_pct": 16.9,
+      "suffix_counts": {
+        "al": 11,
+        "ar": 10,
+        "aiin": 9,
+        "ain": 8,
+        "ey": 7,
+        "edy": 5,
+        "eey": 5,
+        "eedy": 4,
+        "ol": 4,
+        "am": 1,
+        "air": 1
+      }
+    },
+    {
+      "root": "sho",
+      "total_freq": 62,
+      "n_suffixes_attested": 6,
+      "entropy": 0.97,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 83.9,
+      "suffix_counts": {
+        "dy": 52,
+        "aiin": 4,
+        "ar": 3,
+        "eey": 1,
+        "or": 1,
+        "ain": 1
+      }
+    },
+    {
+      "root": "dal",
+      "total_freq": 59,
+      "n_suffixes_attested": 9,
+      "entropy": 2.78,
+      "type": "LEXICAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 33.9,
+      "suffix_counts": {
+        "dy": 20,
+        "or": 7,
+        "ol": 7,
+        "am": 7,
+        "ar": 6,
+        "al": 6,
+        "aiin": 3,
+        "om": 2,
+        "ain": 1
+      }
+    },
+    {
+      "root": "e",
+      "total_freq": 53,
+      "n_suffixes_attested": 8,
+      "entropy": 2.72,
+      "type": "LEXICAL",
+      "dominant_suffix": "ey",
+      "dominant_pct": 24.5,
+      "suffix_counts": {
+        "ey": 13,
+        "dy": 13,
+        "eedy": 8,
+        "edy": 6,
+        "eey": 5,
+        "ol": 4,
+        "ar": 2,
+        "or": 2
+      }
+    },
+    {
+      "root": "cph",
+      "total_freq": 52,
+      "n_suffixes_attested": 9,
+      "entropy": 2.89,
+      "type": "LEXICAL",
+      "dominant_suffix": "ol",
+      "dominant_pct": 23.1,
+      "suffix_counts": {
+        "ol": 12,
+        "ey": 10,
+        "edy": 8,
+        "or": 6,
+        "aiin": 6,
+        "ar": 4,
+        "al": 3,
+        "eey": 2,
+        "am": 1
+      }
+    },
+    {
+      "root": "ytch",
+      "total_freq": 52,
+      "n_suffixes_attested": 9,
+      "entropy": 2.7,
+      "type": "LEXICAL",
+      "dominant_suffix": "ey",
+      "dominant_pct": 23.1,
+      "suffix_counts": {
+        "ey": 12,
+        "or": 11,
+        "edy": 10,
+        "dy": 8,
+        "ol": 6,
+        "ar": 2,
+        "aiin": 1,
+        "eey": 1,
+        "om": 1
+      }
+    },
+    {
+      "root": "op",
+      "total_freq": 52,
+      "n_suffixes_attested": 9,
+      "entropy": 2.79,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 28.8,
+      "suffix_counts": {
+        "aiin": 15,
+        "ar": 10,
+        "al": 9,
+        "or": 5,
+        "air": 4,
+        "ol": 3,
+        "am": 3,
+        "ain": 2,
+        "om": 1
+      }
+    },
+    {
+      "root": "shed",
+      "total_freq": 52,
+      "n_suffixes_attested": 9,
+      "entropy": 2.52,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 26.9,
+      "suffix_counts": {
+        "aiin": 14,
+        "al": 12,
+        "ain": 12,
+        "ar": 8,
+        "am": 2,
+        "ey": 1,
+        "ol": 1,
+        "or": 1,
+        "air": 1
+      }
+    },
+    {
+      "root": "sheo",
+      "total_freq": 51,
+      "n_suffixes_attested": 3,
+      "entropy": 0.28,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 96.1,
+      "suffix_counts": {
+        "dy": 49,
+        "ar": 1,
+        "al": 1
+      }
+    },
+    {
+      "root": "ke",
+      "total_freq": 48,
+      "n_suffixes_attested": 7,
+      "entropy": 2.2,
+      "type": "MIXED",
+      "dominant_suffix": "ol",
+      "dominant_pct": 43.8,
+      "suffix_counts": {
+        "ol": 21,
+        "eey": 10,
+        "or": 7,
+        "eedy": 6,
+        "am": 2,
+        "aiin": 1,
+        "om": 1
+      }
+    },
+    {
+      "root": "p",
+      "total_freq": 47,
+      "n_suffixes_attested": 7,
+      "entropy": 2.37,
+      "type": "MIXED",
+      "dominant_suffix": "ol",
+      "dominant_pct": 40.4,
+      "suffix_counts": {
+        "ol": 19,
+        "or": 8,
+        "aiin": 7,
+        "ar": 6,
+        "air": 4,
+        "al": 2,
+        "am": 1
+      }
+    },
+    {
+      "root": "olsh",
+      "total_freq": 47,
+      "n_suffixes_attested": 5,
+      "entropy": 1.86,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 46.8,
+      "suffix_counts": {
+        "edy": 22,
+        "ey": 13,
+        "eey": 7,
+        "dy": 4,
+        "eedy": 1
+      }
+    },
+    {
+      "root": "oteo",
+      "total_freq": 45,
+      "n_suffixes_attested": 4,
+      "entropy": 0.57,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 91.1,
+      "suffix_counts": {
+        "dy": 41,
+        "eey": 2,
+        "ol": 1,
+        "al": 1
+      }
+    },
+    {
+      "root": "okee",
+      "total_freq": 42,
+      "n_suffixes_attested": 8,
+      "entropy": 2.34,
+      "type": "MIXED",
+      "dominant_suffix": "ol",
+      "dominant_pct": 38.1,
+      "suffix_counts": {
+        "ol": 16,
+        "or": 13,
+        "ar": 4,
+        "eey": 2,
+        "aiin": 2,
+        "am": 2,
+        "om": 2,
+        "al": 1
+      }
+    },
+    {
+      "root": "yd",
+      "total_freq": 40,
+      "n_suffixes_attested": 8,
+      "entropy": 2.43,
+      "type": "MIXED",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 45.0,
+      "suffix_counts": {
+        "aiin": 18,
+        "ain": 5,
+        "ar": 5,
+        "am": 4,
+        "al": 3,
+        "air": 3,
+        "or": 1,
+        "ey": 1
+      }
+    },
+    {
+      "root": "ysh",
+      "total_freq": 39,
+      "n_suffixes_attested": 8,
+      "entropy": 2.59,
+      "type": "LEXICAL",
+      "dominant_suffix": "ey",
+      "dominant_pct": 30.8,
+      "suffix_counts": {
+        "ey": 12,
+        "eey": 8,
+        "edy": 7,
+        "eedy": 5,
+        "or": 3,
+        "ol": 2,
+        "aiin": 1,
+        "air": 1
+      }
+    },
+    {
+      "root": "och",
+      "total_freq": 38,
+      "n_suffixes_attested": 10,
+      "entropy": 2.8,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 26.3,
+      "suffix_counts": {
+        "edy": 10,
+        "ey": 8,
+        "ol": 6,
+        "or": 6,
+        "eey": 3,
+        "aiin": 1,
+        "dy": 1,
+        "am": 1,
+        "ar": 1,
+        "eedy": 1
+      }
+    },
+    {
+      "root": "okeo",
+      "total_freq": 38,
+      "n_suffixes_attested": 3,
+      "entropy": 0.35,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 94.7,
+      "suffix_counts": {
+        "dy": 36,
+        "aiin": 1,
+        "am": 1
+      }
+    },
+    {
+      "root": "qockh",
+      "total_freq": 38,
+      "n_suffixes_attested": 9,
+      "entropy": 2.31,
+      "type": "MIXED",
+      "dominant_suffix": "ey",
+      "dominant_pct": 47.4,
+      "suffix_counts": {
+        "ey": 18,
+        "ol": 8,
+        "edy": 4,
+        "eey": 3,
+        "dy": 1,
+        "om": 1,
+        "or": 1,
+        "al": 1,
+        "eedy": 1
+      }
+    },
+    {
+      "root": "shod",
+      "total_freq": 37,
+      "n_suffixes_attested": 6,
+      "entropy": 1.66,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 64.9,
+      "suffix_counts": {
+        "aiin": 24,
+        "ain": 5,
+        "ol": 3,
+        "al": 3,
+        "am": 1,
+        "ar": 1
+      }
+    },
+    {
+      "root": "cheod",
+      "total_freq": 37,
+      "n_suffixes_attested": 7,
+      "entropy": 2.41,
+      "type": "MIXED",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 35.1,
+      "suffix_counts": {
+        "aiin": 13,
+        "ain": 8,
+        "al": 7,
+        "ar": 4,
+        "or": 2,
+        "am": 2,
+        "eey": 1
+      }
+    },
+    {
+      "root": "tsh",
+      "total_freq": 37,
+      "n_suffixes_attested": 8,
+      "entropy": 2.59,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 27.0,
+      "suffix_counts": {
+        "edy": 10,
+        "ey": 9,
+        "ol": 6,
+        "dy": 5,
+        "or": 4,
+        "aiin": 1,
+        "eey": 1,
+        "ar": 1
+      }
+    },
+    {
+      "root": "yke",
+      "total_freq": 34,
+      "n_suffixes_attested": 6,
+      "entropy": 2.06,
+      "type": "MIXED",
+      "dominant_suffix": "ol",
+      "dominant_pct": 47.1,
+      "suffix_counts": {
+        "ol": 16,
+        "or": 6,
+        "eey": 6,
+        "eedy": 4,
+        "ain": 1,
+        "al": 1
+      }
+    },
+    {
+      "root": "ykch",
+      "total_freq": 34,
+      "n_suffixes_attested": 6,
+      "entropy": 2.42,
+      "type": "MIXED",
+      "dominant_suffix": "dy",
+      "dominant_pct": 23.5,
+      "suffix_counts": {
+        "dy": 8,
+        "edy": 8,
+        "ol": 6,
+        "ey": 6,
+        "or": 5,
+        "om": 1
+      }
+    },
+    {
+      "root": "qokeo",
+      "total_freq": 33,
+      "n_suffixes_attested": 1,
+      "entropy": -0.0,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 100.0,
+      "suffix_counts": {
+        "dy": 33
+      }
+    },
+    {
+      "root": "ypch",
+      "total_freq": 32,
+      "n_suffixes_attested": 9,
+      "entropy": 2.63,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 37.5,
+      "suffix_counts": {
+        "edy": 12,
+        "ey": 5,
+        "dy": 5,
+        "ol": 3,
+        "or": 3,
+        "aiin": 1,
+        "eey": 1,
+        "al": 1,
+        "eedy": 1
+      }
+    },
+    {
+      "root": "cht",
+      "total_freq": 31,
+      "n_suffixes_attested": 11,
+      "entropy": 3.23,
+      "type": "LEXICAL",
+      "dominant_suffix": "al",
+      "dominant_pct": 19.4,
+      "suffix_counts": {
+        "al": 6,
+        "ol": 5,
+        "ain": 4,
+        "aiin": 3,
+        "ar": 3,
+        "eey": 3,
+        "or": 2,
+        "edy": 2,
+        "ey": 1,
+        "am": 1,
+        "air": 1
+      }
+    },
+    {
+      "root": "chee",
+      "total_freq": 31,
+      "n_suffixes_attested": 5,
+      "entropy": 1.75,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "or",
+      "dominant_pct": 51.6,
+      "suffix_counts": {
+        "or": 16,
+        "ol": 9,
+        "al": 3,
+        "aiin": 2,
+        "ar": 1
+      }
+    },
+    {
+      "root": "chet",
+      "total_freq": 31,
+      "n_suffixes_attested": 9,
+      "entropy": 2.95,
+      "type": "LEXICAL",
+      "dominant_suffix": "ey",
+      "dominant_pct": 19.4,
+      "suffix_counts": {
+        "ey": 6,
+        "ar": 6,
+        "ain": 5,
+        "edy": 4,
+        "aiin": 3,
+        "eey": 3,
+        "am": 2,
+        "al": 1,
+        "dy": 1
+      }
+    },
+    {
+      "root": "otal",
+      "total_freq": 31,
+      "n_suffixes_attested": 9,
+      "entropy": 2.88,
+      "type": "LEXICAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 25.8,
+      "suffix_counts": {
+        "dy": 8,
+        "aiin": 5,
+        "al": 4,
+        "or": 4,
+        "am": 4,
+        "ar": 3,
+        "om": 1,
+        "ain": 1,
+        "air": 1
+      }
+    },
+    {
+      "root": "old",
+      "total_freq": 30,
+      "n_suffixes_attested": 8,
+      "entropy": 2.56,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 33.3,
+      "suffix_counts": {
+        "aiin": 10,
+        "ar": 7,
+        "am": 5,
+        "ain": 2,
+        "or": 2,
+        "al": 2,
+        "air": 1,
+        "eey": 1
+      }
+    },
+    {
+      "root": "chcth",
+      "total_freq": 30,
+      "n_suffixes_attested": 10,
+      "entropy": 2.81,
+      "type": "LEXICAL",
+      "dominant_suffix": "ey",
+      "dominant_pct": 23.3,
+      "suffix_counts": {
+        "ey": 7,
+        "edy": 7,
+        "dy": 7,
+        "al": 2,
+        "am": 2,
+        "or": 1,
+        "aiin": 1,
+        "ol": 1,
+        "ar": 1,
+        "ain": 1
+      }
+    },
+    {
+      "root": "shek",
+      "total_freq": 30,
+      "n_suffixes_attested": 11,
+      "entropy": 3.22,
+      "type": "LEXICAL",
+      "dominant_suffix": "eey",
+      "dominant_pct": 20.0,
+      "suffix_counts": {
+        "eey": 6,
+        "ey": 5,
+        "al": 4,
+        "aiin": 3,
+        "ain": 3,
+        "am": 2,
+        "ar": 2,
+        "edy": 2,
+        "air": 1,
+        "ol": 1,
+        "or": 1
+      }
+    },
+    {
+      "root": "oted",
+      "total_freq": 30,
+      "n_suffixes_attested": 9,
+      "entropy": 2.66,
+      "type": "LEXICAL",
+      "dominant_suffix": "ar",
+      "dominant_pct": 40.0,
+      "suffix_counts": {
+        "ar": 12,
+        "al": 4,
+        "ol": 3,
+        "aiin": 3,
+        "am": 3,
+        "ain": 2,
+        "or": 1,
+        "eey": 1,
+        "air": 1
+      }
+    },
+    {
+      "root": "lkch",
+      "total_freq": 30,
+      "n_suffixes_attested": 5,
+      "entropy": 1.77,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 50.0,
+      "suffix_counts": {
+        "edy": 15,
+        "ey": 8,
+        "dy": 5,
+        "ol": 1,
+        "or": 1
+      }
+    },
+    {
+      "root": "chol",
+      "total_freq": 28,
+      "n_suffixes_attested": 8,
+      "entropy": 2.51,
+      "type": "LEXICAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 39.3,
+      "suffix_counts": {
+        "dy": 11,
+        "or": 5,
+        "aiin": 4,
+        "al": 3,
+        "ol": 2,
+        "ar": 1,
+        "am": 1,
+        "eey": 1
+      }
+    },
+    {
+      "root": "okal",
+      "total_freq": 28,
+      "n_suffixes_attested": 9,
+      "entropy": 2.68,
+      "type": "LEXICAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 35.7,
+      "suffix_counts": {
+        "dy": 10,
+        "al": 6,
+        "ar": 3,
+        "am": 2,
+        "aiin": 2,
+        "or": 2,
+        "air": 1,
+        "ol": 1,
+        "ain": 1
+      }
+    },
+    {
+      "root": "dar",
+      "total_freq": 27,
+      "n_suffixes_attested": 8,
+      "entropy": 2.77,
+      "type": "LEXICAL",
+      "dominant_suffix": "am",
+      "dominant_pct": 33.3,
+      "suffix_counts": {
+        "am": 9,
+        "or": 3,
+        "om": 3,
+        "al": 3,
+        "ol": 3,
+        "aiin": 2,
+        "dy": 2,
+        "ar": 2
+      }
+    },
+    {
+      "root": "otsh",
+      "total_freq": 27,
+      "n_suffixes_attested": 8,
+      "entropy": 2.39,
+      "type": "MIXED",
+      "dominant_suffix": "edy",
+      "dominant_pct": 37.0,
+      "suffix_counts": {
+        "edy": 10,
+        "ey": 8,
+        "dy": 3,
+        "ol": 2,
+        "al": 1,
+        "or": 1,
+        "aiin": 1,
+        "eey": 1
+      }
+    },
+    {
+      "root": "fch",
+      "total_freq": 27,
+      "n_suffixes_attested": 9,
+      "entropy": 2.73,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 37.0,
+      "suffix_counts": {
+        "edy": 10,
+        "eey": 4,
+        "or": 3,
+        "dy": 3,
+        "ol": 2,
+        "ey": 2,
+        "aiin": 1,
+        "om": 1,
+        "am": 1
+      }
+    },
+    {
+      "root": "te",
+      "total_freq": 27,
+      "n_suffixes_attested": 6,
+      "entropy": 1.84,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "ol",
+      "dominant_pct": 59.3,
+      "suffix_counts": {
+        "ol": 16,
+        "eedy": 4,
+        "or": 3,
+        "ar": 2,
+        "aiin": 1,
+        "eey": 1
+      }
+    },
+    {
+      "root": "qolch",
+      "total_freq": 27,
+      "n_suffixes_attested": 5,
+      "entropy": 1.79,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 40.7,
+      "suffix_counts": {
+        "edy": 11,
+        "ey": 11,
+        "eedy": 2,
+        "eey": 2,
+        "dy": 1
+      }
+    },
+    {
+      "root": "qote",
+      "total_freq": 26,
+      "n_suffixes_attested": 6,
+      "entropy": 2.19,
+      "type": "MIXED",
+      "dominant_suffix": "ol",
+      "dominant_pct": 46.2,
+      "suffix_counts": {
+        "ol": 12,
+        "or": 5,
+        "eedy": 3,
+        "eey": 2,
+        "ar": 2,
+        "al": 2
+      }
+    },
+    {
+      "root": "qop",
+      "total_freq": 26,
+      "n_suffixes_attested": 7,
+      "entropy": 2.52,
+      "type": "LEXICAL",
+      "dominant_suffix": "aiin",
+      "dominant_pct": 26.9,
+      "suffix_counts": {
+        "aiin": 7,
+        "ol": 6,
+        "ar": 5,
+        "or": 4,
+        "al": 2,
+        "dy": 1,
+        "am": 1
+      }
+    },
+    {
+      "root": "sch",
+      "total_freq": 26,
+      "n_suffixes_attested": 8,
+      "entropy": 2.67,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 26.9,
+      "suffix_counts": {
+        "edy": 7,
+        "ey": 6,
+        "dy": 4,
+        "ol": 3,
+        "or": 3,
+        "ar": 1,
+        "eey": 1,
+        "aiin": 1
+      }
+    },
+    {
+      "root": "alk",
+      "total_freq": 26,
+      "n_suffixes_attested": 10,
+      "entropy": 2.97,
+      "type": "LEXICAL",
+      "dominant_suffix": "ain",
+      "dominant_pct": 23.1,
+      "suffix_counts": {
+        "ain": 6,
+        "ar": 5,
+        "am": 4,
+        "aiin": 4,
+        "eedy": 2,
+        "ey": 1,
+        "air": 1,
+        "eey": 1,
+        "al": 1,
+        "edy": 1
+      }
+    },
+    {
+      "root": "qoksh",
+      "total_freq": 25,
+      "n_suffixes_attested": 5,
+      "entropy": 1.84,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 44.0,
+      "suffix_counts": {
+        "edy": 11,
+        "ey": 8,
+        "dy": 4,
+        "ol": 1,
+        "eedy": 1
+      }
+    },
+    {
+      "root": "shee",
+      "total_freq": 25,
+      "n_suffixes_attested": 5,
+      "entropy": 1.77,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "ol",
+      "dominant_pct": 52.0,
+      "suffix_counts": {
+        "ol": 13,
+        "or": 7,
+        "ar": 2,
+        "al": 2,
+        "ain": 1
+      }
+    },
+    {
+      "root": "ksh",
+      "total_freq": 25,
+      "n_suffixes_attested": 8,
+      "entropy": 2.81,
+      "type": "LEXICAL",
+      "dominant_suffix": "ey",
+      "dominant_pct": 24.0,
+      "suffix_counts": {
+        "ey": 6,
+        "edy": 5,
+        "dy": 4,
+        "ar": 3,
+        "or": 2,
+        "ol": 2,
+        "eey": 2,
+        "aiin": 1
+      }
+    },
+    {
+      "root": "kee",
+      "total_freq": 25,
+      "n_suffixes_attested": 5,
+      "entropy": 1.78,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "ol",
+      "dominant_pct": 52.0,
+      "suffix_counts": {
+        "ol": 13,
+        "or": 6,
+        "ar": 4,
+        "aiin": 1,
+        "al": 1
+      }
+    },
+    {
+      "root": "shd",
+      "total_freq": 25,
+      "n_suffixes_attested": 7,
+      "entropy": 2.2,
+      "type": "MIXED",
+      "dominant_suffix": "ar",
+      "dominant_pct": 48.0,
+      "suffix_counts": {
+        "ar": 12,
+        "aiin": 4,
+        "al": 4,
+        "air": 2,
+        "dy": 1,
+        "ol": 1,
+        "am": 1
+      }
+    },
+    {
+      "root": "shok",
+      "total_freq": 25,
+      "n_suffixes_attested": 8,
+      "entropy": 2.82,
+      "type": "LEXICAL",
+      "dominant_suffix": "ey",
+      "dominant_pct": 20.0,
+      "suffix_counts": {
+        "ey": 5,
+        "al": 5,
+        "aiin": 4,
+        "eey": 3,
+        "ar": 3,
+        "ol": 3,
+        "eedy": 1,
+        "ain": 1
+      }
+    },
+    {
+      "root": "rch",
+      "total_freq": 25,
+      "n_suffixes_attested": 5,
+      "entropy": 1.89,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 40.0,
+      "suffix_counts": {
+        "edy": 10,
+        "ey": 8,
+        "eey": 5,
+        "ol": 1,
+        "dy": 1
+      }
+    },
+    {
+      "root": "pched",
+      "total_freq": 25,
+      "n_suffixes_attested": 7,
+      "entropy": 2.26,
+      "type": "MIXED",
+      "dominant_suffix": "ar",
+      "dominant_pct": 44.0,
+      "suffix_counts": {
+        "ar": 11,
+        "al": 5,
+        "aiin": 4,
+        "ain": 2,
+        "eey": 1,
+        "ey": 1,
+        "air": 1
+      }
+    },
+    {
+      "root": "oked",
+      "total_freq": 25,
+      "n_suffixes_attested": 7,
+      "entropy": 2.64,
+      "type": "LEXICAL",
+      "dominant_suffix": "al",
+      "dominant_pct": 24.0,
+      "suffix_counts": {
+        "al": 6,
+        "ar": 6,
+        "or": 3,
+        "am": 3,
+        "aiin": 3,
+        "ain": 3,
+        "ol": 1
+      }
+    },
+    {
+      "root": "cheok",
+      "total_freq": 25,
+      "n_suffixes_attested": 9,
+      "entropy": 3.0,
+      "type": "LEXICAL",
+      "dominant_suffix": "eey",
+      "dominant_pct": 24.0,
+      "suffix_counts": {
+        "eey": 6,
+        "ey": 4,
+        "ain": 3,
+        "aiin": 3,
+        "or": 2,
+        "al": 2,
+        "am": 2,
+        "edy": 2,
+        "ar": 1
+      }
+    },
+    {
+      "root": "yche",
+      "total_freq": 24,
+      "n_suffixes_attested": 4,
+      "entropy": 1.72,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "ol",
+      "dominant_pct": 45.8,
+      "suffix_counts": {
+        "ol": 11,
+        "or": 8,
+        "ar": 3,
+        "ain": 2
+      }
+    },
+    {
+      "root": "qokee",
+      "total_freq": 24,
+      "n_suffixes_attested": 6,
+      "entropy": 2.15,
+      "type": "MIXED",
+      "dominant_suffix": "ol",
+      "dominant_pct": 37.5,
+      "suffix_counts": {
+        "ol": 9,
+        "or": 8,
+        "aiin": 2,
+        "al": 2,
+        "ar": 2,
+        "am": 1
+      }
+    },
+    {
+      "root": "shckh",
+      "total_freq": 23,
+      "n_suffixes_attested": 7,
+      "entropy": 2.11,
+      "type": "MIXED",
+      "dominant_suffix": "ey",
+      "dominant_pct": 47.8,
+      "suffix_counts": {
+        "ey": 11,
+        "edy": 6,
+        "dy": 2,
+        "ol": 1,
+        "ar": 1,
+        "or": 1,
+        "aiin": 1
+      }
+    },
+    {
+      "root": "y",
+      "total_freq": 23,
+      "n_suffixes_attested": 7,
+      "entropy": 2.49,
+      "type": "MIXED",
+      "dominant_suffix": "dy",
+      "dominant_pct": 30.4,
+      "suffix_counts": {
+        "dy": 7,
+        "aiin": 6,
+        "or": 3,
+        "ol": 3,
+        "air": 2,
+        "ar": 1,
+        "ey": 1
+      }
+    },
+    {
+      "root": "qoked",
+      "total_freq": 23,
+      "n_suffixes_attested": 8,
+      "entropy": 2.66,
+      "type": "LEXICAL",
+      "dominant_suffix": "ar",
+      "dominant_pct": 34.8,
+      "suffix_counts": {
+        "ar": 8,
+        "ain": 4,
+        "aiin": 3,
+        "ol": 2,
+        "am": 2,
+        "al": 2,
+        "dy": 1,
+        "edy": 1
+      }
+    },
+    {
+      "root": "oto",
+      "total_freq": 22,
+      "n_suffixes_attested": 3,
+      "entropy": 0.99,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 77.3,
+      "suffix_counts": {
+        "dy": 17,
+        "ar": 3,
+        "aiin": 2
+      }
+    },
+    {
+      "root": "qolk",
+      "total_freq": 22,
+      "n_suffixes_attested": 6,
+      "entropy": 2.22,
+      "type": "MIXED",
+      "dominant_suffix": "eedy",
+      "dominant_pct": 36.4,
+      "suffix_counts": {
+        "eedy": 8,
+        "ain": 5,
+        "eey": 5,
+        "aiin": 2,
+        "ey": 1,
+        "edy": 1
+      }
+    },
+    {
+      "root": "oteod",
+      "total_freq": 22,
+      "n_suffixes_attested": 5,
+      "entropy": 2.07,
+      "type": "MIXED",
+      "dominant_suffix": "ar",
+      "dominant_pct": 31.8,
+      "suffix_counts": {
+        "ar": 7,
+        "aiin": 6,
+        "al": 6,
+        "ain": 2,
+        "air": 1
+      }
+    },
+    {
+      "root": "olke",
+      "total_freq": 22,
+      "n_suffixes_attested": 5,
+      "entropy": 1.75,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "eey",
+      "dominant_pct": 50.0,
+      "suffix_counts": {
+        "eey": 11,
+        "ol": 7,
+        "eedy": 2,
+        "al": 1,
+        "or": 1
+      }
+    },
+    {
+      "root": "lt",
+      "total_freq": 22,
+      "n_suffixes_attested": 9,
+      "entropy": 2.83,
+      "type": "LEXICAL",
+      "dominant_suffix": "eedy",
+      "dominant_pct": 27.3,
+      "suffix_counts": {
+        "eedy": 6,
+        "edy": 5,
+        "al": 3,
+        "ain": 2,
+        "eey": 2,
+        "aiin": 1,
+        "dy": 1,
+        "ar": 1,
+        "am": 1
+      }
+    },
+    {
+      "root": "keo",
+      "total_freq": 21,
+      "n_suffixes_attested": 1,
+      "entropy": -0.0,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "dy",
+      "dominant_pct": 100.0,
+      "suffix_counts": {
+        "dy": 21
+      }
+    },
+    {
+      "root": "ykee",
+      "total_freq": 21,
+      "n_suffixes_attested": 5,
+      "entropy": 1.85,
+      "type": "FUNCTIONAL",
+      "dominant_suffix": "ol",
+      "dominant_pct": 47.6,
+      "suffix_counts": {
+        "ol": 10,
+        "or": 6,
+        "ar": 3,
+        "al": 1,
+        "am": 1
+      }
+    },
+    {
+      "root": "qoe",
+      "total_freq": 20,
+      "n_suffixes_attested": 6,
+      "entropy": 2.32,
+      "type": "MIXED",
+      "dominant_suffix": "eey",
+      "dominant_pct": 35.0,
+      "suffix_counts": {
+        "eey": 7,
+        "ol": 5,
+        "eedy": 3,
+        "or": 2,
+        "ar": 2,
+        "air": 1
+      }
+    },
+    {
+      "root": "olt",
+      "total_freq": 20,
+      "n_suffixes_attested": 9,
+      "entropy": 2.91,
+      "type": "LEXICAL",
+      "dominant_suffix": "edy",
+      "dominant_pct": 30.0,
+      "suffix_counts": {
+        "edy": 6,
+        "eedy": 3,
+        "ar": 2,
+        "eey": 2,
+        "al": 2,
+        "ain": 2,
+        "ey": 1,
+        "aiin": 1,
+        "am": 1
+      }
+    },
+    {
+      "root": "lke",
+      "total_freq": 20,
+      "n_suffixes_attested": 7,
+      "entropy": 2.36,
+      "type": "MIXED",
+      "dominant_suffix": "eey",
+      "dominant_pct": 35.0,
+      "suffix_counts": {
+        "eey": 7,
+        "ol": 5,
+        "eedy": 4,
+        "or": 1,
+        "am": 1,
+        "ain": 1,
+        "al": 1
+      }
+    }
+  ]
+}

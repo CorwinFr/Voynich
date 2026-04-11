@@ -1,0 +1,5708 @@
+{
+  "_meta": {
+    "source": "Circa Instans (Matthaeus Platearius, c. 1150-1200)",
+    "description": "Monographs on simple medicines with Galenic qualities",
+    "data_source": "circa_instans_galenic_degrees.csv (207 entries)",
+    "extraction_method": "Structured CSV with thermal/moisture qualities and degrees",
+    "n_entries": 141,
+    "n_tokens": 862,
+    "version": "2026-04-11",
+    "schema": "SCHEMA_FINAL.md",
+    "notes": "Each entry = one simple medicine with its complexion (hot/cold x dry/wet x 4 degrees)",
+    "ref_rate": 47.7
+  },
+  "entries": [
+    {
+      "id": "CI_0001",
+      "entry_num": "13",
+      "name_latin": "Amidum",
+      "name_old_french": "AMIDUM",
+      "name_french": "Amidon",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Amidum",
+          "type": "INGR",
+          "ref": "I_amidum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0002",
+      "entry_num": "15",
+      "name_latin": "Antimonium",
+      "name_old_french": "ANTIMONIUM",
+      "name_french": "Antimoine",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Antimonium",
+          "type": "INGR",
+          "ref": "I_antimonium"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0003",
+      "entry_num": "22",
+      "name_latin": "Acacia",
+      "name_old_french": "ACACIE",
+      "name_french": "Acacia",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Acacia",
+          "type": "INGR",
+          "ref": "I_acacia"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0004",
+      "entry_num": "28",
+      "name_latin": "Agaricus",
+      "name_old_french": "AGARIC",
+      "name_french": "Agaric",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Agaricus",
+          "type": "INGR",
+          "ref": "I_agaricus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0005",
+      "entry_num": "34",
+      "name_latin": "Allium",
+      "name_old_french": "AUZ",
+      "name_french": "Ail",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Allium",
+          "type": "INGR",
+          "ref": "I_allium"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0006",
+      "entry_num": "42",
+      "name_latin": "Acorus calamus",
+      "name_old_french": "ACHORIJS",
+      "name_french": "Acore",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Acorus calamus",
+          "type": "INGR",
+          "ref": "I_acorus_calamus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0007",
+      "entry_num": "47",
+      "name_latin": "Ammoniacum",
+      "name_old_french": "ARM0NI4C",
+      "name_french": "Gomme ammoniaque",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Ammoniacum",
+          "type": "INGR",
+          "ref": "I_ammoniacum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0008",
+      "entry_num": "53",
+      "name_latin": "Anisum",
+      "name_old_french": "ANIS",
+      "name_french": "Anis",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Anisum",
+          "type": "INGR",
+          "ref": "I_anisum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0009",
+      "entry_num": "60",
+      "name_latin": "Absinthium",
+      "name_old_french": "ALUISNE",
+      "name_french": "Absinthe",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Absinthium",
+          "type": "INGR",
+          "ref": "I_absinthium"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0010",
+      "entry_num": "73",
+      "name_latin": "Anacardium",
+      "name_old_french": "ANACHAR",
+      "name_french": "Anacarde",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Anacardium",
+          "type": "INGR",
+          "ref": "I_anacardium"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0011",
+      "entry_num": "78",
+      "name_latin": "Amygdala amara",
+      "name_old_french": "AMANDES AMERES",
+      "name_french": "Amande amere",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Amygdala amara",
+          "type": "INGR",
+          "ref": "I_amygdala_amara"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0012",
+      "entry_num": "83",
+      "name_latin": "Aristolochia",
+      "name_old_french": "ARISTOLOGE",
+      "name_french": "Aristoloche",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Aristolochia",
+          "type": "INGR",
+          "ref": "I_aristolochia"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0013",
+      "entry_num": "87",
+      "name_latin": "Ambra",
+      "name_old_french": "AMBRE",
+      "name_french": "Ambre gris",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Ambra",
+          "type": "INGR",
+          "ref": "I_ambrosia"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0014",
+      "entry_num": "90",
+      "name_latin": "Artemisia",
+      "name_old_french": "ARMOISE",
+      "name_french": "Armoise",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Artemisia",
+          "type": "INGR",
+          "ref": "I_artemisia"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0015",
+      "entry_num": "95",
+      "name_latin": "Acetum",
+      "name_old_french": "AISSIL",
+      "name_french": "Vinaigre",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Acetum",
+          "type": "INGR",
+          "ref": "I_acetum"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0016",
+      "entry_num": "102",
+      "name_latin": "Lawsonia/Alkanna",
+      "name_old_french": "ALCHANE",
+      "name_french": "Henne",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Lawsonia/Alkanna",
+          "type": "INGR",
+          "ref": "I_lawsonia/alkanna"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0017",
+      "entry_num": "106",
+      "name_latin": "Auripigmentum",
+      "name_old_french": "ORPIMENT",
+      "name_french": "Orpiment",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Auripigmentum",
+          "type": "INGR",
+          "ref": "I_auripigmentum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0018",
+      "entry_num": "133",
+      "name_latin": "Pastinaca",
+      "name_old_french": "BALSE",
+      "name_french": "Panais",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Pastinaca",
+          "type": "INGR",
+          "ref": "I_pastinaca"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0019",
+      "entry_num": "137",
+      "name_latin": "Borax",
+      "name_old_french": "BORRAIS",
+      "name_french": "Borax",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Borax",
+          "type": "INGR",
+          "ref": "I_borax"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0020",
+      "entry_num": "142",
+      "name_latin": "Bolus armeniacus",
+      "name_old_french": "BOL",
+      "name_french": "Bol d'Armenie",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Bolus armeniacus",
+          "type": "INGR",
+          "ref": "I_bolus_armeniacus"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0021",
+      "entry_num": "147",
+      "name_latin": "Balaustium",
+      "name_old_french": "BALAUSTES",
+      "name_french": "Fleur de grenadier",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Balaustium",
+          "type": "INGR",
+          "ref": "I_balaustium"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0022",
+      "entry_num": "153",
+      "name_latin": "Borago",
+      "name_old_french": "BOBRACES",
+      "name_french": "Bourrache",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "humidum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Borago",
+          "type": "INGR",
+          "ref": "I_borago"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "humidum",
+          "type": "QUAL",
+          "ref": "Q_humidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0023",
+      "entry_num": "158",
+      "name_latin": "Betonica",
+      "name_old_french": "BIÏOINE",
+      "name_french": "Betoine",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Betonica",
+          "type": "INGR",
+          "ref": "I_betonica"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0024",
+      "entry_num": "162",
+      "name_latin": "Vernix",
+      "name_old_french": "VERNIZ",
+      "name_french": "Vernis",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Vernix",
+          "type": "INGR",
+          "ref": "I_vernix"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0025",
+      "entry_num": "167",
+      "name_latin": "Acanthus/Branca ursina",
+      "name_old_french": "BRANQUE URSINE",
+      "name_french": "Acanthe",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "humidum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Acanthus/Branca ursina",
+          "type": "INGR",
+          "ref": "I_acanthus/branca_ursina"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "humidum",
+          "type": "QUAL",
+          "ref": "Q_humidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0026",
+      "entry_num": "171",
+      "name_latin": "Berberis",
+      "name_old_french": "BERBERIS",
+      "name_french": "Epine-vinette",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Berberis",
+          "type": "INGR",
+          "ref": "I_berberis"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0027",
+      "entry_num": "175",
+      "name_latin": "Bistorta",
+      "name_old_french": "BISTORTE",
+      "name_french": "Bistorte",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Bistorta",
+          "type": "INGR",
+          "ref": "I_bistorta"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0028",
+      "entry_num": "182",
+      "name_latin": "Bedegar",
+      "name_old_french": "BEDEGAR ^",
+      "name_french": "Bedegar/Eglantier",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Bedegar",
+          "type": "INGR",
+          "ref": "I_bedegar"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0029",
+      "entry_num": "190",
+      "name_latin": "Cyclamen",
+      "name_old_french": "CYCLAM",
+      "name_french": "Cyclamen",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Cyclamen",
+          "type": "INGR",
+          "ref": "I_cyclamen"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0030",
+      "entry_num": "201",
+      "name_latin": "Camphora",
+      "name_old_french": "CAMPHRE",
+      "name_french": "Camphre",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Camphora",
+          "type": "INGR",
+          "ref": "I_camphora"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0031",
+      "entry_num": "212",
+      "name_latin": "Colocynthis",
+      "name_old_french": "COLOQUINTE",
+      "name_french": "Coloquinte",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Colocynthis",
+          "type": "INGR",
+          "ref": "I_colocynthis"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0032",
+      "entry_num": "221",
+      "name_latin": "Cassia fistula",
+      "name_old_french": "CASSIAFFISTLE ^",
+      "name_french": "Casse",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "humidum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Cassia fistula",
+          "type": "INGR",
+          "ref": "I_cassia_fistula"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "humidum",
+          "type": "QUAL",
+          "ref": "Q_humidus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0033",
+      "entry_num": "223",
+      "name_latin": "Cuscuta",
+      "name_old_french": "CUSCUTE",
+      "name_french": "Cuscute",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Cuscuta",
+          "type": "INGR",
+          "ref": "I_cuscuta"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0034",
+      "entry_num": "225",
+      "name_latin": "Cardamomum",
+      "name_old_french": "CARDAMOME ^",
+      "name_french": "Cardamome",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Cardamomum",
+          "type": "INGR",
+          "ref": "I_cardamomum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0035",
+      "entry_num": "231",
+      "name_latin": "Cerusa",
+      "name_old_french": "CERUSE",
+      "name_french": "Ceruse",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Cerusa",
+          "type": "INGR",
+          "ref": "I_cerusa"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0036",
+      "entry_num": "234",
+      "name_latin": "Capparis",
+      "name_old_french": "CAPARIS",
+      "name_french": "Caprier",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Capparis",
+          "type": "INGR",
+          "ref": "I_capparis"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0037",
+      "entry_num": "241",
+      "name_latin": "Calamintha",
+      "name_old_french": "CALEMENT",
+      "name_french": "Calament",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Calamintha",
+          "type": "INGR",
+          "ref": "I_calaminthum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0038",
+      "entry_num": "262",
+      "name_latin": "Cassia lignea",
+      "name_old_french": "GASSIALIGNEE",
+      "name_french": "Casse en bois",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Cassia lignea",
+          "type": "INGR",
+          "ref": "I_cassia_lignea"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0039",
+      "entry_num": "274",
+      "name_latin": "Castoreum",
+      "name_old_french": "CASTORE",
+      "name_french": "Castoreum",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Castoreum",
+          "type": "INGR",
+          "ref": "I_castoreum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0040",
+      "entry_num": "284",
+      "name_latin": "Cubeba",
+      "name_old_french": "CUBEBES",
+      "name_french": "Cubebe",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Cubeba",
+          "type": "INGR",
+          "ref": "I_cubeba"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0041",
+      "entry_num": "290",
+      "name_latin": "Cinnamomum",
+      "name_old_french": "CANELE",
+      "name_french": "Cannelle",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Cinnamomum",
+          "type": "INGR",
+          "ref": "I_cinnamomum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0042",
+      "entry_num": "292",
+      "name_latin": "Cupressus",
+      "name_old_french": "CYPRÈS",
+      "name_french": "Cypres",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Cupressus",
+          "type": "INGR",
+          "ref": "I_cupressus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0043",
+      "entry_num": "302",
+      "name_latin": "Chamaedrys/Teucrium",
+      "name_old_french": "CAMEDREOS",
+      "name_french": "Germandrée",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Chamaedrys/Teucrium",
+          "type": "INGR",
+          "ref": "I_chamaedrys/teucrium"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0044",
+      "entry_num": "311",
+      "name_latin": "Carum carvi",
+      "name_old_french": "CARVI",
+      "name_french": "Carvi",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Carum carvi",
+          "type": "INGR",
+          "ref": "I_carum_carvi"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0045",
+      "entry_num": "314",
+      "name_latin": "Cuminum",
+      "name_old_french": "COMIN",
+      "name_french": "Cumin",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Cuminum",
+          "type": "INGR",
+          "ref": "I_cuminum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0046",
+      "entry_num": "322",
+      "name_latin": "Cicuta",
+      "name_old_french": "CEdUE",
+      "name_french": "Cigue",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Cicuta",
+          "type": "INGR",
+          "ref": "I_cicuta"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0047",
+      "entry_num": "328",
+      "name_latin": "Crocus/Saffron",
+      "name_old_french": "CROC",
+      "name_french": "Safran",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Crocus/Saffron",
+          "type": "INGR",
+          "ref": "I_crocus/saffron"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0048",
+      "entry_num": "333",
+      "name_latin": "Cyperus",
+      "name_old_french": "(CYPERONJ",
+      "name_french": "Souchet",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Cyperus",
+          "type": "INGR",
+          "ref": "I_cyperus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0049",
+      "entry_num": "354",
+      "name_latin": "Euphorbia lathyris",
+      "name_old_french": "CATHAPFCES",
+      "name_french": "Catapuce",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Euphorbia lathyris",
+          "type": "INGR",
+          "ref": "I_euphorbia_lathyris"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0050",
+      "entry_num": "362",
+      "name_latin": "Cretanum/Dictamnus creticus",
+      "name_old_french": "CRETANUM",
+      "name_french": "Dictame de Crete",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Cretanum/Dictamnus creticus",
+          "type": "INGR",
+          "ref": "I_cretanum/dictamnus_creticus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0051",
+      "entry_num": "365",
+      "name_latin": "Costus",
+      "name_old_french": "COST",
+      "name_french": "Costus",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Costus",
+          "type": "INGR",
+          "ref": "I_costus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0052",
+      "entry_num": "376",
+      "name_latin": "Colophonia",
+      "name_old_french": "COLOFONE",
+      "name_french": "Colophane",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Colophonia",
+          "type": "INGR",
+          "ref": "I_colophonia"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0053",
+      "entry_num": "387",
+      "name_latin": "Chelidonia",
+      "name_old_french": "CELARONNE",
+      "name_french": "Chelidoine",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Chelidonia",
+          "type": "INGR",
+          "ref": "I_chelidonia"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0054",
+      "entry_num": "394",
+      "name_latin": "Coriandrum",
+      "name_old_french": "CORRIENDRE",
+      "name_french": "Coriandre",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Coriandrum",
+          "type": "INGR",
+          "ref": "I_coriandrum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0055",
+      "entry_num": "396",
+      "name_latin": "Scammonia",
+      "name_old_french": "DIAGRIDE",
+      "name_french": "Scammonee",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Scammonia",
+          "type": "INGR",
+          "ref": "I_scammonia"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0056",
+      "entry_num": "404",
+      "name_latin": "Tragacanthum",
+      "name_old_french": "DRAGAGANT",
+      "name_french": "Gomme adragante",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "humidum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Tragacanthum",
+          "type": "INGR",
+          "ref": "I_tragacanthum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "humidum",
+          "type": "QUAL",
+          "ref": "Q_humidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0057",
+      "entry_num": "415",
+      "name_latin": "Daucus",
+      "name_old_french": "DAUC",
+      "name_french": "Carotte sauvage",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Daucus",
+          "type": "INGR",
+          "ref": "I_daucus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0058",
+      "entry_num": "430",
+      "name_latin": "Dictamnus",
+      "name_old_french": "DITAM",
+      "name_french": "Dictame",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Dictamnus",
+          "type": "INGR",
+          "ref": "I_dictamnus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0059",
+      "entry_num": "437",
+      "name_latin": "Endivia/Cichorium",
+      "name_old_french": "ENDIVIA",
+      "name_french": "Endive/Chicoree",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Endivia/Cichorium",
+          "type": "INGR",
+          "ref": "I_endivia/cichorium"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0060",
+      "entry_num": "443",
+      "name_latin": "Inula helenium",
+      "name_old_french": "ENULA",
+      "name_french": "Aunee",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "humidum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Inula helenium",
+          "type": "INGR",
+          "ref": "I_inula_helenium"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "humidum",
+          "type": "QUAL",
+          "ref": "Q_humidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0061",
+      "entry_num": "449",
+      "name_latin": "Epithymum",
+      "name_old_french": "EPYTIM",
+      "name_french": "Epithyme",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Epithymum",
+          "type": "INGR",
+          "ref": "I_epithymum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0062",
+      "entry_num": "456",
+      "name_latin": "Euphorbia",
+      "name_old_french": "EUFORBE",
+      "name_french": "Euphorbe",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Euphorbia",
+          "type": "INGR",
+          "ref": "I_euphorbia"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0063",
+      "entry_num": "466",
+      "name_latin": "Hepatica",
+      "name_old_french": "EPATIQUE",
+      "name_french": "Hepatique",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Hepatica",
+          "type": "INGR",
+          "ref": "I_hepatica"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0064",
+      "entry_num": "468",
+      "name_latin": "Aes ustum",
+      "name_old_french": "ES ARS",
+      "name_french": "Airain brule",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Aes ustum",
+          "type": "INGR",
+          "ref": "I_aes_ustum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0065",
+      "entry_num": "482",
+      "name_latin": "Helleborus",
+      "name_old_french": "ELLEBRE",
+      "name_french": "Hellebore",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Helleborus",
+          "type": "INGR",
+          "ref": "I_helleborus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0066",
+      "entry_num": "490",
+      "name_latin": "Euphorbia esula",
+      "name_old_french": "ESULE",
+      "name_french": "Esule",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Euphorbia esula",
+          "type": "INGR",
+          "ref": "I_euphorbia_esula"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0067",
+      "entry_num": "515",
+      "name_latin": "Geum/Caryophyllata",
+      "name_old_french": "GARIOFILAÏE",
+      "name_french": "Benoite",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Geum/Caryophyllata",
+          "type": "INGR",
+          "ref": "I_geum/caryophyllata"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0068",
+      "entry_num": "519",
+      "name_latin": "Nigella",
+      "name_old_french": "GIT",
+      "name_french": "Nigelle",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Nigella",
+          "type": "INGR",
+          "ref": "I_nigella"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0069",
+      "entry_num": "524",
+      "name_latin": "Lithospermum",
+      "name_old_french": "GREMIL",
+      "name_french": "Gremil",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Lithospermum",
+          "type": "INGR",
+          "ref": "I_lithospermum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0070",
+      "entry_num": "529",
+      "name_latin": "Galla",
+      "name_old_french": "GALLES",
+      "name_french": "Galle de chene",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Galla",
+          "type": "INGR",
+          "ref": "I_galla"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0071",
+      "entry_num": "543",
+      "name_latin": "Hyoscyamus",
+      "name_old_french": "JUSQUIAME",
+      "name_french": "Jusquiame",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Hyoscyamus",
+          "type": "INGR",
+          "ref": "I_hyoscyamus"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0072",
+      "entry_num": "561",
+      "name_latin": "Iris",
+      "name_old_french": "IRIS",
+      "name_french": "Iris",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Iris",
+          "type": "INGR",
+          "ref": "I_iris"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0073",
+      "entry_num": "567",
+      "name_latin": "Juniperus",
+      "name_old_french": "JUNIPERON",
+      "name_french": "Genevrier",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Juniperus",
+          "type": "INGR",
+          "ref": "I_juniperus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0074",
+      "entry_num": "575",
+      "name_latin": "Ladanum",
+      "name_old_french": "LADANUM",
+      "name_french": "Ladanum",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "humidum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Ladanum",
+          "type": "INGR",
+          "ref": "I_ladanum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "humidum",
+          "type": "QUAL",
+          "ref": "Q_humidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0075",
+      "entry_num": "549",
+      "name_latin": "Hyssopus",
+      "name_old_french": "YSOPE",
+      "name_french": "Hysope",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Hyssopus",
+          "type": "INGR",
+          "ref": "I_hyssopus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0076",
+      "entry_num": "581",
+      "name_latin": "Glycyrrhiza",
+      "name_old_french": "LIQUARICE",
+      "name_french": "Reglisse",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "tempéré",
+      "galenic_moisture": "humidum",
+      "galenic_moisture_deg": "tempéré",
+      "tokens": [
+        {
+          "raw": "Glycyrrhiza",
+          "type": "INGR",
+          "ref": "I_glycyrrhiza"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tempéré",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "humidum",
+          "type": "QUAL",
+          "ref": "Q_humidus"
+        },
+        {
+          "raw": "tempéré",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0077",
+      "entry_num": "623",
+      "name_latin": "Lithargyrum",
+      "name_old_french": "LITARGIRON",
+      "name_french": "Litharge",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Lithargyrum",
+          "type": "INGR",
+          "ref": "I_lithargyrum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0078",
+      "entry_num": "631",
+      "name_latin": "Lactuca",
+      "name_old_french": "LAITUES",
+      "name_french": "Laitue",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "humidum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Lactuca",
+          "type": "INGR",
+          "ref": "I_lactuca"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "humidum",
+          "type": "QUAL",
+          "ref": "Q_humidus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0079",
+      "entry_num": "640",
+      "name_latin": "Laurus",
+      "name_old_french": "LORIER",
+      "name_french": "Laurier",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Laurus",
+          "type": "INGR",
+          "ref": "I_laurus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0080",
+      "entry_num": "650",
+      "name_latin": "Lentiscus/Pistacia",
+      "name_old_french": "LENÏISC",
+      "name_french": "Lentisque",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Lentiscus/Pistacia",
+          "type": "INGR",
+          "ref": "I_lentiscus/pistacia"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0081",
+      "entry_num": "656",
+      "name_latin": "Daphne laureola",
+      "name_old_french": "LAUREOLE",
+      "name_french": "Laureole",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Daphne laureola",
+          "type": "INGR",
+          "ref": "I_daphne_laureola"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0082",
+      "entry_num": "660",
+      "name_latin": "Levisticum",
+      "name_old_french": "LIVESCHE",
+      "name_french": "Livèche",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Levisticum",
+          "type": "INGR",
+          "ref": "I_levisticum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0083",
+      "entry_num": "662",
+      "name_latin": "Magnes",
+      "name_old_french": "LAPIS MAGNETE",
+      "name_french": "Aimant",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Magnes",
+          "type": "INGR",
+          "ref": "I_magnes"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0084",
+      "entry_num": "666",
+      "name_latin": "Myrtus",
+      "name_old_french": "MIRTE",
+      "name_french": "Myrte",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Myrtus",
+          "type": "INGR",
+          "ref": "I_myrtus"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0085",
+      "entry_num": "670",
+      "name_latin": "Adeps",
+      "name_old_french": "MAIGNE",
+      "name_french": "Graisse",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "humidum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Adeps",
+          "type": "INGR",
+          "ref": "I_adipem"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "humidum",
+          "type": "QUAL",
+          "ref": "Q_humidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0086",
+      "entry_num": "674",
+      "name_latin": "Malva",
+      "name_old_french": "MAUVE",
+      "name_french": "Mauve",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "humidum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Malva",
+          "type": "INGR",
+          "ref": "I_malva"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "humidum",
+          "type": "QUAL",
+          "ref": "Q_humidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0087",
+      "entry_num": "680",
+      "name_latin": "Mastix",
+      "name_old_french": "MASTIC",
+      "name_french": "Mastic",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Mastix",
+          "type": "INGR",
+          "ref": "I_mastix"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0088",
+      "entry_num": "685",
+      "name_latin": "Mentha",
+      "name_old_french": "MENTE",
+      "name_french": "Menthe",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Mentha",
+          "type": "INGR",
+          "ref": "I_mentha"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0089",
+      "entry_num": "698",
+      "name_latin": "Margarita",
+      "name_old_french": "MARGARITES",
+      "name_french": "Perle",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Margarita",
+          "type": "INGR",
+          "ref": "I_margarita"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0090",
+      "entry_num": "705",
+      "name_latin": "Mandragora",
+      "name_old_french": "MANDAGLOIRE",
+      "name_french": "Mandragore",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "indéterminé",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "indéterminé",
+      "tokens": [
+        {
+          "raw": "Mandragora",
+          "type": "INGR",
+          "ref": "I_mandragora"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "indéterminé",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "indéterminé",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0091",
+      "entry_num": "740",
+      "name_latin": "Mel",
+      "name_old_french": "MIEL",
+      "name_french": "Miel",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Mel",
+          "type": "INGR",
+          "ref": "I_mel"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0092",
+      "entry_num": "770",
+      "name_latin": "Macis",
+      "name_old_french": "MACIS",
+      "name_french": "Macis",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Macis",
+          "type": "INGR",
+          "ref": "I_macis"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0093",
+      "entry_num": "775",
+      "name_latin": "Myrrha",
+      "name_old_french": "MIRRE",
+      "name_french": "Myrrhe",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Myrrha",
+          "type": "INGR",
+          "ref": "I_myrrha"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0094",
+      "entry_num": "781",
+      "name_latin": "Majorana/Origanum",
+      "name_old_french": "MAJORANE",
+      "name_french": "Marjolaine",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Majorana/Origanum",
+          "type": "INGR",
+          "ref": "I_majorana/origanum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0095",
+      "entry_num": "787",
+      "name_latin": "Melissa",
+      "name_old_french": "MELISSE",
+      "name_french": "Melisse",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Melissa",
+          "type": "INGR",
+          "ref": "I_melissa"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0096",
+      "entry_num": "793",
+      "name_latin": "Nasturtium",
+      "name_old_french": "NESTURTE 6",
+      "name_french": "Cresson",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Nasturtium",
+          "type": "INGR",
+          "ref": "I_nasturtium"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0097",
+      "entry_num": "806",
+      "name_latin": "Nymphaea",
+      "name_old_french": "NENUPHAR ^",
+      "name_french": "Nenuphar",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Nymphaea",
+          "type": "INGR",
+          "ref": "I_nymphaea"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0098",
+      "entry_num": "808",
+      "name_latin": "Nux moschata",
+      "name_old_french": "NOIS MUSCATES ^",
+      "name_french": "Noix muscade",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Nux moschata",
+          "type": "INGR",
+          "ref": "I_nux_moschata"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0099",
+      "entry_num": "811",
+      "name_latin": "Nux indica/Cocos",
+      "name_old_french": "NOIZ INDE",
+      "name_french": "Noix de coco",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Nux indica/Cocos",
+          "type": "INGR",
+          "ref": "I_nux_indica/cocos"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0100",
+      "entry_num": "815",
+      "name_latin": "Ocimum",
+      "name_old_french": "OSSIMUM",
+      "name_french": "Basilic",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Ocimum",
+          "type": "INGR",
+          "ref": "I_ocimum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0101",
+      "entry_num": "821",
+      "name_latin": "Opopanax",
+      "name_old_french": "OPOPANAC",
+      "name_french": "Opopanax",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Opopanax",
+          "type": "INGR",
+          "ref": "I_opopanax"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0102",
+      "entry_num": "829",
+      "name_latin": "Opium",
+      "name_old_french": "OPIUM",
+      "name_french": "Opium",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Opium",
+          "type": "INGR",
+          "ref": "I_opium"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0103",
+      "entry_num": "835",
+      "name_latin": "Origanum",
+      "name_old_french": "ORIGANUM",
+      "name_french": "Origan",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Origanum",
+          "type": "INGR",
+          "ref": "I_origanum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0104",
+      "entry_num": "854",
+      "name_latin": "Olibanum/Thus",
+      "name_old_french": "OLIBANUM",
+      "name_french": "Encens",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Olibanum/Thus",
+          "type": "INGR",
+          "ref": "I_olibanum/thus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0105",
+      "entry_num": "867",
+      "name_latin": "Piper",
+      "name_old_french": "POIVRES",
+      "name_french": "Poivre",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Piper",
+          "type": "INGR",
+          "ref": "I_piper"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0106",
+      "entry_num": "880",
+      "name_latin": "Papaver",
+      "name_old_french": "PAVOT",
+      "name_french": "Pavot",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Papaver",
+          "type": "INGR",
+          "ref": "I_papaver"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0107",
+      "entry_num": "884",
+      "name_latin": "Peucedanum",
+      "name_old_french": "PEUCED4NUM",
+      "name_french": "Peucedane",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Peucedanum",
+          "type": "INGR",
+          "ref": "I_peucedanum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0108",
+      "entry_num": "888",
+      "name_latin": "Petroselinum",
+      "name_old_french": "PERESIL",
+      "name_french": "Persil",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Petroselinum",
+          "type": "INGR",
+          "ref": "I_petroselinum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0109",
+      "entry_num": "889",
+      "name_latin": "Pulicaria",
+      "name_old_french": "POLLICAIRE",
+      "name_french": "Herbe aux puces",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Pulicaria",
+          "type": "INGR",
+          "ref": "I_pulicaria"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0110",
+      "entry_num": "908",
+      "name_latin": "Polypodium",
+      "name_old_french": "POLIPODE",
+      "name_french": "Polypode",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Polypodium",
+          "type": "INGR",
+          "ref": "I_polypodium"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0111",
+      "entry_num": "911",
+      "name_latin": "Petroleum",
+      "name_old_french": "PETROLEUM",
+      "name_french": "Petrole",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Petroleum",
+          "type": "INGR",
+          "ref": "I_petroleum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0112",
+      "entry_num": "918",
+      "name_latin": "Parietaria",
+      "name_old_french": "PARITAIRE",
+      "name_french": "Paritaire",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Parietaria",
+          "type": "INGR",
+          "ref": "I_parietaria"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0113",
+      "entry_num": "922",
+      "name_latin": "Portulaca",
+      "name_old_french": "PORÏULAGUE",
+      "name_french": "Pourpier",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Portulaca",
+          "type": "INGR",
+          "ref": "I_portulaca"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0114",
+      "entry_num": "925",
+      "name_latin": "Pulegium/Mentha pulegium",
+      "name_old_french": "PULEGIUM",
+      "name_french": "Pouliot",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Pulegium/Mentha pulegium",
+          "type": "INGR",
+          "ref": "I_pulegium/mentha_pulegium"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0115",
+      "entry_num": "984",
+      "name_latin": "Rheum/Rhabarbarum",
+      "name_old_french": "REUBARBE",
+      "name_french": "Rhubarbe",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Rheum/Rhabarbarum",
+          "type": "INGR",
+          "ref": "I_rheum/rhabarbarum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0116",
+      "entry_num": "988",
+      "name_latin": "Rhaponticum",
+      "name_old_french": "REUPONTIC",
+      "name_french": "Reupontic",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Rhaponticum",
+          "type": "INGR",
+          "ref": "I_rhaponticum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0117",
+      "entry_num": "992",
+      "name_latin": "Ruta",
+      "name_old_french": "RUE",
+      "name_french": "Rue",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Ruta",
+          "type": "INGR",
+          "ref": "I_ruta"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0118",
+      "entry_num": "1032",
+      "name_latin": "Storax",
+      "name_old_french": "STORIAUX",
+      "name_french": "Styrax",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Storax",
+          "type": "INGR",
+          "ref": "I_storacis"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0119",
+      "entry_num": "1040",
+      "name_latin": "Solanum",
+      "name_old_french": "STRIGNUM3 SOLATRUM''",
+      "name_french": "Morelle",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Solanum",
+          "type": "INGR",
+          "ref": "I_solanum"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0120",
+      "entry_num": "1048",
+      "name_latin": "Sumac/Rhus",
+      "name_old_french": "SUMAC",
+      "name_french": "Sumac",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Sumac/Rhus",
+          "type": "INGR",
+          "ref": "I_sumac/rhus"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0121",
+      "entry_num": "1049",
+      "name_latin": "Santalum",
+      "name_old_french": "SANDLES",
+      "name_french": "Santal",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Santalum",
+          "type": "INGR",
+          "ref": "I_santalum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0122",
+      "entry_num": "1051",
+      "name_latin": "Sagapenum",
+      "name_old_french": "SAGAPIN",
+      "name_french": "Sagapenum",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Sagapenum",
+          "type": "INGR",
+          "ref": "I_sagapenum"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0123",
+      "entry_num": "1057",
+      "name_latin": "Sempervivum",
+      "name_old_french": "SEMPERVIVA",
+      "name_french": "Joubarbe",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Sempervivum",
+          "type": "INGR",
+          "ref": "I_sempervivum"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0124",
+      "entry_num": "1065",
+      "name_latin": "Sulfur",
+      "name_old_french": "SOFFRE",
+      "name_french": "Soufre",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Sulfur",
+          "type": "INGR",
+          "ref": "I_sulfur"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0125",
+      "entry_num": "1070",
+      "name_latin": "Sanguis draconis",
+      "name_old_french": "SANC DE DRAGON",
+      "name_french": "Sang de dragon",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Sanguis draconis",
+          "type": "INGR",
+          "ref": "I_sanguis_draconis"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0126",
+      "entry_num": "1077",
+      "name_latin": "Orchis/Satyrion",
+      "name_old_french": "SATIRIQN 1",
+      "name_french": "Satyrion",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Orchis/Satyrion",
+          "type": "INGR",
+          "ref": "I_orchis/satyrion"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0127",
+      "entry_num": "1081",
+      "name_latin": "Spodium",
+      "name_old_french": "SPODE",
+      "name_french": "Spode",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "4",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "4",
+      "tokens": [
+        {
+          "raw": "Spodium",
+          "type": "INGR",
+          "ref": "I_spodium"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "quarto",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0128",
+      "entry_num": "1088",
+      "name_latin": "Scordium/Teucrium",
+      "name_old_french": "SCORDEON",
+      "name_french": "Scordium",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Scordium/Teucrium",
+          "type": "INGR",
+          "ref": "I_scordium/teucrium"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0129",
+      "entry_num": "1093",
+      "name_latin": "Salvia",
+      "name_old_french": "SAUGE",
+      "name_french": "Sauge",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Salvia",
+          "type": "INGR",
+          "ref": "I_salvia"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0130",
+      "entry_num": "1104",
+      "name_latin": "Dracunculus/Serpentaria",
+      "name_old_french": "SERPENTAIRE",
+      "name_french": "Serpentaire",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Dracunculus/Serpentaria",
+          "type": "INGR",
+          "ref": "I_dracunculus/serpentaria"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0131",
+      "entry_num": "1108",
+      "name_latin": "Senna",
+      "name_old_french": "SÉNÉ",
+      "name_french": "Sene",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Senna",
+          "type": "INGR",
+          "ref": "I_senna"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0132",
+      "entry_num": "1113",
+      "name_latin": "Satureja",
+      "name_old_french": "SARRIEE",
+      "name_french": "Sarriette",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Satureja",
+          "type": "INGR",
+          "ref": "I_satureja"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0133",
+      "entry_num": "1123",
+      "name_latin": "Terra sigillata",
+      "name_old_french": "TERRE SOILLEE",
+      "name_french": "Terre scellee",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": null,
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": null,
+      "tokens": [
+        {
+          "raw": "Terra sigillata",
+          "type": "INGR",
+          "ref": "I_terra_sigillata"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        }
+      ]
+    },
+    {
+      "id": "CI_0134",
+      "entry_num": "1130",
+      "name_latin": "Turbith",
+      "name_old_french": "TU R BIT",
+      "name_french": "Turbith",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Turbith",
+          "type": "INGR",
+          "ref": "I_turbith"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0135",
+      "entry_num": "249",
+      "name_latin": "Centaurea",
+      "name_old_french": "CENTAURE",
+      "name_french": "Centauree",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "3",
+      "tokens": [
+        {
+          "raw": "Centaurea",
+          "type": "INGR",
+          "ref": "I_centaurea"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0136",
+      "entry_num": "954",
+      "name_latin": "Rosa",
+      "name_old_french": "ROSES",
+      "name_french": "Rose",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Rosa",
+          "type": "INGR",
+          "ref": "I_rosa"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0137",
+      "entry_num": "1022",
+      "name_latin": "Lavandula",
+      "name_old_french": "SPIC",
+      "name_french": "Lavande",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Lavandula",
+          "type": "INGR",
+          "ref": "I_lavandula"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0138",
+      "entry_num": "1",
+      "name_latin": "Apium",
+      "name_old_french": "ACHE",
+      "name_french": "Ache/Celeri",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "3",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Apium",
+          "type": "INGR",
+          "ref": "I_apium"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "tertio",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0139",
+      "entry_num": "[STD]",
+      "name_latin": "Viola",
+      "name_old_french": "VIOLETE",
+      "name_french": "Violette",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "1",
+      "galenic_moisture": "humidum",
+      "galenic_moisture_deg": "1",
+      "tokens": [
+        {
+          "raw": "Viola",
+          "type": "INGR",
+          "ref": "I_viola"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "humidum",
+          "type": "QUAL",
+          "ref": "Q_humidus"
+        },
+        {
+          "raw": "primo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0140",
+      "entry_num": "[STD]",
+      "name_latin": "Plantago",
+      "name_old_french": "PLANTAIN",
+      "name_french": "Plantain",
+      "galenic_thermal": "frigidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Plantago",
+          "type": "INGR",
+          "ref": "I_plantaginis"
+        },
+        {
+          "raw": "frigidum",
+          "type": "QUAL",
+          "ref": "Q_frigidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    },
+    {
+      "id": "CI_0141",
+      "entry_num": "[STD]",
+      "name_latin": "Gentiana",
+      "name_old_french": "GENCIANE",
+      "name_french": "Gentiane",
+      "galenic_thermal": "calidum",
+      "galenic_thermal_deg": "2",
+      "galenic_moisture": "siccum",
+      "galenic_moisture_deg": "2",
+      "tokens": [
+        {
+          "raw": "Gentiana",
+          "type": "INGR",
+          "ref": "I_gentiana"
+        },
+        {
+          "raw": "calidum",
+          "type": "QUAL",
+          "ref": "Q_calidus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "et",
+          "type": "CONJ"
+        },
+        {
+          "raw": "siccum",
+          "type": "QUAL",
+          "ref": "Q_siccus"
+        },
+        {
+          "raw": "secundo",
+          "type": "DEG"
+        },
+        {
+          "raw": "gradu",
+          "type": "DEG"
+        }
+      ]
+    }
+  ]
+}

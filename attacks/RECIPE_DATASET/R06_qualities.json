@@ -1,0 +1,2288 @@
+{
+  "_meta": {
+    "description": "Galenic qualities from Circa Instans (Platearius ~1166)",
+    "period": "12th century",
+    "version": "2026-04-11",
+    "source": "circa_instans_galenic_degrees.csv (compiled from Dorveaux 1913)",
+    "count": 197
+  },
+  "Q_amidum": {
+    "ref_id": "Q_amidum",
+    "substance": "Amidum",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_antimonium": {
+    "ref_id": "Q_antimonium",
+    "substance": "Antimonium",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_acacia": {
+    "ref_id": "Q_acacia",
+    "substance": "Acacia",
+    "thermal": "frigidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_agaricus": {
+    "ref_id": "Q_agaricus",
+    "substance": "Agaricus",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_allium": {
+    "ref_id": "Q_allium",
+    "substance": "Allium",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_acorus_calamus": {
+    "ref_id": "Q_acorus_calamus",
+    "substance": "Acorus calamus",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_ammoniacum": {
+    "ref_id": "Q_ammoniacum",
+    "substance": "Ammoniacum",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": null,
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_anisum": {
+    "ref_id": "Q_anisum",
+    "substance": "Anisum",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_absinthium": {
+    "ref_id": "Q_absinthium",
+    "substance": "Absinthium",
+    "thermal": "calidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_anacardium": {
+    "ref_id": "Q_anacardium",
+    "substance": "Anacardium",
+    "thermal": "calidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_amygdala_amara": {
+    "ref_id": "Q_amygdala_amara",
+    "substance": "Amygdala amara",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": null,
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_aristolochia": {
+    "ref_id": "Q_aristolochia",
+    "substance": "Aristolochia",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_ambra": {
+    "ref_id": "Q_ambra",
+    "substance": "Ambra",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_artemisia": {
+    "ref_id": "Q_artemisia",
+    "substance": "Artemisia",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_acetum": {
+    "ref_id": "Q_acetum",
+    "substance": "Acetum",
+    "thermal": "frigidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_lawsonia/alkanna": {
+    "ref_id": "Q_lawsonia/alkanna",
+    "substance": "Lawsonia/Alkanna",
+    "thermal": "frigidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_auripigmentum": {
+    "ref_id": "Q_auripigmentum",
+    "substance": "Auripigmentum",
+    "thermal": "calidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_pastinaca": {
+    "ref_id": "Q_pastinaca",
+    "substance": "Pastinaca",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": null,
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_borax": {
+    "ref_id": "Q_borax",
+    "substance": "Borax",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_bolus_armeniacus": {
+    "ref_id": "Q_bolus_armeniacus",
+    "substance": "Bolus armeniacus",
+    "thermal": "frigidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_balaustium": {
+    "ref_id": "Q_balaustium",
+    "substance": "Balaustium",
+    "thermal": "frigidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_borago": {
+    "ref_id": "Q_borago",
+    "substance": "Borago",
+    "thermal": "calidum",
+    "thermal_degree": 1,
+    "moisture": "humidum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_betonica": {
+    "ref_id": "Q_betonica",
+    "substance": "Betonica",
+    "thermal": "calidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_vernix": {
+    "ref_id": "Q_vernix",
+    "substance": "Vernix",
+    "thermal": "frigidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_acanthus/branca_ursina": {
+    "ref_id": "Q_acanthus/branca_ursina",
+    "substance": "Acanthus/Branca ursina",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "humidum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_berberis": {
+    "ref_id": "Q_berberis",
+    "substance": "Berberis",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_bistorta": {
+    "ref_id": "Q_bistorta",
+    "substance": "Bistorta",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_bedegar": {
+    "ref_id": "Q_bedegar",
+    "substance": "Bedegar",
+    "thermal": "frigidum",
+    "thermal_degree": null,
+    "moisture": null,
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cyclamen": {
+    "ref_id": "Q_cyclamen",
+    "substance": "Cyclamen",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_camphora": {
+    "ref_id": "Q_camphora",
+    "substance": "Camphora",
+    "thermal": "frigidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_colocynthis": {
+    "ref_id": "Q_colocynthis",
+    "substance": "Colocynthis",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cassia_fistula": {
+    "ref_id": "Q_cassia_fistula",
+    "substance": "Cassia fistula",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "humidum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cuscuta": {
+    "ref_id": "Q_cuscuta",
+    "substance": "Cuscuta",
+    "thermal": "calidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cardamomum": {
+    "ref_id": "Q_cardamomum",
+    "substance": "Cardamomum",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cerusa": {
+    "ref_id": "Q_cerusa",
+    "substance": "Cerusa",
+    "thermal": "frigidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_capparis": {
+    "ref_id": "Q_capparis",
+    "substance": "Capparis",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": null,
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_calamintha": {
+    "ref_id": "Q_calamintha",
+    "substance": "Calamintha",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cassia_lignea": {
+    "ref_id": "Q_cassia_lignea",
+    "substance": "Cassia lignea",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_castoreum": {
+    "ref_id": "Q_castoreum",
+    "substance": "Castoreum",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cubeba": {
+    "ref_id": "Q_cubeba",
+    "substance": "Cubeba",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": null,
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cinnamomum": {
+    "ref_id": "Q_cinnamomum",
+    "substance": "Cinnamomum",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cupressus": {
+    "ref_id": "Q_cupressus",
+    "substance": "Cupressus",
+    "thermal": "calidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_chamaedrys/teucrium": {
+    "ref_id": "Q_chamaedrys/teucrium",
+    "substance": "Chamaedrys/Teucrium",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_carum_carvi": {
+    "ref_id": "Q_carum_carvi",
+    "substance": "Carum carvi",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cuminum": {
+    "ref_id": "Q_cuminum",
+    "substance": "Cuminum",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cicuta": {
+    "ref_id": "Q_cicuta",
+    "substance": "Cicuta",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_crocus/saffron": {
+    "ref_id": "Q_crocus/saffron",
+    "substance": "Crocus/Saffron",
+    "thermal": "calidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cyperus": {
+    "ref_id": "Q_cyperus",
+    "substance": "Cyperus",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_euphorbia_lathyris": {
+    "ref_id": "Q_euphorbia_lathyris",
+    "substance": "Euphorbia lathyris",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": null,
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_cretanum/dictamnus_creticus": {
+    "ref_id": "Q_cretanum/dictamnus_creticus",
+    "substance": "Cretanum/Dictamnus creticus",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_costus": {
+    "ref_id": "Q_costus",
+    "substance": "Costus",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_colophonia": {
+    "ref_id": "Q_colophonia",
+    "substance": "Colophonia",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_chelidonia": {
+    "ref_id": "Q_chelidonia",
+    "substance": "Chelidonia",
+    "thermal": "calidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_coriandrum": {
+    "ref_id": "Q_coriandrum",
+    "substance": "Coriandrum",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_scammonia": {
+    "ref_id": "Q_scammonia",
+    "substance": "Scammonia",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_tragacanthum": {
+    "ref_id": "Q_tragacanthum",
+    "substance": "Tragacanthum",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "humidum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_daucus": {
+    "ref_id": "Q_daucus",
+    "substance": "Daucus",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_dictamnus": {
+    "ref_id": "Q_dictamnus",
+    "substance": "Dictamnus",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_endivia/cichorium": {
+    "ref_id": "Q_endivia/cichorium",
+    "substance": "Endivia/Cichorium",
+    "thermal": "frigidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_inula_helenium": {
+    "ref_id": "Q_inula_helenium",
+    "substance": "Inula helenium",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "humidum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_epithymum": {
+    "ref_id": "Q_epithymum",
+    "substance": "Epithymum",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_euphorbia": {
+    "ref_id": "Q_euphorbia",
+    "substance": "Euphorbia",
+    "thermal": "calidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_hepatica": {
+    "ref_id": "Q_hepatica",
+    "substance": "Hepatica",
+    "thermal": "frigidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_aes_ustum": {
+    "ref_id": "Q_aes_ustum",
+    "substance": "Aes ustum",
+    "thermal": "calidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_helleborus": {
+    "ref_id": "Q_helleborus",
+    "substance": "Helleborus",
+    "thermal": "calidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_euphorbia_esula": {
+    "ref_id": "Q_euphorbia_esula",
+    "substance": "Euphorbia esula",
+    "thermal": "calidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_geum/caryophyllata": {
+    "ref_id": "Q_geum/caryophyllata",
+    "substance": "Geum/Caryophyllata",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_nigella": {
+    "ref_id": "Q_nigella",
+    "substance": "Nigella",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_lithospermum": {
+    "ref_id": "Q_lithospermum",
+    "substance": "Lithospermum",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_galla": {
+    "ref_id": "Q_galla",
+    "substance": "Galla",
+    "thermal": "frigidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_hyoscyamus": {
+    "ref_id": "Q_hyoscyamus",
+    "substance": "Hyoscyamus",
+    "thermal": "frigidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_iris": {
+    "ref_id": "Q_iris",
+    "substance": "Iris",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_juniperus": {
+    "ref_id": "Q_juniperus",
+    "substance": "Juniperus",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_ladanum": {
+    "ref_id": "Q_ladanum",
+    "substance": "Ladanum",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "humidum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_hyssopus": {
+    "ref_id": "Q_hyssopus",
+    "substance": "Hyssopus",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_glycyrrhiza": {
+    "ref_id": "Q_glycyrrhiza",
+    "substance": "Glycyrrhiza",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "humidum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_lithargyrum": {
+    "ref_id": "Q_lithargyrum",
+    "substance": "Lithargyrum",
+    "thermal": "calidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_lactuca": {
+    "ref_id": "Q_lactuca",
+    "substance": "Lactuca",
+    "thermal": "frigidum",
+    "thermal_degree": null,
+    "moisture": "humidum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_laurus": {
+    "ref_id": "Q_laurus",
+    "substance": "Laurus",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_lentiscus/pistacia": {
+    "ref_id": "Q_lentiscus/pistacia",
+    "substance": "Lentiscus/Pistacia",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_daphne_laureola": {
+    "ref_id": "Q_daphne_laureola",
+    "substance": "Daphne laureola",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_levisticum": {
+    "ref_id": "Q_levisticum",
+    "substance": "Levisticum",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_magnes": {
+    "ref_id": "Q_magnes",
+    "substance": "Magnes",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_myrtus": {
+    "ref_id": "Q_myrtus",
+    "substance": "Myrtus",
+    "thermal": "frigidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_adeps": {
+    "ref_id": "Q_adeps",
+    "substance": "Adeps",
+    "thermal": "calidum",
+    "thermal_degree": 1,
+    "moisture": "humidum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_malva": {
+    "ref_id": "Q_malva",
+    "substance": "Malva",
+    "thermal": "frigidum",
+    "thermal_degree": 2,
+    "moisture": "humidum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_mastix": {
+    "ref_id": "Q_mastix",
+    "substance": "Mastix",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_mentha": {
+    "ref_id": "Q_mentha",
+    "substance": "Mentha",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_margarita": {
+    "ref_id": "Q_margarita",
+    "substance": "Margarita",
+    "thermal": "frigidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_mandragora": {
+    "ref_id": "Q_mandragora",
+    "substance": "Mandragora",
+    "thermal": "frigidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_mel": {
+    "ref_id": "Q_mel",
+    "substance": "Mel",
+    "thermal": "calidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_macis": {
+    "ref_id": "Q_macis",
+    "substance": "Macis",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_myrrha": {
+    "ref_id": "Q_myrrha",
+    "substance": "Myrrha",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_majorana/origanum": {
+    "ref_id": "Q_majorana/origanum",
+    "substance": "Majorana/Origanum",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_melissa": {
+    "ref_id": "Q_melissa",
+    "substance": "Melissa",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_nasturtium": {
+    "ref_id": "Q_nasturtium",
+    "substance": "Nasturtium",
+    "thermal": "calidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_nymphaea": {
+    "ref_id": "Q_nymphaea",
+    "substance": "Nymphaea",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": null,
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_nux_moschata": {
+    "ref_id": "Q_nux_moschata",
+    "substance": "Nux moschata",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": null,
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_nux_indica/cocos": {
+    "ref_id": "Q_nux_indica/cocos",
+    "substance": "Nux indica/Cocos",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_ocimum": {
+    "ref_id": "Q_ocimum",
+    "substance": "Ocimum",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_opopanax": {
+    "ref_id": "Q_opopanax",
+    "substance": "Opopanax",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_opium": {
+    "ref_id": "Q_opium",
+    "substance": "Opium",
+    "thermal": "frigidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_origanum": {
+    "ref_id": "Q_origanum",
+    "substance": "Origanum",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_olibanum/thus": {
+    "ref_id": "Q_olibanum/thus",
+    "substance": "Olibanum/Thus",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_piper": {
+    "ref_id": "Q_piper",
+    "substance": "Piper",
+    "thermal": "calidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_papaver": {
+    "ref_id": "Q_papaver",
+    "substance": "Papaver",
+    "thermal": "frigidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_peucedanum": {
+    "ref_id": "Q_peucedanum",
+    "substance": "Peucedanum",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_petroselinum": {
+    "ref_id": "Q_petroselinum",
+    "substance": "Petroselinum",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_pulicaria": {
+    "ref_id": "Q_pulicaria",
+    "substance": "Pulicaria",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_polypodium": {
+    "ref_id": "Q_polypodium",
+    "substance": "Polypodium",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_petroleum": {
+    "ref_id": "Q_petroleum",
+    "substance": "Petroleum",
+    "thermal": "calidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_parietaria": {
+    "ref_id": "Q_parietaria",
+    "substance": "Parietaria",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_portulaca": {
+    "ref_id": "Q_portulaca",
+    "substance": "Portulaca",
+    "thermal": "frigidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_pulegium/mentha_pulegium": {
+    "ref_id": "Q_pulegium/mentha_pulegium",
+    "substance": "Pulegium/Mentha pulegium",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_rheum/rhabarbarum": {
+    "ref_id": "Q_rheum/rhabarbarum",
+    "substance": "Rheum/Rhabarbarum",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_rhaponticum": {
+    "ref_id": "Q_rhaponticum",
+    "substance": "Rhaponticum",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_ruta": {
+    "ref_id": "Q_ruta",
+    "substance": "Ruta",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": null,
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_storax": {
+    "ref_id": "Q_storax",
+    "substance": "Storax",
+    "thermal": "calidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_solanum": {
+    "ref_id": "Q_solanum",
+    "substance": "Solanum",
+    "thermal": "frigidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_sumac/rhus": {
+    "ref_id": "Q_sumac/rhus",
+    "substance": "Sumac/Rhus",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": null,
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_santalum": {
+    "ref_id": "Q_santalum",
+    "substance": "Santalum",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_sagapenum": {
+    "ref_id": "Q_sagapenum",
+    "substance": "Sagapenum",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_sempervivum": {
+    "ref_id": "Q_sempervivum",
+    "substance": "Sempervivum",
+    "thermal": "frigidum",
+    "thermal_degree": 4,
+    "moisture": null,
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_sulfur": {
+    "ref_id": "Q_sulfur",
+    "substance": "Sulfur",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_sanguis_draconis": {
+    "ref_id": "Q_sanguis_draconis",
+    "substance": "Sanguis draconis",
+    "thermal": "frigidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_orchis/satyrion": {
+    "ref_id": "Q_orchis/satyrion",
+    "substance": "Orchis/Satyrion",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_spodium": {
+    "ref_id": "Q_spodium",
+    "substance": "Spodium",
+    "thermal": "frigidum",
+    "thermal_degree": 4,
+    "moisture": "siccum",
+    "moisture_degree": 4,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_scordium/teucrium": {
+    "ref_id": "Q_scordium/teucrium",
+    "substance": "Scordium/Teucrium",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_salvia": {
+    "ref_id": "Q_salvia",
+    "substance": "Salvia",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_dracunculus/serpentaria": {
+    "ref_id": "Q_dracunculus/serpentaria",
+    "substance": "Dracunculus/Serpentaria",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_senna": {
+    "ref_id": "Q_senna",
+    "substance": "Senna",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_satureja": {
+    "ref_id": "Q_satureja",
+    "substance": "Satureja",
+    "thermal": "calidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_terra_sigillata": {
+    "ref_id": "Q_terra_sigillata",
+    "substance": "Terra sigillata",
+    "thermal": "frigidum",
+    "thermal_degree": null,
+    "moisture": "siccum",
+    "moisture_degree": null,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_turbith": {
+    "ref_id": "Q_turbith",
+    "substance": "Turbith",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_centaurea": {
+    "ref_id": "Q_centaurea",
+    "substance": "Centaurea",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 3,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_rosa": {
+    "ref_id": "Q_rosa",
+    "substance": "Rosa",
+    "thermal": "frigidum",
+    "thermal_degree": 1,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_lavandula": {
+    "ref_id": "Q_lavandula",
+    "substance": "Lavandula",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_apium": {
+    "ref_id": "Q_apium",
+    "substance": "Apium",
+    "thermal": "calidum",
+    "thermal_degree": 3,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_viola": {
+    "ref_id": "Q_viola",
+    "substance": "Viola",
+    "thermal": "frigidum",
+    "thermal_degree": 1,
+    "moisture": "humidum",
+    "moisture_degree": 1,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_plantago": {
+    "ref_id": "Q_plantago",
+    "substance": "Plantago",
+    "thermal": "frigidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "Q_gentiana": {
+    "ref_id": "Q_gentiana",
+    "substance": "Gentiana",
+    "thermal": "calidum",
+    "thermal_degree": 2,
+    "moisture": "siccum",
+    "moisture_degree": 2,
+    "source": "Circa Instans (Dorveaux 1913)"
+  },
+  "COMBO_Q_calidum_unspec_siccum_unspec": {
+    "combo_id": "Q_calidum_unspec_siccum_unspec",
+    "n_plants": 20,
+    "plants": [
+      "Amidum",
+      "Antimonium",
+      "Allium",
+      "Acorus calamus",
+      "Anisum",
+      "Bistorta",
+      "Cassia lignea",
+      "Daucus",
+      "Dictamnus",
+      "Laurus",
+      "Lentiscus/Pistacia",
+      "Daphne laureola",
+      "Nux indica/Cocos",
+      "Peucedanum",
+      "Pulicaria",
+      "Polypodium",
+      "Rhaponticum",
+      "Dracunculus/Serpentaria",
+      "Senna",
+      "Satureja"
+    ]
+  },
+  "COMBO_Q_frigidum_4_siccum_4": {
+    "combo_id": "Q_frigidum_4_siccum_4",
+    "n_plants": 3,
+    "plants": [
+      "Acacia",
+      "Opium",
+      "Spodium"
+    ]
+  },
+  "COMBO_Q_calidum_2_siccum_2": {
+    "combo_id": "Q_calidum_2_siccum_2",
+    "n_plants": 25,
+    "plants": [
+      "Agaricus",
+      "Aristolochia",
+      "Ambra",
+      "Borax",
+      "Berberis",
+      "Cardamomum",
+      "Cyperus",
+      "Colophonia",
+      "Coriandrum",
+      "Geum/Caryophyllata",
+      "Iris",
+      "Levisticum",
+      "Mastix",
+      "Mentha",
+      "Macis",
+      "Myrrha",
+      "Majorana/Origanum",
+      "Melissa",
+      "Ocimum",
+      "Olibanum/Thus",
+      "Rheum/Rhabarbarum",
+      "Sulfur",
+      "Salvia",
+      "Lavandula",
+      "Gentiana"
+    ]
+  },
+  "COMBO_Q_calidum_3_unknown_3": {
+    "combo_id": "Q_calidum_3_unknown_3",
+    "n_plants": 3,
+    "plants": [
+      "Ammoniacum",
+      "Euphorbia lathyris",
+      "Sumac/Rhus"
+    ]
+  },
+  "COMBO_Q_calidum_1_siccum_1": {
+    "combo_id": "Q_calidum_1_siccum_1",
+    "n_plants": 7,
+    "plants": [
+      "Absinthium",
+      "Cuscuta",
+      "Cupressus",
+      "Crocus/Saffron",
+      "Lithargyrum",
+      "Mel",
+      "Storax"
+    ]
+  },
+  "COMBO_Q_calidum_4_siccum_4": {
+    "combo_id": "Q_calidum_4_siccum_4",
+    "n_plants": 11,
+    "plants": [
+      "Anacardium",
+      "Auripigmentum",
+      "Betonica",
+      "Chelidonia",
+      "Euphorbia",
+      "Aes ustum",
+      "Helleborus",
+      "Euphorbia esula",
+      "Nasturtium",
+      "Piper",
+      "Petroleum"
+    ]
+  },
+  "COMBO_Q_calidum_2_unknown_2": {
+    "combo_id": "Q_calidum_2_unknown_2",
+    "n_plants": 3,
+    "plants": [
+      "Amygdala amara",
+      "Nymphaea",
+      "Ruta"
+    ]
+  },
+  "COMBO_Q_calidum_3_siccum_3": {
+    "combo_id": "Q_calidum_3_siccum_3",
+    "n_plants": 30,
+    "plants": [
+      "Artemisia",
+      "Cyclamen",
+      "Colocynthis",
+      "Calamintha",
+      "Castoreum",
+      "Cinnamomum",
+      "Chamaedrys/Teucrium",
+      "Carum carvi",
+      "Cuminum",
+      "Cicuta",
+      "Cretanum/Dictamnus creticus",
+      "Costus",
+      "Scammonia",
+      "Epithymum",
+      "Nigella",
+      "Lithospermum",
+      "Juniperus",
+      "Hyssopus",
+      "Magnes",
+      "Opopanax",
+      "Origanum",
+      "Petroselinum",
+      "Parietaria",
+      "Pulegium/Mentha pulegium",
+      "Santalum",
+      "Sagapenum",
+      "Orchis/Satyrion",
+      "Scordium/Teucrium",
+      "Turbith",
+      "Centaurea"
+    ]
+  },
+  "COMBO_Q_frigidum_2_siccum_2": {
+    "combo_id": "Q_frigidum_2_siccum_2",
+    "n_plants": 6,
+    "plants": [
+      "Acetum",
+      "Balaustium",
+      "Cerusa",
+      "Galla",
+      "Solanum",
+      "Plantago"
+    ]
+  },
+  "COMBO_Q_frigidum_1_siccum_1": {
+    "combo_id": "Q_frigidum_1_siccum_1",
+    "n_plants": 4,
+    "plants": [
+      "Lawsonia/Alkanna",
+      "Bolus armeniacus",
+      "Vernix",
+      "Hepatica"
+    ]
+  },
+  "COMBO_Q_calidum_2_unknown_1": {
+    "combo_id": "Q_calidum_2_unknown_1",
+    "n_plants": 1,
+    "plants": [
+      "Pastinaca"
+    ]
+  },
+  "COMBO_Q_calidum_1_humidum_1": {
+    "combo_id": "Q_calidum_1_humidum_1",
+    "n_plants": 2,
+    "plants": [
+      "Borago",
+      "Adeps"
+    ]
+  },
+  "COMBO_Q_calidum_2_humidum_2": {
+    "combo_id": "Q_calidum_2_humidum_2",
+    "n_plants": 3,
+    "plants": [
+      "Acanthus/Branca ursina",
+      "Tragacanthum",
+      "Ladanum"
+    ]
+  },
+  "COMBO_Q_frigidum_unspec_unknown_unspec": {
+    "combo_id": "Q_frigidum_unspec_unknown_unspec",
+    "n_plants": 1,
+    "plants": [
+      "Bedegar"
+    ]
+  },
+  "COMBO_Q_frigidum_3_siccum_3": {
+    "combo_id": "Q_frigidum_3_siccum_3",
+    "n_plants": 4,
+    "plants": [
+      "Camphora",
+      "Hyoscyamus",
+      "Portulaca",
+      "Sanguis draconis"
+    ]
+  },
+  "COMBO_Q_calidum_unspec_humidum_unspec": {
+    "combo_id": "Q_calidum_unspec_humidum_unspec",
+    "n_plants": 2,
+    "plants": [
+      "Cassia fistula",
+      "Glycyrrhiza"
+    ]
+  },
+  "COMBO_Q_calidum_unspec_unknown_unspec": {
+    "combo_id": "Q_calidum_unspec_unknown_unspec",
+    "n_plants": 3,
+    "plants": [
+      "Capparis",
+      "Cubeba",
+      "Nux moschata"
+    ]
+  },
+  "COMBO_Q_frigidum_unspec_siccum_unspec": {
+    "combo_id": "Q_frigidum_unspec_siccum_unspec",
+    "n_plants": 6,
+    "plants": [
+      "Endivia/Cichorium",
+      "Myrtus",
+      "Margarita",
+      "Mandragora",
+      "Papaver",
+      "Terra sigillata"
+    ]
+  },
+  "COMBO_Q_calidum_3_humidum_3": {
+    "combo_id": "Q_calidum_3_humidum_3",
+    "n_plants": 1,
+    "plants": [
+      "Inula helenium"
+    ]
+  },
+  "COMBO_Q_frigidum_unspec_humidum_unspec": {
+    "combo_id": "Q_frigidum_unspec_humidum_unspec",
+    "n_plants": 1,
+    "plants": [
+      "Lactuca"
+    ]
+  },
+  "COMBO_Q_frigidum_2_humidum_2": {
+    "combo_id": "Q_frigidum_2_humidum_2",
+    "n_plants": 1,
+    "plants": [
+      "Malva"
+    ]
+  },
+  "COMBO_Q_frigidum_4_unknown_4": {
+    "combo_id": "Q_frigidum_4_unknown_4",
+    "n_plants": 1,
+    "plants": [
+      "Sempervivum"
+    ]
+  },
+  "COMBO_Q_frigidum_1_siccum_2": {
+    "combo_id": "Q_frigidum_1_siccum_2",
+    "n_plants": 1,
+    "plants": [
+      "Rosa"
+    ]
+  },
+  "COMBO_Q_calidum_3_siccum_2": {
+    "combo_id": "Q_calidum_3_siccum_2",
+    "n_plants": 1,
+    "plants": [
+      "Apium"
+    ]
+  },
+  "COMBO_Q_frigidum_1_humidum_1": {
+    "combo_id": "Q_frigidum_1_humidum_1",
+    "n_plants": 1,
+    "plants": [
+      "Viola"
+    ]
+  },
+  "Q_acutus": {
+    "ref_id": "Q_acutus",
+    "canonical": "acutus",
+    "gloss_en": "sharp/acute",
+    "gloss_fr": "aigu/piquant",
+    "forms": {
+      "latin": [
+        "acutus",
+        "acuta",
+        "acutum",
+        "acuti"
+      ]
+    },
+    "category": "taste"
+  },
+  "Q_dulcis": {
+    "ref_id": "Q_dulcis",
+    "canonical": "dulcis",
+    "gloss_en": "sweet",
+    "gloss_fr": "doux/sucré",
+    "forms": {
+      "latin": [
+        "dulcis",
+        "dulcia",
+        "dulce",
+        "dulcium"
+      ]
+    },
+    "category": "taste"
+  },
+  "Q_nutritivus": {
+    "ref_id": "Q_nutritivus",
+    "canonical": "nutritivus",
+    "gloss_en": "nutritive",
+    "gloss_fr": "nutritif",
+    "forms": {
+      "latin": [
+        "nutritiva",
+        "nutritivae",
+        "nutritivum",
+        "nutritivus"
+      ]
+    },
+    "category": "taste"
+  },
+  "Q_salsus": {
+    "ref_id": "Q_salsus",
+    "canonical": "salsus",
+    "gloss_en": "salty",
+    "gloss_fr": "salé",
+    "forms": {
+      "latin": [
+        "salsus",
+        "salsa",
+        "salsum",
+        "salsatus"
+      ]
+    },
+    "category": "taste"
+  },
+  "Q_acetosus": {
+    "ref_id": "Q_acetosus",
+    "canonical": "acetosus",
+    "gloss_en": "vinegary/sour",
+    "gloss_fr": "vinaigré/aigre",
+    "forms": {
+      "latin": [
+        "acetosus",
+        "acetosa",
+        "acetosum"
+      ]
+    },
+    "category": "taste"
+  },
+  "Q_amarus": {
+    "ref_id": "Q_amarus",
+    "canonical": "amarus",
+    "gloss_en": "bitter",
+    "gloss_fr": "amer",
+    "forms": {
+      "latin": [
+        "amarus",
+        "amara",
+        "amarum"
+      ]
+    },
+    "category": "taste"
+  },
+  "Q_calidus": {
+    "ref_id": "Q_calidus",
+    "canonical": "calidus",
+    "gloss_en": "hot/warm",
+    "gloss_fr": "chaud",
+    "category": "primary_quality",
+    "forms": {
+      "latin": [
+        "calidus",
+        "calida",
+        "calidum",
+        "calidi",
+        "calidae",
+        "calidissimum",
+        "caleas",
+        "calor",
+        "calore",
+        "calet"
+      ]
+    }
+  },
+  "Q_frigidus": {
+    "ref_id": "Q_frigidus",
+    "canonical": "frigidus",
+    "gloss_en": "cold",
+    "gloss_fr": "froid",
+    "category": "primary_quality",
+    "forms": {
+      "latin": [
+        "frigidus",
+        "frigida",
+        "frigidum",
+        "frigidi",
+        "frigidae",
+        "frigus",
+        "frigore",
+        "frigesce"
+      ]
+    }
+  },
+  "Q_siccus": {
+    "ref_id": "Q_siccus",
+    "canonical": "siccus",
+    "gloss_en": "dry",
+    "gloss_fr": "sec",
+    "category": "primary_quality",
+    "forms": {
+      "latin": [
+        "siccus",
+        "sicca",
+        "siccum",
+        "sicci",
+        "siccae",
+        "siccant",
+        "siccitas"
+      ]
+    }
+  },
+  "Q_humidus": {
+    "ref_id": "Q_humidus",
+    "canonical": "humidus",
+    "gloss_en": "moist/humid",
+    "gloss_fr": "humide",
+    "category": "primary_quality",
+    "forms": {
+      "latin": [
+        "humidus",
+        "humida",
+        "humidum",
+        "humidi",
+        "humidae",
+        "humor",
+        "humores",
+        "humoribus"
+      ]
+    }
+  },
+  "Q_laxativus": {
+    "ref_id": "Q_laxativus",
+    "canonical": "laxativus",
+    "gloss_en": "laxative",
+    "category": "therapeutic_quality",
+    "forms": {
+      "latin": [
+        "laxativa",
+        "laxativis",
+        "laxativarum",
+        "laxativus"
+      ]
+    }
+  },
+  "Q_constrictivus": {
+    "ref_id": "Q_constrictivus",
+    "canonical": "constrictivus",
+    "gloss_en": "astringent",
+    "category": "therapeutic_quality",
+    "forms": {
+      "latin": [
+        "constrictiva",
+        "constrictivis",
+        "constrictivus"
+      ]
+    }
+  },
+  "Q_alterativus": {
+    "ref_id": "Q_alterativus",
+    "canonical": "alterativus",
+    "gloss_en": "alterative",
+    "category": "therapeutic_quality",
+    "forms": {
+      "latin": [
+        "alterativa",
+        "alterativis",
+        "alterativus"
+      ]
+    }
+  },
+  "Q_diureticus": {
+    "ref_id": "Q_diureticus",
+    "canonical": "diureticus",
+    "gloss_en": "diuretic",
+    "category": "therapeutic_quality",
+    "forms": {
+      "latin": [
+        "diuretica",
+        "diureticae",
+        "diureticum",
+        "diureticus"
+      ]
+    }
+  },
+  "Q_digestivus": {
+    "ref_id": "Q_digestivus",
+    "canonical": "digestivus",
+    "gloss_en": "digestive",
+    "category": "therapeutic_quality",
+    "forms": {
+      "latin": [
+        "digestivi",
+        "digestivo",
+        "digestivus"
+      ]
+    }
+  },
+  "Q_mundificativus": {
+    "ref_id": "Q_mundificativus",
+    "canonical": "mundificativus",
+    "gloss_en": "cleansing",
+    "category": "therapeutic_quality",
+    "forms": {
+      "latin": [
+        "mundificativam",
+        "mundificativis",
+        "mundificativus"
+      ]
+    }
+  },
+  "Q_consumptivus": {
+    "ref_id": "Q_consumptivus",
+    "canonical": "consumptivus",
+    "gloss_en": "consumptive",
+    "category": "therapeutic_quality",
+    "forms": {
+      "latin": [
+        "consumptivam",
+        "consumptivus"
+      ]
+    }
+  },
+  "Q_mollificativus": {
+    "ref_id": "Q_mollificativus",
+    "canonical": "mollificativus",
+    "gloss_en": "emollient",
+    "category": "therapeutic_quality",
+    "forms": {
+      "latin": [
+        "mollificativis",
+        "mollificativus"
+      ]
+    }
+  },
+  "Q_maturativus": {
+    "ref_id": "Q_maturativus",
+    "canonical": "maturativus",
+    "gloss_en": "maturative",
+    "category": "therapeutic_quality",
+    "forms": {
+      "latin": [
+        "maturativis",
+        "maturativus"
+      ]
+    }
+  },
+  "Q_rubeus": {
+    "canonical": "rubeus",
+    "gloss_en": "red",
+    "gloss_fr": "rouge",
+    "forms": {
+      "latin": [
+        "rubea",
+        "rubeum",
+        "rubeus",
+        "rubei",
+        "rubeo",
+        "rubee"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "Q_albus": {
+    "canonical": "albus",
+    "gloss_en": "white",
+    "gloss_fr": "blanc",
+    "forms": {
+      "latin": [
+        "albi",
+        "album",
+        "albus",
+        "alba",
+        "albo",
+        "albae"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "Q_fortis": {
+    "canonical": "fortis",
+    "gloss_en": "strong/powerful",
+    "gloss_fr": "fort/puissant",
+    "forms": {
+      "latin": [
+        "fortiter",
+        "fortis",
+        "forte",
+        "fortem",
+        "forti",
+        "fortes"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "Q_niger": {
+    "canonical": "niger",
+    "gloss_en": "black",
+    "gloss_fr": "noir",
+    "forms": {
+      "latin": [
+        "niger",
+        "nigra",
+        "nigrum",
+        "nigri",
+        "nigro",
+        "nigrae"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "Q_viridis": {
+    "canonical": "viridis",
+    "gloss_en": "green",
+    "gloss_fr": "vert",
+    "forms": {
+      "latin": [
+        "viridis",
+        "viride",
+        "viridem",
+        "viridi",
+        "virides"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "Q_magnus": {
+    "canonical": "magnus",
+    "gloss_en": "great/large",
+    "gloss_fr": "grand",
+    "forms": {
+      "latin": [
+        "magnus",
+        "magna",
+        "magnum",
+        "magni",
+        "magno",
+        "magnae"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "Q_parvus": {
+    "canonical": "parvus",
+    "gloss_en": "small/little",
+    "gloss_fr": "petit",
+    "forms": {
+      "latin": [
+        "parvus",
+        "parva",
+        "parvum",
+        "parvi",
+        "parvo",
+        "minor",
+        "minori",
+        "minorem"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "Q_subtilis": {
+    "canonical": "subtilis",
+    "gloss_en": "subtle/fine",
+    "gloss_fr": "subtil/fin",
+    "forms": {
+      "latin": [
+        "subtilis",
+        "subtile",
+        "subtilem",
+        "subtili",
+        "subtiles",
+        "subtiliatiua",
+        "subtilians",
+        "fubtilis",
+        "fubtile",
+        "subtilia",
+        "subtilium",
+        "subtilibus",
+        "subtilitatem"
+      ]
+    },
+    "source": "Tacuinum Sanitatis"
+  },
+  "Q_grossus": {
+    "canonical": "grossus",
+    "gloss_en": "thick/coarse",
+    "gloss_fr": "epais/grossier",
+    "forms": {
+      "latin": [
+        "grossus",
+        "grossa",
+        "grossum",
+        "grossi",
+        "grosso",
+        "grofsum",
+        "grofsius",
+        "grofsus",
+        "grofsa",
+        "grossam"
+      ]
+    },
+    "source": "Tacuinum Sanitatis"
+  },
+  "Q_temperatus": {
+    "canonical": "temperatus",
+    "gloss_en": "temperate/balanced",
+    "gloss_fr": "tempere/equilibre",
+    "forms": {
+      "latin": [
+        "temperatus",
+        "temperata",
+        "temperatum",
+        "temperati",
+        "temperatae",
+        "temperato",
+        "temperatas",
+        "temperate",
+        "temperatis"
+      ]
+    },
+    "source": "Tacuinum Sanitatis"
+  },
+  "Q_viscosus": {
+    "canonical": "viscosus",
+    "gloss_en": "viscous/sticky",
+    "gloss_fr": "visqueux/gluant",
+    "forms": {
+      "latin": [
+        "viscosus",
+        "viscosa",
+        "viscosum",
+        "viscosi",
+        "uifcofum",
+        "uifcofiim",
+        "uifcofitate",
+        "uifcofus"
+      ]
+    },
+    "source": "Tacuinum Sanitatis"
+  },
+  "Q_stipticus": {
+    "canonical": "stipticus",
+    "gloss_en": "astringent/binding",
+    "gloss_fr": "astringent/constipant",
+    "forms": {
+      "latin": [
+        "stipticus",
+        "stiptica",
+        "stipticum",
+        "ftipticu",
+        "ftipticutn",
+        "ftringit",
+        "constrictiua",
+        "constipatiua"
+      ]
+    },
+    "source": "Tacuinum Sanitatis"
+  },
+  "Q_sulfureus": {
+    "ref_id": "Q_sulfureus",
+    "canonical": "sulfureus",
+    "gloss_fr": "sulfureux",
+    "forms": {
+      "latin": [
+        "sulfureus",
+        "sulfurea",
+        "sulfureum",
+        "sulphureus",
+        "sulphurea",
+        "sulfureo",
+        "sulfurei"
+      ]
+    },
+    "category": "thermal",
+    "sources_attested": [
+      "De Balneis"
+    ]
+  },
+  "Q_salinitas": {
+    "ref_id": "Q_salinitas",
+    "canonical": "salsus",
+    "gloss_fr": "sale/salin",
+    "forms": {
+      "latin": [
+        "salsus",
+        "salsa",
+        "salsum",
+        "salso",
+        "salsae",
+        "salinitas",
+        "salinus",
+        "salina"
+      ]
+    },
+    "category": "thermal",
+    "sources_attested": [
+      "De Balneis"
+    ]
+  },
+  "Q_tenuis": {
+    "ref_id": "Q_tenuis",
+    "canonical": "tenuis",
+    "gloss_fr": "tenu/fin/subtil",
+    "forms": {
+      "latin": [
+        "tenuis",
+        "tenue",
+        "tenuem",
+        "tenui",
+        "tenues",
+        "tenuibus",
+        "tenuia"
+      ]
+    },
+    "category": "quality",
+    "sources_attested": [
+      "De Balneis",
+      "Tacuinum"
+    ]
+  },
+  "Q_spissus": {
+    "ref_id": "Q_spissus",
+    "canonical": "spissus",
+    "gloss_fr": "epais/dense",
+    "forms": {
+      "latin": [
+        "spissus",
+        "spissa",
+        "spissum",
+        "spissae",
+        "spissi",
+        "spisso"
+      ]
+    },
+    "category": "quality",
+    "sources_attested": [
+      "De Balneis"
+    ]
+  },
+  "Q_lenis": {
+    "ref_id": "Q_lenis",
+    "canonical": "lenis",
+    "gloss_fr": "doux/lent",
+    "forms": {
+      "latin": [
+        "lenis",
+        "lene",
+        "lenem",
+        "leni",
+        "lenes",
+        "lenibus"
+      ]
+    },
+    "category": "quality",
+    "sources_attested": [
+      "De Balneis"
+    ]
+  },
+  "Q_digestibilis": {
+    "ref_id": "Q_digestibilis",
+    "canonical": "digestibilis",
+    "gloss_fr": "digestible/digestion",
+    "forms": {
+      "latin": [
+        "digestibilis",
+        "digestibile",
+        "digestionis",
+        "digestio",
+        "digeritur",
+        "digestione",
+        "digestiones"
+      ]
+    },
+    "category": "quality_dietary",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "Q_sanguineus": {
+    "ref_id": "Q_sanguineus",
+    "canonical": "sanguineus",
+    "meaning": "sanguine (hot+moist temperament)",
+    "forms": {
+      "latin": [
+        "sanguineus",
+        "sanguinea",
+        "sanguineum",
+        "sanguineo",
+        "fanguineus"
+      ]
+    }
+  },
+  "Q_cholericus": {
+    "ref_id": "Q_cholericus",
+    "canonical": "cholericus",
+    "meaning": "choleric (hot+dry temperament)",
+    "forms": {
+      "latin": [
+        "cholericus",
+        "cholerica",
+        "cholericum",
+        "colera",
+        "colericus"
+      ]
+    }
+  },
+  "Q_phlegmaticus": {
+    "ref_id": "Q_phlegmaticus",
+    "canonical": "phlegmaticus",
+    "meaning": "phlegmatic (cold+moist temperament)",
+    "forms": {
+      "latin": [
+        "phlegmaticus",
+        "phlegmatica",
+        "phlegmaticum",
+        "flegmaticus",
+        "flegmatica"
+      ]
+    }
+  },
+  "Q_melancholicus": {
+    "ref_id": "Q_melancholicus",
+    "canonical": "melancholicus",
+    "meaning": "melancholic (cold+dry temperament)",
+    "forms": {
+      "latin": [
+        "melancholicus",
+        "melancholica",
+        "melancholicum",
+        "melancolicus"
+      ]
+    }
+  },
+  "Q_caliditas": {
+    "ref_id": "Q_caliditas",
+    "canonical": "caliditas",
+    "meaning": "hotness (quality degree)",
+    "forms": {
+      "latin": [
+        "caliditas",
+        "caliditatis",
+        "caliditatem",
+        "caliditate"
+      ]
+    }
+  },
+  "Q_frigiditas": {
+    "ref_id": "Q_frigiditas",
+    "canonical": "frigiditas",
+    "meaning": "coldness (quality degree)",
+    "forms": {
+      "latin": [
+        "frigiditas",
+        "frigiditatis",
+        "frigiditatem",
+        "frigiditate"
+      ]
+    }
+  },
+  "Q_humiditas": {
+    "ref_id": "Q_humiditas",
+    "canonical": "humiditas",
+    "meaning": "moisture (quality degree)",
+    "forms": {
+      "latin": [
+        "humiditas",
+        "humiditatis",
+        "humiditatem",
+        "humiditate"
+      ]
+    }
+  },
+  "Q_siccitas": {
+    "ref_id": "Q_siccitas",
+    "canonical": "siccitas",
+    "meaning": "dryness (quality degree)",
+    "forms": {
+      "latin": [
+        "siccitas",
+        "siccitatis",
+        "siccitate",
+        "siccitatem"
+      ]
+    }
+  }
+}

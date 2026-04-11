@@ -1,0 +1,39 @@
+# AUREA ALEXANDRINA - Texte diplomatique latin (L1 = editio princeps 1471)
+# Source: Antidotarium Nicolai, ed. W.S. van den Berg (Leiden, Brill, 1917), pp. 5-7
+# Recette n.1 - fol. 1v - 2r de l'editio princeps (Gallica f9-f10)
+# Texte de L1 nettoye des appels de notes, abbreviations resolues par van den Berg
+# Prepare comme crib pour pipeline K&A v12
+# ========================================================================
+
+# [LAUS - vers mnemonique]
+Aurea quando datur caput a langore levatur.
+
+# [PREAMBULE - etymologie et indications therapeutiques]
+AUrea alexandrina dicta est ab auro. alexandrina ab Alexandro peritissimo philosopho inventa est. proprie valet ad omne capitis vitium ex frigidate maxime: et ad omnem reumaticam passionem que a capite ad oculos et aures et gingivas descendit: et ad gravedinem omnium membrorum que fit de eodem humore. datur eunti dormitum cum vino calido .xviii. pars confecta est .lb .ii.
+
+# [RECIPE - liste des ingredients avec quantites]
+# Format: ingredient + quantite en drachmes (z = drachma, S = semis/demi, lb = libra)
+Recipe asari carpobalsami iusquiami an .z.ii. et .S. gariofilorum opii mirre ciperi an .z.ij. balsami cinamomi folii zedoare zinziberis costi coralli casie lignee euforbii dragaganti turis meu storacis calamite saliunce cardamomi siselei napei saxifragie aneti anisi an .z.i. ligni aloes reubarbari alipte castorei spice galange opoponacis anacardi masticis sulfuris vivi pionie yringi rose thimi acori pulegii aristologie longe gentiane corticis mandragore camedreos fu baccarum lauri amei dauci macro piperis leucopiperis xilobalsami petrosellini seminis levistici rute seminis sinoni an .z.i. et .S. auri purificati argenti meri albarum margaritarum blacte bizantie ossis de corde cervi an .O.i. et grana .xiiii. eboris limature calami aromatici piretri an. grana .viiii. mellis quod sufficit.
+
+# [ADMINISTRATION]
+detur in modum avellane febricitantibus cum aqua calida: non febricitantibus cum vino calido.
+
+# ========================================================================
+# NOTES sur les variantes manuscrites (van den Berg, appareil critique):
+# L1 = editio princeps 1471 (texte de base ci-dessus)
+# L2 = seconde edition latine
+# F1, F2 = traductions francaises (XIVe-XVe s.)
+# NM = Nicolaus Myrepsus (Dynameron)
+# MT = traduction moyen-neerlandaise (Ms. Bruxelles 15624-15641)
+#
+# Variantes notables:
+# - L2 commence par "Aurea quando datur" puis texte plus developpe jusqu'a Recipe
+# - F1 manque de nombreux ingredients (napei, siselei, cardamomi absents)
+# - NM a "Aurea Alexandri" et commence directement par "Aurea quando datur"
+# - NM ajoute apres "fu": carnis palmular. hermodact. alb. et rub.
+# - L2/F1/NM: variante ".z.S." pour certains ingredients au lieu de ".z.ii."
+# - Alii addunt lilifagi .z.ii. (ajout dans certains temoins)
+# ========================================================================
+
+# [TEXTE CONTINU - version sans commentaires pour le pipeline]
+Aurea quando datur caput a langore levatur. AUrea alexandrina dicta est ab auro. alexandrina ab Alexandro peritissimo philosopho inventa est. proprie valet ad omne capitis vitium ex frigidate maxime: et ad omnem reumaticam passionem que a capite ad oculos et aures et gingivas descendit: et ad gravedinem omnium membrorum que fit de eodem humore. datur eunti dormitum cum vino calido .xviii. pars confecta est .lb .ii. Recipe asari carpobalsami iusquiami an .z.ii. et .S. gariofilorum opii mirre ciperi an .z.ij. balsami cinamomi folii zedoare zinziberis costi coralli casie lignee euforbii dragaganti turis meu storacis calamite saliunce cardamomi siselei napei saxifragie aneti anisi an .z.i. ligni aloes reubarbari alipte castorei spice galange opoponacis anacardi masticis sulfuris vivi pionie yringi rose thimi acori pulegii aristologie longe gentiane corticis mandragore camedreos fu baccarum lauri amei dauci macro piperis leucopiperis xilobalsami petrosellini seminis levistici rute seminis sinoni an .z.i. et .S. auri purificati argenti meri albarum margaritarum blacte bizantie ossis de corde cervi an .O.i. et grana .xiiii. eboris limature calami aromatici piretri an. grana .viiii. mellis quod sufficit. detur in modum avellane febricitantibus cum aqua calida: non febricitantibus cum vino calido.

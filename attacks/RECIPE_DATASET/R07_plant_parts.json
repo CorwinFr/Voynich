@@ -1,0 +1,287 @@
+{
+  "_meta": {
+    "description": "Plant parts used in medieval pharmacy",
+    "period": "12th-15th century",
+    "version": "2026-04-11",
+    "count": 16
+  },
+  "P_radix": {
+    "ref_id": "P_radix",
+    "canonical": "radix",
+    "gloss_en": "root",
+    "gloss_fr": "racine",
+    "forms": {
+      "latin": [
+        "radix",
+        "radicis",
+        "radicem",
+        "radices",
+        "radicum"
+      ]
+    },
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "P_folia": {
+    "ref_id": "P_folia",
+    "canonical": "folia",
+    "gloss_en": "leaves",
+    "gloss_fr": "feuilles",
+    "forms": {
+      "latin": [
+        "folia",
+        "folium",
+        "foliorum",
+        "folis"
+      ]
+    },
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "P_semen": {
+    "ref_id": "P_semen",
+    "canonical": "semen",
+    "gloss_en": "seed",
+    "gloss_fr": "semence/graine",
+    "forms": {
+      "latin": [
+        "semen",
+        "seminis",
+        "semina",
+        "seminum"
+      ]
+    },
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "P_flos": {
+    "ref_id": "P_flos",
+    "canonical": "flos",
+    "gloss_en": "flower",
+    "gloss_fr": "fleur",
+    "forms": {
+      "latin": [
+        "flos",
+        "floris",
+        "florem",
+        "flores",
+        "florum"
+      ]
+    },
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "P_cortex": {
+    "ref_id": "P_cortex",
+    "canonical": "cortex",
+    "gloss_en": "bark",
+    "gloss_fr": "ecorce",
+    "forms": {
+      "latin": [
+        "cortex",
+        "corticis",
+        "corticem",
+        "cortices"
+      ]
+    },
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "P_succus": {
+    "ref_id": "P_succus",
+    "canonical": "succus",
+    "gloss_en": "juice/sap",
+    "gloss_fr": "jus/suc",
+    "forms": {
+      "latin": [
+        "succus",
+        "succi",
+        "succum",
+        "succo"
+      ]
+    },
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "P_fructus": {
+    "ref_id": "P_fructus",
+    "canonical": "fructus",
+    "gloss_en": "fruit",
+    "gloss_fr": "fruit",
+    "forms": {
+      "latin": [
+        "fructus",
+        "fructum",
+        "fructuum"
+      ]
+    },
+    "sources_attested": [
+      "CI",
+      "Macer"
+    ]
+  },
+  "P_gummi": {
+    "ref_id": "P_gummi",
+    "canonical": "gummi",
+    "gloss_en": "gum/resin",
+    "gloss_fr": "gomme/resine",
+    "forms": {
+      "latin": [
+        "gummi",
+        "gumma",
+        "gummae",
+        "resina",
+        "resinam"
+      ]
+    },
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "P_herba": {
+    "ref_id": "P_herba",
+    "canonical": "herba",
+    "gloss_en": "herb (whole plant)",
+    "gloss_fr": "herbe (plante entiere)",
+    "forms": {
+      "latin": [
+        "herba",
+        "herbae",
+        "herbam"
+      ]
+    },
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "P_lignum": {
+    "ref_id": "P_lignum",
+    "canonical": "lignum",
+    "gloss_en": "wood",
+    "gloss_fr": "bois",
+    "forms": {
+      "latin": [
+        "lignum",
+        "ligni",
+        "ligno"
+      ]
+    },
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "P_medulla": {
+    "ref_id": "P_medulla",
+    "canonical": "medulla",
+    "gloss_en": "pith/marrow",
+    "gloss_fr": "moelle",
+    "forms": {
+      "latin": [
+        "medulla",
+        "medullae",
+        "medullam"
+      ]
+    },
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "P_cima": {
+    "ref_id": "P_cima",
+    "canonical": "cima",
+    "gloss_en": "tips/shoots",
+    "gloss_fr": "sommites/pousses",
+    "forms": {
+      "latin": [
+        "cima",
+        "cimae",
+        "cimarum",
+        "summitates"
+      ]
+    },
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "P_caput": {
+    "ref_id": "P_caput",
+    "canonical": "caput",
+    "gloss_en": "head (of poppy etc)",
+    "gloss_fr": "tete (de pavot etc)",
+    "forms": {
+      "latin": [
+        "caput",
+        "capita",
+        "capitum"
+      ]
+    },
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "P_folium": {
+    "ref_id": "P_folium",
+    "canonical": "folium",
+    "gloss_en": "leaf",
+    "gloss_fr": "feuille",
+    "forms": {
+      "latin": [
+        "folium",
+        "folii",
+        "folia",
+        "foliorum"
+      ]
+    }
+  },
+  "P_bacca": {
+    "ref_id": "P_bacca",
+    "canonical": "bacca",
+    "gloss_en": "berry",
+    "gloss_fr": "baie",
+    "forms": {
+      "latin": [
+        "bacca",
+        "baccarum",
+        "baccam",
+        "baccae"
+      ]
+    }
+  },
+  "P_cutis": {
+    "canonical": "cutis",
+    "gloss_en": "skin",
+    "gloss_fr": "peau",
+    "forms": {
+      "latin": [
+        "cutis",
+        "cute",
+        "cutem",
+        "cuti",
+        "cutis"
+      ]
+    },
+    "source": "De Balneis Puteolanis"
+  }
+}

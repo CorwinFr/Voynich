@@ -1,0 +1,2005 @@
+{
+  "_meta": {
+    "description": "Pharmaceutical verbs of medieval Latin and vernacular traditions",
+    "period": "12th-15th century",
+    "version": "2026-04-11",
+    "count": 72
+  },
+  "V_recipe": {
+    "ref_id": "V_recipe",
+    "canonical": "recipe",
+    "gloss_en": "take/prepare",
+    "gloss_fr": "prends/prepare",
+    "forms": {
+      "latin": [
+        "recipe",
+        "recipiat",
+        "recipiatur",
+        "recipiantur",
+        "rp"
+      ],
+      "old_french": [
+        "prenez",
+        "pren",
+        "prennez"
+      ],
+      "abbreviation": [
+        "Rp.",
+        "R.",
+        "R/"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 137,
+      "CI": 365,
+      "Macer": 20,
+      "Grabadin": 80
+    },
+    "notes": "Universal opening verb. Abbreviated Rp. in manuscripts. THE most important verb.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin",
+      "Regimen",
+      "Avicenna"
+    ]
+  },
+  "V_accipe": {
+    "ref_id": "V_accipe",
+    "canonical": "accipe",
+    "gloss_en": "take/receive",
+    "gloss_fr": "prends/recois",
+    "forms": {
+      "latin": [
+        "accipe",
+        "accipiat",
+        "accipiatur",
+        "accipitur"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 10,
+      "CI": 88
+    },
+    "notes": "Synonym of recipe. Used interchangeably in some sources.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Collectio Salernitana"
+    ]
+  },
+  "V_tere": {
+    "ref_id": "V_tere",
+    "canonical": "tere",
+    "gloss_en": "grind/pound",
+    "gloss_fr": "broie/pile",
+    "forms": {
+      "latin": [
+        "tere",
+        "teratur",
+        "terantur",
+        "terendo",
+        "trita",
+        "tritum",
+        "tritus",
+        "tritam",
+        "tritis",
+        "contere",
+        "conteratur",
+        "conterantur"
+      ],
+      "old_french": [
+        "broiez",
+        "broier",
+        "tribler"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 45,
+      "CI": 34,
+      "Grabadin": 40
+    },
+    "notes": "Core preparation verb. Usually in mortarium. contere = grind thoroughly.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_misce": {
+    "ref_id": "V_misce",
+    "canonical": "misce",
+    "gloss_en": "mix",
+    "gloss_fr": "melange",
+    "forms": {
+      "latin": [
+        "misce",
+        "misceatur",
+        "misceantur",
+        "commisce",
+        "commisceantur",
+        "commixtis",
+        "admisceantur",
+        "mixta"
+      ],
+      "old_french": [
+        "meslez",
+        "mesler"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 30,
+      "CI": 25,
+      "Grabadin": 45
+    },
+    "notes": "Mixing ingredients. Often paired with bene (well).",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_coque": {
+    "ref_id": "V_coque",
+    "canonical": "coque",
+    "gloss_en": "cook/boil",
+    "gloss_fr": "cuis/fais cuire",
+    "forms": {
+      "latin": [
+        "coque",
+        "coquatur",
+        "coquantur",
+        "coctum",
+        "cocta",
+        "coctus",
+        "cocte",
+        "coctam"
+      ],
+      "old_french": [
+        "cuire",
+        "cuite",
+        "cuisiez",
+        "cuites"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 45,
+      "CI": 175,
+      "Grabadin": 60
+    },
+    "notes": "Core preparation verb. Often cum (with) + liquid. coctum = past participle.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_decoque": {
+    "ref_id": "V_decoque",
+    "canonical": "decoque",
+    "gloss_en": "decoct/boil down",
+    "gloss_fr": "fais decoction",
+    "forms": {
+      "latin": [
+        "decoque",
+        "decoquatur",
+        "decoquantur",
+        "decocta",
+        "decoctum",
+        "decoctione",
+        "decoctionem"
+      ],
+      "old_french": [
+        "decoction"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 20,
+      "CI": 30
+    },
+    "notes": "Boil down to concentrate. Often usque ad consumptionem (until consumed).",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_cola": {
+    "ref_id": "V_cola",
+    "canonical": "cola",
+    "gloss_en": "strain/filter",
+    "gloss_fr": "filtre/coule",
+    "forms": {
+      "latin": [
+        "cola",
+        "coletur",
+        "colentur",
+        "colata",
+        "colatum",
+        "colando"
+      ],
+      "old_french": [
+        "coulez",
+        "couler"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 25,
+      "CI": 20
+    },
+    "notes": "Filter through cloth (per pannum). Critical step in syrup/oil making.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_solve": {
+    "ref_id": "V_solve",
+    "canonical": "solve",
+    "gloss_en": "dissolve",
+    "gloss_fr": "dissous",
+    "forms": {
+      "latin": [
+        "solve",
+        "solvatur",
+        "solvantur",
+        "soluti",
+        "soluta",
+        "solutum",
+        "dissolve",
+        "dissolvatur"
+      ],
+      "old_french": [
+        "dissous",
+        "fondez"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 15,
+      "CI": 10
+    },
+    "notes": "Dissolve in liquid. Also dissolve = stronger form.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_confice": {
+    "ref_id": "V_confice",
+    "canonical": "confice",
+    "gloss_en": "compound/prepare",
+    "gloss_fr": "confectionne/prepare",
+    "forms": {
+      "latin": [
+        "confice",
+        "conficitur",
+        "conficiantur",
+        "conficiatur",
+        "confecta",
+        "confectio",
+        "confectionem"
+      ],
+      "old_french": [
+        "confis",
+        "confisez"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 80,
+      "CI": 35
+    },
+    "notes": "Make into a compound. conficitur sic = it is prepared thus (common AN formula).",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "V_pista": {
+    "ref_id": "V_pista",
+    "canonical": "pista",
+    "gloss_en": "pound/crush",
+    "gloss_fr": "pile/ecrase",
+    "forms": {
+      "latin": [
+        "pista",
+        "pistetur",
+        "pistentur",
+        "pistata",
+        "pistatum"
+      ],
+      "old_french": [
+        "pilez",
+        "piler"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 10,
+      "CI": 15
+    },
+    "notes": "Pound in mortar. Less fine than tere.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_incide": {
+    "ref_id": "V_incide",
+    "canonical": "incide",
+    "gloss_en": "cut/incise",
+    "gloss_fr": "coupe/incise",
+    "forms": {
+      "latin": [
+        "incide",
+        "incidatur",
+        "incisa",
+        "incisum"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 8,
+      "CI": 5
+    },
+    "notes": "Cut into pieces before processing.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_infunde": {
+    "ref_id": "V_infunde",
+    "canonical": "infunde",
+    "gloss_en": "infuse/soak",
+    "gloss_fr": "infuse/trempe",
+    "forms": {
+      "latin": [
+        "infunde",
+        "infundatur",
+        "infusa",
+        "infusum",
+        "infusi"
+      ],
+      "old_french": [
+        "trempez"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 12,
+      "CI": 8
+    },
+    "notes": "Soak ingredient in liquid.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_exsicca": {
+    "ref_id": "V_exsicca",
+    "canonical": "exsicca",
+    "gloss_en": "dry",
+    "gloss_fr": "seche/fais secher",
+    "forms": {
+      "latin": [
+        "exsicca",
+        "exsiccetur",
+        "exsiccentur",
+        "exsiccata",
+        "siccata",
+        "siccentur",
+        "desiccati"
+      ],
+      "old_french": [
+        "sechez",
+        "secher"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 10,
+      "CI": 12
+    },
+    "notes": "Dry, often ad solem (in sun) or ad umbram (in shade).",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_pulveriza": {
+    "ref_id": "V_pulveriza",
+    "canonical": "pulveriza",
+    "gloss_en": "pulverize/powder",
+    "gloss_fr": "pulverise/reduis en poudre",
+    "forms": {
+      "latin": [
+        "pulveriza",
+        "pulverizetur",
+        "pulverizata",
+        "pulvis",
+        "in pulverem"
+      ],
+      "old_french": [
+        "poudrez",
+        "metez en poudre"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 8,
+      "CI": 10
+    },
+    "notes": "Reduce to powder. finer than tere.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_cribra": {
+    "ref_id": "V_cribra",
+    "canonical": "cribra",
+    "gloss_en": "sieve/sift",
+    "gloss_fr": "tamise",
+    "forms": {
+      "latin": [
+        "cribra",
+        "cribrentur",
+        "cribretur",
+        "cribrata",
+        "cribratum"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 8,
+      "CI": 5
+    },
+    "notes": "Sieve after grinding. cribrentur subtilissime = sieve very finely.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_bulliat": {
+    "ref_id": "V_bulliat",
+    "canonical": "bullio",
+    "gloss_en": "boil/bubble",
+    "gloss_fr": "fais bouillir",
+    "forms": {
+      "latin": [
+        "bulliat",
+        "bulliant",
+        "bullire",
+        "bullierit",
+        "bulliant"
+      ],
+      "old_french": [
+        "boullir",
+        "bouille"
+      ]
+    },
+    "pos": "verb_subjunctive",
+    "category": "preparation",
+    "frequency": {
+      "AN": 30,
+      "CI": 20
+    },
+    "notes": "Let it boil. bulliat donec = let it boil until.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_fiat": {
+    "ref_id": "V_fiat",
+    "canonical": "fiat",
+    "gloss_en": "let it be made",
+    "gloss_fr": "qu'il soit fait",
+    "forms": {
+      "latin": [
+        "fiat",
+        "fiant",
+        "fit",
+        "fiunt"
+      ],
+      "old_french": [
+        "faites",
+        "faictes",
+        "soit fait"
+      ]
+    },
+    "pos": "verb_subjunctive",
+    "category": "preparation",
+    "frequency": {
+      "AN": 60,
+      "CI": 198
+    },
+    "notes": "Final instruction. fiat electuarium/unguentum/emplastrum/trocisci/pilulae/pulvis.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin",
+      "Macer"
+    ]
+  },
+  "V_pone": {
+    "ref_id": "V_pone",
+    "canonical": "pone",
+    "gloss_en": "put/place",
+    "gloss_fr": "mets/place",
+    "forms": {
+      "latin": [
+        "pone",
+        "ponatur",
+        "ponantur",
+        "ponendo",
+        "posito"
+      ],
+      "old_french": [
+        "metez",
+        "mettre"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 20,
+      "CI": 15
+    },
+    "notes": "Place in vessel/on fire. ponatur super ignem.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_adde": {
+    "ref_id": "V_adde",
+    "canonical": "adde",
+    "gloss_en": "add",
+    "gloss_fr": "ajoute",
+    "forms": {
+      "latin": [
+        "adde",
+        "addatur",
+        "addantur",
+        "addes",
+        "addendo",
+        "addiungatur"
+      ],
+      "old_french": [
+        "ajoustez",
+        "metez"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 25,
+      "CI": 10
+    },
+    "notes": "Add ingredient to mixture. Often in later steps.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_distempera": {
+    "ref_id": "V_distempera",
+    "canonical": "distempera",
+    "gloss_en": "dissolve/temper/dilute",
+    "gloss_fr": "detrempe/delaye",
+    "forms": {
+      "latin": [
+        "distempera",
+        "distemperatur",
+        "distemperata",
+        "distemperatum"
+      ],
+      "old_french": [
+        "destrempez",
+        "destremper"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 15,
+      "CI": 8
+    },
+    "notes": "Dissolve/mix with liquid to right consistency.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_macera": {
+    "ref_id": "V_macera",
+    "canonical": "macera",
+    "gloss_en": "macerate/soften",
+    "gloss_fr": "macere",
+    "forms": {
+      "latin": [
+        "macera",
+        "maceretur",
+        "macerata",
+        "maceratum"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 5,
+      "CI": 3
+    },
+    "notes": "Soften by soaking in liquid over time.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_malaxa": {
+    "ref_id": "V_malaxa",
+    "canonical": "malaxa",
+    "gloss_en": "knead/work with hands",
+    "gloss_fr": "malaxe/petris",
+    "forms": {
+      "latin": [
+        "malaxa",
+        "malaxatis",
+        "malaxetur"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "preparation",
+    "frequency": {
+      "AN": 8
+    },
+    "notes": "Work with hands, especially wax/fat preparations.",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "V_da": {
+    "ref_id": "V_da",
+    "canonical": "da",
+    "gloss_en": "give/administer",
+    "gloss_fr": "donne/administre",
+    "forms": {
+      "latin": [
+        "da",
+        "detur",
+        "datur",
+        "dentur",
+        "dantur",
+        "dare",
+        "danda"
+      ],
+      "old_french": [
+        "donez",
+        "donner"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "administration",
+    "frequency": {
+      "AN": 103,
+      "CI": 100
+    },
+    "notes": "Most common administration verb. datur cum vino = given with wine.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer",
+      "Grabadin"
+    ]
+  },
+  "V_bibe": {
+    "ref_id": "V_bibe",
+    "canonical": "bibe",
+    "gloss_en": "drink",
+    "gloss_fr": "bois",
+    "forms": {
+      "latin": [
+        "bibe",
+        "bibatur",
+        "bibitum",
+        "bibat",
+        "bibendum"
+      ],
+      "old_french": [
+        "bevez",
+        "boire"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "administration",
+    "frequency": {
+      "AN": 20,
+      "CI": 36
+    },
+    "notes": "Oral administration by drinking.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_unge": {
+    "ref_id": "V_unge",
+    "canonical": "unge",
+    "gloss_en": "anoint/rub",
+    "gloss_fr": "oins/frotte",
+    "forms": {
+      "latin": [
+        "unge",
+        "ungatur",
+        "ungantur",
+        "inunctum",
+        "inungatur"
+      ],
+      "old_french": [
+        "oigniez",
+        "oignez",
+        "oindre"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "administration",
+    "frequency": {
+      "AN": 15,
+      "CI": 79
+    },
+    "notes": "Apply ointment/oil topically.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_superpone": {
+    "ref_id": "V_superpone",
+    "canonical": "superpone",
+    "gloss_en": "apply on/place upon",
+    "gloss_fr": "applique dessus",
+    "forms": {
+      "latin": [
+        "superpone",
+        "superponatur",
+        "superpositum",
+        "imponatur",
+        "impone"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "administration",
+    "frequency": {
+      "AN": 10,
+      "CI": 20
+    },
+    "notes": "Apply as plaster/poultice.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_lava": {
+    "ref_id": "V_lava",
+    "canonical": "lava",
+    "gloss_en": "wash",
+    "gloss_fr": "lave",
+    "forms": {
+      "latin": [
+        "lava",
+        "lavetur",
+        "laventur",
+        "lotum",
+        "loto",
+        "lotis"
+      ],
+      "old_french": [
+        "lavez",
+        "laver"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "administration",
+    "frequency": {
+      "AN": 8,
+      "CI": 36
+    },
+    "notes": "Wash affected area. lavetur os = wash the mouth.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_gargariza": {
+    "ref_id": "V_gargariza",
+    "canonical": "gargariza",
+    "gloss_en": "gargle",
+    "gloss_fr": "gargarise",
+    "forms": {
+      "latin": [
+        "gargariza",
+        "gargarizet",
+        "gargarizetur"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "administration",
+    "frequency": {
+      "AN": 5,
+      "CI": 8
+    },
+    "notes": "Gargle for throat conditions.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_insuffla": {
+    "ref_id": "V_insuffla",
+    "canonical": "insuffla",
+    "gloss_en": "blow into/insufflate",
+    "gloss_fr": "insuffle/souffle dans",
+    "forms": {
+      "latin": [
+        "insuffla",
+        "insuffletur",
+        "insufflatio"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "administration",
+    "frequency": {
+      "AN": 3,
+      "CI": 5
+    },
+    "notes": "Blow powder into nose/ear.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_instilla": {
+    "ref_id": "V_instilla",
+    "canonical": "instilla",
+    "gloss_en": "instill/drop in",
+    "gloss_fr": "instille/verse goutte a goutte",
+    "forms": {
+      "latin": [
+        "instilla",
+        "instilletur",
+        "instillato"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "administration",
+    "frequency": {
+      "AN": 3,
+      "CI": 5
+    },
+    "notes": "Drop liquid into ear/eye.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_valet": {
+    "ref_id": "V_valet",
+    "canonical": "valet",
+    "gloss_en": "is effective/works",
+    "gloss_fr": "est efficace/vaut",
+    "forms": {
+      "latin": [
+        "valet",
+        "valeat",
+        "valebit"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 155,
+      "CI": 100,
+      "Macer": 40
+    },
+    "notes": "Most common indication verb. valet contra/ad = effective against/for.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_prodest": {
+    "ref_id": "V_prodest",
+    "canonical": "prodest",
+    "gloss_en": "is beneficial",
+    "gloss_fr": "est benefique/profite",
+    "forms": {
+      "latin": [
+        "prodest",
+        "prosit",
+        "proficit"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 113,
+      "CI": 50,
+      "Macer": 30
+    },
+    "notes": "Common indication verb, slightly weaker than valet.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_curat": {
+    "ref_id": "V_curat",
+    "canonical": "curat",
+    "gloss_en": "cures",
+    "gloss_fr": "guerit/soigne",
+    "forms": {
+      "latin": [
+        "curat",
+        "curet",
+        "curatur"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 98,
+      "CI": 40
+    },
+    "notes": "Strong claim of cure.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_sanat": {
+    "ref_id": "V_sanat",
+    "canonical": "sanat",
+    "gloss_en": "heals",
+    "gloss_fr": "guerit/sane",
+    "forms": {
+      "latin": [
+        "sanat",
+        "sanet",
+        "sanatur"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 30,
+      "CI": 25
+    },
+    "notes": "Heals. Slightly different from curat (sanat = restore to health).",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_purgat": {
+    "ref_id": "V_purgat",
+    "canonical": "purgat",
+    "gloss_en": "purges/cleanses",
+    "gloss_fr": "purge/nettoie",
+    "forms": {
+      "latin": [
+        "purgat",
+        "purget",
+        "purgatur",
+        "purgando",
+        "purgativa"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 104,
+      "CI": 60
+    },
+    "notes": "Core humoral verb. Purge excess humor.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_confert": {
+    "ref_id": "V_confert",
+    "canonical": "confert",
+    "gloss_en": "helps/contributes",
+    "gloss_fr": "aide/contribue",
+    "forms": {
+      "latin": [
+        "confert",
+        "conferunt"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 41,
+      "CI": 20
+    },
+    "notes": "Helps. Weaker than valet.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_confortat": {
+    "ref_id": "V_confortat",
+    "canonical": "confortat",
+    "gloss_en": "strengthens/comforts",
+    "gloss_fr": "renforce/conforte",
+    "forms": {
+      "latin": [
+        "confortat",
+        "confortet"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 20,
+      "CI": 15
+    },
+    "notes": "Strengthens an organ or faculty.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_mitigat": {
+    "ref_id": "V_mitigat",
+    "canonical": "mitigat",
+    "gloss_en": "soothes/mitigates",
+    "gloss_fr": "apaise/adoucit",
+    "forms": {
+      "latin": [
+        "mitigat",
+        "mitiget",
+        "mitigatur"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 15,
+      "CI": 20
+    },
+    "notes": "Soothes pain/inflammation.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_provocat": {
+    "ref_id": "V_provocat",
+    "canonical": "provocat",
+    "gloss_en": "provokes/induces",
+    "gloss_fr": "provoque/induit",
+    "forms": {
+      "latin": [
+        "provocat",
+        "provocet"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 20,
+      "CI": 30
+    },
+    "notes": "Induces a process. provocat urinam/menstrua/vomitum.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Macer"
+    ]
+  },
+  "V_restringit": {
+    "ref_id": "V_restringit",
+    "canonical": "restringit",
+    "gloss_en": "restrains/stops",
+    "gloss_fr": "arrete/restreint",
+    "forms": {
+      "latin": [
+        "restringit",
+        "restringet",
+        "constringit"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 10,
+      "CI": 15
+    },
+    "notes": "Stops flow. restringit fluxum sanguinis = stops blood flow.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_mundificat": {
+    "ref_id": "V_mundificat",
+    "canonical": "mundificat",
+    "gloss_en": "cleanses/purifies",
+    "gloss_fr": "nettoie/purifie",
+    "forms": {
+      "latin": [
+        "mundificat",
+        "mundificet"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 8,
+      "CI": 12
+    },
+    "notes": "Cleanses wounds, skin, organs.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_aperit": {
+    "ref_id": "V_aperit",
+    "canonical": "aperit",
+    "gloss_en": "opens/unblocks",
+    "gloss_fr": "ouvre/debloque",
+    "forms": {
+      "latin": [
+        "aperit",
+        "aperiat"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 10,
+      "CI": 15
+    },
+    "notes": "Opens obstructions. aperit oppilationes = opens blockages.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_laxat": {
+    "ref_id": "V_laxat",
+    "canonical": "laxat",
+    "gloss_en": "loosens/relaxes",
+    "gloss_fr": "relache/laxe",
+    "forms": {
+      "latin": [
+        "laxat",
+        "laxet",
+        "laxativum"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 15,
+      "CI": 20
+    },
+    "notes": "Loosens bowels. Core laxative verb.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_digerit": {
+    "ref_id": "V_digerit",
+    "canonical": "digerit",
+    "gloss_en": "digests/matures",
+    "gloss_fr": "digere/fait murir",
+    "forms": {
+      "latin": [
+        "digerit",
+        "digestiva"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 5,
+      "CI": 10
+    },
+    "notes": "Helps digestion or matures an abscess.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_dissolvit": {
+    "ref_id": "V_dissolvit",
+    "canonical": "dissolvit",
+    "gloss_en": "dissolves/resolves",
+    "gloss_fr": "dissout/resout",
+    "forms": {
+      "latin": [
+        "dissolvit",
+        "dissolvat",
+        "resolvit"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 8,
+      "CI": 10
+    },
+    "notes": "Dissolves humors, swellings.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_calefacit": {
+    "ref_id": "V_calefacit",
+    "canonical": "calefacit",
+    "gloss_en": "warms/heats",
+    "gloss_fr": "rechauffe",
+    "forms": {
+      "latin": [
+        "calefacit",
+        "calefaciat",
+        "calefactum"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 5,
+      "CI": 10
+    },
+    "notes": "Warms a cold organ. Galenic concept.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_infrigidat": {
+    "ref_id": "V_infrigidat",
+    "canonical": "infrigidat",
+    "gloss_en": "cools",
+    "gloss_fr": "refroidit",
+    "forms": {
+      "latin": [
+        "infrigidat",
+        "infrigidet",
+        "refrigerat"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "indication",
+    "frequency": {
+      "AN": 5,
+      "CI": 10
+    },
+    "notes": "Cools a hot organ. Galenic concept.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_serva": {
+    "ref_id": "V_serva",
+    "canonical": "serva",
+    "gloss_en": "store/preserve",
+    "gloss_fr": "conserve/garde",
+    "forms": {
+      "latin": [
+        "serva",
+        "servetur",
+        "reservetur",
+        "conserva",
+        "conservetur"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "conservation",
+    "frequency": {
+      "AN": 15,
+      "CI": 5
+    },
+    "notes": "Store the preparation. usui reservetur = store for use.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "V_dispensare": {
+    "ref_id": "V_dispensare",
+    "canonical": "dispensare",
+    "gloss_en": "dispense/prepare doses",
+    "gloss_fr": "dispense/dose",
+    "forms": {
+      "latin": [
+        "dispensentur",
+        "dispensetur",
+        "dispensare"
+      ]
+    },
+    "pos": "verb_imperative",
+    "category": "administration",
+    "frequency": {
+      "AN": 5
+    },
+    "notes": "Divide into individual doses.",
+    "sources_attested": [
+      "AN"
+    ]
+  },
+  "V_reddere": {
+    "ref_id": "V_reddere",
+    "canonical": "reddere",
+    "gloss_en": "to restore/render",
+    "gloss_fr": "rendre/restituer",
+    "forms": {
+      "latin": [
+        "reddit",
+        "reddere",
+        "reddunt",
+        "reddat",
+        "reddatur"
+      ]
+    }
+  },
+  "V_tollere": {
+    "ref_id": "V_tollere",
+    "canonical": "tollere",
+    "gloss_en": "to remove/relieve",
+    "gloss_fr": "enlever/soulager",
+    "forms": {
+      "latin": [
+        "tollit",
+        "tollere",
+        "tolle",
+        "tollunt",
+        "tollat"
+      ]
+    }
+  },
+  "V_potare": {
+    "ref_id": "V_potare",
+    "canonical": "potare",
+    "gloss_en": "to drink (as medicine)",
+    "gloss_fr": "boire (médicament)",
+    "forms": {
+      "latin": [
+        "potum",
+        "potatur",
+        "potetur",
+        "potatio",
+        "potus"
+      ]
+    }
+  },
+  "V_sumere": {
+    "ref_id": "V_sumere",
+    "canonical": "sumere",
+    "gloss_en": "to take/consume",
+    "gloss_fr": "prendre/consommer",
+    "forms": {
+      "latin": [
+        "sumitur",
+        "sumptum",
+        "sume",
+        "sumptus",
+        "sumatur",
+        "sumere",
+        "sumantur",
+        "sumuntur"
+      ]
+    }
+  },
+  "V_bibere": {
+    "ref_id": "V_bibere",
+    "canonical": "bibere",
+    "gloss_en": "to drink",
+    "gloss_fr": "boire",
+    "forms": {
+      "latin": [
+        "bibas",
+        "bibatur",
+        "bibe",
+        "bibis",
+        "rebibas",
+        "bibitur"
+      ]
+    }
+  },
+  "V_solvere": {
+    "ref_id": "V_solvere",
+    "canonical": "solvere",
+    "gloss_en": "to loosen/dissolve",
+    "gloss_fr": "dissoudre/relâcher",
+    "forms": {
+      "latin": [
+        "solvit",
+        "solvere",
+        "solvitur",
+        "solvat"
+      ]
+    }
+  },
+  "V_curare": {
+    "ref_id": "V_curare",
+    "canonical": "curare",
+    "gloss_en": "to cure/heal",
+    "gloss_fr": "guérir/soigner",
+    "forms": {
+      "latin": [
+        "curat",
+        "curare",
+        "curantur",
+        "curatur",
+        "curas"
+      ]
+    }
+  },
+  "V_confortare": {
+    "ref_id": "V_confortare",
+    "canonical": "confortare",
+    "gloss_en": "to strengthen",
+    "gloss_fr": "fortifier/réconforter",
+    "forms": {
+      "latin": [
+        "confortat",
+        "confortant",
+        "confortare",
+        "confortatur"
+      ]
+    }
+  },
+  "V_comedere": {
+    "ref_id": "V_comedere",
+    "canonical": "comedere",
+    "gloss_en": "to eat",
+    "gloss_fr": "manger",
+    "forms": {
+      "latin": [
+        "comedas",
+        "comedere",
+        "comede",
+        "comedat"
+      ]
+    }
+  },
+  "V_pellere": {
+    "ref_id": "V_pellere",
+    "canonical": "pellere",
+    "gloss_en": "to drive away/expel",
+    "gloss_fr": "chasser/expulser",
+    "forms": {
+      "latin": [
+        "pellit",
+        "depellere",
+        "pellere",
+        "pellat",
+        "repellit"
+      ]
+    }
+  },
+  "V_miscere": {
+    "ref_id": "V_miscere",
+    "canonical": "miscere",
+    "gloss_en": "to mix",
+    "gloss_fr": "mélanger",
+    "forms": {
+      "latin": [
+        "miscere",
+        "misce",
+        "misceto",
+        "misceatur",
+        "commixtio",
+        "miscetur",
+        "miscentur",
+        "misceantur"
+      ]
+    }
+  },
+  "V_mederi": {
+    "ref_id": "V_mederi",
+    "canonical": "mederi",
+    "gloss_en": "to heal/treat",
+    "gloss_fr": "traiter/soigner",
+    "forms": {
+      "latin": [
+        "medetur",
+        "mederi"
+      ]
+    }
+  },
+  "V_purgare": {
+    "ref_id": "V_purgare",
+    "canonical": "purgare",
+    "gloss_en": "to purge/cleanse",
+    "gloss_fr": "purger/nettoyer",
+    "forms": {
+      "latin": [
+        "purgat",
+        "purgare",
+        "purgatur",
+        "purgatque",
+        "purgetur"
+      ]
+    }
+  },
+  "V_sanare": {
+    "ref_id": "V_sanare",
+    "canonical": "sanare",
+    "gloss_en": "to heal",
+    "gloss_fr": "guérir",
+    "forms": {
+      "latin": [
+        "sanat",
+        "sanare",
+        "sanatur"
+      ]
+    }
+  },
+  "V_sicca": {
+    "ref_id": "V_sicca",
+    "canonical": "sicca",
+    "gloss_en": "dry/desiccate",
+    "forms": {
+      "latin": [
+        "sicca",
+        "siccetur",
+        "exiccatur",
+        "exsiccatur",
+        "desiccetur",
+        "siccari"
+      ]
+    }
+  },
+  "V_exprime": {
+    "ref_id": "V_exprime",
+    "canonical": "exprime",
+    "gloss_en": "press out/extract",
+    "forms": {
+      "latin": [
+        "exprime",
+        "exprimitur",
+        "extrahitur",
+        "extrahatur"
+      ]
+    }
+  },
+  "V_facio": {
+    "canonical": "facere",
+    "gloss_en": "to make/prepare",
+    "gloss_fr": "faire/preparer",
+    "forms": {
+      "latin": [
+        "fac",
+        "facit",
+        "facias",
+        "facies",
+        "fieri",
+        "facta",
+        "factum",
+        "facto",
+        "fiant",
+        "faciant",
+        "faciunt",
+        "faciens",
+        "faciendum",
+        "faciendo"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "V_do": {
+    "canonical": "dare",
+    "gloss_en": "to give/administer",
+    "gloss_fr": "donner/administrer",
+    "forms": {
+      "latin": [
+        "dabis",
+        "datur",
+        "data",
+        "datum",
+        "dantur",
+        "dando",
+        "detur",
+        "dent",
+        "demus",
+        "danda",
+        "dandus"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "V_appono": {
+    "canonical": "apponere",
+    "gloss_en": "to apply/place upon",
+    "gloss_fr": "appliquer/apposer",
+    "forms": {
+      "latin": [
+        "apponatur",
+        "appone",
+        "apponere",
+        "apponat",
+        "apponitur",
+        "apponendo",
+        "apposita",
+        "appositum"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "V_sano": {
+    "canonical": "sanare",
+    "gloss_en": "to heal/cure",
+    "gloss_fr": "guerir/soigner",
+    "forms": {
+      "latin": [
+        "sanat",
+        "sanatur",
+        "sanare",
+        "sanando",
+        "sanant",
+        "sanans",
+        "sanata"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "V_lavo": {
+    "canonical": "lavare",
+    "gloss_en": "to wash/cleanse",
+    "gloss_fr": "laver/nettoyer",
+    "forms": {
+      "latin": [
+        "lava",
+        "lavetur",
+        "lavare",
+        "lavando",
+        "lavat",
+        "lavando",
+        "lavata"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "V_bibo": {
+    "canonical": "bibere",
+    "gloss_en": "to drink",
+    "gloss_fr": "boire",
+    "forms": {
+      "latin": [
+        "bibe",
+        "bibat",
+        "bibere",
+        "bibitur",
+        "bibendum",
+        "bibendo",
+        "bibant"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "V_pono": {
+    "canonical": "ponere",
+    "gloss_en": "to place/put",
+    "gloss_fr": "placer/mettre",
+    "forms": {
+      "latin": [
+        "pone",
+        "ponatur",
+        "ponere",
+        "ponat",
+        "ponitur",
+        "ponendo",
+        "posita",
+        "positum"
+      ]
+    },
+    "source": "Enrichissement Phase 3"
+  },
+  "V_generat": {
+    "ref_id": "V_generat",
+    "canonical": "generare",
+    "gloss_en": "generate/produce",
+    "gloss_fr": "generer/produire",
+    "forms": {
+      "latin": [
+        "generat",
+        "generant",
+        "generatur",
+        "generantur",
+        "generet"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "effect",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "V_conferre": {
+    "ref_id": "V_conferre",
+    "canonical": "conferre",
+    "gloss_en": "be beneficial",
+    "gloss_fr": "etre benefique",
+    "forms": {
+      "latin": [
+        "conferens",
+        "confert",
+        "conferunt",
+        "conferens"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "effect",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "V_nocere": {
+    "ref_id": "V_nocere",
+    "canonical": "nocere",
+    "gloss_en": "harm/be harmful",
+    "gloss_fr": "nuire/etre nocif",
+    "forms": {
+      "latin": [
+        "nocet",
+        "nocent",
+        "nocumentum",
+        "nocumento"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "effect",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "V_coquere": {
+    "ref_id": "V_coquere",
+    "canonical": "coquere",
+    "gloss_en": "cook/boil",
+    "gloss_fr": "cuire",
+    "forms": {
+      "latin": [
+        "coquitur",
+        "coquuntur",
+        "coctum",
+        "cocta",
+        "coctus",
+        "cocto",
+        "elixum",
+        "elixa",
+        "elixus",
+        "assatum",
+        "assa",
+        "assum",
+        "assus"
+      ]
+    },
+    "pos": "verb_indicative",
+    "category": "preparation",
+    "sources_attested": [
+      "Tacuinum"
+    ]
+  },
+  "V_minuere": {
+    "ref_id": "V_minuere",
+    "canonical": "minuere",
+    "meaning": "to bleed, diminish (phlebotomy)",
+    "forms": {
+      "latin": [
+        "minuere",
+        "minuat",
+        "minuatur",
+        "minui",
+        "minutio",
+        "minuendum"
+      ]
+    }
+  },
+  "V_significare": {
+    "ref_id": "V_significare",
+    "canonical": "significare",
+    "meaning": "to signify, indicate",
+    "forms": {
+      "latin": [
+        "significare",
+        "significat",
+        "significet",
+        "fignificat",
+        "fignificare"
+      ]
+    }
+  },
+  "V_incidere": {
+    "ref_id": "V_incidere",
+    "canonical": "incidere",
+    "meaning": "to cut, incise (surgery)",
+    "forms": {
+      "latin": [
+        "incidere",
+        "incisio",
+        "incifio",
+        "incidatur",
+        "inciditur"
+      ]
+    }
+  },
+  "V_abstergere": {
+    "ref_id": "V_abstergere",
+    "canonical": "abstergere",
+    "meaning": "to cleanse, wipe off",
+    "forms": {
+      "latin": [
+        "abstergere",
+        "abstergit",
+        "abstergitur",
+        "abstergunt",
+        "abstergendo",
+        "abstersio"
+      ]
+    }
+  },
+  "V_desiccare": {
+    "ref_id": "V_desiccare",
+    "canonical": "desiccare",
+    "meaning": "to dry, desiccate",
+    "forms": {
+      "latin": [
+        "desiccare",
+        "desiccat",
+        "desiccatur",
+        "desiccant",
+        "desiccando",
+        "desiccatio",
+        "desiccatiua"
+      ]
+    }
+  },
+  "V_aggregare": {
+    "ref_id": "V_aggregare",
+    "canonical": "aggregare",
+    "meaning": "to combine, compound",
+    "forms": {
+      "latin": [
+        "aggregare",
+        "aggregentur",
+        "aggregatur",
+        "aggregantur",
+        "aggregatio"
+      ]
+    }
+  },
+  "V_linire": {
+    "ref_id": "V_linire",
+    "canonical": "linire",
+    "meaning": "to anoint, smear",
+    "forms": {
+      "latin": [
+        "linire",
+        "liniatur",
+        "liniantur",
+        "linitur",
+        "liniri"
+      ]
+    }
+  },
+  "V_terere": {
+    "ref_id": "V_terere",
+    "canonical": "terere",
+    "meaning": "to grind, triturate",
+    "forms": {
+      "latin": [
+        "terere",
+        "teritur",
+        "terantur",
+        "teratur",
+        "teruntur",
+        "tritis",
+        "trita"
+      ]
+    }
+  },
+  "V_nasci": {
+    "ref_id": "V_nasci",
+    "canonical": "nasci",
+    "meaning": "to grow, be born",
+    "forms": {
+      "latin": [
+        "nasci",
+        "nascitur",
+        "nascuntur",
+        "nascens",
+        "nata"
+      ]
+    }
+  },
+  "V_auferre": {
+    "ref_id": "V_auferre",
+    "canonical": "auferre",
+    "meaning": "to remove, take away",
+    "forms": {
+      "latin": [
+        "auferre",
+        "aufert",
+        "aufertur",
+        "auferuntur"
+      ]
+    }
+  },
+  "V_laxare": {
+    "ref_id": "V_laxare",
+    "canonical": "laxare",
+    "meaning": "to loosen, purge",
+    "forms": {
+      "latin": [
+        "laxare",
+        "laxat",
+        "laxatur",
+        "laxant",
+        "laxatiuus",
+        "laxatiua"
+      ]
+    }
+  },
+  "V_constringere": {
+    "ref_id": "V_constringere",
+    "canonical": "constringere",
+    "meaning": "to constrict, bind",
+    "forms": {
+      "latin": [
+        "constringere",
+        "constringit",
+        "constringitur",
+        "constringunt",
+        "constrictiua"
+      ]
+    }
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "_meta": {
+    "description": "Medieval pharmaceutical units of measurement and dosage markers",
+    "period": "12th-15th century",
+    "version": "2026-04-11"
+  },
+  "U_libra": {
+    "ref_id": "U_libra",
+    "canonical": "libra",
+    "gloss_en": "pound",
+    "gloss_fr": "livre",
+    "forms": {
+      "latin": [
+        "libra",
+        "libram",
+        "libras",
+        "librae",
+        "librarum",
+        "lib",
+        "li",
+        "lb"
+      ],
+      "abbreviation": [
+        ".lb.",
+        ".li.",
+        "lb.",
+        "lib."
+      ],
+      "old_french": [
+        "livre",
+        "livres"
+      ]
+    },
+    "type": "weight",
+    "weight_grams": 327.0,
+    "subdivisions": "1 libra = 12 unciae",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Grabadin",
+      "Compendium Aromatariorum"
+    ]
+  },
+  "U_uncia": {
+    "ref_id": "U_uncia",
+    "canonical": "uncia",
+    "gloss_en": "ounce",
+    "gloss_fr": "once",
+    "forms": {
+      "latin": [
+        "uncia",
+        "unciam",
+        "uncias",
+        "unciae",
+        "unciarum",
+        "unc"
+      ],
+      "abbreviation": [
+        ".5.",
+        ".unc."
+      ],
+      "old_french": [
+        "once",
+        "onces"
+      ]
+    },
+    "type": "weight",
+    "weight_grams": 27.3,
+    "subdivisions": "1 uncia = 8 drachmae = 24 scrupuli",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Compendium Aromatariorum"
+    ]
+  },
+  "U_drachma": {
+    "ref_id": "U_drachma",
+    "canonical": "drachma",
+    "gloss_en": "drachm",
+    "gloss_fr": "drachme",
+    "forms": {
+      "latin": [
+        "drachma",
+        "drachmam",
+        "drachmas",
+        "drachmae",
+        "dragma",
+        "dragmam"
+      ],
+      "abbreviation": [
+        ".z.",
+        ".3.",
+        "dr.",
+        "z."
+      ],
+      "old_french": [
+        "drame",
+        "drames",
+        "dragme"
+      ]
+    },
+    "type": "weight",
+    "weight_grams": 3.4,
+    "subdivisions": "1 drachma = 3 scrupuli = 60 grana",
+    "notes": "Most common unit in AN. Symbol .z. or .3. in manuscripts.",
+    "sources_attested": [
+      "AN",
+      "CI",
+      "Compendium Aromatariorum"
+    ]
+  },
+  "U_scrupulus": {
+    "ref_id": "U_scrupulus",
+    "canonical": "scrupulus",
+    "gloss_en": "scruple",
+    "gloss_fr": "scrupule",
+    "forms": {
+      "latin": [
+        "scrupulus",
+        "scrupuli",
+        "scrupulum",
+        "scrupulos"
+      ],
+      "abbreviation": [
+        ".9.",
+        "scr."
+      ],
+      "old_french": [
+        "scrupule"
+      ]
+    },
+    "type": "weight",
+    "weight_grams": 1.1,
+    "subdivisions": "1 scrupulus = 20 grana",
+    "sources_attested": [
+      "AN",
+      "Compendium Aromatariorum"
+    ]
+  },
+  "U_granum": {
+    "ref_id": "U_granum",
+    "canonical": "granum",
+    "gloss_en": "grain",
+    "gloss_fr": "grain",
+    "forms": {
+      "latin": [
+        "granum",
+        "grana",
+        "granorum",
+        "gr"
+      ],
+      "abbreviation": [
+        ".gr.",
+        "gr."
+      ]
+    },
+    "type": "weight",
+    "weight_grams": 0.057,
+    "subdivisions": "smallest unit. 20 grana = 1 scrupulus",
+    "sources_attested": [
+      "AN",
+      "Compendium Aromatariorum"
+    ]
+  },
+  "U_manipulus": {
+    "ref_id": "U_manipulus",
+    "canonical": "manipulus",
+    "gloss_en": "handful",
+    "gloss_fr": "poignee/manipule",
+    "forms": {
+      "latin": [
+        "manipulus",
+        "manipulum",
+        "manipuli"
+      ],
+      "abbreviation": [
+        "M."
+      ]
+    },
+    "type": "volume_approx",
+    "notes": "A handful of herbs. Approximate measure.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "U_pugillum": {
+    "ref_id": "U_pugillum",
+    "canonical": "pugillum",
+    "gloss_en": "pinch",
+    "gloss_fr": "pincee",
+    "forms": {
+      "latin": [
+        "pugillum",
+        "pugillus"
+      ]
+    },
+    "type": "volume_approx",
+    "notes": "A pinch (3 fingers). Smaller than manipulus.",
+    "sources_attested": [
+      "CI"
+    ]
+  },
+  "U_cochleare": {
+    "ref_id": "U_cochleare",
+    "canonical": "cochleare",
+    "gloss_en": "spoonful",
+    "gloss_fr": "cuilleree",
+    "forms": {
+      "latin": [
+        "cochleare",
+        "coclearium",
+        "cocleari"
+      ]
+    },
+    "type": "volume_approx",
+    "notes": "A spoonful. Used for liquid doses.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "D_ana": {
+    "ref_id": "D_ana",
+    "canonical": "ana",
+    "gloss_en": "of each / equal parts",
+    "gloss_fr": "de chaque / parts egales",
+    "forms": {
+      "latin": [
+        "ana",
+        "an"
+      ],
+      "abbreviation": [
+        "aa.",
+        "an.",
+        "a."
+      ]
+    },
+    "type": "dose_marker",
+    "notes": "ALL preceding ingredients share the SAME dose. Critical structural marker.",
+    "sources_attested": [
+      "AN (universal)",
+      "CI",
+      "Grabadin"
+    ]
+  },
+  "D_quantum_sufficit": {
+    "ref_id": "D_quantum_sufficit",
+    "canonical": "quantum sufficit",
+    "gloss_en": "as much as needed",
+    "gloss_fr": "autant qu'il suffit",
+    "forms": {
+      "latin": [
+        "quantum sufficit",
+        "quod sufficit",
+        "quod sufflcit",
+        "quod sufficiat"
+      ],
+      "abbreviation": [
+        "q.s.",
+        "qs"
+      ]
+    },
+    "type": "dose_marker",
+    "notes": "Used for the final binding ingredient (mel, aqua). Means 'enough to make it work'.",
+    "sources_attested": [
+      "AN (universal)",
+      "CI"
+    ]
+  },
+  "D_semis": {
+    "ref_id": "D_semis",
+    "canonical": "semis",
+    "gloss_en": "half",
+    "gloss_fr": "demi",
+    "forms": {
+      "latin": [
+        "semis",
+        "semissem",
+        "s",
+        "S"
+      ],
+      "abbreviation": [
+        ".S.",
+        ".8.",
+        "ss."
+      ]
+    },
+    "type": "dose_modifier",
+    "notes": "Half a unit. .3.ii.S. = 2.5 drachmae. Often confused with .8. in OCR.",
+    "sources_attested": [
+      "AN",
+      "CI"
+    ]
+  },
+  "U_dosis": {
+    "ref_id": "U_dosis",
+    "canonical": "dosis",
+    "meaning": "dose",
+    "forms": {
+      "latin": [
+        "dosis",
+        "dosi",
+        "dosim"
+      ]
+    }
+  }
+}

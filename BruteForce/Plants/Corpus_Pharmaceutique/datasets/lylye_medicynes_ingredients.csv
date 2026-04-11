@@ -1,0 +1,716 @@
+Rang,Middle_English,Latin_Equivalent,Nb_Recettes,Pct_Recettes
+1,hony,Mel,59,14.0
+2,mastic,Mastix,49,11.6
+3,liquirice,Glycyrrhiza,45,10.7
+4,sugre,Zuccarum,43,10.2
+5,spicenardi,Nardus,42,10.0
+6,anis,,42,10.0
+7,vinegre,Acetum,38,9.0
+8,uva passe,,38,9.0
+9,aloen,Aloe,37,8.8
+10,olibanum,Olibanum,37,8.8
+11,fenel,Foeniculum,32,7.6
+12,water,Aqua,29,6.9
+13,dragaganti,Tragacanthum,29,6.9
+14,gummi arabic,,28,6.7
+15,sandali,Santalum,26,6.2
+16,mirre,Myrrha,25,5.9
+17,water of rosis,Aqua_rosarum,24,5.7
+18,wex,Cera,24,5.7
+19,floures of borage,Borago,23,5.5
+20,rosis,Rosa,23,5.5
+21,gariofilum,,23,5.5
+22,floures of violet,Viola,22,5.2
+23,absinthium,Absinthium,22,5.2
+24,zinziberis,,22,5.2
+25,cinamome,Cinnamomum,22,5.2
+26,carica,,21,5.0
+27,bdellium,Bdellium,21,5.0
+28,ysope,,21,5.0
+29,agarik,,20,4.8
+30,litarge,Lithargyrum,20,4.8
+31,galle,,20,4.8
+32,sumac,,20,4.8
+33,levys of absinthium,Absinthium,19,4.5
+34,turbith,,19,4.5
+35,oximel squillitik,Mel,19,4.5
+36,fenigrec,Trigonella,18,4.3
+37,oil of rosis,Oleum_rosatum,17,4.0
+38,4 cold sedes,,17,4.0
+39,mel roset,Mel_rosatum,17,4.0
+40,jujube,,17,4.0
+41,pulpe coloquintide,,17,4.0
+42,barlich,,16,3.8
+43,alum,,16,3.8
+44,ruta,,16,3.8
+45,storace calamite,,16,3.8
+46,polipodi,,15,3.6
+47,oil,,15,3.6
+48,yerapigra,,15,3.6
+49,diatrion pipereon,,15,3.6
+50,ambra grisie,,15,3.6
+51,sedes of ruta,,15,3.6
+52,muscatelini,Nux_moschata,14,3.3
+53,spodium,Spodium,14,3.3
+54,sparage,,14,3.3
+55,calamente,Calamintha,14,3.3
+56,lactuca,Lactuca,14,3.3
+57,squinanti,,14,3.3
+58,sugre of rosis,Rosa,14,3.3
+59,nux muscata,,14,3.3
+60,castor,,14,3.3
+61,wyn,,14,3.3
+62,siseleos,,14,3.3
+63,whit vinegre,Acetum,13,3.1
+64,petrosilie,Petroselinum,13,3.1
+65,bruscus,,13,3.1
+66,apium,Apium,13,3.1
+67,epithimi,Epithymum,13,3.1
+68,juse of absinthium,Absinthium,13,3.1
+69,piperis,,13,3.1
+70,triasandali,Santalum,13,3.1
+71,balaustia,,13,3.1
+72,sanguis draconis,,13,3.1
+73,lignum aloes,Aloe,13,3.1
+74,sedes of whit papaver,Papaver,12,2.9
+75,scariol,,12,2.9
+76,womman mylke,Lac_mulieris,12,2.9
+77,rote of fenel,Foeniculum,12,2.9
+78,yerarufini,,12,2.9
+79,lacca,,12,2.9
+80,whit wyn,,12,2.9
+81,eris ust,,12,2.9
+82,crocus,,12,2.9
+83,acacia,,12,2.9
+84,cassiafistula,Cassia_fistula,11,2.6
+85,endive,Endivia,11,2.6
+86,graminis,,11,2.6
+87,levys of mente,,11,2.6
+88,pine,,11,2.6
+89,aristologie,,11,2.6
+90,sarcocolla,Sarcocolla,11,2.6
+91,piperis long,,11,2.6
+92,juse of plantago,,11,2.6
+93,calami aromatici,,11,2.6
+94,camomille,Chamomilla,10,2.4
+95,stronge vinegre,Acetum,10,2.4
+96,sedes of malve,,10,2.4
+97,ceruse lote,Cerusa,10,2.4
+98,coriandre,,10,2.4
+99,euforbia,,10,2.4
+100,bole armoniac,,10,2.4
+101,lapdanum,,10,2.4
+102,opium,Opium,10,2.4
+103,ei yolk,,10,2.4
+104,sedes of linsed,,10,2.4
+105,ydromel,Mel,10,2.4
+106,mirtille,,10,2.4
+107,sticados,,9,2.1
+108,scolopendrie,,9,2.1
+109,fumiterre,Fumaria,9,2.1
+110,gotys whay,,9,2.1
+111,rind of mirabolan indorum,,9,2.1
+112,sedes of endive,Endivia,9,2.1
+113,dragaganti frigidi,Tragacanthum,9,2.1
+114,vitriol,,9,2.1
+115,cost,,9,2.1
+116,sedes of portulaca,Portulaca,9,2.1
+117,diamente,,9,2.1
+118,capilli veneris,,9,2.1
+119,ciperus,,9,2.1
+120,muscilage of psillie,,9,2.1
+121,musco,,9,2.1
+122,malve,,9,2.1
+123,sarcocolla nutrite,Sarcocolla,9,2.1
+124,muscilage of dragaganti,Tragacanthum,9,2.1
+125,mylke,,9,2.1
+126,asarabacca,,9,2.1
+127,portulaca,Portulaca,8,1.9
+128,sedes of scariol,,8,1.9
+129,pistace,,8,1.9
+130,margarite,,8,1.9
+131,cathimia lote,,8,1.9
+132,bismalve,,8,1.9
+133,piretre,,8,1.9
+134,juse of fumiterre,Fumaria,8,1.9
+135,diambra,,8,1.9
+136,levys of sene,Senna,8,1.9
+137,origane,,8,1.9
+138,salvie,Sal,8,1.9
+139,mente,,8,1.9
+140,comin,,8,1.9
+141,yeralogodion,,8,1.9
+142,cubebe,,8,1.9
+143,galbanum,,8,1.9
+144,psidia,,8,1.9
+145,ei whit,Albumen_ovi,7,1.7
+146,eupatorie,,7,1.7
+147,ameos,,7,1.7
+148,reubarbe,,7,1.7
+149,sebesten,,7,1.7
+150,orobus,,7,1.7
+151,ceruse,Cerusa,7,1.7
+152,farina of barlich,,7,1.7
+153,rote of aristologie,,7,1.7
+154,nitrum,,7,1.7
+155,sal armoniac,Sal,7,1.7
+156,celidonie,,7,1.7
+157,diacitoniten,,7,1.7
+158,oil of sisamie,,7,1.7
+159,mellilote,Mel,7,1.7
+160,swynes grece recent,,7,1.7
+161,rote of yreos,,7,1.7
+162,nucis of cipresse,,7,1.7
+163,cacabre,,7,1.7
+164,red rosis,Rosa,6,1.4
+165,wyn of pomegarnettes,,6,1.4
+166,tamarinde,Tamarindus,6,1.4
+167,prune,,6,1.4
+168,mirabolan indorum,,6,1.4
+169,camphor,,6,1.4
+170,cicer,,6,1.4
+171,oil of violet,,6,1.4
+172,sal gemme,Sal,6,1.4
+173,rind of pomegarnettes,,6,1.4
+174,sulfur vive,,6,1.4
+175,hoot water,Aqua,6,1.4
+176,sinapis,,6,1.4
+177,plantago,,6,1.4
+178,genciane,,6,1.4
+179,yreos,,6,1.4
+180,diarodon abbatis,,6,1.4
+181,zedoaria,,6,1.4
+182,lilie,,6,1.4
+183,amidum,,6,1.4
+184,candi penidiarum,,6,1.4
+185,sedes of lactuca,Lactuca,6,1.4
+186,sirup of mirtille,,6,1.4
+187,date,,6,1.4
+188,lentiginis,,5,1.2
+189,rind of mirabolan kebulorum,,5,1.2
+190,lapidis armenici nouies abluti,,5,1.2
+191,esula,,5,1.2
+192,diagridium,Diagridium,5,1.2
+193,juse of borage,Borago,5,1.2
+194,juse of buglosse,,5,1.2
+195,calx vive,,5,1.2
+196,anacardus,,5,1.2
+197,unguentum citrinum,,5,1.2
+198,viridis eris,,5,1.2
+199,juse of portulaca,Portulaca,5,1.2
+200,diapapaver,,5,1.2
+201,acorus,,5,1.2
+202,diacodion,,5,1.2
+203,opoponac,,5,1.2
+204,sal,Sal,5,1.2
+205,asa fetida,,5,1.2
+206,majorane,,5,1.2
+207,almaundes,,5,1.2
+208,sedes of citonie,,5,1.2
+209,cupula glandium,,5,1.2
+210,capilli veneris recent,,5,1.2
+211,floures of nenifar,Nymphaea,4,1.0
+212,whit papaver,Papaver,4,1.0
+213,4 cold sedes major and minor,,4,1.0
+214,nenifar,Nymphaea,4,1.0
+215,spice celtice,,4,1.0
+216,floures of sene,Senna,4,1.0
+217,diasene,Senna,4,1.0
+218,diaborage,Borago,4,1.0
+219,sirup of fumiterre,Fumaria,4,1.0
+220,rote of apium,Apium,4,1.0
+221,oil of camomille,Chamomilla,4,1.0
+222,farina of faba,,4,1.0
+223,juse of apium,Apium,4,1.0
+224,atrament,,4,1.0
+225,tartar,,4,1.0
+226,sirup of acetose,,4,1.0
+227,whit wex,Cera,4,1.0
+228,pamfiligos,,4,1.0
+229,auripigment red,,4,1.0
+230,ungentum fuscum,,4,1.0
+231,agrimonie,,4,1.0
+232,lappacii acuti,,4,1.0
+233,anthos,,4,1.0
+234,millefolii,,4,1.0
+235,sulfur,,4,1.0
+236,ellebore whit,,4,1.0
+237,stercus columbinum,,4,1.0
+238,dianthos cum musco,,4,1.0
+239,tyriaca,,4,1.0
+240,cardamome,,4,1.0
+241,water of fenel,Aqua,4,1.0
+242,vinegre squillitik,Acetum,4,1.0
+243,poli montani,,4,1.0
+244,sedes of pionie,,4,1.0
+245,squille,,4,1.0
+246,serapinum,,4,1.0
+247,caprifolium,,4,1.0
+248,juse of fenel,Foeniculum,4,1.0
+249,coral,,4,1.0
+250,"coral red, whit",,4,1.0
+251,tutie preparate,,4,1.0
+252,terra sigillata,,4,1.0
+253,balsamum,,4,1.0
+254,juse of celidonie,,4,1.0
+255,sileris montani,,4,1.0
+256,eufrasie,,4,1.0
+257,water of barlich,Aqua,4,1.0
+258,oil of laurel,,4,1.0
+259,arsenic,,4,1.0
+260,cassialignea,,4,1.0
+261,citonie,,4,1.0
+262,epatice,,4,1.0
+263,juse of lactuca,Lactuca,3,0.7
+264,cicoree,,3,0.7
+265,borage,Borago,3,0.7
+266,oxisacre,,3,0.7
+267,oximel diuretik,Mel,3,0.7
+268,juse of mente,,3,0.7
+269,swete almaundes,,3,0.7
+270,juse of liquirice,Glycyrrhiza,3,0.7
+271,juse of acetose,,3,0.7
+272,lupine,,3,0.7
+273,juse of cucumeris asinini,,3,0.7
+274,rind of olibanum,Olibanum,3,0.7
+275,faba,,3,0.7
+276,juse of bleta,,3,0.7
+277,ellebore nigrum,,3,0.7
+278,levys of ruta,,3,0.7
+279,levys of olive,,3,0.7
+280,juse of scabiose,,3,0.7
+281,diamargariton,,3,0.7
+282,nasturcium,,3,0.7
+283,macropiperis,,3,0.7
+284,floures of sticados,,3,0.7
+285,stafisagre,,3,0.7
+286,triacle,,3,0.7
+287,unguentum ad scabiem,,3,0.7
+288,oil of notys,,3,0.7
+289,rind of capparis,Capparis,3,0.7
+290,scabiose,,3,0.7
+291,betonice,,3,0.7
+292,verbene,,3,0.7
+293,sirup of nenifar,Nymphaea,3,0.7
+294,centorie,,3,0.7
+295,butere,,3,0.7
+296,potio muscata,,3,0.7
+297,carvi agreste,,3,0.7
+298,cathimia aure,,3,0.7
+299,ceruse ablute,Cerusa,3,0.7
+300,cantaride,,3,0.7
+301,spume maris,,3,0.7
+302,armoniac,,3,0.7
+303,oximel,Mel,3,0.7
+304,medulla vitulli,,3,0.7
+305,levys of cipresse,,3,0.7
+306,psillie,,3,0.7
+307,rote of capparis,Capparis,3,0.7
+308,comin assi,,3,0.7
+309,sirup of rosis,Rosa,3,0.7
+310,ypoquistados,,3,0.7
+311,ris,,3,0.7
+312,carnium citoniorum conditorum cum sugre,Zuccarum,3,0.7
+313,conserve citrangulorum,,3,0.7
+314,carpobalsamum,,3,0.7
+315,mumie,,3,0.7
+316,berberis,,3,0.7
+317,mirabolan assi,,3,0.7
+318,sedes of melon,Mel,3,0.7
+319,camedreos,,3,0.7
+320,rasure eboris,,3,0.7
+321,testiculos vulpis,,3,0.7
+322,cerebellum passerum,,3,0.7
+323,cauda stincorum,,3,0.7
+324,lactuca recent,Lactuca,2,0.5
+325,middel rind of ebulus,,2,0.5
+326,middel rind of sambucus,,2,0.5
+327,fraxini,,2,0.5
+328,germandre,Chamaedrys,2,0.5
+329,capparis,Capparis,2,0.5
+330,rind of mirabolan emblicorum,,2,0.5
+331,fuliginis,,2,0.5
+332,juse of melissa,Mel,2,0.5
+333,juse of pomes swete,,2,0.5
+334,juse of endive,Endivia,2,0.5
+335,floris eris,,2,0.5
+336,antimonie,,2,0.5
+337,cathimia,,2,0.5
+338,marcasite,,2,0.5
+339,olde oil,,2,0.5
+340,"eris ust, ablute",,2,0.5
+341,mirabolan,,2,0.5
+342,juse of lappacii acuti,,2,0.5
+343,cuscute,,2,0.5
+344,anete,,2,0.5
+345,julii,,2,0.5
+346,dianthos,,2,0.5
+347,dianison,,2,0.5
+348,tapsia,,2,0.5
+349,rote of lilie,,2,0.5
+350,cathimia argent,,2,0.5
+351,buglosse,,2,0.5
+352,cucumeris asinini,,2,0.5
+353,argent vive extinct,,2,0.5
+354,pilorum leporis,,2,0.5
+355,pilocelle,,2,0.5
+356,sanamunde,,2,0.5
+357,lingue avis,,2,0.5
+358,fragarie,,2,0.5
+359,terebintine,,2,0.5
+360,kyne mylke,,2,0.5
+361,juse of betonice,,2,0.5
+362,violet,,2,0.5
+363,cipresse,,2,0.5
+364,aurea alexanadrina,,2,0.5
+365,theodoricon,,2,0.5
+366,brothe of cicer,,2,0.5
+367,mirabolan kebulorum,,2,0.5
+368,mirabolan emblicorum,,2,0.5
+369,mirabolan belliricorum,,2,0.5
+370,laurel,,2,0.5
+371,diacameron,,2,0.5
+372,leticia galen,,2,0.5
+373,pliris cum musco,,2,0.5
+374,juse of cucurbite,,2,0.5
+375,diadragagantum,Tragacanthum,2,0.5
+376,cold sedes,,2,0.5
+377,rubee trociscata,,2,0.5
+378,pionie romane,,2,0.5
+379,visci quercini,,2,0.5
+380,floures of sticados arabici,,2,0.5
+381,mente drie,,2,0.5
+382,blatta bizancie,,2,0.5
+383,leonis grece,,2,0.5
+384,mercurial,,2,0.5
+385,raphane,,2,0.5
+386,centorie minor,,2,0.5
+387,gummi ruta agreste,,2,0.5
+388,nux indica,,2,0.5
+389,rote of cucumeris asinini,,2,0.5
+390,bole galle,,2,0.5
+391,fragmentorum scutelle terre viridis,,2,0.5
+392,juse of majorane,,2,0.5
+393,culver blode,,2,0.5
+394,auripigment,,2,0.5
+395,urine of a child,,2,0.5
+396,muscilage of fenigrec,Trigonella,2,0.5
+397,memithe,,2,0.5
+398,ossis cepie,,2,0.5
+399,stercoris lacerte viridis,,2,0.5
+400,ancipiter galle,,2,0.5
+401,saxifragie,,2,0.5
+402,dauci,,2,0.5
+403,carvi,,2,0.5
+404,ferment,,2,0.5
+405,aloen cicotrini,Aloe,2,0.5
+406,conchilia marina alba,,2,0.5
+407,basilicon,,2,0.5
+408,papaver,,2,0.5
+409,rote of coloquintide,,2,0.5
+410,alum assi,,2,0.5
+411,sedes of rosis,Rosa,2,0.5
+412,diayreos,,2,0.5
+413,medulla cervi,,2,0.5
+414,butere sine sal,Sal,2,0.5
+415,serpel,,2,0.5
+416,diaprassium,,2,0.5
+417,piperis nigrum,,2,0.5
+418,sedes of bombac,,2,0.5
+419,sedes of coriandre,,2,0.5
+420,croppes of fenel,Foeniculum,2,0.5
+421,sedes of bruscus,,2,0.5
+422,sedes of sparage,,2,0.5
+423,dokys grece,,2,0.5
+424,new wex,Cera,2,0.5
+425,pitch,,2,0.5
+426,xilobalsamum,,2,0.5
+427,carnium citoniorum,,2,0.5
+428,brede,,2,0.5
+429,nasturcium assi,,2,0.5
+430,juse of virge pastoris,,2,0.5
+431,cepa renum caprarum,,2,0.5
+432,diadragaganti frigidi,Tragacanthum,2,0.5
+433,caul,,2,0.5
+434,pomes,,2,0.5
+435,camepitheos,,2,0.5
+436,sedes of canabis,,2,0.5
+437,oil of almaundes,,2,0.5
+438,frumente,,2,0.5
+439,galline grece,,2,0.5
+440,butere recent,,2,0.5
+441,tribuli marini,,2,0.5
+442,eruca,,2,0.5
+443,oynouns,,2,0.5
+444,priapi tauri,,2,0.5
+445,pomegarnette,,2,0.5
+446,otyn,,2,0.5
+447,sal water,Aqua,2,0.5
+448,ungule caballine,,1,0.2
+449,oil of nenifar,Nymphaea,1,0.2
+450,geneste,,1,0.2
+451,sal commune,Sal,1,0.2
+452,urtica,,1,0.2
+453,rind of mirabolan,,1,0.2
+454,juse of eupatorie,,1,0.2
+455,juse of scariol,,1,0.2
+456,pannorum auri puri,,1,0.2
+457,jacincte,,1,0.2
+458,ossis de corde cervi,,1,0.2
+459,poudre of canna,,1,0.2
+460,poudre of conchilia marina,,1,0.2
+461,juse of morelle,,1,0.2
+462,virge pastoris,,1,0.2
+463,water of muscilage psillie,Aqua,1,0.2
+464,ciner of orobus,,1,0.2
+465,juse of lupine,,1,0.2
+466,"plumbum ust, lote",,1,0.2
+467,argent vive,,1,0.2
+468,farina of ris,,1,0.2
+469,milie,,1,0.2
+470,levys of agnus castus,,1,0.2
+471,aristologie combust,,1,0.2
+472,red wyn,,1,0.2
+473,bran,,1,0.2
+474,auripigment citrine,,1,0.2
+475,ceterac,,1,0.2
+476,rote of ellebore,,1,0.2
+477,rind of mirabolan belliricorum,,1,0.2
+478,electuari de succo rosarum,,1,0.2
+479,oxilaxativum,,1,0.2
+480,poudre of epithimi,Epithymum,1,0.2
+481,agnus castus,,1,0.2
+482,pulegie regale,,1,0.2
+483,draguncia,,1,0.2
+484,calx extinct,,1,0.2
+485,rote of enule campane,,1,0.2
+486,rote of whit ellebore recent,,1,0.2
+487,juse of levys of lilie,,1,0.2
+488,juse of whit papaver,Papaver,1,0.2
+489,capoun grece,,1,0.2
+490,oil of swete almaundes,,1,0.2
+491,tamarisci,,1,0.2
+492,melissa,Mel,1,0.2
+493,juse of raphane,,1,0.2
+494,spatule fetide,,1,0.2
+495,olde grece,,1,0.2
+496,pimpinelle,,1,0.2
+497,centorie major,,1,0.2
+498,consolida major,,1,0.2
+499,consolida media,,1,0.2
+500,consolida minor,,1,0.2
+501,rubee majoris,,1,0.2
+502,red caul,,1,0.2
+503,tansie,,1,0.2
+504,edereterestis,,1,0.2
+505,picis liquide,,1,0.2
+506,juse of centorie major,,1,0.2
+507,juse of verbene,,1,0.2
+508,juse of pomegarnettes,,1,0.2
+509,cold water,Aqua,1,0.2
+510,crocus cum musco,,1,0.2
+511,rind of mirabolan indorum gummosum,,1,0.2
+512,rind of mirabolan belliricorum gummosum,,1,0.2
+513,rind of mirabolan emblicorum gummosum,,1,0.2
+514,rote of ciperus,,1,0.2
+515,water of apium,Aqua,1,0.2
+516,thime,,1,0.2
+517,water of chese,Aqua,1,0.2
+518,lapidis armenici,,1,0.2
+519,lapidis lazuli,,1,0.2
+520,farina of whit papaver,Papaver,1,0.2
+521,coriandre recent,,1,0.2
+522,pionie,,1,0.2
+523,sedes of pionie romane,,1,0.2
+524,sedes of absinthium,Absinthium,1,0.2
+525,mithridatum,,1,0.2
+526,abrotane,,1,0.2
+527,oil of comin,,1,0.2
+528,furfur,,1,0.2
+529,narcissus,,1,0.2
+530,elacterides,,1,0.2
+531,nux romane,,1,0.2
+532,nigella,,1,0.2
+533,ciclamin,,1,0.2
+534,viridis eris ust,,1,0.2
+535,plumbum ust,,1,0.2
+536,levys of agrimonie,,1,0.2
+537,pulpe mirabolan,,1,0.2
+538,water of dragaganti,Aqua,1,0.2
+539,antimonie ablute,,1,0.2
+540,eris ablute,,1,0.2
+541,"antimonie ust, ablute",,1,0.2
+542,"ceruse ust, ablute",Cerusa,1,0.2
+543,"climie ust, ablute",,1,0.2
+544,tutie nutrite,,1,0.2
+545,juse of red papaver,,1,0.2
+546,juse of centorie minor,,1,0.2
+547,juse of lingua passerys,,1,0.2
+548,tutie,,1,0.2
+549,calamine,,1,0.2
+550,cuperose,,1,0.2
+551,urine of a mayde child,,1,0.2
+552,corticis testarum ovorum calcinatarum,,1,0.2
+553,wulturis galle,,1,0.2
+554,limature auri purissimi,,1,0.2
+555,juse of eufrasie,,1,0.2
+556,swynes grece,,1,0.2
+557,water of raphane,Aqua,1,0.2
+558,eufrasie vere montane,,1,0.2
+559,tutie extinct,,1,0.2
+560,aquile galle,,1,0.2
+561,hirci galle,,1,0.2
+562,oil of lilie,,1,0.2
+563,mouse tordys,,1,0.2
+564,bonis of datis ybrend,,1,0.2
+565,swalewys tordys,,1,0.2
+566,farina of volatilis molendini,,1,0.2
+567,granorum pini,,1,0.2
+568,resin of olibanum,Olibanum,1,0.2
+569,oil of scorpiouns,,1,0.2
+570,ley,,1,0.2
+571,juse of leke,,1,0.2
+572,juse of bursa pastoris,,1,0.2
+573,sedes of majorane,,1,0.2
+574,picis navalis,,1,0.2
+575,sirup of papaver,,1,0.2
+576,pomes acetosite,,1,0.2
+577,rote of celsi,,1,0.2
+578,scharpe vinegre,Acetum,1,0.2
+579,mylke of titimalle,,1,0.2
+580,sal assi,Sal,1,0.2
+581,aristologie long,,1,0.2
+582,porcellane,,1,0.2
+583,rote of canna assi,,1,0.2
+584,barlich ust,,1,0.2
+585,sulfur combust,,1,0.2
+586,cornu cervi combust,,1,0.2
+587,sal commune assi,Sal,1,0.2
+588,ellebore,,1,0.2
+589,filtri combusti,,1,0.2
+590,fecis ferri combusti,,1,0.2
+591,juse of olive levys,,1,0.2
+592,swete wyn,,1,0.2
+593,dialtee,,1,0.2
+594,poudre of calamente,Calamintha,1,0.2
+595,sedes of linsed assi,,1,0.2
+596,juse of an olde henne,,1,0.2
+597,gotys talou,,1,0.2
+598,julep,,1,0.2
+599,sedes of sebesten,,1,0.2
+600,sedes of papaver,,1,0.2
+601,diapenidion sine cinamome,Cinnamomum,1,0.2
+602,diaysope,,1,0.2
+603,diacalamente,Calamintha,1,0.2
+604,red wex,Cera,1,0.2
+605,poudre of ysope,,1,0.2
+606,hony dispumati,Mel,1,0.2
+607,oil of mastic,Mastix,1,0.2
+608,croppes of anete,,1,0.2
+609,croppes of camomille,Chamomilla,1,0.2
+610,aristologie rotunde,,1,0.2
+611,storace liquide,,1,0.2
+612,gummi arabic assi,,1,0.2
+613,juse of caul,,1,0.2
+614,rote of bruscus,,1,0.2
+615,rote of malve,,1,0.2
+616,sedes of fenel,Foeniculum,1,0.2
+617,linsed,,1,0.2
+618,culver dunke,,1,0.2
+619,farina of amidum,,1,0.2
+620,diagalanga,Galanga,1,0.2
+621,acetositas citri,,1,0.2
+622,henne grece,,1,0.2
+623,diaciminum,,1,0.2
+624,pulegie,,1,0.2
+625,poudre of mente,,1,0.2
+626,diabuglosse,,1,0.2
+627,trifera sarasenica,,1,0.2
+628,rind of citrus,,1,0.2
+629,carnium citoniorum cum sugre sine,Zuccarum,1,0.2
+630,rosis drie,Rosa,1,0.2
+631,poudre of cacabre,,1,0.2
+632,carte combuste,,1,0.2
+633,alum ust,,1,0.2
+634,diaolibanum,Olibanum,1,0.2
+635,electuari resumptivi,,1,0.2
+636,linsed assi,,1,0.2
+637,sedes of fenigrec,Trigonella,1,0.2
+638,lupuli,,1,0.2
+639,sedes of acetose,,1,0.2
+640,juse of barbe yrcine,,1,0.2
+641,been rubea,,1,0.2
+642,volubilis medie,,1,0.2
+643,oil of ruta,,1,0.2
+644,tele aranee,,1,0.2
+645,glutini piscium,,1,0.2
+646,glutini carpentariorum,,1,0.2
+647,leke,,1,0.2
+648,iusquiamus,,1,0.2
+649,ostraceorum,,1,0.2
+650,medulla maxilla porci,,1,0.2
+651,oil of mirtille,,1,0.2
+652,oil of papaver,,1,0.2
+653,volatilis molendini,,1,0.2
+654,acetose,,1,0.2
+655,juse of sempervive,,1,0.2
+656,juse of epatice,,1,0.2
+657,levys of endive,Endivia,1,0.2
+658,rote of rubee majoris,,1,0.2
+659,sedes of red rosis,Rosa,1,0.2
+660,ortolane recent,,1,0.2
+661,endive agreste,Endivia,1,0.2
+662,scariol agreste,,1,0.2
+663,floures of buglosse,,1,0.2
+664,prassium,,1,0.2
+665,juse of yreos,,1,0.2
+666,sedes of urtica,,1,0.2
+667,ortolane silvestris,,1,0.2
+668,cold sedes major and minor,,1,0.2
+669,sedes of bismalve,,1,0.2
+670,ciner of scorpiouns,,1,0.2
+671,sanguis hirci drie,,1,0.2
+672,ciner of vitis,,1,0.2
+673,ciner of caul,,1,0.2
+674,ciner of leporis,,1,0.2
+675,"cineris aviculae, quae vocatur cauda",,1,0.2
+676,ciner of ei,,1,0.2
+677,lapidis judaicus,,1,0.2
+678,lapidis inventi in felle bovis,,1,0.2
+679,lapidis spongie,,1,0.2
+680,sedes of saxifragie,,1,0.2
+681,rind of cipresse,,1,0.2
+682,oil of bitter almaundes,,1,0.2
+683,scorpiouns,,1,0.2
+684,electuarium ducis,,1,0.2
+685,licontripon,,1,0.2
+686,diaprunis,,1,0.2
+687,cupula glandium assi,,1,0.2
+688,juse of agresta,,1,0.2
+689,levistici,,1,0.2
+690,crete marine,,1,0.2
+691,campestris,,1,0.2
+692,cicer nigrum,,1,0.2
+693,oil of cost,,1,0.2
+694,floures of date,,1,0.2
+695,saturion,,1,0.2
+696,testiculos gallorum,,1,0.2
+697,cerebellum columbinum,,1,0.2
+698,sedes of mercurial,,1,0.2
+699,avellane,,1,0.2
+700,sedes of eruca,,1,0.2
+701,sedes of oynouns,,1,0.2
+702,rapum,,1,0.2
+703,pastinaca,,1,0.2
+704,ram flesche,,1,0.2
+705,levys of whit vyne,,1,0.2
+706,kyne tordys,,1,0.2
+707,bole,,1,0.2
+708,branny brede,,1,0.2
+709,muscilage sedes of citonie,,1,0.2
+710,colde whit wyn,,1,0.2
+711,ei schellys,,1,0.2
+712,water of eufrasie,Aqua,1,0.2
+713,bursa pastoris,,1,0.2
+714,morelle,,1,0.2
+715,diamoron,,1,0.2

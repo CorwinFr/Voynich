@@ -1,0 +1,155 @@
+{
+  "description": "Single-glyph logograms confirmed by bifolio bH1 (f57v/f66r) cross-validation. 9/9 glyphs match, 0 exceptions.",
+  "proof_file": "v12/analysis/BIFOLIO_bH1_SYNTHESE_COMPLETE.md",
+  "confidence_scale": {
+    "CONFIRMED": "bifolio cross-validated, no exceptions",
+    "PROBABLE": "consistent evidence but not fully proven"
+  },
+  "count": 16,
+  "entries": [
+    {
+      "eva": "o",
+      "latin": "ac",
+      "gloss": "and/also",
+      "pos": "conjunction",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1_f57v_f66r",
+      "vms_freq": 234
+    },
+    {
+      "eva": "l",
+      "latin": "se",
+      "gloss": "self/itself",
+      "pos": "pronoun",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 194
+    },
+    {
+      "eva": "d",
+      "latin": "de",
+      "gloss": "of/from",
+      "pos": "preposition",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 77
+    },
+    {
+      "eva": "r",
+      "latin": "recipe",
+      "gloss": "take/prepare",
+      "pos": "verb_imperative",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 175
+    },
+    {
+      "eva": "v",
+      "latin": "vel",
+      "gloss": "or",
+      "pos": "conjunction",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 7
+    },
+    {
+      "eva": "x",
+      "latin": "crux",
+      "gloss": "cross/mark",
+      "pos": "noun_marker",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 11
+    },
+    {
+      "eva": "k",
+      "latin": "cum",
+      "gloss": "with",
+      "pos": "preposition",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 19
+    },
+    {
+      "eva": "m",
+      "latin": "misce",
+      "gloss": "mix",
+      "pos": "verb_imperative",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 15
+    },
+    {
+      "eva": "f",
+      "latin": "per",
+      "gloss": "through/by",
+      "pos": "preposition",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 11
+    },
+    {
+      "eva": "t",
+      "latin": "el",
+      "gloss": "the(?)",
+      "pos": "article_uncertain",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 17
+    },
+    {
+      "eva": "y",
+      "latin": "in",
+      "gloss": "in/into",
+      "pos": "preposition",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 486
+    },
+    {
+      "eva": "c",
+      "latin": "cum",
+      "gloss": "with",
+      "pos": "preposition",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 68
+    },
+    {
+      "eva": "s",
+      "latin": "est",
+      "gloss": "is",
+      "pos": "copula",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 353
+    },
+    {
+      "eva": "sh",
+      "latin": "ci",
+      "gloss": "here",
+      "pos": "adverb",
+      "confidence": "CONFIRMED",
+      "source": "bifolio_bH1",
+      "vms_freq": 30
+    },
+    {
+      "eva": "p",
+      "latin": "usque",
+      "gloss": "until",
+      "pos": "preposition",
+      "confidence": "PROBABLE",
+      "source": "bifolio_bH1",
+      "vms_freq": 7
+    },
+    {
+      "eva": "air",
+      "latin": "aier",
+      "gloss": "air",
+      "pos": "noun",
+      "confidence": "CONFIRMED",
+      "source": "f66r_cross_validation",
+      "vms_freq": 81
+    }
+  ]
+}

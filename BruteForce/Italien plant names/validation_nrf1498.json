@@ -1,0 +1,1228 @@
+{
+  "validation_source": "Nuovo Ricettario Fiorentino (1498), ed. Fittipaldi 2011",
+  "description": "Cross-validation of nomenclator against official Florentine pharmacopoeia",
+  "nrf_total_names": 400,
+  "nomenclator_total": 4466,
+  "coverage": {
+    "direct_matches": 82,
+    "mapped_matches": 41,
+    "partial_matches": 108,
+    "not_found": 169,
+    "total_found": 231,
+    "coverage_pct": 57.8
+  },
+  "vms_validation": {
+    "vms_plants_in_both": 37,
+    "vms_plants_total": 46
+  },
+  "direct_matches": [
+    {
+      "nrf": "abezzo",
+      "nomenclator": "abezzo",
+      "latin": [
+        "PINUS Abies"
+      ]
+    },
+    {
+      "nrf": "acetosella",
+      "nomenclator": "acetosella",
+      "latin": [
+        "OXALIS Acetosella",
+        "OXALIS corniculata"
+      ]
+    },
+    {
+      "nrf": "agresto",
+      "nomenclator": "agresto",
+      "latin": [
+        "VITIS viniferae , fructus immaturo*"
+      ]
+    },
+    {
+      "nrf": "alloro",
+      "nomenclator": "alloro",
+      "latin": [
+        "LAURUS nobilis"
+      ]
+    },
+    {
+      "nrf": "aloe",
+      "nomenclator": "aloe",
+      "latin": [
+        "AGALLOCHUM officinarum"
+      ]
+    },
+    {
+      "nrf": "amomo",
+      "nomenclator": "amomo",
+      "latin": [
+        "AMOMUM ■ Cardamomum"
+      ]
+    },
+    {
+      "nrf": "appio",
+      "nomenclator": "appio",
+      "latin": [
+        "APIUM gravcolcns «"
+      ]
+    },
+    {
+      "nrf": "arcipresso",
+      "nomenclator": "arcipresso",
+      "latin": [
+        "CUPRESSUS sempervirens. a. pyramidalis"
+      ]
+    },
+    {
+      "nrf": "bassilico minore",
+      "nomenclator": "bassilico minore",
+      "latin": [
+        "NYWPHAEA minimum"
+      ]
+    },
+    {
+      "nrf": "been rosso",
+      "nomenclator": "been rosso",
+      "latin": [
+        "STATICE Limonium"
+      ]
+    },
+    {
+      "nrf": "berbena",
+      "nomenclator": "berbena",
+      "latin": [
+        "VERBENA officinalis"
+      ]
+    },
+    {
+      "nrf": "berberi",
+      "nomenclator": "berberi",
+      "latin": [
+        "EELLIS BERBiÀRIS vulgaris"
+      ]
+    },
+    {
+      "nrf": "brionia",
+      "nomenclator": "brionia",
+      "latin": [
+        "BRYONIA alba. Btyonia dioica"
+      ]
+    },
+    {
+      "nrf": "buglossa",
+      "nomenclator": "buglossa",
+      "latin": [
+        "ANCHUSA italica . Pers, Anchusa officinali . L"
+      ]
+    },
+    {
+      "nrf": "calamento",
+      "nomenclator": "calamento",
+      "latin": [
+        "MELISSA Calamintha"
+      ]
+    },
+    {
+      "nrf": "camomilla",
+      "nomenclator": "camomilla",
+      "latin": [
+        "MATRICARIA chamomilla",
+        "ANTHEMIS nobilis"
+      ]
+    },
+    {
+      "nrf": "cannella",
+      "nomenclator": "cannella",
+      "latin": [
+        "CANELLA alba",
+        "LAURUS Cinnamomum"
+      ]
+    },
+    {
+      "nrf": "capelvenere",
+      "nomenclator": "capelvenere",
+      "latin": [
+        "ADIANTHUM Capillus veneris"
+      ]
+    },
+    {
+      "nrf": "cardamomo",
+      "nomenclator": "cardamomo",
+      "latin": [
+        "AMOMUM ■ Cardamomum"
+      ]
+    },
+    {
+      "nrf": "carote",
+      "nomenclator": "carote",
+      "latin": []
+    },
+    {
+      "nrf": "cassia lignea",
+      "nomenclator": "cassia lignea",
+      "latin": [
+        "LAURUS Cassia"
+      ]
+    },
+    {
+      "nrf": "cataputia",
+      "nomenclator": "cataputia",
+      "latin": []
+    },
+    {
+      "nrf": "cavolo",
+      "nomenclator": "cavolo",
+      "latin": [
+        "BRASSICA - oleracea, Botrytis cy-nosa"
+      ]
+    },
+    {
+      "nrf": "celidonia",
+      "nomenclator": "celidonia",
+      "latin": [
+        "CHELIDONIUM majus"
+      ]
+    },
+    {
+      "nrf": "centaurea",
+      "nomenclator": "centaurea",
+      "latin": [
+        "CENTAURIUM erythraea"
+      ]
+    },
+    {
+      "nrf": "centaurea minore",
+      "nomenclator": "centaurea minore",
+      "latin": [
+        "MOGORIUM Mugherino . Mugherino scempio"
+      ]
+    },
+    {
+      "nrf": "centonchio",
+      "nomenclator": "centonchio",
+      "latin": [
+        "ALPINIA A’LSINE media"
+      ]
+    },
+    {
+      "nrf": "cicuta",
+      "nomenclator": "cicuta",
+      "latin": [
+        "CUPRESSUS sempervirens. a. pyramidalis"
+      ]
+    },
+    {
+      "nrf": "cimbalaria",
+      "nomenclator": "cimbalaria",
+      "latin": [
+        "ANTIRRHINUM Cymbala ria"
+      ]
+    },
+    {
+      "nrf": "consolida",
+      "nomenclator": "consolida",
+      "latin": [
+        "CIBO 42 CONSOLIDA",
+        "DAUCUS |"
+      ]
+    },
+    {
+      "nrf": "coriandro",
+      "nomenclator": "coriandro",
+      "latin": [
+        "VITIS Lonza",
+        "CORIANDRUM sativum"
+      ]
+    },
+    {
+      "nrf": "costo",
+      "nomenclator": "costo",
+      "latin": [
+        "COSTUS arabicus.L. Costus speciosus"
+      ]
+    },
+    {
+      "nrf": "cubebe",
+      "nomenclator": "cubebe",
+      "latin": [
+        "PIPER Cubeba"
+      ]
+    },
+    {
+      "nrf": "elleboro nero",
+      "nomenclator": "elleboro nero",
+      "latin": [
+        "HELLEBORUS niger"
+      ]
+    },
+    {
+      "nrf": "enula",
+      "nomenclator": "enula",
+      "latin": [
+        "INULA helenium"
+      ]
+    },
+    {
+      "nrf": "esula",
+      "nomenclator": "esula",
+      "latin": [
+        "EUPHORBIA Erba cipressina . Erba di Gabbreto . Erba lattona . Erba rogna . Rogna di muro . Titimalo ciparissio"
+      ]
+    },
+    {
+      "nrf": "eufragia",
+      "nomenclator": "eufragia",
+      "latin": [
+        "EUPHRASIA officinali",
+        "EUPHRASIA officinalis"
+      ]
+    },
+    {
+      "nrf": "eupatorio",
+      "nomenclator": "eupatorio",
+      "latin": [
+        "EUPATORIUM cannabinum"
+      ]
+    },
+    {
+      "nrf": "finocchio",
+      "nomenclator": "finocchio",
+      "latin": [
+        "PHELLANDRIUM ?4 curri"
+      ]
+    },
+    {
+      "nrf": "galbano",
+      "nomenclator": "galbano",
+      "latin": [
+        "BUBON Galbanum",
+        "FERULA galbanifera v"
+      ]
+    },
+    {
+      "nrf": "ginepro",
+      "nomenclator": "ginepro",
+      "latin": [
+        "JUNIPERUS communis"
+      ]
+    },
+    {
+      "nrf": "ginestra",
+      "nomenclator": "ginestra",
+      "latin": [
+        "SPARTIUM junceum"
+      ]
+    },
+    {
+      "nrf": "grano",
+      "nomenclator": "grano",
+      "latin": [
+        "TRITICUM aestivum , ariti divaricati"
+      ]
+    },
+    {
+      "nrf": "incenso",
+      "nomenclator": "incenso",
+      "latin": [
+        "BOSWELLIA sacra"
+      ]
+    },
+    {
+      "nrf": "laureola",
+      "nomenclator": "laureola",
+      "latin": [
+        "DAPHNE Chatnelea. Cocco gnidio . Pepe montano . divella"
+      ]
+    },
+    {
+      "nrf": "lino",
+      "nomenclator": "lino",
+      "latin": [
+        "LINUM usitatissimum"
+      ]
+    },
+    {
+      "nrf": "malva",
+      "nomenclator": "malva",
+      "latin": [
+        "IVT AGNOLI parviflora",
+        "IVT AGNOLI rottindifolia"
+      ]
+    },
+    {
+      "nrf": "mandragora",
+      "nomenclator": "mandragora",
+      "latin": [
+        "DOR YCNIUM DR AC \\ENA Di aco"
+      ]
+    },
+    {
+      "nrf": "manna",
+      "nomenclator": "manna",
+      "latin": [
+        "FRAXINI Orni. L. Succus saecharinus",
+        "ORNI Succus saccharatus"
+      ]
+    },
+    {
+      "nrf": "melissa",
+      "nomenclator": "melissa",
+      "latin": [
+        "MELISSA officinalis"
+      ]
+    },
+    {
+      "nrf": "menta",
+      "nomenclator": "menta",
+      "latin": [
+        "MENTHA gentilis"
+      ]
+    },
+    {
+      "nrf": "miglio",
+      "nomenclator": "miglio",
+      "latin": []
+    },
+    {
+      "nrf": "millefolium",
+      "nomenclator": "millefolium",
+      "latin": [
+        "ACHILLAEA Millefoglie"
+      ]
+    },
+    {
+      "nrf": "mirabolani citrini",
+      "nomenclator": "mirabolani citrini",
+      "latin": [
+        "MYRISTICAE Chebula . Mirabolani chebuli . Mi robalani chebuli"
+      ]
+    },
+    {
+      "nrf": "mirabolani indi",
+      "nomenclator": "mirabolani indi",
+      "latin": [
+        "MYRISTICAE indica"
+      ]
+    },
+    {
+      "nrf": "myrrha",
+      "nomenclator": "myrrha",
+      "latin": []
+    },
+    {
+      "nrf": "olivo",
+      "nomenclator": "olivo",
+      "latin": [
+        "OLE A europaea"
+      ]
+    },
+    {
+      "nrf": "olmo",
+      "nomenclator": "olmo",
+      "latin": [
+        "ULMLJS campestris"
+      ]
+    },
+    {
+      "nrf": "oppio",
+      "nomenclator": "oppio",
+      "latin": [
+        "PAPAVER somniferum, latex"
+      ]
+    },
+    {
+      "nrf": "pece nera",
+      "nomenclator": "pece nera",
+      "latin": [
+        "PINI sylvestris , resina fumoj conspurcata"
+      ]
+    },
+    {
+      "nrf": "pepe nero",
+      "nomenclator": "pepe nero",
+      "latin": [
+        "PIPER nigrum"
+      ]
+    },
+    {
+      "nrf": "perforata",
+      "nomenclator": "perforata",
+      "latin": [
+        "HYPERICUM perforata"
+      ]
+    },
+    {
+      "nrf": "peucedano",
+      "nomenclator": "peucedano",
+      "latin": []
+    },
+    {
+      "nrf": "pimpinella",
+      "nomenclator": "pimpinella",
+      "latin": [
+        "PIMPINELLA saxifraga"
+      ]
+    },
+    {
+      "nrf": "polio montano",
+      "nomenclator": "polio montano",
+      "latin": [
+        "TEUCRIUM »- Polium"
+      ]
+    },
+    {
+      "nrf": "porcellana",
+      "nomenclator": "porcellana",
+      "latin": [
+        "IBERIS sempervirens",
+        "IBERIS sempevflorens"
+      ]
+    },
+    {
+      "nrf": "prezzemolo",
+      "nomenclator": "prezzemolo",
+      "latin": [
+        "APIUM Petroselinum"
+      ]
+    },
+    {
+      "nrf": "rafano",
+      "nomenclator": "rafano",
+      "latin": [
+        "RAPHANUS sativus"
+      ]
+    },
+    {
+      "nrf": "ramerino",
+      "nomenclator": "ramerino",
+      "latin": [
+        "ROSMARINUS officinalis"
+      ]
+    },
+    {
+      "nrf": "rapa salvatica",
+      "nomenclator": "rapa salvatica",
+      "latin": [
+        "BRASSTCA campestri»",
+        "ERYSIMUM officinale"
+      ]
+    },
+    {
+      "nrf": "ruta",
+      "nomenclator": "ruta",
+      "latin": [
+        "RUTA graveolens"
+      ]
+    },
+    {
+      "nrf": "salcio",
+      "nomenclator": "salcio",
+      "latin": [
+        "SALIX alba"
+      ]
+    },
+    {
+      "nrf": "salvia",
+      "nomenclator": "salvia",
+      "latin": [
+        "SALVIA officinalis"
+      ]
+    },
+    {
+      "nrf": "sandaracha",
+      "nomenclator": "sandaracha",
+      "latin": [
+        "PRUNI S. Gemignano"
+      ]
+    },
+    {
+      "nrf": "savina",
+      "nomenclator": "savina",
+      "latin": [
+        "JUNIPERUS sabina"
+      ]
+    },
+    {
+      "nrf": "sebesten",
+      "nomenclator": "sebesten",
+      "latin": [
+        "CORÒIA Mixa"
+      ]
+    },
+    {
+      "nrf": "spelta",
+      "nomenclator": "spelta",
+      "latin": [
+        "TRITICUM Grano"
+      ]
+    },
+    {
+      "nrf": "spica",
+      "nomenclator": "spica",
+      "latin": [
+        "LAVANDULA Nardo italiano.Spigo Nardo"
+      ]
+    },
+    {
+      "nrf": "spinaci",
+      "nomenclator": "spinaci",
+      "latin": [
+        "SPINACI A oleracea"
+      ]
+    },
+    {
+      "nrf": "valeriana",
+      "nomenclator": "valeriana",
+      "latin": []
+    },
+    {
+      "nrf": "verzino",
+      "nomenclator": "verzino",
+      "latin": [
+        "CAESALPINIA brasiliensis"
+      ]
+    },
+    {
+      "nrf": "vitalba",
+      "nomenclator": "vitalba",
+      "latin": [
+        "CLEMATIS Fiammola . Fiammola . Flamula . Vitalbino . •"
+      ]
+    }
+  ],
+  "mapped_matches": [
+    {
+      "nrf": "achori",
+      "modern": "acoro",
+      "latin": [
+        "ACORUS Calamus"
+      ]
+    },
+    {
+      "nrf": "alscebram",
+      "modern": "esula",
+      "latin": [
+        "EUPHORBIA Erba cipressina . Erba di Gabbreto . Erba lattona . Erba rogna . Rogna di muro . Titimalo ciparissio"
+      ]
+    },
+    {
+      "nrf": "aristologia",
+      "modern": "aristolochia",
+      "latin": [
+        "ARISTOLOCHIA Clematitis"
+      ]
+    },
+    {
+      "nrf": "arthemisia",
+      "modern": "artemisia",
+      "latin": [
+        "ARTEMISIA vulgaris"
+      ]
+    },
+    {
+      "nrf": "assentio",
+      "modern": "assenzio",
+      "latin": [
+        "ARTEMISIA absinthium"
+      ]
+    },
+    {
+      "nrf": "bassilico",
+      "modern": "basilico",
+      "latin": [
+        "NYWPHAEA OcYWUW Basilicum"
+      ]
+    },
+    {
+      "nrf": "been biancho",
+      "modern": "been bianco",
+      "latin": [
+        "CUCUBALUS Behen"
+      ]
+    },
+    {
+      "nrf": "borrana",
+      "modern": "borragine",
+      "latin": [
+        "BORAGO officinali"
+      ]
+    },
+    {
+      "nrf": "chamomilla",
+      "modern": "camomilla",
+      "latin": [
+        "MATRICARIA chamomilla",
+        "ANTHEMIS nobilis"
+      ]
+    },
+    {
+      "nrf": "chanfora",
+      "modern": "canfora",
+      "latin": [
+        "LAURUS Camphora"
+      ]
+    },
+    {
+      "nrf": "eleboro",
+      "modern": "elleboro",
+      "latin": [
+        "HELLEBORUS niger",
+        "HELLEBORUS viridi*"
+      ]
+    },
+    {
+      "nrf": "elleboro biancho",
+      "modern": "elleboro",
+      "latin": [
+        "HELLEBORUS niger",
+        "HELLEBORUS viridi*"
+      ]
+    },
+    {
+      "nrf": "epathica",
+      "modern": "epatica",
+      "latin": [
+        "IVT AGNOLI Hepatica . Pera"
+      ]
+    },
+    {
+      "nrf": "epaticha",
+      "modern": "epatica",
+      "latin": [
+        "IVT AGNOLI Hepatica . Pera"
+      ]
+    },
+    {
+      "nrf": "epithamo",
+      "modern": "epitimo",
+      "latin": [
+        "CUSCUTA Gotta del lino. Grinca . Lino di lepre. Lino g neutri- no . Melata linajola. Tarpana . Traccapello"
+      ]
+    },
+    {
+      "nrf": "galingha",
+      "modern": "galanga",
+      "latin": [
+        "ALPINIA Galanga"
+      ]
+    },
+    {
+      "nrf": "gentiana",
+      "modern": "genziana",
+      "latin": [
+        "GENTIANA lutea"
+      ]
+    },
+    {
+      "nrf": "gherofani",
+      "modern": "garofano",
+      "latin": [
+        "CARPTNUS C AR YOPHY'LLUS aromaticus",
+        "EUGENIA caryophyllata . w"
+      ]
+    },
+    {
+      "nrf": "hisopo",
+      "modern": "issopo",
+      "latin": [
+        "HYSSOPUS olEcinalis",
+        "HYSSOPUS officinalis"
+      ]
+    },
+    {
+      "nrf": "hysopo",
+      "modern": "issopo",
+      "latin": [
+        "HYSSOPUS olEcinalis",
+        "HYSSOPUS officinalis"
+      ]
+    },
+    {
+      "nrf": "iusquiamo",
+      "modern": "giusquiamo",
+      "latin": [
+        "HYOSCIAMUS albus"
+      ]
+    },
+    {
+      "nrf": "lactugha",
+      "modern": "lattuga",
+      "latin": [
+        "KOELREUTERIA -jLaCTUCA sativa"
+      ]
+    },
+    {
+      "nrf": "lattugha",
+      "modern": "lattuga",
+      "latin": [
+        "KOELREUTERIA -jLaCTUCA sativa"
+      ]
+    },
+    {
+      "nrf": "lentischo",
+      "modern": "lentisco",
+      "latin": [
+        "PESTACI A Lentiscus"
+      ]
+    },
+    {
+      "nrf": "mandraghora",
+      "modern": "mandragora",
+      "latin": [
+        "DOR YCNIUM DR AC \\ENA Di aco"
+      ]
+    },
+    {
+      "nrf": "marrobbio",
+      "modern": "marrubio",
+      "latin": [
+        "MARRUBIUM vulgare"
+      ]
+    },
+    {
+      "nrf": "matrichale",
+      "modern": "matricale",
+      "latin": [
+        "STACHYS sylvatica"
+      ]
+    },
+    {
+      "nrf": "orighamo",
+      "modern": "origano",
+      "latin": [
+        "ORIGANUM vulgare"
+      ]
+    },
+    {
+      "nrf": "orticha",
+      "modern": "ortica",
+      "latin": [
+        "URTICA dioica"
+      ]
+    },
+    {
+      "nrf": "pepe biancho",
+      "modern": "pepe",
+      "latin": [
+        "PIPER nigrum"
+      ]
+    },
+    {
+      "nrf": "pepe lungho",
+      "modern": "pepe lungo",
+      "latin": [
+        "PIPER longum"
+      ]
+    },
+    {
+      "nrf": "piantagine",
+      "modern": "piantaggine",
+      "latin": [
+        "PLANTAGO Cinquenervi. Lanciòla. Lancinola. Lingua canina . Pe- tacciola . Piantaggine. Piantaggine minore . Piantaggi- ne lunga . major"
+      ]
+    },
+    {
+      "nrf": "reubarbero",
+      "modern": "rabarbaro",
+      "latin": [
+        "RHEUM palmatum"
+      ]
+    },
+    {
+      "nrf": "sambucho",
+      "modern": "sambuco",
+      "latin": [
+        "SAMBUCUS nigra"
+      ]
+    },
+    {
+      "nrf": "sanctoreggia",
+      "modern": "santoreggia",
+      "latin": [
+        "SATUREIA montana",
+        "SATUREJA hortensis"
+      ]
+    },
+    {
+      "nrf": "schariola",
+      "modern": "scariola",
+      "latin": [
+        "KOELREUTERIA Lattuca romana . Lattuga lunga. Lattuga romana, Lattugona"
+      ]
+    },
+    {
+      "nrf": "senapa",
+      "modern": "senape",
+      "latin": [
+        "SINAPIS alba"
+      ]
+    },
+    {
+      "nrf": "thymo",
+      "modern": "timo",
+      "latin": [
+        "THYMUS vulgaris"
+      ]
+    },
+    {
+      "nrf": "valeriana maggiore",
+      "modern": "valeriana",
+      "latin": []
+    },
+    {
+      "nrf": "valeriana minore",
+      "modern": "valeriana",
+      "latin": []
+    },
+    {
+      "nrf": "ysopo",
+      "modern": "issopo",
+      "latin": [
+        "HYSSOPUS olEcinalis",
+        "HYSSOPUS officinalis"
+      ]
+    }
+  ],
+  "not_found": [
+    "agarigho",
+    "agharigo",
+    "agniocasto",
+    "agnocasto",
+    "agrimonia",
+    "alchengi",
+    "ameos",
+    "aneto",
+    "anici",
+    "aquilea",
+    "aristologia lungha",
+    "aristologia rotonda",
+    "armoniacho",
+    "armoniaco",
+    "bacchera",
+    "balausti",
+    "balaustie",
+    "bedeguar",
+    "betthonica",
+    "bietole",
+    "bruotino",
+    "brusci",
+    "bursa pastoris",
+    "calchatreppe",
+    "camedreos",
+    "capperi",
+    "carlina",
+    "cauda equina",
+    "cavoli",
+    "cederni",
+    "cederno",
+    "cedranghole",
+    "cedrioli",
+    "ceteraccha",
+    "cetriuoli",
+    "chalamo aromaticho",
+    "chamedreos",
+    "charabe",
+    "chartamo",
+    "chochomeri asinini",
+    "chochomero asinino",
+    "ciclame",
+    "cime di pruni neri",
+    "cipolla squilla",
+    "cipperi",
+    "ciriegio amareno",
+    "cocchole di mortine",
+    "cochomeri",
+    "colla di pesce",
+    "colla nera",
+    "coloquintida",
+    "comino",
+    "correggiuola",
+    "curiandoli",
+    "cuschote",
+    "dacteri",
+    "dauci",
+    "draghanti",
+    "electerio",
+    "ermodactili",
+    "exula",
+    "fagiuoli",
+    "felcie",
+    "fichi secchi",
+    "fien grecho",
+    "fien greco",
+    "filopendula",
+    "finocchino salvatico",
+    "fumosterno",
+    "gengiovo",
+    "ghariofilata",
+    "ghiaggiuolo",
+    "gigli bianchi",
+    "gigli celesti",
+    "gigli rossi",
+    "gramignia",
+    "herbiva",
+    "hermodactili",
+    "invidia",
+    "kartamo",
+    "laudano",
+    "levisticho",
+    "levistico",
+    "lupini",
+    "luppoli",
+    "madreselva",
+    "maiorana",
+    "marchorella",
+    "mastice",
+    "mele cotognie",
+    "melliloto",
+    "melloni",
+    "mezereon",
+    "miglialsole",
+    "millefoglie",
+    "mochi",
+    "morthine",
+    "nasturcio",
+    "nocciuole",
+    "noce moschade",
+    "oppoponacho",
+    "oppoponaco",
+    "orochicho",
+    "oximo",
+    "pan porcino",
+    "pan terreno",
+    "pania",
+    "papaveri",
+    "papaveri bianchi",
+    "pastinache",
+    "pastricciani",
+    "pece grecha",
+    "pentafilon",
+    "peonia",
+    "persa",
+    "petacciuola",
+    "pie colombino",
+    "pie corvino",
+    "pinnocchi",
+    "piretro",
+    "poponi",
+    "psilio",
+    "regolitia",
+    "reuponthicho",
+    "reuponticho",
+    "robiglie",
+    "rose bianche",
+    "rose inbalchonate",
+    "rose rosse",
+    "rosolarii",
+    "saldanella",
+    "sassefrica",
+    "saxefricha",
+    "scabiosa",
+    "schamonea",
+    "scholopendria",
+    "septerionne",
+    "serapino",
+    "sopravivo",
+    "sorbe",
+    "sparagi",
+    "spigha aromaticha",
+    "spigha celticha",
+    "squilla",
+    "squinanti",
+    "stichados",
+    "sumach",
+    "sumache",
+    "susine damascene",
+    "tamerigia",
+    "tamerindi",
+    "thamerindi",
+    "tormentilla",
+    "tre foglie",
+    "trementina",
+    "turbitti",
+    "ulive",
+    "usnee",
+    "uve di corantho",
+    "uve passule",
+    "vermiculare",
+    "vernice",
+    "vino di mele cotognie",
+    "viole gialle",
+    "viole mammole",
+    "vitriuola",
+    "yppoquistidos",
+    "yreos",
+    "yringi"
+  ],
+  "potential_additions": [
+    "agarigho",
+    "agharigo",
+    "agniocasto",
+    "agnocasto",
+    "agrimonia",
+    "alchengi",
+    "ameos",
+    "aneto",
+    "anici",
+    "aquilea",
+    "aristologia lungha",
+    "aristologia rotonda",
+    "armoniacho",
+    "armoniaco",
+    "bacchera",
+    "balausti",
+    "balaustie",
+    "bedeguar",
+    "betthonica",
+    "bietole",
+    "bruotino",
+    "brusci",
+    "bursa pastoris",
+    "calchatreppe",
+    "camedreos",
+    "capperi",
+    "carlina",
+    "cauda equina",
+    "cavoli",
+    "cederni",
+    "cederno",
+    "cedranghole",
+    "cedrioli",
+    "ceteraccha",
+    "cetriuoli",
+    "chalamo aromaticho",
+    "chamedreos",
+    "charabe",
+    "chartamo",
+    "chochomeri asinini",
+    "chochomero asinino",
+    "ciclame",
+    "cime di pruni neri",
+    "cipolla squilla",
+    "cipperi",
+    "ciriegio amareno",
+    "cocchole di mortine",
+    "cochomeri",
+    "colla di pesce",
+    "colla nera",
+    "coloquintida",
+    "comino",
+    "correggiuola",
+    "curiandoli",
+    "cuschote",
+    "dacteri",
+    "dauci",
+    "draghanti",
+    "electerio",
+    "ermodactili",
+    "exula",
+    "fagiuoli",
+    "felcie",
+    "fichi secchi",
+    "fien grecho",
+    "fien greco",
+    "filopendula",
+    "finocchino salvatico",
+    "fumosterno",
+    "gengiovo",
+    "ghariofilata",
+    "ghiaggiuolo",
+    "gigli bianchi",
+    "gigli celesti",
+    "gigli rossi",
+    "gramignia",
+    "herbiva",
+    "hermodactili",
+    "invidia",
+    "kartamo",
+    "laudano",
+    "levisticho",
+    "levistico",
+    "lupini",
+    "luppoli",
+    "madreselva",
+    "maiorana",
+    "marchorella",
+    "mastice",
+    "mele cotognie",
+    "melliloto",
+    "melloni",
+    "mezereon",
+    "miglialsole",
+    "millefoglie",
+    "mochi",
+    "morthine",
+    "nasturcio",
+    "nocciuole",
+    "noce moschade",
+    "oppoponacho",
+    "oppoponaco",
+    "orochicho",
+    "oximo",
+    "pan porcino",
+    "pan terreno",
+    "pania",
+    "papaveri",
+    "papaveri bianchi",
+    "pastinache",
+    "pastricciani",
+    "pece grecha",
+    "pentafilon",
+    "peonia",
+    "persa",
+    "petacciuola",
+    "pie colombino",
+    "pie corvino",
+    "pinnocchi",
+    "piretro",
+    "poponi",
+    "psilio",
+    "regolitia",
+    "reuponthicho",
+    "reuponticho",
+    "robiglie",
+    "rose bianche",
+    "rose inbalchonate",
+    "rose rosse",
+    "rosolarii",
+    "saldanella",
+    "sassefrica",
+    "saxefricha",
+    "scabiosa",
+    "schamonea",
+    "scholopendria",
+    "septerionne",
+    "serapino",
+    "sopravivo",
+    "sorbe",
+    "sparagi",
+    "spigha aromaticha",
+    "spigha celticha",
+    "squilla",
+    "squinanti",
+    "stichados",
+    "sumach",
+    "sumache",
+    "susine damascene",
+    "tamerigia",
+    "tamerindi",
+    "thamerindi",
+    "tormentilla",
+    "tre foglie",
+    "trementina",
+    "turbitti",
+    "ulive",
+    "usnee",
+    "uve di corantho",
+    "uve passule",
+    "vermiculare",
+    "vernice",
+    "vino di mele cotognie",
+    "viole gialle",
+    "viole mammole",
+    "vitriuola",
+    "yppoquistidos",
+    "yreos",
+    "yringi"
+  ]
+}

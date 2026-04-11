@@ -1,0 +1,2096 @@
+{
+  "description": "Galenic qualities (thermal + moisture) for 207 simples from Circa Instans (Platearius, ~1166)",
+  "source_file": "BruteForce/Plants/Corpus_Pharmaceutique/datasets/circa_instans_galenic_degrees.csv",
+  "source_text": "Le Livre des Simples Medecines, ed. Dorveaux 1913",
+  "system": {
+    "thermal": [
+      "calidum (hot)",
+      "frigidum (cold)"
+    ],
+    "moisture": [
+      "siccum (dry)",
+      "humidum (wet)"
+    ],
+    "degrees": [
+      "1 (mild)",
+      "2 (moderate)",
+      "3 (strong)",
+      "4 (extreme)"
+    ],
+    "note": "Each simple has 2 qualities (thermal + moisture), each with a degree 1-4"
+  },
+  "relevance": "If chol.daiin encodes Galenic formula, these are the expected values. Pattern: X est CALIDUM in N gradu ET SICCUM in N gradu.",
+  "count": 207,
+  "entries": [
+    {
+      "entry_num": "13",
+      "old_french": "AMIDUM",
+      "latin": "Amidum",
+      "french": "Amidon",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "15",
+      "old_french": "ANTIMONIUM",
+      "latin": "Antimonium",
+      "french": "Antimoine",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "22",
+      "old_french": "ACACIE",
+      "latin": "Acacia",
+      "french": "Acacia",
+      "thermal": "frigidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "28",
+      "old_french": "AGARIC",
+      "latin": "Agaricus",
+      "french": "Agaric",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "34",
+      "old_french": "AUZ",
+      "latin": "Allium",
+      "french": "Ail",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "42",
+      "old_french": "ACHORIJS",
+      "latin": "Acorus calamus",
+      "french": "Acore",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "47",
+      "old_french": "ARM0NI4C",
+      "latin": "Ammoniacum",
+      "french": "Gomme ammoniaque",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "53",
+      "old_french": "ANIS",
+      "latin": "Anisum",
+      "french": "Anis",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "60",
+      "old_french": "ALUISNE",
+      "latin": "Absinthium",
+      "french": "Absinthe",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "73",
+      "old_french": "ANACHAR",
+      "latin": "Anacardium",
+      "french": "Anacarde",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "78",
+      "old_french": "AMANDES AMERES",
+      "latin": "Amygdala amara",
+      "french": "Amande amere",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "83",
+      "old_french": "ARISTOLOGE",
+      "latin": "Aristolochia",
+      "french": "Aristoloche",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "87",
+      "old_french": "AMBRE",
+      "latin": "Ambra",
+      "french": "Ambre gris",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "90",
+      "old_french": "ARMOISE",
+      "latin": "Artemisia",
+      "french": "Armoise",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "95",
+      "old_french": "AISSIL",
+      "latin": "Acetum",
+      "french": "Vinaigre",
+      "thermal": "frigidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "102",
+      "old_french": "ALCHANE",
+      "latin": "Lawsonia/Alkanna",
+      "french": "Henne",
+      "thermal": "frigidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "106",
+      "old_french": "ORPIMENT",
+      "latin": "Auripigmentum",
+      "french": "Orpiment",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "133",
+      "old_french": "BALSE",
+      "latin": "Pastinaca",
+      "french": "Panais",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "137",
+      "old_french": "BORRAIS",
+      "latin": "Borax",
+      "french": "Borax",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "141",
+      "old_french": "BELLERIS",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "142",
+      "old_french": "BOL",
+      "latin": "Bolus armeniacus",
+      "french": "Bol d'Armenie",
+      "thermal": "frigidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "147",
+      "old_french": "BALAUSTES",
+      "latin": "Balaustium",
+      "french": "Fleur de grenadier",
+      "thermal": "frigidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "153",
+      "old_french": "BOBRACES",
+      "latin": "Borago",
+      "french": "Bourrache",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "humidum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "158",
+      "old_french": "BIÏOINE",
+      "latin": "Betonica",
+      "french": "Betoine",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "162",
+      "old_french": "VERNIZ",
+      "latin": "Vernix",
+      "french": "Vernis",
+      "thermal": "frigidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "167",
+      "old_french": "BRANQUE URSINE",
+      "latin": "Acanthus/Branca ursina",
+      "french": "Acanthe",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "humidum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "171",
+      "old_french": "BERBERIS",
+      "latin": "Berberis",
+      "french": "Epine-vinette",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "175",
+      "old_french": "BISTORTE",
+      "latin": "Bistorta",
+      "french": "Bistorte",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "182",
+      "old_french": "BEDEGAR ^",
+      "latin": "Bedegar",
+      "french": "Bedegar/Eglantier",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "190",
+      "old_french": "CYCLAM",
+      "latin": "Cyclamen",
+      "french": "Cyclamen",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "201",
+      "old_french": "CAMPHRE",
+      "latin": "Camphora",
+      "french": "Camphre",
+      "thermal": "frigidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "211",
+      "old_french": "O piretrès",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "212",
+      "old_french": "COLOQUINTE",
+      "latin": "Colocynthis",
+      "french": "Coloquinte",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "221",
+      "old_french": "CASSIAFFISTLE ^",
+      "latin": "Cassia fistula",
+      "french": "Casse",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "humidum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "223",
+      "old_french": "CUSCUTE",
+      "latin": "Cuscuta",
+      "french": "Cuscute",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "225",
+      "old_french": "CARDAMOME ^",
+      "latin": "Cardamomum",
+      "french": "Cardamome",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "231",
+      "old_french": "CERUSE",
+      "latin": "Cerusa",
+      "french": "Ceruse",
+      "thermal": "frigidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "234",
+      "old_french": "CAPARIS",
+      "latin": "Capparis",
+      "french": "Caprier",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "241",
+      "old_french": "CALEMENT",
+      "latin": "Calamintha",
+      "french": "Calament",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "249",
+      "old_french": "(luitez de la marriz",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "262",
+      "old_french": "GASSIALIGNEE",
+      "latin": "Cassia lignea",
+      "french": "Casse en bois",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "274",
+      "old_french": "CASTORE",
+      "latin": "Castoreum",
+      "french": "Castoreum",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "284",
+      "old_french": "CUBEBES",
+      "latin": "Cubeba",
+      "french": "Cubebe",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "290",
+      "old_french": "CANELE",
+      "latin": "Cinnamomum",
+      "french": "Cannelle",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "292",
+      "old_french": "CYPRÈS",
+      "latin": "Cupressus",
+      "french": "Cypres",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "302",
+      "old_french": "CAMEDREOS",
+      "latin": "Chamaedrys/Teucrium",
+      "french": "Germandrée",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "311",
+      "old_french": "CARVI",
+      "latin": "Carum carvi",
+      "french": "Carvi",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "314",
+      "old_french": "COMIN",
+      "latin": "Cuminum",
+      "french": "Cumin",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "322",
+      "old_french": "CEdUE",
+      "latin": "Cicuta",
+      "french": "Cigue",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "328",
+      "old_french": "CROC",
+      "latin": "Crocus/Saffron",
+      "french": "Safran",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "333",
+      "old_french": "(CYPERONJ",
+      "latin": "Cyperus",
+      "french": "Souchet",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "354",
+      "old_french": "CATHAPFCES",
+      "latin": "Euphorbia lathyris",
+      "french": "Catapuce",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "362",
+      "old_french": "CRETANUM",
+      "latin": "Cretanum/Dictamnus creticus",
+      "french": "Dictame de Crete",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "365",
+      "old_french": "COST",
+      "latin": "Costus",
+      "french": "Costus",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "371",
+      "old_french": "CANTABRON",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "375",
+      "old_french": "Huit. Soc. fr. hist. méd., X, 1911 (Snppl‘)",
+      "latin": "",
+      "french": "",
+      "thermal": "",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "376",
+      "old_french": "COLOFONE",
+      "latin": "Colophonia",
+      "french": "Colophane",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "381",
+      "old_french": "GOGORDES",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "humidum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "387",
+      "old_french": "CELARONNE",
+      "latin": "Chelidonia",
+      "french": "Chelidoine",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "394",
+      "old_french": "CORRIENDRE",
+      "latin": "Coriandrum",
+      "french": "Coriandre",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "396",
+      "old_french": "DIAGRIDE",
+      "latin": "Scammonia",
+      "french": "Scammonee",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "404",
+      "old_french": "DRAGAGANT",
+      "latin": "Tragacanthum",
+      "french": "Gomme adragante",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "humidum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "415",
+      "old_french": "DAUC",
+      "latin": "Daucus",
+      "french": "Carotte sauvage",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "423",
+      "old_french": "DRAGANÏ",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "430",
+      "old_french": "DITAM",
+      "latin": "Dictamnus",
+      "french": "Dictame",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "437",
+      "old_french": "ENDIVIA",
+      "latin": "Endivia/Cichorium",
+      "french": "Endive/Chicoree",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "443",
+      "old_french": "ENULA",
+      "latin": "Inula helenium",
+      "french": "Aunee",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "humidum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "449",
+      "old_french": "EPYTIM",
+      "latin": "Epithymum",
+      "french": "Epithyme",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "456",
+      "old_french": "EUFORBE",
+      "latin": "Euphorbia",
+      "french": "Euphorbe",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "466",
+      "old_french": "EPATIQUE",
+      "latin": "Hepatica",
+      "french": "Hepatique",
+      "thermal": "frigidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "468",
+      "old_french": "ES ARS",
+      "latin": "Aes ustum",
+      "french": "Airain brule",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "472",
+      "old_french": "ELATERE",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "482",
+      "old_french": "ELLEBRE",
+      "latin": "Helleborus",
+      "french": "Hellebore",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "490",
+      "old_french": "ESULE",
+      "latin": "Euphorbia esula",
+      "french": "Esule",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "493",
+      "old_french": "ERIJE",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "495",
+      "old_french": "EMASÏISÏES",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "499",
+      "old_french": "HYEBLES",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "502",
+      "old_french": "EUPASTÜIRE",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "515",
+      "old_french": "GARIOFILAÏE",
+      "latin": "Geum/Caryophyllata",
+      "french": "Benoite",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "519",
+      "old_french": "GIT",
+      "latin": "Nigella",
+      "french": "Nigelle",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "524",
+      "old_french": "GREMIL",
+      "latin": "Lithospermum",
+      "french": "Gremil",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "525",
+      "old_french": "(ÎALLITRICUM",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "529",
+      "old_french": "GALLES",
+      "latin": "Galla",
+      "french": "Galle de chene",
+      "thermal": "frigidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "535",
+      "old_french": "GALLE MUSGATE",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "543",
+      "old_french": "JUSQUIAME",
+      "latin": "Hyoscyamus",
+      "french": "Jusquiame",
+      "thermal": "frigidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "555",
+      "old_french": "JARUS",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "561",
+      "old_french": "IRIS",
+      "latin": "Iris",
+      "french": "Iris",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "564",
+      "old_french": "IPOQUISTIDOS 3",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "567",
+      "old_french": "JUNIPERON",
+      "latin": "Juniperus",
+      "french": "Genevrier",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "575",
+      "old_french": "LADANUM",
+      "latin": "Ladanum",
+      "french": "Ladanum",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "humidum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "549",
+      "old_french": "YSOPE",
+      "latin": "Hyssopus",
+      "french": "Hysope",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "581",
+      "old_french": "LIQUARICE",
+      "latin": "Glycyrrhiza",
+      "french": "Reglisse",
+      "thermal": "calidum",
+      "thermal_degree": "tempéré",
+      "moisture": "humidum",
+      "moisture_degree": "tempéré"
+    },
+    {
+      "entry_num": "587",
+      "old_french": "LAPIS [LAZULI]",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "595",
+      "old_french": "LILION",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "599",
+      "old_french": "LICIUMi",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "607",
+      "old_french": "LANGUE D’OISEL",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "610",
+      "old_french": "LAPASSE",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "623",
+      "old_french": "LITARGIRON",
+      "latin": "Lithargyrum",
+      "french": "Litharge",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "631",
+      "old_french": "LAITUES",
+      "latin": "Lactuca",
+      "french": "Laitue",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "humidum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "640",
+      "old_french": "LORIER",
+      "latin": "Laurus",
+      "french": "Laurier",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "650",
+      "old_french": "LENÏISC",
+      "latin": "Lentiscus/Pistacia",
+      "french": "Lentisque",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "654",
+      "old_french": "LENTILLES",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "656",
+      "old_french": "LAUREOLE",
+      "latin": "Daphne laureola",
+      "french": "Laureole",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "660",
+      "old_french": "LIVESCHE",
+      "latin": "Levisticum",
+      "french": "Livèche",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "662",
+      "old_french": "LAPIS MAGNETE",
+      "latin": "Magnes",
+      "french": "Aimant",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "666",
+      "old_french": "MIRTE",
+      "latin": "Myrtus",
+      "french": "Myrte",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "670",
+      "old_french": "MAIGNE",
+      "latin": "Adeps",
+      "french": "Graisse",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "humidum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "673",
+      "old_french": "(Fol. 43 c) MELLILOTUM",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "674",
+      "old_french": "MAUVE",
+      "latin": "Malva",
+      "french": "Mauve",
+      "thermal": "frigidum",
+      "thermal_degree": "2",
+      "moisture": "humidum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "680",
+      "old_french": "MASTIC",
+      "latin": "Mastix",
+      "french": "Mastic",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "685",
+      "old_french": "MENTE",
+      "latin": "Mentha",
+      "french": "Menthe",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "698",
+      "old_french": "MARGARITES",
+      "latin": "Margarita",
+      "french": "Perle",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "700",
+      "old_french": "Donez la poldre de margarites o çucre rosat",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "705",
+      "old_french": "MANDAGLOIRE",
+      "latin": "Mandragora",
+      "french": "Mandragore",
+      "thermal": "frigidum",
+      "thermal_degree": "indéterminé",
+      "moisture": "siccum",
+      "moisture_degree": "indéterminé"
+    },
+    {
+      "entry_num": "710",
+      "old_french": "MEU",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "714",
+      "old_french": "MALA CITONIA",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "722",
+      "old_french": "(Fol. 47 b) MALES GRENAIES",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "729",
+      "old_french": "MALA MACIANA",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "731",
+      "old_french": "MARROGES",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "739",
+      "old_french": "(Fol. 48 b) MALLABATRE",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "740",
+      "old_french": "MIEL",
+      "latin": "Mel",
+      "french": "Miel",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "747",
+      "old_french": "MUSC",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "758",
+      "old_french": "MIROBOLANZ",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "770",
+      "old_french": "MACIS",
+      "latin": "Macis",
+      "french": "Macis",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "775",
+      "old_french": "MIRRE",
+      "latin": "Myrrha",
+      "french": "Myrrhe",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "781",
+      "old_french": "MAJORANE",
+      "latin": "Majorana/Origanum",
+      "french": "Marjolaine",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "787",
+      "old_french": "MELISSE",
+      "latin": "Melissa",
+      "french": "Melisse",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "789",
+      "old_french": "MORES",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "793",
+      "old_french": "NESTURTE 6",
+      "latin": "Nasturtium",
+      "french": "Cresson",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "800",
+      "old_french": "NIÏRE",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "806",
+      "old_french": "NENUPHAR ^",
+      "latin": "Nymphaea",
+      "french": "Nenuphar",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "808",
+      "old_french": "NOIS MUSCATES ^",
+      "latin": "Nux moschata",
+      "french": "Noix muscade",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "811",
+      "old_french": "NOIZ INDE",
+      "latin": "Nux indica/Cocos",
+      "french": "Noix de coco",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "813",
+      "old_french": "(Fol. 33 b) NOIZ VOMIÏE",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "815",
+      "old_french": "OSSIMUM",
+      "latin": "Ocimum",
+      "french": "Basilic",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "821",
+      "old_french": "OPOPANAC",
+      "latin": "Opopanax",
+      "french": "Opopanax",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "829",
+      "old_french": "OPIUM",
+      "latin": "Opium",
+      "french": "Opium",
+      "thermal": "frigidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "835",
+      "old_french": "ORIGANUM",
+      "latin": "Origanum",
+      "french": "Origan",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "842",
+      "old_french": "OSIFENICIA",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "844",
+      "old_french": "ORGE",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "847",
+      "old_french": "OS DE CUER DE CERF",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "851",
+      "old_french": "OS DE SECHE",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "854",
+      "old_french": "OLIBANUM",
+      "latin": "Olibanum/Thus",
+      "french": "Encens",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "867",
+      "old_french": "POIVRES",
+      "latin": "Piper",
+      "french": "Poivre",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "874",
+      "old_french": "(Fol. 57 b) PIOME",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "880",
+      "old_french": "PAVOT",
+      "latin": "Papaver",
+      "french": "Pavot",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "884",
+      "old_french": "PEUCED4NUM",
+      "latin": "Peucedanum",
+      "french": "Peucedane",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "888",
+      "old_french": "PERESIL",
+      "latin": "Petroselinum",
+      "french": "Persil",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "889",
+      "old_french": "POLLICAIRE",
+      "latin": "Pulicaria",
+      "french": "Herbe aux puces",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "894",
+      "old_french": "FIGNOLES",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "humidum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "896",
+      "old_french": "FRUNES",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "humidum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "898",
+      "old_french": "FENIDES",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "908",
+      "old_french": "POLIPODE",
+      "latin": "Polypodium",
+      "french": "Polypode",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "911",
+      "old_french": "PETROLEUM",
+      "latin": "Petroleum",
+      "french": "Petrole",
+      "thermal": "calidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "918",
+      "old_french": "PARITAIRE",
+      "latin": "Parietaria",
+      "french": "Paritaire",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "922",
+      "old_french": "PORÏULAGUE",
+      "latin": "Portulaca",
+      "french": "Pourpier",
+      "thermal": "frigidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "925",
+      "old_french": "PULEGIUM",
+      "latin": "Pulegium/Mentha pulegium",
+      "french": "Pouliot",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "930",
+      "old_french": "POIRES",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "937",
+      "old_french": "PASSES",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "humidum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "942",
+      "old_french": "PLOMS",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "945",
+      "old_french": "POLIOEL",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "948",
+      "old_french": "POIZ",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "977",
+      "old_french": "RAFFLES",
+      "latin": "",
+      "french": "",
+      "thermal": "",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "983",
+      "old_french": "RAIZ",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "984",
+      "old_french": "REUBARBE",
+      "latin": "Rheum/Rhabarbarum",
+      "french": "Rhubarbe",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "988",
+      "old_french": "REUPONTIC",
+      "latin": "Rhaponticum",
+      "french": "Reupontic",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "989",
+      "old_french": "RUREE",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "992",
+      "old_french": "RUE",
+      "latin": "Ruta",
+      "french": "Rue",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "1007",
+      "old_french": "(Fol. 65 b) ROS MARIN",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "1015",
+      "old_french": "RUEE ce est boissons",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "1032",
+      "old_french": "STORIAUX",
+      "latin": "Storax",
+      "french": "Styrax",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "1040",
+      "old_french": "STRIGNUM3 SOLATRUM''",
+      "latin": "Solanum",
+      "french": "Morelle",
+      "thermal": "frigidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "1047",
+      "old_french": "SEUZ",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "1048",
+      "old_french": "SUMAC",
+      "latin": "Sumac/Rhus",
+      "french": "Sumac",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "1049",
+      "old_french": "SANDLES",
+      "latin": "Santalum",
+      "french": "Santal",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "1051",
+      "old_french": "SAGAPIN",
+      "latin": "Sagapenum",
+      "french": "Sagapenum",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "1057",
+      "old_french": "SEMPERVIVA",
+      "latin": "Sempervivum",
+      "french": "Joubarbe",
+      "thermal": "frigidum",
+      "thermal_degree": "4",
+      "moisture": "",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "1062",
+      "old_french": "S1SELE0S«",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "1065",
+      "old_french": "SOFFRE",
+      "latin": "Sulfur",
+      "french": "Soufre",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "1070",
+      "old_french": "SANC DE DRAGON",
+      "latin": "Sanguis draconis",
+      "french": "Sang de dragon",
+      "thermal": "frigidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "1073",
+      "old_french": "O aucune chose",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "1077",
+      "old_french": "SATIRIQN 1",
+      "latin": "Orchis/Satyrion",
+      "french": "Satyrion",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "1081",
+      "old_french": "SPODE",
+      "latin": "Spodium",
+      "french": "Spode",
+      "thermal": "frigidum",
+      "thermal_degree": "4",
+      "moisture": "siccum",
+      "moisture_degree": "4"
+    },
+    {
+      "entry_num": "1087",
+      "old_french": "SÏYNS",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "1088",
+      "old_french": "SCORDEON",
+      "latin": "Scordium/Teucrium",
+      "french": "Scordium",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "1090",
+      "old_french": "SAVON ‘",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "1093",
+      "old_french": "SAUGE",
+      "latin": "Salvia",
+      "french": "Sauge",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "1096",
+      "old_french": "(Fol. 70 b) SCABIOSE",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "1102",
+      "old_french": "SENACIONS",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "1104",
+      "old_french": "SERPENTAIRE",
+      "latin": "Dracunculus/Serpentaria",
+      "french": "Serpentaire",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "1108",
+      "old_french": "SÉNÉ",
+      "latin": "Senna",
+      "french": "Sene",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "1109",
+      "old_french": "SERPAUX",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "1113",
+      "old_french": "SARRIEE",
+      "latin": "Satureja",
+      "french": "Sarriette",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "1116",
+      "old_french": "(Fol. 71 a) TARTHARUM",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "1123",
+      "old_french": "TERRE SOILLEE",
+      "latin": "Terra sigillata",
+      "french": "Terre scellee",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "siccum",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "1125",
+      "old_french": "(Tuile rosat",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "1127",
+      "old_french": "(Fol. 71 c) TYTLMAL 3",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "1130",
+      "old_french": "TU R BIT",
+      "latin": "Turbith",
+      "french": "Turbith",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "1132",
+      "old_french": "TAUPSE",
+      "latin": "",
+      "french": "",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "1134",
+      "old_french": "TOILES D’IRAIGNES",
+      "latin": "",
+      "french": "",
+      "thermal": "frigidum",
+      "thermal_degree": "",
+      "moisture": "",
+      "moisture_degree": ""
+    },
+    {
+      "entry_num": "249",
+      "old_french": "CENTAURE",
+      "latin": "Centaurea",
+      "french": "Centauree",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "3"
+    },
+    {
+      "entry_num": "954",
+      "old_french": "ROSES",
+      "latin": "Rosa",
+      "french": "Rose",
+      "thermal": "frigidum",
+      "thermal_degree": "1",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "1022",
+      "old_french": "SPIC",
+      "latin": "Lavandula",
+      "french": "Lavande",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "1",
+      "old_french": "ACHE",
+      "latin": "Apium",
+      "french": "Ache/Celeri",
+      "thermal": "calidum",
+      "thermal_degree": "3",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "[STD]",
+      "old_french": "VIOLETE",
+      "latin": "Viola",
+      "french": "Violette",
+      "thermal": "frigidum",
+      "thermal_degree": "1",
+      "moisture": "humidum",
+      "moisture_degree": "1"
+    },
+    {
+      "entry_num": "[STD]",
+      "old_french": "PLANTAIN",
+      "latin": "Plantago",
+      "french": "Plantain",
+      "thermal": "frigidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    },
+    {
+      "entry_num": "[STD]",
+      "old_french": "GENCIANE",
+      "latin": "Gentiana",
+      "french": "Gentiane",
+      "thermal": "calidum",
+      "thermal_degree": "2",
+      "moisture": "siccum",
+      "moisture_degree": "2"
+    }
+  ]
+}
