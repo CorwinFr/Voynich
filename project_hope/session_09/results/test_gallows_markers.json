@@ -1,0 +1,337 @@
+{
+  "total_herbal": 143,
+  "with_gallows": 118,
+  "unique_first_words": 137,
+  "found_in_pharma": 30,
+  "not_found_in_pharma": 113,
+  "pct_found": 20,
+  "avg_freq_first": 1.197080291970803,
+  "avg_freq_random": 3.382003955174687,
+  "herbal_first_words": {
+    "f1r": "fachys",
+    "f1v": "kchsy",
+    "f2r": "kydainy",
+    "f2v": "kooiin",
+    "f3r": "tsheos",
+    "f3v": "koaiin",
+    "f4r": "kodalchy",
+    "f4v": "pchooiin",
+    "f5r": "kchody",
+    "f5v": "k",
+    "f6r": "foar",
+    "f6v": "koary",
+    "f7r": "fchodaiin",
+    "f7v": "polyshy",
+    "f8r": "pshol",
+    "f8v": "chod",
+    "f9r": "tydlo",
+    "f9v": "fochor",
+    "f10r": "pchocthy",
+    "f10v": "paiin",
+    "f11r": "tshol",
+    "f11v": "poldchody",
+    "f13r": "torshor",
+    "f13v": "koair",
+    "f14r": "pcho",
+    "f14v": "pdychoiin",
+    "f15r": "tshor",
+    "f15v": "poror",
+    "f16r": "pocheody",
+    "f16v": "pchroiin",
+    "f17r": "fshody",
+    "f17v": "pchodol",
+    "f18r": "pdrairdy",
+    "f18v": "told",
+    "f19r": "pchor",
+    "f19v": "pochaiin",
+    "f20r": "kdchody",
+    "f20v": "faiis",
+    "f21r": "pchor",
+    "f21v": "toldshy",
+    "f22r": "pol",
+    "f22v": "pysaiinor",
+    "f23r": "pydchdom",
+    "f23v": "podairol",
+    "f24r": "por",
+    "f24v": "tchodar",
+    "f25r": "fcholdy",
+    "f25v": "poeeaiin",
+    "f26r": "psheoky",
+    "f26v": "pchedar",
+    "f27r": "ksor",
+    "f27v": "pochof",
+    "f28r": "pchodar",
+    "f28v": "kshol",
+    "f29r": "posaiin",
+    "f29v": "kooiin",
+    "f30r": "okeeesy",
+    "f30v": "chschain",
+    "f31r": "keedey",
+    "f31v": "podair",
+    "f32r": "fchaiin",
+    "f32v": "kcheodaiin",
+    "f33r": "tshdar",
+    "f33v": "tar",
+    "f34r": "pcheoepchy",
+    "f34v": "kechdy",
+    "f35r": "choo",
+    "f35v": "parchor",
+    "f36r": "pchadan",
+    "f36v": "pchar",
+    "f37r": "tocphol",
+    "f37v": "tshody",
+    "f38r": "tolor",
+    "f38v": "okchop",
+    "f39r": "tedo",
+    "f39v": "pdair",
+    "f40r": "pchey",
+    "f40v": "pchedain",
+    "f41r": "pshey",
+    "f41v": "keeredal",
+    "f42r": "cho",
+    "f42v": "cho",
+    "f43r": "tarodaiin",
+    "f43v": "pdsairy",
+    "f44r": "tshodpy",
+    "f44v": "tsho",
+    "f45r": "pykydal",
+    "f45v": "korary",
+    "f46r": "pcheocphy",
+    "f46v": "pody",
+    "f47r": "chair",
+    "f47v": "psheot",
+    "f48r": "pshdaiin",
+    "f48v": "pcheodchy",
+    "f49r": "pychol",
+    "f49v": "f",
+    "f50r": "psheor",
+    "f50v": "tchy",
+    "f51r": "tsholdchy",
+    "f51v": "poshody",
+    "f52r": "tdokchcfhy",
+    "f52v": "pchor",
+    "f53r": "kodam",
+    "f53v": "tshor",
+    "f54r": "podaiin",
+    "f54v": "pcheodar",
+    "f55r": "podaiin",
+    "f55v": "kcheedchdy",
+    "f56r": "ochal",
+    "f56v": "kcheat",
+    "f57r": "poeeockhey",
+    "f87r": "poalshsal",
+    "f87v": "cheey",
+    "f88r": "otorchety",
+    "f88v": "okalyd",
+    "f89r1": "okchshy",
+    "f89r2": "odory",
+    "f89v2": "choeesy",
+    "f89v1": "okoraldy",
+    "f90r1": "poleeol",
+    "f90r2": "toealchs",
+    "f90v2": "chdaihy",
+    "f90v1": "pcheor",
+    "f93r": "kodshol",
+    "f93v": "possheody",
+    "f94r": "tchedy",
+    "f94v": "tshedy",
+    "f95r1": "kshdor",
+    "f95r2": "kshedy",
+    "f95v2": "tchody",
+    "f95v1": "cholteedy",
+    "f96r": "tor",
+    "f96v": "psheessheeor",
+    "f99r": "okaradag",
+    "f99v": "okaramy",
+    "f100r": "chosaroshol",
+    "f100v": "tolchd",
+    "f101r": "pcheol",
+    "f101v": "sairaly",
+    "f102r1": "daarod",
+    "f102r2": "kodaiig",
+    "f102v2": "porshols",
+    "f102v1": "keoraiiin"
+  },
+  "found_details": [
+    [
+      "f87v",
+      "cheey",
+      81,
+      22
+    ],
+    [
+      "f42r",
+      "cho",
+      15,
+      10
+    ],
+    [
+      "f42v",
+      "cho",
+      15,
+      10
+    ],
+    [
+      "f33v",
+      "tar",
+      14,
+      12
+    ],
+    [
+      "f94r",
+      "tchedy",
+      10,
+      8
+    ],
+    [
+      "f22r",
+      "pol",
+      7,
+      5
+    ],
+    [
+      "f90v1",
+      "pcheor",
+      4,
+      4
+    ],
+    [
+      "f94v",
+      "tshedy",
+      4,
+      4
+    ],
+    [
+      "f19r",
+      "pchor",
+      3,
+      3
+    ],
+    [
+      "f21r",
+      "pchor",
+      3,
+      3
+    ],
+    [
+      "f24r",
+      "por",
+      3,
+      2
+    ],
+    [
+      "f52v",
+      "pchor",
+      3,
+      3
+    ],
+    [
+      "f101r",
+      "pcheol",
+      3,
+      2
+    ],
+    [
+      "f10v",
+      "paiin",
+      2,
+      2
+    ],
+    [
+      "f26v",
+      "pchedar",
+      2,
+      2
+    ],
+    [
+      "f96r",
+      "tor",
+      2,
+      2
+    ],
+    [
+      "f13r",
+      "torshor",
+      1,
+      1
+    ],
+    [
+      "f28r",
+      "pchodar",
+      1,
+      1
+    ],
+    [
+      "f31v",
+      "podair",
+      1,
+      1
+    ],
+    [
+      "f32v",
+      "kcheodaiin",
+      1,
+      1
+    ],
+    [
+      "f34v",
+      "kechdy",
+      1,
+      1
+    ],
+    [
+      "f36v",
+      "pchar",
+      1,
+      1
+    ],
+    [
+      "f39r",
+      "tedo",
+      1,
+      1
+    ],
+    [
+      "f40r",
+      "pchey",
+      1,
+      1
+    ],
+    [
+      "f40v",
+      "pchedain",
+      1,
+      1
+    ],
+    [
+      "f44v",
+      "tsho",
+      1,
+      1
+    ],
+    [
+      "f49v",
+      "f",
+      1,
+      1
+    ],
+    [
+      "f50v",
+      "tchy",
+      1,
+      1
+    ],
+    [
+      "f54v",
+      "pcheodar",
+      1,
+      1
+    ],
+    [
+      "f95r2",
+      "kshedy",
+      1,
+      1
+    ]
+  ]
+}
