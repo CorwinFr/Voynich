@@ -1,0 +1,6189 @@
+{
+  "total_dd": 254,
+  "type1_same_root_diff_ic": 3,
+  "type2_same_root_same_ic": 10,
+  "type3_diff_root_same_ic": 150,
+  "type4_diff_root_diff_ic": 91,
+  "root_position_bias": {
+    "ok": {
+      "w1": 31,
+      "w2": 40
+    },
+    "shek": {
+      "w1": 1,
+      "w2": 3
+    },
+    "qok": {
+      "w1": 26,
+      "w2": 27
+    },
+    "ch": {
+      "w1": 3,
+      "w2": 4
+    },
+    "ol": {
+      "w1": 2,
+      "w2": 6
+    },
+    "qot": {
+      "w1": 9,
+      "w2": 5
+    },
+    "s": {
+      "w1": 5,
+      "w2": 5
+    },
+    "ot": {
+      "w1": 20,
+      "w2": 33
+    },
+    "k": {
+      "w1": 10,
+      "w2": 0
+    },
+    "r": {
+      "w1": 7,
+      "w2": 0
+    },
+    "d": {
+      "w1": 16,
+      "w2": 11
+    },
+    "qod": {
+      "w1": 9,
+      "w2": 2
+    },
+    "cheod": {
+      "w1": 1,
+      "w2": 4
+    },
+    "lk": {
+      "w1": 7,
+      "w2": 2
+    },
+    "cheek": {
+      "w1": 1,
+      "w2": 2
+    },
+    "od": {
+      "w1": 2,
+      "w2": 4
+    },
+    "chod": {
+      "w1": 3,
+      "w2": 3
+    },
+    "chok": {
+      "w1": 2,
+      "w2": 4
+    },
+    "olk": {
+      "w1": 8,
+      "w2": 1
+    },
+    "or": {
+      "w1": 1,
+      "w2": 2
+    },
+    "ched": {
+      "w1": 4,
+      "w2": 6
+    },
+    "yt": {
+      "w1": 1,
+      "w2": 4
+    },
+    "sh": {
+      "w1": 2,
+      "w2": 3
+    },
+    "cheok": {
+      "w1": 0,
+      "w2": 3
+    },
+    "yk": {
+      "w1": 1,
+      "w2": 2
+    },
+    "chk": {
+      "w1": 2,
+      "w2": 4
+    },
+    "chek": {
+      "w1": 1,
+      "w2": 3
+    },
+    "t": {
+      "w1": 4,
+      "w2": 1
+    },
+    "alk": {
+      "w1": 1,
+      "w2": 4
+    },
+    "shed": {
+      "w1": 2,
+      "w2": 2
+    },
+    "ote": {
+      "w1": 1,
+      "w2": 2
+    },
+    "qoked": {
+      "w1": 3,
+      "w2": 1
+    },
+    "chd": {
+      "w1": 2,
+      "w2": 2
+    },
+    "chot": {
+      "w1": 0,
+      "w2": 3
+    }
+  },
+  "all_pairs": [
+    {
+      "recipe": "f103r_B04",
+      "pos": 12,
+      "w1": "okain",
+      "w2": "shekain",
+      "r1": "ok",
+      "r2": "shek",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "chedy",
+        "pchdy",
+        "tshdy",
+        "dal",
+        "kasol"
+      ],
+      "after": [
+        "chedy",
+        "qokeechy",
+        "qoky",
+        "shey",
+        "lol"
+      ]
+    },
+    {
+      "recipe": "f103r_B06",
+      "pos": 5,
+      "w1": "okain",
+      "w2": "qokain",
+      "r1": "ok",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "polchedy",
+        "qokeol",
+        "[D1:okain]",
+        "checthy",
+        "oteeylshedy"
+      ],
+      "after": [
+        "qokalshedy",
+        "oteys",
+        "[D2:okaiin]",
+        "chey",
+        "qoy"
+      ]
+    },
+    {
+      "recipe": "f103r_B08",
+      "pos": 20,
+      "w1": "qoodain",
+      "w2": "okain",
+      "r1": "qood",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "chckhey",
+        "chey",
+        "[D1:kain]",
+        "chedal",
+        "okeeey"
+      ],
+      "after": [
+        "oteey",
+        "ol",
+        "oteedy",
+        "okeey",
+        "qotchy"
+      ]
+    },
+    {
+      "recipe": "f103r_B09",
+      "pos": 13,
+      "w1": "dalkain",
+      "w2": "okaiin",
+      "r1": "dalk",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qokeey",
+        "okeey",
+        "qokaly",
+        "deshedy",
+        "qokeeey"
+      ],
+      "after": [
+        "chedy",
+        "qokeey",
+        "[D1:otain]",
+        "ain",
+        "ol"
+      ]
+    },
+    {
+      "recipe": "f103r_B12",
+      "pos": 1,
+      "w1": "chain",
+      "w2": "olain",
+      "r1": "ch",
+      "r2": "ol",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qokecar"
+      ],
+      "after": [
+        "chey",
+        "[D1:kain]",
+        "sheol",
+        "[D1:shedain]",
+        "qokeedy"
+      ]
+    },
+    {
+      "recipe": "f103r_B17",
+      "pos": 32,
+      "w1": "qotain",
+      "w2": "saiin",
+      "r1": "qot",
+      "r2": "s",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "chey",
+        "qokeey",
+        "okeey",
+        "[D1:qokain]",
+        "cheey"
+      ],
+      "after": [
+        "cheteey",
+        "shey",
+        "[D2:cheosaiin]"
+      ]
+    },
+    {
+      "recipe": "f103v_B05",
+      "pos": 21,
+      "w1": "otain",
+      "w2": "otain",
+      "r1": "ot",
+      "r2": "ot",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": true,
+      "before": [
+        "ch",
+        "ar",
+        "olchey",
+        "lcheody",
+        "tedy"
+      ],
+      "after": [
+        "otay",
+        "[D2:daiin]",
+        "sheekchy",
+        "okeeshy",
+        "qol"
+      ]
+    },
+    {
+      "recipe": "f103v_B07",
+      "pos": 10,
+      "w1": "lolain",
+      "w2": "tokain",
+      "r1": "lol",
+      "r2": "tok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "oteal",
+        "[D1:okain]",
+        "qotal",
+        "shedy",
+        "qokeey"
+      ],
+      "after": [
+        "shal",
+        "qokeed",
+        "oteedy",
+        "sheoky",
+        "shaikhhy"
+      ]
+    },
+    {
+      "recipe": "f103v_B07",
+      "pos": 49,
+      "w1": "otain",
+      "w2": "otain",
+      "r1": "ot",
+      "r2": "ot",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": true,
+      "before": [
+        "qokeey",
+        "ror",
+        "aiin",
+        "olan",
+        "otan"
+      ],
+      "after": [
+        "ar",
+        "{y}",
+        "[D1:kain]",
+        "[D1:sain]",
+        "olkeeey"
+      ]
+    },
+    {
+      "recipe": "f103v_B07",
+      "pos": 53,
+      "w1": "kain",
+      "w2": "sain",
+      "r1": "k",
+      "r2": "s",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "otan",
+        "[D1:otain]",
+        "[D1:otain]",
+        "ar",
+        "{y}"
+      ],
+      "after": [
+        "olkeeey",
+        "qokan",
+        "oteedy",
+        "[D1:qotain]",
+        "otal"
+      ]
+    },
+    {
+      "recipe": "f103v_B12",
+      "pos": 19,
+      "w1": "rain",
+      "w2": "daiin",
+      "r1": "r",
+      "r2": "d",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "ol",
+        "keey",
+        "[D2:qokaiin]",
+        "shckhy",
+        "lchedy"
+      ],
+      "after": [
+        "shey",
+        "{l}",
+        "shey",
+        "lshey",
+        "qoar"
+      ]
+    },
+    {
+      "recipe": "f104r_B01",
+      "pos": 42,
+      "w1": "qodaiin",
+      "w2": "qodaiin",
+      "r1": "qod",
+      "r2": "qod",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": true,
+      "before": [
+        "{o}",
+        "{l}",
+        "sheedy",
+        "qokeedy",
+        "chedal"
+      ],
+      "after": [
+        "chry"
+      ]
+    },
+    {
+      "recipe": "f104r_B04",
+      "pos": 21,
+      "w1": "daiin",
+      "w2": "choaiin",
+      "r1": "d",
+      "r2": "cho",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "okar",
+        "cheody",
+        "okeeody",
+        "qodam",
+        "chdy"
+      ],
+      "after": [
+        "qokechy",
+        "qotal",
+        "cheolor",
+        "[D2:saiin]",
+        "olkeechey"
+      ]
+    },
+    {
+      "recipe": "f104r_B04",
+      "pos": 37,
+      "w1": "kaiin",
+      "w2": "cheodaiin",
+      "r1": "k",
+      "r2": "cheod",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:chodaiin]",
+        "chody",
+        "okar",
+        "otolkeechdy",
+        "okal"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f104r_B07",
+      "pos": 42,
+      "w1": "raiin",
+      "w2": "otain",
+      "r1": "r",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "chckhey",
+        "[D2:qodaiin]",
+        "chckhy",
+        "checkhd",
+        "{l}"
+      ],
+      "after": [
+        "ar",
+        "airam",
+        "shar",
+        "sheey",
+        "kar"
+      ]
+    },
+    {
+      "recipe": "f104r_B08",
+      "pos": 1,
+      "w1": "qokaiin",
+      "w2": "qotaiin",
+      "r1": "qok",
+      "r2": "qot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "pchedar"
+      ],
+      "after": [
+        "dl",
+        "ral",
+        "cheodl",
+        "[D2:cphaiin]",
+        "[D2:daiin]"
+      ]
+    },
+    {
+      "recipe": "f104r_B08",
+      "pos": 6,
+      "w1": "cphaiin",
+      "w2": "daiin",
+      "r1": "cph",
+      "r2": "d",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:qokaiin]",
+        "[D2:qotaiin]",
+        "dl",
+        "ral",
+        "cheodl"
+      ],
+      "after": [
+        "ar",
+        "qekeeey",
+        "[D2:qoparaiin]",
+        "olcheear",
+        "chedar"
+      ]
+    },
+    {
+      "recipe": "f104r_B09",
+      "pos": 3,
+      "w1": "dain",
+      "w2": "lkeodaiin",
+      "r1": "d",
+      "r2": "lkeod",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "okeeo",
+        "{l}",
+        "keeo"
+      ],
+      "after": [
+        "qokeeo",
+        "lkechey",
+        "okeody",
+        "otechdy",
+        "opcheof"
+      ]
+    },
+    {
+      "recipe": "f104r_B09",
+      "pos": 28,
+      "w1": "lkaiin",
+      "w2": "cheodain",
+      "r1": "lk",
+      "r2": "cheod",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "okshey",
+        "otechshy",
+        "cheol",
+        "[D2:kaiin]",
+        "shoda"
+      ],
+      "after": [
+        "qokar",
+        "alchd",
+        "okchechy",
+        "qokcheedy",
+        "okchdal"
+      ]
+    },
+    {
+      "recipe": "f104r_B10",
+      "pos": 5,
+      "w1": "qokaiin",
+      "w2": "otaiin",
+      "r1": "qok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "pchol",
+        "ksheody",
+        "qokeshedy",
+        "qokal",
+        "chedy"
+      ],
+      "after": [
+        "cheody",
+        "qokal",
+        "[D2:taiin]",
+        "cholxy",
+        "yshoiin"
+      ]
+    },
+    {
+      "recipe": "f104r_B13",
+      "pos": 18,
+      "w1": "qokaiin",
+      "w2": "otaiin",
+      "r1": "qok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:qoeedaiin]",
+        "qokeey",
+        "ar",
+        "cheol",
+        "olkair"
+      ],
+      "after": [
+        "okam",
+        "[D2:daiin]",
+        "olcheeo",
+        "{l}",
+        "{s}"
+      ]
+    },
+    {
+      "recipe": "f104r_B13",
+      "pos": 29,
+      "w1": "qokaiin",
+      "w2": "otaiin",
+      "r1": "qok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "{s}",
+        "aiin",
+        "[D1:otain]",
+        "ar",
+        "chedy"
+      ],
+      "after": [
+        "[D2:otaiin]"
+      ]
+    },
+    {
+      "recipe": "f104r_B13",
+      "pos": 30,
+      "w1": "otaiin",
+      "w2": "otaiin",
+      "r1": "ot",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": true,
+      "before": [
+        "aiin",
+        "[D1:otain]",
+        "ar",
+        "chedy",
+        "[D2:qokaiin]"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f104v_B01",
+      "pos": 9,
+      "w1": "cheodaiin",
+      "w2": "cheekain",
+      "r1": "cheod",
+      "r2": "cheek",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "opchedy",
+        "ol",
+        "ear",
+        "aiir",
+        "aly"
+      ],
+      "after": [
+        "dam",
+        "[D2:ychedaiin]",
+        "qoteed",
+        "chockhy",
+        "[D2:otaiin]"
+      ]
+    },
+    {
+      "recipe": "f104v_B01",
+      "pos": 15,
+      "w1": "otaiin",
+      "w2": "ydaiin",
+      "r1": "ot",
+      "r2": "yd",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D1:cheekain]",
+        "dam",
+        "[D2:ychedaiin]",
+        "qoteed",
+        "chockhy"
+      ],
+      "after": [
+        "qokamdy",
+        "otarar",
+        "alched",
+        "otair",
+        "oram"
+      ]
+    },
+    {
+      "recipe": "f104v_B01",
+      "pos": 24,
+      "w1": "qotaiin",
+      "w2": "odaiin",
+      "r1": "qot",
+      "r2": "od",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "alched",
+        "otair",
+        "oram",
+        "shod",
+        "chedy"
+      ],
+      "after": [
+        "okeol",
+        "ockhey",
+        "chol",
+        "qokeedy",
+        "qotair"
+      ]
+    },
+    {
+      "recipe": "f104v_B05",
+      "pos": 36,
+      "w1": "qokaiiin",
+      "w2": "qokaiin",
+      "r1": "qok",
+      "r2": "qok",
+      "ic1": 3,
+      "ic2": 2,
+      "same_root": true,
+      "before": [
+        "sheedy",
+        "or",
+        "ain",
+        "cheol",
+        "dcheeoy"
+      ],
+      "after": [
+        "lkar",
+        "[D2:ytaiin]",
+        "otcheochy",
+        "[D1:sarain]"
+      ]
+    },
+    {
+      "recipe": "f104v_B07",
+      "pos": 16,
+      "w1": "qodaiin",
+      "w2": "chodaiin",
+      "r1": "qod",
+      "r2": "chod",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "tal",
+        "tchey",
+        "qokchey",
+        "qochey",
+        "qodeey"
+      ],
+      "after": [
+        "chckhdy",
+        "dairar",
+        "otar",
+        "qotai",
+        "{l}"
+      ]
+    },
+    {
+      "recipe": "f104v_B10",
+      "pos": 17,
+      "w1": "kaiin",
+      "w2": "qokaiin",
+      "r1": "k",
+      "r2": "qok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "als",
+        "am",
+        "yteeey",
+        "cheeod",
+        "ykeey"
+      ],
+      "after": [
+        "cheey",
+        "or",
+        "ol",
+        "ar",
+        "odar"
+      ]
+    },
+    {
+      "recipe": "f104v_B10",
+      "pos": 31,
+      "w1": "qotain",
+      "w2": "okaiin",
+      "r1": "qot",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "ar",
+        "{air}",
+        "ary",
+        "ycheo",
+        "lkeed"
+      ],
+      "after": [
+        "[D1:chokain]",
+        "[D1:okain]",
+        "cheol",
+        "olcho"
+      ]
+    },
+    {
+      "recipe": "f104v_B10",
+      "pos": 32,
+      "w1": "okaiin",
+      "w2": "chokain",
+      "r1": "ok",
+      "r2": "chok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "{air}",
+        "ary",
+        "ycheo",
+        "lkeed",
+        "[D1:qotain]"
+      ],
+      "after": [
+        "[D1:okain]",
+        "cheol",
+        "olcho"
+      ]
+    },
+    {
+      "recipe": "f104v_B10",
+      "pos": 33,
+      "w1": "chokain",
+      "w2": "okain",
+      "r1": "chok",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "ary",
+        "ycheo",
+        "lkeed",
+        "[D1:qotain]",
+        "[D2:okaiin]"
+      ],
+      "after": [
+        "cheol",
+        "olcho"
+      ]
+    },
+    {
+      "recipe": "f104v_B12",
+      "pos": 16,
+      "w1": "qotain",
+      "w2": "qokain",
+      "r1": "qot",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "ain",
+        "arodam",
+        "okechey",
+        "chedy",
+        "chchy"
+      ],
+      "after": [
+        "chey",
+        "or",
+        "aiin",
+        "cheo",
+        "or"
+      ]
+    },
+    {
+      "recipe": "f104v_B13",
+      "pos": 30,
+      "w1": "qotodaiin",
+      "w2": "okain",
+      "r1": "qotod",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "lkeey",
+        "{o}",
+        "keeedy",
+        "qokeey",
+        "okchey"
+      ],
+      "after": [
+        "orom",
+        "[D2:daiin]",
+        "{y}",
+        "cheeo",
+        "chey"
+      ]
+    },
+    {
+      "recipe": "f105r_B05",
+      "pos": 40,
+      "w1": "olkaiin",
+      "w2": "olfaiin",
+      "r1": "olk",
+      "r2": "olf",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "aiin",
+        "chey",
+        "teol",
+        "ykair",
+        "paiir"
+      ],
+      "after": [
+        "odar",
+        "al",
+        "airody",
+        "al",
+        "teedar"
+      ]
+    },
+    {
+      "recipe": "f105r_B08",
+      "pos": 6,
+      "w1": "laiiin",
+      "w2": "odaiin",
+      "r1": "l",
+      "r2": "od",
+      "ic1": 3,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "sheefy",
+        "opchey",
+        "qoteedy",
+        "qoeey",
+        "qokeedy"
+      ],
+      "after": [
+        "aiir",
+        "opair",
+        "kechedy",
+        "oees",
+        "olkeedy"
+      ]
+    },
+    {
+      "recipe": "f105v_B04",
+      "pos": 20,
+      "w1": "daiin",
+      "w2": "oraiin",
+      "r1": "d",
+      "r2": "or",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "al",
+        "dar",
+        "chdor",
+        "kalchedy",
+        "opchdy"
+      ],
+      "after": [
+        "{r}",
+        "[D2:daiin]",
+        "cheey",
+        "dal",
+        "chl"
+      ]
+    },
+    {
+      "recipe": "f105v_B04",
+      "pos": 32,
+      "w1": "chodaiin",
+      "w2": "otaiin",
+      "r1": "chod",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "okair",
+        "aiin",
+        "cpheor",
+        "aiin",
+        "okal"
+      ],
+      "after": [
+        "opaiim",
+        "olr",
+        "aiin",
+        "chey",
+        "{l}"
+      ]
+    },
+    {
+      "recipe": "f105v_B05",
+      "pos": 1,
+      "w1": "chedaiin",
+      "w2": "okaiin",
+      "r1": "ched",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "pchor"
+      ],
+      "after": [
+        "cholkal",
+        "[D2:qolkaiin]",
+        "oltchdy",
+        "qopchsd",
+        "opair"
+      ]
+    },
+    {
+      "recipe": "f105v_B06",
+      "pos": 22,
+      "w1": "daiin",
+      "w2": "cheodaiin",
+      "r1": "d",
+      "r2": "cheod",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qoek",
+        "eeykeody",
+        "[D2:qopaiin]",
+        "or",
+        "aiikam"
+      ],
+      "after": [
+        "chedal",
+        "{air}",
+        "[D2:okaiin]",
+        "cheey"
+      ]
+    },
+    {
+      "recipe": "f105v_B10",
+      "pos": 28,
+      "w1": "okaiin",
+      "w2": "otaiin",
+      "r1": "ok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "sheeo",
+        "[D2:daiin]",
+        "chsd",
+        "qokeeey",
+        "dair"
+      ],
+      "after": [
+        "[D2:chedaiin]",
+        "olkal",
+        "[D1:lkldain]",
+        "doee",
+        "okcheeo"
+      ]
+    },
+    {
+      "recipe": "f105v_B10",
+      "pos": 29,
+      "w1": "otaiin",
+      "w2": "chedaiin",
+      "r1": "ot",
+      "r2": "ched",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:daiin]",
+        "chsd",
+        "qokeeey",
+        "dair",
+        "[D2:okaiin]"
+      ],
+      "after": [
+        "olkal",
+        "[D1:lkldain]",
+        "doee",
+        "okcheeo",
+        "{l}"
+      ]
+    },
+    {
+      "recipe": "f105v_B10",
+      "pos": 48,
+      "w1": "qoaiin",
+      "w2": "ytaiin",
+      "r1": "qo",
+      "r2": "yt",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "al",
+        "kaishd",
+        "[D2:laiin]",
+        "sheod",
+        "okeeody"
+      ],
+      "after": [
+        "otair",
+        "chdal",
+        "dy",
+        "daim",
+        "[D2:chdaiin]"
+      ]
+    },
+    {
+      "recipe": "f106r_B07",
+      "pos": 13,
+      "w1": "shosaiin",
+      "w2": "qokaiin",
+      "r1": "shos",
+      "r2": "qok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qotolchy",
+        "qoty",
+        "chdy",
+        "otchedy",
+        "qokeey"
+      ],
+      "after": [
+        "[D1:okain]",
+        "cholkeeey",
+        "ltal",
+        "olcheey",
+        "[D2:qotchoraiin]"
+      ]
+    },
+    {
+      "recipe": "f106r_B07",
+      "pos": 14,
+      "w1": "qokaiin",
+      "w2": "okain",
+      "r1": "qok",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qoty",
+        "chdy",
+        "otchedy",
+        "qokeey",
+        "[D2:shosaiin]"
+      ],
+      "after": [
+        "cholkeeey",
+        "ltal",
+        "olcheey",
+        "[D2:qotchoraiin]",
+        "{y}"
+      ]
+    },
+    {
+      "recipe": "f106r_B07",
+      "pos": 23,
+      "w1": "qokaiin",
+      "w2": "shaiin",
+      "r1": "qok",
+      "r2": "sh",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "olcheey",
+        "[D2:qotchoraiin]",
+        "{y}",
+        "[D2:ytaiin]",
+        "cheey"
+      ],
+      "after": [
+        "qokeedy",
+        "sail",
+        "chedy",
+        "cheodal",
+        "qochedy"
+      ]
+    },
+    {
+      "recipe": "f106r_B07",
+      "pos": 35,
+      "w1": "chearaiin",
+      "w2": "okain",
+      "r1": "chear",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:qokaiin]",
+        "olkeedy",
+        "qokchedy",
+        "cheo",
+        "lkeedy"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f106r_B10",
+      "pos": 14,
+      "w1": "raiin",
+      "w2": "qokaiin",
+      "r1": "r",
+      "r2": "qok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "cheoly",
+        "[D2:okaiin]",
+        "ol",
+        "lcho",
+        "rcheo"
+      ],
+      "after": [
+        "chey",
+        "[D2:chokaiin]",
+        "chear",
+        "ar",
+        "ol"
+      ]
+    },
+    {
+      "recipe": "f106r_B10",
+      "pos": 26,
+      "w1": "ykalaiin",
+      "w2": "okain",
+      "r1": "ykal",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "raralchl",
+        "[D2:saiin]",
+        "chal",
+        "chlal",
+        "okal"
+      ],
+      "after": [
+        "[D1:qokain]",
+        "ar",
+        "[D2:okaiin]",
+        "char",
+        "aiiny"
+      ]
+    },
+    {
+      "recipe": "f106r_B10",
+      "pos": 27,
+      "w1": "okain",
+      "w2": "qokain",
+      "r1": "ok",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:saiin]",
+        "chal",
+        "chlal",
+        "okal",
+        "[D2:ykalaiin]"
+      ],
+      "after": [
+        "ar",
+        "[D2:okaiin]",
+        "char",
+        "aiiny",
+        "ycheeo"
+      ]
+    },
+    {
+      "recipe": "f106r_B12",
+      "pos": 8,
+      "w1": "qotarain",
+      "w2": "okaiin",
+      "r1": "qotar",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "ro",
+        "lpchey",
+        "[D2:oporaiin]",
+        "chpchy",
+        "qopcheody"
+      ],
+      "after": [
+        "choky",
+        "lkar",
+        "chdy",
+        "lchedy"
+      ]
+    },
+    {
+      "recipe": "f106r_B15",
+      "pos": 33,
+      "w1": "okain",
+      "w2": "okain",
+      "r1": "ok",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": true,
+      "before": [
+        "oty",
+        "otair",
+        "otaiikam",
+        "{y}",
+        "sheedal"
+      ],
+      "after": [
+        "otar",
+        "[D2:kaiin]",
+        "chdalkair",
+        "olkai",
+        "al"
+      ]
+    },
+    {
+      "recipe": "f106r_B15",
+      "pos": 42,
+      "w1": "sotchdaiin",
+      "w2": "shodaiin",
+      "r1": "sotchd",
+      "r2": "shod",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "chdalkair",
+        "olkai",
+        "al",
+        "keedy",
+        "okal"
+      ],
+      "after": [
+        "otedy",
+        "qokeedy",
+        "[D2:qokaiin]",
+        "ykar",
+        "[D1:qokain]"
+      ]
+    },
+    {
+      "recipe": "f106r_B15",
+      "pos": 52,
+      "w1": "okain",
+      "w2": "qokain",
+      "r1": "ok",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "ykar",
+        "[D1:qokain]",
+        "cheedy",
+        "lol",
+        "ycheoar"
+      ],
+      "after": [
+        "char",
+        "oky",
+        "cheokam"
+      ]
+    },
+    {
+      "recipe": "f106v_B02",
+      "pos": 27,
+      "w1": "kain",
+      "w2": "shokaiin",
+      "r1": "k",
+      "r2": "shok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "soy",
+        "shealsho",
+        "dy",
+        "[D1:chain]",
+        "shol"
+      ],
+      "after": [
+        "[D2:qotaiin]",
+        "chodar",
+        "ail",
+        "dal",
+        "dar"
+      ]
+    },
+    {
+      "recipe": "f106v_B02",
+      "pos": 28,
+      "w1": "shokaiin",
+      "w2": "qotaiin",
+      "r1": "shok",
+      "r2": "qot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "shealsho",
+        "dy",
+        "[D1:chain]",
+        "shol",
+        "[D1:kain]"
+      ],
+      "after": [
+        "chodar",
+        "ail",
+        "dal",
+        "dar",
+        "loror"
+      ]
+    },
+    {
+      "recipe": "f106v_B03",
+      "pos": 13,
+      "w1": "qodaiin",
+      "w2": "ytain",
+      "r1": "qod",
+      "r2": "yt",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "shear",
+        "am",
+        "ysheody",
+        "cheol",
+        "oteey"
+      ],
+      "after": [
+        "ychdy",
+        "oltydy"
+      ]
+    },
+    {
+      "recipe": "f106v_B04",
+      "pos": 15,
+      "w1": "qokaiin",
+      "w2": "chokaiin",
+      "r1": "qok",
+      "r2": "chok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "sham",
+        "ycheey",
+        "qoeeda",
+        "[D1:chodain]",
+        "otalchdy"
+      ],
+      "after": [
+        "chody",
+        "qokal",
+        "otal",
+        "otam",
+        "olkeealkchedy"
+      ]
+    },
+    {
+      "recipe": "f106v_B05",
+      "pos": 22,
+      "w1": "okain",
+      "w2": "qodaiin",
+      "r1": "ok",
+      "r2": "qod",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "chodal",
+        "chedy",
+        "qotam",
+        "salar",
+        "sheodar"
+      ],
+      "after": [
+        "chodal"
+      ]
+    },
+    {
+      "recipe": "f106v_B06",
+      "pos": 16,
+      "w1": "olaiin",
+      "w2": "otaiin",
+      "r1": "ol",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:otaiin]",
+        "otal",
+        "chedy",
+        "{r}",
+        "ain"
+      ],
+      "after": [
+        "[D1:sain]"
+      ]
+    },
+    {
+      "recipe": "f106v_B06",
+      "pos": 17,
+      "w1": "otaiin",
+      "w2": "sain",
+      "r1": "ot",
+      "r2": "s",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "otal",
+        "chedy",
+        "{r}",
+        "ain",
+        "[D2:olaiin]"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f106v_B07",
+      "pos": 12,
+      "w1": "lchdaiin",
+      "w2": "osaiin",
+      "r1": "lchd",
+      "r2": "os",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "kolches",
+        "[D1:okcharain]",
+        "ycheo",
+        "[D2:lkaiin]",
+        "cheo"
+      ],
+      "after": [
+        "okal",
+        "sheedy",
+        "qokchedy"
+      ]
+    },
+    {
+      "recipe": "f106v_B08",
+      "pos": 21,
+      "w1": "qokain",
+      "w2": "soraiin",
+      "r1": "qok",
+      "r2": "sor",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "chedy",
+        "[D2:qotaiin]",
+        "or",
+        "aiin",
+        "okeedy"
+      ],
+      "after": [
+        "solshedy",
+        "qokchdy",
+        "qokol",
+        "[D2:chdaiin]",
+        "chdal"
+      ]
+    },
+    {
+      "recipe": "f106v_B10",
+      "pos": 15,
+      "w1": "otaiin",
+      "w2": "otain",
+      "r1": "ot",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": true,
+      "before": [
+        "ycheey",
+        "olchey",
+        "chedy",
+        "[D2:qotaiin]",
+        "cheos"
+      ],
+      "after": [
+        "chotar",
+        "olos",
+        "aiin",
+        "cheog",
+        "[D2:otaiin]"
+      ]
+    },
+    {
+      "recipe": "f106v_B12",
+      "pos": 26,
+      "w1": "qokaiin",
+      "w2": "cholkaiin",
+      "r1": "qok",
+      "r2": "cholk",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qockhey",
+        "[D2:okaiin]",
+        "al",
+        "sol",
+        "sheedy"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f106v_B15",
+      "pos": 47,
+      "w1": "okain",
+      "w2": "cheokaiin",
+      "r1": "ok",
+      "r2": "cheok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "rasal",
+        "oteey",
+        "sar",
+        "aildy",
+        "ytar"
+      ],
+      "after": [
+        "chedy",
+        "okeeey",
+        "[D2:chkaiin]",
+        "ol",
+        "oky"
+      ]
+    },
+    {
+      "recipe": "f107r_B01",
+      "pos": 27,
+      "w1": "qotain",
+      "w2": "ykain",
+      "r1": "qot",
+      "r2": "yk",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "lor",
+        "olcheey",
+        "cheos",
+        "qokeeey",
+        "ycheedy"
+      ],
+      "after": [
+        "okeey",
+        "[D2:raiin]"
+      ]
+    },
+    {
+      "recipe": "f107r_B03",
+      "pos": 5,
+      "w1": "lkaiin",
+      "w2": "qokaiin",
+      "r1": "lk",
+      "r2": "qok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "torshor",
+        "sheeey",
+        "oteeol",
+        "qokeey",
+        "qokedy"
+      ],
+      "after": [
+        "qokar",
+        "al",
+        "okiroley",
+        "[D2:okaiin]",
+        "sheey"
+      ]
+    },
+    {
+      "recipe": "f107r_B03",
+      "pos": 35,
+      "w1": "qokaiin",
+      "w2": "ytain",
+      "r1": "qok",
+      "r2": "yt",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "sair",
+        "alo",
+        "{m}",
+        "cheeo",
+        "cheeol"
+      ],
+      "after": [
+        "{y}",
+        "keeol",
+        "{l}",
+        "[D2:oraiin]",
+        "[D2:okaiin]"
+      ]
+    },
+    {
+      "recipe": "f107r_B03",
+      "pos": 40,
+      "w1": "oraiin",
+      "w2": "okaiin",
+      "r1": "or",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:qokaiin]",
+        "[D1:ytain]",
+        "{y}",
+        "keeol",
+        "{l}"
+      ],
+      "after": [
+        "okar",
+        "[D2:okaiin]",
+        "otaram",
+        "{y}",
+        "chol"
+      ]
+    },
+    {
+      "recipe": "f107r_B04",
+      "pos": 15,
+      "w1": "chtaiin",
+      "w2": "otarain",
+      "r1": "cht",
+      "r2": "otar",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "cthedy",
+        "lshedy",
+        "cheolchear",
+        "or",
+        "alam"
+      ],
+      "after": [
+        "chey",
+        "[D2:qokaiin]",
+        "[D1:otain]",
+        "ychol",
+        "oiin"
+      ]
+    },
+    {
+      "recipe": "f107r_B04",
+      "pos": 18,
+      "w1": "qokaiin",
+      "w2": "otain",
+      "r1": "qok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "or",
+        "alam",
+        "[D2:chtaiin]",
+        "[D1:otarain]",
+        "chey"
+      ],
+      "after": [
+        "ychol",
+        "oiin",
+        "chey",
+        "qockhal",
+        "chal"
+      ]
+    },
+    {
+      "recipe": "f107r_B06",
+      "pos": 2,
+      "w1": "okain",
+      "w2": "okaiin",
+      "r1": "ok",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": true,
+      "before": [
+        "taror",
+        "olal"
+      ],
+      "after": [
+        "qotal",
+        "[D2:shaiin]",
+        "qokeol",
+        "[D2:lkaiin]",
+        "okeeo"
+      ]
+    },
+    {
+      "recipe": "f107r_B08",
+      "pos": 7,
+      "w1": "chkaiin",
+      "w2": "chpaiin",
+      "r1": "chk",
+      "r2": "chp",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qokiir",
+        "otiir",
+        "ofchedy",
+        "qofchedy",
+        "qofchol"
+      ],
+      "after": [
+        "orol",
+        "kar",
+        "aiin",
+        "chl",
+        "cholor"
+      ]
+    },
+    {
+      "recipe": "f107r_B08",
+      "pos": 18,
+      "w1": "lkaiin",
+      "w2": "ykaiin",
+      "r1": "lk",
+      "r2": "yk",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "cholor",
+        "sheees",
+        "aiin",
+        "cheey",
+        "otchy"
+      ],
+      "after": [
+        "ykalkal",
+        "olkeeolkeeo",
+        "ar",
+        "shol"
+      ]
+    },
+    {
+      "recipe": "f107r_B09",
+      "pos": 34,
+      "w1": "yaiin",
+      "w2": "chekain",
+      "r1": "y",
+      "r2": "chek",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "okr",
+        "aiin",
+        "otar",
+        "qocthy",
+        "rolky"
+      ],
+      "after": [
+        "cheo",
+        "[D2:kaiin]",
+        "chey",
+        "qol",
+        "[D3:kaiiin]"
+      ]
+    },
+    {
+      "recipe": "f107r_B10",
+      "pos": 7,
+      "w1": "okaiin",
+      "w2": "otaiin",
+      "r1": "ok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "oro",
+        "lkeey",
+        "qotal",
+        "[D1:cheotain]",
+        "dar"
+      ],
+      "after": [
+        "otar",
+        "opaim",
+        "[D2:daiin]",
+        "shl",
+        "lkeeol"
+      ]
+    },
+    {
+      "recipe": "f107r_B13",
+      "pos": 8,
+      "w1": "kaiin",
+      "w2": "otaiin",
+      "r1": "k",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qokeedy",
+        "qokokil",
+        "{y}",
+        "chees",
+        "opal"
+      ],
+      "after": [
+        "otaram",
+        "sar",
+        "cheey",
+        "[D2:qodaiin]",
+        "[D2:qokaiin]"
+      ]
+    },
+    {
+      "recipe": "f107r_B13",
+      "pos": 13,
+      "w1": "qodaiin",
+      "w2": "qokaiin",
+      "r1": "qod",
+      "r2": "qok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:kaiin]",
+        "[D2:otaiin]",
+        "otaram",
+        "sar",
+        "cheey"
+      ],
+      "after": [
+        "ol",
+        "cheor",
+        "aiin",
+        "otal",
+        "[D2:taiin]"
+      ]
+    },
+    {
+      "recipe": "f107r_B13",
+      "pos": 19,
+      "w1": "taiin",
+      "w2": "qokaiin",
+      "r1": "t",
+      "r2": "qok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:qokaiin]",
+        "ol",
+        "cheor",
+        "aiin",
+        "otal"
+      ],
+      "after": [
+        "otal",
+        "alkal",
+        "[D1:okain]",
+        "cheey",
+        "lol"
+      ]
+    },
+    {
+      "recipe": "f107r_B14",
+      "pos": 9,
+      "w1": "otaiin",
+      "w2": "ytaiin",
+      "r1": "ot",
+      "r2": "yt",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "ar",
+        "kalkal",
+        "[D1:qotain]",
+        "oty",
+        "lky"
+      ],
+      "after": [
+        "om",
+        "{o}",
+        "[D1:alain]",
+        "aikhy",
+        "[D1:chkain]"
+      ]
+    },
+    {
+      "recipe": "f107v_B01",
+      "pos": 42,
+      "w1": "otaiin",
+      "w2": "alkaiin",
+      "r1": "ot",
+      "r2": "alk",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D1:dain]",
+        "cheky",
+        "okechy",
+        "[D1:qokain]",
+        "shocthy"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f107v_B02",
+      "pos": 11,
+      "w1": "paiin",
+      "w2": "okaiin",
+      "r1": "p",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:tedaiin]",
+        "opchedy",
+        "qopchdy",
+        "ytar",
+        "aiiil"
+      ],
+      "after": [
+        "qokaiy",
+        "olkeedy",
+        "qokeey",
+        "[D2:qotaiin]",
+        "oky"
+      ]
+    },
+    {
+      "recipe": "f107v_B02",
+      "pos": 24,
+      "w1": "chain",
+      "w2": "qokain",
+      "r1": "ch",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:otaiin]",
+        "aiin",
+        "qokaldy",
+        "[D2:taiin]",
+        "cheockhy"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f107v_B04",
+      "pos": 31,
+      "w1": "daiin",
+      "w2": "shaiin",
+      "r1": "d",
+      "r2": "sh",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:qokaiin]",
+        "otal",
+        "shocky",
+        "[D2:qokaiin]",
+        "dalam"
+      ],
+      "after": [
+        "[D2:okaiin]",
+        "qokar",
+        "qokal",
+        "qokal",
+        "cheody"
+      ]
+    },
+    {
+      "recipe": "f107v_B04",
+      "pos": 32,
+      "w1": "shaiin",
+      "w2": "okaiin",
+      "r1": "sh",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "otal",
+        "shocky",
+        "[D2:qokaiin]",
+        "dalam",
+        "[D2:daiin]"
+      ],
+      "after": [
+        "qokar",
+        "qokal",
+        "qokal",
+        "cheody",
+        "[D1:qokain]"
+      ]
+    },
+    {
+      "recipe": "f107v_B04",
+      "pos": 44,
+      "w1": "lkaiin",
+      "w2": "okain",
+      "r1": "lk",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "okchdy",
+        "dlkal",
+        "[D1:solain]",
+        "qokal",
+        "okeey"
+      ],
+      "after": [
+        "chkal",
+        "[D1:otain]",
+        "chcthy",
+        "tarairy"
+      ]
+    },
+    {
+      "recipe": "f107v_B05",
+      "pos": 27,
+      "w1": "raiin",
+      "w2": "otaiin",
+      "r1": "r",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qokchey",
+        "qekchdy",
+        "[D2:okaiin]",
+        "lkl",
+        "chol"
+      ],
+      "after": [
+        "[D2:alkaiin]",
+        "dal",
+        "soral",
+        "[D2:olaiin]",
+        "chor"
+      ]
+    },
+    {
+      "recipe": "f107v_B05",
+      "pos": 28,
+      "w1": "otaiin",
+      "w2": "alkaiin",
+      "r1": "ot",
+      "r2": "alk",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qekchdy",
+        "[D2:okaiin]",
+        "lkl",
+        "chol",
+        "[D2:raiin]"
+      ],
+      "after": [
+        "dal",
+        "soral",
+        "[D2:olaiin]",
+        "chor",
+        "[D2:okaiin]"
+      ]
+    },
+    {
+      "recipe": "f107v_B05",
+      "pos": 34,
+      "w1": "okaiin",
+      "w2": "chkain",
+      "r1": "ok",
+      "r2": "chk",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:alkaiin]",
+        "dal",
+        "soral",
+        "[D2:olaiin]",
+        "chor"
+      ],
+      "after": [
+        "[D2:okaiin]"
+      ]
+    },
+    {
+      "recipe": "f107v_B05",
+      "pos": 35,
+      "w1": "chkain",
+      "w2": "okaiin",
+      "r1": "chk",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "dal",
+        "soral",
+        "[D2:olaiin]",
+        "chor",
+        "[D2:okaiin]"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f107v_B07",
+      "pos": 10,
+      "w1": "dain",
+      "w2": "olaiin",
+      "r1": "d",
+      "r2": "ol",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D1:opchain]",
+        "opalkar",
+        "otal",
+        "otar",
+        "alky"
+      ],
+      "after": [
+        "chol",
+        "[D1:olkain]",
+        "[D2:lkaiin]"
+      ]
+    },
+    {
+      "recipe": "f107v_B07",
+      "pos": 13,
+      "w1": "olkain",
+      "w2": "lkaiin",
+      "r1": "olk",
+      "r2": "lk",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "otar",
+        "alky",
+        "[D1:dain]",
+        "[D2:olaiin]",
+        "chol"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f107v_B10",
+      "pos": 3,
+      "w1": "okaiin",
+      "w2": "otaiin",
+      "r1": "ok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "tay",
+        "[D2:oaiin]",
+        "okeeody"
+      ],
+      "after": [
+        "otchey",
+        "[D2:qokaiin]",
+        "otedy",
+        "qokam",
+        "[D1:orain]"
+      ]
+    },
+    {
+      "recipe": "f107v_B10",
+      "pos": 11,
+      "w1": "qodaiin",
+      "w2": "odain",
+      "r1": "qod",
+      "r2": "od",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:qokaiin]",
+        "otedy",
+        "qokam",
+        "[D1:orain]",
+        "chol"
+      ],
+      "after": [
+        "aiin",
+        "[D1:okain]",
+        "chkaly",
+        "[D2:raiin]",
+        "{y}"
+      ]
+    },
+    {
+      "recipe": "f107v_B11",
+      "pos": 18,
+      "w1": "olkain",
+      "w2": "odain",
+      "r1": "olk",
+      "r2": "od",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "sheol",
+        "[D2:qokaiin]",
+        "olkeedy",
+        "okar",
+        "ar"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f107v_B12",
+      "pos": 19,
+      "w1": "lkain",
+      "w2": "okain",
+      "r1": "lk",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:qokaiin]",
+        "olkeey",
+        "qokol",
+        "oteey",
+        "oteey"
+      ],
+      "after": [
+        "cheor",
+        "[D2:olkaiin]",
+        "[D1:oain]",
+        "cheary",
+        "[D2:raiin]"
+      ]
+    },
+    {
+      "recipe": "f107v_B12",
+      "pos": 22,
+      "w1": "olkaiin",
+      "w2": "oain",
+      "r1": "olk",
+      "r2": "o",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "oteey",
+        "oteey",
+        "[D1:lkain]",
+        "[D1:okain]",
+        "cheor"
+      ],
+      "after": [
+        "cheary",
+        "[D2:raiin]",
+        "okoiin",
+        "[D2:odaiin]",
+        "[D2:okaiin]"
+      ]
+    },
+    {
+      "recipe": "f107v_B12",
+      "pos": 27,
+      "w1": "odaiin",
+      "w2": "okaiin",
+      "r1": "od",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:olkaiin]",
+        "[D1:oain]",
+        "cheary",
+        "[D2:raiin]",
+        "okoiin"
+      ],
+      "after": [
+        "{y}",
+        "chokeey",
+        "qokey",
+        "qokaiii",
+        "lor"
+      ]
+    },
+    {
+      "recipe": "f107v_B15",
+      "pos": 0,
+      "w1": "porain",
+      "w2": "okain",
+      "r1": "por",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [],
+      "after": [
+        "okechdy",
+        "dal",
+        "keeedal",
+        "shedy",
+        "okeeolkcheey"
+      ]
+    },
+    {
+      "recipe": "f108r_B03",
+      "pos": 42,
+      "w1": "dain",
+      "w2": "otalaiin",
+      "r1": "d",
+      "r2": "otal",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "okeey",
+        "qetchdy",
+        "oteeody",
+        "[D2:okaiin]",
+        "ykeeo"
+      ],
+      "after": [
+        "oly",
+        "tshey",
+        "okchey",
+        "[D1:dain]",
+        "aloiin"
+      ]
+    },
+    {
+      "recipe": "f108r_B04",
+      "pos": 20,
+      "w1": "iirain",
+      "w2": "okain",
+      "r1": "iir",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "chedy",
+        "okchedy",
+        "qoeedy",
+        "qockhey",
+        "{d}"
+      ],
+      "after": [
+        "saithy",
+        "[D2:olkaiin]",
+        "chckhy",
+        "[D2:daiin]",
+        "dal"
+      ]
+    },
+    {
+      "recipe": "f108r_B06",
+      "pos": 23,
+      "w1": "okain",
+      "w2": "charain",
+      "r1": "ok",
+      "r2": "char",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "lor",
+        "aiin",
+        "okeeam",
+        "ykeol",
+        "chey"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f108r_B12",
+      "pos": 40,
+      "w1": "okeedain",
+      "w2": "otain",
+      "r1": "okeed",
+      "r2": "ot",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qokeedy",
+        "qokeey",
+        "chedal",
+        "chedy",
+        "qokeey"
+      ],
+      "after": [
+        "oolals",
+        "olkey",
+        "okey",
+        "lokeey",
+        "qokedy"
+      ]
+    },
+    {
+      "recipe": "f108v_B02",
+      "pos": 0,
+      "w1": "polaiin",
+      "w2": "okedain",
+      "r1": "pol",
+      "r2": "oked",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [],
+      "after": [
+        "okal",
+        "otchedy",
+        "qokeedy",
+        "[D2:raraiin]",
+        "{o}"
+      ]
+    },
+    {
+      "recipe": "f108v_B03",
+      "pos": 35,
+      "w1": "leedaiin",
+      "w2": "shckhaiin",
+      "r1": "leed",
+      "r2": "shckh",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "ched",
+        "kel",
+        "cthdy",
+        "ol",
+        "cheey"
+      ],
+      "after": [
+        "okeal",
+        "okar",
+        "aralor",
+        "om",
+        "shee"
+      ]
+    },
+    {
+      "recipe": "f108v_B06",
+      "pos": 60,
+      "w1": "kaiin",
+      "w2": "okaiin",
+      "r1": "k",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "tchar",
+        "[D2:okeedaiin]",
+        "oram",
+        "sheeol",
+        "okeey"
+      ],
+      "after": [
+        "ol",
+        "lchey",
+        "ctheo",
+        "{r}",
+        "aiin"
+      ]
+    },
+    {
+      "recipe": "f108v_B07",
+      "pos": 24,
+      "w1": "dain",
+      "w2": "shedain",
+      "r1": "d",
+      "r2": "shed",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qokedy",
+        "okeea",
+        "{r}",
+        "{l}",
+        "kam"
+      ],
+      "after": [
+        "qokedar",
+        "olkeedy",
+        "qokeedy",
+        "shedy",
+        "chedar"
+      ]
+    },
+    {
+      "recipe": "f108v_B07",
+      "pos": 132,
+      "w1": "otaiin",
+      "w2": "ycheain",
+      "r1": "ot",
+      "r2": "yche",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "shear",
+        "olkedy",
+        "chy",
+        "kar",
+        "tar"
+      ],
+      "after": [
+        "chey",
+        "lcheal",
+        "ykeey",
+        "qolcheedy",
+        "qokeedy"
+      ]
+    },
+    {
+      "recipe": "f108v_B07",
+      "pos": 177,
+      "w1": "saiin",
+      "w2": "sheeain",
+      "r1": "s",
+      "r2": "shee",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qokeedy",
+        "qokey",
+        "sheey",
+        "qokeal",
+        "aral"
+      ],
+      "after": [
+        "[D1:qkain]",
+        "okeey",
+        "qokalor",
+        "cheol",
+        "keol"
+      ]
+    },
+    {
+      "recipe": "f108v_B07",
+      "pos": 178,
+      "w1": "sheeain",
+      "w2": "qkain",
+      "r1": "shee",
+      "r2": "qk",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qokey",
+        "sheey",
+        "qokeal",
+        "aral",
+        "[D2:saiin]"
+      ],
+      "after": [
+        "okeey",
+        "qokalor",
+        "cheol",
+        "keol",
+        "chedy"
+      ]
+    },
+    {
+      "recipe": "f108v_B07",
+      "pos": 210,
+      "w1": "saiin",
+      "w2": "okain",
+      "r1": "s",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "sheey",
+        "qokeeey",
+        "qokeedar",
+        "al",
+        "keedy"
+      ],
+      "after": [
+        "cheey",
+        "[D2:lkaiin]",
+        "cheal",
+        "cheol",
+        "keear"
+      ]
+    },
+    {
+      "recipe": "f111r_B02",
+      "pos": 28,
+      "w1": "chedain",
+      "w2": "daiin",
+      "r1": "ched",
+      "r2": "d",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "otar",
+        "aiin",
+        "om",
+        "[D2:daiin]",
+        "{o}"
+      ],
+      "after": [
+        "cheedy",
+        "qokeey",
+        "qokedy",
+        "chckhhy",
+        "otshedy"
+      ]
+    },
+    {
+      "recipe": "f111r_B02",
+      "pos": 49,
+      "w1": "ykeedaiin",
+      "w2": "shekain",
+      "r1": "ykeed",
+      "r2": "shek",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D1:okain]",
+        "chedy",
+        "chedyteey",
+        "dal",
+        "lam"
+      ],
+      "after": [
+        "shedy",
+        "qokear",
+        "ochey",
+        "reeey",
+        "qokeey"
+      ]
+    },
+    {
+      "recipe": "f111r_B02",
+      "pos": 315,
+      "w1": "shedain",
+      "w2": "shkeyqokeaiin",
+      "r1": "shed",
+      "r2": "shkeyqoke",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "aiin",
+        "chedy",
+        "qokeey",
+        "[D1:qoirain]",
+        "sheotchedy"
+      ],
+      "after": [
+        "shkeody",
+        "qokeey",
+        "qokeedy",
+        "chkal",
+        "checthy"
+      ]
+    },
+    {
+      "recipe": "f111r_B03",
+      "pos": 36,
+      "w1": "ltain",
+      "w2": "saiin",
+      "r1": "lt",
+      "r2": "s",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D1:chedain]",
+        "otedy",
+        "qokeedy",
+        "key",
+        "{l}"
+      ],
+      "after": [
+        "chckhedy",
+        "[D1:okain]",
+        "[D1:oteain]",
+        "shok",
+        "qokechdy"
+      ]
+    },
+    {
+      "recipe": "f111r_B03",
+      "pos": 39,
+      "w1": "okain",
+      "w2": "oteain",
+      "r1": "ok",
+      "r2": "ote",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "key",
+        "{l}",
+        "[D1:ltain]",
+        "[D2:saiin]",
+        "chckhedy"
+      ],
+      "after": [
+        "shok",
+        "qokechdy",
+        "okechedy",
+        "chedy",
+        "qokeey"
+      ]
+    },
+    {
+      "recipe": "f111r_B05",
+      "pos": 24,
+      "w1": "cheekain",
+      "w2": "qokeeokain",
+      "r1": "cheek",
+      "r2": "qokeeok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:qokaiin]",
+        "ol",
+        "okeey",
+        "{l}",
+        "chedy"
+      ],
+      "after": [
+        "chckhy",
+        "cheal",
+        "keel",
+        "[D1:qokain]",
+        "chckhal"
+      ]
+    },
+    {
+      "recipe": "f111r_B06",
+      "pos": 29,
+      "w1": "kain",
+      "w2": "chaiin",
+      "r1": "k",
+      "r2": "ch",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "alom",
+        "yshe",
+        "aiin",
+        "okshdy",
+        "shkeey"
+      ],
+      "after": [
+        "alolshey",
+        "[D2:qokaiin]",
+        "[D1:chcthydain]",
+        "tair",
+        "[D2:chckhaiin]"
+      ]
+    },
+    {
+      "recipe": "f111r_B06",
+      "pos": 32,
+      "w1": "qokaiin",
+      "w2": "chcthydain",
+      "r1": "qok",
+      "r2": "chcthyd",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "okshdy",
+        "shkeey",
+        "[D1:kain]",
+        "[D2:chaiin]",
+        "alolshey"
+      ],
+      "after": [
+        "tair",
+        "[D2:chckhaiin]",
+        "dair",
+        "qokal",
+        "[D1:otain]"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 4,
+      "w1": "alkain",
+      "w2": "sheokain",
+      "r1": "alk",
+      "r2": "sheok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "koshey",
+        "qokal",
+        "chckheal",
+        "opcheodair"
+      ],
+      "after": [
+        "cheok",
+        "okeal",
+        "shedy",
+        "ralchy",
+        "sheekeey"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 65,
+      "w1": "kaiin",
+      "w2": "oteedaiin",
+      "r1": "k",
+      "r2": "oteed",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "cheal",
+        "qokeey",
+        "lkeey",
+        "chol",
+        "{l}"
+      ],
+      "after": [
+        "as",
+        "alkeedym",
+        "qokeechey",
+        "[D2:qokaiin]",
+        "[D2:oteaiin]"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 70,
+      "w1": "qokaiin",
+      "w2": "oteaiin",
+      "r1": "qok",
+      "r2": "ote",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:kaiin]",
+        "[D2:oteedaiin]",
+        "as",
+        "alkeedym",
+        "qokeechey"
+      ],
+      "after": [
+        "fcheeo",
+        "{l}",
+        "[D1:kain]",
+        "okeey",
+        "{l}"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 79,
+      "w1": "kain",
+      "w2": "chedain",
+      "r1": "k",
+      "r2": "ched",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D1:kain]",
+        "okeey",
+        "{l}",
+        "lcheedy",
+        "otal"
+      ],
+      "after": [
+        "al",
+        "sho",
+        "otchey",
+        "cheol",
+        "kechy"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 127,
+      "w1": "qokain",
+      "w2": "chedkain",
+      "r1": "qok",
+      "r2": "chedk",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "shear",
+        "aiin",
+        "sheear",
+        "[D1:otain]",
+        "otedy"
+      ],
+      "after": [
+        "[D1:shedaitain]",
+        "shalg",
+        "qear",
+        "ain",
+        "shey"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 128,
+      "w1": "chedkain",
+      "w2": "shedaitain",
+      "r1": "chedk",
+      "r2": "shedait",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "aiin",
+        "sheear",
+        "[D1:otain]",
+        "otedy",
+        "[D1:qokain]"
+      ],
+      "after": [
+        "shalg",
+        "qear",
+        "ain",
+        "shey",
+        "okeeey"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 142,
+      "w1": "sheaiin",
+      "w2": "okaiin",
+      "r1": "she",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "sho",
+        "lchal",
+        "sheey",
+        "shckhey",
+        "kshartar"
+      ],
+      "after": [
+        "shckhy",
+        "cheol",
+        "kedy",
+        "chetar",
+        "[D2:okaiin]"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 169,
+      "w1": "otain",
+      "w2": "qokaiin",
+      "r1": "ot",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "lal",
+        "gm",
+        "sar",
+        "shey",
+        "{l}"
+      ],
+      "after": [
+        "al",
+        "[D1:kain]",
+        "chedy",
+        "otal",
+        "lchedy"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 208,
+      "w1": "qoeedaiin",
+      "w2": "okain",
+      "r1": "qoeed",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "lchal",
+        "she",
+        "[D1:otain]",
+        "tais",
+        "shedy"
+      ],
+      "after": [
+        "chhey",
+        "[D2:kaiin]",
+        "shey",
+        "[D1:otain]",
+        "[D1:alkain]"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 213,
+      "w1": "otain",
+      "w2": "alkain",
+      "r1": "ot",
+      "r2": "alk",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:qoeedaiin]",
+        "[D1:okain]",
+        "chhey",
+        "[D2:kaiin]",
+        "shey"
+      ],
+      "after": [
+        "{o}",
+        "{l}",
+        "{r}",
+        "ol",
+        "[D1:dain]"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 219,
+      "w1": "dain",
+      "w2": "qokaiin",
+      "r1": "d",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D1:alkain]",
+        "{o}",
+        "{l}",
+        "{r}",
+        "ol"
+      ],
+      "after": [
+        "cheal",
+        "[D1:tain]",
+        "[D1:qokain]",
+        "shey",
+        "[D1:qokain]"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 222,
+      "w1": "tain",
+      "w2": "qokain",
+      "r1": "t",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "{r}",
+        "ol",
+        "[D1:dain]",
+        "[D2:qokaiin]",
+        "cheal"
+      ],
+      "after": [
+        "shey",
+        "[D1:qokain]",
+        "char",
+        "shcthey",
+        "qoky"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 230,
+      "w1": "qokaiin",
+      "w2": "shain",
+      "r1": "qok",
+      "r2": "sh",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D1:qokain]",
+        "char",
+        "shcthey",
+        "qoky",
+        "chy"
+      ],
+      "after": [
+        "qokal",
+        "shar",
+        "qoteal",
+        "[D1:qotain]",
+        "chedy"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 250,
+      "w1": "lkain",
+      "w2": "cheokain",
+      "r1": "lk",
+      "r2": "cheok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qol",
+        "rar",
+        "ain",
+        "cheey",
+        "lkeey"
+      ],
+      "after": [
+        "sheo",
+        "qo",
+        "[D1:qokain]",
+        "chear",
+        "alam"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 262,
+      "w1": "qokain",
+      "w2": "okain",
+      "r1": "qok",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:saiin]",
+        "ychear",
+        "olsheey",
+        "[D1:chetain]",
+        "chedy"
+      ],
+      "after": [
+        "al",
+        "chan",
+        "okalchey",
+        "lkeeey",
+        "[D2:qokaiin]"
+      ]
+    },
+    {
+      "recipe": "f111v_B01",
+      "pos": 274,
+      "w1": "okaiin",
+      "w2": "qokain",
+      "r1": "ok",
+      "r2": "qok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "sheckhy",
+        "qokar",
+        "[D1:chalkain]",
+        "chckhedy",
+        "lcheol"
+      ],
+      "after": [
+        "cheol",
+        "[D2:daiin]",
+        "lam",
+        "[D1:cheodain]",
+        "qokar"
+      ]
+    },
+    {
+      "recipe": "f111v_B02",
+      "pos": 24,
+      "w1": "qorchain",
+      "w2": "okain",
+      "r1": "qorch",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qokl",
+        "chey",
+        "qoklcheor",
+        "ldar",
+        "llo"
+      ],
+      "after": [
+        "chear",
+        "[D1:lkain]"
+      ]
+    },
+    {
+      "recipe": "f111v_B03",
+      "pos": 1,
+      "w1": "cheopaiin",
+      "w2": "otain",
+      "r1": "cheop",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "polkiin"
+      ],
+      "after": [
+        "shedy",
+        "pchedy",
+        "opcheedy",
+        "[D1:qokain]",
+        "chcfhey"
+      ]
+    },
+    {
+      "recipe": "f111v_B03",
+      "pos": 11,
+      "w1": "okeokain",
+      "w2": "sheekain",
+      "r1": "okeok",
+      "r2": "sheek",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D1:qokain]",
+        "chcfhey",
+        "otchey",
+        "lldy",
+        "shokar"
+      ],
+      "after": [
+        "[D1:qokain]",
+        "chechey",
+        "qokeey",
+        "[D1:qetain]",
+        "[D1:otain]"
+      ]
+    },
+    {
+      "recipe": "f111v_B03",
+      "pos": 12,
+      "w1": "sheekain",
+      "w2": "qokain",
+      "r1": "sheek",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "chcfhey",
+        "otchey",
+        "lldy",
+        "shokar",
+        "[D1:okeokain]"
+      ],
+      "after": [
+        "chechey",
+        "qokeey",
+        "[D1:qetain]",
+        "[D1:otain]",
+        "ar"
+      ]
+    },
+    {
+      "recipe": "f111v_B03",
+      "pos": 16,
+      "w1": "qetain",
+      "w2": "otain",
+      "r1": "qet",
+      "r2": "ot",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D1:okeokain]",
+        "[D1:sheekain]",
+        "[D1:qokain]",
+        "chechey",
+        "qokeey"
+      ],
+      "after": [
+        "ar",
+        "[D1:lkain]",
+        "lky"
+      ]
+    },
+    {
+      "recipe": "f111v_B04",
+      "pos": 1,
+      "w1": "oteain",
+      "w2": "chekain",
+      "r1": "ote",
+      "r2": "chek",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "pochey"
+      ],
+      "after": [
+        "cheal",
+        "[D1:lain]",
+        "chey",
+        "[D1:qokain]",
+        "chey"
+      ]
+    },
+    {
+      "recipe": "f111v_B05",
+      "pos": 11,
+      "w1": "oain",
+      "w2": "okaiin",
+      "r1": "o",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "opchedy",
+        "qotar",
+        "otar",
+        "chtal",
+        "sam"
+      ],
+      "after": [
+        "chcthy",
+        "[D1:lkain]",
+        "lchey",
+        "[D1:lshekain]",
+        "qotal"
+      ]
+    },
+    {
+      "recipe": "f111v_B05",
+      "pos": 23,
+      "w1": "shain",
+      "w2": "okaiin",
+      "r1": "sh",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "shedy",
+        "chkeey",
+        "lkeeed",
+        "[D1:lkain]",
+        "{y}"
+      ],
+      "after": [
+        "chey",
+        "qokar",
+        "ar",
+        "ar",
+        "ain"
+      ]
+    },
+    {
+      "recipe": "f111v_B06",
+      "pos": 2,
+      "w1": "ykain",
+      "w2": "qokain",
+      "r1": "yk",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "polchey",
+        "lkarshar"
+      ],
+      "after": [
+        "shalky",
+        "dy",
+        "tor",
+        "chey",
+        "keedy"
+      ]
+    },
+    {
+      "recipe": "f111v_B06",
+      "pos": 71,
+      "w1": "okaiin",
+      "w2": "otain",
+      "r1": "ok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "ycheo",
+        "[D2:daiin]",
+        "sheeky",
+        "chokeal",
+        "sheekar"
+      ],
+      "after": [
+        "chear",
+        "alo",
+        "[D2:laiin]",
+        "chotag",
+        "[D1:dain]"
+      ]
+    },
+    {
+      "recipe": "f111v_B06",
+      "pos": 77,
+      "w1": "dain",
+      "w2": "teeodain",
+      "r1": "d",
+      "r2": "teeod",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D1:otain]",
+        "chear",
+        "alo",
+        "[D2:laiin]",
+        "chotag"
+      ],
+      "after": [
+        "cheeal",
+        "[D2:olaiin]",
+        "or"
+      ]
+    },
+    {
+      "recipe": "f111v_B07",
+      "pos": 0,
+      "w1": "pollaiin",
+      "w2": "okain",
+      "r1": "poll",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [],
+      "after": [
+        "sheal",
+        "[D1:pchedain]",
+        "opchey",
+        "polshy",
+        "okshey"
+      ]
+    },
+    {
+      "recipe": "f111v_B07",
+      "pos": 23,
+      "w1": "cheytain",
+      "w2": "olain",
+      "r1": "cheyt",
+      "r2": "ol",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "checthy",
+        "qotainaly",
+        "[D1:sain]",
+        "cheey",
+        "qokeey"
+      ],
+      "after": [
+        "ykeeedy",
+        "[D1:chekain]",
+        "chckhey",
+        "lchar"
+      ]
+    },
+    {
+      "recipe": "f111v_B08",
+      "pos": 3,
+      "w1": "cheykaiin",
+      "w2": "tain",
+      "r1": "cheyk",
+      "r2": "t",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "psalar",
+        "cheey",
+        "qekal"
+      ],
+      "after": [
+        "chal",
+        "al",
+        "[D2:skaiin]",
+        "okchedy",
+        "opchdal"
+      ]
+    },
+    {
+      "recipe": "f111v_B08",
+      "pos": 17,
+      "w1": "qokain",
+      "w2": "okain",
+      "r1": "qok",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "cheey",
+        "[D1:chkain]",
+        "chal",
+        "lor",
+        "sheey"
+      ],
+      "after": [
+        "chey",
+        "[D1:qokain]",
+        "{o}",
+        "keey",
+        "[D2:shaiin]"
+      ]
+    },
+    {
+      "recipe": "f112r_B01",
+      "pos": 25,
+      "w1": "chokain",
+      "w2": "otain",
+      "r1": "chok",
+      "r2": "ot",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "oteedy",
+        "[D2:otaiin]",
+        "oty",
+        "odys",
+        "qokeedy"
+      ],
+      "after": [
+        "otar",
+        "chedy",
+        "taim",
+        "oram",
+        "otair"
+      ]
+    },
+    {
+      "recipe": "f112r_B03",
+      "pos": 13,
+      "w1": "qokedain",
+      "w2": "otain",
+      "r1": "qoked",
+      "r2": "ot",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "solol",
+        "shedy",
+        "shol",
+        "qokeey",
+        "qokeeey"
+      ],
+      "after": [
+        "ar",
+        "amchg",
+        "qoeeear",
+        "she",
+        "olkeear"
+      ]
+    },
+    {
+      "recipe": "f112r_B07",
+      "pos": 3,
+      "w1": "okaiin",
+      "w2": "otain",
+      "r1": "ok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "pair",
+        "al",
+        "keolor"
+      ],
+      "after": [
+        "oteey",
+        "lchedy",
+        "okeeor",
+        "oteor",
+        "karainy"
+      ]
+    },
+    {
+      "recipe": "f112r_B08",
+      "pos": 11,
+      "w1": "sain",
+      "w2": "olaiin",
+      "r1": "s",
+      "r2": "ol",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "aram",
+        "qotedy",
+        "[D2:araiin]",
+        "qokchdy",
+        "opary"
+      ],
+      "after": [
+        "qopchdy",
+        "qoky",
+        "okeal",
+        "chedy",
+        "okeey"
+      ]
+    },
+    {
+      "recipe": "f112v_B02",
+      "pos": 16,
+      "w1": "chekaiiin",
+      "w2": "soaiin",
+      "r1": "chek",
+      "r2": "so",
+      "ic1": 3,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:otaiin]",
+        "okal",
+        "okar",
+        "otal",
+        "kedy"
+      ],
+      "after": [
+        "ar",
+        "aiin",
+        "[D2:okaiin]",
+        "[D2:otaiin]",
+        "[D1:cheekain]"
+      ]
+    },
+    {
+      "recipe": "f112v_B02",
+      "pos": 20,
+      "w1": "okaiin",
+      "w2": "otaiin",
+      "r1": "ok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "kedy",
+        "[D3:chekaiiin]",
+        "[D2:soaiin]",
+        "ar",
+        "aiin"
+      ],
+      "after": [
+        "[D1:cheekain]",
+        "okchedy",
+        "qokchdy",
+        "[D1:dain]",
+        "sheey"
+      ]
+    },
+    {
+      "recipe": "f112v_B02",
+      "pos": 21,
+      "w1": "otaiin",
+      "w2": "cheekain",
+      "r1": "ot",
+      "r2": "cheek",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D3:chekaiiin]",
+        "[D2:soaiin]",
+        "ar",
+        "aiin",
+        "[D2:okaiin]"
+      ],
+      "after": [
+        "okchedy",
+        "qokchdy",
+        "[D1:dain]",
+        "sheey",
+        "okchedy"
+      ]
+    },
+    {
+      "recipe": "f112v_B05",
+      "pos": 8,
+      "w1": "saiin",
+      "w2": "chekain",
+      "r1": "s",
+      "r2": "chek",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "olkeedy",
+        "qokedy",
+        "[D2:qotaiin]",
+        "chocthedy",
+        "saisal"
+      ],
+      "after": [
+        "cheol",
+        "qoeedy",
+        "chol",
+        "keedy",
+        "[D2:qokaiin]"
+      ]
+    },
+    {
+      "recipe": "f112v_B09",
+      "pos": 21,
+      "w1": "saiin",
+      "w2": "chedaiin",
+      "r1": "s",
+      "r2": "ched",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:chedaiin]",
+        "okeeedy",
+        "[D2:otaiin]",
+        "cheekey",
+        "chol"
+      ],
+      "after": [
+        "checkhy",
+        "lkeedy",
+        "qokeedy",
+        "[D2:chkaiin]",
+        "checkhol"
+      ]
+    },
+    {
+      "recipe": "f112v_B09",
+      "pos": 30,
+      "w1": "shedain",
+      "w2": "qokaiin",
+      "r1": "shed",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qokeedy",
+        "[D2:chkaiin]",
+        "checkhol",
+        "chdam",
+        "pched"
+      ],
+      "after": [
+        "okees",
+        "chedy",
+        "checkhy"
+      ]
+    },
+    {
+      "recipe": "f112v_B11",
+      "pos": 2,
+      "w1": "okaiin",
+      "w2": "chaiin",
+      "r1": "ok",
+      "r2": "ch",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "teodarody",
+        "opcheed"
+      ],
+      "after": [
+        "otam",
+        "oteedy",
+        "qoteey",
+        "[D1:qotain]",
+        "chcthd"
+      ]
+    },
+    {
+      "recipe": "f113r_B02",
+      "pos": 47,
+      "w1": "laiin",
+      "w2": "olkain",
+      "r1": "l",
+      "r2": "olk",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "sheey",
+        "qokchey",
+        "sokal",
+        "okeey",
+        "char"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f113r_B03",
+      "pos": 16,
+      "w1": "okaiin",
+      "w2": "cheodaiin",
+      "r1": "ok",
+      "r2": "cheod",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "dchos",
+        "aiin",
+        "oteey",
+        "[D2:qokaiin]",
+        "cho"
+      ],
+      "after": [
+        "aky",
+        "le",
+        "chody",
+        "[D2:chotaiin]"
+      ]
+    },
+    {
+      "recipe": "f113r_B06",
+      "pos": 27,
+      "w1": "olkaiin",
+      "w2": "chkaiin",
+      "r1": "olk",
+      "r2": "chk",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "char",
+        "alom",
+        "ycheod",
+        "[D2:cheoaiin]",
+        "chal"
+      ],
+      "after": [
+        "cheeey",
+        "lkeeo",
+        "aiiin",
+        "okeedy",
+        "qokcheey"
+      ]
+    },
+    {
+      "recipe": "f113r_B08",
+      "pos": 1,
+      "w1": "sheeodaiin",
+      "w2": "chkaiin",
+      "r1": "sheeod",
+      "r2": "chk",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "tchoar"
+      ],
+      "after": [
+        "otchod",
+        "okchedy",
+        "[D2:qokaiin]",
+        "[D1:chokain]",
+        "sheor"
+      ]
+    },
+    {
+      "recipe": "f113r_B08",
+      "pos": 5,
+      "w1": "qokaiin",
+      "w2": "chokain",
+      "r1": "qok",
+      "r2": "chok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "tchoar",
+        "[D2:sheeodaiin]",
+        "[D2:chkaiin]",
+        "otchod",
+        "okchedy"
+      ],
+      "after": [
+        "sheor",
+        "qokchy",
+        "qopam",
+        "ykeoeshy",
+        "[D2:qokaiin]"
+      ]
+    },
+    {
+      "recipe": "f113r_B10",
+      "pos": 20,
+      "w1": "rain",
+      "w2": "otain",
+      "r1": "r",
+      "r2": "ot",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "chal",
+        "os",
+        "akchy",
+        "[D2:daiin]",
+        "cheeeo"
+      ],
+      "after": [
+        "chol",
+        "[D2:lcholkaiin]",
+        "cheokedy",
+        "lodas",
+        "{y}"
+      ]
+    },
+    {
+      "recipe": "f113r_B11",
+      "pos": 11,
+      "w1": "ytaiin",
+      "w2": "okaiin",
+      "r1": "yt",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qchar",
+        "tar",
+        "shkchedy",
+        "qokchd",
+        "opy"
+      ],
+      "after": [
+        "chear",
+        "ckhar",
+        "shal",
+        "shckhy",
+        "[D1:okain]"
+      ]
+    },
+    {
+      "recipe": "f113r_B11",
+      "pos": 24,
+      "w1": "shodaiin",
+      "w2": "shkaiin",
+      "r1": "shod",
+      "r2": "shk",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "khar",
+        "chor",
+        "cky",
+        "[D1:chokain]",
+        "qoky"
+      ],
+      "after": [
+        "chcthal",
+        "okshedy",
+        "otal",
+        "[D2:okaiin]",
+        "cphoal"
+      ]
+    },
+    {
+      "recipe": "f113r_B11",
+      "pos": 31,
+      "w1": "otain",
+      "w2": "okaiin",
+      "r1": "ot",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "chcthal",
+        "okshedy",
+        "otal",
+        "[D2:okaiin]",
+        "cphoal"
+      ],
+      "after": [
+        "chedy",
+        "qotal",
+        "ykeeor",
+        "chear",
+        "[D1:okain]"
+      ]
+    },
+    {
+      "recipe": "f113r_B12",
+      "pos": 1,
+      "w1": "lshdaiin",
+      "w2": "otshsaiin",
+      "r1": "lshd",
+      "r2": "otshs",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "palshsar"
+      ],
+      "after": [
+        "shocfhy",
+        "qopchear",
+        "shkair",
+        "qopchdy",
+        "qoteedy"
+      ]
+    },
+    {
+      "recipe": "f113r_B16",
+      "pos": 30,
+      "w1": "okain",
+      "w2": "qokaiin",
+      "r1": "ok",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:qokaiin]",
+        "chedal",
+        "{l}",
+        "kches",
+        "ar"
+      ],
+      "after": [
+        "oram",
+        "tcho",
+        "arorshy",
+        "[D2:qokaiin]",
+        "shey"
+      ]
+    },
+    {
+      "recipe": "f113v_B03",
+      "pos": 25,
+      "w1": "okaiin",
+      "w2": "chokaiin",
+      "r1": "ok",
+      "r2": "chok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "otor",
+        "otar",
+        "toky",
+        "dair",
+        "ar"
+      ],
+      "after": [
+        "checkhol",
+        "[D2:cholkaiin]",
+        "olchy"
+      ]
+    },
+    {
+      "recipe": "f113v_B05",
+      "pos": 41,
+      "w1": "lkaiin",
+      "w2": "chdain",
+      "r1": "lk",
+      "r2": "chd",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qokaram",
+        "[D2:daiin]",
+        "chl",
+        "{l}",
+        "keey"
+      ],
+      "after": [
+        "[D1:qokain]",
+        "cheor",
+        "okalchedy",
+        "qokar",
+        "olkam"
+      ]
+    },
+    {
+      "recipe": "f113v_B05",
+      "pos": 42,
+      "w1": "chdain",
+      "w2": "qokain",
+      "r1": "chd",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:daiin]",
+        "chl",
+        "{l}",
+        "keey",
+        "[D2:lkaiin]"
+      ],
+      "after": [
+        "cheor",
+        "okalchedy",
+        "qokar",
+        "olkam",
+        "ar"
+      ]
+    },
+    {
+      "recipe": "f113v_B05",
+      "pos": 53,
+      "w1": "okaiin",
+      "w2": "cthororaiin",
+      "r1": "ok",
+      "r2": "cthoror",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "ar",
+        "[D2:saraiin]",
+        "shedy",
+        "lcheey",
+        "olkar"
+      ],
+      "after": [
+        "yteeeor"
+      ]
+    },
+    {
+      "recipe": "f113v_B06",
+      "pos": 13,
+      "w1": "okaiin",
+      "w2": "qokaiin",
+      "r1": "ok",
+      "r2": "qok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "fchocthor",
+        "opam",
+        "[D2:daiin]",
+        "qokeeody",
+        "qokar"
+      ],
+      "after": [
+        "okar",
+        "checthy",
+        "okal",
+        "ched",
+        "lchal"
+      ]
+    },
+    {
+      "recipe": "f113v_B07",
+      "pos": 12,
+      "w1": "okaiin",
+      "w2": "okaiin",
+      "r1": "ok",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": true,
+      "before": [
+        "chp",
+        "kcheos",
+        "okar",
+        "aithar",
+        "lo"
+      ],
+      "after": [
+        "cheeky",
+        "[D2:raiin]",
+        "olal",
+        "[D2:okaiin]",
+        "cheody"
+      ]
+    },
+    {
+      "recipe": "f113v_B07",
+      "pos": 19,
+      "w1": "okaiin",
+      "w2": "okaiin",
+      "r1": "ok",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": true,
+      "before": [
+        "cheeky",
+        "[D2:raiin]",
+        "olal",
+        "[D2:okaiin]",
+        "cheody"
+      ],
+      "after": [
+        "otar",
+        "aly",
+        "[D2:ykaiin]",
+        "al",
+        "kar"
+      ]
+    },
+    {
+      "recipe": "f113v_B07",
+      "pos": 26,
+      "w1": "okain",
+      "w2": "qokaiin",
+      "r1": "ok",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "otar",
+        "aly",
+        "[D2:ykaiin]",
+        "al",
+        "kar"
+      ],
+      "after": [
+        "chakair",
+        "okar",
+        "al",
+        "cheody",
+        "qokor"
+      ]
+    },
+    {
+      "recipe": "f113v_B09",
+      "pos": 43,
+      "w1": "okaiin",
+      "w2": "chckhaiin",
+      "r1": "ok",
+      "r2": "chckh",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D3:daiiin]",
+        "cheol",
+        "teeoar",
+        "shek",
+        "lchedy"
+      ],
+      "after": [
+        "[D2:otaiin]",
+        "[D2:otaiin]",
+        "araral",
+        "sheo",
+        "{l}"
+      ]
+    },
+    {
+      "recipe": "f113v_B09",
+      "pos": 44,
+      "w1": "chckhaiin",
+      "w2": "otaiin",
+      "r1": "chckh",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "cheol",
+        "teeoar",
+        "shek",
+        "lchedy",
+        "[D2:okaiin]"
+      ],
+      "after": [
+        "[D2:otaiin]",
+        "araral",
+        "sheo",
+        "{l}",
+        "keey"
+      ]
+    },
+    {
+      "recipe": "f113v_B09",
+      "pos": 45,
+      "w1": "otaiin",
+      "w2": "otaiin",
+      "r1": "ot",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": true,
+      "before": [
+        "teeoar",
+        "shek",
+        "lchedy",
+        "[D2:okaiin]",
+        "[D2:chckhaiin]"
+      ],
+      "after": [
+        "araral",
+        "sheo",
+        "{l}",
+        "keey",
+        "[D1:qokain]"
+      ]
+    },
+    {
+      "recipe": "f113v_B10",
+      "pos": 10,
+      "w1": "daiin",
+      "w2": "cheaiin",
+      "r1": "d",
+      "r2": "che",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qofcheol",
+        "[D2:qokaiin]",
+        "opalor",
+        "lkch",
+        "ofchr"
+      ],
+      "after": [
+        "okchey",
+        "cheky",
+        "[D1:qokain]",
+        "otecheedy",
+        "[D2:qokaiin]"
+      ]
+    },
+    {
+      "recipe": "f113v_B13",
+      "pos": 19,
+      "w1": "otaiin",
+      "w2": "chkain",
+      "r1": "ot",
+      "r2": "chk",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "{l}",
+        "keey",
+        "lkeees",
+        "or",
+        "aiin"
+      ],
+      "after": [
+        "olar",
+        "olchedy",
+        "qok",
+        "aiinos",
+        "[D2:daiin]"
+      ]
+    },
+    {
+      "recipe": "f113v_B15",
+      "pos": 27,
+      "w1": "otaiin",
+      "w2": "olaiin",
+      "r1": "ot",
+      "r2": "ol",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "dy",
+        "yshey",
+        "teeo",
+        "oteedy",
+        "qokeey"
+      ],
+      "after": [
+        "[D1:cheokain]",
+        "lkeey",
+        "ltal",
+        "keedy"
+      ]
+    },
+    {
+      "recipe": "f113v_B15",
+      "pos": 28,
+      "w1": "olaiin",
+      "w2": "cheokain",
+      "r1": "ol",
+      "r2": "cheok",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "yshey",
+        "teeo",
+        "oteedy",
+        "qokeey",
+        "[D2:otaiin]"
+      ],
+      "after": [
+        "lkeey",
+        "ltal",
+        "keedy"
+      ]
+    },
+    {
+      "recipe": "f114r_B02",
+      "pos": 38,
+      "w1": "qodaiin",
+      "w2": "okchedaiin",
+      "r1": "qod",
+      "r2": "okched",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "cheol",
+        "dchedy",
+        "dkchs",
+        "aiin",
+        "chdedy"
+      ],
+      "after": [
+        "[D1:chain]"
+      ]
+    },
+    {
+      "recipe": "f114r_B02",
+      "pos": 39,
+      "w1": "okchedaiin",
+      "w2": "chain",
+      "r1": "okched",
+      "r2": "ch",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "dchedy",
+        "dkchs",
+        "aiin",
+        "chdedy",
+        "[D2:qodaiin]"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f114r_B03",
+      "pos": 11,
+      "w1": "qodaiin",
+      "w2": "daiin",
+      "r1": "qod",
+      "r2": "d",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:otaiin]",
+        "opcheol",
+        "ofchedaiir",
+        "ocphy",
+        "dcheod"
+      ],
+      "after": [
+        "chey",
+        "kal",
+        "dody",
+        "chdairod",
+        "okchdy"
+      ]
+    },
+    {
+      "recipe": "f114r_B05",
+      "pos": 6,
+      "w1": "qopdain",
+      "w2": "opdaiin",
+      "r1": "qopd",
+      "r2": "opd",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "oiin",
+        "chcthdy",
+        "qodair",
+        "ol",
+        "daldy"
+      ],
+      "after": [
+        "opdairody",
+        "opdaildo",
+        "ary",
+        "qoedy",
+        "otair"
+      ]
+    },
+    {
+      "recipe": "f114r_B05",
+      "pos": 42,
+      "w1": "qokeeodaiin",
+      "w2": "daiin",
+      "r1": "qokeeod",
+      "r2": "d",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "otol",
+        "chedy",
+        "[D1:qokeedain]",
+        "cheedy",
+        "qokey"
+      ],
+      "after": [
+        "oeted",
+        "[D2:akaiin]",
+        "otchedy",
+        "qokchedy",
+        "chckhd"
+      ]
+    },
+    {
+      "recipe": "f114r_B05",
+      "pos": 54,
+      "w1": "qodaiin",
+      "w2": "daildain",
+      "r1": "qod",
+      "r2": "daild",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "lcheos",
+        "okar",
+        "{y}",
+        "cheodeeey",
+        "qoeeody"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f114r_B06",
+      "pos": 6,
+      "w1": "daiin",
+      "w2": "ofchedaiin",
+      "r1": "d",
+      "r2": "ofched",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "shedar",
+        "qopchdy",
+        "dchedy",
+        "dol",
+        "qopchedy"
+      ],
+      "after": [
+        "[D2:chodaiin]",
+        "opair",
+        "dar",
+        "oty",
+        "sair"
+      ]
+    },
+    {
+      "recipe": "f114r_B06",
+      "pos": 7,
+      "w1": "ofchedaiin",
+      "w2": "chodaiin",
+      "r1": "ofched",
+      "r2": "chod",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qopchdy",
+        "dchedy",
+        "dol",
+        "qopchedy",
+        "[D2:daiin]"
+      ],
+      "after": [
+        "opair",
+        "dar",
+        "oty",
+        "sair",
+        "[D2:chedaiin]"
+      ]
+    },
+    {
+      "recipe": "f114r_B07",
+      "pos": 14,
+      "w1": "taiin",
+      "w2": "qokedaiin",
+      "r1": "t",
+      "r2": "qoked",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "rodeedy",
+        "qcphhedy",
+        "or",
+        "cheo",
+        "al"
+      ],
+      "after": [
+        "[D1:oeain]",
+        "al",
+        "{s}",
+        "ain",
+        "ches"
+      ]
+    },
+    {
+      "recipe": "f114r_B07",
+      "pos": 15,
+      "w1": "qokedaiin",
+      "w2": "oeain",
+      "r1": "qoked",
+      "r2": "oe",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qcphhedy",
+        "or",
+        "cheo",
+        "al",
+        "[D2:taiin]"
+      ],
+      "after": [
+        "al",
+        "{s}",
+        "ain",
+        "ches"
+      ]
+    },
+    {
+      "recipe": "f114r_B08",
+      "pos": 29,
+      "w1": "qokaiin",
+      "w2": "chodaiin",
+      "r1": "qok",
+      "r2": "chod",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "otair",
+        "or",
+        "airy",
+        "[D2:ycheeodaiin]",
+        "olkaiir"
+      ],
+      "after": [
+        "okar",
+        "[D2:olkaiin]",
+        "[D2:okaiin]",
+        "cheody",
+        "airoy"
+      ]
+    },
+    {
+      "recipe": "f114r_B08",
+      "pos": 32,
+      "w1": "olkaiin",
+      "w2": "okaiin",
+      "r1": "olk",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:ycheeodaiin]",
+        "olkaiir",
+        "[D2:qokaiin]",
+        "[D2:chodaiin]",
+        "okar"
+      ],
+      "after": [
+        "cheody",
+        "airoy",
+        "olam",
+        "cheeo",
+        "[D2:daiin]"
+      ]
+    },
+    {
+      "recipe": "f114r_B09",
+      "pos": 4,
+      "w1": "olkaiin",
+      "w2": "opdaiin",
+      "r1": "olk",
+      "r2": "opd",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "pchedairs",
+        "oeail",
+        "chotar",
+        "qokeedair"
+      ],
+      "after": [
+        "otoldair",
+        "chdy",
+        "tedair",
+        "aiir",
+        "aim"
+      ]
+    },
+    {
+      "recipe": "f114r_B09",
+      "pos": 30,
+      "w1": "oeedaiin",
+      "w2": "qoaiin",
+      "r1": "oeed",
+      "r2": "qo",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "{y}",
+        "chedar",
+        "okeedy",
+        "lkeedy",
+        "aiin"
+      ],
+      "after": [
+        "ykedy",
+        "okair",
+        "olkeedy",
+        "[D1:qoain]",
+        "ain"
+      ]
+    },
+    {
+      "recipe": "f114r_B09",
+      "pos": 41,
+      "w1": "cheedain",
+      "w2": "okaiin",
+      "r1": "cheed",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "ain",
+        "okeey",
+        "ram",
+        "sair",
+        "aiin"
+      ],
+      "after": [
+        "otedy",
+        "[D1:qokeedain]",
+        "[D1:orain]"
+      ]
+    },
+    {
+      "recipe": "f114r_B09",
+      "pos": 44,
+      "w1": "qokeedain",
+      "w2": "orain",
+      "r1": "qokeed",
+      "r2": "or",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "sair",
+        "aiin",
+        "[D1:cheedain]",
+        "[D2:okaiin]",
+        "otedy"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f114r_B10",
+      "pos": 0,
+      "w1": "tcheodaiin",
+      "w2": "chaiin",
+      "r1": "tcheod",
+      "r2": "ch",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [],
+      "after": [
+        "[D2:qokaiin]",
+        "[D2:otaiin]",
+        "[D1:otalkain]",
+        "[D1:otchedain]",
+        "qotcho"
+      ]
+    },
+    {
+      "recipe": "f114r_B10",
+      "pos": 1,
+      "w1": "chaiin",
+      "w2": "qokaiin",
+      "r1": "ch",
+      "r2": "qok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:tcheodaiin]"
+      ],
+      "after": [
+        "[D2:otaiin]",
+        "[D1:otalkain]",
+        "[D1:otchedain]",
+        "qotcho",
+        "chdy"
+      ]
+    },
+    {
+      "recipe": "f114r_B10",
+      "pos": 2,
+      "w1": "qokaiin",
+      "w2": "otaiin",
+      "r1": "qok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:tcheodaiin]",
+        "[D2:chaiin]"
+      ],
+      "after": [
+        "[D1:otalkain]",
+        "[D1:otchedain]",
+        "qotcho",
+        "chdy",
+        "dair"
+      ]
+    },
+    {
+      "recipe": "f114r_B10",
+      "pos": 3,
+      "w1": "otaiin",
+      "w2": "otalkain",
+      "r1": "ot",
+      "r2": "otalk",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:tcheodaiin]",
+        "[D2:chaiin]",
+        "[D2:qokaiin]"
+      ],
+      "after": [
+        "[D1:otchedain]",
+        "qotcho",
+        "chdy",
+        "dair",
+        "qotar"
+      ]
+    },
+    {
+      "recipe": "f114r_B10",
+      "pos": 4,
+      "w1": "otalkain",
+      "w2": "otchedain",
+      "r1": "otalk",
+      "r2": "otched",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:tcheodaiin]",
+        "[D2:chaiin]",
+        "[D2:qokaiin]",
+        "[D2:otaiin]"
+      ],
+      "after": [
+        "qotcho",
+        "chdy",
+        "dair",
+        "qotar",
+        "[D2:daiin]"
+      ]
+    },
+    {
+      "recipe": "f114r_B11",
+      "pos": 17,
+      "w1": "ykeodaiin",
+      "w2": "qoeedaiin",
+      "r1": "ykeod",
+      "r2": "qoeed",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "kar",
+        "ychedar",
+        "aikhdy",
+        "otar",
+        "ain"
+      ],
+      "after": [
+        "qokal",
+        "[D1:sain]",
+        "otchedy",
+        "qokar",
+        "odar"
+      ]
+    },
+    {
+      "recipe": "f114r_B11",
+      "pos": 34,
+      "w1": "qotaiin",
+      "w2": "chedaiiin",
+      "r1": "qot",
+      "r2": "ched",
+      "ic1": 2,
+      "ic2": 3,
+      "same_root": false,
+      "before": [
+        "ols",
+        "ol",
+        "[D2:kaiin]",
+        "chees",
+        "{air}"
+      ],
+      "after": [
+        "qoeedy",
+        "qokchedy",
+        "cheey",
+        "[D2:raiin]",
+        "ar"
+      ]
+    },
+    {
+      "recipe": "f114r_B12",
+      "pos": 0,
+      "w1": "todaiin",
+      "w2": "cheoltchedaiin",
+      "r1": "tod",
+      "r2": "cheoltched",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [],
+      "after": [
+        "[D2:daiin]",
+        "okar",
+        "[D1:qoeedain]",
+        "qcho",
+        "oeda"
+      ]
+    },
+    {
+      "recipe": "f114r_B12",
+      "pos": 1,
+      "w1": "cheoltchedaiin",
+      "w2": "daiin",
+      "r1": "cheoltched",
+      "r2": "d",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:todaiin]"
+      ],
+      "after": [
+        "okar",
+        "[D1:qoeedain]",
+        "qcho",
+        "oeda",
+        "opchedy"
+      ]
+    },
+    {
+      "recipe": "f114r_B12",
+      "pos": 24,
+      "w1": "taiin",
+      "w2": "qokaiin",
+      "r1": "t",
+      "r2": "qok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "oshey",
+        "[D2:daiin]",
+        "sheody",
+        "qoty",
+        "cheey"
+      ],
+      "after": [
+        "qokeeedy",
+        "[D3:oqotaiiin]",
+        "{o}",
+        "[D1:qoeeosain]"
+      ]
+    },
+    {
+      "recipe": "f114r_B13",
+      "pos": 2,
+      "w1": "qodaiin",
+      "w2": "otaiin",
+      "r1": "qod",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "poedair",
+        "qotol"
+      ],
+      "after": [
+        "qotar",
+        "qotchey",
+        "[D2:qotaiin]",
+        "cheopy",
+        "[D2:qopaiin]"
+      ]
+    },
+    {
+      "recipe": "f114r_B13",
+      "pos": 20,
+      "w1": "dain",
+      "w2": "ydaiin",
+      "r1": "d",
+      "r2": "yd",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "oral",
+        "tedy",
+        "qotchdy",
+        "qotar",
+        "cheo"
+      ],
+      "after": [
+        "chedy",
+        "qoal",
+        "cheey",
+        "qokair",
+        "okeedy"
+      ]
+    },
+    {
+      "recipe": "f114r_B13",
+      "pos": 32,
+      "w1": "opaiin",
+      "w2": "dain",
+      "r1": "op",
+      "r2": "d",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "chotal",
+        "chol",
+        "[D1:okain]",
+        "ar",
+        "da"
+      ],
+      "after": [
+        "ched",
+        "[D2:chodaiin]",
+        "[D1:otain]",
+        "chdar",
+        "chedy"
+      ]
+    },
+    {
+      "recipe": "f114r_B13",
+      "pos": 35,
+      "w1": "chodaiin",
+      "w2": "otain",
+      "r1": "chod",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "ar",
+        "da",
+        "[D2:opaiin]",
+        "[D1:dain]",
+        "ched"
+      ],
+      "after": [
+        "chdar",
+        "chedy",
+        "chocthy"
+      ]
+    },
+    {
+      "recipe": "f114v_B01",
+      "pos": 23,
+      "w1": "odain",
+      "w2": "qotain",
+      "r1": "od",
+      "r2": "qot",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "shedy",
+        "qotched",
+        "dl",
+        "oeos",
+        "qotcheo"
+      ],
+      "after": [
+        "otar",
+        "qotchd",
+        "dol",
+        "qotchedy",
+        "choty"
+      ]
+    },
+    {
+      "recipe": "f114v_B01",
+      "pos": 40,
+      "w1": "daiin",
+      "w2": "chedaiin",
+      "r1": "d",
+      "r2": "ched",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qoted",
+        "qotedol",
+        "chedar",
+        "qotedy",
+        "okeedy"
+      ],
+      "after": [
+        "oky",
+        "chedy",
+        "qokeedy",
+        "okaly",
+        "[D1:cheedain]"
+      ]
+    },
+    {
+      "recipe": "f114v_B03",
+      "pos": 2,
+      "w1": "qokedain",
+      "w2": "chdaiin",
+      "r1": "qoked",
+      "r2": "chd",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "pchedchdy",
+        "qoteedy"
+      ],
+      "after": [
+        "qokedy",
+        "[D1:chedain]",
+        "qoeedy",
+        "qotey",
+        "[D2:qotaiin]"
+      ]
+    },
+    {
+      "recipe": "f114v_B03",
+      "pos": 21,
+      "w1": "chedaiin",
+      "w2": "qotaiin",
+      "r1": "ched",
+      "r2": "qot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:skaiin]",
+        "sheedy",
+        "qotal",
+        "chedy",
+        "olkees"
+      ],
+      "after": [
+        "[D2:olchedaiin]",
+        "[D1:chedain]",
+        "[D1:dain]",
+        "chcthdy"
+      ]
+    },
+    {
+      "recipe": "f114v_B03",
+      "pos": 22,
+      "w1": "qotaiin",
+      "w2": "olchedaiin",
+      "r1": "qot",
+      "r2": "olched",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "sheedy",
+        "qotal",
+        "chedy",
+        "olkees",
+        "[D2:chedaiin]"
+      ],
+      "after": [
+        "[D1:chedain]",
+        "[D1:dain]",
+        "chcthdy"
+      ]
+    },
+    {
+      "recipe": "f114v_B03",
+      "pos": 23,
+      "w1": "olchedaiin",
+      "w2": "chedain",
+      "r1": "olched",
+      "r2": "ched",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qotal",
+        "chedy",
+        "olkees",
+        "[D2:chedaiin]",
+        "[D2:qotaiin]"
+      ],
+      "after": [
+        "[D1:dain]",
+        "chcthdy"
+      ]
+    },
+    {
+      "recipe": "f114v_B03",
+      "pos": 24,
+      "w1": "chedain",
+      "w2": "dain",
+      "r1": "ched",
+      "r2": "d",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "chedy",
+        "olkees",
+        "[D2:chedaiin]",
+        "[D2:qotaiin]",
+        "[D2:olchedaiin]"
+      ],
+      "after": [
+        "chcthdy"
+      ]
+    },
+    {
+      "recipe": "f114v_B04",
+      "pos": 17,
+      "w1": "qotaiin",
+      "w2": "dain",
+      "r1": "qot",
+      "r2": "d",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "chcty",
+        "chedal",
+        "[D2:daiin]",
+        "ytar",
+        "otchedy"
+      ],
+      "after": [
+        "dar",
+        "yog",
+        "sheedy",
+        "qoteeo",
+        "{s}"
+      ]
+    },
+    {
+      "recipe": "f114v_B06",
+      "pos": 10,
+      "w1": "shsodaiin",
+      "w2": "chotain",
+      "r1": "shsod",
+      "r2": "chot",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qokalsheody",
+        "choypshedy",
+        "qoto",
+        "shxam",
+        "{o}"
+      ],
+      "after": [
+        "qotar"
+      ]
+    },
+    {
+      "recipe": "f114v_B08",
+      "pos": 8,
+      "w1": "olkaiin",
+      "w2": "cheotaiin",
+      "r1": "olk",
+      "r2": "cheot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qotchedy",
+        "qotchdar",
+        "cheeos",
+        "olteody",
+        "otoydy"
+      ],
+      "after": [
+        "qoteody",
+        "qokod",
+        "sheoeed",
+        "qodeedy",
+        "yteedy"
+      ]
+    },
+    {
+      "recipe": "f114v_B08",
+      "pos": 20,
+      "w1": "otaiin",
+      "w2": "alkain",
+      "r1": "ot",
+      "r2": "alk",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "aiin",
+        "am",
+        "sor",
+        "aiin",
+        "otchedy"
+      ],
+      "after": [
+        "okeedy"
+      ]
+    },
+    {
+      "recipe": "f114v_B10",
+      "pos": 20,
+      "w1": "rain",
+      "w2": "olaiin",
+      "r1": "r",
+      "r2": "ol",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:qotaiin]",
+        "otal",
+        "[D2:otaiin]",
+        "oteeo",
+        "teey"
+      ],
+      "after": [
+        "cheo",
+        "otcheody",
+        "lkchedy",
+        "okol",
+        "[D2:okaiin]"
+      ]
+    },
+    {
+      "recipe": "f114v_B10",
+      "pos": 26,
+      "w1": "okaiin",
+      "w2": "otaiin",
+      "r1": "ok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:olaiin]",
+        "cheo",
+        "otcheody",
+        "lkchedy",
+        "okol"
+      ],
+      "after": [
+        "otal",
+        "qotar",
+        "{y}",
+        "cheol",
+        "oleey"
+      ]
+    },
+    {
+      "recipe": "f114v_B10",
+      "pos": 33,
+      "w1": "cheoaiin",
+      "w2": "chetaiin",
+      "r1": "cheo",
+      "r2": "chet",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "otal",
+        "qotar",
+        "{y}",
+        "cheol",
+        "oleey"
+      ],
+      "after": [
+        "[D1:sheeodain]"
+      ]
+    },
+    {
+      "recipe": "f114v_B10",
+      "pos": 34,
+      "w1": "chetaiin",
+      "w2": "sheeodain",
+      "r1": "chet",
+      "r2": "sheeod",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qotar",
+        "{y}",
+        "cheol",
+        "oleey",
+        "[D2:cheoaiin]"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f114v_B12",
+      "pos": 23,
+      "w1": "okedaiin",
+      "w2": "otaiin",
+      "r1": "oked",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "[D2:kaiin]",
+        "chey",
+        "tar",
+        "arody",
+        "oteey"
+      ],
+      "after": [
+        "qotchey",
+        "qoteeody",
+        "[D2:otaiin]",
+        "okal",
+        "dals"
+      ]
+    },
+    {
+      "recipe": "f114v_B12",
+      "pos": 35,
+      "w1": "daiin",
+      "w2": "okaiin",
+      "r1": "d",
+      "r2": "ok",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "qo",
+        "eecheedy",
+        "{o}",
+        "kecheokeo",
+        "oteo"
+      ],
+      "after": [
+        "choty",
+        "[D2:odaiin]",
+        "otam",
+        "eeo",
+        "cheo"
+      ]
+    },
+    {
+      "recipe": "f114v_B12",
+      "pos": 56,
+      "w1": "qokaiin",
+      "w2": "otain",
+      "r1": "qok",
+      "r2": "ot",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "dm",
+        "[D2:yaiin]",
+        "ooy",
+        "okeey",
+        "cheody"
+      ],
+      "after": [
+        "al",
+        "[D1:kain]",
+        "choty"
+      ]
+    },
+    {
+      "recipe": "f115r_B05",
+      "pos": 49,
+      "w1": "daiin",
+      "w2": "daiin",
+      "r1": "d",
+      "r2": "d",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": true,
+      "before": [
+        "otchdy",
+        "qotolchd",
+        "qol",
+        "cheey",
+        "qotchy"
+      ],
+      "after": [
+        "cheocthy",
+        "dolkeedy",
+        "[D2:qotaiin]",
+        "chol",
+        "oteeedchey"
+      ]
+    },
+    {
+      "recipe": "f115r_B13",
+      "pos": 6,
+      "w1": "qokain",
+      "w2": "qokain",
+      "r1": "qok",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": true,
+      "before": [
+        "[D2:raiin]",
+        "chkar",
+        "qokol",
+        "lchdy",
+        "qorshy"
+      ],
+      "after": [
+        "chep",
+        "chotchdy",
+        "dcheo",
+        "[D1:dain]",
+        "sheol"
+      ]
+    },
+    {
+      "recipe": "f115v_B01",
+      "pos": 6,
+      "w1": "opolaiin",
+      "w2": "qotdain",
+      "r1": "opol",
+      "r2": "qotd",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "otchedy",
+        "qotees",
+        "[D1:ytain]",
+        "qoty",
+        "qotar"
+      ],
+      "after": [
+        "ol",
+        "[D2:raiin]",
+        "om",
+        "ykeeochody",
+        "qokeedy"
+      ]
+    },
+    {
+      "recipe": "f115v_B02",
+      "pos": 3,
+      "w1": "qokchdain",
+      "w2": "qotain",
+      "r1": "qokchd",
+      "r2": "qot",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "pchody",
+        "[D2:odaiin]",
+        "chcphy"
+      ],
+      "after": [
+        "qokor",
+        "shed",
+        "oteody",
+        "[D2:solkaiin]",
+        "al"
+      ]
+    },
+    {
+      "recipe": "f115v_B03",
+      "pos": 11,
+      "w1": "chdaiin",
+      "w2": "chotain",
+      "r1": "chd",
+      "r2": "chot",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "lpchedy",
+        "okar",
+        "lkechedy",
+        "pchdam",
+        "ychees"
+      ],
+      "after": [
+        "cholkeedy",
+        "qotchy",
+        "chody",
+        "[D1:qotain]",
+        "lkchey"
+      ]
+    },
+    {
+      "recipe": "f115v_B05",
+      "pos": 20,
+      "w1": "ldaiin",
+      "w2": "saiin",
+      "r1": "ld",
+      "r2": "s",
+      "ic1": 2,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "sheedy",
+        "chockhy",
+        "qockheedy",
+        "qokechy",
+        "lkeey"
+      ],
+      "after": [
+        "chol",
+        "[D1:qotain]",
+        "[D1:qokain]",
+        "chl",
+        "lr"
+      ]
+    },
+    {
+      "recipe": "f115v_B05",
+      "pos": 23,
+      "w1": "qotain",
+      "w2": "qokain",
+      "r1": "qot",
+      "r2": "qok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qokechy",
+        "lkeey",
+        "[D2:ldaiin]",
+        "[D2:saiin]",
+        "chol"
+      ],
+      "after": [
+        "chl",
+        "lr",
+        "[D1:chdain]",
+        "qoteey",
+        "rcheey"
+      ]
+    },
+    {
+      "recipe": "f115v_B06",
+      "pos": 0,
+      "w1": "pchodain",
+      "w2": "chotain",
+      "r1": "pchod",
+      "r2": "chot",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [],
+      "after": [
+        "choky",
+        "[D1:lchain]",
+        "[D1:lpchdain]",
+        "dalchedy",
+        "qotolchedy"
+      ]
+    },
+    {
+      "recipe": "f115v_B06",
+      "pos": 3,
+      "w1": "lchain",
+      "w2": "lpchdain",
+      "r1": "lch",
+      "r2": "lpchd",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D1:pchodain]",
+        "[D1:chotain]",
+        "choky"
+      ],
+      "after": [
+        "dalchedy",
+        "qotolchedy",
+        "qopchedy",
+        "yshedy",
+        "qokeedy"
+      ]
+    },
+    {
+      "recipe": "f115v_B07",
+      "pos": 13,
+      "w1": "chodain",
+      "w2": "otedain",
+      "r1": "chod",
+      "r2": "oted",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "qopcheddy",
+        "lky",
+        "soiin",
+        "[D1:shedain]",
+        "qokeedy"
+      ],
+      "after": [
+        "qokeedy",
+        "qokeedy",
+        "qotedy",
+        "rosy",
+        "lshes"
+      ]
+    },
+    {
+      "recipe": "f115v_B12",
+      "pos": 25,
+      "w1": "qokain",
+      "w2": "lkaiin",
+      "r1": "qok",
+      "r2": "lk",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "sham",
+        "dairal",
+        "[D1:chain]",
+        "ykeedy",
+        "qokedy"
+      ],
+      "after": [
+        "lkchey",
+        "[D1:lkain]",
+        "lror",
+        "ycheeol",
+        "[D2:kaiin]"
+      ]
+    },
+    {
+      "recipe": "f115v_B12",
+      "pos": 31,
+      "w1": "kaiin",
+      "w2": "shedain",
+      "r1": "k",
+      "r2": "shed",
+      "ic1": 2,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D2:lkaiin]",
+        "lkchey",
+        "[D1:lkain]",
+        "lror",
+        "ycheeol"
+      ],
+      "after": [
+        "{s}",
+        "cho",
+        "{r}",
+        "okas",
+        "cheos"
+      ]
+    },
+    {
+      "recipe": "f116r_B03",
+      "pos": 23,
+      "w1": "qokain",
+      "w2": "okeeylkaiin",
+      "r1": "qok",
+      "r2": "okeeylk",
+      "ic1": 1,
+      "ic2": 2,
+      "same_root": false,
+      "before": [
+        "ldy",
+        "lchedy",
+        "qokeey",
+        "lchey",
+        "qokeedy"
+      ],
+      "after": []
+    },
+    {
+      "recipe": "f116r_B04",
+      "pos": 26,
+      "w1": "okain",
+      "w2": "dain",
+      "r1": "ok",
+      "r2": "d",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D1:olkain]",
+        "als",
+        "qoin",
+        "ar",
+        "cholches"
+      ],
+      "after": [
+        "cheey",
+        "okeey",
+        "[D1:otain]",
+        "olchdy",
+        "otal"
+      ]
+    },
+    {
+      "recipe": "f116r_B06",
+      "pos": 49,
+      "w1": "rain",
+      "w2": "okain",
+      "r1": "r",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D1:qokain]",
+        "chal",
+        "qol",
+        "chl",
+        "{l}"
+      ],
+      "after": [
+        "shckhy",
+        "dtal",
+        "orchcthdy",
+        "lty",
+        "dol"
+      ]
+    },
+    {
+      "recipe": "f116r_B07",
+      "pos": 123,
+      "w1": "sheain",
+      "w2": "okain",
+      "r1": "she",
+      "r2": "ok",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "dlar",
+        "shar",
+        "shar",
+        "{r}",
+        "ain"
+      ],
+      "after": [
+        "shey",
+        "qokchy",
+        "chckhy",
+        "[D1:orain]",
+        "qo"
+      ]
+    },
+    {
+      "recipe": "f116r_B07",
+      "pos": 132,
+      "w1": "qokain",
+      "w2": "shekain",
+      "r1": "qok",
+      "r2": "shek",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "chckhy",
+        "[D1:orain]",
+        "qo",
+        "[D1:qokain]",
+        "sheckhy"
+      ],
+      "after": [
+        "[D1:shkain]",
+        "shedy",
+        "shey",
+        "qokan",
+        "cham"
+      ]
+    },
+    {
+      "recipe": "f116r_B07",
+      "pos": 133,
+      "w1": "shekain",
+      "w2": "shkain",
+      "r1": "shek",
+      "r2": "shk",
+      "ic1": 1,
+      "ic2": 1,
+      "same_root": false,
+      "before": [
+        "[D1:orain]",
+        "qo",
+        "[D1:qokain]",
+        "sheckhy",
+        "[D1:qokain]"
+      ],
+      "after": [
+        "shedy",
+        "shey",
+        "qokan",
+        "cham",
+        "as"
+      ]
+    }
+  ]
+}
