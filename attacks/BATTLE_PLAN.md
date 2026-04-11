@@ -46,12 +46,15 @@ on APPREND a lire — mot par mot, contrainte par contrainte.
 | Distribution par folio | 500 mots × 148 folios | Matching par frequence |
 | 141 qualites galeniques | Circa Instans | Proprietes des plantes |
 
-### Puissance de calcul
+### Puissance de calcul — NOTRE AVANTAGE DECISIF
 | Ressource | Usage |
 |-----------|-------|
-| GPU | Entrainement modele de langue medieval latin |
-| ML pipeline | Scoring de vraisemblance des decodages candidats |
-| CPU multi-thread | Brute-force contraint sur espaces reduits |
+| **GPU** | **ARME PRINCIPALE.** Voir section GPU ATTACKS ci-dessous |
+| ML pipeline | Embeddings, scoring, classification |
+| CPU multi-thread | Orchestration, I/O, preprocessing |
+
+**Aucun chercheur Voynich avant nous n'a eu acces a cette puissance.**
+Le GPU transforme des problemes "infaisables" en problemes de quelques heures.
 
 ### Terrain (le VMS)
 | Element | Volume |
@@ -130,6 +133,201 @@ on APPREND a lire — mot par mot, contrainte par contrainte.
 - Le score_total est un COMBINE pondere de tous les scores
 - Un candidat avec 1 score tres haut et 4 nulls < un candidat avec 5 scores moyens
 - Le status est : CONFIRMED (>0.95), PROBABLE (>0.75), POSSIBLE (>0.50), DOUBTFUL (<0.50)
+
+---
+
+## GPU ATTACKS — La force brute intelligente
+
+### GPU-A — MCMC DECIPHERMENT (Simulated Annealing massif)
+```
+Priorite : ★★★★★ GAME CHANGER
+Techno : PyTorch / CUDA
+Temps GPU : 2-8h selon taille de l'espace
+```
+
+**Principe (technique classique de cassage de chiffre par substitution) :**
+C'est EXACTEMENT ce que les cryptanalystes modernes utilisent.
+1. Partir d'un mapping ALEATOIRE (chaque mot EVA → un mot latin au hasard)
+2. Scorer le texte decode (quadgram score = le texte ressemble-t-il a du latin?)
+3. SWAPPER deux mappings au hasard
+4. Re-scorer. Si meilleur → accepter. Si pire → accepter avec proba e^(-delta/T)
+5. Baisser la temperature T progressivement
+6. Repeter 10 millions de fois
+
+**Pourquoi le GPU change tout :**
+On fait tourner **10 000 chaines en parallele** sur le GPU.
+Chaque chaine explore une region differente de l'espace.
+En 2h, on teste l'equivalent de 100 MILLIARDS de combinaisons.
+Impossible sur CPU. Trivial sur GPU.
+
+**Adaptation a notre cas :**
+- L'espace n'est pas lettre→lettre mais MOT→MOT (7820 mots VMS × ~500 candidats latins)
+- Les 16 logograms sont FIXES (contraintes dures → reduisent l'espace)
+- Les 14 suffixes sont des CONTRAINTES (un mot en -ol ne mappe pas a un verbe)
+- Le scoring utilise nos quadgrams latins (data/quadgrams/latin.txt)
+- PLUS un scoring semantique (les ingredients co-occurrent comme dans l'AN?)
+
+**Output :** Les 100 meilleurs mappings trouves, classes par score.
+Si les top 10 convergent (memes mots pour les memes EVA) → on tient quelque chose.
+
+---
+
+### GPU-B — EMBEDDING ALIGNMENT (traduction non-supervisee)
+```
+Priorite : ★★★★★ TECHNIQUE DE POINTE
+Techno : word2vec/FastText + Procrustes alignment
+Temps GPU : 1-2h
+```
+
+**Principe (utilise en traduction automatique non-supervisee) :**
+Lample et al. (2018) ont montre qu'on peut traduire entre deux langues
+SANS AUCUN dictionnaire bilingue, juste avec les distributions de mots.
+
+La methode :
+1. Entrainer word2vec sur le CORPUS LATIN (470K lignes) → embeddings latins
+2. Entrainer word2vec sur le TEXTE VMS (39K tokens) → embeddings EVA
+3. Les deux espaces ont des STRUCTURES SIMILAIRES
+   (les mots frequents sont proches des mots frequents, les rares des rares)
+4. Trouver la ROTATION OPTIMALE qui aligne l'espace EVA sur l'espace latin
+   (Procrustes alignment, SVD, resolu en O(n^3))
+5. Pour chaque mot EVA, son plus proche voisin dans l'espace latin aligne
+   est le candidat de traduction
+
+**Pourquoi ca marche ici :**
+- Le VMS et le latin pharma parlent du MEME domaine
+- Les distributions de co-occurrence sont similaires
+  (myrrha co-occurre avec crocus en latin ET en VMS)
+- Les 16 logograms connus servent de POINTS D'ANCRAGE
+  pour calibrer l'alignement (supervision legere)
+
+**Avantage :** Completement INDEPENDANT de K&A.
+Ne presume RIEN sur le systeme d'encodage.
+Exploite uniquement la STRUCTURE DISTRIBUTIONNELLE.
+
+**Output :** Pour chaque mot EVA, les 10 plus proches voisins latins
+avec distance cosinus. Stocke dans le registre de candidats.
+
+---
+
+### GPU-C — NEURAL DECIPHERMENT (Luo et al. 2019)
+```
+Priorite : ★★★★
+Techno : PyTorch, architecture seq2seq ou transformer
+Temps GPU : 4-12h
+Reference : "Neural Decipherment via Minimum-Cost Flow" (Luo et al. 2019)
+```
+
+**Principe :**
+Un reseau de neurones apprend simultanement :
+1. Un MODELE DE LANGUE du texte clair (latin pharma)
+2. Un MODELE DE CANAL (comment le texte clair est transforme en VMS)
+3. L'objectif : maximiser P(texte_VMS | modele_canal, modele_langue)
+
+C'est l'approche EM (Expectation-Maximization) sur steroides.
+Le reseau itere entre :
+- E-step : etant donne le modele de canal actuel, quel est le texte clair le plus probable?
+- M-step : etant donne le texte clair estime, quel modele de canal explique le mieux le VMS?
+
+**Adapte a notre cas :**
+- Le modele de langue est entraine sur nos 470K lignes de corpus
+- Le modele de canal apprend le mapping EVA → latin
+- Les 16 logograms connus sont des CONTRAINTES FIXES dans le canal
+- Les suffixes sont des FEATURES du modele
+
+**C'est la technique qui a dechiffre le lineaire B et l'ougaritique computationnellement.**
+Jiaming Luo et Regina Barzilay (MIT) l'ont publie. Code disponible.
+
+---
+
+### GPU-D — GENETIC ALGORITHM (evolution de mappings)
+```
+Priorite : ★★★
+Techno : PyTorch ou CuPy
+Temps GPU : 2-4h
+```
+
+**Principe :**
+1. Population de 10000 mappings aleatoires
+2. Scorer chaque mapping (fitness = qualite du texte decode)
+3. SELECTION : garder les 20% meilleurs
+4. CROSSOVER : combiner des morceaux de bons mappings
+5. MUTATION : changer quelques mappings au hasard
+6. Repeter 1000 generations
+
+**Avantage sur MCMC :** explore plus largement l'espace (diversite de population).
+**Inconvenient :** converge moins finement.
+**Usage :** en complement de GPU-A pour eviter les minima locaux.
+
+---
+
+### GPU-E — BRUTE FORCE CONTRAINT (sous-espaces)
+```
+Priorite : ★★★
+Techno : CUDA kernels
+Temps GPU : variable
+```
+
+**Principe :**
+Apres les attaques 3+4 (grammaire + forme), l'espace des possibles
+est MASSIVEMENT reduit. Par exemple :
+- 50 mots EVA sont classes VERB → seulement 25 verbes candidats
+- 200 mots EVA sont classes INGR → seulement 492 ingredients candidats
+- Les contraintes de longueur eliminent encore ~50%
+
+Sur ces sous-espaces reduits, le GPU peut faire du BRUTE FORCE :
+tester TOUTES les combinaisons possibles pour un bloc de 5-10 mots.
+
+Pour un bloc de 8 mots avec 20 candidats chacun :
+20^8 = 25.6 milliards de combinaisons.
+GPU a 10 milliards de tests/sec → 2.5 secondes.
+
+---
+
+### GPU-F — CONTRASTIVE LEARNING (embeddings par similarite)
+```
+Priorite : ★★★
+Techno : PyTorch, architecture siamese
+Temps GPU : 2-4h
+```
+
+**Principe :**
+Entrainer un reseau siamese qui apprend a rapprocher les mots
+qui ont des PROPRIETES SIMILAIRES :
+- Meme frequence → proches
+- Meme distribution par section → proches
+- Memes voisins (bigrams) → proches
+- Meme longueur → proches
+
+Les 16 logograms connus servent de PAIRES POSITIVES d'entrainement :
+(o_EVA, ac_latin) sont proches, (o_EVA, myrrha_latin) sont loin.
+
+Apres entrainement, pour chaque mot EVA inconnu, trouver les mots latins
+les plus proches dans l'espace appris.
+
+---
+
+## SCORING GPU UNIFIE
+
+Toutes les attaques GPU alimentent le MEME registre de candidats.
+Le score_total combine :
+
+```python
+score_total = (
+    w_mcmc    * score_mcmc      +  # GPU-A : convergence du simulated annealing
+    w_embed   * score_embedding  +  # GPU-B : distance cosinus dans l'espace aligne
+    w_neural  * score_neural     +  # GPU-C : vraisemblance du decodeur neural
+    w_freq    * score_frequency  +  # Attaque 2 : matching par distribution
+    w_crib    * score_crib       +  # Attaque 1 : alignement sur recettes connues
+    w_context * score_context    +  # Attaque 6 : bigrams contextuels
+    w_form    * score_form       +  # Attaque 4 : contraintes de longueur
+    w_lm      * score_lm            # Attaque 5 : modele de langue
+)
+```
+
+Les poids w_xxx sont calibres par validation croisee :
+on masque un logogram connu, on teste si le systeme le retrouve.
+Les poids qui maximisent la precision sur les 16 logograms connus
+sont les bons poids pour le reste.
 
 ---
 
@@ -436,9 +634,21 @@ attacks/
 |   |-- ...
 |   |-- convergence_report.md       <- Rapport final lisible
 |
-|-- models/                         <- Modeles ML
+|-- gpu/                             <- Attaques GPU (ARME PRINCIPALE)
+|   |-- gpu_a_mcmc.py               <- Simulated annealing massif (10K chaines)
+|   |-- gpu_b_embeddings.py         <- Word2vec + Procrustes alignment
+|   |-- gpu_c_neural_decipher.py    <- Neural decipherment (Luo et al. 2019)
+|   |-- gpu_d_genetic.py            <- Algorithme genetique (10K population)
+|   |-- gpu_e_bruteforce.py         <- Brute force sur sous-espaces reduits
+|   |-- gpu_f_contrastive.py        <- Contrastive learning (siamese network)
+|   |-- scoring.py                  <- Score combine GPU unifie
+|
+|-- models/                         <- Modeles entraines
 |   |-- train_lm.py                 <- Entrainement LM medieval
-|   |-- lm_medieval_latin/          <- Modele entraine
+|   |-- train_embeddings.py         <- Entrainement word2vec latin + EVA
+|   |-- lm_medieval_latin/          <- Modele LM entraine
+|   |-- embeddings_latin/           <- Embeddings latin
+|   |-- embeddings_eva/             <- Embeddings EVA
 ```
 
 ---
@@ -517,6 +727,32 @@ Elles communiquent uniquement via le registre central.
 | Nos sources de reference manquent LE bon texte | 25% | Ajouter de nouvelles sources enrichit le registre sans tout refaire |
 | Le systeme d'ecriture n'est pas un code mais un langage construit | 10% | Le ML (attaque 5) le detecterait par la distribution atypique |
 | Le systeme est LOGO-SYLLABIQUE (comme les hieroglyphes) | 15% | L'attaque 4 (test fondamental) le detecte AVANT tout le reste. Si positif, refaire le registre en syllabe-a-syllabe |
+
+---
+
+## GESTION DU BRUIT (datasets imparfaits)
+
+**Le corpus est BRUITE.** C'est du latin medieval OCR-ise, avec du vieux francais,
+du neerlandais, de l'apparat critique editorial. C'est normal. C'est la realite.
+
+### Sources de bruit
+| Source | Impact | Mitigation |
+|--------|--------|------------|
+| OCR sur manuscrits | Lettres confondues (u/v, i/j, f/s) | Normalisation automatique + variantes |
+| Melange de langues | Mots NL/FR classes comme latin | Stop-words par langue + filtre statistique |
+| Apparat critique | Notes d'editeur dans le texte | Regex de nettoyage (fol., cf., etc.) |
+| Orthographe variable | myrrha/mirra/myrra/mirre | Le champ `forms[]` dans R01-R08 gere ca |
+| Abreviations resolues | Editeur a developpe des abreviations | Pas un probleme — c'est ce qu'on veut |
+
+### Principe de robustesse
+Toutes les attaques GPU sont ROBUSTES AU BRUIT par design :
+- **MCMC** : le scoring par quadgrams tolere ~5% de bruit
+- **Embeddings** : word2vec est concu pour les corpus bruites (il apprend par contexte)
+- **Neural** : les modeles neuronaux apprennent MALGRE le bruit (c'est leur force)
+- **Genetic** : la selection naturelle elimine les solutions bruitees
+
+**Le bruit est notre AMI** : si une solution emerge malgre le bruit,
+elle est d'autant plus fiable. Un signal qui survit au bruit est un VRAI signal.
 
 ---
 
