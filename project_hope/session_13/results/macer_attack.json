@@ -1,0 +1,3245 @@
+{
+  "macer_profiles": [
+    {
+      "id": "MACER_001",
+      "plant": "Artemisia",
+      "n_tokens": 116,
+      "n_ingredients": 5,
+      "ingredients": [
+        "I_artemisia",
+        "I_herba",
+        "I_opium",
+        "I_urina",
+        "I_vinum"
+      ]
+    },
+    {
+      "id": "MACER_002",
+      "plant": "Abrotanum",
+      "n_tokens": 143,
+      "n_ingredients": 6,
+      "ingredients": [
+        "I_abrotanum",
+        "I_aqua",
+        "I_collum",
+        "I_succus",
+        "I_urina",
+        "I_vinum"
+      ]
+    },
+    {
+      "id": "MACER_003",
+      "plant": "Absinthium",
+      "n_tokens": 292,
+      "n_ingredients": 15,
+      "ingredients": [
+        "I_absinthium",
+        "I_acetum",
+        "I_adeps",
+        "I_apium",
+        "I_aqua",
+        "I_linum",
+        "I_malum",
+        "I_mel",
+        "I_nardus",
+        "I_oleum",
+        "I_panis",
+        "I_ruta",
+        "I_siler",
+        "I_urina",
+        "I_vinum"
+      ]
+    },
+    {
+      "id": "MACER_004",
+      "plant": "Urtica",
+      "n_tokens": 154,
+      "n_ingredients": 4,
+      "ingredients": [
+        "I_absinthium",
+        "I_mel",
+        "I_succus",
+        "I_vinum"
+      ]
+    },
+    {
+      "id": "MACER_005",
+      "plant": "Allium",
+      "n_tokens": 161,
+      "n_ingredients": 7,
+      "ingredients": [
+        "I_caro",
+        "I_mel",
+        "I_oleum",
+        "I_sal",
+        "I_succus",
+        "I_urtica",
+        "I_vinum"
+      ]
+    },
+    {
+      "id": "MACER_006",
+      "plant": "Plantago",
+      "n_tokens": 12,
+      "n_ingredients": 1,
+      "ingredients": [
+        "I_myrrha"
+      ]
+    },
+    {
+      "id": "MACER_007",
+      "plant": "Viola",
+      "n_tokens": 230,
+      "n_ingredients": 12,
+      "ingredients": [
+        "I_acetum",
+        "I_allium",
+        "I_centaurea",
+        "I_lac",
+        "I_mel",
+        "I_oleum",
+        "I_scordium/teucrium",
+        "I_succus",
+        "I_urtica",
+        "I_uva",
+        "I_vesica",
+        "I_vinum"
+      ]
+    },
+    {
+      "id": "MACER_008",
+      "plant": "Ruta",
+      "n_tokens": 237,
+      "n_ingredients": 13,
+      "ingredients": [
+        "I_acetum",
+        "I_allium",
+        "I_aqua",
+        "I_aurum",
+        "I_faba",
+        "I_lens",
+        "I_mel",
+        "I_ovum",
+        "I_plantaginis",
+        "I_sal",
+        "I_species",
+        "I_succus",
+        "I_vinum"
+      ]
+    },
+    {
+      "id": "MACER_009",
+      "plant": "Apium",
+      "n_tokens": 130,
+      "n_ingredients": 7,
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_collum",
+        "I_sanguis",
+        "I_succus",
+        "I_vesica",
+        "I_vinum"
+      ]
+    },
+    {
+      "id": "MACER_010",
+      "plant": "Althaea",
+      "n_tokens": 117,
+      "n_ingredients": 5,
+      "ingredients": [
+        "I_pes",
+        "I_plantaginis",
+        "I_porcina",
+        "I_succus",
+        "I_vinum"
+      ]
+    },
+    {
+      "id": "MACER_011",
+      "plant": "Anethum",
+      "n_tokens": 42,
+      "n_ingredients": 3,
+      "ingredients": [
+        "I_plantaginis",
+        "I_succus",
+        "I_vesica"
+      ]
+    },
+    {
+      "id": "MACER_012",
+      "plant": "Betonica",
+      "n_tokens": 12123,
+      "n_ingredients": 103,
+      "ingredients": [
+        "I_aaron",
+        "I_acetum",
+        "I_adeps",
+        "I_allium",
+        "I_aloe",
+        "I_althaea",
+        "I_alumen",
+        "I_amygdala",
+        "I_anethum",
+        "I_apium",
+        "I_aqua",
+        "I_argentum",
+        "I_asarum",
+        "I_aurum",
+        "I_betonica",
+        "I_brassica",
+        "I_bryonia",
+        "I_caepa",
+        "I_calaminthum",
+        "I_carica",
+        "I_caro",
+        "I_cepa",
+        "I_cera",
+        "I_chamomilla",
+        "I_chelidonia",
+        "I_chimolea",
+        "I_cicer",
+        "I_collum",
+        "I_coriandrum",
+        "I_crocus",
+        "I_diagridium",
+        "I_elleborus",
+        "I_faba",
+        "I_farina",
+        "I_feniculm",
+        "I_ficus",
+        "I_galanga",
+        "I_galla",
+        "I_gallina",
+        "I_gariofilum",
+        "I_herba",
+        "I_hyssopus",
+        "I_inula_helenium",
+        "I_iris",
+        "I_iusquiamus",
+        "I_lac",
+        "I_lactuca",
+        "I_lapis",
+        "I_ligusticum",
+        "I_linum",
+        "I_liquiritia",
+        "I_malum",
+        "I_malva",
+        "I_manus",
+        "I_marrubium",
+        "I_mel",
+        "I_mentha",
+        "I_myrrha",
+        "I_nardus",
+        "I_nitrum",
+        "I_oleum",
+        "I_opium",
+        "I_ostrutium",
+        "I_ovum",
+        "I_oxymel",
+        "I_paeonia",
+        "I_panis",
+        "I_papaver",
+        "I_pastinaca",
+        "I_pes",
+        "I_piper",
+        "I_piper_nigrum",
+        "I_piscis",
+        "I_pix",
+        "I_plantaginis",
+        "I_porcina",
+        "I_porrum",
+        "I_portulaca",
+        "I_prunum",
+        "I_ptisana",
+        "I_pulegium",
+        "I_ren",
+        "I_rosa",
+        "I_ruta",
+        "I_sal",
+        "I_salvia",
+        "I_sanguis",
+        "I_sapa",
+        "I_satureia",
+        "I_senecio",
+        "I_serpillum",
+        "I_sinapi",
+        "I_species",
+        "I_spica",
+        "I_succus",
+        "I_thus",
+        "I_thymus",
+        "I_urina",
+        "I_uva",
+        "I_verbena",
+        "I_vesica",
+        "I_vinum",
+        "I_viola"
+      ]
+    },
+    {
+      "id": "MACER_013",
+      "plant": "Savina",
+      "n_tokens": 1331,
+      "n_ingredients": 22,
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_bryonia",
+        "I_caro",
+        "I_faba",
+        "I_farina",
+        "I_lac",
+        "I_malum",
+        "I_mel",
+        "I_nymphaea",
+        "I_oxymel",
+        "I_papaver",
+        "I_piper",
+        "I_pix",
+        "I_ptisana",
+        "I_pulmo",
+        "I_sal",
+        "I_sambucus",
+        "I_succus",
+        "I_urina",
+        "I_vesica",
+        "I_vinum"
+      ]
+    },
+    {
+      "id": "MACER_014",
+      "plant": "Porrum",
+      "n_tokens": 144,
+      "n_ingredients": 2,
+      "ingredients": [
+        "I_lignum",
+        "I_succus"
+      ]
+    },
+    {
+      "id": "MACER_015",
+      "plant": "Chamomilla",
+      "n_tokens": 111,
+      "n_ingredients": 4,
+      "ingredients": [
+        "I_absinthium",
+        "I_dragagantum",
+        "I_oleum",
+        "I_species"
+      ]
+    },
+    {
+      "id": "MACER_016",
+      "plant": "Nepeta",
+      "n_tokens": 131,
+      "n_ingredients": 4,
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_pes",
+        "I_succus"
+      ]
+    },
+    {
+      "id": "MACER_017",
+      "plant": "Pulegium",
+      "n_tokens": 2084,
+      "n_ingredients": 30,
+      "ingredients": [
+        "I_acetum",
+        "I_alumen",
+        "I_aqua",
+        "I_argentum",
+        "I_calx",
+        "I_caro",
+        "I_caseus",
+        "I_cera",
+        "I_collum",
+        "I_folium",
+        "I_herba",
+        "I_lac",
+        "I_lens",
+        "I_malum",
+        "I_manus",
+        "I_mel",
+        "I_myrrha",
+        "I_nitrum",
+        "I_oleum",
+        "I_olibanum",
+        "I_porrum",
+        "I_ros_marinus",
+        "I_sanguis",
+        "I_species",
+        "I_spica",
+        "I_succus",
+        "I_sulphur",
+        "I_terebinthina",
+        "I_urtica",
+        "I_vinum"
+      ]
+    },
+    {
+      "id": "MACER_018",
+      "plant": "Foeniculum",
+      "n_tokens": 154,
+      "n_ingredients": 2,
+      "ingredients": [
+        "I_malum",
+        "I_ruta"
+      ]
+    },
+    {
+      "id": "MACER_019",
+      "plant": "Acidula",
+      "n_tokens": 313,
+      "n_ingredients": 5,
+      "ingredients": [
+        "I_abrotanum",
+        "I_collum",
+        "I_cucurbita",
+        "I_lignum",
+        "I_pomum"
+      ]
+    },
+    {
+      "id": "MACER_020",
+      "plant": "Portulaca",
+      "n_tokens": 900,
+      "n_ingredients": 21,
+      "ingredients": [
+        "I_absinthium",
+        "I_aqua",
+        "I_artemisia",
+        "I_collum",
+        "I_herba",
+        "I_lac",
+        "I_lapis",
+        "I_linum",
+        "I_malum",
+        "I_manus",
+        "I_marrubium",
+        "I_nardus",
+        "I_nux",
+        "I_ovum",
+        "I_papaver",
+        "I_pomum",
+        "I_sanguis",
+        "I_species",
+        "I_succus",
+        "I_vesica",
+        "I_viola"
+      ]
+    },
+    {
+      "id": "MACER_021",
+      "plant": "Lactuca",
+      "n_tokens": 2719,
+      "n_ingredients": 81,
+      "ingredients": [
+        "I_acetum",
+        "I_agaricus",
+        "I_aloe",
+        "I_alumen",
+        "I_ambrosia",
+        "I_ameos",
+        "I_ammi",
+        "I_ammoniacum",
+        "I_anethum",
+        "I_antimonium",
+        "I_apium",
+        "I_aqua",
+        "I_armoniacum",
+        "I_balsamum",
+        "I_bolus",
+        "I_cardamomum",
+        "I_caro",
+        "I_caseus",
+        "I_cassia_fistula",
+        "I_castoreum",
+        "I_cinnamomum",
+        "I_ciperus",
+        "I_citrus",
+        "I_coloquintida",
+        "I_corallium",
+        "I_costus",
+        "I_cubeba",
+        "I_cuminum",
+        "I_dragagantum",
+        "I_galanga",
+        "I_gallina",
+        "I_gummi_arabicum",
+        "I_herba",
+        "I_hermodactylus",
+        "I_lac",
+        "I_ladanum",
+        "I_lapis",
+        "I_lignum",
+        "I_liquiritia",
+        "I_macis",
+        "I_malum",
+        "I_manna",
+        "I_manus",
+        "I_mastix",
+        "I_mel",
+        "I_mentha",
+        "I_mumia",
+        "I_muscus",
+        "I_myrobalanus",
+        "I_myrrha",
+        "I_nardus",
+        "I_nepeta",
+        "I_nitrum",
+        "I_nux",
+        "I_oleum",
+        "I_opium",
+        "I_opopanax",
+        "I_paeonia",
+        "I_panis",
+        "I_papaver",
+        "I_pionia",
+        "I_piper",
+        "I_piper_nigrum",
+        "I_piscis",
+        "I_pix",
+        "I_ren",
+        "I_rosa",
+        "I_sal",
+        "I_sanguis",
+        "I_species",
+        "I_spica",
+        "I_spodium",
+        "I_squinantum",
+        "I_storacis",
+        "I_succus",
+        "I_thus",
+        "I_urina",
+        "I_urtica",
+        "I_vesica",
+        "I_vinum",
+        "I_vitriolum"
+      ]
+    },
+    {
+      "id": "MACER_022",
+      "plant": "Rosa",
+      "n_tokens": 198,
+      "n_ingredients": 5,
+      "ingredients": [
+        "I_balaustium",
+        "I_lapis",
+        "I_malum",
+        "I_manus",
+        "I_pes"
+      ]
+    },
+    {
+      "id": "MACER_023",
+      "plant": "Lilium",
+      "n_tokens": 480,
+      "n_ingredients": 6,
+      "ingredients": [
+        "I_pes",
+        "I_ren",
+        "I_rosa",
+        "I_sanguis",
+        "I_succus",
+        "I_vesica"
+      ]
+    },
+    {
+      "id": "MACER_024",
+      "plant": "Satureia",
+      "n_tokens": 1661,
+      "n_ingredients": 18,
+      "ingredients": [
+        "I_aqua",
+        "I_aurum",
+        "I_citrus",
+        "I_folium",
+        "I_herba",
+        "I_malum",
+        "I_manus",
+        "I_materia",
+        "I_mel",
+        "I_meum",
+        "I_myrrhus",
+        "I_oleum",
+        "I_pes",
+        "I_ren",
+        "I_rosa",
+        "I_sal",
+        "I_sandalum",
+        "I_scapula"
+      ]
+    },
+    {
+      "id": "MACER_025",
+      "plant": "Salvia",
+      "n_tokens": 165,
+      "n_ingredients": 16,
+      "ingredients": [
+        "I_cassia_fistula",
+        "I_mel",
+        "I_mentha",
+        "I_nux",
+        "I_nymphaea",
+        "I_opium",
+        "I_opopanax",
+        "I_origanum",
+        "I_ostrutium",
+        "I_persicum",
+        "I_pulegium",
+        "I_raphanus",
+        "I_sambucus",
+        "I_sanguis",
+        "I_satureia",
+        "I_urtica"
+      ]
+    }
+  ],
+  "herbal_profiles": [
+    {
+      "folio": "f100r",
+      "n_words": 110,
+      "n_roots": 82,
+      "kt_ratio": 0.659,
+      "k_count": 27,
+      "t_count": 14,
+      "top_suffixes": {
+        "ol": 16,
+        "eol": 13,
+        "or": 10,
+        "dy": 9,
+        "eey": 8
+      },
+      "first_word": "chosaroshol",
+      "species": "Capsicum annuum",
+      "common_name": "Capsicum Pepper"
+    },
+    {
+      "folio": "f100v",
+      "n_words": 93,
+      "n_roots": 66,
+      "kt_ratio": 0.762,
+      "k_count": 32,
+      "t_count": 10,
+      "top_suffixes": {
+        "or": 11,
+        "eol": 10,
+        "dy": 6,
+        "ol": 6,
+        "al": 5
+      },
+      "first_word": "tolchd",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f101r",
+      "n_words": 227,
+      "n_roots": 100,
+      "kt_ratio": 0.723,
+      "k_count": 60,
+      "t_count": 23,
+      "top_suffixes": {
+        "eol": 34,
+        "ey": 23,
+        "ol": 23,
+        "or": 19,
+        "aiin": 19
+      },
+      "first_word": "pcheol",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f101v",
+      "n_words": 215,
+      "n_roots": 117,
+      "kt_ratio": 0.628,
+      "k_count": 49,
+      "t_count": 29,
+      "top_suffixes": {
+        "or": 23,
+        "aiin": 21,
+        "eol": 19,
+        "ol": 16,
+        "dy": 15
+      },
+      "first_word": "sairaly",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f102r1",
+      "n_words": 107,
+      "n_roots": 80,
+      "kt_ratio": 0.727,
+      "k_count": 32,
+      "t_count": 12,
+      "top_suffixes": {
+        "eol": 15,
+        "aiin": 13,
+        "dy": 12,
+        "ol": 11,
+        "or": 8
+      },
+      "first_word": "daarod",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f102r2",
+      "n_words": 144,
+      "n_roots": 84,
+      "kt_ratio": 0.866,
+      "k_count": 58,
+      "t_count": 9,
+      "top_suffixes": {
+        "ey": 20,
+        "ol": 15,
+        "or": 13,
+        "dy": 13,
+        "eey": 11
+      },
+      "first_word": "kodaiig",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f102v1",
+      "n_words": 128,
+      "n_roots": 85,
+      "kt_ratio": 0.808,
+      "k_count": 42,
+      "t_count": 10,
+      "top_suffixes": {
+        "dy": 20,
+        "ey": 17,
+        "eol": 13,
+        "aiin": 12,
+        "or": 12
+      },
+      "first_word": "keoraiiin",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f102v2",
+      "n_words": 189,
+      "n_roots": 113,
+      "kt_ratio": 0.854,
+      "k_count": 70,
+      "t_count": 12,
+      "top_suffixes": {
+        "or": 26,
+        "eey": 20,
+        "ey": 17,
+        "ar": 8,
+        "eol": 8
+      },
+      "first_word": "porshols",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f10r",
+      "n_words": 92,
+      "n_roots": 52,
+      "kt_ratio": 0.182,
+      "k_count": 8,
+      "t_count": 36,
+      "top_suffixes": {
+        "or": 19,
+        "aiin": 11,
+        "ol": 9,
+        "chy": 6,
+        "ar": 3
+      },
+      "first_word": "pchocthy",
+      "species": "Cichorium pumilum",
+      "common_name": "Chicory / Endive"
+    },
+    {
+      "folio": "f10v",
+      "n_words": 57,
+      "n_roots": 35,
+      "kt_ratio": 0.357,
+      "k_count": 10,
+      "t_count": 18,
+      "top_suffixes": {
+        "aiin": 10,
+        "or": 7,
+        "ol": 6,
+        "ain": 4,
+        "eey": 2
+      },
+      "first_word": "paiin",
+      "species": "Linnaea borealis",
+      "common_name": "Twinflower"
+    },
+    {
+      "folio": "f11r",
+      "n_words": 59,
+      "n_roots": 34,
+      "kt_ratio": 0.348,
+      "k_count": 8,
+      "t_count": 15,
+      "top_suffixes": {
+        "aiin": 10,
+        "ol": 7,
+        "or": 5,
+        "chy": 4,
+        "dy": 3
+      },
+      "first_word": "tshol",
+      "species": "Rosmarinus officinalis",
+      "common_name": "Rosemary"
+    },
+    {
+      "folio": "f11v",
+      "n_words": 50,
+      "n_roots": 36,
+      "kt_ratio": 0.45,
+      "k_count": 9,
+      "t_count": 11,
+      "top_suffixes": {
+        "or": 6,
+        "dy": 5,
+        "chy": 5,
+        "ol": 2,
+        "ey": 2
+      },
+      "first_word": "poldchody",
+      "species": "Curcuma longa",
+      "common_name": "Turmeric"
+    },
+    {
+      "folio": "f13r",
+      "n_words": 77,
+      "n_roots": 45,
+      "kt_ratio": 0.645,
+      "k_count": 20,
+      "t_count": 11,
+      "top_suffixes": {
+        "chy": 18,
+        "or": 10,
+        "ol": 10,
+        "aiin": 5,
+        "dy": 4
+      },
+      "first_word": "torshor",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f13v",
+      "n_words": 69,
+      "n_roots": 42,
+      "kt_ratio": 0.487,
+      "k_count": 19,
+      "t_count": 20,
+      "top_suffixes": {
+        "chy": 7,
+        "ol": 6,
+        "al": 6,
+        "aiin": 6,
+        "or": 3
+      },
+      "first_word": "koair",
+      "species": "Lonicera periclymenum",
+      "common_name": "Honeysuckle / Woodbine"
+    },
+    {
+      "folio": "f14r",
+      "n_words": 76,
+      "n_roots": 51,
+      "kt_ratio": 0.71,
+      "k_count": 22,
+      "t_count": 9,
+      "top_suffixes": {
+        "ol": 9,
+        "aiin": 7,
+        "or": 7,
+        "dy": 7,
+        "chy": 6
+      },
+      "first_word": "pcho",
+      "species": "Scorzonera hispanica",
+      "common_name": "Black Salsify / Viper's Grass"
+    },
+    {
+      "folio": "f14v",
+      "n_words": 75,
+      "n_roots": 46,
+      "kt_ratio": 0.525,
+      "k_count": 21,
+      "t_count": 19,
+      "top_suffixes": {
+        "chy": 9,
+        "aiin": 8,
+        "shy": 6,
+        "or": 6,
+        "dy": 4
+      },
+      "first_word": "pdychoiin",
+      "species": "Stachys monnieri",
+      "common_name": "Wood Betony / Heal-All"
+    },
+    {
+      "folio": "f15r",
+      "n_words": 94,
+      "n_roots": 53,
+      "kt_ratio": 0.426,
+      "k_count": 20,
+      "t_count": 27,
+      "top_suffixes": {
+        "aiin": 19,
+        "or": 13,
+        "ol": 7,
+        "chy": 4,
+        "ain": 4
+      },
+      "first_word": "tshor",
+      "species": "Sonchus oleraceus",
+      "common_name": "Sow Thistle"
+    },
+    {
+      "folio": "f15v",
+      "n_words": 71,
+      "n_roots": 40,
+      "kt_ratio": 0.296,
+      "k_count": 8,
+      "t_count": 19,
+      "top_suffixes": {
+        "or": 17,
+        "ol": 9,
+        "aiin": 7,
+        "dy": 2,
+        "shy": 1
+      },
+      "first_word": "poror",
+      "species": "Paris quadrifolia",
+      "common_name": "Herb Paris"
+    },
+    {
+      "folio": "f16r",
+      "n_words": 84,
+      "n_roots": 60,
+      "kt_ratio": 0.583,
+      "k_count": 21,
+      "t_count": 15,
+      "top_suffixes": {
+        "chy": 13,
+        "aiin": 8,
+        "or": 8,
+        "dy": 5,
+        "ol": 4
+      },
+      "first_word": "pocheody",
+      "species": "Cannabis sativa",
+      "common_name": "Cannabis / Hemp"
+    },
+    {
+      "folio": "f16v",
+      "n_words": 76,
+      "n_roots": 48,
+      "kt_ratio": 0.425,
+      "k_count": 17,
+      "t_count": 23,
+      "top_suffixes": {
+        "or": 10,
+        "chy": 10,
+        "ol": 7,
+        "aiin": 7,
+        "ar": 5
+      },
+      "first_word": "pchroiin",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f17r",
+      "n_words": 80,
+      "n_roots": 62,
+      "kt_ratio": 0.538,
+      "k_count": 14,
+      "t_count": 12,
+      "top_suffixes": {
+        "or": 9,
+        "dy": 7,
+        "ar": 7,
+        "chy": 7,
+        "ol": 7
+      },
+      "first_word": "fshody",
+      "species": "Catananche caerulea",
+      "common_name": "Cupid's Dart"
+    },
+    {
+      "folio": "f17v",
+      "n_words": 135,
+      "n_roots": 70,
+      "kt_ratio": 0.648,
+      "k_count": 35,
+      "t_count": 19,
+      "top_suffixes": {
+        "or": 24,
+        "ol": 21,
+        "aiin": 14,
+        "eol": 10,
+        "eey": 8
+      },
+      "first_word": "pchodol",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f18r",
+      "n_words": 84,
+      "n_roots": 47,
+      "kt_ratio": 0.6,
+      "k_count": 24,
+      "t_count": 16,
+      "top_suffixes": {
+        "ol": 14,
+        "or": 13,
+        "aiin": 9,
+        "al": 8,
+        "ar": 7
+      },
+      "first_word": "pdrairdy",
+      "species": "Aster alpinus",
+      "common_name": "Alpine Aster"
+    },
+    {
+      "folio": "f18v",
+      "n_words": 69,
+      "n_roots": 41,
+      "kt_ratio": 0.657,
+      "k_count": 23,
+      "t_count": 12,
+      "top_suffixes": {
+        "chy": 11,
+        "ol": 8,
+        "or": 7,
+        "shy": 5,
+        "ar": 3
+      },
+      "first_word": "told",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f19r",
+      "n_words": 76,
+      "n_roots": 41,
+      "kt_ratio": 0.387,
+      "k_count": 12,
+      "t_count": 19,
+      "top_suffixes": {
+        "or": 17,
+        "chy": 11,
+        "aiin": 10,
+        "dy": 5,
+        "ol": 4
+      },
+      "first_word": "pchor",
+      "species": "Polemonium caeruleum",
+      "common_name": "Greek Valerian / Jacob's Ladder"
+    },
+    {
+      "folio": "f19v",
+      "n_words": 78,
+      "n_roots": 41,
+      "kt_ratio": 0.326,
+      "k_count": 14,
+      "t_count": 29,
+      "top_suffixes": {
+        "or": 14,
+        "aiin": 13,
+        "ol": 13,
+        "chy": 5,
+        "ey": 2
+      },
+      "first_word": "pochaiin",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f1r",
+      "n_words": 219,
+      "n_roots": 117,
+      "kt_ratio": 0.548,
+      "k_count": 46,
+      "t_count": 38,
+      "top_suffixes": {
+        "aiin": 26,
+        "ol": 19,
+        "ar": 18,
+        "ey": 18,
+        "ain": 13
+      },
+      "first_word": "fachys",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f1v",
+      "n_words": 92,
+      "n_roots": 56,
+      "kt_ratio": 0.588,
+      "k_count": 20,
+      "t_count": 14,
+      "top_suffixes": {
+        "ol": 20,
+        "dy": 10,
+        "ar": 8,
+        "ey": 6,
+        "al": 4
+      },
+      "first_word": "kchsy",
+      "species": "Atropa belladonna",
+      "common_name": "Deadly Nightshade / Belladonna"
+    },
+    {
+      "folio": "f20r",
+      "n_words": 88,
+      "n_roots": 56,
+      "kt_ratio": 0.194,
+      "k_count": 6,
+      "t_count": 25,
+      "top_suffixes": {
+        "aiin": 13,
+        "dy": 10,
+        "ey": 9,
+        "ol": 8,
+        "eey": 7
+      },
+      "first_word": "kdchody",
+      "species": "Astragalus hypoglottis",
+      "common_name": "Milk Vetch"
+    },
+    {
+      "folio": "f20v",
+      "n_words": 86,
+      "n_roots": 58,
+      "kt_ratio": 0.357,
+      "k_count": 10,
+      "t_count": 18,
+      "top_suffixes": {
+        "ol": 12,
+        "aiin": 8,
+        "chy": 6,
+        "ey": 3,
+        "dy": 3
+      },
+      "first_word": "faiis",
+      "species": "Cynara cardunculus",
+      "common_name": "Cardoon / Artichoke"
+    },
+    {
+      "folio": "f21r",
+      "n_words": 104,
+      "n_roots": 60,
+      "kt_ratio": 0.392,
+      "k_count": 20,
+      "t_count": 31,
+      "top_suffixes": {
+        "aiin": 15,
+        "ol": 14,
+        "or": 10,
+        "ey": 7,
+        "eey": 7
+      },
+      "first_word": "pchor",
+      "species": "Anagallis arvensis",
+      "common_name": "Scarlet Pimpernel"
+    },
+    {
+      "folio": "f21v",
+      "n_words": 58,
+      "n_roots": 35,
+      "kt_ratio": 0.296,
+      "k_count": 8,
+      "t_count": 19,
+      "top_suffixes": {
+        "aiin": 12,
+        "ol": 9,
+        "chy": 6,
+        "ey": 2,
+        "shy": 1
+      },
+      "first_word": "toldshy",
+      "species": "Dictamnus albus",
+      "common_name": "Burning Bush / White Dittany"
+    },
+    {
+      "folio": "f22r",
+      "n_words": 111,
+      "n_roots": 59,
+      "kt_ratio": 0.575,
+      "k_count": 23,
+      "t_count": 17,
+      "top_suffixes": {
+        "aiin": 19,
+        "ol": 15,
+        "chy": 12,
+        "or": 11,
+        "ain": 5
+      },
+      "first_word": "pol",
+      "species": "Verbena officinalis",
+      "common_name": "Common Vervain / Holy Herb"
+    },
+    {
+      "folio": "f22v",
+      "n_words": 77,
+      "n_roots": 47,
+      "kt_ratio": 0.405,
+      "k_count": 17,
+      "t_count": 25,
+      "top_suffixes": {
+        "aiin": 15,
+        "or": 10,
+        "chy": 10,
+        "ol": 7,
+        "dy": 3
+      },
+      "first_word": "pysaiinor",
+      "species": "Tulipa gesneriana",
+      "common_name": "Tulip"
+    },
+    {
+      "folio": "f23r",
+      "n_words": 110,
+      "n_roots": 54,
+      "kt_ratio": 0.75,
+      "k_count": 30,
+      "t_count": 10,
+      "top_suffixes": {
+        "ol": 14,
+        "aiin": 13,
+        "al": 7,
+        "or": 7,
+        "ar": 7
+      },
+      "first_word": "pydchdom",
+      "species": "Pulsatilla vulgaris",
+      "common_name": "Pasque Flower"
+    },
+    {
+      "folio": "f23v",
+      "n_words": 95,
+      "n_roots": 51,
+      "kt_ratio": 0.483,
+      "k_count": 14,
+      "t_count": 15,
+      "top_suffixes": {
+        "ol": 16,
+        "or": 11,
+        "aiin": 8,
+        "ar": 6,
+        "al": 4
+      },
+      "first_word": "podairol",
+      "species": "Borago officinalis",
+      "common_name": "Borage / Starflower"
+    },
+    {
+      "folio": "f24r",
+      "n_words": 110,
+      "n_roots": 60,
+      "kt_ratio": 0.488,
+      "k_count": 20,
+      "t_count": 21,
+      "top_suffixes": {
+        "ar": 12,
+        "ol": 11,
+        "or": 10,
+        "al": 9,
+        "aiin": 7
+      },
+      "first_word": "por",
+      "species": "Cucumis sativus",
+      "common_name": "Cucumber"
+    },
+    {
+      "folio": "f24v",
+      "n_words": 85,
+      "n_roots": 63,
+      "kt_ratio": 0.552,
+      "k_count": 16,
+      "t_count": 13,
+      "top_suffixes": {
+        "ol": 8,
+        "or": 7,
+        "aiin": 6,
+        "ar": 5,
+        "om": 4
+      },
+      "first_word": "tchodar",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f25r",
+      "n_words": 47,
+      "n_roots": 32,
+      "kt_ratio": 0.286,
+      "k_count": 6,
+      "t_count": 15,
+      "top_suffixes": {
+        "aiin": 9,
+        "ain": 7,
+        "dy": 4,
+        "chy": 4,
+        "or": 3
+      },
+      "first_word": "fcholdy",
+      "species": "Thymus capitatus",
+      "common_name": "Wild Thyme / Conehead Thyme"
+    },
+    {
+      "folio": "f25v",
+      "n_words": 59,
+      "n_roots": 36,
+      "kt_ratio": 0.722,
+      "k_count": 13,
+      "t_count": 5,
+      "top_suffixes": {
+        "aiin": 15,
+        "ey": 6,
+        "or": 6,
+        "ol": 6,
+        "ar": 3
+      },
+      "first_word": "poeeaiin",
+      "species": "Isatis tinctoria",
+      "common_name": "Woad"
+    },
+    {
+      "folio": "f26r",
+      "n_words": 90,
+      "n_roots": 52,
+      "kt_ratio": 0.594,
+      "k_count": 19,
+      "t_count": 13,
+      "top_suffixes": {
+        "edy": 24,
+        "aiin": 6,
+        "dy": 5,
+        "eedy": 5,
+        "ey": 4
+      },
+      "first_word": "psheoky",
+      "species": "Prunella vulgaris",
+      "common_name": "Self-Heal / Healall"
+    },
+    {
+      "folio": "f26v",
+      "n_words": 93,
+      "n_roots": 61,
+      "kt_ratio": 0.606,
+      "k_count": 20,
+      "t_count": 13,
+      "top_suffixes": {
+        "edy": 19,
+        "dy": 13,
+        "ar": 9,
+        "eey": 4,
+        "aiin": 3
+      },
+      "first_word": "pchedar",
+      "species": "Lens culinaris",
+      "common_name": "Lentil"
+    },
+    {
+      "folio": "f27r",
+      "n_words": 94,
+      "n_roots": 41,
+      "kt_ratio": 0.417,
+      "k_count": 10,
+      "t_count": 14,
+      "top_suffixes": {
+        "ey": 15,
+        "ol": 9,
+        "or": 4,
+        "aiin": 4,
+        "ain": 4
+      },
+      "first_word": "ksor",
+      "species": "Spinacia oleracea",
+      "common_name": "Spinach"
+    },
+    {
+      "folio": "f27v",
+      "n_words": 61,
+      "n_roots": 47,
+      "kt_ratio": 0.731,
+      "k_count": 19,
+      "t_count": 7,
+      "top_suffixes": {
+        "chy": 10,
+        "dy": 5,
+        "ol": 4,
+        "ar": 4,
+        "or": 2
+      },
+      "first_word": "pochof",
+      "species": "Dianthus superbus",
+      "common_name": "Fringed Pink / Dianthus"
+    },
+    {
+      "folio": "f28r",
+      "n_words": 68,
+      "n_roots": 47,
+      "kt_ratio": 0.282,
+      "k_count": 11,
+      "t_count": 28,
+      "top_suffixes": {
+        "ol": 15,
+        "aiin": 9,
+        "or": 7,
+        "ar": 4,
+        "chy": 4
+      },
+      "first_word": "pchodar",
+      "species": "Aristolochia sp.",
+      "common_name": "Birthwort / Pipevine"
+    },
+    {
+      "folio": "f28v",
+      "n_words": 68,
+      "n_roots": 39,
+      "kt_ratio": 0.348,
+      "k_count": 8,
+      "t_count": 15,
+      "top_suffixes": {
+        "ol": 9,
+        "or": 9,
+        "aiin": 7,
+        "ain": 3,
+        "chy": 2
+      },
+      "first_word": "kshol",
+      "species": "Rhododendron caucasicum",
+      "common_name": "White Rhododendron"
+    },
+    {
+      "folio": "f29r",
+      "n_words": 65,
+      "n_roots": 48,
+      "kt_ratio": 0.485,
+      "k_count": 16,
+      "t_count": 17,
+      "top_suffixes": {
+        "or": 9,
+        "aiin": 6,
+        "chy": 5,
+        "eey": 2,
+        "ar": 1
+      },
+      "first_word": "posaiin",
+      "species": "Lactuca sativa var. longifolia",
+      "common_name": "Romaine / Cos Lettuce"
+    },
+    {
+      "folio": "f29v",
+      "n_words": 94,
+      "n_roots": 59,
+      "kt_ratio": 0.302,
+      "k_count": 13,
+      "t_count": 30,
+      "top_suffixes": {
+        "aiin": 14,
+        "or": 10,
+        "ol": 7,
+        "dy": 5,
+        "chy": 4
+      },
+      "first_word": "kooiin",
+      "species": "Nigella sativa",
+      "common_name": "Black Cumin / Roman Coriander"
+    },
+    {
+      "folio": "f2r",
+      "n_words": 105,
+      "n_roots": 65,
+      "kt_ratio": 0.559,
+      "k_count": 19,
+      "t_count": 15,
+      "top_suffixes": {
+        "aiin": 16,
+        "ol": 11,
+        "or": 10,
+        "dy": 5,
+        "ey": 4
+      },
+      "first_word": "kydainy",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f2v",
+      "n_words": 61,
+      "n_roots": 35,
+      "kt_ratio": 0.444,
+      "k_count": 8,
+      "t_count": 10,
+      "top_suffixes": {
+        "or": 11,
+        "aiin": 8,
+        "ol": 6,
+        "ain": 2,
+        "chy": 2
+      },
+      "first_word": "kooiin",
+      "species": "Nymphaea candida",
+      "common_name": "White Water Lily"
+    },
+    {
+      "folio": "f30r",
+      "n_words": 99,
+      "n_roots": 64,
+      "kt_ratio": 0.714,
+      "k_count": 20,
+      "t_count": 8,
+      "top_suffixes": {
+        "ey": 18,
+        "or": 14,
+        "aiin": 9,
+        "chy": 5,
+        "ain": 5
+      },
+      "first_word": "okeeesy",
+      "species": "Prunella vulgaris",
+      "common_name": "Healall / Self-Heal"
+    },
+    {
+      "folio": "f30v",
+      "n_words": 63,
+      "n_roots": 46,
+      "kt_ratio": 0.429,
+      "k_count": 12,
+      "t_count": 16,
+      "top_suffixes": {
+        "or": 11,
+        "aiin": 10,
+        "ol": 6,
+        "dy": 5,
+        "ey": 3
+      },
+      "first_word": "chschain",
+      "species": "Cuscuta europaea",
+      "common_name": "Dodder / Witch's Hair"
+    },
+    {
+      "folio": "f31r",
+      "n_words": 103,
+      "n_roots": 56,
+      "kt_ratio": 0.8,
+      "k_count": 36,
+      "t_count": 9,
+      "top_suffixes": {
+        "edy": 16,
+        "eey": 9,
+        "ey": 8,
+        "aiin": 7,
+        "eol": 7
+      },
+      "first_word": "keedey",
+      "species": "Erigeron acris",
+      "common_name": "Blue Fleabane"
+    },
+    {
+      "folio": "f31v",
+      "n_words": 110,
+      "n_roots": 71,
+      "kt_ratio": 0.789,
+      "k_count": 45,
+      "t_count": 12,
+      "top_suffixes": {
+        "ar": 9,
+        "edy": 8,
+        "aiin": 7,
+        "ey": 6,
+        "eey": 5
+      },
+      "first_word": "podair",
+      "species": "Valeriana officinalis",
+      "common_name": "Valerian"
+    },
+    {
+      "folio": "f32r",
+      "n_words": 76,
+      "n_roots": 51,
+      "kt_ratio": 0.321,
+      "k_count": 9,
+      "t_count": 19,
+      "top_suffixes": {
+        "ol": 13,
+        "aiin": 9,
+        "or": 9,
+        "ain": 4,
+        "chy": 4
+      },
+      "first_word": "fchaiin",
+      "species": "Veronica triphyllos",
+      "common_name": "Finger Speedwell"
+    },
+    {
+      "folio": "f32v",
+      "n_words": 89,
+      "n_roots": 48,
+      "kt_ratio": 0.462,
+      "k_count": 12,
+      "t_count": 14,
+      "top_suffixes": {
+        "aiin": 19,
+        "ol": 6,
+        "or": 6,
+        "chy": 5,
+        "ain": 4
+      },
+      "first_word": "kcheodaiin",
+      "species": "Campanula rotundifolia",
+      "common_name": "Harebell / Bluebell"
+    },
+    {
+      "folio": "f33r",
+      "n_words": 74,
+      "n_roots": 46,
+      "kt_ratio": 0.676,
+      "k_count": 25,
+      "t_count": 12,
+      "top_suffixes": {
+        "aiin": 11,
+        "ar": 10,
+        "dy": 9,
+        "al": 6,
+        "edy": 5
+      },
+      "first_word": "tshdar",
+      "species": "Silene vulgaris",
+      "common_name": "Bladder Campion"
+    },
+    {
+      "folio": "f33v",
+      "n_words": 114,
+      "n_roots": 50,
+      "kt_ratio": 0.705,
+      "k_count": 31,
+      "t_count": 13,
+      "top_suffixes": {
+        "ar": 15,
+        "dy": 15,
+        "am": 7,
+        "aiin": 6,
+        "ain": 5
+      },
+      "first_word": "tar",
+      "species": "Tanacetum parthenium",
+      "common_name": "Feverfew"
+    },
+    {
+      "folio": "f34r",
+      "n_words": 149,
+      "n_roots": 84,
+      "kt_ratio": 0.583,
+      "k_count": 42,
+      "t_count": 30,
+      "top_suffixes": {
+        "edy": 18,
+        "dy": 14,
+        "ar": 10,
+        "ey": 8,
+        "am": 7
+      },
+      "first_word": "pcheoepchy",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f34v",
+      "n_words": 117,
+      "n_roots": 65,
+      "kt_ratio": 0.809,
+      "k_count": 38,
+      "t_count": 9,
+      "top_suffixes": {
+        "dy": 19,
+        "edy": 14,
+        "ar": 12,
+        "aiin": 11,
+        "am": 5
+      },
+      "first_word": "kechdy",
+      "species": "Lunaria annua",
+      "common_name": "Honesty / Money Plant"
+    },
+    {
+      "folio": "f35r",
+      "n_words": 94,
+      "n_roots": 54,
+      "kt_ratio": 0.364,
+      "k_count": 12,
+      "t_count": 21,
+      "top_suffixes": {
+        "aiin": 28,
+        "ol": 5,
+        "eey": 5,
+        "or": 5,
+        "ar": 4
+      },
+      "first_word": "choo",
+      "species": "Cichorium intybus",
+      "common_name": "Radicchio / Chicory"
+    },
+    {
+      "folio": "f35v",
+      "n_words": 91,
+      "n_roots": 55,
+      "kt_ratio": 0.459,
+      "k_count": 17,
+      "t_count": 20,
+      "top_suffixes": {
+        "aiin": 14,
+        "or": 8,
+        "chy": 8,
+        "ol": 5,
+        "ar": 4
+      },
+      "first_word": "parchor",
+      "species": "Ribes nigrum",
+      "common_name": "Blackcurrant"
+    },
+    {
+      "folio": "f36r",
+      "n_words": 63,
+      "n_roots": 40,
+      "kt_ratio": 0.19,
+      "k_count": 4,
+      "t_count": 17,
+      "top_suffixes": {
+        "aiin": 8,
+        "ol": 7,
+        "or": 6,
+        "chy": 4,
+        "ain": 3
+      },
+      "first_word": "pchadan",
+      "species": "Delphinium staphisagria",
+      "common_name": "Stavesacre / Delphinium"
+    },
+    {
+      "folio": "f36v",
+      "n_words": 76,
+      "n_roots": 46,
+      "kt_ratio": 0.333,
+      "k_count": 14,
+      "t_count": 28,
+      "top_suffixes": {
+        "aiin": 13,
+        "or": 11,
+        "ar": 5,
+        "ol": 4,
+        "chy": 4
+      },
+      "first_word": "pchar",
+      "species": "Lamium amplexicaule",
+      "common_name": "Henbit Dead-nettle"
+    },
+    {
+      "folio": "f37r",
+      "n_words": 78,
+      "n_roots": 51,
+      "kt_ratio": 0.526,
+      "k_count": 20,
+      "t_count": 18,
+      "top_suffixes": {
+        "aiin": 16,
+        "or": 14,
+        "ol": 7,
+        "chy": 5,
+        "dy": 5
+      },
+      "first_word": "tocphol",
+      "species": "Mentha longifolia",
+      "common_name": "Horse Mint / Wild Mint"
+    },
+    {
+      "folio": "f37v",
+      "n_words": 89,
+      "n_roots": 54,
+      "kt_ratio": 0.289,
+      "k_count": 11,
+      "t_count": 27,
+      "top_suffixes": {
+        "aiin": 20,
+        "or": 16,
+        "ol": 7,
+        "dy": 4,
+        "ain": 4
+      },
+      "first_word": "tshody",
+      "species": "Emilia fosbergii",
+      "common_name": "Tassel Flower"
+    },
+    {
+      "folio": "f38r",
+      "n_words": 44,
+      "n_roots": 32,
+      "kt_ratio": 0.72,
+      "k_count": 18,
+      "t_count": 7,
+      "top_suffixes": {
+        "aiin": 7,
+        "or": 6,
+        "ey": 3,
+        "ol": 2,
+        "ain": 2
+      },
+      "first_word": "tolor",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f38v",
+      "n_words": 67,
+      "n_roots": 33,
+      "kt_ratio": 0.682,
+      "k_count": 15,
+      "t_count": 7,
+      "top_suffixes": {
+        "aiin": 9,
+        "ol": 6,
+        "ey": 6,
+        "dy": 5,
+        "eey": 4
+      },
+      "first_word": "okchop",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f39r",
+      "n_words": 157,
+      "n_roots": 89,
+      "kt_ratio": 0.833,
+      "k_count": 45,
+      "t_count": 9,
+      "top_suffixes": {
+        "aiin": 18,
+        "edy": 16,
+        "dy": 15,
+        "ar": 13,
+        "al": 7
+      },
+      "first_word": "tedo",
+      "species": "Crocus sativus",
+      "common_name": "Saffron Crocus"
+    },
+    {
+      "folio": "f39v",
+      "n_words": 146,
+      "n_roots": 72,
+      "kt_ratio": 0.852,
+      "k_count": 52,
+      "t_count": 9,
+      "top_suffixes": {
+        "ar": 17,
+        "dy": 14,
+        "aiin": 11,
+        "or": 9,
+        "edy": 8
+      },
+      "first_word": "pdair",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f3r",
+      "n_words": 114,
+      "n_roots": 69,
+      "kt_ratio": 0.405,
+      "k_count": 15,
+      "t_count": 22,
+      "top_suffixes": {
+        "or": 19,
+        "ol": 15,
+        "om": 12,
+        "am": 9,
+        "aiin": 8
+      },
+      "first_word": "tsheos",
+      "species": "Celosia argentea",
+      "common_name": "Feathery Amaranth / Cockscomb"
+    },
+    {
+      "folio": "f3v",
+      "n_words": 85,
+      "n_roots": 57,
+      "kt_ratio": 0.65,
+      "k_count": 26,
+      "t_count": 14,
+      "top_suffixes": {
+        "or": 11,
+        "ol": 8,
+        "ar": 7,
+        "am": 6,
+        "aiin": 5
+      },
+      "first_word": "koaiin",
+      "species": "Helleborus foetidus",
+      "common_name": "Stinking Hellebore / Dungwort"
+    },
+    {
+      "folio": "f40r",
+      "n_words": 103,
+      "n_roots": 54,
+      "kt_ratio": 0.915,
+      "k_count": 43,
+      "t_count": 4,
+      "top_suffixes": {
+        "ar": 15,
+        "aiin": 14,
+        "dy": 9,
+        "edy": 6,
+        "al": 4
+      },
+      "first_word": "pchey",
+      "species": "Erodium malacoides",
+      "common_name": "Mallow-leaved Stork's Bill"
+    },
+    {
+      "folio": "f40v",
+      "n_words": 105,
+      "n_roots": 57,
+      "kt_ratio": 0.792,
+      "k_count": 42,
+      "t_count": 11,
+      "top_suffixes": {
+        "aiin": 19,
+        "edy": 14,
+        "dy": 8,
+        "ar": 6,
+        "ol": 4
+      },
+      "first_word": "pchedain",
+      "species": "Crocus vernus",
+      "common_name": "Giant Crocus / Spring Crocus"
+    },
+    {
+      "folio": "f41r",
+      "n_words": 97,
+      "n_roots": 62,
+      "kt_ratio": 0.82,
+      "k_count": 50,
+      "t_count": 11,
+      "top_suffixes": {
+        "edy": 28,
+        "eedy": 8,
+        "dy": 8,
+        "ey": 6,
+        "eey": 3
+      },
+      "first_word": "pshey",
+      "species": "Origanum vulgare",
+      "common_name": "Wild Marjoram / Oregano"
+    },
+    {
+      "folio": "f41v",
+      "n_words": 66,
+      "n_roots": 46,
+      "kt_ratio": 0.75,
+      "k_count": 27,
+      "t_count": 9,
+      "top_suffixes": {
+        "dy": 11,
+        "edy": 6,
+        "al": 5,
+        "ey": 5,
+        "aiin": 5
+      },
+      "first_word": "keeredal",
+      "species": "Coriandrum sativum",
+      "common_name": "Coriander / Cilantro"
+    },
+    {
+      "folio": "f42r",
+      "n_words": 141,
+      "n_roots": 77,
+      "kt_ratio": 0.397,
+      "k_count": 23,
+      "t_count": 35,
+      "top_suffixes": {
+        "ol": 28,
+        "aiin": 21,
+        "ar": 11,
+        "ain": 7,
+        "or": 7
+      },
+      "first_word": "cho",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f42v",
+      "n_words": 117,
+      "n_roots": 71,
+      "kt_ratio": 0.49,
+      "k_count": 24,
+      "t_count": 25,
+      "top_suffixes": {
+        "aiin": 12,
+        "ey": 12,
+        "ol": 11,
+        "chy": 8,
+        "eey": 6
+      },
+      "first_word": "cho",
+      "species": "Aquilegia vulgaris",
+      "common_name": "European Columbine"
+    },
+    {
+      "folio": "f43r",
+      "n_words": 153,
+      "n_roots": 89,
+      "kt_ratio": 0.436,
+      "k_count": 34,
+      "t_count": 44,
+      "top_suffixes": {
+        "dy": 27,
+        "edy": 24,
+        "ar": 13,
+        "aiin": 8,
+        "ol": 7
+      },
+      "first_word": "tarodaiin",
+      "species": "Stellaria media",
+      "common_name": "Common Chickweed"
+    },
+    {
+      "folio": "f43v",
+      "n_words": 151,
+      "n_roots": 102,
+      "kt_ratio": 0.487,
+      "k_count": 39,
+      "t_count": 41,
+      "top_suffixes": {
+        "edy": 25,
+        "dy": 21,
+        "ey": 10,
+        "ar": 8,
+        "aiin": 6
+      },
+      "first_word": "pdsairy",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f44r",
+      "n_words": 74,
+      "n_roots": 55,
+      "kt_ratio": 0.545,
+      "k_count": 24,
+      "t_count": 20,
+      "top_suffixes": {
+        "chy": 10,
+        "ey": 6,
+        "ol": 6,
+        "aiin": 3,
+        "eey": 3
+      },
+      "first_word": "tshodpy",
+      "species": "Mandragora officinarum",
+      "common_name": "Mandrake"
+    },
+    {
+      "folio": "f44v",
+      "n_words": 100,
+      "n_roots": 55,
+      "kt_ratio": 0.298,
+      "k_count": 17,
+      "t_count": 40,
+      "top_suffixes": {
+        "ol": 20,
+        "aiin": 12,
+        "or": 7,
+        "ain": 4,
+        "al": 4
+      },
+      "first_word": "tsho",
+      "species": "Apium graveolens",
+      "common_name": "Celery / Smallage"
+    },
+    {
+      "folio": "f45r",
+      "n_words": 89,
+      "n_roots": 50,
+      "kt_ratio": 0.571,
+      "k_count": 24,
+      "t_count": 18,
+      "top_suffixes": {
+        "aiin": 14,
+        "ar": 10,
+        "ol": 10,
+        "or": 6,
+        "al": 5
+      },
+      "first_word": "pykydal",
+      "species": "Atriplex hortensis",
+      "common_name": "Garden Orach / Saltbush"
+    },
+    {
+      "folio": "f45v",
+      "n_words": 85,
+      "n_roots": 57,
+      "kt_ratio": 0.488,
+      "k_count": 20,
+      "t_count": 21,
+      "top_suffixes": {
+        "ol": 12,
+        "or": 9,
+        "om": 6,
+        "chy": 4,
+        "ar": 3
+      },
+      "first_word": "korary",
+      "species": "Lavandula angustifolia",
+      "common_name": "Lavender"
+    },
+    {
+      "folio": "f46r",
+      "n_words": 163,
+      "n_roots": 92,
+      "kt_ratio": 0.667,
+      "k_count": 46,
+      "t_count": 23,
+      "top_suffixes": {
+        "dy": 22,
+        "edy": 15,
+        "aiin": 11,
+        "ar": 9,
+        "ol": 8
+      },
+      "first_word": "pcheocphy",
+      "species": "Leucanthemum vulgare",
+      "common_name": "Oxeye Daisy"
+    },
+    {
+      "folio": "f46v",
+      "n_words": 111,
+      "n_roots": 66,
+      "kt_ratio": 0.529,
+      "k_count": 27,
+      "t_count": 24,
+      "top_suffixes": {
+        "edy": 23,
+        "dy": 14,
+        "aiin": 9,
+        "ar": 7,
+        "ey": 6
+      },
+      "first_word": "pody",
+      "species": "Inula conyza",
+      "common_name": "Ploughman's Spikenard"
+    },
+    {
+      "folio": "f47r",
+      "n_words": 76,
+      "n_roots": 39,
+      "kt_ratio": 0.64,
+      "k_count": 16,
+      "t_count": 9,
+      "top_suffixes": {
+        "ol": 16,
+        "aiin": 9,
+        "ey": 6,
+        "or": 5,
+        "ain": 4
+      },
+      "first_word": "chair",
+      "species": "Sempervivum tectorum",
+      "common_name": "Houseleek / Hen and Chicks"
+    },
+    {
+      "folio": "f47v",
+      "n_words": 85,
+      "n_roots": 49,
+      "kt_ratio": 0.269,
+      "k_count": 7,
+      "t_count": 19,
+      "top_suffixes": {
+        "ol": 9,
+        "aiin": 8,
+        "chy": 6,
+        "eey": 5,
+        "dy": 5
+      },
+      "first_word": "psheot",
+      "species": "Pulmonaria officinalis",
+      "common_name": "Lungwort"
+    },
+    {
+      "folio": "f48r",
+      "n_words": 89,
+      "n_roots": 64,
+      "kt_ratio": 0.41,
+      "k_count": 25,
+      "t_count": 36,
+      "top_suffixes": {
+        "dy": 12,
+        "aiin": 8,
+        "edy": 8,
+        "eol": 7,
+        "ey": 6
+      },
+      "first_word": "pshdaiin",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f48v",
+      "n_words": 128,
+      "n_roots": 73,
+      "kt_ratio": 0.408,
+      "k_count": 29,
+      "t_count": 42,
+      "top_suffixes": {
+        "edy": 22,
+        "dy": 16,
+        "ar": 10,
+        "ey": 7,
+        "al": 6
+      },
+      "first_word": "pcheodchy",
+      "species": "Ruta graveolens",
+      "common_name": "Rue / Herb of Grace"
+    },
+    {
+      "folio": "f49r",
+      "n_words": 114,
+      "n_roots": 66,
+      "kt_ratio": 0.364,
+      "k_count": 12,
+      "t_count": 21,
+      "top_suffixes": {
+        "or": 20,
+        "ol": 11,
+        "aiin": 10,
+        "chy": 7,
+        "ey": 7
+      },
+      "first_word": "pychol",
+      "species": "Nymphaea caerulea",
+      "common_name": "Blue Nile Lotus"
+    },
+    {
+      "folio": "f49v",
+      "n_words": 162,
+      "n_roots": 82,
+      "kt_ratio": 0.621,
+      "k_count": 41,
+      "t_count": 25,
+      "top_suffixes": {
+        "aiin": 20,
+        "ol": 19,
+        "or": 10,
+        "chy": 9,
+        "ey": 5
+      },
+      "first_word": "f",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f4r",
+      "n_words": 64,
+      "n_roots": 36,
+      "kt_ratio": 0.16,
+      "k_count": 4,
+      "t_count": 21,
+      "top_suffixes": {
+        "aiin": 15,
+        "ol": 10,
+        "or": 7,
+        "chy": 6,
+        "dy": 3
+      },
+      "first_word": "kodalchy",
+      "species": "Saxifraga cespitosa",
+      "common_name": "Alpine Saxifrage"
+    },
+    {
+      "folio": "f4v",
+      "n_words": 84,
+      "n_roots": 57,
+      "kt_ratio": 0.471,
+      "k_count": 16,
+      "t_count": 18,
+      "top_suffixes": {
+        "dy": 11,
+        "aiin": 11,
+        "or": 8,
+        "ey": 5,
+        "chy": 4
+      },
+      "first_word": "pchooiin",
+      "species": "Campanula rapunculus",
+      "common_name": "Rampion"
+    },
+    {
+      "folio": "f50r",
+      "n_words": 93,
+      "n_roots": 58,
+      "kt_ratio": 0.818,
+      "k_count": 45,
+      "t_count": 10,
+      "top_suffixes": {
+        "dy": 13,
+        "ar": 12,
+        "aiin": 10,
+        "edy": 6,
+        "ain": 6
+      },
+      "first_word": "psheor",
+      "species": "Astrantia major",
+      "common_name": "Great Masterwort"
+    },
+    {
+      "folio": "f50v",
+      "n_words": 100,
+      "n_roots": 62,
+      "kt_ratio": 0.817,
+      "k_count": 49,
+      "t_count": 11,
+      "top_suffixes": {
+        "aiin": 13,
+        "dy": 11,
+        "edy": 11,
+        "ar": 9,
+        "ain": 5
+      },
+      "first_word": "tchy",
+      "species": "Gentiana frigida",
+      "common_name": "Fringed Gentian"
+    },
+    {
+      "folio": "f51r",
+      "n_words": 89,
+      "n_roots": 62,
+      "kt_ratio": 0.68,
+      "k_count": 34,
+      "t_count": 16,
+      "top_suffixes": {
+        "aiin": 14,
+        "dy": 12,
+        "ol": 10,
+        "al": 9,
+        "ey": 8
+      },
+      "first_word": "tsholdchy",
+      "species": "Cakile maritima",
+      "common_name": "European Sea Rocket"
+    },
+    {
+      "folio": "f51v",
+      "n_words": 82,
+      "n_roots": 50,
+      "kt_ratio": 0.581,
+      "k_count": 25,
+      "t_count": 18,
+      "top_suffixes": {
+        "aiin": 16,
+        "ol": 12,
+        "dy": 11,
+        "al": 5,
+        "ey": 4
+      },
+      "first_word": "poshody",
+      "species": "Salvia officinalis",
+      "common_name": "Common Sage"
+    },
+    {
+      "folio": "f52r",
+      "n_words": 69,
+      "n_roots": 45,
+      "kt_ratio": 0.462,
+      "k_count": 18,
+      "t_count": 21,
+      "top_suffixes": {
+        "ar": 5,
+        "dy": 5,
+        "am": 5,
+        "aiin": 4,
+        "chy": 4
+      },
+      "first_word": "tdokchcfhy",
+      "species": "Anemone coronaria",
+      "common_name": "Poppy Anemone"
+    },
+    {
+      "folio": "f52v",
+      "n_words": 78,
+      "n_roots": 54,
+      "kt_ratio": 0.541,
+      "k_count": 20,
+      "t_count": 17,
+      "top_suffixes": {
+        "or": 17,
+        "ol": 8,
+        "aiin": 6,
+        "ar": 5,
+        "eol": 5
+      },
+      "first_word": "pchor",
+      "species": "Athyrium filix-femina",
+      "common_name": "Lady Fern"
+    },
+    {
+      "folio": "f53r",
+      "n_words": 61,
+      "n_roots": 49,
+      "kt_ratio": 0.389,
+      "k_count": 14,
+      "t_count": 22,
+      "top_suffixes": {
+        "ol": 7,
+        "dy": 5,
+        "ar": 3,
+        "or": 3,
+        "ain": 2
+      },
+      "first_word": "kodam",
+      "species": "Achillea ptarmica",
+      "common_name": "Sneezewort"
+    },
+    {
+      "folio": "f53v",
+      "n_words": 73,
+      "n_roots": 58,
+      "kt_ratio": 0.515,
+      "k_count": 17,
+      "t_count": 16,
+      "top_suffixes": {
+        "dy": 11,
+        "aiin": 10,
+        "ol": 7,
+        "ey": 4,
+        "chy": 4
+      },
+      "first_word": "tshor",
+      "species": "Hieracium aurantiacum",
+      "common_name": "Orange Hawkweed"
+    },
+    {
+      "folio": "f54r",
+      "n_words": 110,
+      "n_roots": 57,
+      "kt_ratio": 0.65,
+      "k_count": 26,
+      "t_count": 14,
+      "top_suffixes": {
+        "ol": 16,
+        "or": 10,
+        "al": 7,
+        "am": 7,
+        "dy": 6
+      },
+      "first_word": "podaiin",
+      "species": "Cirsium oleraceum",
+      "common_name": "Cabbage Thistle"
+    },
+    {
+      "folio": "f54v",
+      "n_words": 93,
+      "n_roots": 54,
+      "kt_ratio": 0.6,
+      "k_count": 21,
+      "t_count": 14,
+      "top_suffixes": {
+        "aiin": 13,
+        "al": 10,
+        "ol": 10,
+        "ar": 6,
+        "dy": 6
+      },
+      "first_word": "pcheodar",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f55r",
+      "n_words": 124,
+      "n_roots": 61,
+      "kt_ratio": 0.864,
+      "k_count": 51,
+      "t_count": 8,
+      "top_suffixes": {
+        "ar": 16,
+        "aiin": 15,
+        "dy": 12,
+        "al": 8,
+        "ol": 5
+      },
+      "first_word": "podaiin",
+      "species": "Fumaria officinalis",
+      "common_name": "Common Fumitory"
+    },
+    {
+      "folio": "f55v",
+      "n_words": 105,
+      "n_roots": 51,
+      "kt_ratio": 0.784,
+      "k_count": 40,
+      "t_count": 11,
+      "top_suffixes": {
+        "aiin": 15,
+        "ar": 12,
+        "dy": 10,
+        "ain": 6,
+        "edy": 4
+      },
+      "first_word": "kcheedchdy",
+      "species": "Brassica oleracea",
+      "common_name": "Broccoli / Wild Cabbage"
+    },
+    {
+      "folio": "f56r",
+      "n_words": 103,
+      "n_roots": 56,
+      "kt_ratio": 0.655,
+      "k_count": 36,
+      "t_count": 19,
+      "top_suffixes": {
+        "ol": 12,
+        "ey": 11,
+        "chy": 8,
+        "or": 8,
+        "eey": 7
+      },
+      "first_word": "ochal",
+      "species": "Drosera intermedia",
+      "common_name": "Oblong-leaved Sundew"
+    },
+    {
+      "folio": "f56v",
+      "n_words": 91,
+      "n_roots": 47,
+      "kt_ratio": 0.54,
+      "k_count": 27,
+      "t_count": 23,
+      "top_suffixes": {
+        "ol": 21,
+        "ey": 9,
+        "aiin": 8,
+        "or": 7,
+        "eey": 6
+      },
+      "first_word": "kcheat",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f57r",
+      "n_words": 87,
+      "n_roots": 67,
+      "kt_ratio": 0.595,
+      "k_count": 25,
+      "t_count": 17,
+      "top_suffixes": {
+        "dy": 17,
+        "ey": 11,
+        "edy": 7,
+        "am": 6,
+        "aiin": 5
+      },
+      "first_word": "poeeockhey",
+      "species": "Sherardia arvensis",
+      "common_name": "Blue Field Madder"
+    },
+    {
+      "folio": "f5r",
+      "n_words": 54,
+      "n_roots": 38,
+      "kt_ratio": 0.417,
+      "k_count": 10,
+      "t_count": 14,
+      "top_suffixes": {
+        "aiin": 7,
+        "dy": 6,
+        "ey": 5,
+        "chy": 3,
+        "or": 3
+      },
+      "first_word": "kchody",
+      "species": "Arnica montana",
+      "common_name": "Wolf's Bane / European Arnica"
+    },
+    {
+      "folio": "f5v",
+      "n_words": 48,
+      "n_roots": 30,
+      "kt_ratio": 0.158,
+      "k_count": 3,
+      "t_count": 16,
+      "top_suffixes": {
+        "aiin": 10,
+        "or": 9,
+        "ol": 9,
+        "ey": 1,
+        "ain": 1
+      },
+      "first_word": "k",
+      "species": "Malva sylvestris",
+      "common_name": "Common Mallow"
+    },
+    {
+      "folio": "f6r",
+      "n_words": 86,
+      "n_roots": 52,
+      "kt_ratio": 0.441,
+      "k_count": 15,
+      "t_count": 19,
+      "top_suffixes": {
+        "aiin": 14,
+        "or": 12,
+        "ar": 9,
+        "ol": 7,
+        "am": 5
+      },
+      "first_word": "foar",
+      "species": "Acanthus mollis",
+      "common_name": "Bear's Breeches / Acanthus"
+    },
+    {
+      "folio": "f6v",
+      "n_words": 116,
+      "n_roots": 67,
+      "kt_ratio": 0.489,
+      "k_count": 23,
+      "t_count": 24,
+      "top_suffixes": {
+        "or": 16,
+        "ar": 10,
+        "ol": 10,
+        "am": 6,
+        "dy": 5
+      },
+      "first_word": "koary",
+      "species": "Ricinus communis",
+      "common_name": "Castor Oil Plant"
+    },
+    {
+      "folio": "f7r",
+      "n_words": 66,
+      "n_roots": 46,
+      "kt_ratio": 0.56,
+      "k_count": 14,
+      "t_count": 11,
+      "top_suffixes": {
+        "ey": 9,
+        "aiin": 7,
+        "chy": 7,
+        "ol": 6,
+        "eey": 5
+      },
+      "first_word": "fchodaiin",
+      "species": "Trientalis europaea",
+      "common_name": "Starflower / Chickweed Wintergreen"
+    },
+    {
+      "folio": "f7v",
+      "n_words": 78,
+      "n_roots": 47,
+      "kt_ratio": 0.464,
+      "k_count": 13,
+      "t_count": 15,
+      "top_suffixes": {
+        "aiin": 9,
+        "ol": 8,
+        "chy": 7,
+        "or": 5,
+        "eey": 4
+      },
+      "first_word": "polyshy",
+      "species": "Myrica gale",
+      "common_name": "Bog Myrtle / Sweet Gale"
+    },
+    {
+      "folio": "f87r",
+      "n_words": 102,
+      "n_roots": 79,
+      "kt_ratio": 0.458,
+      "k_count": 22,
+      "t_count": 26,
+      "top_suffixes": {
+        "aiin": 12,
+        "dy": 12,
+        "or": 11,
+        "al": 7,
+        "ey": 5
+      },
+      "first_word": "poalshsal",
+      "species": "Satureja hortensis",
+      "common_name": "Summer Savory"
+    },
+    {
+      "folio": "f87v",
+      "n_words": 92,
+      "n_roots": 75,
+      "kt_ratio": 0.45,
+      "k_count": 18,
+      "t_count": 22,
+      "top_suffixes": {
+        "ey": 7,
+        "eol": 6,
+        "eey": 5,
+        "or": 5,
+        "aiin": 4
+      },
+      "first_word": "cheey",
+      "species": "Primula vulgaris",
+      "common_name": "Primrose"
+    },
+    {
+      "folio": "f88r",
+      "n_words": 150,
+      "n_roots": 83,
+      "kt_ratio": 0.704,
+      "k_count": 38,
+      "t_count": 16,
+      "top_suffixes": {
+        "ol": 22,
+        "or": 18,
+        "eol": 13,
+        "ar": 9,
+        "dy": 9
+      },
+      "first_word": "otorchety",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f88v",
+      "n_words": 145,
+      "n_roots": 92,
+      "kt_ratio": 0.671,
+      "k_count": 47,
+      "t_count": 23,
+      "top_suffixes": {
+        "dy": 27,
+        "aiin": 15,
+        "or": 11,
+        "ol": 7,
+        "eey": 7
+      },
+      "first_word": "okalyd",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f89r1",
+      "n_words": 140,
+      "n_roots": 82,
+      "kt_ratio": 0.61,
+      "k_count": 25,
+      "t_count": 16,
+      "top_suffixes": {
+        "aiin": 17,
+        "dy": 13,
+        "ol": 9,
+        "al": 9,
+        "am": 7
+      },
+      "first_word": "okchshy",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f89r2",
+      "n_words": 234,
+      "n_roots": 113,
+      "kt_ratio": 0.831,
+      "k_count": 69,
+      "t_count": 14,
+      "top_suffixes": {
+        "aiin": 26,
+        "eol": 23,
+        "eey": 20,
+        "ol": 19,
+        "dy": 17
+      },
+      "first_word": "odory",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f89v1",
+      "n_words": 154,
+      "n_roots": 90,
+      "kt_ratio": 0.686,
+      "k_count": 48,
+      "t_count": 22,
+      "top_suffixes": {
+        "aiin": 20,
+        "ol": 19,
+        "dy": 16,
+        "al": 11,
+        "ar": 10
+      },
+      "first_word": "okoraldy",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f89v2",
+      "n_words": 182,
+      "n_roots": 102,
+      "kt_ratio": 0.667,
+      "k_count": 42,
+      "t_count": 21,
+      "top_suffixes": {
+        "aiin": 18,
+        "ar": 14,
+        "or": 13,
+        "dy": 11,
+        "am": 9
+      },
+      "first_word": "choeesy",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f8r",
+      "n_words": 151,
+      "n_roots": 89,
+      "kt_ratio": 0.58,
+      "k_count": 29,
+      "t_count": 21,
+      "top_suffixes": {
+        "ol": 16,
+        "aiin": 16,
+        "ey": 12,
+        "or": 9,
+        "ar": 8
+      },
+      "first_word": "pshol",
+      "species": "Pisum sativum",
+      "common_name": "Green Pea"
+    },
+    {
+      "folio": "f8v",
+      "n_words": 118,
+      "n_roots": 58,
+      "kt_ratio": 0.462,
+      "k_count": 18,
+      "t_count": 21,
+      "top_suffixes": {
+        "ol": 22,
+        "aiin": 18,
+        "ar": 16,
+        "or": 10,
+        "chy": 7
+      },
+      "first_word": "chod",
+      "species": "Symphytum officinale",
+      "common_name": "Comfrey"
+    },
+    {
+      "folio": "f90r1",
+      "n_words": 69,
+      "n_roots": 57,
+      "kt_ratio": 0.756,
+      "k_count": 31,
+      "t_count": 10,
+      "top_suffixes": {
+        "ol": 9,
+        "or": 8,
+        "ar": 6,
+        "eol": 3,
+        "dy": 3
+      },
+      "first_word": "poleeol",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f90r2",
+      "n_words": 47,
+      "n_roots": 35,
+      "kt_ratio": 0.833,
+      "k_count": 15,
+      "t_count": 3,
+      "top_suffixes": {
+        "aiin": 7,
+        "or": 4,
+        "eey": 3,
+        "ol": 2,
+        "dy": 2
+      },
+      "first_word": "toealchs",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f90v1",
+      "n_words": 96,
+      "n_roots": 68,
+      "kt_ratio": 0.609,
+      "k_count": 28,
+      "t_count": 18,
+      "top_suffixes": {
+        "or": 11,
+        "eey": 8,
+        "eol": 8,
+        "aiin": 7,
+        "dy": 7
+      },
+      "first_word": "pcheor",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f90v2",
+      "n_words": 68,
+      "n_roots": 49,
+      "kt_ratio": 0.524,
+      "k_count": 11,
+      "t_count": 10,
+      "top_suffixes": {
+        "eol": 7,
+        "eey": 6,
+        "dy": 6,
+        "aiin": 5,
+        "ey": 4
+      },
+      "first_word": "chdaihy",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f93r",
+      "n_words": 152,
+      "n_roots": 83,
+      "kt_ratio": 0.419,
+      "k_count": 26,
+      "t_count": 36,
+      "top_suffixes": {
+        "ol": 25,
+        "dy": 13,
+        "or": 12,
+        "aiin": 10,
+        "al": 8
+      },
+      "first_word": "kodshol",
+      "species": "Helianthus annuus",
+      "common_name": "Sunflower"
+    },
+    {
+      "folio": "f93v",
+      "n_words": 89,
+      "n_roots": 64,
+      "kt_ratio": 0.457,
+      "k_count": 21,
+      "t_count": 25,
+      "top_suffixes": {
+        "dy": 14,
+        "ol": 14,
+        "ar": 6,
+        "aiin": 5,
+        "ey": 4
+      },
+      "first_word": "possheody",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f94r",
+      "n_words": 79,
+      "n_roots": 53,
+      "kt_ratio": 0.738,
+      "k_count": 31,
+      "t_count": 11,
+      "top_suffixes": {
+        "aiin": 13,
+        "dy": 11,
+        "ar": 8,
+        "al": 6,
+        "eedy": 4
+      },
+      "first_word": "tchedy",
+      "species": "Botrychium lunaria",
+      "common_name": "Moonwort / Moonfern"
+    },
+    {
+      "folio": "f94v",
+      "n_words": 97,
+      "n_roots": 61,
+      "kt_ratio": 0.431,
+      "k_count": 25,
+      "t_count": 33,
+      "top_suffixes": {
+        "ar": 10,
+        "aiin": 10,
+        "dy": 10,
+        "edy": 9,
+        "eey": 6
+      },
+      "first_word": "tshedy",
+      "species": "Agrostemma githago",
+      "common_name": "Corncockle"
+    },
+    {
+      "folio": "f95r1",
+      "n_words": 102,
+      "n_roots": 59,
+      "kt_ratio": 0.768,
+      "k_count": 43,
+      "t_count": 13,
+      "top_suffixes": {
+        "aiin": 21,
+        "dy": 14,
+        "ar": 8,
+        "edy": 7,
+        "ain": 6
+      },
+      "first_word": "kshdor",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f95r2",
+      "n_words": 79,
+      "n_roots": 43,
+      "kt_ratio": 0.674,
+      "k_count": 29,
+      "t_count": 14,
+      "top_suffixes": {
+        "dy": 11,
+        "ar": 10,
+        "aiin": 8,
+        "al": 6,
+        "ol": 6
+      },
+      "first_word": "kshedy",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f95v1",
+      "n_words": 118,
+      "n_roots": 78,
+      "kt_ratio": 0.522,
+      "k_count": 36,
+      "t_count": 33,
+      "top_suffixes": {
+        "dy": 16,
+        "aiin": 14,
+        "ar": 13,
+        "ain": 12,
+        "edy": 11
+      },
+      "first_word": "cholteedy",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f95v2",
+      "n_words": 60,
+      "n_roots": 43,
+      "kt_ratio": 0.613,
+      "k_count": 19,
+      "t_count": 12,
+      "top_suffixes": {
+        "ain": 11,
+        "aiin": 9,
+        "dy": 8,
+        "ar": 6,
+        "or": 3
+      },
+      "first_word": "tchody",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f96r",
+      "n_words": 84,
+      "n_roots": 64,
+      "kt_ratio": 0.5,
+      "k_count": 21,
+      "t_count": 21,
+      "top_suffixes": {
+        "or": 14,
+        "ol": 10,
+        "dy": 9,
+        "eol": 8,
+        "aiin": 5
+      },
+      "first_word": "tor",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f96v",
+      "n_words": 56,
+      "n_roots": 49,
+      "kt_ratio": 0.32,
+      "k_count": 8,
+      "t_count": 17,
+      "top_suffixes": {
+        "ar": 9,
+        "ey": 7,
+        "or": 6,
+        "dy": 4,
+        "eey": 3
+      },
+      "first_word": "psheessheeor",
+      "species": "Tamus communis",
+      "common_name": "Black Bryony"
+    },
+    {
+      "folio": "f99r",
+      "n_words": 194,
+      "n_roots": 113,
+      "kt_ratio": 0.767,
+      "k_count": 79,
+      "t_count": 24,
+      "top_suffixes": {
+        "ol": 19,
+        "eol": 19,
+        "ey": 18,
+        "eey": 16,
+        "or": 14
+      },
+      "first_word": "okaradag",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f99v",
+      "n_words": 174,
+      "n_roots": 102,
+      "kt_ratio": 0.828,
+      "k_count": 82,
+      "t_count": 17,
+      "top_suffixes": {
+        "ol": 23,
+        "eol": 22,
+        "dy": 15,
+        "ey": 12,
+        "aiin": 12
+      },
+      "first_word": "okaramy",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f9r",
+      "n_words": 85,
+      "n_roots": 54,
+      "kt_ratio": 0.333,
+      "k_count": 14,
+      "t_count": 28,
+      "top_suffixes": {
+        "aiin": 11,
+        "or": 9,
+        "ol": 7,
+        "chy": 4,
+        "ey": 3
+      },
+      "first_word": "tydlo",
+      "species": "",
+      "common_name": ""
+    },
+    {
+      "folio": "f9v",
+      "n_words": 86,
+      "n_roots": 56,
+      "kt_ratio": 0.41,
+      "k_count": 16,
+      "t_count": 23,
+      "top_suffixes": {
+        "aiin": 15,
+        "or": 13,
+        "ol": 11,
+        "dy": 5,
+        "chy": 3
+      },
+      "first_word": "fochor",
+      "species": "Viola tricolor / V. bertolonii",
+      "common_name": "Wild Pansy / Violet"
+    }
+  ],
+  "galenic_matches": [
+    {
+      "folio": "f29r",
+      "species": "Lactuca sativa var. longifolia",
+      "kt_ratio": 0.485,
+      "primary": "COLD",
+      "moisture": "WET",
+      "tac_name": "lactucae"
+    },
+    {
+      "folio": "f35v",
+      "species": "Ribes nigrum",
+      "kt_ratio": 0.459,
+      "primary": "HOT",
+      "moisture": "NEUTRAL",
+      "tac_name": "ziribes"
+    },
+    {
+      "folio": "f41v",
+      "species": "Coriandrum sativum",
+      "kt_ratio": 0.75,
+      "primary": "COLD",
+      "moisture": "DRY",
+      "tac_name": "coriandrum"
+    },
+    {
+      "folio": "f44r",
+      "species": "Mandragora officinarum",
+      "kt_ratio": 0.545,
+      "primary": "COLD",
+      "moisture": "DRY",
+      "tac_name": "fructus mandragorae"
+    },
+    {
+      "folio": "f44v",
+      "species": "Apium graveolens",
+      "kt_ratio": 0.298,
+      "primary": "HOT",
+      "moisture": "DRY",
+      "tac_name": "apium"
+    },
+    {
+      "folio": "f48v",
+      "species": "Ruta graveolens",
+      "kt_ratio": 0.408,
+      "primary": "HOT",
+      "moisture": "WET",
+      "tac_name": "rutal, id est, dactyli maturi"
+    },
+    {
+      "folio": "f50v",
+      "species": "Gentiana frigida",
+      "kt_ratio": 0.817,
+      "primary": "COLD",
+      "moisture": "DRY",
+      "tac_name": "aqua frigida"
+    },
+    {
+      "folio": "f9v",
+      "species": "Viola tricolor / V. bertolonii",
+      "kt_ratio": 0.41,
+      "primary": "COLD",
+      "moisture": "WET",
+      "tac_name": "violae"
+    }
+  ],
+  "n_herbal": 143,
+  "n_galenic_matched": 8
+}

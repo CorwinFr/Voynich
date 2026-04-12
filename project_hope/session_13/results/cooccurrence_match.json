@@ -1,0 +1,339 @@
+{
+  "best_mappings": [
+    {
+      "vms": "ain",
+      "an": "I_manna",
+      "cosine": 0.946,
+      "rank_sim": 1.0,
+      "combined": 0.962,
+      "vms_freq": 57,
+      "an_freq": 32,
+      "vms_rank": 19,
+      "an_rank": 19
+    },
+    {
+      "vms": "che",
+      "an": "I_manna",
+      "cosine": 0.929,
+      "rank_sim": 0.967,
+      "combined": 0.94,
+      "vms_freq": 56,
+      "an_freq": 32,
+      "vms_rank": 20,
+      "an_rank": 19
+    },
+    {
+      "vms": "chd",
+      "an": "I_manna",
+      "cosine": 0.936,
+      "rank_sim": 0.933,
+      "combined": 0.935,
+      "vms_freq": 49,
+      "an_freq": 32,
+      "vms_rank": 21,
+      "an_rank": 19
+    },
+    {
+      "vms": "sh",
+      "an": "I_rosa",
+      "cosine": 0.899,
+      "rank_sim": 1.0,
+      "combined": 0.929,
+      "vms_freq": 379,
+      "an_freq": 56,
+      "vms_rank": 4,
+      "an_rank": 4
+    },
+    {
+      "vms": "opch",
+      "an": "I_manna",
+      "cosine": 0.913,
+      "rank_sim": 0.967,
+      "combined": 0.929,
+      "vms_freq": 59,
+      "an_freq": 32,
+      "vms_rank": 18,
+      "an_rank": 19
+    },
+    {
+      "vms": "ot",
+      "an": "I_succus",
+      "cosine": 0.895,
+      "rank_sim": 1.0,
+      "combined": 0.926,
+      "vms_freq": 516,
+      "an_freq": 81,
+      "vms_rank": 2,
+      "an_rank": 2
+    },
+    {
+      "vms": "qo",
+      "an": "I_manna",
+      "cosine": 0.919,
+      "rank_sim": 0.933,
+      "combined": 0.924,
+      "vms_freq": 62,
+      "an_freq": 32,
+      "vms_rank": 17,
+      "an_rank": 19
+    },
+    {
+      "vms": "qokch",
+      "an": "I_manna",
+      "cosine": 0.93,
+      "rank_sim": 0.9,
+      "combined": 0.921,
+      "vms_freq": 65,
+      "an_freq": 32,
+      "vms_rank": 16,
+      "an_rank": 19
+    },
+    {
+      "vms": "ched",
+      "an": "I_viola",
+      "cosine": 0.881,
+      "rank_sim": 1.0,
+      "combined": 0.917,
+      "vms_freq": 98,
+      "an_freq": 38,
+      "vms_rank": 13,
+      "an_rank": 13
+    },
+    {
+      "vms": "yk",
+      "an": "I_manna",
+      "cosine": 0.923,
+      "rank_sim": 0.9,
+      "combined": 0.916,
+      "vms_freq": 47,
+      "an_freq": 32,
+      "vms_rank": 22,
+      "an_rank": 19
+    },
+    {
+      "vms": "she",
+      "an": "I_aliptae",
+      "cosine": 0.877,
+      "rank_sim": 1.0,
+      "combined": 0.914,
+      "vms_freq": 39,
+      "an_freq": 24,
+      "vms_rank": 28,
+      "an_rank": 28
+    },
+    {
+      "vms": "qok",
+      "an": "I_aqua",
+      "cosine": 0.874,
+      "rank_sim": 1.0,
+      "combined": 0.912,
+      "vms_freq": 802,
+      "an_freq": 87,
+      "vms_rank": 0,
+      "an_rank": 0
+    },
+    {
+      "vms": "olk",
+      "an": "I_manna",
+      "cosine": 0.93,
+      "rank_sim": 0.867,
+      "combined": 0.911,
+      "vms_freq": 75,
+      "an_freq": 32,
+      "vms_rank": 15,
+      "an_rank": 19
+    },
+    {
+      "vms": "ar",
+      "an": "I_vinum",
+      "cosine": 0.871,
+      "rank_sim": 1.0,
+      "combined": 0.91,
+      "vms_freq": 176,
+      "an_freq": 46,
+      "vms_rank": 8,
+      "an_rank": 8
+    },
+    {
+      "vms": "or",
+      "an": "I_aloe",
+      "cosine": 0.868,
+      "rank_sim": 1.0,
+      "combined": 0.908,
+      "vms_freq": 108,
+      "an_freq": 38,
+      "vms_rank": 11,
+      "an_rank": 11
+    },
+    {
+      "vms": "yt",
+      "an": "I_manna",
+      "cosine": 0.924,
+      "rank_sim": 0.867,
+      "combined": 0.907,
+      "vms_freq": 46,
+      "an_freq": 32,
+      "vms_rank": 23,
+      "an_rank": 19
+    },
+    {
+      "vms": "cho",
+      "an": "I_aliptae",
+      "cosine": 0.876,
+      "rank_sim": 0.967,
+      "combined": 0.903,
+      "vms_freq": 42,
+      "an_freq": 24,
+      "vms_rank": 27,
+      "an_rank": 28
+    },
+    {
+      "vms": "otch",
+      "an": "I_aliptae",
+      "cosine": 0.888,
+      "rank_sim": 0.933,
+      "combined": 0.902,
+      "vms_freq": 44,
+      "an_freq": 24,
+      "vms_rank": 26,
+      "an_rank": 28
+    },
+    {
+      "vms": "lch",
+      "an": "I_viola",
+      "cosine": 0.871,
+      "rank_sim": 0.967,
+      "combined": 0.9,
+      "vms_freq": 108,
+      "an_freq": 38,
+      "vms_rank": 12,
+      "an_rank": 13
+    },
+    {
+      "vms": "od",
+      "an": "I_manna",
+      "cosine": 0.941,
+      "rank_sim": 0.8,
+      "combined": 0.899,
+      "vms_freq": 44,
+      "an_freq": 32,
+      "vms_rank": 25,
+      "an_rank": 19
+    },
+    {
+      "vms": "aiin",
+      "an": "I_crocus",
+      "cosine": 0.853,
+      "rank_sim": 1.0,
+      "combined": 0.897,
+      "vms_freq": 210,
+      "an_freq": 48,
+      "vms_rank": 6,
+      "an_rank": 6
+    },
+    {
+      "vms": "cheo",
+      "an": "I_manna",
+      "cosine": 0.922,
+      "rank_sim": 0.833,
+      "combined": 0.896,
+      "vms_freq": 78,
+      "an_freq": 32,
+      "vms_rank": 14,
+      "an_rank": 19
+    },
+    {
+      "vms": "ch",
+      "an": "I_mel",
+      "cosine": 0.848,
+      "rank_sim": 1.0,
+      "combined": 0.894,
+      "vms_freq": 679,
+      "an_freq": 83,
+      "vms_rank": 1,
+      "an_rank": 1
+    },
+    {
+      "vms": "qopch",
+      "an": "I_manna",
+      "cosine": 0.917,
+      "rank_sim": 0.833,
+      "combined": 0.892,
+      "vms_freq": 46,
+      "an_freq": 32,
+      "vms_rank": 24,
+      "an_rank": 19
+    },
+    {
+      "vms": "qot",
+      "an": "I_mastix",
+      "cosine": 0.842,
+      "rank_sim": 1.0,
+      "combined": 0.889,
+      "vms_freq": 248,
+      "an_freq": 48,
+      "vms_rank": 5,
+      "an_rank": 5
+    },
+    {
+      "vms": "okch",
+      "an": "I_aliptae",
+      "cosine": 0.854,
+      "rank_sim": 0.967,
+      "combined": 0.888,
+      "vms_freq": 39,
+      "an_freq": 24,
+      "vms_rank": 29,
+      "an_rank": 28
+    },
+    {
+      "vms": "ol",
+      "an": "I_aloe",
+      "cosine": 0.845,
+      "rank_sim": 0.967,
+      "combined": 0.882,
+      "vms_freq": 158,
+      "an_freq": 38,
+      "vms_rank": 10,
+      "an_rank": 11
+    },
+    {
+      "vms": "lk",
+      "an": "I_rosa",
+      "cosine": 0.864,
+      "rank_sim": 0.9,
+      "combined": 0.875,
+      "vms_freq": 202,
+      "an_freq": 56,
+      "vms_rank": 7,
+      "an_rank": 4
+    },
+    {
+      "vms": "al",
+      "an": "I_aloe",
+      "cosine": 0.843,
+      "rank_sim": 0.933,
+      "combined": 0.87,
+      "vms_freq": 160,
+      "an_freq": 38,
+      "vms_rank": 9,
+      "an_rank": 11
+    },
+    {
+      "vms": "ok",
+      "an": "I_cinnamomum",
+      "cosine": 0.808,
+      "rank_sim": 1.0,
+      "combined": 0.866,
+      "vms_freq": 500,
+      "an_freq": 59,
+      "vms_rank": 3,
+      "an_rank": 3
+    }
+  ],
+  "consistency": {
+    "checked": 105,
+    "consistent": 79,
+    "inconsistent": 26
+  }
+}

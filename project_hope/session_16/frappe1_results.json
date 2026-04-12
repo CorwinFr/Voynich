@@ -1,0 +1,660 @@
+{
+  "n_anchors": 16,
+  "n_positional_candidates": 50,
+  "n_fingerprint_candidates": 38,
+  "n_final_strong": 7,
+  "n_final_moderate": 51,
+  "candidates": [
+    {
+      "root": "dsh",
+      "ingredient": "vinum",
+      "confidence": 0.85,
+      "strength": "STRONG",
+      "n_positional": 2,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint",
+        "positional"
+      ]
+    },
+    {
+      "root": "qotch",
+      "ingredient": "vinum",
+      "confidence": 0.85,
+      "strength": "STRONG",
+      "n_positional": 1,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint",
+        "positional"
+      ]
+    },
+    {
+      "root": "ych",
+      "ingredient": "succus",
+      "confidence": 0.85,
+      "strength": "STRONG",
+      "n_positional": 1,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint",
+        "positional"
+      ]
+    },
+    {
+      "root": "cho",
+      "ingredient": "vinum",
+      "confidence": 0.85,
+      "strength": "STRONG",
+      "n_positional": 1,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint",
+        "positional"
+      ]
+    },
+    {
+      "root": "dy",
+      "ingredient": "vinum",
+      "confidence": 0.75,
+      "strength": "GOOD",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "dch",
+      "ingredient": "vinum",
+      "confidence": 0.75,
+      "strength": "GOOD",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "ypch",
+      "ingredient": "aqua",
+      "confidence": 0.75,
+      "strength": "GOOD",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "kch",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "aiin",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "sheo",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "cthy",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "oky",
+      "ingredient": "succus",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "ol",
+      "ingredient": "aqua",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "ckhy",
+      "ingredient": "aqua",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "otol",
+      "ingredient": "aqua",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "cph",
+      "ingredient": "succus",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "od",
+      "ingredient": "succus",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "ckh",
+      "ingredient": "succus",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "daly",
+      "ingredient": "succus",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "chd",
+      "ingredient": "succus",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "oteo",
+      "ingredient": "succus",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "ar",
+      "ingredient": "succus",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "oty",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "opch",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "or",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "chy",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "qod",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "ytch",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "tch",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "dal",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "shed",
+      "ingredient": "vinum",
+      "confidence": 0.6,
+      "strength": "MODERATE",
+      "n_positional": 0,
+      "n_fingerprint": 1,
+      "methods": [
+        "fingerprint"
+      ]
+    },
+    {
+      "root": "dyk",
+      "ingredient": "succus",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "choksh",
+      "ingredient": "verbena",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "pch",
+      "ingredient": "vinum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "oksho",
+      "ingredient": "aqua",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "sh",
+      "ingredient": "mel",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "ch",
+      "ingredient": "lac",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "shok",
+      "ingredient": "vinum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "pchot",
+      "ingredient": "lac",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "seees",
+      "ingredient": "lens",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "sshok",
+      "ingredient": "acetum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "qok",
+      "ingredient": "vinum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "qokeo",
+      "ingredient": "acetum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "qot",
+      "ingredient": "aqua",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "lk",
+      "ingredient": "faba",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "pcheo",
+      "ingredient": "vinum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "chcthy",
+      "ingredient": "feniculum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "tsheo",
+      "ingredient": "succus",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "otch",
+      "ingredient": "vinum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "ykeed",
+      "ingredient": "nitrum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "otees",
+      "ingredient": "vinum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "ot",
+      "ingredient": "linum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "shoke",
+      "ingredient": "sal",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "qo",
+      "ingredient": "mel",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "kald",
+      "ingredient": "ovum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "yteeod",
+      "ingredient": "piper",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "tchod",
+      "ingredient": "vinum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    },
+    {
+      "root": "shotsh",
+      "ingredient": "oleum",
+      "confidence": 0.5,
+      "strength": "WEAK",
+      "n_positional": 1,
+      "n_fingerprint": 0,
+      "methods": [
+        "positional"
+      ]
+    }
+  ],
+  "verified_confirmed": {
+    "cth": "acetum",
+    "yk": "mel",
+    "cht": "piper",
+    "shocthy": "mastix",
+    "shotch": "nigella",
+    "chk": "oleum",
+    "otoly": "sal"
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "n_tested": 15,
+  "n_pass": 7,
+  "n_mixed": 7,
+  "n_fail": 1,
+  "details": {
+    "otch": {
+      "latin": "trita",
+      "type": "VERB",
+      "total": 168,
+      "herbal_pct": 47,
+      "pharma_pct": 26,
+      "before_ingr_pct": 1,
+      "after_ingr_pct": 2,
+      "mean_pos": 0.45,
+      "verdict": "MIXED",
+      "checks": [
+        "✗ follows ingredients only 1%",
+        "✓ in pharma"
+      ]
+    },
+    "cthy": {
+      "latin": "superaddere",
+      "type": "VERB",
+      "total": 103,
+      "herbal_pct": 94,
+      "pharma_pct": 0,
+      "before_ingr_pct": 3,
+      "after_ingr_pct": 1,
+      "mean_pos": 0.52,
+      "verdict": "FAIL",
+      "checks": [
+        "✗ follows ingredients only 3%",
+        "✗ pharma only 0%"
+      ]
+    },
+    "qoty": {
+      "latin": "sumere",
+      "type": "VERB",
+      "total": 90,
+      "herbal_pct": 36,
+      "pharma_pct": 21,
+      "before_ingr_pct": 1,
+      "after_ingr_pct": 4,
+      "mean_pos": 0.49,
+      "verdict": "MIXED",
+      "checks": [
+        "✗ follows ingredients only 1%",
+        "✓ in pharma"
+      ]
+    },
+    "alch": {
+      "latin": "decoctio",
+      "type": "VERB",
+      "total": 16,
+      "herbal_pct": 18,
+      "pharma_pct": 31,
+      "before_ingr_pct": 0,
+      "after_ingr_pct": 0,
+      "mean_pos": 0.49,
+      "verdict": "MIXED",
+      "checks": [
+        "✗ follows ingredients only 0%",
+        "✓ in pharma"
+      ]
+    },
+    "chod": {
+      "latin": "jungere",
+      "type": "VERB",
+      "total": 96,
+      "herbal_pct": 61,
+      "pharma_pct": 25,
+      "before_ingr_pct": 1,
+      "after_ingr_pct": 4,
+      "mean_pos": 0.59,
+      "verdict": "MIXED",
+      "checks": [
+        "✗ follows ingredients only 1%",
+        "✓ in pharma"
+      ]
+    },
+    "kch": {
+      "latin": "sumere",
+      "type": "VERB",
+      "total": 131,
+      "herbal_pct": 70,
+      "pharma_pct": 17,
+      "before_ingr_pct": 2,
+      "after_ingr_pct": 3,
+      "mean_pos": 0.43,
+      "verdict": "MIXED",
+      "checks": [
+        "✗ follows ingredients only 2%",
+        "✓ in pharma"
+      ]
+    },
+    "chot": {
+      "latin": "decoctio",
+      "type": "VERB",
+      "total": 94,
+      "herbal_pct": 52,
+      "pharma_pct": 18,
+      "before_ingr_pct": 4,
+      "after_ingr_pct": 1,
+      "mean_pos": 0.51,
+      "verdict": "MIXED",
+      "checks": [
+        "✗ follows ingredients only 4%",
+        "✓ in pharma"
+      ]
+    },
+    "chcthy": {
+      "latin": "superaddere",
+      "type": "VERB",
+      "total": 81,
+      "herbal_pct": 32,
+      "pharma_pct": 28,
+      "before_ingr_pct": 0,
+      "after_ingr_pct": 6,
+      "mean_pos": 0.56,
+      "verdict": "MIXED",
+      "checks": [
+        "✗ follows ingredients only 0%",
+        "✓ in pharma"
+      ]
+    },
+    "chy": {
+      "latin": "caput",
+      "type": "BODY",
+      "total": 169,
+      "herbal_pct": 72,
+      "pharma_pct": 7,
+      "before_ingr_pct": 2,
+      "after_ingr_pct": 2,
+      "mean_pos": 0.52,
+      "verdict": "PASS",
+      "checks": [
+        "✓ mid/late position"
+      ]
+    },
+    "cho": {
+      "latin": "febris",
+      "type": "DISEASE",
+      "total": 203,
+      "herbal_pct": 65,
+      "pharma_pct": 20,
+      "before_ingr_pct": 2,
+      "after_ingr_pct": 2,
+      "mean_pos": 0.57,
+      "verdict": "PASS",
+      "checks": [
+        "✓ in herbal (where diseases are described)"
+      ]
+    },
+    "chek": {
+      "latin": "dolor",
+      "type": "DISEASE",
+      "total": 80,
+      "herbal_pct": 43,
+      "pharma_pct": 16,
+      "before_ingr_pct": 2,
+      "after_ingr_pct": 1,
+      "mean_pos": 0.56,
+      "verdict": "PASS",
+      "checks": [
+        "✓ in herbal (where diseases are described)"
+      ]
+    },
+    "cheky": {
+      "latin": "venenum",
+      "type": "DISEASE",
+      "total": 65,
+      "herbal_pct": 44,
+      "pharma_pct": 15,
+      "before_ingr_pct": 4,
+      "after_ingr_pct": 0,
+      "mean_pos": 0.57,
+      "verdict": "PASS",
+      "checks": [
+        "✓ in herbal (where diseases are described)"
+      ]
+    },
+    "dal": {
+      "latin": "vinum",
+      "type": "INGR",
+      "total": 306,
+      "herbal_pct": 32,
+      "pharma_pct": 11,
+      "before_ingr_pct": 0,
+      "after_ingr_pct": 2,
+      "mean_pos": 0.52,
+      "verdict": "PASS",
+      "checks": [
+        "✓ in herbal"
+      ]
+    },
+    "dary": {
+      "latin": "vinum",
+      "type": "INGR",
+      "total": 23,
+      "herbal_pct": 39,
+      "pharma_pct": 17,
+      "before_ingr_pct": 4,
+      "after_ingr_pct": 4,
+      "mean_pos": 0.6,
+      "verdict": "PASS",
+      "checks": [
+        "✓ in herbal"
+      ]
+    },
+    "qokeo": {
+      "latin": "rosa",
+      "type": "INGR",
+      "total": 44,
+      "herbal_pct": 59,
+      "pharma_pct": 20,
+      "before_ingr_pct": 0,
+      "after_ingr_pct": 0,
+      "mean_pos": 0.38,
+      "verdict": "PASS",
+      "checks": [
+        "✓ in herbal"
+      ]
+    }
+  },
+  "passed": [
+    [
+      "chek",
+      "dolor",
+      "DISEASE"
+    ],
+    [
+      "cheky",
+      "venenum",
+      "DISEASE"
+    ],
+    [
+      "cho",
+      "febris",
+      "DISEASE"
+    ],
+    [
+      "chy",
+      "caput",
+      "BODY"
+    ],
+    [
+      "dal",
+      "vinum",
+      "INGR"
+    ],
+    [
+      "dary",
+      "vinum",
+      "INGR"
+    ],
+    [
+      "qokeo",
+      "rosa",
+      "INGR"
+    ]
+  ],
+  "failed": [
+    [
+      "cthy",
+      "superaddere",
+      "VERB"
+    ]
+  ]
+}

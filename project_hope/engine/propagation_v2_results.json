@@ -1,0 +1,67 @@
+{
+  "iterations": 2,
+  "n_assigned": 17,
+  "n_known_roots": 14,
+  "n_new_roots": 1,
+  "history": [
+    {
+      "iteration": 1,
+      "folio": "f48r",
+      "chapter": "Ruta",
+      "score": 171,
+      "margin": 58.5,
+      "n_matched": 4,
+      "new_mappings": [
+        [
+          "otch",
+          "succus"
+        ],
+        [
+          "chy",
+          "mel"
+        ]
+      ]
+    }
+  ],
+  "assigned": {
+    "f48v": "Ruta",
+    "f9v": "Violae",
+    "f44v": "Apium",
+    "f51v": "Salvia",
+    "f29r": "Lactuca",
+    "f41r": "Origanum",
+    "f37r": "Mentha",
+    "f41v": "Coriandrum",
+    "f22r": "Verbena",
+    "f28r": "Aristolochia",
+    "f5v": "Malva",
+    "f45r": "Atriplex",
+    "f66v": "Satureia",
+    "f65v": "Centaurea",
+    "f3v": "Elleborus",
+    "f95v1": "Althaea",
+    "f48r": "Ruta"
+  },
+  "known_roots": {
+    "cth": "acetum",
+    "cht": "piper",
+    "shocthy": "mastix",
+    "shotch": "nigella",
+    "chk": "oleum",
+    "otoly": "sal",
+    "ypch": "aqua",
+    "ykeed": "nitrum",
+    "seees": "lens",
+    "kald": "ovum",
+    "dal": "vinum",
+    "qokeo": "rosa",
+    "otch": "succus",
+    "chy": "mel"
+  },
+  "new_roots": {
+    "otch": "succus",
+    "chy": "mel"
+  },
+  "validation_correct": 0,
+  "validation_tested": 0
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "corpus": "S05_MACER.json",
+    "n_recipes": 24,
+    "n_ingredients": 171,
+    "our_jaccard": 0.4074,
+    "random_jaccard": 0.2535,
+    "improvement": 1.61
+  },
+  {
+    "corpus": "S12_TACUINUM.json",
+    "n_recipes": 266,
+    "n_ingredients": 129,
+    "our_jaccard": 0.5338,
+    "random_jaccard": 0.3587,
+    "improvement": 1.49
+  },
+  {
+    "corpus": "S15_ABENGUEFIT.json",
+    "n_recipes": 469,
+    "n_ingredients": 241,
+    "our_jaccard": 0.4985,
+    "random_jaccard": 0.3372,
+    "improvement": 1.48
+  },
+  {
+    "corpus": "S11_BALNEA.json",
+    "n_recipes": 85,
+    "n_ingredients": 169,
+    "our_jaccard": 0.4296,
+    "random_jaccard": 0.2968,
+    "improvement": 1.45
+  },
+  {
+    "corpus": "S13_FASCICULUS.json",
+    "n_recipes": 16,
+    "n_ingredients": 32,
+    "our_jaccard": 0.329,
+    "random_jaccard": 0.2273,
+    "improvement": 1.45
+  },
+  {
+    "corpus": "S06_REGIMEN.json",
+    "n_recipes": 30,
+    "n_ingredients": 76,
+    "our_jaccard": 0.3776,
+    "random_jaccard": 0.2632,
+    "improvement": 1.43
+  },
+  {
+    "corpus": "S09_COLLECTIO.json",
+    "n_recipes": 1874,
+    "n_ingredients": 333,
+    "our_jaccard": 0.4381,
+    "random_jaccard": 0.3176,
+    "improvement": 1.38
+  },
+  {
+    "corpus": "S14_GALEN.json",
+    "n_recipes": 86,
+    "n_ingredients": 118,
+    "our_jaccard": 0.46,
+    "random_jaccard": 0.3389,
+    "improvement": 1.36
+  },
+  {
+    "corpus": "S08_AVICENNA.json",
+    "n_recipes": 1845,
+    "n_ingredients": 257,
+    "our_jaccard": 0.464,
+    "random_jaccard": 0.3436,
+    "improvement": 1.35
+  },
+  {
+    "corpus": "S07_DALME.json",
+    "n_recipes": 28,
+    "n_ingredients": 153,
+    "our_jaccard": 0.2298,
+    "random_jaccard": 0.1775,
+    "improvement": 1.29
+  },
+  {
+    "corpus": "S10_ALPHITA.json",
+    "n_recipes": 501,
+    "n_ingredients": 324,
+    "our_jaccard": 0.3663,
+    "random_jaccard": 0.2952,
+    "improvement": 1.24
+  },
+  {
+    "corpus": "S01_AN.json",
+    "n_recipes": 150,
+    "n_ingredients": 886,
+    "our_jaccard": 0.2701,
+    "random_jaccard": 0.2285,
+    "improvement": 1.18
+  },
+  {
+    "corpus": "S16_RHAZES.json",
+    "n_recipes": 45,
+    "n_ingredients": 163,
+    "our_jaccard": 0.2415,
+    "random_jaccard": 0.2114,
+    "improvement": 1.14
+  }
+]

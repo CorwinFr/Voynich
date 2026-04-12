@@ -1,0 +1,5921 @@
+{
+  "section_aggregates": {
+    "herbal_b": {
+      "n_folios": 32,
+      "n_words": 3976,
+      "type_pcts": {
+        "INGR": 55,
+        "UNK": 6,
+        "DOSE": 11,
+        "VERB": 1,
+        "FUNC": 15,
+        "LOGO": 3,
+        "PLANT": 6
+      }
+    },
+    "pharma": {
+      "n_folios": 24,
+      "n_words": 10891,
+      "type_pcts": {
+        "VERB": 2,
+        "FUNC": 21,
+        "INGR": 46,
+        "DOSE": 16,
+        "PLANT": 6,
+        "UNK": 4,
+        "LOGO": 3
+      }
+    },
+    "herbal_a": {
+      "n_folios": 111,
+      "n_words": 10243,
+      "type_pcts": {
+        "VERB": 1,
+        "FUNC": 13,
+        "INGR": 52,
+        "PLANT": 7,
+        "UNK": 7,
+        "DOSE": 13,
+        "LOGO": 4
+      }
+    },
+    "volvelle": {
+      "n_folios": 1,
+      "n_words": 179,
+      "type_pcts": {
+        "PLANT": 3,
+        "LOGO": 58,
+        "UNK": 5,
+        "INGR": 24,
+        "FUNC": 6,
+        "DOSE": 2
+      }
+    },
+    "astro": {
+      "n_folios": 10,
+      "n_words": 1752,
+      "type_pcts": {
+        "VERB": 0,
+        "INGR": 55,
+        "UNK": 7,
+        "LOGO": 5,
+        "PLANT": 7,
+        "FUNC": 15,
+        "DOSE": 8
+      }
+    },
+    "cosmo": {
+      "n_folios": 22,
+      "n_words": 2587,
+      "type_pcts": {
+        "INGR": 63,
+        "FUNC": 14,
+        "UNK": 6,
+        "DOSE": 5,
+        "PLANT": 6,
+        "VERB": 0,
+        "LOGO": 3
+      }
+    },
+    "balnea": {
+      "n_folios": 20,
+      "n_words": 6954,
+      "type_pcts": {
+        "VERB": 0,
+        "FUNC": 32,
+        "INGR": 36,
+        "DOSE": 11,
+        "UNK": 9,
+        "PLANT": 6,
+        "LOGO": 2
+      }
+    },
+    "bio": {
+      "n_folios": 6,
+      "n_words": 1855,
+      "type_pcts": {
+        "VERB": 1,
+        "INGR": 45,
+        "FUNC": 19,
+        "UNK": 6,
+        "PLANT": 11,
+        "DOSE": 14,
+        "LOGO": 1
+      }
+    }
+  },
+  "folio_details": {
+    "f100r": {
+      "section": "herbal_b",
+      "n_words": 110,
+      "n_blocks": 3,
+      "counts": {
+        "INGR": 75,
+        "UNK": 2,
+        "DOSE": 9,
+        "VERB": 2,
+        "FUNC": 18,
+        "LOGO": 1,
+        "PLANT": 3
+      },
+      "pcts": {
+        "INGR": 68,
+        "UNK": 1,
+        "DOSE": 8,
+        "VERB": 1,
+        "FUNC": 16,
+        "LOGO": 0,
+        "PLANT": 2
+      }
+    },
+    "f100v": {
+      "section": "herbal_b",
+      "n_words": 93,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 64,
+        "PLANT": 7,
+        "FUNC": 12,
+        "DOSE": 3,
+        "UNK": 3,
+        "LOGO": 4
+      },
+      "pcts": {
+        "INGR": 68,
+        "PLANT": 7,
+        "FUNC": 12,
+        "DOSE": 3,
+        "UNK": 3,
+        "LOGO": 4
+      }
+    },
+    "f101r": {
+      "section": "herbal_b",
+      "n_words": 227,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 1,
+        "FUNC": 41,
+        "PLANT": 29,
+        "INGR": 109,
+        "LOGO": 10,
+        "UNK": 17,
+        "DOSE": 20
+      },
+      "pcts": {
+        "VERB": 0,
+        "FUNC": 18,
+        "PLANT": 12,
+        "INGR": 48,
+        "LOGO": 4,
+        "UNK": 7,
+        "DOSE": 8
+      }
+    },
+    "f101v": {
+      "section": "herbal_b",
+      "n_words": 215,
+      "n_blocks": 4,
+      "counts": {
+        "INGR": 120,
+        "FUNC": 27,
+        "PLANT": 17,
+        "VERB": 2,
+        "UNK": 13,
+        "LOGO": 10,
+        "DOSE": 26
+      },
+      "pcts": {
+        "INGR": 55,
+        "FUNC": 12,
+        "PLANT": 7,
+        "VERB": 0,
+        "UNK": 6,
+        "LOGO": 4,
+        "DOSE": 12
+      }
+    },
+    "f102r1": {
+      "section": "herbal_b",
+      "n_words": 107,
+      "n_blocks": 4,
+      "counts": {
+        "INGR": 61,
+        "DOSE": 17,
+        "FUNC": 16,
+        "PLANT": 5,
+        "UNK": 5,
+        "VERB": 1,
+        "LOGO": 2
+      },
+      "pcts": {
+        "INGR": 57,
+        "DOSE": 15,
+        "FUNC": 14,
+        "PLANT": 4,
+        "UNK": 4,
+        "VERB": 0,
+        "LOGO": 1
+      }
+    },
+    "f102r2": {
+      "section": "herbal_b",
+      "n_words": 144,
+      "n_blocks": 4,
+      "counts": {
+        "INGR": 80,
+        "UNK": 14,
+        "PLANT": 4,
+        "LOGO": 9,
+        "DOSE": 9,
+        "FUNC": 27,
+        "VERB": 1
+      },
+      "pcts": {
+        "INGR": 55,
+        "UNK": 9,
+        "PLANT": 2,
+        "LOGO": 6,
+        "DOSE": 6,
+        "FUNC": 18,
+        "VERB": 0
+      }
+    },
+    "f102v1": {
+      "section": "herbal_b",
+      "n_words": 128,
+      "n_blocks": 3,
+      "counts": {
+        "DOSE": 14,
+        "INGR": 76,
+        "FUNC": 22,
+        "PLANT": 8,
+        "UNK": 6,
+        "LOGO": 2
+      },
+      "pcts": {
+        "DOSE": 10,
+        "INGR": 59,
+        "FUNC": 17,
+        "PLANT": 6,
+        "UNK": 4,
+        "LOGO": 1
+      }
+    },
+    "f102v2": {
+      "section": "herbal_b",
+      "n_words": 189,
+      "n_blocks": 3,
+      "counts": {
+        "INGR": 105,
+        "PLANT": 14,
+        "FUNC": 29,
+        "VERB": 2,
+        "LOGO": 16,
+        "UNK": 12,
+        "DOSE": 11
+      },
+      "pcts": {
+        "INGR": 55,
+        "PLANT": 7,
+        "FUNC": 15,
+        "VERB": 1,
+        "LOGO": 8,
+        "UNK": 6,
+        "DOSE": 5
+      }
+    },
+    "f103r": {
+      "section": "pharma",
+      "n_words": 531,
+      "n_blocks": 18,
+      "counts": {
+        "VERB": 11,
+        "FUNC": 207,
+        "INGR": 197,
+        "DOSE": 64,
+        "PLANT": 22,
+        "UNK": 22,
+        "LOGO": 8
+      },
+      "pcts": {
+        "VERB": 2,
+        "FUNC": 38,
+        "INGR": 37,
+        "DOSE": 12,
+        "PLANT": 4,
+        "UNK": 4,
+        "LOGO": 1
+      }
+    },
+    "f103v": {
+      "section": "pharma",
+      "n_words": 454,
+      "n_blocks": 13,
+      "counts": {
+        "VERB": 8,
+        "UNK": 21,
+        "INGR": 161,
+        "FUNC": 158,
+        "DOSE": 60,
+        "PLANT": 35,
+        "LOGO": 11
+      },
+      "pcts": {
+        "VERB": 1,
+        "UNK": 4,
+        "INGR": 35,
+        "FUNC": 34,
+        "DOSE": 13,
+        "PLANT": 7,
+        "LOGO": 2
+      }
+    },
+    "f104r": {
+      "section": "pharma",
+      "n_words": 448,
+      "n_blocks": 13,
+      "counts": {
+        "VERB": 10,
+        "INGR": 227,
+        "DOSE": 71,
+        "LOGO": 19,
+        "PLANT": 34,
+        "UNK": 15,
+        "FUNC": 72
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 50,
+        "DOSE": 15,
+        "LOGO": 4,
+        "PLANT": 7,
+        "UNK": 3,
+        "FUNC": 16
+      }
+    },
+    "f104v": {
+      "section": "pharma",
+      "n_words": 476,
+      "n_blocks": 13,
+      "counts": {
+        "VERB": 11,
+        "INGR": 244,
+        "PLANT": 42,
+        "UNK": 18,
+        "DOSE": 68,
+        "FUNC": 75,
+        "LOGO": 18
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 51,
+        "PLANT": 8,
+        "UNK": 3,
+        "DOSE": 14,
+        "FUNC": 15,
+        "LOGO": 3
+      }
+    },
+    "f105r": {
+      "section": "pharma",
+      "n_words": 379,
+      "n_blocks": 10,
+      "counts": {
+        "PLANT": 31,
+        "UNK": 25,
+        "INGR": 205,
+        "FUNC": 65,
+        "DOSE": 37,
+        "VERB": 7,
+        "LOGO": 9
+      },
+      "pcts": {
+        "PLANT": 8,
+        "UNK": 6,
+        "INGR": 54,
+        "FUNC": 17,
+        "DOSE": 9,
+        "VERB": 1,
+        "LOGO": 2
+      }
+    },
+    "f105v": {
+      "section": "pharma",
+      "n_words": 399,
+      "n_blocks": 10,
+      "counts": {
+        "VERB": 8,
+        "UNK": 17,
+        "INGR": 208,
+        "DOSE": 73,
+        "PLANT": 32,
+        "FUNC": 47,
+        "LOGO": 14
+      },
+      "pcts": {
+        "VERB": 2,
+        "UNK": 4,
+        "INGR": 52,
+        "DOSE": 18,
+        "PLANT": 8,
+        "FUNC": 11,
+        "LOGO": 3
+      }
+    },
+    "f106r": {
+      "section": "pharma",
+      "n_words": 432,
+      "n_blocks": 15,
+      "counts": {
+        "VERB": 14,
+        "INGR": 219,
+        "FUNC": 73,
+        "PLANT": 36,
+        "DOSE": 71,
+        "UNK": 14,
+        "LOGO": 5
+      },
+      "pcts": {
+        "VERB": 3,
+        "INGR": 50,
+        "FUNC": 16,
+        "PLANT": 8,
+        "DOSE": 16,
+        "UNK": 3,
+        "LOGO": 1
+      }
+    },
+    "f106v": {
+      "section": "pharma",
+      "n_words": 444,
+      "n_blocks": 15,
+      "counts": {
+        "VERB": 13,
+        "INGR": 211,
+        "DOSE": 77,
+        "FUNC": 86,
+        "UNK": 21,
+        "PLANT": 30,
+        "LOGO": 6
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 47,
+        "DOSE": 17,
+        "FUNC": 19,
+        "UNK": 4,
+        "PLANT": 6,
+        "LOGO": 1
+      }
+    },
+    "f107r": {
+      "section": "pharma",
+      "n_words": 487,
+      "n_blocks": 14,
+      "counts": {
+        "VERB": 14,
+        "INGR": 214,
+        "FUNC": 83,
+        "DOSE": 104,
+        "PLANT": 34,
+        "UNK": 27,
+        "LOGO": 11
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 43,
+        "FUNC": 17,
+        "DOSE": 21,
+        "PLANT": 6,
+        "UNK": 5,
+        "LOGO": 2
+      }
+    },
+    "f107v": {
+      "section": "pharma",
+      "n_words": 462,
+      "n_blocks": 15,
+      "counts": {
+        "VERB": 12,
+        "FUNC": 101,
+        "INGR": 177,
+        "DOSE": 115,
+        "PLANT": 24,
+        "UNK": 17,
+        "LOGO": 16
+      },
+      "pcts": {
+        "VERB": 2,
+        "FUNC": 21,
+        "INGR": 38,
+        "DOSE": 24,
+        "PLANT": 5,
+        "UNK": 3,
+        "LOGO": 3
+      }
+    },
+    "f108r": {
+      "section": "pharma",
+      "n_words": 494,
+      "n_blocks": 14,
+      "counts": {
+        "VERB": 11,
+        "INGR": 223,
+        "FUNC": 157,
+        "UNK": 16,
+        "DOSE": 53,
+        "LOGO": 12,
+        "PLANT": 22
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 45,
+        "FUNC": 31,
+        "UNK": 3,
+        "DOSE": 10,
+        "LOGO": 2,
+        "PLANT": 4
+      }
+    },
+    "f108v": {
+      "section": "pharma",
+      "n_words": 581,
+      "n_blocks": 7,
+      "counts": {
+        "VERB": 4,
+        "INGR": 230,
+        "FUNC": 190,
+        "PLANT": 32,
+        "DOSE": 74,
+        "UNK": 37,
+        "LOGO": 14
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 39,
+        "FUNC": 32,
+        "PLANT": 5,
+        "DOSE": 12,
+        "UNK": 6,
+        "LOGO": 2
+      }
+    },
+    "f10r": {
+      "section": "herbal_a",
+      "n_words": 92,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "FUNC": 14,
+        "INGR": 47,
+        "PLANT": 7,
+        "UNK": 7,
+        "DOSE": 14,
+        "LOGO": 2
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 15,
+        "INGR": 51,
+        "PLANT": 7,
+        "UNK": 7,
+        "DOSE": 15,
+        "LOGO": 2
+      }
+    },
+    "f10v": {
+      "section": "herbal_a",
+      "n_words": 57,
+      "n_blocks": 2,
+      "counts": {
+        "DOSE": 14,
+        "INGR": 30,
+        "FUNC": 9,
+        "PLANT": 4
+      },
+      "pcts": {
+        "DOSE": 24,
+        "INGR": 52,
+        "FUNC": 15,
+        "PLANT": 7
+      }
+    },
+    "f111r": {
+      "section": "pharma",
+      "n_words": 624,
+      "n_blocks": 6,
+      "counts": {
+        "VERB": 5,
+        "FUNC": 144,
+        "INGR": 308,
+        "UNK": 35,
+        "DOSE": 78,
+        "LOGO": 24,
+        "PLANT": 30
+      },
+      "pcts": {
+        "VERB": 0,
+        "FUNC": 23,
+        "INGR": 49,
+        "UNK": 5,
+        "DOSE": 12,
+        "LOGO": 3,
+        "PLANT": 4
+      }
+    },
+    "f111v": {
+      "section": "pharma",
+      "n_words": 567,
+      "n_blocks": 8,
+      "counts": {
+        "VERB": 7,
+        "FUNC": 101,
+        "INGR": 238,
+        "DOSE": 139,
+        "UNK": 31,
+        "PLANT": 27,
+        "LOGO": 24
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 17,
+        "INGR": 41,
+        "DOSE": 24,
+        "UNK": 5,
+        "PLANT": 4,
+        "LOGO": 4
+      }
+    },
+    "f112r": {
+      "section": "pharma",
+      "n_words": 401,
+      "n_blocks": 11,
+      "counts": {
+        "VERB": 10,
+        "FUNC": 106,
+        "INGR": 166,
+        "PLANT": 36,
+        "DOSE": 36,
+        "UNK": 34,
+        "LOGO": 13
+      },
+      "pcts": {
+        "VERB": 2,
+        "FUNC": 26,
+        "INGR": 41,
+        "PLANT": 8,
+        "DOSE": 8,
+        "UNK": 8,
+        "LOGO": 3
+      }
+    },
+    "f112v": {
+      "section": "pharma",
+      "n_words": 419,
+      "n_blocks": 13,
+      "counts": {
+        "VERB": 8,
+        "PLANT": 34,
+        "FUNC": 103,
+        "INGR": 172,
+        "LOGO": 7,
+        "UNK": 16,
+        "DOSE": 79
+      },
+      "pcts": {
+        "VERB": 1,
+        "PLANT": 8,
+        "FUNC": 24,
+        "INGR": 41,
+        "LOGO": 1,
+        "UNK": 3,
+        "DOSE": 18
+      }
+    },
+    "f113r": {
+      "section": "pharma",
+      "n_words": 529,
+      "n_blocks": 16,
+      "counts": {
+        "VERB": 14,
+        "INGR": 287,
+        "DOSE": 85,
+        "FUNC": 75,
+        "UNK": 18,
+        "PLANT": 31,
+        "LOGO": 19
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 54,
+        "DOSE": 16,
+        "FUNC": 14,
+        "UNK": 3,
+        "PLANT": 5,
+        "LOGO": 3
+      }
+    },
+    "f113v": {
+      "section": "pharma",
+      "n_words": 502,
+      "n_blocks": 15,
+      "counts": {
+        "VERB": 9,
+        "INGR": 219,
+        "FUNC": 92,
+        "LOGO": 18,
+        "UNK": 23,
+        "DOSE": 88,
+        "PLANT": 53
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 43,
+        "FUNC": 18,
+        "LOGO": 3,
+        "UNK": 4,
+        "DOSE": 17,
+        "PLANT": 10
+      }
+    },
+    "f114r": {
+      "section": "pharma",
+      "n_words": 460,
+      "n_blocks": 13,
+      "counts": {
+        "VERB": 8,
+        "PLANT": 27,
+        "INGR": 222,
+        "DOSE": 101,
+        "UNK": 31,
+        "LOGO": 17,
+        "FUNC": 54
+      },
+      "pcts": {
+        "VERB": 1,
+        "PLANT": 5,
+        "INGR": 48,
+        "DOSE": 21,
+        "UNK": 6,
+        "LOGO": 3,
+        "FUNC": 11
+      }
+    },
+    "f114v": {
+      "section": "pharma",
+      "n_words": 376,
+      "n_blocks": 12,
+      "counts": {
+        "VERB": 9,
+        "UNK": 15,
+        "DOSE": 83,
+        "INGR": 182,
+        "FUNC": 54,
+        "PLANT": 18,
+        "LOGO": 15
+      },
+      "pcts": {
+        "VERB": 2,
+        "UNK": 3,
+        "DOSE": 22,
+        "INGR": 48,
+        "FUNC": 14,
+        "PLANT": 4,
+        "LOGO": 3
+      }
+    },
+    "f115r": {
+      "section": "pharma",
+      "n_words": 461,
+      "n_blocks": 13,
+      "counts": {
+        "VERB": 10,
+        "INGR": 264,
+        "DOSE": 54,
+        "FUNC": 57,
+        "PLANT": 33,
+        "UNK": 30,
+        "LOGO": 13
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 57,
+        "DOSE": 11,
+        "FUNC": 12,
+        "PLANT": 7,
+        "UNK": 6,
+        "LOGO": 2
+      }
+    },
+    "f115v": {
+      "section": "pharma",
+      "n_words": 410,
+      "n_blocks": 13,
+      "counts": {
+        "VERB": 10,
+        "INGR": 236,
+        "DOSE": 56,
+        "FUNC": 61,
+        "PLANT": 19,
+        "UNK": 18,
+        "LOGO": 10
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 57,
+        "DOSE": 13,
+        "FUNC": 14,
+        "PLANT": 4,
+        "UNK": 4,
+        "LOGO": 2
+      }
+    },
+    "f116r": {
+      "section": "pharma",
+      "n_words": 553,
+      "n_blocks": 8,
+      "counts": {
+        "VERB": 6,
+        "FUNC": 156,
+        "DOSE": 92,
+        "INGR": 207,
+        "PLANT": 31,
+        "UNK": 34,
+        "LOGO": 27
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 28,
+        "DOSE": 16,
+        "INGR": 37,
+        "PLANT": 5,
+        "UNK": 6,
+        "LOGO": 4
+      }
+    },
+    "f116v": {
+      "section": "pharma",
+      "n_words": 2,
+      "n_blocks": 1,
+      "counts": {
+        "PLANT": 1,
+        "FUNC": 1
+      },
+      "pcts": {
+        "PLANT": 50,
+        "FUNC": 50
+      }
+    },
+    "f11r": {
+      "section": "herbal_a",
+      "n_words": 59,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 27,
+        "DOSE": 11,
+        "FUNC": 6,
+        "LOGO": 7,
+        "UNK": 4,
+        "PLANT": 2
+      },
+      "pcts": {
+        "VERB": 3,
+        "INGR": 45,
+        "DOSE": 18,
+        "FUNC": 10,
+        "LOGO": 11,
+        "UNK": 6,
+        "PLANT": 3
+      }
+    },
+    "f11v": {
+      "section": "herbal_a",
+      "n_words": 50,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 30,
+        "FUNC": 7,
+        "LOGO": 2,
+        "DOSE": 2,
+        "UNK": 7,
+        "PLANT": 1
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 60,
+        "FUNC": 14,
+        "LOGO": 4,
+        "DOSE": 4,
+        "UNK": 14,
+        "PLANT": 2
+      }
+    },
+    "f13r": {
+      "section": "herbal_a",
+      "n_words": 77,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "FUNC": 10,
+        "INGR": 44,
+        "UNK": 7,
+        "DOSE": 5,
+        "LOGO": 7,
+        "PLANT": 3
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 12,
+        "INGR": 57,
+        "UNK": 9,
+        "DOSE": 6,
+        "LOGO": 9,
+        "PLANT": 3
+      }
+    },
+    "f13v": {
+      "section": "herbal_a",
+      "n_words": 69,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "INGR": 28,
+        "FUNC": 14,
+        "PLANT": 6,
+        "LOGO": 9,
+        "DOSE": 8,
+        "UNK": 3
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 40,
+        "FUNC": 20,
+        "PLANT": 8,
+        "LOGO": 13,
+        "DOSE": 11,
+        "UNK": 4
+      }
+    },
+    "f14r": {
+      "section": "herbal_a",
+      "n_words": 76,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "DOSE": 9,
+        "INGR": 43,
+        "LOGO": 2,
+        "FUNC": 8,
+        "PLANT": 7,
+        "UNK": 6
+      },
+      "pcts": {
+        "VERB": 1,
+        "DOSE": 11,
+        "INGR": 56,
+        "LOGO": 2,
+        "FUNC": 10,
+        "PLANT": 9,
+        "UNK": 7
+      }
+    },
+    "f14v": {
+      "section": "herbal_a",
+      "n_words": 75,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "DOSE": 10,
+        "INGR": 44,
+        "UNK": 9,
+        "LOGO": 2,
+        "PLANT": 2,
+        "FUNC": 7
+      },
+      "pcts": {
+        "VERB": 1,
+        "DOSE": 13,
+        "INGR": 58,
+        "UNK": 12,
+        "LOGO": 2,
+        "PLANT": 2,
+        "FUNC": 9
+      }
+    },
+    "f15r": {
+      "section": "herbal_a",
+      "n_words": 94,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "FUNC": 13,
+        "INGR": 40,
+        "DOSE": 24,
+        "UNK": 9,
+        "LOGO": 4,
+        "PLANT": 3
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 13,
+        "INGR": 42,
+        "DOSE": 25,
+        "UNK": 9,
+        "LOGO": 4,
+        "PLANT": 3
+      }
+    },
+    "f15v": {
+      "section": "herbal_a",
+      "n_words": 71,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "PLANT": 9,
+        "INGR": 40,
+        "LOGO": 4,
+        "UNK": 4,
+        "DOSE": 7,
+        "FUNC": 6
+      },
+      "pcts": {
+        "VERB": 1,
+        "PLANT": 12,
+        "INGR": 56,
+        "LOGO": 5,
+        "UNK": 5,
+        "DOSE": 9,
+        "FUNC": 8
+      }
+    },
+    "f16r": {
+      "section": "herbal_a",
+      "n_words": 84,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 3,
+        "INGR": 41,
+        "DOSE": 9,
+        "FUNC": 13,
+        "UNK": 8,
+        "PLANT": 7,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 3,
+        "INGR": 48,
+        "DOSE": 10,
+        "FUNC": 15,
+        "UNK": 9,
+        "PLANT": 8,
+        "LOGO": 3
+      }
+    },
+    "f16v": {
+      "section": "herbal_a",
+      "n_words": 76,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 46,
+        "LOGO": 4,
+        "FUNC": 7,
+        "PLANT": 4,
+        "UNK": 5,
+        "DOSE": 8
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 60,
+        "LOGO": 5,
+        "FUNC": 9,
+        "PLANT": 5,
+        "UNK": 6,
+        "DOSE": 10
+      }
+    },
+    "f17r": {
+      "section": "herbal_a",
+      "n_words": 80,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 3,
+        "INGR": 53,
+        "FUNC": 8,
+        "UNK": 6,
+        "PLANT": 3,
+        "DOSE": 4,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 3,
+        "INGR": 66,
+        "FUNC": 10,
+        "UNK": 7,
+        "PLANT": 3,
+        "DOSE": 5,
+        "LOGO": 3
+      }
+    },
+    "f17v": {
+      "section": "herbal_a",
+      "n_words": 135,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 72,
+        "UNK": 8,
+        "DOSE": 16,
+        "FUNC": 22,
+        "PLANT": 13,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 53,
+        "UNK": 5,
+        "DOSE": 11,
+        "FUNC": 16,
+        "PLANT": 9,
+        "LOGO": 2
+      }
+    },
+    "f18r": {
+      "section": "herbal_a",
+      "n_words": 84,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 47,
+        "UNK": 10,
+        "FUNC": 9,
+        "DOSE": 11,
+        "PLANT": 4,
+        "LOGO": 1
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 55,
+        "UNK": 11,
+        "FUNC": 10,
+        "DOSE": 13,
+        "PLANT": 4,
+        "LOGO": 1
+      }
+    },
+    "f18v": {
+      "section": "herbal_a",
+      "n_words": 69,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "FUNC": 16,
+        "INGR": 32,
+        "UNK": 11,
+        "PLANT": 4,
+        "DOSE": 2,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 23,
+        "INGR": 46,
+        "UNK": 15,
+        "PLANT": 5,
+        "DOSE": 2,
+        "LOGO": 4
+      }
+    },
+    "f19r": {
+      "section": "herbal_a",
+      "n_words": 76,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 39,
+        "FUNC": 8,
+        "UNK": 11,
+        "DOSE": 10,
+        "LOGO": 2,
+        "PLANT": 5
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 51,
+        "FUNC": 10,
+        "UNK": 14,
+        "DOSE": 13,
+        "LOGO": 2,
+        "PLANT": 6
+      }
+    },
+    "f19v": {
+      "section": "herbal_a",
+      "n_words": 78,
+      "n_blocks": 2,
+      "counts": {
+        "DOSE": 14,
+        "INGR": 42,
+        "UNK": 4,
+        "FUNC": 12,
+        "PLANT": 2,
+        "LOGO": 3,
+        "VERB": 1
+      },
+      "pcts": {
+        "DOSE": 17,
+        "INGR": 53,
+        "UNK": 5,
+        "FUNC": 15,
+        "PLANT": 2,
+        "LOGO": 3,
+        "VERB": 1
+      }
+    },
+    "f1r": {
+      "section": "herbal_a",
+      "n_words": 219,
+      "n_blocks": 4,
+      "counts": {
+        "VERB": 1,
+        "INGR": 116,
+        "PLANT": 19,
+        "DOSE": 40,
+        "FUNC": 13,
+        "LOGO": 14,
+        "UNK": 16
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 52,
+        "PLANT": 8,
+        "DOSE": 18,
+        "FUNC": 5,
+        "LOGO": 6,
+        "UNK": 7
+      }
+    },
+    "f1v": {
+      "section": "herbal_a",
+      "n_words": 92,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "DOSE": 3,
+        "PLANT": 9,
+        "LOGO": 4,
+        "INGR": 50,
+        "FUNC": 8,
+        "UNK": 16
+      },
+      "pcts": {
+        "VERB": 2,
+        "DOSE": 3,
+        "PLANT": 9,
+        "LOGO": 4,
+        "INGR": 54,
+        "FUNC": 8,
+        "UNK": 17
+      }
+    },
+    "f20r": {
+      "section": "herbal_a",
+      "n_words": 88,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 3,
+        "INGR": 51,
+        "DOSE": 14,
+        "FUNC": 8,
+        "PLANT": 5,
+        "UNK": 6,
+        "LOGO": 1
+      },
+      "pcts": {
+        "VERB": 3,
+        "INGR": 57,
+        "DOSE": 15,
+        "FUNC": 9,
+        "PLANT": 5,
+        "UNK": 6,
+        "LOGO": 1
+      }
+    },
+    "f20v": {
+      "section": "herbal_a",
+      "n_words": 86,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "PLANT": 13,
+        "INGR": 44,
+        "FUNC": 13,
+        "DOSE": 9,
+        "UNK": 1,
+        "LOGO": 4
+      },
+      "pcts": {
+        "VERB": 2,
+        "PLANT": 15,
+        "INGR": 51,
+        "FUNC": 15,
+        "DOSE": 10,
+        "UNK": 1,
+        "LOGO": 4
+      }
+    },
+    "f21r": {
+      "section": "herbal_a",
+      "n_words": 104,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 3,
+        "LOGO": 9,
+        "INGR": 55,
+        "DOSE": 16,
+        "FUNC": 11,
+        "PLANT": 6,
+        "UNK": 4
+      },
+      "pcts": {
+        "VERB": 2,
+        "LOGO": 8,
+        "INGR": 52,
+        "DOSE": 15,
+        "FUNC": 10,
+        "PLANT": 5,
+        "UNK": 3
+      }
+    },
+    "f21v": {
+      "section": "herbal_a",
+      "n_words": 58,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 26,
+        "DOSE": 12,
+        "FUNC": 7,
+        "PLANT": 6,
+        "UNK": 2,
+        "LOGO": 4
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 44,
+        "DOSE": 20,
+        "FUNC": 12,
+        "PLANT": 10,
+        "UNK": 3,
+        "LOGO": 6
+      }
+    },
+    "f22r": {
+      "section": "herbal_a",
+      "n_words": 111,
+      "n_blocks": 4,
+      "counts": {
+        "VERB": 3,
+        "PLANT": 6,
+        "INGR": 53,
+        "FUNC": 11,
+        "DOSE": 24,
+        "LOGO": 7,
+        "UNK": 7
+      },
+      "pcts": {
+        "VERB": 2,
+        "PLANT": 5,
+        "INGR": 47,
+        "FUNC": 9,
+        "DOSE": 21,
+        "LOGO": 6,
+        "UNK": 6
+      }
+    },
+    "f22v": {
+      "section": "herbal_a",
+      "n_words": 77,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 33,
+        "UNK": 6,
+        "FUNC": 13,
+        "DOSE": 16,
+        "LOGO": 3,
+        "PLANT": 4
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 42,
+        "UNK": 7,
+        "FUNC": 16,
+        "DOSE": 20,
+        "LOGO": 3,
+        "PLANT": 5
+      }
+    },
+    "f23r": {
+      "section": "herbal_a",
+      "n_words": 110,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 2,
+        "PLANT": 7,
+        "INGR": 48,
+        "DOSE": 19,
+        "LOGO": 7,
+        "UNK": 15,
+        "FUNC": 12
+      },
+      "pcts": {
+        "VERB": 1,
+        "PLANT": 6,
+        "INGR": 43,
+        "DOSE": 17,
+        "LOGO": 6,
+        "UNK": 13,
+        "FUNC": 10
+      }
+    },
+    "f23v": {
+      "section": "herbal_a",
+      "n_words": 95,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 41,
+        "PLANT": 12,
+        "FUNC": 12,
+        "LOGO": 5,
+        "UNK": 14,
+        "DOSE": 9
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 43,
+        "PLANT": 12,
+        "FUNC": 12,
+        "LOGO": 5,
+        "UNK": 14,
+        "DOSE": 9
+      }
+    },
+    "f24r": {
+      "section": "herbal_a",
+      "n_words": 110,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "PLANT": 7,
+        "LOGO": 9,
+        "INGR": 59,
+        "DOSE": 8,
+        "FUNC": 13,
+        "UNK": 13
+      },
+      "pcts": {
+        "VERB": 0,
+        "PLANT": 6,
+        "LOGO": 8,
+        "INGR": 53,
+        "DOSE": 7,
+        "FUNC": 11,
+        "UNK": 11
+      }
+    },
+    "f24v": {
+      "section": "herbal_a",
+      "n_words": 85,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 54,
+        "FUNC": 7,
+        "DOSE": 7,
+        "LOGO": 4,
+        "UNK": 4,
+        "PLANT": 7
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 63,
+        "FUNC": 8,
+        "DOSE": 8,
+        "LOGO": 4,
+        "UNK": 4,
+        "PLANT": 8
+      }
+    },
+    "f25r": {
+      "section": "herbal_a",
+      "n_words": 47,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 20,
+        "DOSE": 16,
+        "PLANT": 1,
+        "FUNC": 5,
+        "UNK": 2,
+        "LOGO": 2
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 42,
+        "DOSE": 34,
+        "PLANT": 2,
+        "FUNC": 10,
+        "UNK": 4,
+        "LOGO": 4
+      }
+    },
+    "f25v": {
+      "section": "herbal_a",
+      "n_words": 59,
+      "n_blocks": 1,
+      "counts": {
+        "DOSE": 16,
+        "FUNC": 6,
+        "INGR": 28,
+        "LOGO": 4,
+        "UNK": 3,
+        "PLANT": 2
+      },
+      "pcts": {
+        "DOSE": 27,
+        "FUNC": 10,
+        "INGR": 47,
+        "LOGO": 6,
+        "UNK": 5,
+        "PLANT": 3
+      }
+    },
+    "f26r": {
+      "section": "herbal_a",
+      "n_words": 90,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 44,
+        "DOSE": 6,
+        "FUNC": 18,
+        "UNK": 5,
+        "LOGO": 9,
+        "PLANT": 6
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 48,
+        "DOSE": 6,
+        "FUNC": 20,
+        "UNK": 5,
+        "LOGO": 10,
+        "PLANT": 6
+      }
+    },
+    "f26v": {
+      "section": "herbal_a",
+      "n_words": 93,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 53,
+        "DOSE": 5,
+        "LOGO": 4,
+        "FUNC": 15,
+        "UNK": 8,
+        "PLANT": 7
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 56,
+        "DOSE": 5,
+        "LOGO": 4,
+        "FUNC": 16,
+        "UNK": 8,
+        "PLANT": 7
+      }
+    },
+    "f27r": {
+      "section": "herbal_a",
+      "n_words": 94,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "FUNC": 5,
+        "INGR": 57,
+        "DOSE": 9,
+        "UNK": 8,
+        "PLANT": 7,
+        "LOGO": 6
+      },
+      "pcts": {
+        "VERB": 2,
+        "FUNC": 5,
+        "INGR": 60,
+        "DOSE": 9,
+        "UNK": 8,
+        "PLANT": 7,
+        "LOGO": 6
+      }
+    },
+    "f27v": {
+      "section": "herbal_a",
+      "n_words": 61,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 41,
+        "PLANT": 4,
+        "FUNC": 5,
+        "UNK": 8,
+        "LOGO": 2
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 67,
+        "PLANT": 6,
+        "FUNC": 8,
+        "UNK": 13,
+        "LOGO": 3
+      }
+    },
+    "f28r": {
+      "section": "herbal_a",
+      "n_words": 68,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 37,
+        "DOSE": 9,
+        "PLANT": 4,
+        "FUNC": 10,
+        "UNK": 6,
+        "LOGO": 1
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 54,
+        "DOSE": 13,
+        "PLANT": 5,
+        "FUNC": 14,
+        "UNK": 8,
+        "LOGO": 1
+      }
+    },
+    "f28v": {
+      "section": "herbal_a",
+      "n_words": 68,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 3,
+        "INGR": 33,
+        "FUNC": 9,
+        "PLANT": 5,
+        "UNK": 4,
+        "LOGO": 3,
+        "DOSE": 11
+      },
+      "pcts": {
+        "VERB": 4,
+        "INGR": 48,
+        "FUNC": 13,
+        "PLANT": 7,
+        "UNK": 5,
+        "LOGO": 4,
+        "DOSE": 16
+      }
+    },
+    "f29r": {
+      "section": "herbal_a",
+      "n_words": 65,
+      "n_blocks": 2,
+      "counts": {
+        "DOSE": 7,
+        "INGR": 37,
+        "PLANT": 6,
+        "FUNC": 10,
+        "LOGO": 1,
+        "VERB": 1,
+        "UNK": 3
+      },
+      "pcts": {
+        "DOSE": 10,
+        "INGR": 56,
+        "PLANT": 9,
+        "FUNC": 15,
+        "LOGO": 1,
+        "VERB": 1,
+        "UNK": 4
+      }
+    },
+    "f29v": {
+      "section": "herbal_a",
+      "n_words": 94,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 2,
+        "FUNC": 7,
+        "INGR": 51,
+        "PLANT": 10,
+        "DOSE": 16,
+        "LOGO": 4,
+        "UNK": 4
+      },
+      "pcts": {
+        "VERB": 2,
+        "FUNC": 7,
+        "INGR": 54,
+        "PLANT": 10,
+        "DOSE": 17,
+        "LOGO": 4,
+        "UNK": 4
+      }
+    },
+    "f2r": {
+      "section": "herbal_a",
+      "n_words": 105,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "INGR": 54,
+        "DOSE": 20,
+        "LOGO": 5,
+        "FUNC": 12,
+        "PLANT": 5,
+        "UNK": 8
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 51,
+        "DOSE": 19,
+        "LOGO": 4,
+        "FUNC": 11,
+        "PLANT": 4,
+        "UNK": 7
+      }
+    },
+    "f2v": {
+      "section": "herbal_a",
+      "n_words": 61,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 29,
+        "FUNC": 7,
+        "DOSE": 11,
+        "UNK": 6,
+        "PLANT": 4,
+        "LOGO": 2
+      },
+      "pcts": {
+        "VERB": 3,
+        "INGR": 47,
+        "FUNC": 11,
+        "DOSE": 18,
+        "UNK": 9,
+        "PLANT": 6,
+        "LOGO": 3
+      }
+    },
+    "f30r": {
+      "section": "herbal_a",
+      "n_words": 99,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 65,
+        "FUNC": 6,
+        "UNK": 7,
+        "LOGO": 3,
+        "DOSE": 14,
+        "PLANT": 4
+      },
+      "pcts": {
+        "INGR": 65,
+        "FUNC": 6,
+        "UNK": 7,
+        "LOGO": 3,
+        "DOSE": 14,
+        "PLANT": 4
+      }
+    },
+    "f30v": {
+      "section": "herbal_a",
+      "n_words": 63,
+      "n_blocks": 1,
+      "counts": {
+        "DOSE": 12,
+        "INGR": 38,
+        "PLANT": 7,
+        "FUNC": 2,
+        "UNK": 3,
+        "LOGO": 1
+      },
+      "pcts": {
+        "DOSE": 19,
+        "INGR": 60,
+        "PLANT": 11,
+        "FUNC": 3,
+        "UNK": 4,
+        "LOGO": 1
+      }
+    },
+    "f31r": {
+      "section": "herbal_a",
+      "n_words": 103,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 3,
+        "INGR": 47,
+        "LOGO": 5,
+        "PLANT": 7,
+        "DOSE": 8,
+        "FUNC": 23,
+        "UNK": 10
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 45,
+        "LOGO": 4,
+        "PLANT": 6,
+        "DOSE": 7,
+        "FUNC": 22,
+        "UNK": 9
+      }
+    },
+    "f31v": {
+      "section": "herbal_a",
+      "n_words": 110,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "FUNC": 18,
+        "INGR": 62,
+        "LOGO": 6,
+        "PLANT": 9,
+        "DOSE": 7,
+        "UNK": 6
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 16,
+        "INGR": 56,
+        "LOGO": 5,
+        "PLANT": 8,
+        "DOSE": 6,
+        "UNK": 5
+      }
+    },
+    "f32r": {
+      "section": "herbal_a",
+      "n_words": 76,
+      "n_blocks": 2,
+      "counts": {
+        "DOSE": 13,
+        "INGR": 36,
+        "PLANT": 5,
+        "UNK": 10,
+        "FUNC": 11,
+        "VERB": 1
+      },
+      "pcts": {
+        "DOSE": 17,
+        "INGR": 47,
+        "PLANT": 6,
+        "UNK": 13,
+        "FUNC": 14,
+        "VERB": 1
+      }
+    },
+    "f32v": {
+      "section": "herbal_a",
+      "n_words": 89,
+      "n_blocks": 2,
+      "counts": {
+        "DOSE": 23,
+        "INGR": 37,
+        "LOGO": 9,
+        "PLANT": 9,
+        "UNK": 3,
+        "FUNC": 7,
+        "VERB": 1
+      },
+      "pcts": {
+        "DOSE": 25,
+        "INGR": 41,
+        "LOGO": 10,
+        "PLANT": 10,
+        "UNK": 3,
+        "FUNC": 7,
+        "VERB": 1
+      }
+    },
+    "f33r": {
+      "section": "herbal_a",
+      "n_words": 74,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 29,
+        "DOSE": 12,
+        "FUNC": 13,
+        "LOGO": 2,
+        "UNK": 5,
+        "PLANT": 12
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 39,
+        "DOSE": 16,
+        "FUNC": 17,
+        "LOGO": 2,
+        "UNK": 6,
+        "PLANT": 16
+      }
+    },
+    "f33v": {
+      "section": "herbal_a",
+      "n_words": 114,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "PLANT": 18,
+        "DOSE": 11,
+        "INGR": 52,
+        "UNK": 14,
+        "FUNC": 16,
+        "LOGO": 1
+      },
+      "pcts": {
+        "VERB": 1,
+        "PLANT": 15,
+        "DOSE": 9,
+        "INGR": 45,
+        "UNK": 12,
+        "FUNC": 14,
+        "LOGO": 0
+      }
+    },
+    "f34r": {
+      "section": "herbal_a",
+      "n_words": 149,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "PLANT": 16,
+        "INGR": 78,
+        "UNK": 14,
+        "LOGO": 8,
+        "FUNC": 24,
+        "DOSE": 7
+      },
+      "pcts": {
+        "VERB": 1,
+        "PLANT": 10,
+        "INGR": 52,
+        "UNK": 9,
+        "LOGO": 5,
+        "FUNC": 16,
+        "DOSE": 4
+      }
+    },
+    "f34v": {
+      "section": "herbal_a",
+      "n_words": 117,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 53,
+        "FUNC": 24,
+        "DOSE": 16,
+        "UNK": 8,
+        "PLANT": 10,
+        "LOGO": 4
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 45,
+        "FUNC": 20,
+        "DOSE": 13,
+        "UNK": 6,
+        "PLANT": 8,
+        "LOGO": 3
+      }
+    },
+    "f35r": {
+      "section": "herbal_a",
+      "n_words": 94,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 36,
+        "LOGO": 6,
+        "PLANT": 11,
+        "DOSE": 30,
+        "FUNC": 6,
+        "UNK": 5
+      },
+      "pcts": {
+        "INGR": 38,
+        "LOGO": 6,
+        "PLANT": 11,
+        "DOSE": 31,
+        "FUNC": 6,
+        "UNK": 5
+      }
+    },
+    "f35v": {
+      "section": "herbal_a",
+      "n_words": 91,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "PLANT": 11,
+        "DOSE": 17,
+        "FUNC": 7,
+        "LOGO": 8,
+        "INGR": 41,
+        "UNK": 6
+      },
+      "pcts": {
+        "VERB": 1,
+        "PLANT": 12,
+        "DOSE": 18,
+        "FUNC": 7,
+        "LOGO": 8,
+        "INGR": 45,
+        "UNK": 6
+      }
+    },
+    "f36r": {
+      "section": "herbal_a",
+      "n_words": 63,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "DOSE": 12,
+        "INGR": 28,
+        "UNK": 7,
+        "PLANT": 4,
+        "FUNC": 5,
+        "LOGO": 5
+      },
+      "pcts": {
+        "VERB": 3,
+        "DOSE": 19,
+        "INGR": 44,
+        "UNK": 11,
+        "PLANT": 6,
+        "FUNC": 7,
+        "LOGO": 7
+      }
+    },
+    "f36v": {
+      "section": "herbal_a",
+      "n_words": 76,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 42,
+        "DOSE": 14,
+        "FUNC": 5,
+        "UNK": 5,
+        "LOGO": 7,
+        "PLANT": 1
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 55,
+        "DOSE": 18,
+        "FUNC": 6,
+        "UNK": 6,
+        "LOGO": 9,
+        "PLANT": 1
+      }
+    },
+    "f37r": {
+      "section": "herbal_a",
+      "n_words": 78,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 3,
+        "DOSE": 17,
+        "FUNC": 11,
+        "INGR": 37,
+        "PLANT": 4,
+        "UNK": 5,
+        "LOGO": 1
+      },
+      "pcts": {
+        "VERB": 3,
+        "DOSE": 21,
+        "FUNC": 14,
+        "INGR": 47,
+        "PLANT": 5,
+        "UNK": 6,
+        "LOGO": 1
+      }
+    },
+    "f37v": {
+      "section": "herbal_a",
+      "n_words": 89,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 1,
+        "INGR": 47,
+        "DOSE": 25,
+        "UNK": 4,
+        "FUNC": 7,
+        "PLANT": 2,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 52,
+        "DOSE": 28,
+        "UNK": 4,
+        "FUNC": 7,
+        "PLANT": 2,
+        "LOGO": 3
+      }
+    },
+    "f38r": {
+      "section": "herbal_a",
+      "n_words": 44,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 23,
+        "FUNC": 4,
+        "DOSE": 9,
+        "PLANT": 3,
+        "LOGO": 3,
+        "UNK": 1
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 52,
+        "FUNC": 9,
+        "DOSE": 20,
+        "PLANT": 6,
+        "LOGO": 6,
+        "UNK": 2
+      }
+    },
+    "f38v": {
+      "section": "herbal_a",
+      "n_words": 67,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 19,
+        "FUNC": 8,
+        "LOGO": 9,
+        "PLANT": 8,
+        "UNK": 9,
+        "DOSE": 14
+      },
+      "pcts": {
+        "INGR": 28,
+        "FUNC": 11,
+        "LOGO": 13,
+        "PLANT": 11,
+        "UNK": 13,
+        "DOSE": 20
+      }
+    },
+    "f39r": {
+      "section": "herbal_a",
+      "n_words": 157,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 2,
+        "INGR": 76,
+        "DOSE": 22,
+        "FUNC": 22,
+        "PLANT": 19,
+        "UNK": 12,
+        "LOGO": 4
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 48,
+        "DOSE": 14,
+        "FUNC": 14,
+        "PLANT": 12,
+        "UNK": 7,
+        "LOGO": 2
+      }
+    },
+    "f39v": {
+      "section": "herbal_a",
+      "n_words": 146,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 58,
+        "DOSE": 18,
+        "PLANT": 25,
+        "LOGO": 7,
+        "UNK": 14,
+        "FUNC": 22
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 39,
+        "DOSE": 12,
+        "PLANT": 17,
+        "LOGO": 4,
+        "UNK": 9,
+        "FUNC": 15
+      }
+    },
+    "f3r": {
+      "section": "herbal_a",
+      "n_words": 114,
+      "n_blocks": 4,
+      "counts": {
+        "VERB": 4,
+        "INGR": 69,
+        "UNK": 4,
+        "DOSE": 8,
+        "PLANT": 7,
+        "FUNC": 19,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 3,
+        "INGR": 60,
+        "UNK": 3,
+        "DOSE": 7,
+        "PLANT": 6,
+        "FUNC": 16,
+        "LOGO": 2
+      }
+    },
+    "f3v": {
+      "section": "herbal_a",
+      "n_words": 85,
+      "n_blocks": 2,
+      "counts": {
+        "DOSE": 6,
+        "INGR": 56,
+        "LOGO": 6,
+        "FUNC": 9,
+        "UNK": 4,
+        "PLANT": 3,
+        "VERB": 1
+      },
+      "pcts": {
+        "DOSE": 7,
+        "INGR": 65,
+        "LOGO": 7,
+        "FUNC": 10,
+        "UNK": 4,
+        "PLANT": 3,
+        "VERB": 1
+      }
+    },
+    "f40r": {
+      "section": "herbal_a",
+      "n_words": 103,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "LOGO": 3,
+        "INGR": 38,
+        "FUNC": 22,
+        "PLANT": 14,
+        "DOSE": 15,
+        "UNK": 9
+      },
+      "pcts": {
+        "VERB": 1,
+        "LOGO": 2,
+        "INGR": 36,
+        "FUNC": 21,
+        "PLANT": 13,
+        "DOSE": 14,
+        "UNK": 8
+      }
+    },
+    "f40v": {
+      "section": "herbal_a",
+      "n_words": 105,
+      "n_blocks": 2,
+      "counts": {
+        "DOSE": 22,
+        "PLANT": 10,
+        "INGR": 34,
+        "LOGO": 7,
+        "FUNC": 25,
+        "UNK": 6,
+        "VERB": 1
+      },
+      "pcts": {
+        "DOSE": 20,
+        "PLANT": 9,
+        "INGR": 32,
+        "LOGO": 6,
+        "FUNC": 23,
+        "UNK": 5,
+        "VERB": 0
+      }
+    },
+    "f41r": {
+      "section": "herbal_a",
+      "n_words": 97,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "INGR": 66,
+        "UNK": 5,
+        "FUNC": 23,
+        "DOSE": 2
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 68,
+        "UNK": 5,
+        "FUNC": 23,
+        "DOSE": 2
+      }
+    },
+    "f41v": {
+      "section": "herbal_a",
+      "n_words": 66,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 33,
+        "VERB": 1,
+        "FUNC": 18,
+        "UNK": 2,
+        "LOGO": 1,
+        "PLANT": 5,
+        "DOSE": 6
+      },
+      "pcts": {
+        "INGR": 50,
+        "VERB": 1,
+        "FUNC": 27,
+        "UNK": 3,
+        "LOGO": 1,
+        "PLANT": 7,
+        "DOSE": 9
+      }
+    },
+    "f42r": {
+      "section": "herbal_a",
+      "n_words": 141,
+      "n_blocks": 3,
+      "counts": {
+        "PLANT": 10,
+        "DOSE": 28,
+        "INGR": 73,
+        "UNK": 6,
+        "FUNC": 19,
+        "VERB": 1,
+        "LOGO": 4
+      },
+      "pcts": {
+        "PLANT": 7,
+        "DOSE": 19,
+        "INGR": 51,
+        "UNK": 4,
+        "FUNC": 13,
+        "VERB": 0,
+        "LOGO": 2
+      }
+    },
+    "f42v": {
+      "section": "herbal_a",
+      "n_words": 117,
+      "n_blocks": 2,
+      "counts": {
+        "PLANT": 12,
+        "INGR": 60,
+        "FUNC": 15,
+        "DOSE": 14,
+        "LOGO": 10,
+        "UNK": 5,
+        "VERB": 1
+      },
+      "pcts": {
+        "PLANT": 10,
+        "INGR": 51,
+        "FUNC": 12,
+        "DOSE": 11,
+        "LOGO": 8,
+        "UNK": 4,
+        "VERB": 0
+      }
+    },
+    "f43r": {
+      "section": "herbal_a",
+      "n_words": 153,
+      "n_blocks": 3,
+      "counts": {
+        "DOSE": 12,
+        "INGR": 89,
+        "FUNC": 27,
+        "PLANT": 7,
+        "UNK": 14,
+        "LOGO": 2,
+        "VERB": 2
+      },
+      "pcts": {
+        "DOSE": 7,
+        "INGR": 58,
+        "FUNC": 17,
+        "PLANT": 4,
+        "UNK": 9,
+        "LOGO": 1,
+        "VERB": 1
+      }
+    },
+    "f43v": {
+      "section": "herbal_a",
+      "n_words": 151,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 3,
+        "INGR": 87,
+        "PLANT": 13,
+        "LOGO": 3,
+        "DOSE": 9,
+        "FUNC": 28,
+        "UNK": 8
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 57,
+        "PLANT": 8,
+        "LOGO": 1,
+        "DOSE": 5,
+        "FUNC": 18,
+        "UNK": 5
+      }
+    },
+    "f44r": {
+      "section": "herbal_a",
+      "n_words": 74,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 3,
+        "INGR": 46,
+        "DOSE": 3,
+        "LOGO": 3,
+        "UNK": 5,
+        "FUNC": 12,
+        "PLANT": 2
+      },
+      "pcts": {
+        "VERB": 4,
+        "INGR": 62,
+        "DOSE": 4,
+        "LOGO": 4,
+        "UNK": 6,
+        "FUNC": 16,
+        "PLANT": 2
+      }
+    },
+    "f44v": {
+      "section": "herbal_a",
+      "n_words": 100,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 2,
+        "FUNC": 19,
+        "INGR": 45,
+        "LOGO": 5,
+        "UNK": 10,
+        "DOSE": 16,
+        "PLANT": 3
+      },
+      "pcts": {
+        "VERB": 2,
+        "FUNC": 19,
+        "INGR": 45,
+        "LOGO": 5,
+        "UNK": 10,
+        "DOSE": 16,
+        "PLANT": 3
+      }
+    },
+    "f45r": {
+      "section": "herbal_a",
+      "n_words": 89,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 3,
+        "INGR": 39,
+        "FUNC": 13,
+        "DOSE": 17,
+        "UNK": 11,
+        "LOGO": 3,
+        "PLANT": 3
+      },
+      "pcts": {
+        "VERB": 3,
+        "INGR": 43,
+        "FUNC": 14,
+        "DOSE": 19,
+        "UNK": 12,
+        "LOGO": 3,
+        "PLANT": 3
+      }
+    },
+    "f45v": {
+      "section": "herbal_a",
+      "n_words": 85,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "INGR": 55,
+        "UNK": 5,
+        "FUNC": 12,
+        "DOSE": 3,
+        "LOGO": 4,
+        "PLANT": 5
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 64,
+        "UNK": 5,
+        "FUNC": 14,
+        "DOSE": 3,
+        "LOGO": 4,
+        "PLANT": 5
+      }
+    },
+    "f46r": {
+      "section": "herbal_a",
+      "n_words": 163,
+      "n_blocks": 5,
+      "counts": {
+        "VERB": 4,
+        "FUNC": 34,
+        "INGR": 90,
+        "DOSE": 12,
+        "UNK": 8,
+        "PLANT": 8,
+        "LOGO": 7
+      },
+      "pcts": {
+        "VERB": 2,
+        "FUNC": 20,
+        "INGR": 55,
+        "DOSE": 7,
+        "UNK": 4,
+        "PLANT": 4,
+        "LOGO": 4
+      }
+    },
+    "f46v": {
+      "section": "herbal_a",
+      "n_words": 111,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 59,
+        "FUNC": 23,
+        "DOSE": 9,
+        "PLANT": 8,
+        "UNK": 7,
+        "LOGO": 4
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 53,
+        "FUNC": 20,
+        "DOSE": 8,
+        "PLANT": 7,
+        "UNK": 6,
+        "LOGO": 3
+      }
+    },
+    "f47r": {
+      "section": "herbal_a",
+      "n_words": 76,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 43,
+        "FUNC": 8,
+        "DOSE": 13,
+        "UNK": 6,
+        "PLANT": 5,
+        "VERB": 1
+      },
+      "pcts": {
+        "INGR": 56,
+        "FUNC": 10,
+        "DOSE": 17,
+        "UNK": 7,
+        "PLANT": 6,
+        "VERB": 1
+      }
+    },
+    "f47v": {
+      "section": "herbal_a",
+      "n_words": 85,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "INGR": 45,
+        "UNK": 11,
+        "FUNC": 7,
+        "DOSE": 9,
+        "PLANT": 11,
+        "LOGO": 1
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 52,
+        "UNK": 12,
+        "FUNC": 8,
+        "DOSE": 10,
+        "PLANT": 12,
+        "LOGO": 1
+      }
+    },
+    "f48r": {
+      "section": "herbal_a",
+      "n_words": 89,
+      "n_blocks": 1,
+      "counts": {
+        "DOSE": 12,
+        "INGR": 47,
+        "PLANT": 4,
+        "UNK": 9,
+        "FUNC": 14,
+        "LOGO": 3
+      },
+      "pcts": {
+        "DOSE": 13,
+        "INGR": 52,
+        "PLANT": 4,
+        "UNK": 10,
+        "FUNC": 15,
+        "LOGO": 3
+      }
+    },
+    "f48v": {
+      "section": "herbal_a",
+      "n_words": 128,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "FUNC": 29,
+        "INGR": 65,
+        "PLANT": 10,
+        "UNK": 10,
+        "LOGO": 7,
+        "DOSE": 5
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 22,
+        "INGR": 50,
+        "PLANT": 7,
+        "UNK": 7,
+        "LOGO": 5,
+        "DOSE": 3
+      }
+    },
+    "f49r": {
+      "section": "herbal_a",
+      "n_words": 114,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 2,
+        "INGR": 67,
+        "FUNC": 14,
+        "UNK": 5,
+        "PLANT": 12,
+        "DOSE": 11,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 58,
+        "FUNC": 12,
+        "UNK": 4,
+        "PLANT": 10,
+        "DOSE": 9,
+        "LOGO": 2
+      }
+    },
+    "f49v": {
+      "section": "herbal_a",
+      "n_words": 162,
+      "n_blocks": 4,
+      "counts": {
+        "LOGO": 22,
+        "VERB": 2,
+        "FUNC": 9,
+        "INGR": 90,
+        "PLANT": 7,
+        "UNK": 9,
+        "DOSE": 23
+      },
+      "pcts": {
+        "LOGO": 13,
+        "VERB": 1,
+        "FUNC": 5,
+        "INGR": 55,
+        "PLANT": 4,
+        "UNK": 5,
+        "DOSE": 14
+      }
+    },
+    "f4r": {
+      "section": "herbal_a",
+      "n_words": 64,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "INGR": 29,
+        "FUNC": 11,
+        "PLANT": 4,
+        "DOSE": 16,
+        "LOGO": 1,
+        "UNK": 2
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 45,
+        "FUNC": 17,
+        "PLANT": 6,
+        "DOSE": 25,
+        "LOGO": 1,
+        "UNK": 3
+      }
+    },
+    "f4v": {
+      "section": "herbal_a",
+      "n_words": 84,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 42,
+        "PLANT": 11,
+        "DOSE": 12,
+        "LOGO": 3,
+        "FUNC": 11,
+        "UNK": 3
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 50,
+        "PLANT": 13,
+        "DOSE": 14,
+        "LOGO": 3,
+        "FUNC": 13,
+        "UNK": 3
+      }
+    },
+    "f50r": {
+      "section": "herbal_a",
+      "n_words": 93,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "FUNC": 15,
+        "INGR": 43,
+        "UNK": 8,
+        "LOGO": 2,
+        "DOSE": 17,
+        "PLANT": 7
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 16,
+        "INGR": 46,
+        "UNK": 8,
+        "LOGO": 2,
+        "DOSE": 18,
+        "PLANT": 7
+      }
+    },
+    "f50v": {
+      "section": "herbal_a",
+      "n_words": 100,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 45,
+        "FUNC": 21,
+        "DOSE": 18,
+        "UNK": 5,
+        "PLANT": 7,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 45,
+        "FUNC": 21,
+        "DOSE": 18,
+        "UNK": 5,
+        "PLANT": 7,
+        "LOGO": 3
+      }
+    },
+    "f51r": {
+      "section": "herbal_a",
+      "n_words": 89,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "FUNC": 16,
+        "INGR": 47,
+        "DOSE": 14,
+        "PLANT": 3,
+        "UNK": 6,
+        "LOGO": 2
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 17,
+        "INGR": 52,
+        "DOSE": 15,
+        "PLANT": 3,
+        "UNK": 6,
+        "LOGO": 2
+      }
+    },
+    "f51v": {
+      "section": "herbal_a",
+      "n_words": 82,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 43,
+        "DOSE": 18,
+        "FUNC": 11,
+        "PLANT": 3,
+        "LOGO": 4,
+        "UNK": 2
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 52,
+        "DOSE": 21,
+        "FUNC": 13,
+        "PLANT": 3,
+        "LOGO": 4,
+        "UNK": 2
+      }
+    },
+    "f52r": {
+      "section": "herbal_a",
+      "n_words": 69,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 43,
+        "FUNC": 12,
+        "DOSE": 4,
+        "UNK": 6,
+        "LOGO": 2,
+        "PLANT": 1
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 62,
+        "FUNC": 17,
+        "DOSE": 5,
+        "UNK": 8,
+        "LOGO": 2,
+        "PLANT": 1
+      }
+    },
+    "f52v": {
+      "section": "herbal_a",
+      "n_words": 78,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 51,
+        "DOSE": 8,
+        "UNK": 6,
+        "PLANT": 4,
+        "FUNC": 5,
+        "LOGO": 2
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 65,
+        "DOSE": 10,
+        "UNK": 7,
+        "PLANT": 5,
+        "FUNC": 6,
+        "LOGO": 2
+      }
+    },
+    "f53r": {
+      "section": "herbal_a",
+      "n_words": 61,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 39,
+        "UNK": 5,
+        "DOSE": 3,
+        "LOGO": 3,
+        "PLANT": 3,
+        "FUNC": 7
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 63,
+        "UNK": 8,
+        "DOSE": 4,
+        "LOGO": 4,
+        "PLANT": 4,
+        "FUNC": 11
+      }
+    },
+    "f53v": {
+      "section": "herbal_a",
+      "n_words": 73,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "FUNC": 8,
+        "INGR": 44,
+        "DOSE": 12,
+        "UNK": 4,
+        "LOGO": 1,
+        "PLANT": 3
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 10,
+        "INGR": 60,
+        "DOSE": 16,
+        "UNK": 5,
+        "LOGO": 1,
+        "PLANT": 4
+      }
+    },
+    "f54r": {
+      "section": "herbal_a",
+      "n_words": 110,
+      "n_blocks": 2,
+      "counts": {
+        "DOSE": 6,
+        "INGR": 51,
+        "UNK": 18,
+        "FUNC": 6,
+        "PLANT": 17,
+        "LOGO": 11,
+        "VERB": 1
+      },
+      "pcts": {
+        "DOSE": 5,
+        "INGR": 46,
+        "UNK": 16,
+        "FUNC": 5,
+        "PLANT": 15,
+        "LOGO": 10,
+        "VERB": 0
+      }
+    },
+    "f54v": {
+      "section": "herbal_a",
+      "n_words": 93,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 43,
+        "UNK": 10,
+        "FUNC": 11,
+        "DOSE": 15,
+        "LOGO": 7,
+        "PLANT": 6
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 46,
+        "UNK": 10,
+        "FUNC": 11,
+        "DOSE": 16,
+        "LOGO": 7,
+        "PLANT": 6
+      }
+    },
+    "f55r": {
+      "section": "herbal_a",
+      "n_words": 124,
+      "n_blocks": 2,
+      "counts": {
+        "DOSE": 18,
+        "INGR": 52,
+        "FUNC": 21,
+        "PLANT": 17,
+        "LOGO": 5,
+        "UNK": 10,
+        "VERB": 1
+      },
+      "pcts": {
+        "DOSE": 14,
+        "INGR": 41,
+        "FUNC": 16,
+        "PLANT": 13,
+        "LOGO": 4,
+        "UNK": 8,
+        "VERB": 0
+      }
+    },
+    "f55v": {
+      "section": "herbal_a",
+      "n_words": 105,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "DOSE": 21,
+        "FUNC": 16,
+        "INGR": 38,
+        "UNK": 7,
+        "PLANT": 17,
+        "LOGO": 5
+      },
+      "pcts": {
+        "VERB": 0,
+        "DOSE": 20,
+        "FUNC": 15,
+        "INGR": 36,
+        "UNK": 6,
+        "PLANT": 16,
+        "LOGO": 4
+      }
+    },
+    "f56r": {
+      "section": "herbal_a",
+      "n_words": 103,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 65,
+        "PLANT": 10,
+        "DOSE": 6,
+        "FUNC": 9,
+        "UNK": 4,
+        "LOGO": 8,
+        "VERB": 1
+      },
+      "pcts": {
+        "INGR": 63,
+        "PLANT": 9,
+        "DOSE": 5,
+        "FUNC": 8,
+        "UNK": 3,
+        "LOGO": 7,
+        "VERB": 0
+      }
+    },
+    "f56v": {
+      "section": "herbal_a",
+      "n_words": 91,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "FUNC": 7,
+        "INGR": 53,
+        "PLANT": 7,
+        "DOSE": 11,
+        "UNK": 5,
+        "LOGO": 6
+      },
+      "pcts": {
+        "VERB": 2,
+        "FUNC": 7,
+        "INGR": 58,
+        "PLANT": 7,
+        "DOSE": 12,
+        "UNK": 5,
+        "LOGO": 6
+      }
+    },
+    "f57r": {
+      "section": "herbal_a",
+      "n_words": 87,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "DOSE": 6,
+        "INGR": 60,
+        "LOGO": 5,
+        "FUNC": 9,
+        "UNK": 5
+      },
+      "pcts": {
+        "VERB": 2,
+        "DOSE": 6,
+        "INGR": 68,
+        "LOGO": 5,
+        "FUNC": 10,
+        "UNK": 5
+      }
+    },
+    "f57v": {
+      "section": "volvelle",
+      "n_words": 179,
+      "n_blocks": 1,
+      "counts": {
+        "PLANT": 6,
+        "LOGO": 105,
+        "UNK": 9,
+        "INGR": 44,
+        "FUNC": 11,
+        "DOSE": 4
+      },
+      "pcts": {
+        "PLANT": 3,
+        "LOGO": 58,
+        "UNK": 5,
+        "INGR": 24,
+        "FUNC": 6,
+        "DOSE": 2
+      }
+    },
+    "f58r": {
+      "section": "astro",
+      "n_words": 378,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 3,
+        "INGR": 226,
+        "UNK": 22,
+        "LOGO": 11,
+        "PLANT": 34,
+        "FUNC": 57,
+        "DOSE": 25
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 59,
+        "UNK": 5,
+        "LOGO": 2,
+        "PLANT": 8,
+        "FUNC": 15,
+        "DOSE": 6
+      }
+    },
+    "f58v": {
+      "section": "astro",
+      "n_words": 375,
+      "n_blocks": 4,
+      "counts": {
+        "VERB": 4,
+        "INGR": 174,
+        "DOSE": 39,
+        "FUNC": 92,
+        "UNK": 22,
+        "PLANT": 32,
+        "LOGO": 12
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 46,
+        "DOSE": 10,
+        "FUNC": 24,
+        "UNK": 5,
+        "PLANT": 8,
+        "LOGO": 3
+      }
+    },
+    "f5r": {
+      "section": "herbal_a",
+      "n_words": 54,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 27,
+        "DOSE": 8,
+        "UNK": 3,
+        "PLANT": 9,
+        "FUNC": 4,
+        "LOGO": 1
+      },
+      "pcts": {
+        "VERB": 3,
+        "INGR": 50,
+        "DOSE": 14,
+        "UNK": 5,
+        "PLANT": 16,
+        "FUNC": 7,
+        "LOGO": 1
+      }
+    },
+    "f5v": {
+      "section": "herbal_a",
+      "n_words": 48,
+      "n_blocks": 1,
+      "counts": {
+        "LOGO": 3,
+        "INGR": 28,
+        "DOSE": 11,
+        "FUNC": 5,
+        "UNK": 1
+      },
+      "pcts": {
+        "LOGO": 6,
+        "INGR": 58,
+        "DOSE": 22,
+        "FUNC": 10,
+        "UNK": 2
+      }
+    },
+    "f65r": {
+      "section": "astro",
+      "n_words": 3,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 2,
+        "UNK": 1
+      },
+      "pcts": {
+        "INGR": 66,
+        "UNK": 33
+      }
+    },
+    "f65v": {
+      "section": "astro",
+      "n_words": 45,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 29,
+        "DOSE": 2,
+        "PLANT": 1,
+        "LOGO": 4,
+        "UNK": 1,
+        "FUNC": 7,
+        "VERB": 1
+      },
+      "pcts": {
+        "INGR": 64,
+        "DOSE": 4,
+        "PLANT": 2,
+        "LOGO": 8,
+        "UNK": 2,
+        "FUNC": 15,
+        "VERB": 2
+      }
+    },
+    "f66r": {
+      "section": "astro",
+      "n_words": 345,
+      "n_blocks": 6,
+      "counts": {
+        "INGR": 183,
+        "UNK": 23,
+        "DOSE": 19,
+        "FUNC": 66,
+        "LOGO": 35,
+        "PLANT": 15,
+        "VERB": 4
+      },
+      "pcts": {
+        "INGR": 53,
+        "UNK": 6,
+        "DOSE": 5,
+        "FUNC": 19,
+        "LOGO": 10,
+        "PLANT": 4,
+        "VERB": 1
+      }
+    },
+    "f66v": {
+      "section": "astro",
+      "n_words": 114,
+      "n_blocks": 3,
+      "counts": {
+        "INGR": 66,
+        "UNK": 16,
+        "FUNC": 17,
+        "LOGO": 1,
+        "PLANT": 5,
+        "DOSE": 7,
+        "VERB": 2
+      },
+      "pcts": {
+        "INGR": 57,
+        "UNK": 14,
+        "FUNC": 14,
+        "LOGO": 0,
+        "PLANT": 4,
+        "DOSE": 6,
+        "VERB": 1
+      }
+    },
+    "f67r1": {
+      "section": "astro",
+      "n_words": 167,
+      "n_blocks": 1,
+      "counts": {
+        "DOSE": 14,
+        "FUNC": 16,
+        "INGR": 87,
+        "LOGO": 15,
+        "PLANT": 13,
+        "UNK": 22
+      },
+      "pcts": {
+        "DOSE": 8,
+        "FUNC": 9,
+        "INGR": 52,
+        "LOGO": 8,
+        "PLANT": 7,
+        "UNK": 13
+      }
+    },
+    "f67r2": {
+      "section": "astro",
+      "n_words": 190,
+      "n_blocks": 14,
+      "counts": {
+        "INGR": 118,
+        "LOGO": 10,
+        "PLANT": 17,
+        "UNK": 9,
+        "FUNC": 12,
+        "DOSE": 24
+      },
+      "pcts": {
+        "INGR": 62,
+        "LOGO": 5,
+        "PLANT": 8,
+        "UNK": 4,
+        "FUNC": 6,
+        "DOSE": 12
+      }
+    },
+    "f67v1": {
+      "section": "astro",
+      "n_words": 73,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 54,
+        "FUNC": 5,
+        "UNK": 3,
+        "PLANT": 5,
+        "DOSE": 4,
+        "LOGO": 2
+      },
+      "pcts": {
+        "INGR": 73,
+        "FUNC": 6,
+        "UNK": 4,
+        "PLANT": 6,
+        "DOSE": 5,
+        "LOGO": 2
+      }
+    },
+    "f67v2": {
+      "section": "astro",
+      "n_words": 62,
+      "n_blocks": 5,
+      "counts": {
+        "INGR": 33,
+        "DOSE": 8,
+        "VERB": 2,
+        "PLANT": 5,
+        "FUNC": 8,
+        "UNK": 5,
+        "LOGO": 1
+      },
+      "pcts": {
+        "INGR": 53,
+        "DOSE": 12,
+        "VERB": 3,
+        "PLANT": 8,
+        "FUNC": 12,
+        "UNK": 8,
+        "LOGO": 1
+      }
+    },
+    "f68r1": {
+      "section": "cosmo",
+      "n_words": 65,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 55,
+        "FUNC": 6,
+        "UNK": 1,
+        "DOSE": 2,
+        "PLANT": 1
+      },
+      "pcts": {
+        "INGR": 84,
+        "FUNC": 9,
+        "UNK": 1,
+        "DOSE": 3,
+        "PLANT": 1
+      }
+    },
+    "f68r2": {
+      "section": "cosmo",
+      "n_words": 80,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 61,
+        "UNK": 2,
+        "FUNC": 10,
+        "PLANT": 2,
+        "DOSE": 3,
+        "LOGO": 1
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 76,
+        "UNK": 2,
+        "FUNC": 12,
+        "PLANT": 2,
+        "DOSE": 3,
+        "LOGO": 1
+      }
+    },
+    "f68r3": {
+      "section": "cosmo",
+      "n_words": 106,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 74,
+        "FUNC": 16,
+        "DOSE": 6,
+        "UNK": 7,
+        "LOGO": 2,
+        "PLANT": 1
+      },
+      "pcts": {
+        "INGR": 69,
+        "FUNC": 15,
+        "DOSE": 5,
+        "UNK": 6,
+        "LOGO": 1,
+        "PLANT": 0
+      }
+    },
+    "f68v1": {
+      "section": "cosmo",
+      "n_words": 97,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 62,
+        "PLANT": 9,
+        "UNK": 8,
+        "LOGO": 5,
+        "FUNC": 9,
+        "DOSE": 4
+      },
+      "pcts": {
+        "INGR": 63,
+        "PLANT": 9,
+        "UNK": 8,
+        "LOGO": 5,
+        "FUNC": 9,
+        "DOSE": 4
+      }
+    },
+    "f68v2": {
+      "section": "cosmo",
+      "n_words": 103,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 70,
+        "FUNC": 14,
+        "DOSE": 4,
+        "UNK": 7,
+        "LOGO": 1,
+        "PLANT": 6
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 67,
+        "FUNC": 13,
+        "DOSE": 3,
+        "UNK": 6,
+        "LOGO": 0,
+        "PLANT": 5
+      }
+    },
+    "f68v3": {
+      "section": "cosmo",
+      "n_words": 169,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "INGR": 112,
+        "FUNC": 21,
+        "LOGO": 4,
+        "DOSE": 7,
+        "UNK": 13,
+        "PLANT": 11
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 66,
+        "FUNC": 12,
+        "LOGO": 2,
+        "DOSE": 4,
+        "UNK": 7,
+        "PLANT": 6
+      }
+    },
+    "f69r": {
+      "section": "cosmo",
+      "n_words": 158,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "FUNC": 20,
+        "DOSE": 7,
+        "INGR": 89,
+        "PLANT": 14,
+        "UNK": 20,
+        "LOGO": 7
+      },
+      "pcts": {
+        "VERB": 0,
+        "FUNC": 12,
+        "DOSE": 4,
+        "INGR": 56,
+        "PLANT": 8,
+        "UNK": 12,
+        "LOGO": 4
+      }
+    },
+    "f69v": {
+      "section": "cosmo",
+      "n_words": 140,
+      "n_blocks": 1,
+      "counts": {
+        "UNK": 14,
+        "INGR": 88,
+        "PLANT": 9,
+        "LOGO": 12,
+        "FUNC": 16,
+        "DOSE": 1
+      },
+      "pcts": {
+        "UNK": 10,
+        "INGR": 62,
+        "PLANT": 6,
+        "LOGO": 8,
+        "FUNC": 11,
+        "DOSE": 0
+      }
+    },
+    "f6r": {
+      "section": "herbal_a",
+      "n_words": 86,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "LOGO": 5,
+        "FUNC": 7,
+        "INGR": 47,
+        "DOSE": 14,
+        "UNK": 5,
+        "PLANT": 7
+      },
+      "pcts": {
+        "VERB": 1,
+        "LOGO": 5,
+        "FUNC": 8,
+        "INGR": 54,
+        "DOSE": 16,
+        "UNK": 5,
+        "PLANT": 8
+      }
+    },
+    "f6v": {
+      "section": "herbal_a",
+      "n_words": 116,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "UNK": 10,
+        "INGR": 70,
+        "FUNC": 13,
+        "LOGO": 11,
+        "DOSE": 5,
+        "PLANT": 5
+      },
+      "pcts": {
+        "VERB": 1,
+        "UNK": 8,
+        "INGR": 60,
+        "FUNC": 11,
+        "LOGO": 9,
+        "DOSE": 4,
+        "PLANT": 4
+      }
+    },
+    "f70r1": {
+      "section": "cosmo",
+      "n_words": 112,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 77,
+        "FUNC": 16,
+        "LOGO": 5,
+        "PLANT": 7,
+        "DOSE": 2,
+        "UNK": 5
+      },
+      "pcts": {
+        "INGR": 68,
+        "FUNC": 14,
+        "LOGO": 4,
+        "PLANT": 6,
+        "DOSE": 1,
+        "UNK": 4
+      }
+    },
+    "f70r2": {
+      "section": "cosmo",
+      "n_words": 246,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 136,
+        "FUNC": 36,
+        "LOGO": 15,
+        "PLANT": 21,
+        "UNK": 29,
+        "DOSE": 9
+      },
+      "pcts": {
+        "INGR": 55,
+        "FUNC": 14,
+        "LOGO": 6,
+        "PLANT": 8,
+        "UNK": 11,
+        "DOSE": 3
+      }
+    },
+    "f70v1": {
+      "section": "cosmo",
+      "n_words": 86,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 51,
+        "FUNC": 14,
+        "DOSE": 9,
+        "UNK": 8,
+        "LOGO": 3,
+        "PLANT": 1
+      },
+      "pcts": {
+        "INGR": 59,
+        "FUNC": 16,
+        "DOSE": 10,
+        "UNK": 9,
+        "LOGO": 3,
+        "PLANT": 1
+      }
+    },
+    "f70v2": {
+      "section": "cosmo",
+      "n_words": 131,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 75,
+        "UNK": 8,
+        "FUNC": 23,
+        "DOSE": 11,
+        "PLANT": 12,
+        "LOGO": 2
+      },
+      "pcts": {
+        "INGR": 57,
+        "UNK": 6,
+        "FUNC": 17,
+        "DOSE": 8,
+        "PLANT": 9,
+        "LOGO": 1
+      }
+    },
+    "f71r": {
+      "section": "cosmo",
+      "n_words": 90,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 61,
+        "FUNC": 16,
+        "PLANT": 8,
+        "UNK": 2,
+        "LOGO": 2,
+        "DOSE": 1
+      },
+      "pcts": {
+        "INGR": 67,
+        "FUNC": 17,
+        "PLANT": 8,
+        "UNK": 2,
+        "LOGO": 2,
+        "DOSE": 1
+      }
+    },
+    "f71v": {
+      "section": "cosmo",
+      "n_words": 100,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 58,
+        "DOSE": 9,
+        "UNK": 8,
+        "FUNC": 16,
+        "LOGO": 1,
+        "PLANT": 8
+      },
+      "pcts": {
+        "INGR": 58,
+        "DOSE": 9,
+        "UNK": 8,
+        "FUNC": 16,
+        "LOGO": 1,
+        "PLANT": 8
+      }
+    },
+    "f72r1": {
+      "section": "cosmo",
+      "n_words": 105,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 62,
+        "FUNC": 15,
+        "PLANT": 10,
+        "DOSE": 12,
+        "UNK": 4,
+        "LOGO": 2
+      },
+      "pcts": {
+        "INGR": 59,
+        "FUNC": 14,
+        "PLANT": 9,
+        "DOSE": 11,
+        "UNK": 3,
+        "LOGO": 1
+      }
+    },
+    "f72r2": {
+      "section": "cosmo",
+      "n_words": 113,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 64,
+        "PLANT": 8,
+        "DOSE": 13,
+        "FUNC": 16,
+        "UNK": 5,
+        "LOGO": 7
+      },
+      "pcts": {
+        "INGR": 56,
+        "PLANT": 7,
+        "DOSE": 11,
+        "FUNC": 14,
+        "UNK": 4,
+        "LOGO": 6
+      }
+    },
+    "f72r3": {
+      "section": "cosmo",
+      "n_words": 163,
+      "n_blocks": 1,
+      "counts": {
+        "FUNC": 26,
+        "INGR": 100,
+        "DOSE": 19,
+        "PLANT": 10,
+        "UNK": 2,
+        "LOGO": 6
+      },
+      "pcts": {
+        "FUNC": 15,
+        "INGR": 61,
+        "DOSE": 11,
+        "PLANT": 6,
+        "UNK": 1,
+        "LOGO": 3
+      }
+    },
+    "f72v1": {
+      "section": "cosmo",
+      "n_words": 103,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 70,
+        "FUNC": 18,
+        "LOGO": 3,
+        "DOSE": 6,
+        "UNK": 3,
+        "PLANT": 3
+      },
+      "pcts": {
+        "INGR": 67,
+        "FUNC": 17,
+        "LOGO": 2,
+        "DOSE": 5,
+        "UNK": 2,
+        "PLANT": 2
+      }
+    },
+    "f72v2": {
+      "section": "cosmo",
+      "n_words": 107,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 71,
+        "UNK": 4,
+        "LOGO": 5,
+        "FUNC": 11,
+        "DOSE": 9,
+        "PLANT": 7
+      },
+      "pcts": {
+        "INGR": 66,
+        "UNK": 3,
+        "LOGO": 4,
+        "FUNC": 10,
+        "DOSE": 8,
+        "PLANT": 6
+      }
+    },
+    "f72v3": {
+      "section": "cosmo",
+      "n_words": 118,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 81,
+        "FUNC": 18,
+        "PLANT": 6,
+        "LOGO": 3,
+        "DOSE": 6,
+        "UNK": 4
+      },
+      "pcts": {
+        "INGR": 68,
+        "FUNC": 15,
+        "PLANT": 5,
+        "LOGO": 2,
+        "DOSE": 5,
+        "UNK": 3
+      }
+    },
+    "f73r": {
+      "section": "cosmo",
+      "n_words": 96,
+      "n_blocks": 1,
+      "counts": {
+        "INGR": 68,
+        "FUNC": 9,
+        "LOGO": 4,
+        "PLANT": 6,
+        "DOSE": 6,
+        "UNK": 3
+      },
+      "pcts": {
+        "INGR": 70,
+        "FUNC": 9,
+        "LOGO": 4,
+        "PLANT": 6,
+        "DOSE": 6,
+        "UNK": 3
+      }
+    },
+    "f73v": {
+      "section": "cosmo",
+      "n_words": 99,
+      "n_blocks": 1,
+      "counts": {
+        "FUNC": 20,
+        "INGR": 65,
+        "DOSE": 6,
+        "LOGO": 5,
+        "PLANT": 2,
+        "UNK": 1
+      },
+      "pcts": {
+        "FUNC": 20,
+        "INGR": 65,
+        "DOSE": 6,
+        "LOGO": 5,
+        "PLANT": 2,
+        "UNK": 1
+      }
+    },
+    "f75r": {
+      "section": "balnea",
+      "n_words": 417,
+      "n_blocks": 4,
+      "counts": {
+        "VERB": 3,
+        "FUNC": 161,
+        "INGR": 132,
+        "DOSE": 47,
+        "UNK": 47,
+        "PLANT": 20,
+        "LOGO": 7
+      },
+      "pcts": {
+        "VERB": 0,
+        "FUNC": 38,
+        "INGR": 31,
+        "DOSE": 11,
+        "UNK": 11,
+        "PLANT": 4,
+        "LOGO": 1
+      }
+    },
+    "f75v": {
+      "section": "balnea",
+      "n_words": 359,
+      "n_blocks": 5,
+      "counts": {
+        "VERB": 3,
+        "INGR": 120,
+        "FUNC": 113,
+        "DOSE": 34,
+        "LOGO": 12,
+        "UNK": 51,
+        "PLANT": 26
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 33,
+        "FUNC": 31,
+        "DOSE": 9,
+        "LOGO": 3,
+        "UNK": 14,
+        "PLANT": 7
+      }
+    },
+    "f76r": {
+      "section": "balnea",
+      "n_words": 569,
+      "n_blocks": 4,
+      "counts": {
+        "VERB": 3,
+        "INGR": 225,
+        "DOSE": 70,
+        "LOGO": 24,
+        "FUNC": 182,
+        "UNK": 34,
+        "PLANT": 31
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 39,
+        "DOSE": 12,
+        "LOGO": 4,
+        "FUNC": 31,
+        "UNK": 5,
+        "PLANT": 5
+      }
+    },
+    "f76v": {
+      "section": "balnea",
+      "n_words": 400,
+      "n_blocks": 6,
+      "counts": {
+        "VERB": 3,
+        "FUNC": 121,
+        "INGR": 181,
+        "UNK": 32,
+        "DOSE": 39,
+        "PLANT": 13,
+        "LOGO": 11
+      },
+      "pcts": {
+        "VERB": 0,
+        "FUNC": 30,
+        "INGR": 45,
+        "UNK": 8,
+        "DOSE": 9,
+        "PLANT": 3,
+        "LOGO": 2
+      }
+    },
+    "f77r": {
+      "section": "balnea",
+      "n_words": 332,
+      "n_blocks": 4,
+      "counts": {
+        "INGR": 124,
+        "FUNC": 101,
+        "PLANT": 13,
+        "VERB": 2,
+        "DOSE": 57,
+        "UNK": 25,
+        "LOGO": 10
+      },
+      "pcts": {
+        "INGR": 37,
+        "FUNC": 30,
+        "PLANT": 3,
+        "VERB": 0,
+        "DOSE": 17,
+        "UNK": 7,
+        "LOGO": 3
+      }
+    },
+    "f77v": {
+      "section": "balnea",
+      "n_words": 332,
+      "n_blocks": 4,
+      "counts": {
+        "DOSE": 40,
+        "LOGO": 2,
+        "UNK": 40,
+        "FUNC": 109,
+        "INGR": 122,
+        "PLANT": 17,
+        "VERB": 2
+      },
+      "pcts": {
+        "DOSE": 12,
+        "LOGO": 0,
+        "UNK": 12,
+        "FUNC": 32,
+        "INGR": 36,
+        "PLANT": 5,
+        "VERB": 0
+      }
+    },
+    "f78r": {
+      "section": "balnea",
+      "n_words": 298,
+      "n_blocks": 3,
+      "counts": {
+        "INGR": 103,
+        "VERB": 1,
+        "FUNC": 83,
+        "UNK": 35,
+        "DOSE": 38,
+        "PLANT": 26,
+        "LOGO": 12
+      },
+      "pcts": {
+        "INGR": 34,
+        "VERB": 0,
+        "FUNC": 27,
+        "UNK": 11,
+        "DOSE": 12,
+        "PLANT": 8,
+        "LOGO": 4
+      }
+    },
+    "f78v": {
+      "section": "balnea",
+      "n_words": 295,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 93,
+        "FUNC": 98,
+        "UNK": 39,
+        "PLANT": 34,
+        "LOGO": 9,
+        "DOSE": 22
+      },
+      "pcts": {
+        "INGR": 31,
+        "FUNC": 33,
+        "UNK": 13,
+        "PLANT": 11,
+        "LOGO": 3,
+        "DOSE": 7
+      }
+    },
+    "f79r": {
+      "section": "balnea",
+      "n_words": 383,
+      "n_blocks": 8,
+      "counts": {
+        "DOSE": 43,
+        "FUNC": 113,
+        "PLANT": 38,
+        "INGR": 148,
+        "UNK": 22,
+        "LOGO": 13,
+        "VERB": 6
+      },
+      "pcts": {
+        "DOSE": 11,
+        "FUNC": 29,
+        "PLANT": 9,
+        "INGR": 38,
+        "UNK": 5,
+        "LOGO": 3,
+        "VERB": 1
+      }
+    },
+    "f79v": {
+      "section": "balnea",
+      "n_words": 356,
+      "n_blocks": 7,
+      "counts": {
+        "VERB": 7,
+        "INGR": 115,
+        "PLANT": 32,
+        "FUNC": 118,
+        "DOSE": 50,
+        "UNK": 27,
+        "LOGO": 7
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 32,
+        "PLANT": 8,
+        "FUNC": 33,
+        "DOSE": 14,
+        "UNK": 7,
+        "LOGO": 1
+      }
+    },
+    "f7r": {
+      "section": "herbal_a",
+      "n_words": 66,
+      "n_blocks": 2,
+      "counts": {
+        "DOSE": 10,
+        "INGR": 37,
+        "FUNC": 11,
+        "LOGO": 2,
+        "PLANT": 4,
+        "VERB": 1,
+        "UNK": 1
+      },
+      "pcts": {
+        "DOSE": 15,
+        "INGR": 56,
+        "FUNC": 16,
+        "LOGO": 3,
+        "PLANT": 6,
+        "VERB": 1,
+        "UNK": 1
+      }
+    },
+    "f7v": {
+      "section": "herbal_a",
+      "n_words": 78,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "FUNC": 6,
+        "INGR": 37,
+        "DOSE": 10,
+        "PLANT": 6,
+        "UNK": 12,
+        "LOGO": 5
+      },
+      "pcts": {
+        "VERB": 2,
+        "FUNC": 7,
+        "INGR": 47,
+        "DOSE": 12,
+        "PLANT": 7,
+        "UNK": 15,
+        "LOGO": 6
+      }
+    },
+    "f80r": {
+      "section": "balnea",
+      "n_words": 446,
+      "n_blocks": 6,
+      "counts": {
+        "INGR": 164,
+        "FUNC": 122,
+        "VERB": 4,
+        "DOSE": 78,
+        "LOGO": 13,
+        "PLANT": 27,
+        "UNK": 38
+      },
+      "pcts": {
+        "INGR": 36,
+        "FUNC": 27,
+        "VERB": 0,
+        "DOSE": 17,
+        "LOGO": 2,
+        "PLANT": 6,
+        "UNK": 8
+      }
+    },
+    "f80v": {
+      "section": "balnea",
+      "n_words": 376,
+      "n_blocks": 8,
+      "counts": {
+        "VERB": 8,
+        "INGR": 124,
+        "FUNC": 103,
+        "DOSE": 61,
+        "UNK": 39,
+        "PLANT": 36,
+        "LOGO": 5
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 32,
+        "FUNC": 27,
+        "DOSE": 16,
+        "UNK": 10,
+        "PLANT": 9,
+        "LOGO": 1
+      }
+    },
+    "f81r": {
+      "section": "balnea",
+      "n_words": 210,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "FUNC": 73,
+        "INGR": 73,
+        "LOGO": 5,
+        "PLANT": 25,
+        "DOSE": 16,
+        "UNK": 16
+      },
+      "pcts": {
+        "VERB": 0,
+        "FUNC": 34,
+        "INGR": 34,
+        "LOGO": 2,
+        "PLANT": 11,
+        "DOSE": 7,
+        "UNK": 7
+      }
+    },
+    "f81v": {
+      "section": "balnea",
+      "n_words": 255,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "FUNC": 70,
+        "UNK": 25,
+        "INGR": 98,
+        "PLANT": 25,
+        "DOSE": 31,
+        "LOGO": 4
+      },
+      "pcts": {
+        "VERB": 0,
+        "FUNC": 27,
+        "UNK": 9,
+        "INGR": 38,
+        "PLANT": 9,
+        "DOSE": 12,
+        "LOGO": 1
+      }
+    },
+    "f82r": {
+      "section": "balnea",
+      "n_words": 291,
+      "n_blocks": 3,
+      "counts": {
+        "INGR": 133,
+        "FUNC": 87,
+        "DOSE": 37,
+        "UNK": 18,
+        "LOGO": 7,
+        "VERB": 2,
+        "PLANT": 7
+      },
+      "pcts": {
+        "INGR": 45,
+        "FUNC": 29,
+        "DOSE": 12,
+        "UNK": 6,
+        "LOGO": 2,
+        "VERB": 0,
+        "PLANT": 2
+      }
+    },
+    "f82v": {
+      "section": "balnea",
+      "n_words": 320,
+      "n_blocks": 7,
+      "counts": {
+        "INGR": 128,
+        "FUNC": 109,
+        "VERB": 5,
+        "UNK": 20,
+        "LOGO": 9,
+        "DOSE": 41,
+        "PLANT": 8
+      },
+      "pcts": {
+        "INGR": 40,
+        "FUNC": 34,
+        "VERB": 1,
+        "UNK": 6,
+        "LOGO": 2,
+        "DOSE": 12,
+        "PLANT": 2
+      }
+    },
+    "f83r": {
+      "section": "balnea",
+      "n_words": 345,
+      "n_blocks": 7,
+      "counts": {
+        "VERB": 4,
+        "INGR": 161,
+        "FUNC": 94,
+        "UNK": 29,
+        "DOSE": 37,
+        "PLANT": 13,
+        "LOGO": 7
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 46,
+        "FUNC": 27,
+        "UNK": 8,
+        "DOSE": 10,
+        "PLANT": 3,
+        "LOGO": 2
+      }
+    },
+    "f83v": {
+      "section": "balnea",
+      "n_words": 261,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 2,
+        "FUNC": 87,
+        "INGR": 106,
+        "UNK": 24,
+        "DOSE": 32,
+        "PLANT": 7,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 0,
+        "FUNC": 33,
+        "INGR": 40,
+        "UNK": 9,
+        "DOSE": 12,
+        "PLANT": 2,
+        "LOGO": 1
+      }
+    },
+    "f84r": {
+      "section": "balnea",
+      "n_words": 368,
+      "n_blocks": 7,
+      "counts": {
+        "INGR": 106,
+        "PLANT": 35,
+        "UNK": 48,
+        "FUNC": 137,
+        "VERB": 4,
+        "LOGO": 11,
+        "DOSE": 27
+      },
+      "pcts": {
+        "INGR": 28,
+        "PLANT": 9,
+        "UNK": 13,
+        "FUNC": 37,
+        "VERB": 1,
+        "LOGO": 2,
+        "DOSE": 7
+      }
+    },
+    "f84v": {
+      "section": "balnea",
+      "n_words": 341,
+      "n_blocks": 4,
+      "counts": {
+        "FUNC": 145,
+        "UNK": 34,
+        "INGR": 95,
+        "PLANT": 26,
+        "VERB": 3,
+        "DOSE": 30,
+        "LOGO": 8
+      },
+      "pcts": {
+        "FUNC": 42,
+        "UNK": 9,
+        "INGR": 27,
+        "PLANT": 7,
+        "VERB": 0,
+        "DOSE": 8,
+        "LOGO": 2
+      }
+    },
+    "f85r1": {
+      "section": "bio",
+      "n_words": 347,
+      "n_blocks": 9,
+      "counts": {
+        "VERB": 7,
+        "INGR": 168,
+        "FUNC": 69,
+        "UNK": 22,
+        "PLANT": 35,
+        "DOSE": 37,
+        "LOGO": 9
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 48,
+        "FUNC": 19,
+        "UNK": 6,
+        "PLANT": 10,
+        "DOSE": 10,
+        "LOGO": 2
+      }
+    },
+    "f85r2": {
+      "section": "bio",
+      "n_words": 156,
+      "n_blocks": 5,
+      "counts": {
+        "INGR": 75,
+        "FUNC": 25,
+        "PLANT": 26,
+        "DOSE": 25,
+        "UNK": 4,
+        "VERB": 1
+      },
+      "pcts": {
+        "INGR": 48,
+        "FUNC": 16,
+        "PLANT": 16,
+        "DOSE": 16,
+        "UNK": 2,
+        "VERB": 0
+      }
+    },
+    "f86v3": {
+      "section": "bio",
+      "n_words": 281,
+      "n_blocks": 6,
+      "counts": {
+        "VERB": 5,
+        "FUNC": 56,
+        "INGR": 134,
+        "DOSE": 48,
+        "PLANT": 24,
+        "UNK": 12,
+        "LOGO": 2
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 19,
+        "INGR": 47,
+        "DOSE": 17,
+        "PLANT": 8,
+        "UNK": 4,
+        "LOGO": 0
+      }
+    },
+    "f86v4": {
+      "section": "bio",
+      "n_words": 191,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 91,
+        "FUNC": 34,
+        "DOSE": 17,
+        "PLANT": 27,
+        "UNK": 17,
+        "LOGO": 4,
+        "VERB": 1
+      },
+      "pcts": {
+        "INGR": 47,
+        "FUNC": 17,
+        "DOSE": 8,
+        "PLANT": 14,
+        "UNK": 8,
+        "LOGO": 2,
+        "VERB": 0
+      }
+    },
+    "f86v5": {
+      "section": "bio",
+      "n_words": 390,
+      "n_blocks": 5,
+      "counts": {
+        "VERB": 3,
+        "INGR": 162,
+        "FUNC": 75,
+        "LOGO": 7,
+        "DOSE": 62,
+        "PLANT": 54,
+        "UNK": 27
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 41,
+        "FUNC": 19,
+        "LOGO": 1,
+        "DOSE": 15,
+        "PLANT": 13,
+        "UNK": 6
+      }
+    },
+    "f86v6": {
+      "section": "bio",
+      "n_words": 490,
+      "n_blocks": 4,
+      "counts": {
+        "VERB": 3,
+        "INGR": 205,
+        "PLANT": 51,
+        "DOSE": 83,
+        "FUNC": 103,
+        "LOGO": 8,
+        "UNK": 37
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 41,
+        "PLANT": 10,
+        "DOSE": 16,
+        "FUNC": 21,
+        "LOGO": 1,
+        "UNK": 7
+      }
+    },
+    "f87r": {
+      "section": "herbal_b",
+      "n_words": 102,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 71,
+        "DOSE": 12,
+        "FUNC": 6,
+        "LOGO": 4,
+        "UNK": 3,
+        "PLANT": 4
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 69,
+        "DOSE": 11,
+        "FUNC": 5,
+        "LOGO": 3,
+        "UNK": 2,
+        "PLANT": 3
+      }
+    },
+    "f87v": {
+      "section": "herbal_b",
+      "n_words": 92,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 67,
+        "DOSE": 5,
+        "PLANT": 4,
+        "LOGO": 5,
+        "FUNC": 8,
+        "UNK": 3
+      },
+      "pcts": {
+        "INGR": 72,
+        "DOSE": 5,
+        "PLANT": 4,
+        "LOGO": 5,
+        "FUNC": 8,
+        "UNK": 3
+      }
+    },
+    "f88r": {
+      "section": "herbal_b",
+      "n_words": 150,
+      "n_blocks": 4,
+      "counts": {
+        "INGR": 91,
+        "UNK": 12,
+        "FUNC": 18,
+        "DOSE": 5,
+        "LOGO": 5,
+        "PLANT": 17,
+        "VERB": 2
+      },
+      "pcts": {
+        "INGR": 60,
+        "UNK": 8,
+        "FUNC": 12,
+        "DOSE": 3,
+        "LOGO": 3,
+        "PLANT": 11,
+        "VERB": 1
+      }
+    },
+    "f88v": {
+      "section": "herbal_b",
+      "n_words": 145,
+      "n_blocks": 4,
+      "counts": {
+        "INGR": 85,
+        "FUNC": 18,
+        "VERB": 3,
+        "PLANT": 10,
+        "DOSE": 20,
+        "UNK": 6,
+        "LOGO": 3
+      },
+      "pcts": {
+        "INGR": 58,
+        "FUNC": 12,
+        "VERB": 2,
+        "PLANT": 6,
+        "DOSE": 13,
+        "UNK": 4,
+        "LOGO": 2
+      }
+    },
+    "f89r1": {
+      "section": "herbal_b",
+      "n_words": 140,
+      "n_blocks": 4,
+      "counts": {
+        "INGR": 78,
+        "DOSE": 24,
+        "FUNC": 15,
+        "UNK": 13,
+        "LOGO": 5,
+        "VERB": 2,
+        "PLANT": 3
+      },
+      "pcts": {
+        "INGR": 55,
+        "DOSE": 17,
+        "FUNC": 10,
+        "UNK": 9,
+        "LOGO": 3,
+        "VERB": 1,
+        "PLANT": 2
+      }
+    },
+    "f89r2": {
+      "section": "herbal_b",
+      "n_words": 234,
+      "n_blocks": 4,
+      "counts": {
+        "INGR": 118,
+        "UNK": 18,
+        "FUNC": 41,
+        "PLANT": 16,
+        "DOSE": 32,
+        "VERB": 2,
+        "LOGO": 7
+      },
+      "pcts": {
+        "INGR": 50,
+        "UNK": 7,
+        "FUNC": 17,
+        "PLANT": 6,
+        "DOSE": 13,
+        "VERB": 0,
+        "LOGO": 2
+      }
+    },
+    "f89v1": {
+      "section": "herbal_b",
+      "n_words": 154,
+      "n_blocks": 3,
+      "counts": {
+        "INGR": 81,
+        "VERB": 2,
+        "DOSE": 23,
+        "UNK": 13,
+        "FUNC": 27,
+        "LOGO": 2,
+        "PLANT": 6
+      },
+      "pcts": {
+        "INGR": 52,
+        "VERB": 1,
+        "DOSE": 14,
+        "UNK": 8,
+        "FUNC": 17,
+        "LOGO": 1,
+        "PLANT": 3
+      }
+    },
+    "f89v2": {
+      "section": "herbal_b",
+      "n_words": 182,
+      "n_blocks": 4,
+      "counts": {
+        "INGR": 88,
+        "FUNC": 21,
+        "VERB": 2,
+        "LOGO": 9,
+        "PLANT": 17,
+        "DOSE": 22,
+        "UNK": 23
+      },
+      "pcts": {
+        "INGR": 48,
+        "FUNC": 11,
+        "VERB": 1,
+        "LOGO": 4,
+        "PLANT": 9,
+        "DOSE": 12,
+        "UNK": 12
+      }
+    },
+    "f8r": {
+      "section": "herbal_a",
+      "n_words": 151,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 2,
+        "INGR": 86,
+        "PLANT": 12,
+        "FUNC": 15,
+        "LOGO": 4,
+        "UNK": 12,
+        "DOSE": 20
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 56,
+        "PLANT": 7,
+        "FUNC": 9,
+        "LOGO": 2,
+        "UNK": 7,
+        "DOSE": 13
+      }
+    },
+    "f8v": {
+      "section": "herbal_a",
+      "n_words": 118,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 63,
+        "UNK": 11,
+        "FUNC": 13,
+        "DOSE": 25,
+        "PLANT": 5,
+        "VERB": 1
+      },
+      "pcts": {
+        "INGR": 53,
+        "UNK": 9,
+        "FUNC": 11,
+        "DOSE": 21,
+        "PLANT": 4,
+        "VERB": 0
+      }
+    },
+    "f90r1": {
+      "section": "herbal_b",
+      "n_words": 69,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "FUNC": 8,
+        "INGR": 48,
+        "UNK": 6,
+        "LOGO": 3,
+        "DOSE": 1,
+        "PLANT": 2
+      },
+      "pcts": {
+        "VERB": 1,
+        "FUNC": 11,
+        "INGR": 69,
+        "UNK": 8,
+        "LOGO": 4,
+        "DOSE": 1,
+        "PLANT": 2
+      }
+    },
+    "f90r2": {
+      "section": "herbal_b",
+      "n_words": 47,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 29,
+        "DOSE": 7,
+        "LOGO": 4,
+        "PLANT": 3,
+        "FUNC": 2,
+        "UNK": 1
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 61,
+        "DOSE": 14,
+        "LOGO": 8,
+        "PLANT": 6,
+        "FUNC": 4,
+        "UNK": 2
+      }
+    },
+    "f90v1": {
+      "section": "herbal_b",
+      "n_words": 96,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 58,
+        "FUNC": 12,
+        "LOGO": 4,
+        "DOSE": 7,
+        "PLANT": 6,
+        "UNK": 7
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 60,
+        "FUNC": 12,
+        "LOGO": 4,
+        "DOSE": 7,
+        "PLANT": 6,
+        "UNK": 7
+      }
+    },
+    "f90v2": {
+      "section": "herbal_b",
+      "n_words": 68,
+      "n_blocks": 2,
+      "counts": {
+        "INGR": 36,
+        "DOSE": 5,
+        "LOGO": 6,
+        "UNK": 4,
+        "FUNC": 13,
+        "PLANT": 3,
+        "VERB": 1
+      },
+      "pcts": {
+        "INGR": 52,
+        "DOSE": 7,
+        "LOGO": 8,
+        "UNK": 5,
+        "FUNC": 19,
+        "PLANT": 4,
+        "VERB": 1
+      }
+    },
+    "f93r": {
+      "section": "herbal_b",
+      "n_words": 152,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 79,
+        "DOSE": 14,
+        "LOGO": 15,
+        "UNK": 16,
+        "PLANT": 12,
+        "FUNC": 15
+      },
+      "pcts": {
+        "VERB": 0,
+        "INGR": 51,
+        "DOSE": 9,
+        "LOGO": 9,
+        "UNK": 10,
+        "PLANT": 7,
+        "FUNC": 9
+      }
+    },
+    "f93v": {
+      "section": "herbal_b",
+      "n_words": 89,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 58,
+        "FUNC": 9,
+        "PLANT": 4,
+        "DOSE": 6,
+        "UNK": 8,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 65,
+        "FUNC": 10,
+        "PLANT": 4,
+        "DOSE": 6,
+        "UNK": 8,
+        "LOGO": 3
+      }
+    },
+    "f94r": {
+      "section": "herbal_b",
+      "n_words": 79,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 36,
+        "DOSE": 16,
+        "FUNC": 16,
+        "UNK": 6,
+        "PLANT": 3,
+        "LOGO": 1
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 45,
+        "DOSE": 20,
+        "FUNC": 20,
+        "UNK": 7,
+        "PLANT": 3,
+        "LOGO": 1
+      }
+    },
+    "f94v": {
+      "section": "herbal_b",
+      "n_words": 97,
+      "n_blocks": 3,
+      "counts": {
+        "VERB": 1,
+        "INGR": 41,
+        "FUNC": 24,
+        "UNK": 7,
+        "PLANT": 8,
+        "DOSE": 13,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 42,
+        "FUNC": 24,
+        "UNK": 7,
+        "PLANT": 8,
+        "DOSE": 13,
+        "LOGO": 3
+      }
+    },
+    "f95r1": {
+      "section": "herbal_b",
+      "n_words": 102,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 46,
+        "DOSE": 27,
+        "PLANT": 7,
+        "FUNC": 16,
+        "UNK": 4
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 45,
+        "DOSE": 26,
+        "PLANT": 6,
+        "FUNC": 15,
+        "UNK": 3
+      }
+    },
+    "f95r2": {
+      "section": "herbal_b",
+      "n_words": 79,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "PLANT": 8,
+        "INGR": 24,
+        "DOSE": 12,
+        "FUNC": 26,
+        "UNK": 5,
+        "LOGO": 2
+      },
+      "pcts": {
+        "VERB": 2,
+        "PLANT": 10,
+        "INGR": 30,
+        "DOSE": 15,
+        "FUNC": 32,
+        "UNK": 6,
+        "LOGO": 2
+      }
+    },
+    "f95v1": {
+      "section": "herbal_b",
+      "n_words": 118,
+      "n_blocks": 4,
+      "counts": {
+        "INGR": 51,
+        "DOSE": 26,
+        "FUNC": 21,
+        "PLANT": 9,
+        "LOGO": 4,
+        "VERB": 3,
+        "UNK": 4
+      },
+      "pcts": {
+        "INGR": 43,
+        "DOSE": 22,
+        "FUNC": 17,
+        "PLANT": 7,
+        "LOGO": 3,
+        "VERB": 2,
+        "UNK": 3
+      }
+    },
+    "f95v2": {
+      "section": "herbal_b",
+      "n_words": 60,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 16,
+        "PLANT": 7,
+        "DOSE": 20,
+        "FUNC": 9,
+        "UNK": 4,
+        "LOGO": 3
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 26,
+        "PLANT": 11,
+        "DOSE": 33,
+        "FUNC": 15,
+        "UNK": 6,
+        "LOGO": 5
+      }
+    },
+    "f96r": {
+      "section": "herbal_b",
+      "n_words": 84,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 59,
+        "FUNC": 6,
+        "DOSE": 5,
+        "PLANT": 6,
+        "LOGO": 3,
+        "UNK": 4
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 70,
+        "FUNC": 7,
+        "DOSE": 5,
+        "PLANT": 7,
+        "LOGO": 3,
+        "UNK": 4
+      }
+    },
+    "f96v": {
+      "section": "herbal_b",
+      "n_words": 56,
+      "n_blocks": 1,
+      "counts": {
+        "VERB": 1,
+        "INGR": 43,
+        "FUNC": 3,
+        "LOGO": 1,
+        "UNK": 3,
+        "DOSE": 3,
+        "PLANT": 2
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 76,
+        "FUNC": 5,
+        "LOGO": 1,
+        "UNK": 5,
+        "DOSE": 5,
+        "PLANT": 3
+      }
+    },
+    "f99r": {
+      "section": "herbal_b",
+      "n_words": 194,
+      "n_blocks": 5,
+      "counts": {
+        "INGR": 116,
+        "FUNC": 37,
+        "LOGO": 7,
+        "VERB": 3,
+        "DOSE": 12,
+        "UNK": 11,
+        "PLANT": 8
+      },
+      "pcts": {
+        "INGR": 59,
+        "FUNC": 19,
+        "LOGO": 3,
+        "VERB": 1,
+        "DOSE": 6,
+        "UNK": 5,
+        "PLANT": 4
+      }
+    },
+    "f99v": {
+      "section": "herbal_b",
+      "n_words": 174,
+      "n_blocks": 5,
+      "counts": {
+        "INGR": 94,
+        "PLANT": 19,
+        "UNK": 4,
+        "LOGO": 3,
+        "FUNC": 41,
+        "DOSE": 13
+      },
+      "pcts": {
+        "INGR": 54,
+        "PLANT": 10,
+        "UNK": 2,
+        "LOGO": 1,
+        "FUNC": 23,
+        "DOSE": 7
+      }
+    },
+    "f9r": {
+      "section": "herbal_a",
+      "n_words": 85,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 1,
+        "INGR": 47,
+        "LOGO": 4,
+        "DOSE": 13,
+        "FUNC": 9,
+        "PLANT": 4,
+        "UNK": 7
+      },
+      "pcts": {
+        "VERB": 1,
+        "INGR": 55,
+        "LOGO": 4,
+        "DOSE": 15,
+        "FUNC": 10,
+        "PLANT": 4,
+        "UNK": 8
+      }
+    },
+    "f9v": {
+      "section": "herbal_a",
+      "n_words": 86,
+      "n_blocks": 2,
+      "counts": {
+        "VERB": 2,
+        "INGR": 53,
+        "FUNC": 7,
+        "DOSE": 17,
+        "LOGO": 1,
+        "PLANT": 4,
+        "UNK": 2
+      },
+      "pcts": {
+        "VERB": 2,
+        "INGR": 61,
+        "FUNC": 8,
+        "DOSE": 19,
+        "LOGO": 1,
+        "PLANT": 4,
+        "UNK": 2
+      }
+    }
+  },
+  "anomalies": [
+    {
+      "folio": "f100v",
+      "section": "herbal_b",
+      "n_words": 93,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f103r",
+      "section": "pharma",
+      "n_words": 531,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f103v",
+      "section": "pharma",
+      "n_words": 454,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f108r",
+      "section": "pharma",
+      "n_words": 494,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f108v",
+      "section": "pharma",
+      "n_words": 581,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f10v",
+      "section": "herbal_a",
+      "n_words": 57,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f116v",
+      "section": "pharma",
+      "n_words": 2,
+      "signals": [
+        "LOW_DOSE",
+        "HIGH_PLANT",
+        "VERY_SHORT",
+        "HIGH_FUNC",
+        "HERBAL_LIKE?"
+      ]
+    },
+    {
+      "folio": "f11r",
+      "section": "herbal_a",
+      "n_words": 59,
+      "signals": [
+        "HIGH_LOGO",
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f13v",
+      "section": "herbal_a",
+      "n_words": 69,
+      "signals": [
+        "HIGH_LOGO"
+      ]
+    },
+    {
+      "folio": "f15r",
+      "section": "herbal_a",
+      "n_words": 94,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f18v",
+      "section": "herbal_a",
+      "n_words": 69,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f19v",
+      "section": "herbal_a",
+      "n_words": 78,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f1r",
+      "section": "herbal_a",
+      "n_words": 219,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f1v",
+      "section": "herbal_a",
+      "n_words": 92,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f20v",
+      "section": "herbal_a",
+      "n_words": 86,
+      "signals": [
+        "HIGH_PLANT"
+      ]
+    },
+    {
+      "folio": "f21v",
+      "section": "herbal_a",
+      "n_words": 58,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f22r",
+      "section": "herbal_a",
+      "n_words": 111,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f22v",
+      "section": "herbal_a",
+      "n_words": 77,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f23r",
+      "section": "herbal_a",
+      "n_words": 110,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f25r",
+      "section": "herbal_a",
+      "n_words": 47,
+      "signals": [
+        "HIGH_DOSE",
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f25v",
+      "section": "herbal_a",
+      "n_words": 59,
+      "signals": [
+        "HIGH_DOSE",
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f27v",
+      "section": "herbal_a",
+      "n_words": 61,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f28v",
+      "section": "herbal_a",
+      "n_words": 68,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f29v",
+      "section": "herbal_a",
+      "n_words": 94,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f2r",
+      "section": "herbal_a",
+      "n_words": 105,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f2v",
+      "section": "herbal_a",
+      "n_words": 61,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f30v",
+      "section": "herbal_a",
+      "n_words": 63,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f32r",
+      "section": "herbal_a",
+      "n_words": 76,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f32v",
+      "section": "herbal_a",
+      "n_words": 89,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f33r",
+      "section": "herbal_a",
+      "n_words": 74,
+      "signals": [
+        "HIGH_PLANT",
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f33v",
+      "section": "herbal_a",
+      "n_words": 114,
+      "signals": [
+        "HIGH_PLANT"
+      ]
+    },
+    {
+      "folio": "f35r",
+      "section": "herbal_a",
+      "n_words": 94,
+      "signals": [
+        "HIGH_DOSE",
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f35v",
+      "section": "herbal_a",
+      "n_words": 91,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f36r",
+      "section": "herbal_a",
+      "n_words": 63,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f36v",
+      "section": "herbal_a",
+      "n_words": 76,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f37r",
+      "section": "herbal_a",
+      "n_words": 78,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f37v",
+      "section": "herbal_a",
+      "n_words": 89,
+      "signals": [
+        "HIGH_DOSE",
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f38r",
+      "section": "herbal_a",
+      "n_words": 44,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f38v",
+      "section": "herbal_a",
+      "n_words": 67,
+      "signals": [
+        "HIGH_LOGO",
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f39v",
+      "section": "herbal_a",
+      "n_words": 146,
+      "signals": [
+        "HIGH_PLANT"
+      ]
+    },
+    {
+      "folio": "f40v",
+      "section": "herbal_a",
+      "n_words": 105,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f41r",
+      "section": "herbal_a",
+      "n_words": 97,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f42r",
+      "section": "herbal_a",
+      "n_words": 141,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f44v",
+      "section": "herbal_a",
+      "n_words": 100,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f45r",
+      "section": "herbal_a",
+      "n_words": 89,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f45v",
+      "section": "herbal_a",
+      "n_words": 85,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f47r",
+      "section": "herbal_a",
+      "n_words": 76,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f48v",
+      "section": "herbal_a",
+      "n_words": 128,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f49v",
+      "section": "herbal_a",
+      "n_words": 162,
+      "signals": [
+        "HIGH_LOGO"
+      ]
+    },
+    {
+      "folio": "f4r",
+      "section": "herbal_a",
+      "n_words": 64,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f50r",
+      "section": "herbal_a",
+      "n_words": 93,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f50v",
+      "section": "herbal_a",
+      "n_words": 100,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f51v",
+      "section": "herbal_a",
+      "n_words": 82,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f53v",
+      "section": "herbal_a",
+      "n_words": 73,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f54r",
+      "section": "herbal_a",
+      "n_words": 110,
+      "signals": [
+        "HIGH_PLANT"
+      ]
+    },
+    {
+      "folio": "f54v",
+      "section": "herbal_a",
+      "n_words": 93,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f55v",
+      "section": "herbal_a",
+      "n_words": 105,
+      "signals": [
+        "HIGH_PLANT",
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f57v",
+      "section": "volvelle",
+      "n_words": 179,
+      "signals": [
+        "HIGH_LOGO"
+      ]
+    },
+    {
+      "folio": "f5r",
+      "section": "herbal_a",
+      "n_words": 54,
+      "signals": [
+        "HIGH_PLANT"
+      ]
+    },
+    {
+      "folio": "f5v",
+      "section": "herbal_a",
+      "n_words": 48,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f65r",
+      "section": "astro",
+      "n_words": 3,
+      "signals": [
+        "LOW_DOSE",
+        "HIGH_UNK",
+        "VERY_SHORT"
+      ]
+    },
+    {
+      "folio": "f69v",
+      "section": "cosmo",
+      "n_words": 140,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f6r",
+      "section": "herbal_a",
+      "n_words": 86,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f70r1",
+      "section": "cosmo",
+      "n_words": 112,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f71r",
+      "section": "cosmo",
+      "n_words": 90,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f72r1",
+      "section": "cosmo",
+      "n_words": 105,
+      "signals": [
+        "HIGH_DOSE"
+      ]
+    },
+    {
+      "folio": "f72r2",
+      "section": "cosmo",
+      "n_words": 113,
+      "signals": [
+        "HIGH_DOSE"
+      ]
+    },
+    {
+      "folio": "f72r3",
+      "section": "cosmo",
+      "n_words": 163,
+      "signals": [
+        "HIGH_DOSE"
+      ]
+    },
+    {
+      "folio": "f75r",
+      "section": "balnea",
+      "n_words": 417,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f75v",
+      "section": "balnea",
+      "n_words": 359,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f76r",
+      "section": "balnea",
+      "n_words": 569,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f77v",
+      "section": "balnea",
+      "n_words": 332,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f78v",
+      "section": "balnea",
+      "n_words": 295,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f79v",
+      "section": "balnea",
+      "n_words": 356,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f81r",
+      "section": "balnea",
+      "n_words": 210,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f82v",
+      "section": "balnea",
+      "n_words": 320,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f83v",
+      "section": "balnea",
+      "n_words": 261,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f84r",
+      "section": "balnea",
+      "n_words": 368,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f84v",
+      "section": "balnea",
+      "n_words": 341,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f88r",
+      "section": "herbal_b",
+      "n_words": 150,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f89r1",
+      "section": "herbal_b",
+      "n_words": 140,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f8v",
+      "section": "herbal_a",
+      "n_words": 118,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f90r1",
+      "section": "herbal_b",
+      "n_words": 69,
+      "signals": [
+        "LOW_DOSE"
+      ]
+    },
+    {
+      "folio": "f94r",
+      "section": "herbal_b",
+      "n_words": 79,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f95r1",
+      "section": "herbal_b",
+      "n_words": 102,
+      "signals": [
+        "HIGH_DOSE",
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f95r2",
+      "section": "herbal_b",
+      "n_words": 79,
+      "signals": [
+        "HIGH_FUNC"
+      ]
+    },
+    {
+      "folio": "f95v1",
+      "section": "herbal_b",
+      "n_words": 118,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f95v2",
+      "section": "herbal_b",
+      "n_words": 60,
+      "signals": [
+        "HIGH_DOSE",
+        "PHARMA_LIKE?"
+      ]
+    },
+    {
+      "folio": "f9v",
+      "section": "herbal_a",
+      "n_words": 86,
+      "signals": [
+        "PHARMA_LIKE?"
+      ]
+    }
+  ]
+}

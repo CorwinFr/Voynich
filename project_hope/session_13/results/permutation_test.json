@@ -1,0 +1,18 @@
+{
+  "test1_full": {
+    "our_score": 0.037543,
+    "random_mean": 0.04636,
+    "z_score": -1.37,
+    "p_value": 0.9236
+  },
+  "test2_rare": {
+    "our_score": 0.018766,
+    "random_mean": 0.020073,
+    "z_score": -2.26,
+    "p_value": 0.9898
+  },
+  "test3_recipe": {
+    "our_jaccard": 0.3294,
+    "random_jaccard": 0.2274
+  }
+}

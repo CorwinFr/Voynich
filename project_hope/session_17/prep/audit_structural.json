@@ -1,0 +1,73 @@
+{
+  "gallows_initial_pct": 50,
+  "n_at_end_pct": 98,
+  "q_at_start_pct": 99,
+  "am_positions": {
+    "early": 477,
+    "late": 227,
+    "last_2": 64
+  },
+  "very_long_words": [
+    [
+      "f114r",
+      "cheoltchedaiin",
+      14
+    ],
+    [
+      "f75v",
+      "oksheyqolkeey",
+      13
+    ],
+    [
+      "f84r",
+      "psholpchcfhdy",
+      13
+    ],
+    [
+      "f86v5",
+      "ycheeytydaiin",
+      13
+    ],
+    [
+      "f89r2",
+      "dolchsyckheol",
+      13
+    ],
+    [
+      "f93r",
+      "cholchecthody",
+      13
+    ],
+    [
+      "f102r1",
+      "qokcheololain",
+      13
+    ],
+    [
+      "f106v",
+      "olkeealkchedy",
+      13
+    ],
+    [
+      "f111r",
+      "shkeyqokeaiin",
+      13
+    ],
+    [
+      "f112r",
+      "oteeedyqokeey",
+      13
+    ]
+  ],
+  "no_morph_top": {},
+  "section_exclusivity": {
+    "herbal_a": 1548,
+    "volvelle": 28,
+    "astro": 372,
+    "cosmo": 633,
+    "balnea": 635,
+    "bio": 242,
+    "herbal_b": 748,
+    "pharma": 1629
+  }
+}

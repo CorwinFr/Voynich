@@ -1,0 +1,82 @@
+{
+  "iterations": 3,
+  "n_assigned": 18,
+  "n_new": 2,
+  "n_known_roots": 19,
+  "history": [
+    {
+      "iteration": 1,
+      "folio": "f43v",
+      "chapter": "Ruta",
+      "score": 175,
+      "margin": 52.0,
+      "n_matched": 4,
+      "matched": [
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "dary",
+          "vinum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ]
+    },
+    {
+      "iteration": 2,
+      "folio": "f48r",
+      "chapter": "Ruta",
+      "score": 175,
+      "margin": 52.0,
+      "n_matched": 4,
+      "matched": [
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "dal",
+          "vinum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ]
+    }
+  ],
+  "assigned": {
+    "f48v": "Ruta",
+    "f9v": "Violae",
+    "f44v": "Apium",
+    "f51v": "Salvia",
+    "f29r": "Lactuca",
+    "f41r": "Origanum",
+    "f37r": "Mentha",
+    "f41v": "Coriandrum",
+    "f22r": "Verbena",
+    "f28r": "Aristolochia",
+    "f5v": "Malva",
+    "f45r": "Atriplex",
+    "f66v": "Satureia",
+    "f65v": "Centaurea",
+    "f3v": "Elleborus",
+    "f95v1": "Althaea",
+    "f43v": "Ruta",
+    "f48r": "Ruta"
+  },
+  "validation_correct": 0,
+  "validation_tested": 0
+}

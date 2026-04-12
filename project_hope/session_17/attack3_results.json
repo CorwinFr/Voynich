@@ -1,0 +1,359 @@
+{
+  "n_bridged_recipes": 31,
+  "best_readings": [
+    {
+      "bid": "f106r_B15",
+      "plant": "ruta",
+      "macer_chapter": "Ruta",
+      "n_total": 57,
+      "n_high_conf": 5,
+      "pct_decoded": 8,
+      "reading": "(pcheodar) (shol) (kain) (okeechedy) (qoteey) NIGELLA (qoty) (lpaiin) (shedy) (lar) (daiiral) (sheol) (daiin) (otedy) (qokain) (okar) (cheor) (al) (taiin) (chekal) (otaras) PANIS (qoteey) (otaiin) (chy) (chealol) (chlchd) (aiin) (oty) (otair) (otaiikam) IN (sheedal) (okain) (okain) (otar) (kaiin) (chdalkair) (olkai) (al) (keedy) (okal) VENA (shodaiin) (otedy) (qokeedy) (qokaiin) MEL (qokain) (cheedy) (lol) (ycheoar) (okain) (qokain) (char) (oky) (cheokam)",
+      "ingredients_found": [
+        "mel",
+        "nigella",
+        "panis",
+        "vena"
+      ],
+      "in_macer": [
+        "mel"
+      ],
+      "not_in_macer": [
+        "nigella",
+        "panis",
+        "vena"
+      ],
+      "score": 1
+    },
+    {
+      "bid": "f105v_B04",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 45,
+      "n_high_conf": 4,
+      "pct_decoded": 8,
+      "reading": "(pchedaiin) (chckhdy) (qokaiir) (olpchedy) (olord) (aiiin) (tail) (odar) (kard) PIPER (ycheey) (kar) MEL (otaiin) (ot) (al) (dar) (chdor) (kalchedy) (opchdy) (daiin) (oraiin) RECIPE (daiin) (cheey) (dal) (chl) (okair) (aiin) (cpheor) (aiin) (okal) (chodaiin) (otaiin) (opaiim) (olr) (aiin) (chey) SE (raiin) (lkl) (dl) (lklor) (diiin) (olkaiin)",
+      "ingredients_found": [
+        "mel",
+        "piper"
+      ],
+      "in_macer": [
+        "mel"
+      ],
+      "not_in_macer": [
+        "piper"
+      ],
+      "score": 1
+    },
+    {
+      "bid": "f114r_B09",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 46,
+      "n_high_conf": 3,
+      "pct_decoded": 6,
+      "reading": "(pchedairs) (oeail) (chotar) (qokeedair) (olkaiin) (opdaiin) (otoldair) (chdy) (tedair) (aiir) (aim) (chol) (oeedy) (keedy) (cheecky) (cheodeey) (keedeedy) (daiiin) (ald) (air) (ar) (shol) (chedy) VENA (qoty) IN (chedar) (okeedy) (lkeedy) (aiin) (oeedaiin) (qoaiin) MEL (okair) (olkeedy) (qoain) (ain) (okeey) (ram) (sair) (aiin) (cheedain) (okaiin) (otedy) (qokeedain) (orain)",
+      "ingredients_found": [
+        "mel",
+        "vena"
+      ],
+      "in_macer": [
+        "mel"
+      ],
+      "not_in_macer": [
+        "vena"
+      ],
+      "score": 1
+    },
+    {
+      "bid": "f113r_B15",
+      "plant": "ruta",
+      "macer_chapter": "Ruta",
+      "n_total": 28,
+      "n_high_conf": 3,
+      "pct_decoded": 10,
+      "reading": "(pcheodaiin) (sholkeechy) (ar) (alkar) VENA (cheol) (tcheor) (qokchedy) (pchor) (aral) MEL (sheeod) (lkar) (ar) (al) EST (aiin) (cheeey) (ol) (chedy) (lchey) (lkar) (am) (chedam) (cheeky) (lkedy) (chedy) (lkaiin)",
+      "ingredients_found": [
+        "mel",
+        "vena"
+      ],
+      "in_macer": [
+        "mel"
+      ],
+      "not_in_macer": [
+        "vena"
+      ],
+      "score": 1
+    },
+    {
+      "bid": "f108v_B03",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 56,
+      "n_high_conf": 2,
+      "pct_decoded": 3,
+      "reading": "(pchedaiin) (okedy) (otedal) (lkedeed) (okedar) (okeey) (qoteol) (lkedy) (otey) (raiin) (am) (ysheedy) (okeedy) (oteedy) (qokeedy) (okeedy) (okeedy) (chedal) (okar) (qoteedar) (oty) (qokeeo) (dar) (chedam) (chlal) OVUM (sheed) (lchedy) SE (keedy) (ched) (kel) (cthdy) (ol) (cheey) (leedaiin) (shckhaiin) (okeal) (okar) (aralor) (om) (shee) (kaithy) (chectham) (sain) (al) (keed) (ain) (olkeeed) (qokedy) (lkeedy) (cho) (lkain) (oteshy) (shedy) (deedy)",
+      "ingredients_found": [
+        "ovum"
+      ],
+      "in_macer": [
+        "ovum"
+      ],
+      "not_in_macer": [],
+      "score": 1
+    },
+    {
+      "bid": "f112v_B07",
+      "plant": "aristolochia",
+      "macer_chapter": "Aristolochia",
+      "n_total": 28,
+      "n_high_conf": 2,
+      "pct_decoded": 7,
+      "reading": "(pchodain) (aiin) (teeedy) (qoeey) (okeedy) (qokeear) (al) (okedal) (olkeedy) (qotedy) (shey) (keedal) (aiin) (cheol) (keeeody) (qoiin) MEL (qokeeey) MEL (qoeey) (qokaim) (sheey) (qoeekain) (ol) (kain) (alor) (chedal) (sheody)",
+      "ingredients_found": [
+        "mel"
+      ],
+      "in_macer": [
+        "mel"
+      ],
+      "not_in_macer": [],
+      "score": 1
+    },
+    {
+      "bid": "f104v_B10",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 37,
+      "n_high_conf": 1,
+      "pct_decoded": 2,
+      "reading": "(pchedy) (kchedy) (cheocphey) (or) (ain) (cheeos) (aiiiro) (lcheedy) (lcheedy) (qosaiin) (cfheo) (ar) (als) (am) (yteeey) (cheeod) MEL (kaiin) (qokaiin) (cheey) (or) (ol) (ar) (odar) (chedain) (etar) (ar) (air) (ary) (ycheo) (lkeed) (qotain) (okaiin) (chokain) (okain) (cheol) (olcho)",
+      "ingredients_found": [
+        "mel"
+      ],
+      "in_macer": [
+        "mel"
+      ],
+      "not_in_macer": [],
+      "score": 1
+    },
+    {
+      "bid": "f105r_B10",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 27,
+      "n_high_conf": 1,
+      "pct_decoded": 3,
+      "reading": "AQUA (okaiir) (opcheedy) (qokair) (dar) (kal) (otar) (ol) (qokal) (kor) (orolpchey) (ofory) (dyteey) (otedaiin) (otar) (ol) (chedy) (ted) (qotar) (oteodar) (otam) (ytedy) (otaiin) (otoiir) (chedaiin) (otair) (otaly)",
+      "ingredients_found": [
+        "aqua"
+      ],
+      "in_macer": [
+        "aqua"
+      ],
+      "not_in_macer": [],
+      "score": 1
+    },
+    {
+      "bid": "f105v_B02",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 30,
+      "n_high_conf": 1,
+      "pct_decoded": 3,
+      "reading": "(pchedal) (qopchdy) (daiin) (chedy) (daiin) (okaildy) (opchedaiin) (opcheo) (olkeedy) (sairom) (dcheo) (fcheeody) (ckheey) (dar) (aiin) (al) (dar) (ar) (daiiidy) (otedy) (oteody) MEL (g) (ycheeo) (lkaiin) (otair) (ol) (olkaiin) (okairody) (lchedr)",
+      "ingredients_found": [
+        "mel"
+      ],
+      "in_macer": [
+        "mel"
+      ],
+      "not_in_macer": [],
+      "score": 1
+    },
+    {
+      "bid": "f114v_B09",
+      "plant": "ruta",
+      "macer_chapter": "Ruta",
+      "n_total": 29,
+      "n_high_conf": 5,
+      "pct_decoded": 17,
+      "reading": "(pcheodal) (chopcheod) (qoto) EST (araiin) (qota) SE (cheo) (pchdal) (qoeedy) (chcthey) AC (sheeo) SE (kchee) (okeey) (qoteor) (chokaiin) (chdy) (qokaiin) (chokeey) (tainary) (tchedy) (shdo) VENA (chees) (ar) (aiin) (chetam)",
+      "ingredients_found": [
+        "vena"
+      ],
+      "in_macer": [],
+      "not_in_macer": [
+        "vena"
+      ],
+      "score": 0
+    },
+    {
+      "bid": "f115r_B06",
+      "plant": "ruta",
+      "macer_chapter": "Ruta",
+      "n_total": 33,
+      "n_high_conf": 5,
+      "pct_decoded": 15,
+      "reading": "(pcheodain) (qokchey) VENA (darailchedy) (polchedy) (chol) (pchody) VENA (qofchedy) (ram) (lcheod) (lkchedy) VIOLA (chedy) (qokchedy) (qoky) (chor) (al) (alor) (cheey) (qol) (keo) RECIPE (shey) (yches) (oaiin) (or) (al) (chy) (cheody) (rodaiin) VIOLA (oeeody)",
+      "ingredients_found": [
+        "vena",
+        "viola"
+      ],
+      "in_macer": [],
+      "not_in_macer": [
+        "vena",
+        "viola"
+      ],
+      "score": 0
+    },
+    {
+      "bid": "f103r_B13",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 24,
+      "n_high_conf": 3,
+      "pct_decoded": 12,
+      "reading": "(pchedy) (qokeey) (qokeodair) (qokshy) (qokeedy) (qokchdy) (chsky) (eeey) (shalky) (otechedy) (qokain) (shcthy) VIOLA (lokeedy) VIOLA (lokain) (shedy) (okeey) NITRUM (qokeey) (lsheey) (qotal) (shedy) (oteey)",
+      "ingredients_found": [
+        "nitrum",
+        "viola"
+      ],
+      "in_macer": [],
+      "not_in_macer": [
+        "nitrum",
+        "viola"
+      ],
+      "score": 0
+    },
+    {
+      "bid": "f113r_B04",
+      "plant": "ruta",
+      "macer_chapter": "Ruta",
+      "n_total": 36,
+      "n_high_conf": 3,
+      "pct_decoded": 8,
+      "reading": "(pcheody) (qokeody) (cheoar) (chy) (kcheeor) (ety) (sheody) (sheodaiin) (qoteoar) (otam) VENA (qoty) (daiin) (cholchey) (okecheey) (chokeo) SE (sheo) (qoaiin) (shoo) (keeeol) (keody) (chor) (chor) (kal) (laram) IN (shoain) (qoeey) (qoaiin) (shol) (lkeeoar) (chodaiin) (otam) (chos) (aiin)",
+      "ingredients_found": [
+        "vena"
+      ],
+      "in_macer": [],
+      "not_in_macer": [
+        "vena"
+      ],
+      "score": 0
+    },
+    {
+      "bid": "f103r_B01",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 50,
+      "n_high_conf": 2,
+      "pct_decoded": 4,
+      "reading": "(pchedal) (shdy) (ytechypchy) (otey) (lshey) (qoteey) (qotal) (shedy) (yshdal) (dain) (okal) (daldy) (dain) (shek) (chcphhdy) (daloky) (opchedy) (peshol) (chep) (ar) VENA (sal) (lkeey) (sar) (ain) (ok) (chedy) (yshdain) (sheek) (cheoty) (eeokal) (chedy) VIOLA (or) (orol) (okaiin) (eeal) (ot) (kar) (otar) (chal) (ychedy) (qokedy) (okedy) (qokeey) (okey) (chdar) (ol) (loty) (chedaraly)",
+      "ingredients_found": [
+        "vena",
+        "viola"
+      ],
+      "in_macer": [],
+      "not_in_macer": [
+        "vena",
+        "viola"
+      ],
+      "score": 0
+    },
+    {
+      "bid": "f104r_B08",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 34,
+      "n_high_conf": 2,
+      "pct_decoded": 5,
+      "reading": "(pchedar) (qokaiin) (qotaiin) (dl) (ral) (cheodl) (cphaiin) (daiin) (ar) (qekeeey) (qoparaiin) (olcheear) (chedar) (or) (aror) (sheey) (olkeechy) (or) (char) (cheeo) SE EST (or) (or) (aiin) (atam) (ysheodaiin) (shody) (yteedy) (cheedar) (or) (air) (cheoltar) (arodly)",
+      "ingredients_found": [],
+      "in_macer": [],
+      "not_in_macer": [],
+      "score": 0
+    },
+    {
+      "bid": "f106v_B12",
+      "plant": "aristolochia",
+      "macer_chapter": "Aristolochia",
+      "n_total": 28,
+      "n_high_conf": 2,
+      "pct_decoded": 7,
+      "reading": "(pchodaiin) (kcheeor) (al) (ky) (shcthy) (otos) (ar) (odal) (pcheody) (qotaiin) (otor) (alodam) (shody) VIOLA (qokeey) (qokcho) SE (kchedy) (shdy) (kchedy) (chedy) (qockhey) (okaiin) (al) (sol) (sheedy) (qokaiin) (cholkaiin)",
+      "ingredients_found": [
+        "viola"
+      ],
+      "in_macer": [],
+      "not_in_macer": [
+        "viola"
+      ],
+      "score": 0
+    },
+    {
+      "bid": "f103r_B18",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 25,
+      "n_high_conf": 1,
+      "pct_decoded": 4,
+      "reading": "(pchedal) (oteey) (qol) (keedy) (qokeey) (qoty) (chepchy) (qopchey) (lkaiin) (otalsy) (sshey) (qokedy) (qokaiin) (shdy) (qokeey) (chedy) (qokeey) (qokeey) (lchedy) (loty) PANIS (qoteeey) (darchedy) (qokey) (qoty)",
+      "ingredients_found": [
+        "panis"
+      ],
+      "in_macer": [],
+      "not_in_macer": [
+        "panis"
+      ],
+      "score": 0
+    },
+    {
+      "bid": "f108v_B01",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 41,
+      "n_high_conf": 1,
+      "pct_decoded": 2,
+      "reading": "(pchedal) (qokeedar) (otedy) (qokeedy) (lky) (ltal) (aiin) (oteo) (fcheey) (otedar) (am) (ol) (daiin) (shal) (qokedy) (qoeechy) (okain) (oteey) VIOLA (lkeedy) (qokeedar) (araiin) (okam) (ssheedal) (ol) (lkedy) (lkeedy) (chedalkedy) (lkeedy) (qokechedy) (otedain) (oteey) (lol) (dchedy) (shedy) (qokeed) (qoteedy) (qoteedy) (arain) (al) (keedy)",
+      "ingredients_found": [
+        "viola"
+      ],
+      "in_macer": [],
+      "not_in_macer": [
+        "viola"
+      ],
+      "score": 0
+    },
+    {
+      "bid": "f111r_B04",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 46,
+      "n_high_conf": 1,
+      "pct_decoded": 2,
+      "reading": "(pchedar) (oteeol) (lkeedain) (okeam) (sheo) (teolkedain) (shal) (keey) (lteeal) (cheal) (oty) (oain) (ain) (keeey) (teed) (checkhed) (iir) (okeey) (lkeeey) (okeeo) (lkeey) (lkeey) (lkeedy) (qoky) IN (cheeo) (lkeey) (oteed) (lkeedy) (okeeshey) (chey) (lkar) (al) (olchal) (or) (aiin) (cheom) (sheedy) (qokeey) (sheey) (qoteedy) (qeear) (al) (chedy) (okeey) (chedy)",
+      "ingredients_found": [],
+      "in_macer": [],
+      "not_in_macer": [],
+      "score": 0
+    },
+    {
+      "bid": "f114v_B03",
+      "plant": "lens",
+      "macer_chapter": "Plantago",
+      "n_total": 27,
+      "n_high_conf": 1,
+      "pct_decoded": 3,
+      "reading": "(pchedchdy) (qoteedy) (qokedain) (chdaiin) (qokedy) (chedain) (qoeedy) (qotey) (qotaiin) (soes) (oeeos) (aiin) (olkeey) (keol) VENA (qockhed) (skaiin) (sheedy) (qotal) (chedy) (olkees) (chedaiin) (qotaiin) (olchedaiin) (chedain) (dain) (chcthdy)",
+      "ingredients_found": [
+        "vena"
+      ],
+      "in_macer": [],
+      "not_in_macer": [
+        "vena"
+      ],
+      "score": 0
+    }
+  ]
+}

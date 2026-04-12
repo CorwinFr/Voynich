@@ -1,0 +1,682 @@
+{
+  "n_anchors": 25,
+  "n_root_fps": 179,
+  "n_ingr_fps": 55,
+  "exact_unique": 2,
+  "exact_strong": 1,
+  "fuzzy": 1,
+  "total_mappings": 90,
+  "mappings": {
+    "shocthy": {
+      "latin": "I_mastix",
+      "confidence": "confirmed",
+      "method": "fingerprint_exact_unique",
+      "n_folios": 2,
+      "freq": 12
+    },
+    "shotch": {
+      "latin": "I_nigella",
+      "confidence": "confirmed",
+      "method": "fingerprint_exact_unique",
+      "n_folios": 2,
+      "freq": 4
+    },
+    "sheod": {
+      "latin": "I_acorus/I_chelidonia",
+      "confidence": "probable",
+      "method": "fingerprint_exact_strong",
+      "n_folios": 2
+    },
+    "foch": {
+      "latin": "viola",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f9v"
+    },
+    "pos": {
+      "latin": "lactuca",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f29r"
+    },
+    "tsho": {
+      "latin": "emilia",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f37v"
+    },
+    "pcheod": {
+      "latin": "ruta",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f48v"
+    },
+    "posho": {
+      "latin": "salvia",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f51v"
+    },
+    "kooiin": {
+      "latin": "nenuphar",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f2v"
+    },
+    "fch": {
+      "latin": "veronica",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f32r"
+    },
+    "kech": {
+      "latin": "lunaria",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f34v"
+    },
+    "parch": {
+      "latin": "ribes",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f35v"
+    },
+    "ko": {
+      "latin": "lonicera",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f13v"
+    },
+    "pched": {
+      "latin": "lens",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f26v"
+    },
+    "keered": {
+      "latin": "coriandrum",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f41v"
+    },
+    "tshodpy": {
+      "latin": "mandragora",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f44r"
+    },
+    "pykyd": {
+      "latin": "atriplex",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f45r"
+    },
+    "do": {
+      "latin": "gentiana",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f50v"
+    },
+    "kod": {
+      "latin": "millefolium",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f53r"
+    },
+    "koary": {
+      "latin": "ricinus",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f6v"
+    },
+    "pcho": {
+      "latin": "scorzonera",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f14r"
+    },
+    "por": {
+      "latin": "paris",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f15v"
+    },
+    "pch": {
+      "latin": "athyrium",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f52v"
+    },
+    "ol": {
+      "latin": "verbena",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f22r"
+    },
+    "fchol": {
+      "latin": "thymus",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f25r"
+    },
+    "ks": {
+      "latin": "spinacia",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f27r"
+    },
+    "ar": {
+      "latin": "tanacetum",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f33v"
+    },
+    "och": {
+      "latin": "drosera",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f56r"
+    },
+    "sheo": {
+      "latin": "linnaea",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f10v"
+    },
+    "tsh": {
+      "latin": "sonchus",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f15r"
+    },
+    "pocheo": {
+      "latin": "cannabis",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f16r"
+    },
+    "pdrair": {
+      "latin": "aster",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f18r"
+    },
+    "kchsy": {
+      "latin": "atropa",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f1v"
+    },
+    "pysaiin": {
+      "latin": "tulipa",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f22v"
+    },
+    "poee": {
+      "latin": "isatis",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f25v"
+    },
+    "ksh": {
+      "latin": "rhododendron",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f28v"
+    },
+    "kcheod": {
+      "latin": "campanula",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f32v"
+    },
+    "choo": {
+      "latin": "cichorium",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f35r"
+    },
+    "pchadan": {
+      "latin": "delphinium",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f36r"
+    },
+    "tocph": {
+      "latin": "mentha",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f37r"
+    },
+    "tedo": {
+      "latin": "crocus",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f39r"
+    },
+    "tsheos": {
+      "latin": "celosia",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f3r"
+    },
+    "psh": {
+      "latin": "pisum",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f8r"
+    },
+    "cho": {
+      "latin": "aquilegia",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f42v"
+    },
+    "tarod": {
+      "latin": "stellaria",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f43r"
+    },
+    "korary": {
+      "latin": "lavandula",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f45v"
+    },
+    "pcheocphy": {
+      "latin": "leucanthemum",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f46r"
+    },
+    "po": {
+      "latin": "inula",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f46v"
+    },
+    "psheot": {
+      "latin": "pulmonaria",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f47v"
+    },
+    "kodal": {
+      "latin": "saxifraga",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f4r"
+    },
+    "pchooiin": {
+      "latin": "campanula",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f4v"
+    },
+    "pshe": {
+      "latin": "astrantia",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f50r"
+    },
+    "tdokchcfhy": {
+      "latin": "anemone",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f52r"
+    },
+    "pod": {
+      "latin": "valeriana",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f31v"
+    },
+    "kcho": {
+      "latin": "arnica",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f5r"
+    },
+    "che": {
+      "latin": "malva",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f5v"
+    },
+    "otaim": {
+      "latin": "alchemilla",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f65r"
+    },
+    "fo": {
+      "latin": "acanthus",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f6r"
+    },
+    "fchod": {
+      "latin": "trientalis",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f7r"
+    },
+    "poly": {
+      "latin": "myrica",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f7v"
+    },
+    "chod": {
+      "latin": "symphytum",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f8v"
+    },
+    "kodsh": {
+      "latin": "[no medieval name - new world plant]",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f93r"
+    },
+    "tch": {
+      "latin": "botrychium",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f94r"
+    },
+    "psheesshee": {
+      "latin": "tamus",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f96v"
+    },
+    "pchod": {
+      "latin": "aristolochia",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f28r"
+    },
+    "chsch": {
+      "latin": "cuscuta",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f30v"
+    },
+    "poldcho": {
+      "latin": "curcuma",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f11v"
+    },
+    "pych": {
+      "latin": "nenuphar",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f49r"
+    },
+    "chosarosh": {
+      "latin": "[no medieval name - new world plant]",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f100r"
+    },
+    "pdychoiin": {
+      "latin": "stachys",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f14v"
+    },
+    "fsho": {
+      "latin": "catananche",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f17r"
+    },
+    "kdcho": {
+      "latin": "astragalus",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f20r"
+    },
+    "faiis": {
+      "latin": "cynara",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f20v"
+    },
+    "told": {
+      "latin": "dictamnus",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f21v"
+    },
+    "pydchd": {
+      "latin": "pulsatilla",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f23r"
+    },
+    "podair": {
+      "latin": "borago",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f23v"
+    },
+    "or": {
+      "latin": "cucumis",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f24r"
+    },
+    "psheoky": {
+      "latin": "prunella",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f26r"
+    },
+    "pochof": {
+      "latin": "dianthus",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f27v"
+    },
+    "okeeesy": {
+      "latin": "prunella",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f30r"
+    },
+    "keed": {
+      "latin": "erigeron",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f31r"
+    },
+    "tshd": {
+      "latin": "silene",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f33r"
+    },
+    "tshold": {
+      "latin": "cakile",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f51r"
+    },
+    "kcheedch": {
+      "latin": "brassica",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f55v"
+    },
+    "poeeockh": {
+      "latin": "sherardia",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f57r"
+    },
+    "cphy": {
+      "latin": "centaurea",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f65v"
+    },
+    "okeodof": {
+      "latin": "satureja",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f66v"
+    },
+    "poalshs": {
+      "latin": "satureja",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f87r"
+    },
+    "ch": {
+      "latin": "primula",
+      "confidence": "probable",
+      "method": "first_word_plant_name",
+      "folio": "f87v"
+    },
+    "daly": {
+      "latin": "I_acetum",
+      "confidence": "possible",
+      "method": "fingerprint_fuzzy_hamming1"
+    }
+  },
+  "exact_matches": [
+    {
+      "fingerprint": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "n_present": 2,
+      "roots": [
+        "shocthy"
+      ],
+      "ingredients": [
+        "I_mastix"
+      ],
+      "n_roots": 1,
+      "n_ingr": 1,
+      "strength": "UNIQUE"
+    },
+    {
+      "fingerprint": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "n_present": 2,
+      "roots": [
+        "shotch"
+      ],
+      "ingredients": [
+        "I_nigella"
+      ],
+      "n_roots": 1,
+      "n_ingr": 1,
+      "strength": "UNIQUE"
+    },
+    {
+      "fingerprint": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "n_present": 2,
+      "roots": [
+        "sheod"
+      ],
+      "ingredients": [
+        "I_acorus",
+        "I_chelidonia"
+      ],
+      "n_roots": 1,
+      "n_ingr": 2,
+      "strength": "STRONG"
+    }
+  ],
+  "fuzzy_matches": [
+    {
+      "root": "daly",
+      "ingredient": "I_acetum",
+      "hamming": 1,
+      "root_present": 3,
+      "ingr_present": 4,
+      "root_freq": 30
+    }
+  ]
+}

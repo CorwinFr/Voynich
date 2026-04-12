@@ -1,0 +1,37 @@
+{
+  "class_counts": {
+    "VERB": 612,
+    "FUNC": 10230,
+    "DOSE": 4894,
+    "UNK": 8003,
+    "LOGO": 1459,
+    "INSTR": 2240,
+    "QUAL": 368,
+    "UNIT": 1894,
+    "INGR_C": 3016,
+    "INGR_B": 802,
+    "TERM": 819,
+    "INGR_A": 4100,
+    "SPECIAL": 19
+  },
+  "n_prefixes": 4744,
+  "n_prefixes_freq5": 586,
+  "n_multiclass": 466,
+  "n_singleclass": 120,
+  "pharma_classes": {
+    "VERB": 251,
+    "INSTR": 532,
+    "INGR_C": 753,
+    "UNIT": 817,
+    "FUNC": 2402,
+    "INGR_A": 1558,
+    "DOSE": 1726,
+    "UNK": 1918,
+    "LOGO": 330,
+    "TERM": 241,
+    "INGR_B": 212,
+    "QUAL": 151
+  },
+  "kt_mean": 0.551,
+  "kt_std": 0.175
+}

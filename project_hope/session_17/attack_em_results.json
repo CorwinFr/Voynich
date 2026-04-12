@@ -1,0 +1,319 @@
+{
+  "n_iterations": 2,
+  "global_score": 4182.0,
+  "n_new_root_mappings": 656,
+  "n_folio_assignments": 129,
+  "top_root_mappings": [
+    {
+      "root": "chok",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 37
+    },
+    {
+      "root": "sheo",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 31
+    },
+    {
+      "root": "oke",
+      "ingredient": "urina",
+      "confidence": 1.0,
+      "n_folios": 24
+    },
+    {
+      "root": "chos",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 21
+    },
+    {
+      "root": "olk",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 20
+    },
+    {
+      "root": "ain",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 19
+    },
+    {
+      "root": "ykch",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 19
+    },
+    {
+      "root": "cheos",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 18
+    },
+    {
+      "root": "okeo",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 18
+    },
+    {
+      "root": "qoke",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 18
+    },
+    {
+      "root": "cheod",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 17
+    },
+    {
+      "root": "och",
+      "ingredient": "urina",
+      "confidence": 1.0,
+      "n_folios": 17
+    },
+    {
+      "root": "qockh",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 17
+    },
+    {
+      "root": "qokeo",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 17
+    },
+    {
+      "root": "tcho",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 17
+    },
+    {
+      "root": "tsh",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 17
+    },
+    {
+      "root": "olch",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 15
+    },
+    {
+      "root": "dan",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 14
+    },
+    {
+      "root": "ksh",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 14
+    },
+    {
+      "root": "shok",
+      "ingredient": "urina",
+      "confidence": 1.0,
+      "n_folios": 14
+    },
+    {
+      "root": "tod",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 14
+    },
+    {
+      "root": "chol",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 13
+    },
+    {
+      "root": "dar",
+      "ingredient": "urina",
+      "confidence": 1.0,
+      "n_folios": 13
+    },
+    {
+      "root": "keo",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 13
+    },
+    {
+      "root": "chcth",
+      "ingredient": "urina",
+      "confidence": 1.0,
+      "n_folios": 12
+    },
+    {
+      "root": "chee",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 12
+    },
+    {
+      "root": "chockhy",
+      "ingredient": "urina",
+      "confidence": 1.0,
+      "n_folios": 12
+    },
+    {
+      "root": "choiin",
+      "ingredient": "urina",
+      "confidence": 1.0,
+      "n_folios": 12
+    },
+    {
+      "root": "qoko",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 12
+    },
+    {
+      "root": "chet",
+      "ingredient": "vinum",
+      "confidence": 1.0,
+      "n_folios": 11
+    }
+  ],
+  "folio_assignments": {
+    "f1r": "betonica",
+    "f1v": "absinthium",
+    "f2r": "absinthium",
+    "f2v": "artemisia",
+    "f3r": "absinthium",
+    "f4r": "absinthium",
+    "f4v": "absinthium",
+    "f5r": "absinthium",
+    "f6r": "absinthium",
+    "f6v": "absinthium",
+    "f7r": "absinthium",
+    "f7v": "absinthium",
+    "f8r": "artemisia",
+    "f8v": "absinthium",
+    "f9r": "absinthium",
+    "f10r": "absinthium",
+    "f10v": "absinthium",
+    "f11r": "artemisia",
+    "f11v": "absinthium",
+    "f13r": "artemisia",
+    "f13v": "ruta",
+    "f14r": "artemisia",
+    "f14v": "absinthium",
+    "f15r": "betonica",
+    "f15v": "absinthium",
+    "f16r": "betonica",
+    "f16v": "absinthium",
+    "f17r": "absinthium",
+    "f17v": "absinthium",
+    "f18r": "absinthium",
+    "f18v": "absinthium",
+    "f19r": "absinthium",
+    "f19v": "absinthium",
+    "f20r": "absinthium",
+    "f20v": "betonica",
+    "f21r": "absinthium",
+    "f21v": "betonica",
+    "f22v": "artemisia",
+    "f23r": "absinthium",
+    "f23v": "artemisia",
+    "f24r": "betonica",
+    "f24v": "artemisia",
+    "f25r": "betonica",
+    "f25v": "absinthium",
+    "f26r": "absinthium",
+    "f26v": "absinthium",
+    "f27r": ".i.",
+    "f27v": "absinthium",
+    "f28v": "betonica",
+    "f29v": ".i.",
+    "f30r": "absinthium",
+    "f30v": "absinthium",
+    "f31r": "betonica",
+    "f31v": "absinthium",
+    "f32r": "absinthium",
+    "f32v": "absinthium",
+    "f33r": "absinthium",
+    "f33v": "absinthium",
+    "f34r": "betonica",
+    "f34v": "absinthium",
+    "f35r": "absinthium",
+    "f35v": "artemisia",
+    "f36r": "absinthium",
+    "f36v": "betonica",
+    "f37v": "absinthium",
+    "f38r": "absinthium",
+    "f38v": "artemisia",
+    "f39r": "absinthium",
+    "f39v": "artemisia",
+    "f40r": "artemisia",
+    "f40v": "artemisia",
+    "f42r": "absinthium",
+    "f42v": "betonica",
+    "f43r": "artemisia",
+    "f43v": "betonica",
+    "f44r": "artemisia",
+    "f45v": "artemisia",
+    "f46r": "absinthium",
+    "f46v": "betonica",
+    "f47r": "betonica",
+    "f47v": "absinthium",
+    "f48r": "betonica",
+    "f49r": "artemisia",
+    "f49v": "absinthium",
+    "f50r": "absinthium",
+    "f50v": "aqua",
+    "f51r": "abrotanum",
+    "f52r": "artemisia",
+    "f52v": "absinthium",
+    "f53r": "betonica",
+    "f53v": "absinthium",
+    "f54r": "artemisia",
+    "f54v": "betonica",
+    "f55r": "artemisia",
+    "f55v": "artemisia",
+    "f56r": "absinthium",
+    "f56v": "absinthium",
+    "f57r": "absinthium",
+    "f87r": "absinthium",
+    "f87v": "absinthium",
+    "f88r": "absinthium",
+    "f88v": "artemisia",
+    "f89r1": "artemisia",
+    "f89r2": "absinthium",
+    "f89v2": "betonica",
+    "f89v1": "absinthium",
+    "f90r1": "artemisia",
+    "f90r2": "artemisia",
+    "f90v2": "artemisia",
+    "f90v1": "absinthium",
+    "f93r": "absinthium",
+    "f93v": "absinthium",
+    "f94r": "absinthium",
+    "f94v": "artemisia",
+    "f95r1": "absinthium",
+    "f95r2": "absinthium",
+    "f95v2": "artemisia",
+    "f96r": "absinthium",
+    "f96v": "absinthium",
+    "f99r": "absinthium",
+    "f99v": "betonica",
+    "f100r": "absinthium",
+    "f100v": "artemisia",
+    "f101r": "absinthium",
+    "f101v": "ruta",
+    "f102r1": "betonica",
+    "f102r2": "absinthium",
+    "f102v2": "absinthium",
+    "f102v1": "absinthium"
+  }
+}

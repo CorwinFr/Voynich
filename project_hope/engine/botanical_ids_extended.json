@@ -1,0 +1,454 @@
+{
+  "f1r": {
+    "primary": "Syzygium",
+    "full": "Syzygium"
+  },
+  "f1v": {
+    "primary": "Atropa belladonna",
+    "full": "Atropa belladonna"
+  },
+  "f2r": {
+    "primary": "Centaurea diffusa",
+    "full": "Centaurea diffusa"
+  },
+  "f2v": {
+    "primary": "Nymphoides",
+    "full": "Nymphoides"
+  },
+  "f3r": {
+    "primary": "Celosia argentea",
+    "full": "Celosia argentea"
+  },
+  "f3v": {
+    "primary": "Aconitum",
+    "full": "Aconitum"
+  },
+  "f4r": {
+    "primary": "Saxifraga cespitosa",
+    "full": "Saxifraga cespitosa"
+  },
+  "f4v": {
+    "primary": "Campanula",
+    "full": "Campanula"
+  },
+  "f5r": {
+    "primary": "Arnica montana",
+    "full": "Arnica montana"
+  },
+  "f5v": {
+    "primary": "Malva sylvestris",
+    "full": "Malva sylvestris"
+  },
+  "f6r": {
+    "primary": "Acanthus mollis",
+    "full": "Acanthus mollis"
+  },
+  "f6v": {
+    "primary": "Ricinus communis",
+    "full": "Ricinus communis"
+  },
+  "f7r": {
+    "primary": "Trientalis europaea",
+    "full": "Trientalis europaea"
+  },
+  "f7v": {
+    "primary": "Myrica gale",
+    "full": "Myrica gale (Piment"
+  },
+  "f8r": {
+    "primary": "Pisum sativum",
+    "full": "Pisum sativum"
+  },
+  "f8v": {
+    "primary": "Symphytum",
+    "full": "Symphytum"
+  },
+  "f9r": {
+    "primary": "Rumex crispus",
+    "full": "Rumex crispus"
+  },
+  "f9v": {
+    "primary": "Viola tricolor",
+    "full": "Viola tricolor"
+  },
+  "f10r": {
+    "primary": "Cichorium pumilum",
+    "full": "Cichorium pumilum"
+  },
+  "f10v": {
+    "primary": "Linnaea borealis",
+    "full": "Linnaea borealis"
+  },
+  "f11r": {
+    "primary": "Rosmarinus",
+    "full": "Rosmarinus"
+  },
+  "f11v": {
+    "primary": "Curcuma longa",
+    "full": "Curcuma longa"
+  },
+  "f13r": {
+    "primary": "Banana 11",
+    "full": "Banana (Bananier) 11"
+  },
+  "f13v": {
+    "primary": "Lonicera",
+    "full": "Lonicera"
+  },
+  "f14r": {
+    "primary": "Scorzonera",
+    "full": "Scorzonera"
+  },
+  "f14v": {
+    "primary": "Stachys monnieri",
+    "full": "Stachys monnieri"
+  },
+  "f15r": {
+    "primary": "Sonchus oleraceus",
+    "full": "Sonchus oleraceus"
+  },
+  "f15v": {
+    "primary": "Paris quadrifolia",
+    "full": "Paris quadrifolia"
+  },
+  "f16r": {
+    "primary": "Cannabis sativa",
+    "full": "Cannabis sativa"
+  },
+  "f16v": {
+    "primary": "Carthamus lanatus",
+    "full": "Carthamus lanatus"
+  },
+  "f17r": {
+    "primary": "Catananche",
+    "full": "Catananche"
+  },
+  "f17v": {
+    "primary": "Fallopia convolvulus",
+    "full": "Fallopia convolvulus"
+  },
+  "f18r": {
+    "primary": "Aster alpinus",
+    "full": "Aster alpinus"
+  },
+  "f18v": {
+    "primary": "Telfairia pedata",
+    "full": "Telfairia pedata"
+  },
+  "f19r": {
+    "primary": "Polemonium",
+    "full": "Polemonium"
+  },
+  "f19v": {
+    "primary": "Draba nivalis",
+    "full": "Draba nivalis"
+  },
+  "f20r": {
+    "primary": "Astragalus",
+    "full": "Astragalus"
+  },
+  "f20v": {
+    "primary": "Cynara cardunculus",
+    "full": "Cynara cardunculus"
+  },
+  "f21r": {
+    "primary": "Anagallis arvensis",
+    "full": "Anagallis arvensis"
+  },
+  "f21v": {
+    "primary": "Dictamnus albus",
+    "full": "Dictamnus albus"
+  },
+  "f22r": {
+    "primary": "Verbena officinalis",
+    "full": "Verbena officinalis"
+  },
+  "f22v": {
+    "primary": "Tulipa 12",
+    "full": "Tulipa (Tulipe) 12"
+  },
+  "f23r": {
+    "primary": "Pulsatilla vulgaris",
+    "full": "Pulsatilla vulgaris"
+  },
+  "f23v": {
+    "primary": "Borago officinalis",
+    "full": "Borago officinalis"
+  },
+  "f24r": {
+    "primary": "Cucumis sativus",
+    "full": "Cucumis sativus"
+  },
+  "f24v": {
+    "primary": "Ficus religiosa",
+    "full": "Ficus religiosa"
+  },
+  "f25r": {
+    "primary": "Thymus capitata",
+    "full": "Thymus capitata"
+  },
+  "f25v": {
+    "primary": "Isatis tinctoria",
+    "full": "Isatis tinctoria"
+  },
+  "f26r": {
+    "primary": "Prunella vulgaris",
+    "full": "Prunella vulgaris"
+  },
+  "f26v": {
+    "primary": "Lens culinaris",
+    "full": "Lens culinaris"
+  },
+  "f27r": {
+    "primary": "Spinacia oleracea",
+    "full": "Spinacia oleracea"
+  },
+  "f27v": {
+    "primary": "Dianthus superbus",
+    "full": "Dianthus superbus"
+  },
+  "f28r": {
+    "primary": "Aristolochia",
+    "full": "Aristolochia"
+  },
+  "f28v": {
+    "primary": "Rhododendron",
+    "full": "Rhododendron"
+  },
+  "f29r": {
+    "primary": "Lactuca sativa",
+    "full": "Lactuca sativa"
+  },
+  "f29v": {
+    "primary": "Nigella sativa",
+    "full": "Nigella sativa"
+  },
+  "f30r": {
+    "primary": "Prunella vulgaris",
+    "full": "Prunella vulgaris"
+  },
+  "f30v": {
+    "primary": "Cuscuta europaea",
+    "full": "Cuscuta europaea"
+  },
+  "f31r": {
+    "primary": "Erigeron acris",
+    "full": "Erigeron acris"
+  },
+  "f31v": {
+    "primary": "Valeriana officinalis",
+    "full": "Valeriana officinalis"
+  },
+  "f32r": {
+    "primary": "Veronica triphyllos",
+    "full": "Veronica triphyllos"
+  },
+  "f32v": {
+    "primary": "Campanula",
+    "full": "Campanula"
+  },
+  "f33r": {
+    "primary": "Silene vulgaris",
+    "full": "Silene vulgaris"
+  },
+  "f33v": {
+    "primary": "Tanacetum",
+    "full": "Tanacetum"
+  },
+  "f34r": {
+    "primary": "Cirsium arvense",
+    "full": "Cirsium arvense"
+  },
+  "f34v": {
+    "primary": "Lunaria annua",
+    "full": "Lunaria annua 11"
+  },
+  "f35r": {
+    "primary": "Cichorium intybus",
+    "full": "Cichorium intybus 11"
+  },
+  "f35v": {
+    "primary": "Ribes nigrum",
+    "full": "Ribes nigrum"
+  },
+  "f36r": {
+    "primary": "Delphinium",
+    "full": "Delphinium"
+  },
+  "f36v": {
+    "primary": "Lamium",
+    "full": "Lamium"
+  },
+  "f37r": {
+    "primary": "Mentha longifolia",
+    "full": "Mentha longifolia"
+  },
+  "f37v": {
+    "primary": "Emilia fosbergii",
+    "full": "Emilia fosbergii 11"
+  },
+  "f38r": {
+    "primary": "Equisetum arvense",
+    "full": "Equisetum arvense"
+  },
+  "f38v": {
+    "primary": "Lythrum salicaria",
+    "full": "Lythrum salicaria"
+  },
+  "f39r": {
+    "primary": "Crocus sativus",
+    "full": "Crocus sativus"
+  },
+  "f39v": {
+    "primary": "Tagetes patula",
+    "full": "Tagetes patula"
+  },
+  "f40r": {
+    "primary": "Erodium",
+    "full": "Erodium"
+  },
+  "f40v": {
+    "primary": "Crocus vernus",
+    "full": "Crocus vernus"
+  },
+  "f41r": {
+    "primary": "Origanum vulgare",
+    "full": "Origanum vulgare"
+  },
+  "f41v": {
+    "primary": "Coriandrum",
+    "full": "Coriandrum"
+  },
+  "f42r": {
+    "primary": "Typhonium",
+    "full": "Typhonium"
+  },
+  "f42v": {
+    "primary": "Aquilegia vulgaris",
+    "full": "Aquilegia vulgaris"
+  },
+  "f43r": {
+    "primary": "Stellaria media",
+    "full": "Stellaria media"
+  },
+  "f43v": {
+    "primary": "Fagopyrum",
+    "full": "Fagopyrum"
+  },
+  "f44r": {
+    "primary": "Mandragora",
+    "full": "Mandragora"
+  },
+  "f44v": {
+    "primary": "Apium graveolens",
+    "full": "Apium graveolens"
+  },
+  "f45r": {
+    "primary": "Atriplex hortensis",
+    "full": "Atriplex hortensis"
+  },
+  "f45v": {
+    "primary": "Lavandula",
+    "full": "Lavandula"
+  },
+  "f46r": {
+    "primary": "Leucanthemum",
+    "full": "Leucanthemum"
+  },
+  "f46v": {
+    "primary": "Inula conyza",
+    "full": "Inula conyza (Inule)"
+  },
+  "f47r": {
+    "primary": "Sempervivum",
+    "full": "Sempervivum"
+  },
+  "f47v": {
+    "primary": "Pulmonaria",
+    "full": "Pulmonaria"
+  },
+  "f48r": {
+    "primary": "Hyoscyamus niger",
+    "full": "Hyoscyamus niger"
+  },
+  "f48v": {
+    "primary": "Ruta graveolens",
+    "full": "Ruta graveolens"
+  },
+  "f49r": {
+    "primary": "Nymphaea caerulea",
+    "full": "Nymphaea caerulea"
+  },
+  "f49v": {
+    "primary": "Centella asiatica",
+    "full": "Centella asiatica"
+  },
+  "f50r": {
+    "primary": "Artichoke",
+    "full": "Artichoke"
+  },
+  "f50v": {
+    "primary": "Umbellifera",
+    "full": "Umbellifera"
+  },
+  "f51r": {
+    "primary": "Mandragora",
+    "full": "Mandragora"
+  },
+  "f51v": {
+    "primary": "Lycopsis arvensis",
+    "full": "Lycopsis arvensis"
+  },
+  "f52r": {
+    "primary": "Aristolochia 14",
+    "full": "Aristolochia 14"
+  },
+  "f52v": {
+    "primary": "Acanthus 14",
+    "full": "Acanthus 14"
+  },
+  "f53r": {
+    "primary": "Achillea ptarmica",
+    "full": "Achillea ptarmica 11"
+  },
+  "f53v": {
+    "primary": "Hieracium",
+    "full": "Hieracium"
+  },
+  "f54r": {
+    "primary": "Cirsium oleraceum",
+    "full": "Cirsium oleraceum"
+  },
+  "f54v": {
+    "primary": "Perovskia",
+    "full": "Perovskia"
+  },
+  "f55r": {
+    "primary": "Fumaria officinalis",
+    "full": "Fumaria officinalis"
+  },
+  "f55v": {
+    "primary": "Brassica oleracea",
+    "full": "Brassica oleracea"
+  },
+  "f56r": {
+    "primary": "Drosera intermedia",
+    "full": "Drosera intermedia"
+  },
+  "f56v": {
+    "primary": "Cycas revoluta",
+    "full": "Cycas revoluta"
+  },
+  "f57r": {
+    "primary": "Sherardia arvensis",
+    "full": "Sherardia arvensis 11"
+  },
+  "f65r": {
+    "primary": "Alchemilla vulgaris",
+    "full": "Alchemilla vulgaris"
+  },
+  "f65v": {
+    "primary": "Centaurea cyanus",
+    "full": "Centaurea cyanus"
+  }
+}

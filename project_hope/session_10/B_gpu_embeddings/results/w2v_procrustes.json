@@ -1,0 +1,1321 @@
+{
+  "params": {
+    "vec_dim": 50,
+    "window": 5,
+    "min_count_latin": 3,
+    "min_count_vms": 2,
+    "epochs_latin": 50,
+    "epochs_vms": 100
+  },
+  "corpus_stats": {
+    "latin_sentences": 10596,
+    "latin_tokens": 1664177,
+    "latin_vocab": 32252,
+    "vms_sentences": 781,
+    "vms_tokens": 38434,
+    "vms_vocab": 2474
+  },
+  "anchors_used": [
+    [
+      "o",
+      "ac"
+    ],
+    [
+      "l",
+      "se"
+    ],
+    [
+      "d",
+      "de"
+    ],
+    [
+      "r",
+      "recipe"
+    ],
+    [
+      "v",
+      "vel"
+    ],
+    [
+      "k",
+      "cum"
+    ],
+    [
+      "m",
+      "misce"
+    ],
+    [
+      "f",
+      "per"
+    ],
+    [
+      "t",
+      "et"
+    ],
+    [
+      "y",
+      "in"
+    ],
+    [
+      "s",
+      "est"
+    ],
+    [
+      "p",
+      "usque"
+    ]
+  ],
+  "anchor_error": 2.0495261351267495,
+  "nn_results": {
+    "daiin": {
+      "frequency": 847,
+      "neighbors": [
+        {
+          "latin": "mechium",
+          "cosine": 0.6932
+        },
+        {
+          "latin": "hal",
+          "cosine": 0.6835
+        },
+        {
+          "latin": "utum",
+          "cosine": 0.6755
+        },
+        {
+          "latin": "tubel",
+          "cosine": 0.6613
+        },
+        {
+          "latin": "minerale",
+          "cosine": 0.6465
+        }
+      ]
+    },
+    "ol": {
+      "frequency": 548,
+      "neighbors": [
+        {
+          "latin": "alza",
+          "cosine": 0.6728
+        },
+        {
+          "latin": "nutrite",
+          "cosine": 0.6698
+        },
+        {
+          "latin": "diorum",
+          "cosine": 0.6548
+        },
+        {
+          "latin": "thymi",
+          "cosine": 0.6504
+        },
+        {
+          "latin": "alkar",
+          "cosine": 0.6471
+        }
+      ]
+    },
+    "chedy": {
+      "frequency": 507,
+      "neighbors": [
+        {
+          "latin": "node",
+          "cosine": 0.648
+        },
+        {
+          "latin": "mane",
+          "cosine": 0.641
+        },
+        {
+          "latin": "nocte",
+          "cosine": 0.6092
+        },
+        {
+          "latin": "die",
+          "cosine": 0.5757
+        },
+        {
+          "latin": "corian",
+          "cosine": 0.565
+        }
+      ]
+    },
+    "aiin": {
+      "frequency": 501,
+      "neighbors": [
+        {
+          "latin": "xxxi",
+          "cosine": 0.6756
+        },
+        {
+          "latin": "ligatis",
+          "cosine": 0.6578
+        },
+        {
+          "latin": "dose",
+          "cosine": 0.6566
+        },
+        {
+          "latin": "hets",
+          "cosine": 0.6528
+        },
+        {
+          "latin": "parol",
+          "cosine": 0.6416
+        }
+      ]
+    },
+    "shedy": {
+      "frequency": 435,
+      "neighbors": [
+        {
+          "latin": "earn",
+          "cosine": 0.5791
+        },
+        {
+          "latin": "sugendo",
+          "cosine": 0.5768
+        },
+        {
+          "latin": "apposita",
+          "cosine": 0.568
+        },
+        {
+          "latin": "node",
+          "cosine": 0.5675
+        },
+        {
+          "latin": "nocte",
+          "cosine": 0.5461
+        }
+      ]
+    },
+    "chol": {
+      "frequency": 398,
+      "neighbors": [
+        {
+          "latin": "teda",
+          "cosine": 0.691
+        },
+        {
+          "latin": "accipitur",
+          "cosine": 0.6797
+        },
+        {
+          "latin": "positum",
+          "cosine": 0.6674
+        },
+        {
+          "latin": "hal",
+          "cosine": 0.667
+        },
+        {
+          "latin": "proiectum",
+          "cosine": 0.6517
+        }
+      ]
+    },
+    "ar": {
+      "frequency": 393,
+      "neighbors": [
+        {
+          "latin": "sere",
+          "cosine": 0.6288
+        },
+        {
+          "latin": "associabitur",
+          "cosine": 0.6247
+        },
+        {
+          "latin": "node",
+          "cosine": 0.6182
+        },
+        {
+          "latin": "ini",
+          "cosine": 0.617
+        },
+        {
+          "latin": "crum",
+          "cosine": 0.5965
+        }
+      ]
+    },
+    "or": {
+      "frequency": 380,
+      "neighbors": [
+        {
+          "latin": "sugendo",
+          "cosine": 0.6589
+        },
+        {
+          "latin": "nili",
+          "cosine": 0.6465
+        },
+        {
+          "latin": "parol",
+          "cosine": 0.6288
+        },
+        {
+          "latin": "raditur",
+          "cosine": 0.6277
+        },
+        {
+          "latin": "pareat",
+          "cosine": 0.6256
+        }
+      ]
+    },
+    "chey": {
+      "frequency": 353,
+      "neighbors": [
+        {
+          "latin": "gaganti",
+          "cosine": 0.7186
+        },
+        {
+          "latin": "parietibus",
+          "cosine": 0.69
+        },
+        {
+          "latin": "ostracorum",
+          "cosine": 0.687
+        },
+        {
+          "latin": "lacu",
+          "cosine": 0.6866
+        },
+        {
+          "latin": "diorum",
+          "cosine": 0.6786
+        }
+      ]
+    },
+    "dar": {
+      "frequency": 320,
+      "neighbors": [
+        {
+          "latin": "ara",
+          "cosine": 0.6584
+        },
+        {
+          "latin": "alza",
+          "cosine": 0.628
+        },
+        {
+          "latin": "perforate",
+          "cosine": 0.6255
+        },
+        {
+          "latin": "isopi",
+          "cosine": 0.6065
+        },
+        {
+          "latin": "tecto",
+          "cosine": 0.6065
+        }
+      ]
+    },
+    "qokeey": {
+      "frequency": 307,
+      "neighbors": [
+        {
+          "latin": "nei",
+          "cosine": 0.5651
+        },
+        {
+          "latin": "connexio",
+          "cosine": 0.5651
+        },
+        {
+          "latin": "contrahatur",
+          "cosine": 0.5637
+        },
+        {
+          "latin": "vnam",
+          "cosine": 0.5559
+        },
+        {
+          "latin": "laurini",
+          "cosine": 0.5525
+        }
+      ]
+    },
+    "qokeedy": {
+      "frequency": 307,
+      "neighbors": [
+        {
+          "latin": "vnam",
+          "cosine": 0.5738
+        },
+        {
+          "latin": "buglosse",
+          "cosine": 0.5479
+        },
+        {
+          "latin": "occurrunt",
+          "cosine": 0.5455
+        },
+        {
+          "latin": "gore",
+          "cosine": 0.5443
+        },
+        {
+          "latin": "tertianarum",
+          "cosine": 0.5436
+        }
+      ]
+    },
+    "qokain": {
+      "frequency": 279,
+      "neighbors": [
+        {
+          "latin": "sumendo",
+          "cosine": 0.5945
+        },
+        {
+          "latin": "nocte",
+          "cosine": 0.5747
+        },
+        {
+          "latin": "corian",
+          "cosine": 0.5739
+        },
+        {
+          "latin": "egressa",
+          "cosine": 0.5682
+        },
+        {
+          "latin": "salsarum",
+          "cosine": 0.5629
+        }
+      ]
+    },
+    "shey": {
+      "frequency": 278,
+      "neighbors": [
+        {
+          "latin": "muniat",
+          "cosine": 0.6337
+        },
+        {
+          "latin": "magnificentur",
+          "cosine": 0.6025
+        },
+        {
+          "latin": "vaporose",
+          "cosine": 0.5999
+        },
+        {
+          "latin": "mollificati",
+          "cosine": 0.5952
+        },
+        {
+          "latin": "embuba",
+          "cosine": 0.5863
+        }
+      ]
+    },
+    "dy": {
+      "frequency": 276,
+      "neighbors": [
+        {
+          "latin": "corum",
+          "cosine": 0.6455
+        },
+        {
+          "latin": "marien",
+          "cosine": 0.6452
+        },
+        {
+          "latin": "embli",
+          "cosine": 0.6438
+        },
+        {
+          "latin": "cypro",
+          "cosine": 0.6191
+        },
+        {
+          "latin": "in",
+          "cosine": 0.6077
+        }
+      ]
+    },
+    "qokedy": {
+      "frequency": 275,
+      "neighbors": [
+        {
+          "latin": "infundatur",
+          "cosine": 0.6206
+        },
+        {
+          "latin": "vice",
+          "cosine": 0.6025
+        },
+        {
+          "latin": "ona",
+          "cosine": 0.5942
+        },
+        {
+          "latin": "nocte",
+          "cosine": 0.5922
+        },
+        {
+          "latin": "discurrit",
+          "cosine": 0.5737
+        }
+      ]
+    },
+    "qokaiin": {
+      "frequency": 265,
+      "neighbors": [
+        {
+          "latin": "sij",
+          "cosine": 0.5994
+        },
+        {
+          "latin": "stersionem",
+          "cosine": 0.5867
+        },
+        {
+          "latin": "itera",
+          "cosine": 0.5863
+        },
+        {
+          "latin": "diuie",
+          "cosine": 0.5813
+        },
+        {
+          "latin": "vivae",
+          "cosine": 0.5809
+        }
+      ]
+    },
+    "al": {
+      "frequency": 257,
+      "neighbors": [
+        {
+          "latin": "leg",
+          "cosine": 0.6611
+        },
+        {
+          "latin": "ona",
+          "cosine": 0.6548
+        },
+        {
+          "latin": "lx",
+          "cosine": 0.6425
+        },
+        {
+          "latin": "extincte",
+          "cosine": 0.6364
+        },
+        {
+          "latin": "xij",
+          "cosine": 0.616
+        }
+      ]
+    },
+    "dal": {
+      "frequency": 241,
+      "neighbors": [
+        {
+          "latin": "iudaica",
+          "cosine": 0.6363
+        },
+        {
+          "latin": "pina",
+          "cosine": 0.6048
+        },
+        {
+          "latin": "rur",
+          "cosine": 0.6031
+        },
+        {
+          "latin": "alza",
+          "cosine": 0.6018
+        },
+        {
+          "latin": "aga",
+          "cosine": 0.5988
+        }
+      ]
+    },
+    "okaiin": {
+      "frequency": 214,
+      "neighbors": [
+        {
+          "latin": "mirabilem",
+          "cosine": 0.6108
+        },
+        {
+          "latin": "trocisco",
+          "cosine": 0.6098
+        },
+        {
+          "latin": "proiciunt",
+          "cosine": 0.608
+        },
+        {
+          "latin": "acquisiuit",
+          "cosine": 0.595
+        },
+        {
+          "latin": "minerale",
+          "cosine": 0.5914
+        }
+      ]
+    },
+    "dain": {
+      "frequency": 214,
+      "neighbors": [
+        {
+          "latin": "kirtas",
+          "cosine": 0.6657
+        },
+        {
+          "latin": "stipticius",
+          "cosine": 0.644
+        },
+        {
+          "latin": "tubel",
+          "cosine": 0.6316
+        },
+        {
+          "latin": "genti",
+          "cosine": 0.6174
+        },
+        {
+          "latin": "anulus",
+          "cosine": 0.6113
+        }
+      ]
+    },
+    "chor": {
+      "frequency": 212,
+      "neighbors": [
+        {
+          "latin": "administratur",
+          "cosine": 0.7413
+        },
+        {
+          "latin": "resoluit",
+          "cosine": 0.6627
+        },
+        {
+          "latin": "mundificat",
+          "cosine": 0.6453
+        },
+        {
+          "latin": "sedat",
+          "cosine": 0.6452
+        },
+        {
+          "latin": "hal",
+          "cosine": 0.6445
+        }
+      ]
+    },
+    "qokal": {
+      "frequency": 195,
+      "neighbors": [
+        {
+          "latin": "instillentur",
+          "cosine": 0.566
+        },
+        {
+          "latin": "node",
+          "cosine": 0.541
+        },
+        {
+          "latin": "amygdala",
+          "cosine": 0.5284
+        },
+        {
+          "latin": "ovinum",
+          "cosine": 0.526
+        },
+        {
+          "latin": "carum",
+          "cosine": 0.5245
+        }
+      ]
+    },
+    "cheey": {
+      "frequency": 186,
+      "neighbors": [
+        {
+          "latin": "conuersionibus",
+          "cosine": 0.6906
+        },
+        {
+          "latin": "expandantur",
+          "cosine": 0.683
+        },
+        {
+          "latin": "deuita",
+          "cosine": 0.6715
+        },
+        {
+          "latin": "totiens",
+          "cosine": 0.6702
+        },
+        {
+          "latin": "pilo",
+          "cosine": 0.6658
+        }
+      ]
+    },
+    "shol": {
+      "frequency": 184,
+      "neighbors": [
+        {
+          "latin": "babi",
+          "cosine": 0.6431
+        },
+        {
+          "latin": "reos",
+          "cosine": 0.6415
+        },
+        {
+          "latin": "ebore",
+          "cosine": 0.6013
+        },
+        {
+          "latin": "cucumis",
+          "cosine": 0.5998
+        },
+        {
+          "latin": "iari",
+          "cosine": 0.5939
+        }
+      ]
+    },
+    "okeey": {
+      "frequency": 184,
+      "neighbors": [
+        {
+          "latin": "spi",
+          "cosine": 0.6186
+        },
+        {
+          "latin": "ratarum",
+          "cosine": 0.6122
+        },
+        {
+          "latin": "mollius",
+          "cosine": 0.6032
+        },
+        {
+          "latin": "laurini",
+          "cosine": 0.5804
+        },
+        {
+          "latin": "lithargyri",
+          "cosine": 0.5734
+        }
+      ]
+    },
+    "cheol": {
+      "frequency": 174,
+      "neighbors": [
+        {
+          "latin": "egypto",
+          "cosine": 0.6518
+        },
+        {
+          "latin": "aethiopiae",
+          "cosine": 0.649
+        },
+        {
+          "latin": "exi",
+          "cosine": 0.6457
+        },
+        {
+          "latin": "radica",
+          "cosine": 0.6307
+        },
+        {
+          "latin": "obuiat",
+          "cosine": 0.6295
+        }
+      ]
+    },
+    "chy": {
+      "frequency": 168,
+      "neighbors": [
+        {
+          "latin": "aldemest",
+          "cosine": 0.6412
+        },
+        {
+          "latin": "ilicis",
+          "cosine": 0.6089
+        },
+        {
+          "latin": "marien",
+          "cosine": 0.6043
+        },
+        {
+          "latin": "kameactis",
+          "cosine": 0.6003
+        },
+        {
+          "latin": "hal",
+          "cosine": 0.5979
+        }
+      ]
+    },
+    "qokar": {
+      "frequency": 159,
+      "neighbors": [
+        {
+          "latin": "gidis",
+          "cosine": 0.5884
+        },
+        {
+          "latin": "china",
+          "cosine": 0.5862
+        },
+        {
+          "latin": "sij",
+          "cosine": 0.5786
+        },
+        {
+          "latin": "node",
+          "cosine": 0.565
+        },
+        {
+          "latin": "iilara",
+          "cosine": 0.5637
+        }
+      ]
+    },
+    "otedy": {
+      "frequency": 156,
+      "neighbors": [
+        {
+          "latin": "liquefac",
+          "cosine": 0.5213
+        },
+        {
+          "latin": "expandantur",
+          "cosine": 0.5029
+        },
+        {
+          "latin": "extensis",
+          "cosine": 0.4933
+        },
+        {
+          "latin": "resolventur",
+          "cosine": 0.4729
+        },
+        {
+          "latin": "emi",
+          "cosine": 0.4727
+        }
+      ]
+    },
+    "otaiin": {
+      "frequency": 155,
+      "neighbors": [
+        {
+          "latin": "saltem",
+          "cosine": 0.616
+        },
+        {
+          "latin": "alio",
+          "cosine": 0.5824
+        },
+        {
+          "latin": "crescat",
+          "cosine": 0.5737
+        },
+        {
+          "latin": "attractiuis",
+          "cosine": 0.5615
+        },
+        {
+          "latin": "masticatum",
+          "cosine": 0.5556
+        }
+      ]
+    },
+    "sheey": {
+      "frequency": 149,
+      "neighbors": [
+        {
+          "latin": "mollificando",
+          "cosine": 0.6177
+        },
+        {
+          "latin": "lancolica",
+          "cosine": 0.6001
+        },
+        {
+          "latin": "lonis",
+          "cosine": 0.5823
+        },
+        {
+          "latin": "lida",
+          "cosine": 0.5759
+        },
+        {
+          "latin": "quin",
+          "cosine": 0.5738
+        }
+      ]
+    },
+    "okal": {
+      "frequency": 148,
+      "neighbors": [
+        {
+          "latin": "condias",
+          "cosine": 0.7056
+        },
+        {
+          "latin": "sacra",
+          "cosine": 0.6345
+        },
+        {
+          "latin": "psiliium",
+          "cosine": 0.6292
+        },
+        {
+          "latin": "ptisanum",
+          "cosine": 0.6245
+        },
+        {
+          "latin": "siropi",
+          "cosine": 0.6213
+        }
+      ]
+    },
+    "otar": {
+      "frequency": 147,
+      "neighbors": [
+        {
+          "latin": "der",
+          "cosine": 0.5884
+        },
+        {
+          "latin": "demonum",
+          "cosine": 0.5842
+        },
+        {
+          "latin": "entie",
+          "cosine": 0.5671
+        },
+        {
+          "latin": "intrare",
+          "cosine": 0.548
+        },
+        {
+          "latin": "pater",
+          "cosine": 0.5427
+        }
+      ]
+    },
+    "chdy": {
+      "frequency": 146,
+      "neighbors": [
+        {
+          "latin": "imbibatur",
+          "cosine": 0.5058
+        },
+        {
+          "latin": "vet",
+          "cosine": 0.4997
+        },
+        {
+          "latin": "aliud",
+          "cosine": 0.4995
+        },
+        {
+          "latin": "silique",
+          "cosine": 0.4994
+        },
+        {
+          "latin": "cannulam",
+          "cosine": 0.4965
+        }
+      ]
+    },
+    "qoky": {
+      "frequency": 146,
+      "neighbors": [
+        {
+          "latin": "liquarum",
+          "cosine": 0.6333
+        },
+        {
+          "latin": "catulus",
+          "cosine": 0.5942
+        },
+        {
+          "latin": "conuersioni",
+          "cosine": 0.5803
+        },
+        {
+          "latin": "congelari",
+          "cosine": 0.5705
+        },
+        {
+          "latin": "rato",
+          "cosine": 0.5645
+        }
+      ]
+    },
+    "oteey": {
+      "frequency": 142,
+      "neighbors": [
+        {
+          "latin": "botigua",
+          "cosine": 0.541
+        },
+        {
+          "latin": "spi",
+          "cosine": 0.51
+        },
+        {
+          "latin": "guratio",
+          "cosine": 0.477
+        },
+        {
+          "latin": "vil",
+          "cosine": 0.4729
+        },
+        {
+          "latin": "nium",
+          "cosine": 0.4703
+        }
+      ]
+    },
+    "qol": {
+      "frequency": 142,
+      "neighbors": [
+        {
+          "latin": "caprine",
+          "cosine": 0.5978
+        },
+        {
+          "latin": "disruptum",
+          "cosine": 0.5918
+        },
+        {
+          "latin": "albugini",
+          "cosine": 0.5894
+        },
+        {
+          "latin": "existentia",
+          "cosine": 0.5848
+        },
+        {
+          "latin": "adustorum",
+          "cosine": 0.5753
+        }
+      ]
+    },
+    "okain": {
+      "frequency": 140,
+      "neighbors": [
+        {
+          "latin": "preparatas",
+          "cosine": 0.6247
+        },
+        {
+          "latin": "sileris",
+          "cosine": 0.6164
+        },
+        {
+          "latin": "pinguem",
+          "cosine": 0.615
+        },
+        {
+          "latin": "stationem",
+          "cosine": 0.6078
+        },
+        {
+          "latin": "flatum",
+          "cosine": 0.5948
+        }
+      ]
+    },
+    "chckhy": {
+      "frequency": 139,
+      "neighbors": [
+        {
+          "latin": "nabac",
+          "cosine": 0.6108
+        },
+        {
+          "latin": "exhi",
+          "cosine": 0.5791
+        },
+        {
+          "latin": "alhasir",
+          "cosine": 0.577
+        },
+        {
+          "latin": "hebdomadis",
+          "cosine": 0.576
+        },
+        {
+          "latin": "causi",
+          "cosine": 0.5757
+        }
+      ]
+    },
+    "otal": {
+      "frequency": 136,
+      "neighbors": [
+        {
+          "latin": "mittatur",
+          "cosine": 0.5862
+        },
+        {
+          "latin": "citrinorura",
+          "cosine": 0.5856
+        },
+        {
+          "latin": "permittatur",
+          "cosine": 0.572
+        },
+        {
+          "latin": "vcl",
+          "cosine": 0.5713
+        },
+        {
+          "latin": "cessaverit",
+          "cosine": 0.5676
+        }
+      ]
+    },
+    "okar": {
+      "frequency": 135,
+      "neighbors": [
+        {
+          "latin": "itera",
+          "cosine": 0.5825
+        },
+        {
+          "latin": "commisceas",
+          "cosine": 0.5581
+        },
+        {
+          "latin": "prouocari",
+          "cosine": 0.557
+        },
+        {
+          "latin": "infrigidatam",
+          "cosine": 0.556
+        },
+        {
+          "latin": "absci",
+          "cosine": 0.5546
+        }
+      ]
+    },
+    "saiin": {
+      "frequency": 127,
+      "neighbors": [
+        {
+          "latin": "conuersioni",
+          "cosine": 0.6264
+        },
+        {
+          "latin": "dua",
+          "cosine": 0.6253
+        },
+        {
+          "latin": "philosophis",
+          "cosine": 0.602
+        },
+        {
+          "latin": "giditatis",
+          "cosine": 0.6014
+        },
+        {
+          "latin": "diuersificabitur",
+          "cosine": 0.5968
+        }
+      ]
+    },
+    "sho": {
+      "frequency": 125,
+      "neighbors": [
+        {
+          "latin": "nat",
+          "cosine": 0.6096
+        },
+        {
+          "latin": "insidet",
+          "cosine": 0.5933
+        },
+        {
+          "latin": "plin",
+          "cosine": 0.5766
+        },
+        {
+          "latin": "comeste",
+          "cosine": 0.5748
+        },
+        {
+          "latin": "tetigit",
+          "cosine": 0.5705
+        }
+      ]
+    },
+    "oty": {
+      "frequency": 116,
+      "neighbors": [
+        {
+          "latin": "petra",
+          "cosine": 0.5234
+        },
+        {
+          "latin": "tee",
+          "cosine": 0.5162
+        },
+        {
+          "latin": "brij",
+          "cosine": 0.5029
+        },
+        {
+          "latin": "cube",
+          "cosine": 0.4995
+        },
+        {
+          "latin": "rur",
+          "cosine": 0.4968
+        }
+      ]
+    },
+    "lchedy": {
+      "frequency": 116,
+      "neighbors": [
+        {
+          "latin": "contrahatur",
+          "cosine": 0.5876
+        },
+        {
+          "latin": "origine",
+          "cosine": 0.5664
+        },
+        {
+          "latin": "dislocetur",
+          "cosine": 0.5415
+        },
+        {
+          "latin": "laesione",
+          "cosine": 0.5387
+        },
+        {
+          "latin": "suatur",
+          "cosine": 0.53
+        }
+      ]
+    },
+    "ain": {
+      "frequency": 115,
+      "neighbors": [
+        {
+          "latin": "aloes",
+          "cosine": 0.5968
+        },
+        {
+          "latin": "dessiccat",
+          "cosine": 0.5891
+        },
+        {
+          "latin": "ferrugine",
+          "cosine": 0.5735
+        },
+        {
+          "latin": "lystere",
+          "cosine": 0.5732
+        },
+        {
+          "latin": "ovorum",
+          "cosine": 0.5661
+        }
+      ]
+    },
+    "okedy": {
+      "frequency": 115,
+      "neighbors": [
+        {
+          "latin": "montane",
+          "cosine": 0.5256
+        },
+        {
+          "latin": "aliud",
+          "cosine": 0.4851
+        },
+        {
+          "latin": "expandantur",
+          "cosine": 0.4851
+        },
+        {
+          "latin": "superposito",
+          "cosine": 0.477
+        },
+        {
+          "latin": "cumenti",
+          "cosine": 0.4736
+        }
+      ]
+    },
+    "dair": {
+      "frequency": 111,
+      "neighbors": [
+        {
+          "latin": "faciem",
+          "cosine": 0.5713
+        },
+        {
+          "latin": "radicem",
+          "cosine": 0.5336
+        },
+        {
+          "latin": "lineus",
+          "cosine": 0.5178
+        },
+        {
+          "latin": "hane",
+          "cosine": 0.5154
+        },
+        {
+          "latin": "mundificans",
+          "cosine": 0.5136
+        }
+      ]
+    },
+    "okeedy": {
+      "frequency": 110,
+      "neighbors": [
+        {
+          "latin": "sufficiet",
+          "cosine": 0.5908
+        },
+        {
+          "latin": "cipium",
+          "cosine": 0.5569
+        },
+        {
+          "latin": "prin",
+          "cosine": 0.5475
+        },
+        {
+          "latin": "ponito",
+          "cosine": 0.5392
+        },
+        {
+          "latin": "aurora",
+          "cosine": 0.5391
+        }
+      ]
+    }
+  }
+}

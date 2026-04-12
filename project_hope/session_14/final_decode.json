@@ -1,0 +1,58 @@
+{
+  "f48v": {
+    "plant": "Ruta",
+    "macer_ingredients": [
+      "I_acetum",
+      "I_aqua",
+      "I_mel",
+      "I_nitrum",
+      "I_oleum",
+      "I_piper",
+      "I_ruta",
+      "I_sal",
+      "I_succus",
+      "I_vinum"
+    ],
+    "kt_ratio": 0.41,
+    "galenic": "calida (hot)",
+    "latin_lines": [
+      "ruta(praep.) [dsh](genitif?) veronica(genitif?) (los) (aiin) [yke](genitif?) [sh](adjectif?) [ypch](genitif?) [t](genitif?) primula(instruct.) [yp](qualitas) IN (chedyty)",
+      "primula(adjectif?) [t](genitif?) [otcho](instruct.) mel(genitif?) [ot](accusatif?) [yot](genitif?) acetum(instruct.) (I) (chety) [choolk](unitatem)",
+      "[alch](adjectif?) [k](vocatif?) IN [keo](instruct.) [olk](unitatem) aquilegia(instruct.) primula(genitif?) (daly) [okee](vocatif?) (aiin) [ot](accusatif?) AIR (am)",
+      "[dch](genitif?) [tchd](instruct.) (otsh) [ok](unitatem) (ty) [ot](accusatif?) [alch](instruct.) [yt](genitif?) (oteed) IN [k](genitif?) MISCE",
+      "[lk](unitatem) [qocth](genitif?) (II) (shed) [qok](accusatif?) [ot](genitif?) (dy) (I) (I) [ot].FIN",
+      "[sh](instruct.) (I) [ok](accusatif?) [ot](accusatif?) cucumis (otees) verbena cucumis (ain) [ot](datif?) (ok) IN [t](accusatif?) primula(genitif?) (am)",
+      "lens(accusatif?) primula(adjectif?) [ypch](genitif?) [ot](genitif?) (shef) [e](genitif?) (al) [sh](genitif?) [ot](genitif?) [fcheod](datif?) (cpheeg)",
+      "[oteo](instruct.) [chk](adjectif?) [ok](genitif?) [chckh](genitif?) mel(genitif?) verbena(instruct.) (otoly) primula(adjectif?) (kaly) [tok](accusatif?) [ot].FIN",
+      "Recipe ruta [sho](instruct.) [ok](datif?) [otch](genitif?) (cheky) (oly) [lol](instruct.) [l](nominatif?) [otch](instruct.) [otol](instruct.) [yt].FIN [ot](genitif?)",
+      "Recipe ruta primula(genitif?) [yt](genitif?) mel(ablatif?) primula(instruct.) [chd](vocatif?) piper(nominatif?) primula(instruct.) [ytched](datif?) acetum(adjectif?) [ok](accusatif?) tanacetum (ary)",
+      "[ykeed](datif?) (chckhy) mel(datif?) IN [t].FIN cucumis (cheedls) (sary)"
+    ],
+    "stats": {
+      "total": 128,
+      "decoded": 40,
+      "partial": 61,
+      "unknown": 27
+    }
+  },
+  "f103r_B01": {
+    "latin_lines": [
+      "lens(datif?) [sh](instruct.) [ytechyp](praep.) [ot](adjectif?) [lsh](adjectif?) [qot](unitatem) [qot](datif?) [sh](genitif?) [yshd](datif?) (I) [ok](datif?) [dal](instruct.)",
+      "(I) (shek) [chcphh](instruct.) (daloky) [opch](genitif?) [pesh](nominatif?) (chep) tanacetum [ot](praep.) [s](datif?) [lk](unitatem) [s](accusatif?) (ain) (ok) primula(genitif?)",
+      "(I) (sheek) (cheoty) [eeok](datif?) primula(genitif?) (chckhy) cucumis cucumis(nominatif?) (II) [ee](datif?) (ot) [k](accusatif?) [ot](accusatif?) primula(datif?)",
+      "[ych](genitif?) [qok](genitif?) [ok](genitif?) [qok](unitatem) [ok](adjectif?) [chd](accusatif?) verbena (loty) (chedaraly)"
+    ],
+    "stats": {
+      "total": 50,
+      "decoded": 12,
+      "partial": 27,
+      "unknown": 11
+    }
+  },
+  "method": {
+    "logograms": 17,
+    "confirmed_words": 5,
+    "plant_names": 86,
+    "suffix_meanings": 19
+  }
+}

@@ -1,0 +1,3920 @@
+{
+  "n_short_vms": 42,
+  "n_matches": 68,
+  "top_matches": [
+    {
+      "vms_id": "f113r_B13",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "score": 0.778,
+      "n_pairs": 12,
+      "len_match_pct": 83,
+      "combined": 0.799,
+      "pairs": [
+        {
+          "vms_eva": "tshedy",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shedar",
+          "an_raw": "belliricorum",
+          "an_ref": "I_belliricum",
+          "vms_len": 6,
+          "an_len": 12,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sheocphy",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 8,
+          "an_len": 10,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okchdy",
+          "an_raw": "masticis",
+          "an_ref": "I_mastix",
+          "vms_len": 6,
+          "an_len": 8,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "pcheody",
+          "an_raw": "diagridii",
+          "an_ref": "I_diagridium",
+          "vms_len": 7,
+          "an_len": 9,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "opchear",
+          "an_raw": "asari",
+          "an_ref": "I_asarum",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "opchedy",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lfchedy",
+          "an_raw": "feniculi",
+          "an_ref": "I_feniculum",
+          "vms_len": 7,
+          "an_len": 8,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otal",
+          "an_raw": "absintii",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 8,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sheor",
+          "an_raw": "croci",
+          "an_ref": "I_crocus",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qoteey",
+          "an_raw": "castorei",
+          "an_ref": "I_castoreum",
+          "vms_len": 6,
+          "an_len": 8,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okchedy",
+          "an_raw": "-ö-iii",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        }
+      ],
+      "vms_n": 17,
+      "an_n": 18
+    },
+    {
+      "vms_id": "f108r_B08",
+      "an_id": "AN_098",
+      "an_name": "Recipe mirabolanorum citrinorum che",
+      "score": 0.765,
+      "n_pairs": 12,
+      "len_match_pct": 75,
+      "combined": 0.759,
+      "pairs": [
+        {
+          "vms_eva": "polchedy",
+          "an_raw": "mirabolanorum",
+          "an_ref": "I_mirabolanum",
+          "vms_len": 8,
+          "an_len": 13,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "okedy",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 5,
+          "an_len": 10,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qopchedy",
+          "an_raw": "dyagridii",
+          "an_ref": "",
+          "vms_len": 8,
+          "an_len": 9,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okeolkey",
+          "an_raw": "agarici",
+          "an_ref": "I_agaricum",
+          "vms_len": 8,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "teedy",
+          "an_raw": "spice",
+          "an_ref": "I_spica",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otedy",
+          "an_raw": "coloquintide",
+          "an_ref": "I_coloquintida",
+          "vms_len": 5,
+          "an_len": 12,
+          "len_diff": 7,
+          "len_match": false
+        },
+        {
+          "vms_eva": "okeedy",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otedam",
+          "an_raw": "epatici",
+          "an_ref": "M_hepatis",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ykeol",
+          "an_raw": "3,vii",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chedal",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chokedy",
+          "an_raw": "fumiterre",
+          "an_ref": "I_fumaria",
+          "vms_len": 7,
+          "an_len": 9,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokedy",
+          "an_raw": "ciceris",
+          "an_ref": "I_cicer",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        }
+      ],
+      "vms_n": 17,
+      "an_n": 17
+    },
+    {
+      "vms_id": "f115v_B04",
+      "an_id": "AN_097",
+      "an_name": "Recipe aloes absintii pulpe",
+      "score": 0.714,
+      "n_pairs": 9,
+      "len_match_pct": 77,
+      "combined": 0.737,
+      "pairs": [
+        {
+          "vms_eva": "tchdor",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shorail",
+          "an_raw": "absintii",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 8,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chkol",
+          "an_raw": "coloquintide",
+          "an_ref": "I_coloquintida",
+          "vms_len": 5,
+          "an_len": 12,
+          "len_diff": 7,
+          "len_match": false
+        },
+        {
+          "vms_eva": "chkchol",
+          "an_raw": "masticis",
+          "an_ref": "I_mastix",
+          "vms_len": 7,
+          "an_len": 8,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qotched",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qotchey",
+          "an_raw": "feniculi",
+          "an_ref": "I_feniculum",
+          "vms_len": 7,
+          "an_len": 8,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "dpchedy",
+          "an_raw": "absintii",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 8,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qtam",
+          "an_raw": "solatri",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 7,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "ysheed",
+          "an_raw": "pilulas",
+          "an_ref": "F_pilulae",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        }
+      ],
+      "vms_n": 13,
+      "an_n": 14
+    },
+    {
+      "vms_id": "f106r_B11",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.636,
+      "n_pairs": 14,
+      "len_match_pct": 85,
+      "combined": 0.722,
+      "pairs": [
+        {
+          "vms_eva": "poral",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 5,
+          "an_len": 9,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sho",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 3,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "keeody",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chckhy",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "olteeedy",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 8,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qopcher",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "al",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "karchy",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qotedary",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 8,
+          "an_len": 10,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ycheol",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheody",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chody",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 5,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ar",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 2,
+          "an_len": 9,
+          "len_diff": 7,
+          "len_match": false
+        },
+        {
+          "vms_eva": "akair",
+          "an_raw": "viris",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        }
+      ],
+      "vms_n": 19,
+      "an_n": 22
+    },
+    {
+      "vms_id": "f115v_B02",
+      "an_id": "AN_077",
+      "an_name": "Recipe olei dulcis uncias",
+      "score": 0.68,
+      "n_pairs": 15,
+      "len_match_pct": 73,
+      "combined": 0.7,
+      "pairs": [
+        {
+          "vms_eva": "pchody",
+          "an_raw": "olei",
+          "an_ref": "I_oleum",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chcphy",
+          "an_raw": "dulcis",
+          "an_ref": "Q_dulcis",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokor",
+          "an_raw": "florum",
+          "an_ref": "P_flos",
+          "vms_len": 5,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shed",
+          "an_raw": "camomille",
+          "an_ref": "I_camomilla",
+          "vms_len": 4,
+          "an_len": 9,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "oteody",
+          "an_raw": "iulii",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "al",
+          "an_raw": "flores",
+          "an_ref": "P_flos",
+          "vms_len": 2,
+          "an_len": 6,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "dchedy",
+          "an_raw": "oleo",
+          "an_ref": "I_oleum",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "tedy",
+          "an_raw": "communi",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 7,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qokeey",
+          "an_raw": "vase",
+          "an_ref": "T_vas",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "roiin",
+          "an_raw": "solem",
+          "an_ref": "T_sol",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shedy",
+          "an_raw": "de?i",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okor",
+          "an_raw": "lendegroei",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 10,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "cheoor",
+          "an_raw": "apie",
+          "an_ref": "I_apium",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "olkchedy",
+          "an_raw": "dampnotti",
+          "an_ref": "",
+          "vms_len": 8,
+          "an_len": 9,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chotam",
+          "an_raw": "sileris",
+          "an_ref": "I_siler",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        }
+      ],
+      "vms_n": 20,
+      "an_n": 25
+    },
+    {
+      "vms_id": "f105v_B07",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "score": 0.778,
+      "n_pairs": 12,
+      "len_match_pct": 58,
+      "combined": 0.699,
+      "pairs": [
+        {
+          "vms_eva": "odal",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 4,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "kl",
+          "an_raw": "belliricorum",
+          "an_ref": "I_belliricum",
+          "vms_len": 2,
+          "an_len": 12,
+          "len_diff": 10,
+          "len_match": false
+        },
+        {
+          "vms_eva": "chees",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 5,
+          "an_len": 10,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "aiiin",
+          "an_raw": "masticis",
+          "an_ref": "I_mastix",
+          "vms_len": 5,
+          "an_len": 8,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "shees",
+          "an_raw": "diagridii",
+          "an_ref": "I_diagridium",
+          "vms_len": 5,
+          "an_len": 9,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "chods",
+          "an_raw": "asari",
+          "an_ref": "I_asarum",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "alkeey",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "paradam",
+          "an_raw": "feniculi",
+          "an_ref": "I_feniculum",
+          "vms_len": 7,
+          "an_len": 8,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "alcheey",
+          "an_raw": "absintii",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 8,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otar",
+          "an_raw": "croci",
+          "an_ref": "I_crocus",
+          "vms_len": 4,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "oto",
+          "an_raw": "castorei",
+          "an_ref": "I_castoreum",
+          "vms_len": 3,
+          "an_len": 8,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "ckheol",
+          "an_raw": "-ö-iii",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        }
+      ],
+      "vms_n": 18,
+      "an_n": 18
+    },
+    {
+      "vms_id": "f113v_B11",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "score": 0.778,
+      "n_pairs": 12,
+      "len_match_pct": 58,
+      "combined": 0.699,
+      "pairs": [
+        {
+          "vms_eva": "ofaral",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okar",
+          "an_raw": "belliricorum",
+          "an_ref": "I_belliricum",
+          "vms_len": 4,
+          "an_len": 12,
+          "len_diff": 8,
+          "len_match": false
+        },
+        {
+          "vms_eva": "okeeedy",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 7,
+          "an_len": 10,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "tshedy",
+          "an_raw": "masticis",
+          "an_ref": "I_mastix",
+          "vms_len": 6,
+          "an_len": 8,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeedy",
+          "an_raw": "diagridii",
+          "an_ref": "I_diagridium",
+          "vms_len": 7,
+          "an_len": 9,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otchey",
+          "an_raw": "asari",
+          "an_ref": "I_asarum",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chedy",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "tsho",
+          "an_raw": "feniculi",
+          "an_ref": "I_feniculum",
+          "vms_len": 4,
+          "an_len": 8,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "lteam",
+          "an_raw": "absintii",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 8,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qol",
+          "an_raw": "croci",
+          "an_ref": "I_crocus",
+          "vms_len": 3,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "aiin",
+          "an_raw": "castorei",
+          "an_ref": "I_castoreum",
+          "vms_len": 4,
+          "an_len": 8,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "oteeey",
+          "an_raw": "-ö-iii",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        }
+      ],
+      "vms_n": 19,
+      "an_n": 18
+    },
+    {
+      "vms_id": "f103r_B12",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "score": 0.722,
+      "n_pairs": 12,
+      "len_match_pct": 66,
+      "combined": 0.697,
+      "pairs": [
+        {
+          "vms_eva": "qokecar",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chey",
+          "an_raw": "belliricorum",
+          "an_ref": "I_belliricum",
+          "vms_len": 4,
+          "an_len": 12,
+          "len_diff": 8,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sheol",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 5,
+          "an_len": 10,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qokeedy",
+          "an_raw": "masticis",
+          "an_ref": "I_mastix",
+          "vms_len": 7,
+          "an_len": 8,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ykeedy",
+          "an_raw": "diagridii",
+          "an_ref": "I_diagridium",
+          "vms_len": 6,
+          "an_len": 9,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "lcheg",
+          "an_raw": "asari",
+          "an_ref": "I_asarum",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okool",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chedy",
+          "an_raw": "feniculi",
+          "an_ref": "I_feniculum",
+          "vms_len": 5,
+          "an_len": 8,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "okeedy",
+          "an_raw": "absintii",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 8,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeedy",
+          "an_raw": "croci",
+          "an_ref": "I_crocus",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeey",
+          "an_raw": "castorei",
+          "an_ref": "I_castoreum",
+          "vms_len": 6,
+          "an_len": 8,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shdy",
+          "an_raw": "-ö-iii",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        }
+      ],
+      "vms_n": 18,
+      "an_n": 18
+    },
+    {
+      "vms_id": "f103r_B12",
+      "an_id": "AN_077",
+      "an_name": "Recipe olei dulcis uncias",
+      "score": 0.64,
+      "n_pairs": 14,
+      "len_match_pct": 78,
+      "combined": 0.696,
+      "pairs": [
+        {
+          "vms_eva": "qokecar",
+          "an_raw": "olei",
+          "an_ref": "I_oleum",
+          "vms_len": 7,
+          "an_len": 4,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "chey",
+          "an_raw": "dulcis",
+          "an_ref": "Q_dulcis",
+          "vms_len": 4,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheol",
+          "an_raw": "florum",
+          "an_ref": "P_flos",
+          "vms_len": 5,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeedy",
+          "an_raw": "camomille",
+          "an_ref": "I_camomilla",
+          "vms_len": 7,
+          "an_len": 9,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ykeedy",
+          "an_raw": "iulii",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lcheg",
+          "an_raw": "flores",
+          "an_ref": "P_flos",
+          "vms_len": 5,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okool",
+          "an_raw": "oleo",
+          "an_ref": "I_oleum",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chedy",
+          "an_raw": "communi",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okeedy",
+          "an_raw": "vase",
+          "an_ref": "T_vas",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeedy",
+          "an_raw": "solem",
+          "an_ref": "T_sol",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeey",
+          "an_raw": "de?i",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shdy",
+          "an_raw": "lendegroei",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 10,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "otey",
+          "an_raw": "apie",
+          "an_ref": "I_apium",
+          "vms_len": 4,
+          "an_len": 4,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeey",
+          "an_raw": "dampnotti",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 9,
+          "len_diff": 3,
+          "len_match": false
+        }
+      ],
+      "vms_n": 18,
+      "an_n": 25
+    },
+    {
+      "vms_id": "f104v_B11",
+      "an_id": "AN_098",
+      "an_name": "Recipe mirabolanorum citrinorum che",
+      "score": 0.824,
+      "n_pairs": 12,
+      "len_match_pct": 50,
+      "combined": 0.694,
+      "pairs": [
+        {
+          "vms_eva": "psheodar",
+          "an_raw": "mirabolanorum",
+          "an_ref": "I_mirabolanum",
+          "vms_len": 8,
+          "an_len": 13,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sheedy",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 6,
+          "an_len": 10,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qotchedar",
+          "an_raw": "dyagridii",
+          "an_ref": "",
+          "vms_len": 9,
+          "an_len": 9,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "oteedy",
+          "an_raw": "agarici",
+          "an_ref": "I_agaricum",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okaifhhy",
+          "an_raw": "spice",
+          "an_ref": "I_spica",
+          "vms_len": 8,
+          "an_len": 5,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sheody",
+          "an_raw": "coloquintide",
+          "an_ref": "I_coloquintida",
+          "vms_len": 6,
+          "an_len": 12,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qokedy",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "am",
+          "an_raw": "epatici",
+          "an_ref": "M_hepatis",
+          "vms_len": 2,
+          "an_len": 7,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sar",
+          "an_raw": "3,vii",
+          "an_ref": "",
+          "vms_len": 3,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "aiir",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 4,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheos",
+          "an_raw": "fumiterre",
+          "an_ref": "I_fumaria",
+          "vms_len": 5,
+          "an_len": 9,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qoiiin",
+          "an_raw": "ciceris",
+          "an_ref": "I_cicer",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        }
+      ],
+      "vms_n": 16,
+      "an_n": 17
+    },
+    {
+      "vms_id": "f108r_B08",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.636,
+      "n_pairs": 14,
+      "len_match_pct": 78,
+      "combined": 0.694,
+      "pairs": [
+        {
+          "vms_eva": "polchedy",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 8,
+          "an_len": 9,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okedy",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qopchedy",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 8,
+          "an_len": 5,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "okeolkey",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 8,
+          "an_len": 4,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "teedy",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otedy",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okeedy",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otedam",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ykeol",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 5,
+          "an_len": 10,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "chedal",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chokedy",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokedy",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okchedy",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 7,
+          "an_len": 9,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "alkan",
+          "an_raw": "viris",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        }
+      ],
+      "vms_n": 17,
+      "an_n": 22
+    },
+    {
+      "vms_id": "f103r_B12",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.636,
+      "n_pairs": 14,
+      "len_match_pct": 78,
+      "combined": 0.694,
+      "pairs": [
+        {
+          "vms_eva": "qokecar",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 7,
+          "an_len": 9,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chey",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 4,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheol",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeedy",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 7,
+          "an_len": 4,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "ykeedy",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lcheg",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okool",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chedy",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okeedy",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 6,
+          "an_len": 10,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qokeedy",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 7,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeey",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shdy",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 4,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otey",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 4,
+          "an_len": 9,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qokeey",
+          "an_raw": "viris",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        }
+      ],
+      "vms_n": 18,
+      "an_n": 22
+    },
+    {
+      "vms_id": "f106r_B03",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.636,
+      "n_pairs": 14,
+      "len_match_pct": 78,
+      "combined": 0.694,
+      "pairs": [
+        {
+          "vms_eva": "porarchy",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 8,
+          "an_len": 9,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "orar",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 4,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ol",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 2,
+          "an_len": 5,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "shedy",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "oteedy",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qotor",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qoteedo",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 4,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qoteedy",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "dair",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 4,
+          "an_len": 10,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "okchdaim",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 8,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ychor",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chol",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 4,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chocphol",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 8,
+          "an_len": 9,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lchedy",
+          "an_raw": "viris",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        }
+      ],
+      "vms_n": 18,
+      "an_n": 22
+    },
+    {
+      "vms_id": "f113r_B07",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.682,
+      "n_pairs": 14,
+      "len_match_pct": 71,
+      "combined": 0.693,
+      "pairs": [
+        {
+          "vms_eva": "qokeeoar",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 8,
+          "an_len": 9,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shoteol",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 4,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "lklcheol",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 8,
+          "an_len": 5,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qokar",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cphoithy",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 8,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chor",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 4,
+          "an_len": 7,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "aiin",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 4,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ckhydy",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "dar",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 3,
+          "an_len": 10,
+          "len_diff": 7,
+          "len_match": false
+        },
+        {
+          "vms_eva": "shol",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 4,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shedair",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otchdy",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shokchy",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 7,
+          "an_len": 9,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shckhey",
+          "an_raw": "viris",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        }
+      ],
+      "vms_n": 20,
+      "an_n": 22
+    },
+    {
+      "vms_id": "f104r_B10",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.727,
+      "n_pairs": 14,
+      "len_match_pct": 64,
+      "combined": 0.692,
+      "pairs": [
+        {
+          "vms_eva": "pchol",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 5,
+          "an_len": 9,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "ksheody",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 4,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qokeshedy",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 9,
+          "an_len": 5,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qokal",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chedy",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cheody",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokal",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cholxy",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "yshoiin",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 7,
+          "an_len": 10,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qocheol",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 7,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qodal",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chey",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 4,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chol",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 4,
+          "an_len": 9,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "cheol",
+          "an_raw": "viris",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        }
+      ],
+      "vms_n": 19,
+      "an_n": 22
+    },
+    {
+      "vms_id": "f106v_B03",
+      "an_id": "AN_098",
+      "an_name": "Recipe mirabolanorum citrinorum che",
+      "score": 0.765,
+      "n_pairs": 12,
+      "len_match_pct": 58,
+      "combined": 0.691,
+      "pairs": [
+        {
+          "vms_eva": "sholkair",
+          "an_raw": "mirabolanorum",
+          "an_ref": "I_mirabolanum",
+          "vms_len": 8,
+          "an_len": 13,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "orainkar",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 8,
+          "an_len": 10,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "aiin",
+          "an_raw": "dyagridii",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 9,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "shtchy",
+          "an_raw": "agarici",
+          "an_ref": "I_agaricum",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qopchdy",
+          "an_raw": "spice",
+          "an_ref": "I_spica",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qopchy",
+          "an_raw": "coloquintide",
+          "an_ref": "I_coloquintida",
+          "vms_len": 6,
+          "an_len": 12,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "lolkair",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shear",
+          "an_raw": "epatici",
+          "an_ref": "M_hepatis",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "am",
+          "an_raw": "3,vii",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 5,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "ysheody",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cheol",
+          "an_raw": "fumiterre",
+          "an_ref": "I_fumaria",
+          "vms_len": 5,
+          "an_len": 9,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "oteey",
+          "an_raw": "ciceris",
+          "an_ref": "I_cicer",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        }
+      ],
+      "vms_n": 17,
+      "an_n": 17
+    },
+    {
+      "vms_id": "f113v_B11",
+      "an_id": "AN_098",
+      "an_name": "Recipe mirabolanorum citrinorum che",
+      "score": 0.765,
+      "n_pairs": 12,
+      "len_match_pct": 58,
+      "combined": 0.691,
+      "pairs": [
+        {
+          "vms_eva": "ofaral",
+          "an_raw": "mirabolanorum",
+          "an_ref": "I_mirabolanum",
+          "vms_len": 6,
+          "an_len": 13,
+          "len_diff": 7,
+          "len_match": false
+        },
+        {
+          "vms_eva": "okar",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 4,
+          "an_len": 10,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "okeeedy",
+          "an_raw": "dyagridii",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 9,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "tshedy",
+          "an_raw": "agarici",
+          "an_ref": "I_agaricum",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeedy",
+          "an_raw": "spice",
+          "an_ref": "I_spica",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otchey",
+          "an_raw": "coloquintide",
+          "an_ref": "I_coloquintida",
+          "vms_len": 6,
+          "an_len": 12,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "chedy",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "tsho",
+          "an_raw": "epatici",
+          "an_ref": "M_hepatis",
+          "vms_len": 4,
+          "an_len": 7,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "lteam",
+          "an_raw": "3,vii",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qol",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 3,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "aiin",
+          "an_raw": "fumiterre",
+          "an_ref": "I_fumaria",
+          "vms_len": 4,
+          "an_len": 9,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "oteeey",
+          "an_raw": "ciceris",
+          "an_ref": "I_cicer",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        }
+      ],
+      "vms_n": 19,
+      "an_n": 17
+    },
+    {
+      "vms_id": "f113r_B13",
+      "an_id": "AN_098",
+      "an_name": "Recipe mirabolanorum citrinorum che",
+      "score": 0.706,
+      "n_pairs": 12,
+      "len_match_pct": 66,
+      "combined": 0.688,
+      "pairs": [
+        {
+          "vms_eva": "tshedy",
+          "an_raw": "mirabolanorum",
+          "an_ref": "I_mirabolanum",
+          "vms_len": 6,
+          "an_len": 13,
+          "len_diff": 7,
+          "len_match": false
+        },
+        {
+          "vms_eva": "shedar",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 6,
+          "an_len": 10,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sheocphy",
+          "an_raw": "dyagridii",
+          "an_ref": "",
+          "vms_len": 8,
+          "an_len": 9,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okchdy",
+          "an_raw": "agarici",
+          "an_ref": "I_agaricum",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "pcheody",
+          "an_raw": "spice",
+          "an_ref": "I_spica",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "opchear",
+          "an_raw": "coloquintide",
+          "an_ref": "I_coloquintida",
+          "vms_len": 7,
+          "an_len": 12,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "opchedy",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lfchedy",
+          "an_raw": "epatici",
+          "an_ref": "M_hepatis",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otal",
+          "an_raw": "3,vii",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheor",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qoteey",
+          "an_raw": "fumiterre",
+          "an_ref": "I_fumaria",
+          "vms_len": 6,
+          "an_len": 9,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "okchedy",
+          "an_raw": "ciceris",
+          "an_ref": "I_cicer",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        }
+      ],
+      "vms_n": 17,
+      "an_n": 17
+    },
+    {
+      "vms_id": "f104v_B11",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.682,
+      "n_pairs": 13,
+      "len_match_pct": 69,
+      "combined": 0.685,
+      "pairs": [
+        {
+          "vms_eva": "psheodar",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 8,
+          "an_len": 9,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheedy",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qotchedar",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 9,
+          "an_len": 5,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "oteedy",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okaifhhy",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 8,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheody",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokedy",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "am",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 2,
+          "an_len": 7,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sar",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 3,
+          "an_len": 10,
+          "len_diff": 7,
+          "len_match": false
+        },
+        {
+          "vms_eva": "aiir",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 4,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheos",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qoiiin",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okeedy",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 6,
+          "an_len": 9,
+          "len_diff": 3,
+          "len_match": false
+        }
+      ],
+      "vms_n": 16,
+      "an_n": 22
+    },
+    {
+      "vms_id": "f113r_B09",
+      "an_id": "AN_077",
+      "an_name": "Recipe olei dulcis uncias",
+      "score": 0.68,
+      "n_pairs": 16,
+      "len_match_pct": 68,
+      "combined": 0.68,
+      "pairs": [
+        {
+          "vms_eva": "pchedair",
+          "an_raw": "olei",
+          "an_ref": "I_oleum",
+          "vms_len": 8,
+          "an_len": 4,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "shotedy",
+          "an_raw": "dulcis",
+          "an_ref": "Q_dulcis",
+          "vms_len": 7,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qopchody",
+          "an_raw": "florum",
+          "an_ref": "P_flos",
+          "vms_len": 8,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chfchol",
+          "an_raw": "camomille",
+          "an_ref": "I_camomilla",
+          "vms_len": 7,
+          "an_len": 9,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chpchshdy",
+          "an_raw": "iulii",
+          "an_ref": "",
+          "vms_len": 9,
+          "an_len": 5,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "rair",
+          "an_raw": "flores",
+          "an_ref": "P_flos",
+          "vms_len": 4,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shedy",
+          "an_raw": "oleo",
+          "an_ref": "I_oleum",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokchey",
+          "an_raw": "communi",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sairy",
+          "an_raw": "vase",
+          "an_ref": "T_vas",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "tol",
+          "an_raw": "solem",
+          "an_ref": "T_sol",
+          "vms_len": 3,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cheshy",
+          "an_raw": "de?i",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lkchedy",
+          "an_raw": "lendegroei",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 10,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "lchod",
+          "an_raw": "apie",
+          "an_ref": "I_apium",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chal",
+          "an_raw": "dampnotti",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 9,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "char",
+          "an_raw": "sileris",
+          "an_ref": "I_siler",
+          "vms_len": 4,
+          "an_len": 7,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "lkeeody",
+          "an_raw": "viride",
+          "an_ref": "Q_viridis",
+          "vms_len": 7,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        }
+      ],
+      "vms_n": 20,
+      "an_n": 25
+    },
+    {
+      "vms_id": "f104r_B10",
+      "an_id": "AN_077",
+      "an_name": "Recipe olei dulcis uncias",
+      "score": 0.68,
+      "n_pairs": 15,
+      "len_match_pct": 66,
+      "combined": 0.672,
+      "pairs": [
+        {
+          "vms_eva": "pchol",
+          "an_raw": "olei",
+          "an_ref": "I_oleum",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ksheody",
+          "an_raw": "dulcis",
+          "an_ref": "Q_dulcis",
+          "vms_len": 7,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeshedy",
+          "an_raw": "florum",
+          "an_ref": "P_flos",
+          "vms_len": 9,
+          "an_len": 6,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qokal",
+          "an_raw": "camomille",
+          "an_ref": "I_camomilla",
+          "vms_len": 5,
+          "an_len": 9,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "chedy",
+          "an_raw": "iulii",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cheody",
+          "an_raw": "flores",
+          "an_ref": "P_flos",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokal",
+          "an_raw": "oleo",
+          "an_ref": "I_oleum",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cholxy",
+          "an_raw": "communi",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "yshoiin",
+          "an_raw": "vase",
+          "an_ref": "T_vas",
+          "vms_len": 7,
+          "an_len": 4,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qocheol",
+          "an_raw": "solem",
+          "an_ref": "T_sol",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qodal",
+          "an_raw": "de?i",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chey",
+          "an_raw": "lendegroei",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 10,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "chol",
+          "an_raw": "apie",
+          "an_ref": "I_apium",
+          "vms_len": 4,
+          "an_len": 4,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cheol",
+          "an_raw": "dampnotti",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 9,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "olaly",
+          "an_raw": "sileris",
+          "an_ref": "I_siler",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        }
+      ],
+      "vms_n": 19,
+      "an_n": 25
+    },
+    {
+      "vms_id": "f113r_B13",
+      "an_id": "AN_077",
+      "an_name": "Recipe olei dulcis uncias",
+      "score": 0.64,
+      "n_pairs": 14,
+      "len_match_pct": 71,
+      "combined": 0.668,
+      "pairs": [
+        {
+          "vms_eva": "tshedy",
+          "an_raw": "olei",
+          "an_ref": "I_oleum",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shedar",
+          "an_raw": "dulcis",
+          "an_ref": "Q_dulcis",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheocphy",
+          "an_raw": "florum",
+          "an_ref": "P_flos",
+          "vms_len": 8,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okchdy",
+          "an_raw": "camomille",
+          "an_ref": "I_camomilla",
+          "vms_len": 6,
+          "an_len": 9,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "pcheody",
+          "an_raw": "iulii",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "opchear",
+          "an_raw": "flores",
+          "an_ref": "P_flos",
+          "vms_len": 7,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "opchedy",
+          "an_raw": "oleo",
+          "an_ref": "I_oleum",
+          "vms_len": 7,
+          "an_len": 4,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "lfchedy",
+          "an_raw": "communi",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otal",
+          "an_raw": "vase",
+          "an_ref": "T_vas",
+          "vms_len": 4,
+          "an_len": 4,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheor",
+          "an_raw": "solem",
+          "an_ref": "T_sol",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qoteey",
+          "an_raw": "de?i",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okchedy",
+          "an_raw": "lendegroei",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 10,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sheos",
+          "an_raw": "apie",
+          "an_ref": "I_apium",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "aiin",
+          "an_raw": "dampnotti",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 9,
+          "len_diff": 5,
+          "len_match": false
+        }
+      ],
+      "vms_n": 17,
+      "an_n": 25
+    },
+    {
+      "vms_id": "f107v_B07",
+      "an_id": "AN_096",
+      "an_name": "Recipe aloes",
+      "score": 0.611,
+      "n_pairs": 8,
+      "len_match_pct": 75,
+      "combined": 0.667,
+      "pairs": [
+        {
+          "vms_eva": "palchar",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ar",
+          "an_raw": "masticis",
+          "an_ref": "I_mastix",
+          "vms_len": 2,
+          "an_len": 8,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "akaiiky",
+          "an_raw": "elacterii",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 9,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "char",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 4,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "raikchy",
+          "an_raw": "siccidis",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 8,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "opalkar",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otal",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 4,
+          "an_len": 7,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "otar",
+          "an_raw": "maci",
+          "an_ref": "I_macis",
+          "vms_len": 4,
+          "an_len": 4,
+          "len_diff": 0,
+          "len_match": true
+        }
+      ],
+      "vms_n": 15,
+      "an_n": 18
+    },
+    {
+      "vms_id": "f106v_B03",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.636,
+      "n_pairs": 14,
+      "len_match_pct": 71,
+      "combined": 0.666,
+      "pairs": [
+        {
+          "vms_eva": "sholkair",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 8,
+          "an_len": 9,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "orainkar",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 8,
+          "an_len": 4,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "aiin",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 4,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shtchy",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qopchdy",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qopchy",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lolkair",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 4,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "shear",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "am",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 2,
+          "an_len": 10,
+          "len_diff": 8,
+          "len_match": false
+        },
+        {
+          "vms_eva": "ysheody",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 7,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cheol",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "oteey",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 5,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ychdy",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 5,
+          "an_len": 9,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "oltydy",
+          "an_raw": "viris",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        }
+      ],
+      "vms_n": 17,
+      "an_n": 22
+    },
+    {
+      "vms_id": "f106v_B09",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.636,
+      "n_pairs": 14,
+      "len_match_pct": 71,
+      "combined": 0.666,
+      "pairs": [
+        {
+          "vms_eva": "tar",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 3,
+          "an_len": 9,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "okal",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 4,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chdy",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 4,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lchedy",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "kshar",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chopchy",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otches",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "aral",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 4,
+          "an_len": 7,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "opchdy",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 6,
+          "an_len": 10,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "olcheo",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheotal",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shoor",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 5,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeey",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 6,
+          "an_len": 9,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "oarar",
+          "an_raw": "viris",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        }
+      ],
+      "vms_n": 17,
+      "an_n": 22
+    },
+    {
+      "vms_id": "f106v_B06",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.636,
+      "n_pairs": 14,
+      "len_match_pct": 71,
+      "combined": 0.666,
+      "pairs": [
+        {
+          "vms_eva": "pshodalos",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 9,
+          "an_len": 9,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokshdy",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 4,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qokshy",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "opchdy",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokshd",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ar",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 2,
+          "an_len": 7,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "shdar",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "oeedy",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qotaly",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 6,
+          "an_len": 10,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "dairy",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 5,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "darshy",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "otal",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 4,
+          "an_len": 6,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chedy",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 5,
+          "an_len": 9,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "ain",
+          "an_raw": "viris",
+          "an_ref": "",
+          "vms_len": 3,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        }
+      ],
+      "vms_n": 19,
+      "an_n": 22
+    },
+    {
+      "vms_id": "f104v_B11",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "score": 0.722,
+      "n_pairs": 12,
+      "len_match_pct": 58,
+      "combined": 0.665,
+      "pairs": [
+        {
+          "vms_eva": "psheodar",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 8,
+          "an_len": 5,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sheedy",
+          "an_raw": "belliricorum",
+          "an_ref": "I_belliricum",
+          "vms_len": 6,
+          "an_len": 12,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qotchedar",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 9,
+          "an_len": 10,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "oteedy",
+          "an_raw": "masticis",
+          "an_ref": "I_mastix",
+          "vms_len": 6,
+          "an_len": 8,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okaifhhy",
+          "an_raw": "diagridii",
+          "an_ref": "I_diagridium",
+          "vms_len": 8,
+          "an_len": 9,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheody",
+          "an_raw": "asari",
+          "an_ref": "I_asarum",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokedy",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "am",
+          "an_raw": "feniculi",
+          "an_ref": "I_feniculum",
+          "vms_len": 2,
+          "an_len": 8,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sar",
+          "an_raw": "absintii",
+          "an_ref": "",
+          "vms_len": 3,
+          "an_len": 8,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "aiir",
+          "an_raw": "croci",
+          "an_ref": "I_crocus",
+          "vms_len": 4,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheos",
+          "an_raw": "castorei",
+          "an_ref": "I_castoreum",
+          "vms_len": 5,
+          "an_len": 8,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qoiiin",
+          "an_raw": "-ö-iii",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        }
+      ],
+      "vms_n": 16,
+      "an_n": 18
+    },
+    {
+      "vms_id": "f106v_B07",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "score": 0.722,
+      "n_pairs": 12,
+      "len_match_pct": 58,
+      "combined": 0.665,
+      "pairs": [
+        {
+          "vms_eva": "polchs",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lkaiir",
+          "an_raw": "belliricorum",
+          "an_ref": "I_belliricum",
+          "vms_len": 6,
+          "an_len": 12,
+          "len_diff": 6,
+          "len_match": false
+        },
+        {
+          "vms_eva": "shokar",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 6,
+          "an_len": 10,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "choefy",
+          "an_raw": "masticis",
+          "an_ref": "I_mastix",
+          "vms_len": 6,
+          "an_len": 8,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shor",
+          "an_raw": "diagridii",
+          "an_ref": "I_diagridium",
+          "vms_len": 4,
+          "an_len": 9,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "qokor",
+          "an_raw": "asari",
+          "an_ref": "I_asarum",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheeo",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 5,
+          "an_len": 5,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "kolches",
+          "an_raw": "feniculi",
+          "an_ref": "I_feniculum",
+          "vms_len": 7,
+          "an_len": 8,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "ycheo",
+          "an_raw": "absintii",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 8,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "cheo",
+          "an_raw": "croci",
+          "an_ref": "I_crocus",
+          "vms_len": 4,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "okal",
+          "an_raw": "castorei",
+          "an_ref": "I_castoreum",
+          "vms_len": 4,
+          "an_len": 8,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "sheedy",
+          "an_raw": "-ö-iii",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        }
+      ],
+      "vms_n": 17,
+      "an_n": 18
+    },
+    {
+      "vms_id": "f107v_B11",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.682,
+      "n_pairs": 14,
+      "len_match_pct": 64,
+      "combined": 0.665,
+      "pairs": [
+        {
+          "vms_eva": "polchedy",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 8,
+          "an_len": 9,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "olkeey",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lkey",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 4,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chcthy",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 6,
+          "an_len": 4,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lkar",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 4,
+          "an_len": 7,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "shedy",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "chedy",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 4,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qokeedy",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "lol",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 3,
+          "an_len": 10,
+          "len_diff": 7,
+          "len_match": false
+        },
+        {
+          "vms_eva": "tol",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 3,
+          "an_len": 6,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "chey",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 4,
+          "an_len": 7,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "lcheor",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 6,
+          "an_len": 6,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "sheol",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 5,
+          "an_len": 9,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "olkeedy",
+          "an_raw": "viris",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 5,
+          "len_diff": 2,
+          "len_match": true
+        }
+      ],
+      "vms_n": 20,
+      "an_n": 22
+    },
+    {
+      "vms_id": "f114v_B02",
+      "an_id": "AN_094",
+      "an_name": "Recipe cinnamomi bari ad",
+      "score": 0.682,
+      "n_pairs": 14,
+      "len_match_pct": 64,
+      "combined": 0.665,
+      "pairs": [
+        {
+          "vms_eva": "tedcheo",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 7,
+          "an_len": 9,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cheo",
+          "an_raw": "bari",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 4,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cthedy",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qotchedy",
+          "an_raw": "vino",
+          "an_ref": "I_vinum",
+          "vms_len": 8,
+          "an_len": 4,
+          "len_diff": 4,
+          "len_match": false
+        },
+        {
+          "vms_eva": "opchedy",
+          "an_raw": "dolorem",
+          "an_ref": "M_dolor",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "shedy",
+          "an_raw": "capitis",
+          "an_ref": "M_capitis",
+          "vms_len": 5,
+          "an_len": 7,
+          "len_diff": 2,
+          "len_match": true
+        },
+        {
+          "vms_eva": "qepoepy",
+          "an_raw": "etsi",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 4,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "chedar",
+          "an_raw": "humores",
+          "an_ref": "Q_humidus",
+          "vms_len": 6,
+          "an_len": 7,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "dairy",
+          "an_raw": "emigraneam",
+          "an_ref": "M_emigranea",
+          "vms_len": 5,
+          "an_len": 10,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "ytedshedy",
+          "an_raw": "oculos",
+          "an_ref": "M_morbus_oculorum",
+          "vms_len": 9,
+          "an_len": 6,
+          "len_diff": 3,
+          "len_match": false
+        },
+        {
+          "vms_eva": "cheedar",
+          "an_raw": "splenem",
+          "an_ref": "M_splen",
+          "vms_len": 7,
+          "an_len": 7,
+          "len_diff": 0,
+          "len_match": true
+        },
+        {
+          "vms_eva": "cheey",
+          "an_raw": "aurium",
+          "an_ref": "I_aurum",
+          "vms_len": 5,
+          "an_len": 6,
+          "len_diff": 1,
+          "len_match": true
+        },
+        {
+          "vms_eva": "aiin",
+          "an_raw": "humoribus",
+          "an_ref": "Q_humidus",
+          "vms_len": 4,
+          "an_len": 9,
+          "len_diff": 5,
+          "len_match": false
+        },
+        {
+          "vms_eva": "chedky",
+          "an_raw": "viris",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 5,
+          "len_diff": 1,
+          "len_match": true
+        }
+      ],
+      "vms_n": 20,
+      "an_n": 22
+    }
+  ],
+  "convergent": [
+    {
+      "eva": "shedy",
+      "latin": "capitis",
+      "count": 2,
+      "total": 5
+    },
+    {
+      "eva": "polchedy",
+      "latin": "cinnamomi",
+      "count": 2,
+      "total": 2
+    }
+  ]
+}

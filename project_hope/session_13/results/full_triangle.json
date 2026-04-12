@@ -1,0 +1,245 @@
+{
+  "anchors": {
+    "f9v": "Viola",
+    "f29r": "Lactuca",
+    "f44v": "Apium",
+    "f48v": "Ruta",
+    "f51v": "Salvia",
+    "f95v1": "Althaea"
+  },
+  "all_mappings": [
+    {
+      "root": "cht",
+      "best_ingr": "I_plantaginis",
+      "agreement": 0.5,
+      "best_count": 2,
+      "total_evidence": 4,
+      "n_candidates": 3,
+      "all_candidates": {
+        "I_plantaginis": 2,
+        "I_succus": 1,
+        "I_vinum": 1
+      },
+      "global_freq": 36
+    },
+    {
+      "root": "tchd",
+      "best_ingr": "I_plantaginis",
+      "agreement": 0.5,
+      "best_count": 2,
+      "total_evidence": 4,
+      "n_candidates": 3,
+      "all_candidates": {
+        "I_plantaginis": 2,
+        "I_succus": 1,
+        "I_vinum": 1
+      },
+      "global_freq": 6
+    },
+    {
+      "root": "sheos",
+      "best_ingr": "I_succus",
+      "agreement": 0.5,
+      "best_count": 1,
+      "total_evidence": 2,
+      "n_candidates": 2,
+      "all_candidates": {
+        "I_succus": 1,
+        "I_vinum": 1
+      },
+      "global_freq": 14
+    },
+    {
+      "root": "shcthy",
+      "best_ingr": "I_succus",
+      "agreement": 0.5,
+      "best_count": 1,
+      "total_evidence": 2,
+      "n_candidates": 2,
+      "all_candidates": {
+        "I_succus": 1,
+        "I_vinum": 1
+      },
+      "global_freq": 32
+    },
+    {
+      "root": "yp",
+      "best_ingr": "I_allium",
+      "agreement": 0.33,
+      "best_count": 2,
+      "total_evidence": 6,
+      "n_candidates": 5,
+      "all_candidates": {
+        "I_allium": 2,
+        "I_acetum": 1,
+        "I_mel": 1,
+        "I_vinum": 1,
+        "I_succus": 1
+      },
+      "global_freq": 17
+    },
+    {
+      "root": "ypch",
+      "best_ingr": "I_allium",
+      "agreement": 0.33,
+      "best_count": 2,
+      "total_evidence": 6,
+      "n_candidates": 5,
+      "all_candidates": {
+        "I_allium": 2,
+        "I_acetum": 1,
+        "I_mel": 1,
+        "I_vinum": 1,
+        "I_succus": 1
+      },
+      "global_freq": 34
+    },
+    {
+      "root": "opy",
+      "best_ingr": "I_succus",
+      "agreement": 0.25,
+      "best_count": 1,
+      "total_evidence": 4,
+      "n_candidates": 4,
+      "all_candidates": {
+        "I_succus": 1,
+        "I_vesica": 1,
+        "I_acetum": 1,
+        "I_vinum": 1
+      },
+      "global_freq": 10
+    },
+    {
+      "root": "ckhy",
+      "best_ingr": "I_succus",
+      "agreement": 0.25,
+      "best_count": 1,
+      "total_evidence": 4,
+      "n_candidates": 4,
+      "all_candidates": {
+        "I_succus": 1,
+        "I_vesica": 1,
+        "I_acetum": 1,
+        "I_vinum": 1
+      },
+      "global_freq": 38
+    },
+    {
+      "root": "otol",
+      "best_ingr": "I_succus",
+      "agreement": 0.25,
+      "best_count": 1,
+      "total_evidence": 4,
+      "n_candidates": 4,
+      "all_candidates": {
+        "I_succus": 1,
+        "I_acetum": 1,
+        "I_aqua": 1,
+        "I_vinum": 1
+      },
+      "global_freq": 17
+    },
+    {
+      "root": "daly",
+      "best_ingr": "I_succus",
+      "agreement": 0.23,
+      "best_count": 3,
+      "total_evidence": 13,
+      "n_candidates": 7,
+      "all_candidates": {
+        "I_succus": 3,
+        "I_vesica": 1,
+        "I_acetum": 3,
+        "I_vinum": 3,
+        "I_allium": 1,
+        "I_mel": 1,
+        "I_aqua": 1
+      },
+      "global_freq": 30
+    },
+    {
+      "root": "ty",
+      "best_ingr": "I_sal",
+      "agreement": 0.22,
+      "best_count": 2,
+      "total_evidence": 9,
+      "n_candidates": 7,
+      "all_candidates": {
+        "I_sal": 2,
+        "I_species": 2,
+        "I_acetum": 1,
+        "I_mel": 1,
+        "I_aqua": 1,
+        "I_vinum": 1,
+        "I_succus": 1
+      },
+      "global_freq": 23
+    },
+    {
+      "root": "choky",
+      "best_ingr": "I_vesica",
+      "agreement": 0.17,
+      "best_count": 1,
+      "total_evidence": 6,
+      "n_candidates": 6,
+      "all_candidates": {
+        "I_vesica": 1,
+        "I_acetum": 1,
+        "I_aqua": 1,
+        "I_vinum": 1,
+        "I_sanguis": 1,
+        "I_succus": 1
+      },
+      "global_freq": 40
+    },
+    {
+      "root": "cheod",
+      "best_ingr": "I_nux",
+      "agreement": 0.15,
+      "best_count": 2,
+      "total_evidence": 13,
+      "n_candidates": 8,
+      "all_candidates": {
+        "I_nux": 2,
+        "I_opium": 2,
+        "I_opopanax": 2,
+        "I_cassia_fistula": 2,
+        "I_mentha": 2,
+        "I_mel": 1,
+        "I_sanguis": 1,
+        "I_urtica": 1
+      },
+      "global_freq": 46
+    }
+  ],
+  "strong_mappings": [
+    {
+      "root": "cht",
+      "best_ingr": "I_plantaginis",
+      "agreement": 0.5,
+      "best_count": 2,
+      "total_evidence": 4,
+      "n_candidates": 3,
+      "all_candidates": {
+        "I_plantaginis": 2,
+        "I_succus": 1,
+        "I_vinum": 1
+      },
+      "global_freq": 36
+    },
+    {
+      "root": "tchd",
+      "best_ingr": "I_plantaginis",
+      "agreement": 0.5,
+      "best_count": 2,
+      "total_evidence": 4,
+      "n_candidates": 3,
+      "all_candidates": {
+        "I_plantaginis": 2,
+        "I_succus": 1,
+        "I_vinum": 1
+      },
+      "global_freq": 6
+    }
+  ]
+}

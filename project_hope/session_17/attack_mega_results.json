@@ -1,0 +1,1445 @@
+{
+  "total_pairs": 10868,
+  "validation_top1": 1,
+  "validation_top5": 3,
+  "validation_tested": 11,
+  "validation_details": [
+    {
+      "fid": "f48v",
+      "true": "Ruta",
+      "predicted": "Ruta",
+      "status": "✓ TOP1",
+      "score": 56.1,
+      "margin": 17.33
+    },
+    {
+      "fid": "f41r",
+      "true": "Origanum",
+      "predicted": "Ruta",
+      "status": "✗",
+      "score": 33.38,
+      "margin": 10.45
+    },
+    {
+      "fid": "f9v",
+      "true": "Violae",
+      "predicted": "Ruta",
+      "status": "✗",
+      "score": 33.05,
+      "margin": 11.01
+    },
+    {
+      "fid": "f37r",
+      "true": "Mentha",
+      "predicted": "Ruta",
+      "status": "✗",
+      "score": 22.26,
+      "margin": 0.46
+    },
+    {
+      "fid": "f3v",
+      "true": "Elleborus",
+      "predicted": "Costus",
+      "status": "✗",
+      "score": 20.66,
+      "margin": 11.18
+    },
+    {
+      "fid": "f22r",
+      "true": "Verbena",
+      "predicted": "Mentha",
+      "status": "~ TOP3",
+      "score": 11.49,
+      "margin": 0.03
+    },
+    {
+      "fid": "f45r",
+      "true": "Atriplex",
+      "predicted": "Ruta",
+      "status": "✗",
+      "score": 11.47,
+      "margin": 0.33
+    },
+    {
+      "fid": "f41v",
+      "true": "Coriandrum",
+      "predicted": "Ruta",
+      "status": "✗",
+      "score": 11.45,
+      "margin": 0.33
+    },
+    {
+      "fid": "f95v1",
+      "true": "Althaea",
+      "predicted": "Urtica",
+      "status": "✗",
+      "score": 11.18,
+      "margin": 0.33
+    },
+    {
+      "fid": "f87r",
+      "true": "Satureia",
+      "predicted": "Ruta",
+      "status": "✗",
+      "score": 11.17,
+      "margin": 0.33
+    },
+    {
+      "fid": "f28r",
+      "true": "Aristolochia",
+      "predicted": "Betonica",
+      "status": "~ TOP3",
+      "score": 9.1,
+      "margin": 0.25
+    }
+  ],
+  "new_identifications": [
+    {
+      "fid": "f43v",
+      "chapter": "Ruta",
+      "score": 40.82,
+      "margin": 12.55,
+      "shared": [
+        "aqua",
+        "nitrum",
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          40.82,
+          4
+        ],
+        [
+          "Absinthium",
+          28.27,
+          3
+        ],
+        [
+          "Plantago",
+          16.48,
+          2
+        ],
+        [
+          "Aristolochia",
+          16.08,
+          2
+        ],
+        [
+          "Papaver",
+          15.9,
+          2
+        ]
+      ]
+    },
+    {
+      "fid": "f2r",
+      "chapter": "Ruta",
+      "score": 33.4,
+      "margin": 13.67,
+      "shared": [
+        "aqua",
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          33.4,
+          3
+        ],
+        [
+          "Caulis",
+          19.73,
+          2
+        ],
+        [
+          "Aristolochia",
+          19.22,
+          2
+        ],
+        [
+          "Absinthium",
+          19.19,
+          2
+        ],
+        [
+          "Violae",
+          19.19,
+          2
+        ]
+      ]
+    },
+    {
+      "fid": "f48r",
+      "chapter": "Ruta",
+      "score": 31.13,
+      "margin": 11.05,
+      "shared": [
+        "aqua",
+        "nitrum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          31.13,
+          3
+        ],
+        [
+          "Absinthium",
+          20.08,
+          2
+        ],
+        [
+          "Piper",
+          19.45,
+          2
+        ],
+        [
+          "Aristolochia",
+          19.11,
+          2
+        ],
+        [
+          "Gingiber",
+          7.49,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f30r",
+      "chapter": "Ruta",
+      "score": 24.34,
+      "margin": 2.2,
+      "shared": [
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          24.34,
+          2
+        ],
+        [
+          "Absinthium",
+          22.14,
+          2
+        ],
+        [
+          "Urtica",
+          22.14,
+          2
+        ],
+        [
+          "Chamomilla",
+          10.22,
+          1
+        ],
+        [
+          "Althaea",
+          10.14,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f26v",
+      "chapter": "Ruta",
+      "score": 24.1,
+      "margin": 1.12,
+      "shared": [
+        "aqua",
+        "oleum"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          24.1,
+          2
+        ],
+        [
+          "Violae",
+          22.98,
+          2
+        ],
+        [
+          "Caulis",
+          22.52,
+          2
+        ],
+        [
+          "Chamaedrys",
+          22.41,
+          2
+        ],
+        [
+          "Cepa",
+          21.43,
+          2
+        ]
+      ]
+    },
+    {
+      "fid": "f101r",
+      "chapter": "Papaver",
+      "score": 23.79,
+      "margin": 0.81,
+      "shared": [
+        "aqua",
+        "oleum"
+      ],
+      "top5": [
+        [
+          "Papaver",
+          23.79,
+          2
+        ],
+        [
+          "Violae",
+          22.98,
+          2
+        ],
+        [
+          "Abrotanum",
+          22.96,
+          2
+        ],
+        [
+          "Ruta",
+          22.53,
+          2
+        ],
+        [
+          "Feniculum",
+          22.02,
+          2
+        ]
+      ]
+    },
+    {
+      "fid": "f89v2",
+      "chapter": "Ruta",
+      "score": 23.66,
+      "margin": 2.41,
+      "shared": [
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          23.66,
+          2
+        ],
+        [
+          "Urtica",
+          21.25,
+          2
+        ],
+        [
+          "Absinthium",
+          20.54,
+          2
+        ],
+        [
+          "Piper",
+          11.49,
+          1
+        ],
+        [
+          "Satureia",
+          9.55,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f22v",
+      "chapter": "Pulegium",
+      "score": 23.59,
+      "margin": 0.85,
+      "shared": [
+        "oleum",
+        "sal"
+      ],
+      "top5": [
+        [
+          "Pulegium",
+          23.59,
+          2
+        ],
+        [
+          "Absinthium",
+          22.74,
+          2
+        ],
+        [
+          "Cepa",
+          22.74,
+          2
+        ],
+        [
+          "Urtica",
+          22.65,
+          2
+        ],
+        [
+          "Ruta",
+          22.53,
+          2
+        ]
+      ]
+    },
+    {
+      "fid": "f34v",
+      "chapter": "Violae",
+      "score": 23.23,
+      "margin": 0.75,
+      "shared": [
+        "aqua",
+        "oleum"
+      ],
+      "top5": [
+        [
+          "Violae",
+          23.23,
+          2
+        ],
+        [
+          "Chamomilla",
+          22.48,
+          2
+        ],
+        [
+          "Ruta",
+          22.45,
+          2
+        ],
+        [
+          "Abrotanum",
+          22.37,
+          2
+        ],
+        [
+          "Cepa",
+          22.25,
+          2
+        ]
+      ]
+    },
+    {
+      "fid": "f16v",
+      "chapter": "Chamomilla",
+      "score": 23.15,
+      "margin": 0.73,
+      "shared": [
+        "aqua",
+        "oleum"
+      ],
+      "top5": [
+        [
+          "Chamomilla",
+          23.15,
+          2
+        ],
+        [
+          "Violae",
+          22.42,
+          2
+        ],
+        [
+          "Cepa",
+          22.37,
+          2
+        ],
+        [
+          "Feniculum",
+          22.24,
+          2
+        ],
+        [
+          "Ruta",
+          22.14,
+          2
+        ]
+      ]
+    },
+    {
+      "fid": "f28v",
+      "chapter": "Urtica",
+      "score": 23.15,
+      "margin": 0.24,
+      "shared": [
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Urtica",
+          23.15,
+          2
+        ],
+        [
+          "Ruta",
+          22.91,
+          2
+        ],
+        [
+          "Absinthium",
+          21.33,
+          2
+        ],
+        [
+          "Abrotanum",
+          10.56,
+          1
+        ],
+        [
+          "Caulis",
+          10.56,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f33r",
+      "chapter": "Pulegium",
+      "score": 22.9,
+      "margin": 12.5,
+      "shared": [
+        "oleum",
+        "ovum"
+      ],
+      "top5": [
+        [
+          "Pulegium",
+          22.9,
+          2
+        ],
+        [
+          "Plantago",
+          10.4,
+          1
+        ],
+        [
+          "Thus",
+          9.96,
+          1
+        ],
+        [
+          "Caulis",
+          9.43,
+          1
+        ],
+        [
+          "Pyrethrum",
+          9.31,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f99r",
+      "chapter": "Violae",
+      "score": 22.86,
+      "margin": 0.37,
+      "shared": [
+        "aqua",
+        "oleum"
+      ],
+      "top5": [
+        [
+          "Violae",
+          22.86,
+          2
+        ],
+        [
+          "Feniculum",
+          22.49,
+          2
+        ],
+        [
+          "Cepa",
+          22.36,
+          2
+        ],
+        [
+          "Abrotanum",
+          22.25,
+          2
+        ],
+        [
+          "Origanum",
+          21.77,
+          2
+        ]
+      ]
+    },
+    {
+      "fid": "f42r",
+      "chapter": "Ruta",
+      "score": 22.85,
+      "margin": 1.09,
+      "shared": [
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          22.85,
+          2
+        ],
+        [
+          "Urtica",
+          21.76,
+          2
+        ],
+        [
+          "Absinthium",
+          21.69,
+          2
+        ],
+        [
+          "Rosa",
+          10.06,
+          1
+        ],
+        [
+          "Sinapi",
+          9.44,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f13v",
+      "chapter": "Satureia",
+      "score": 22.78,
+      "margin": 12.3,
+      "shared": [
+        "ovum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Satureia",
+          22.78,
+          2
+        ],
+        [
+          "Piper",
+          10.48,
+          1
+        ],
+        [
+          "Ruta",
+          9.09,
+          1
+        ],
+        [
+          "Urtica",
+          8.87,
+          1
+        ],
+        [
+          "Gingiber",
+          8.72,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f55r",
+      "chapter": "Ruta",
+      "score": 22.71,
+      "margin": 1.89,
+      "shared": [
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          22.71,
+          2
+        ],
+        [
+          "Absinthium",
+          20.82,
+          2
+        ],
+        [
+          "Urtica",
+          20.58,
+          2
+        ],
+        [
+          "Colubrina",
+          10.71,
+          1
+        ],
+        [
+          "Nepeta",
+          10.59,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f26r",
+      "chapter": "Ruta",
+      "score": 22.65,
+      "margin": 11.91,
+      "shared": [
+        "aqua",
+        "nitrum"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          22.65,
+          2
+        ],
+        [
+          "Violae",
+          10.74,
+          1
+        ],
+        [
+          "Caulis",
+          9.99,
+          1
+        ],
+        [
+          "Aloë",
+          9.57,
+          1
+        ],
+        [
+          "Plantago",
+          9.29,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f42v",
+      "chapter": "Ruta",
+      "score": 22.64,
+      "margin": 0.47,
+      "shared": [
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          22.64,
+          2
+        ],
+        [
+          "Absinthium",
+          22.17,
+          2
+        ],
+        [
+          "Urtica",
+          21.72,
+          2
+        ],
+        [
+          "Rosa",
+          10.02,
+          1
+        ],
+        [
+          "Cepa",
+          9.48,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f46v",
+      "chapter": "Satureia",
+      "score": 22.61,
+      "margin": 13.27,
+      "shared": [
+        "ovum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Satureia",
+          22.61,
+          2
+        ],
+        [
+          "Piper",
+          9.34,
+          1
+        ],
+        [
+          "Ruta",
+          9.23,
+          1
+        ],
+        [
+          "Thus",
+          9.18,
+          1
+        ],
+        [
+          "Urtica",
+          8.73,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f36r",
+      "chapter": "Aristolochia",
+      "score": 22.6,
+      "margin": 2.58,
+      "shared": [
+        "aqua",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Aristolochia",
+          22.6,
+          2
+        ],
+        [
+          "Ruta",
+          20.02,
+          2
+        ],
+        [
+          "Origanum",
+          9.48,
+          1
+        ],
+        [
+          "Piper",
+          9.36,
+          1
+        ],
+        [
+          "Verbena",
+          9.35,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f13r",
+      "chapter": "Ruta",
+      "score": 22.51,
+      "margin": 0.47,
+      "shared": [
+        "aqua",
+        "oleum"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          22.51,
+          2
+        ],
+        [
+          "Violae",
+          22.04,
+          2
+        ],
+        [
+          "Chamaedrys",
+          21.86,
+          2
+        ],
+        [
+          "Cepa",
+          21.32,
+          2
+        ],
+        [
+          "Caulis",
+          21.31,
+          2
+        ]
+      ]
+    },
+    {
+      "fid": "f14v",
+      "chapter": "Ruta",
+      "score": 22.49,
+      "margin": 0.08,
+      "shared": [
+        "aqua",
+        "oleum"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          22.49,
+          2
+        ],
+        [
+          "Caulis",
+          22.41,
+          2
+        ],
+        [
+          "Violae",
+          21.75,
+          2
+        ],
+        [
+          "Abrotanum",
+          21.19,
+          2
+        ],
+        [
+          "Chamomilla",
+          21.06,
+          2
+        ]
+      ]
+    },
+    {
+      "fid": "f10r",
+      "chapter": "Aristolochia",
+      "score": 21.76,
+      "margin": 0.36,
+      "shared": [
+        "aqua",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Aristolochia",
+          21.76,
+          2
+        ],
+        [
+          "Ruta",
+          21.4,
+          2
+        ],
+        [
+          "Piper",
+          9.86,
+          1
+        ],
+        [
+          "Absinthium",
+          9.64,
+          1
+        ],
+        [
+          "Gingiber",
+          9.64,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f46r",
+      "chapter": "Chamomilla",
+      "score": 21.62,
+      "margin": 0.13,
+      "shared": [
+        "aqua",
+        "oleum"
+      ],
+      "top5": [
+        [
+          "Chamomilla",
+          21.62,
+          2
+        ],
+        [
+          "Pulegium",
+          21.49,
+          2
+        ],
+        [
+          "Plantago",
+          21.19,
+          2
+        ],
+        [
+          "Violae",
+          21.16,
+          2
+        ],
+        [
+          "Origanum",
+          20.99,
+          2
+        ]
+      ]
+    },
+    {
+      "fid": "f45v",
+      "chapter": "Urtica",
+      "score": 21.45,
+      "margin": 0.3,
+      "shared": [
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Urtica",
+          21.45,
+          2
+        ],
+        [
+          "Ruta",
+          21.15,
+          2
+        ],
+        [
+          "Absinthium",
+          20,
+          2
+        ],
+        [
+          "Piper",
+          8.89,
+          1
+        ],
+        [
+          "Nepeta",
+          8.8,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f8r",
+      "chapter": "Ruta",
+      "score": 21.33,
+      "margin": 0.73,
+      "shared": [
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          21.33,
+          2
+        ],
+        [
+          "Urtica",
+          20.6,
+          2
+        ],
+        [
+          "Absinthium",
+          20.54,
+          2
+        ],
+        [
+          "Cerefolium",
+          9.49,
+          1
+        ],
+        [
+          "Papaver",
+          9.49,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f57r",
+      "chapter": "Satureia",
+      "score": 21.29,
+      "margin": 12.09,
+      "shared": [
+        "ovum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Satureia",
+          21.29,
+          2
+        ],
+        [
+          "Betonica",
+          9.2,
+          1
+        ],
+        [
+          "Thus",
+          9.06,
+          1
+        ],
+        [
+          "Absinthium",
+          8.75,
+          1
+        ],
+        [
+          "Aristolochia",
+          8.72,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f30v",
+      "chapter": "Urtica",
+      "score": 21.26,
+      "margin": 0.13,
+      "shared": [
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Urtica",
+          21.26,
+          2
+        ],
+        [
+          "Ruta",
+          21.13,
+          2
+        ],
+        [
+          "Absinthium",
+          20.92,
+          2
+        ],
+        [
+          "Caulis",
+          9.41,
+          1
+        ],
+        [
+          "Pyrethrum",
+          9.33,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f51r",
+      "chapter": "Plantago",
+      "score": 21.07,
+      "margin": 11.83,
+      "shared": [
+        "aqua",
+        "ovum"
+      ],
+      "top5": [
+        [
+          "Plantago",
+          21.07,
+          2
+        ],
+        [
+          "Ruta",
+          9.24,
+          1
+        ],
+        [
+          "Pulegium",
+          9.02,
+          1
+        ],
+        [
+          "Caulis",
+          8.91,
+          1
+        ],
+        [
+          "Aloë",
+          8.7,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f34r",
+      "chapter": "Satureia",
+      "score": 20.15,
+      "margin": 1.11,
+      "shared": [
+        "ovum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Satureia",
+          20.15,
+          2
+        ],
+        [
+          "Piper",
+          19.04,
+          2
+        ],
+        [
+          "Ruta",
+          18.56,
+          2
+        ],
+        [
+          "Absinthium",
+          18.52,
+          2
+        ],
+        [
+          "Urtica",
+          7.39,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f94v",
+      "chapter": "Ruta",
+      "score": 20,
+      "margin": 10.59,
+      "shared": [
+        "aqua",
+        "nitrum"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          20,
+          2
+        ],
+        [
+          "Papaver",
+          9.41,
+          1
+        ],
+        [
+          "Sabina",
+          9.38,
+          1
+        ],
+        [
+          "Abrotanum",
+          9.29,
+          1
+        ],
+        [
+          "Plantago",
+          9.0,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f18r",
+      "chapter": "Pulegium",
+      "score": 20,
+      "margin": 10.52,
+      "shared": [
+        "oleum",
+        "ovum"
+      ],
+      "top5": [
+        [
+          "Pulegium",
+          20,
+          2
+        ],
+        [
+          "Satureia",
+          9.48,
+          1
+        ],
+        [
+          "Colubrina",
+          9.48,
+          1
+        ],
+        [
+          "Allium",
+          9.45,
+          1
+        ],
+        [
+          "Ruta",
+          9.45,
+          1
+        ]
+      ]
+    },
+    {
+      "fid": "f43r",
+      "chapter": "Ruta",
+      "score": 19.36,
+      "margin": 0.07,
+      "shared": [
+        "oleum",
+        "piper"
+      ],
+      "top5": [
+        [
+          "Ruta",
+          19.36,
+          2
+        ],
+        [
+          "Pulegium",
+          19.29,
+          2
+        ],
+        [
+          "Absinthium",
+          18.34,
+          2
+        ],
+        [
+          "Urtica",
+          18.29,
+          2
+        ],
+        [
+          "Satureia",
+          18,
+          2
+        ]
+      ]
+    }
+  ],
+  "all_scores_top20": [
+    {
+      "fid": "f48v",
+      "best_chapter": "Ruta",
+      "score": 56.1,
+      "sherwood": "ruta"
+    },
+    {
+      "fid": "f43v",
+      "best_chapter": "Ruta",
+      "score": 40.82,
+      "sherwood": null
+    },
+    {
+      "fid": "f2r",
+      "best_chapter": "Ruta",
+      "score": 33.4,
+      "sherwood": null
+    },
+    {
+      "fid": "f41r",
+      "best_chapter": "Ruta",
+      "score": 33.38,
+      "sherwood": "origanum"
+    },
+    {
+      "fid": "f9v",
+      "best_chapter": "Ruta",
+      "score": 33.05,
+      "sherwood": "viola"
+    },
+    {
+      "fid": "f48r",
+      "best_chapter": "Ruta",
+      "score": 31.13,
+      "sherwood": null
+    },
+    {
+      "fid": "f30r",
+      "best_chapter": "Ruta",
+      "score": 24.34,
+      "sherwood": null
+    },
+    {
+      "fid": "f26v",
+      "best_chapter": "Ruta",
+      "score": 24.1,
+      "sherwood": null
+    },
+    {
+      "fid": "f101r",
+      "best_chapter": "Papaver",
+      "score": 23.79,
+      "sherwood": null
+    },
+    {
+      "fid": "f89v2",
+      "best_chapter": "Ruta",
+      "score": 23.66,
+      "sherwood": null
+    },
+    {
+      "fid": "f22v",
+      "best_chapter": "Pulegium",
+      "score": 23.59,
+      "sherwood": null
+    },
+    {
+      "fid": "f34v",
+      "best_chapter": "Violae",
+      "score": 23.23,
+      "sherwood": null
+    },
+    {
+      "fid": "f16v",
+      "best_chapter": "Chamomilla",
+      "score": 23.15,
+      "sherwood": null
+    },
+    {
+      "fid": "f28v",
+      "best_chapter": "Urtica",
+      "score": 23.15,
+      "sherwood": null
+    },
+    {
+      "fid": "f33r",
+      "best_chapter": "Pulegium",
+      "score": 22.9,
+      "sherwood": null
+    },
+    {
+      "fid": "f99r",
+      "best_chapter": "Violae",
+      "score": 22.86,
+      "sherwood": null
+    },
+    {
+      "fid": "f42r",
+      "best_chapter": "Ruta",
+      "score": 22.85,
+      "sherwood": null
+    },
+    {
+      "fid": "f21r",
+      "best_chapter": "Ruta",
+      "score": 22.82,
+      "sherwood": "anagallis"
+    },
+    {
+      "fid": "f13v",
+      "best_chapter": "Satureia",
+      "score": 22.78,
+      "sherwood": null
+    },
+    {
+      "fid": "f55r",
+      "best_chapter": "Ruta",
+      "score": 22.71,
+      "sherwood": null
+    }
+  ]
+}

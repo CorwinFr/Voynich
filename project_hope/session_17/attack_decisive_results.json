@@ -1,0 +1,1834 @@
+{
+  "n_bridged_recipes": 154,
+  "n_constraint_solutions": 64,
+  "n_unique_solutions": 31,
+  "n_narrow_solutions": 20,
+  "unique_solutions": [
+    {
+      "root": "lch",
+      "ingredient": "vinum",
+      "n_recipes": 6,
+      "n_plants": 3,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lens",
+        "ruta"
+      ]
+    },
+    {
+      "root": "ched",
+      "ingredient": "vinum",
+      "n_recipes": 9,
+      "n_plants": 4,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lactuca",
+        "lens",
+        "ruta"
+      ]
+    },
+    {
+      "root": "opch",
+      "ingredient": "succus",
+      "n_recipes": 4,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "apium",
+        "lens"
+      ]
+    },
+    {
+      "root": "che",
+      "ingredient": "vinum",
+      "n_recipes": 4,
+      "n_plants": 3,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lens",
+        "ruta"
+      ]
+    },
+    {
+      "root": "ain",
+      "ingredient": "vinum",
+      "n_recipes": 7,
+      "n_plants": 3,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lactuca",
+        "lens"
+      ]
+    },
+    {
+      "root": "okch",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "lactuca",
+        "ruta"
+      ]
+    },
+    {
+      "root": "chod",
+      "ingredient": "succus",
+      "n_recipes": 3,
+      "n_plants": 3,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "apium",
+        "lens",
+        "ruta"
+      ]
+    },
+    {
+      "root": "qoky",
+      "ingredient": "vinum",
+      "n_recipes": 4,
+      "n_plants": 3,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "lactuca",
+        "lens",
+        "ruta"
+      ]
+    },
+    {
+      "root": "she",
+      "ingredient": "succus",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "apium",
+        "ruta"
+      ]
+    },
+    {
+      "root": "qokee",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ]
+    },
+    {
+      "root": "aiiin",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lens"
+      ]
+    },
+    {
+      "root": "qokeeo",
+      "ingredient": "vinum",
+      "n_recipes": 3,
+      "n_plants": 3,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lens",
+        "ruta"
+      ]
+    },
+    {
+      "root": "chot",
+      "ingredient": "vinum",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lens"
+      ]
+    },
+    {
+      "root": "shcthy",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lens"
+      ]
+    },
+    {
+      "root": "oteo",
+      "ingredient": "vinum",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lens"
+      ]
+    },
+    {
+      "root": "oked",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lens"
+      ]
+    },
+    {
+      "root": "chy",
+      "ingredient": "vinum",
+      "n_recipes": 4,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ]
+    },
+    {
+      "root": "ysh",
+      "ingredient": "vinum",
+      "n_recipes": 3,
+      "n_plants": 3,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lactuca",
+        "lens"
+      ]
+    },
+    {
+      "root": "keed",
+      "ingredient": "vinum",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lens"
+      ]
+    },
+    {
+      "root": "qoked",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lens"
+      ]
+    },
+    {
+      "root": "pcheo",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ]
+    },
+    {
+      "root": "qoteo",
+      "ingredient": "vinum",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ]
+    },
+    {
+      "root": "chep",
+      "ingredient": "succus",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "apium",
+        "lens"
+      ]
+    },
+    {
+      "root": "okech",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "lactuca",
+        "ruta"
+      ]
+    },
+    {
+      "root": "opched",
+      "ingredient": "succus",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "apium",
+        "lens"
+      ]
+    },
+    {
+      "root": "daiir",
+      "ingredient": "succus",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "apium",
+        "ruta"
+      ]
+    },
+    {
+      "root": "kchee",
+      "ingredient": "vinum",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ]
+    },
+    {
+      "root": "alod",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lactuca"
+      ]
+    },
+    {
+      "root": "chcphy",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "lactuca"
+      ]
+    },
+    {
+      "root": "qoiin",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ]
+    },
+    {
+      "root": "pcho",
+      "ingredient": "vinum",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "confidence": 0.85,
+      "method": "macer_constraint_intersection",
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ]
+    }
+  ],
+  "narrow_solutions": [
+    {
+      "root": "chok",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "qotch",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "pch",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 3
+    },
+    {
+      "root": "olch",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "lkch",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "qoty",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 4
+    },
+    {
+      "root": "checkhy",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 3
+    },
+    {
+      "root": "ycheo",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "lkeeo",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "chcth",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "qokeo",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "pcheod",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 5
+    },
+    {
+      "root": "cheeky",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "pchod",
+      "possible": [
+        "aristolochia",
+        "vinum"
+      ],
+      "n_recipes": 4
+    },
+    {
+      "root": "qokeod",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "sheed",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "shot",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "olched",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    },
+    {
+      "root": "tshod",
+      "possible": [
+        "feniculum",
+        "succus"
+      ],
+      "n_recipes": 3
+    },
+    {
+      "root": "keo",
+      "possible": [
+        "succus",
+        "vinum"
+      ],
+      "n_recipes": 2
+    }
+  ],
+  "constraint_solutions": [
+    {
+      "root": "lch",
+      "n_recipes": 6,
+      "n_plants": 3,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f103r_B18",
+        "f104v_B10",
+        "f108v_B03",
+        "f106r_B02",
+        "f113r_B15"
+      ]
+    },
+    {
+      "root": "ched",
+      "n_recipes": 9,
+      "n_plants": 4,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lactuca",
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f104r_B08",
+        "f104v_B10",
+        "f105r_B10",
+        "f108v_B03",
+        "f114r_B09"
+      ]
+    },
+    {
+      "root": "opch",
+      "n_recipes": 4,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus"
+      ],
+      "plants": [
+        "apium",
+        "lens"
+      ],
+      "bids": [
+        "f103r_B01",
+        "f105r_B10",
+        "f105v_B04",
+        "f106r_B08"
+      ]
+    },
+    {
+      "root": "chok",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f104v_B10",
+        "f114v_B09"
+      ]
+    },
+    {
+      "root": "che",
+      "n_recipes": 4,
+      "n_plants": 3,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f111r_B04",
+        "f113r_B09",
+        "f106r_B15",
+        "f112v_B04"
+      ]
+    },
+    {
+      "root": "qotch",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f114v_B03",
+        "f115r_B06"
+      ]
+    },
+    {
+      "root": "ain",
+      "n_recipes": 7,
+      "n_plants": 3,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lactuca",
+        "lens"
+      ],
+      "bids": [
+        "f103r_B01",
+        "f104v_B10",
+        "f108v_B03",
+        "f111r_B04",
+        "f114r_B09"
+      ]
+    },
+    {
+      "root": "pch",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f103r_B13",
+        "f104v_B10",
+        "f113r_B15"
+      ]
+    },
+    {
+      "root": "okch",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "lactuca",
+        "ruta"
+      ],
+      "bids": [
+        "f104v_B12",
+        "f106r_B02"
+      ]
+    },
+    {
+      "root": "chod",
+      "n_recipes": 3,
+      "n_plants": 3,
+      "possible_ingredients": [
+        "succus"
+      ],
+      "plants": [
+        "apium",
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f105v_B04",
+        "f113r_B04",
+        "f106v_B02"
+      ]
+    },
+    {
+      "root": "qoky",
+      "n_recipes": 4,
+      "n_plants": 3,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "lactuca",
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f111r_B04",
+        "f104v_B12",
+        "f106r_B02",
+        "f115r_B06"
+      ]
+    },
+    {
+      "root": "olch",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f111r_B04",
+        "f106r_B02"
+      ]
+    },
+    {
+      "root": "lkch",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f113r_B09",
+        "f115r_B06"
+      ]
+    },
+    {
+      "root": "she",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus"
+      ],
+      "plants": [
+        "apium",
+        "ruta"
+      ],
+      "bids": [
+        "f106r_B02",
+        "f106v_B03"
+      ]
+    },
+    {
+      "root": "cheeo",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f104r_B08",
+        "f111r_B04"
+      ]
+    },
+    {
+      "root": "chckhy",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f103r_B01",
+        "f103r_B13"
+      ]
+    },
+    {
+      "root": "qoty",
+      "n_recipes": 4,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f103r_B18",
+        "f114r_B09",
+        "f106r_B15",
+        "f113r_B04"
+      ]
+    },
+    {
+      "root": "qokee",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ],
+      "bids": [
+        "f106r_B02",
+        "f112v_B07"
+      ]
+    },
+    {
+      "root": "pched",
+      "n_recipes": 9,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f103r_B01",
+        "f103r_B18",
+        "f104r_B08",
+        "f105v_B02",
+        "f105v_B04"
+      ]
+    },
+    {
+      "root": "aiiin",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lens"
+      ],
+      "bids": [
+        "f105v_B04",
+        "f112v_B04"
+      ]
+    },
+    {
+      "root": "chl",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f105v_B04",
+        "f108v_B03"
+      ]
+    },
+    {
+      "root": "qokeeo",
+      "n_recipes": 3,
+      "n_plants": 3,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f108v_B03",
+        "f106r_B02",
+        "f112v_B04"
+      ]
+    },
+    {
+      "root": "ote",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f108v_B03",
+        "f111r_B04"
+      ]
+    },
+    {
+      "root": "chot",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lens"
+      ],
+      "bids": [
+        "f114r_B09",
+        "f115v_B02",
+        "f115v_B06"
+      ]
+    },
+    {
+      "root": "lsh",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f103r_B01",
+        "f103r_B13"
+      ]
+    },
+    {
+      "root": "oke",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f108v_B03",
+        "f111r_B04"
+      ]
+    },
+    {
+      "root": "checkhy",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f103r_B13",
+        "f108v_B01",
+        "f106r_B02"
+      ]
+    },
+    {
+      "root": "cheed",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f104r_B08",
+        "f114r_B09"
+      ]
+    },
+    {
+      "root": "oted",
+      "n_recipes": 3,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f105r_B10",
+        "f108v_B01",
+        "f108v_B03"
+      ]
+    },
+    {
+      "root": "shcthy",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lens"
+      ],
+      "bids": [
+        "f103r_B13",
+        "f106v_B12"
+      ]
+    },
+    {
+      "root": "ycheo",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f104v_B10",
+        "f106r_B15"
+      ]
+    },
+    {
+      "root": "oteo",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lens"
+      ],
+      "bids": [
+        "f105v_B02",
+        "f108v_B01",
+        "f115v_B02"
+      ]
+    },
+    {
+      "root": "qokeed",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f108v_B01",
+        "f114r_B09"
+      ]
+    },
+    {
+      "root": "oked",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lens"
+      ],
+      "bids": [
+        "f108v_B03",
+        "f112v_B07"
+      ]
+    },
+    {
+      "root": "chy",
+      "n_recipes": 4,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ],
+      "bids": [
+        "f106r_B15",
+        "f113r_B04",
+        "f115r_B06",
+        "f112v_B04"
+      ]
+    },
+    {
+      "root": "ted",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f105r_B10",
+        "f114r_B09"
+      ]
+    },
+    {
+      "root": "ysh",
+      "n_recipes": 3,
+      "n_plants": 3,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lactuca",
+        "lens"
+      ],
+      "bids": [
+        "f108v_B03",
+        "f104v_B12",
+        "f115v_B06"
+      ]
+    },
+    {
+      "root": "keed",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lens"
+      ],
+      "bids": [
+        "f108v_B03",
+        "f114r_B09",
+        "f112v_B07"
+      ]
+    },
+    {
+      "root": "qoked",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lens"
+      ],
+      "bids": [
+        "f114v_B03",
+        "f112v_B04"
+      ]
+    },
+    {
+      "root": "pcheo",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ],
+      "bids": [
+        "f113r_B04",
+        "f106v_B12"
+      ]
+    },
+    {
+      "root": "qoteo",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ],
+      "bids": [
+        "f113r_B04",
+        "f112v_B04",
+        "f115v_B06"
+      ]
+    },
+    {
+      "root": "chep",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus"
+      ],
+      "plants": [
+        "apium",
+        "lens"
+      ],
+      "bids": [
+        "f103r_B01",
+        "f103r_B18",
+        "f106v_B02"
+      ]
+    },
+    {
+      "root": "lkeed",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f104v_B10",
+        "f111r_B04"
+      ]
+    },
+    {
+      "root": "lkeeo",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f113r_B09",
+        "f113r_B04"
+      ]
+    },
+    {
+      "root": "chcth",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f114v_B03",
+        "f114v_B09"
+      ]
+    },
+    {
+      "root": "okech",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "lactuca",
+        "ruta"
+      ],
+      "bids": [
+        "f104v_B12",
+        "f113r_B04"
+      ]
+    },
+    {
+      "root": "qokeo",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "ruta"
+      ],
+      "bids": [
+        "f106r_B02",
+        "f113r_B04"
+      ]
+    },
+    {
+      "root": "pcheod",
+      "n_recipes": 5,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "ruta"
+      ],
+      "bids": [
+        "f106r_B02",
+        "f106r_B15",
+        "f113r_B15",
+        "f114v_B09",
+        "f115r_B06"
+      ]
+    },
+    {
+      "root": "cheeky",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "ruta"
+      ],
+      "bids": [
+        "f106r_B02",
+        "f113r_B15"
+      ]
+    },
+    {
+      "root": "pchod",
+      "n_recipes": 4,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "aristolochia",
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia"
+      ],
+      "bids": [
+        "f106v_B12",
+        "f112v_B04",
+        "f112v_B07",
+        "f115v_B06"
+      ]
+    },
+    {
+      "root": "qokeod",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f103r_B13",
+        "f106r_B02"
+      ]
+    },
+    {
+      "root": "opched",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus"
+      ],
+      "plants": [
+        "apium",
+        "lens"
+      ],
+      "bids": [
+        "f105v_B02",
+        "f106v_B02"
+      ]
+    },
+    {
+      "root": "sheed",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f108v_B03",
+        "f106r_B15"
+      ]
+    },
+    {
+      "root": "shot",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f113r_B09",
+        "f106r_B15"
+      ]
+    },
+    {
+      "root": "olched",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "lens",
+        "ruta"
+      ],
+      "bids": [
+        "f114v_B03",
+        "f106r_B02"
+      ]
+    },
+    {
+      "root": "daiir",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "succus"
+      ],
+      "plants": [
+        "apium",
+        "ruta"
+      ],
+      "bids": [
+        "f106r_B15",
+        "f106r_B08"
+      ]
+    },
+    {
+      "root": "kchee",
+      "n_recipes": 3,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ],
+      "bids": [
+        "f113r_B04",
+        "f114v_B09",
+        "f106v_B12"
+      ]
+    },
+    {
+      "root": "tshod",
+      "n_recipes": 3,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "feniculum",
+        "succus"
+      ],
+      "plants": [
+        "apium"
+      ],
+      "bids": [
+        "f106r_B08",
+        "f106v_B03",
+        "f106v_B08"
+      ]
+    },
+    {
+      "root": "loty",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "plantago",
+        "succus",
+        "vesica",
+        "vinum"
+      ],
+      "plants": [
+        "lens"
+      ],
+      "bids": [
+        "f103r_B01",
+        "f103r_B18"
+      ]
+    },
+    {
+      "root": "alod",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lactuca"
+      ],
+      "bids": [
+        "f104v_B12",
+        "f106v_B12"
+      ]
+    },
+    {
+      "root": "chcphy",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "lactuca"
+      ],
+      "bids": [
+        "f115r_B10",
+        "f115v_B02"
+      ]
+    },
+    {
+      "root": "qoiin",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ],
+      "bids": [
+        "f106r_B02",
+        "f112v_B07"
+      ]
+    },
+    {
+      "root": "keo",
+      "n_recipes": 2,
+      "n_plants": 1,
+      "possible_ingredients": [
+        "succus",
+        "vinum"
+      ],
+      "plants": [
+        "ruta"
+      ],
+      "bids": [
+        "f113r_B04",
+        "f115r_B06"
+      ]
+    },
+    {
+      "root": "pcho",
+      "n_recipes": 2,
+      "n_plants": 2,
+      "possible_ingredients": [
+        "vinum"
+      ],
+      "plants": [
+        "aristolochia",
+        "ruta"
+      ],
+      "bids": [
+        "f115r_B06",
+        "f115v_B02"
+      ]
+    }
+  ],
+  "best_decodings": [
+    {
+      "bid": "f108v_B03",
+      "plant": "lens",
+      "macer": "Plantago",
+      "n_total": 56,
+      "n_ingr": 10,
+      "n_func": 17,
+      "n_logo": 1,
+      "n_unk": 28,
+      "ingrs_found": [
+        "ACETUM",
+        "VINUM★"
+      ],
+      "in_macer": 2,
+      "reading": "(pchedaiin) ~ok~ (otedal) (lkedeed) VINUM★ ~ok~ ~qot~ (lkedy) ~ot~ (raiin) ~am~ VINUM★ ~ok~ ~ot~ ~qok~ ~ok~ ~ok~ VINUM★ ~ok~ (qoteedar) ~oty~ VINUM★ (dar) VINUM★ (chlal) (okaldain) (sheed) VINUM★ [l] (keedy) VINUM★ (kel) ACETUM ~ol~ ~ch~ (leedaiin) (shckhaiin) (okeal) ~ok~ (aralor) (om) (shee) (kaithy) (chectham) (sain) (al) VINUM★ VINUM★ (olkeeed) ~qok~ (lkeedy) (cho) (lkain) (oteshy) ~sh~ (deedy)"
+    },
+    {
+      "bid": "f113r_B04",
+      "plant": "ruta",
+      "macer": "Ruta",
+      "n_total": 36,
+      "n_ingr": 8,
+      "n_func": 6,
+      "n_logo": 2,
+      "n_unk": 20,
+      "ingrs_found": [
+        "NITRUM",
+        "SUCCUS★",
+        "VENA",
+        "VINUM★"
+      ],
+      "in_macer": 3,
+      "reading": "VINUM★ (qokeody) (cheoar) VINUM★ VINUM★ (ety) (sheody) (sheodaiin) VINUM★ ~ot~ VENA (qoty) (daiin) (cholchey) VINUM★ (chokeo) [l] (sheo) (qoaiin) (shoo) (keeeol) (keody) ~ch~ ~ch~ (kal) (laram) [y] NITRUM (qoeey) (qoaiin) ~sh~ (lkeeoar) SUCCUS★ ~ot~ (chos) ~aiin~"
+    },
+    {
+      "bid": "f104v_B12",
+      "plant": "lactuca",
+      "macer": "Lactuca",
+      "n_total": 49,
+      "n_ingr": 8,
+      "n_func": 21,
+      "n_logo": 2,
+      "n_unk": 18,
+      "ingrs_found": [
+        "RUTA",
+        "VINUM★"
+      ],
+      "in_macer": 1,
+      "reading": "(posairy) (ytedar) ~ch~ (shoefcheey) RUTA (sar) (odl) [air] ~sh~ (qopcheey) (sol) VINUM★ (arodam) VINUM★ ~ch~ ~ch~ ~qot~ ~qok~ ~ch~ ~or~ ~aiin~ (cheo) ~or~ ~aiin~ VINUM★ ~ok~ VINUM★ ~ar~ (a) (kain) ~ch~ (lkeey) (roiir) ~sh~ ~ch~ (kar) ~ar~ (lkchs) ~ar~ [y] (ais) VINUM★ ~qok~ VINUM★ ~qok~ ~aiin~ (odain) (orchedy) VINUM★"
+    },
+    {
+      "bid": "f106r_B02",
+      "plant": "ruta",
+      "macer": "Ruta",
+      "n_total": 39,
+      "n_ingr": 7,
+      "n_func": 14,
+      "n_logo": 0,
+      "n_unk": 18,
+      "ingrs_found": [
+        "SUCCUS★",
+        "VINUM★"
+      ],
+      "in_macer": 2,
+      "reading": "(pcheodair) VINUM★ (olkeeedy) ~or~ (arojy) (qopchdy) (sholfchdy) (cheeky) VINUM★ ~qok~ (ysheor) ~aiin~ ~ch~ ~ok~ VINUM★ (checkhy) (qokeod) ~ar~ (qokeo) (lkeo) (lchorom) ~sh~ SUCCUS★ (orkchsd) ~ot~ ~or~ VINUM★ (raiin) (qokeeolchedy) (olchedy) ~qok~ VINUM★ (olched) VINUM★ ~ych~ ~qok~ ~sh~ ~qok~ (cheees)"
+    },
+    {
+      "bid": "f112v_B07",
+      "plant": "aristolochia",
+      "macer": "Aristolochia",
+      "n_total": 28,
+      "n_ingr": 7,
+      "n_func": 9,
+      "n_logo": 0,
+      "n_unk": 12,
+      "ingrs_found": [
+        "MEL",
+        "VINUM★"
+      ],
+      "in_macer": 2,
+      "reading": "(pchodain) ~aiin~ (teeedy) (qoeey) ~ok~ VINUM★ (al) VINUM★ (olkeedy) ~qot~ ~sh~ VINUM★ ~aiin~ ~ch~ (keeeody) VINUM★ MEL ~qok~ MEL (qoeey) (qokaim) ~sh~ (qoeekain) ~ol~ (kain) (alor) VINUM★ (sheody)"
+    },
+    {
+      "bid": "f112v_B04",
+      "plant": "aristolochia",
+      "macer": "Aristolochia",
+      "n_total": 46,
+      "n_ingr": 7,
+      "n_func": 26,
+      "n_logo": 1,
+      "n_unk": 12,
+      "ingrs_found": [
+        "VINUM★"
+      ],
+      "in_macer": 1,
+      "reading": "(pchodain) ~ok~ ~qok~ (olkeedy) ~qok~ ~sh~ VINUM★ ~aiin~ ~am~ (saiin) ~ok~ ~sh~ ~qot~ ~qok~ ~ch~ ~qok~ ~qok~ (chdaly) (daiin) VINUM★ ~ch~ VINUM★ (keedy) (chdaiin) ~ch~ ~qok~ (otaldal) (saiin) ~or~ ~aiin~ ~ch~ ~qok~ ~qok~ VINUM★ ~qot~ ~ol~ ~am~ [s] ~ar~ VINUM★ (al) (qoeeey) VINUM★ ~ar~ VINUM★ (chalor)"
+    },
+    {
+      "bid": "f114r_B09",
+      "plant": "lens",
+      "macer": "Plantago",
+      "n_total": 46,
+      "n_ingr": 6,
+      "n_func": 13,
+      "n_logo": 2,
+      "n_unk": 25,
+      "ingrs_found": [
+        "MEL",
+        "VENA",
+        "VINUM★"
+      ],
+      "in_macer": 2,
+      "reading": "(pchedairs) (oeail) VINUM★ (qokeedair) (olkaiin) (opdaiin) (otoldair) ~ch~ (tedair) (aiir) (aim) ~ch~ (oeedy) (keedy) (cheecky) (cheodeey) VINUM★ (daiiin) (ald) [air] ~ar~ ~sh~ ~ch~ VENA (qoty) [y] VINUM★ ~ok~ (lkeedy) ~aiin~ (oeedaiin) (qoaiin) MEL ~ok~ (olkeedy) (qoain) VINUM★ ~ok~ (ram) (sair) ~aiin~ (cheedain) ~ok~ ~ot~ (qokeedain) ~or~"
+    },
+    {
+      "bid": "f115v_B06",
+      "plant": "aristolochia",
+      "macer": "Aristolochia",
+      "n_total": 26,
+      "n_ingr": 6,
+      "n_func": 3,
+      "n_logo": 0,
+      "n_unk": 17,
+      "ingrs_found": [
+        "VENA",
+        "VINUM★"
+      ],
+      "in_macer": 1,
+      "reading": "(pchodain) VINUM★ (choky) VINUM★ (lpchdain) (dalchedy) (qotolchedy) (qopchedy) VINUM★ ~qok~ (lxor) (xoiin) (choto) (keeody) VINUM★ (dain) (qokchedy) (ralom) VINUM★ ~qot~ (lkeey) (raiin) (cheo) (lor) ~ot~ VENA"
+    },
+    {
+      "bid": "f105v_B04",
+      "plant": "lens",
+      "macer": "Plantago",
+      "n_total": 45,
+      "n_ingr": 5,
+      "n_func": 12,
+      "n_logo": 2,
+      "n_unk": 26,
+      "ingrs_found": [
+        "MEL",
+        "PIPER",
+        "SUCCUS★",
+        "VINUM★"
+      ],
+      "in_macer": 3,
+      "reading": "(pchedaiin) (chckhdy) (qokaiir) (olpchedy) (olord) VINUM★ (tail) (odar) (kard) PIPER ~ych~ (kar) MEL ~ot~ ~ot~ (al) (dar) (chdor) (kalchedy) SUCCUS★ (daiin) ~or~ [r] (daiin) ~ch~ (dal) (chl) ~ok~ ~aiin~ (cpheor) ~aiin~ ~ok~ SUCCUS★ ~ot~ (opaiim) (olr) ~aiin~ ~ch~ [l] (raiin) (lkl) (dl) (lklor) (diiin) (olkaiin)"
+    },
+    {
+      "bid": "f106r_B15",
+      "plant": "ruta",
+      "macer": "Ruta",
+      "n_total": 57,
+      "n_ingr": 5,
+      "n_func": 24,
+      "n_logo": 1,
+      "n_unk": 27,
+      "ingrs_found": [
+        "MEL",
+        "PANIS",
+        "SUCCUS★",
+        "VINUM★"
+      ],
+      "in_macer": 3,
+      "reading": "(pcheodar) ~sh~ (kain) (okeechedy) ~qot~ (shotchy) (qoty) (lpaiin) ~sh~ (lar) SUCCUS★ ~sh~ (daiin) ~ot~ ~qok~ ~ok~ VINUM★ (al) (taiin) (chekal) (otaras) PANIS ~qot~ ~ot~ VINUM★ (chealol) (chlchd) ~aiin~ ~oty~ ~ot~ (otaiikam) [y] (sheedal) ~ok~ ~ok~ ~ot~ (kaiin) (chdalkair) (olkai) (al) (keedy) ~ok~ (sotchdaiin) (shodaiin) ~ot~ ~qok~ ~qok~ MEL ~qok~ ~ch~ (lol) (ycheoar) ~ok~ ~qok~ ~ch~ (oky) (cheokam)"
+    }
+  ]
+}

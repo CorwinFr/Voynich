@@ -1,0 +1,2551 @@
+{
+  "n_anchors": 100,
+  "anchors": [
+    {
+      "folio": "f9v",
+      "species": "Viola tricolor / V. bertolonii",
+      "common": "Wild Pansy / Violet",
+      "medieval": "Viola",
+      "confidence": 0.95,
+      "corpus_matches": {
+        "MACER": "viola",
+        "TACUINUM": "violae",
+        "ALPHITA": "io"
+      },
+      "n_corpus": 3,
+      "ingredients": [
+        "I_acetum",
+        "I_allium",
+        "I_centaurea",
+        "I_lac",
+        "I_mel",
+        "I_nenufar",
+        "I_oleum",
+        "I_panis",
+        "I_scordium/teucrium",
+        "I_succus",
+        "I_urtica",
+        "I_uva",
+        "I_vesica",
+        "I_vinum",
+        "I_viola"
+      ],
+      "n_ingredients": 15
+    },
+    {
+      "folio": "f29r",
+      "species": "Lactuca sativa var. longifolia",
+      "common": "Romaine / Cos Lettuce",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "MACER": "lactuca",
+        "TACUINUM": "lactucae",
+        "ALPHITA": "."
+      },
+      "n_corpus": 3,
+      "ingredients": [
+        "I_acetum",
+        "I_agaricus",
+        "I_aloe",
+        "I_alumen",
+        "I_ambrosia",
+        "I_ameos",
+        "I_ammi",
+        "I_ammoniacum",
+        "I_anethum",
+        "I_antimonium",
+        "I_apium",
+        "I_aqua",
+        "I_armoniacum",
+        "I_balsamum",
+        "I_bolus",
+        "I_cardamomum",
+        "I_caro",
+        "I_caseus",
+        "I_cassia_fistula",
+        "I_castoreum",
+        "I_cinnamomum",
+        "I_ciperus",
+        "I_citrus",
+        "I_coloquintida",
+        "I_corallium",
+        "I_costus",
+        "I_cubeba",
+        "I_cuminum",
+        "I_dragagantum",
+        "I_galanga",
+        "I_gallina",
+        "I_gummi_arabicum",
+        "I_herba",
+        "I_hermodactylus",
+        "I_lac",
+        "I_lactuca",
+        "I_ladanum",
+        "I_lapis",
+        "I_lignum",
+        "I_liquiritia",
+        "I_macis",
+        "I_malum",
+        "I_manna",
+        "I_manus",
+        "I_mastix",
+        "I_mel",
+        "I_mentha",
+        "I_mumia",
+        "I_muscus",
+        "I_myrobalanus",
+        "I_myrrha",
+        "I_nardus",
+        "I_nepeta",
+        "I_nitrum",
+        "I_nux",
+        "I_oleum",
+        "I_opium",
+        "I_opopanax",
+        "I_paeonia",
+        "I_panis",
+        "I_papaver",
+        "I_pionia",
+        "I_piper",
+        "I_piper_nigrum",
+        "I_piscis",
+        "I_pix",
+        "I_ren",
+        "I_rosa",
+        "I_sal",
+        "I_sanguis",
+        "I_species",
+        "I_spica",
+        "I_spodium",
+        "I_squinantum",
+        "I_storacis",
+        "I_succus",
+        "I_thus",
+        "I_urina",
+        "I_urtica",
+        "I_vesica",
+        "I_vinum",
+        "I_vitriolum"
+      ],
+      "n_ingredients": 82
+    },
+    {
+      "folio": "f44v",
+      "species": "Apium graveolens",
+      "common": "Celery / Smallage",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "MACER": "apium",
+        "TACUINUM": "apium",
+        "ALPHITA": "apium emeroidarum secundum quosdam similis est rampnz nisi quod habet guttas nigras in foliis. 4 apium risus"
+      },
+      "n_corpus": 3,
+      "ingredients": [
+        "I_acetum",
+        "I_apium",
+        "I_aqua",
+        "I_collum",
+        "I_mandragora",
+        "I_nasturtium",
+        "I_sanguis",
+        "I_succus",
+        "I_vesica",
+        "I_vinum"
+      ],
+      "n_ingredients": 10
+    },
+    {
+      "folio": "f48v",
+      "species": "Ruta graveolens",
+      "common": "Rue / Herb of Grace",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "MACER": "ruta",
+        "TACUINUM": "rutal, id est, dactyli maturi",
+        "ALPHITA": ". fomentacio est membri positio in decoccione aliquarum herbarum aut cum spongia"
+      },
+      "n_corpus": 3,
+      "ingredients": [
+        "I_acetum",
+        "I_allium",
+        "I_aqua",
+        "I_aurum",
+        "I_faba",
+        "I_lactuca",
+        "I_lens",
+        "I_mel",
+        "I_ovum",
+        "I_plantaginis",
+        "I_sal",
+        "I_sanguis",
+        "I_species",
+        "I_succus",
+        "I_vinum"
+      ],
+      "n_ingredients": 15
+    },
+    {
+      "folio": "f51v",
+      "species": "Salvia officinalis",
+      "common": "Common Sage",
+      "medieval": "Salvia",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "MACER": "salvia",
+        "TACUINUM": "sal",
+        "ALPHITA": "a"
+      },
+      "n_corpus": 3,
+      "ingredients": [
+        "I_cassia_fistula",
+        "I_mel",
+        "I_mentha",
+        "I_nux",
+        "I_nymphaea",
+        "I_opium",
+        "I_opopanax",
+        "I_origanum",
+        "I_ostrutium",
+        "I_persicum",
+        "I_pulegium",
+        "I_raphanus",
+        "I_sal",
+        "I_sambucus",
+        "I_sanguis",
+        "I_satureia",
+        "I_species",
+        "I_urtica"
+      ],
+      "n_ingredients": 18
+    },
+    {
+      "folio": "f29v",
+      "species": "Nigella sativa",
+      "common": "Black Cumin / Roman Coriander",
+      "medieval": "Nigella; Git; Gith; Melanthium",
+      "confidence": 0.8,
+      "corpus_matches": {
+        "TACUINUM": "mel",
+        "ALPHITA": "gith est nomen equivocum"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_dactylus",
+        "I_malum",
+        "I_mel",
+        "I_nigella",
+        "I_sanguis"
+      ],
+      "n_ingredients": 5
+    },
+    {
+      "folio": "f2v",
+      "species": "Nymphaea candida",
+      "common": "White Water Lily",
+      "medieval": "Nenuphar; Nenufar; Nimfa; Nymphaea",
+      "confidence": 0.8,
+      "corpus_matches": {
+        "TACUINUM": "candi",
+        "ALPHITA": "nenuphar"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_guttur"
+      ],
+      "n_ingredients": 1
+    },
+    {
+      "folio": "f32r",
+      "species": "Veronica triphyllos",
+      "common": "Finger Speedwell",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "TACUINUM": "ver",
+        "ALPHITA": "a"
+      },
+      "n_corpus": 2,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f34v",
+      "species": "Lunaria annua",
+      "common": "Honesty / Money Plant",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "MACER": "plantago",
+        "ALPHITA": "cat. plant. anglie"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_aliptae",
+        "I_myrrha"
+      ],
+      "n_ingredients": 2
+    },
+    {
+      "folio": "f35v",
+      "species": "Ribes nigrum",
+      "common": "Blackcurrant",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "TACUINUM": "ziribes",
+        "ALPHITA": "a"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_intestinum",
+        "I_sanguis"
+      ],
+      "n_ingredients": 2
+    },
+    {
+      "folio": "f3v",
+      "species": "Helleborus foetidus",
+      "common": "Stinking Hellebore / Dungwort",
+      "medieval": "Elleborus; Elleborus niger; Elleborus albus; Veratrum",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "TACUINUM": "ver",
+        "ALPHITA": "elleborus"
+      },
+      "n_corpus": 2,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f40v",
+      "species": "Crocus vernus",
+      "common": "Giant Crocus / Spring Crocus",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "TACUINUM": "ver",
+        "ALPHITA": "a"
+      },
+      "n_corpus": 2,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f41v",
+      "species": "Coriandrum sativum",
+      "common": "Coriander / Cilantro",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "TACUINUM": "coriandrum",
+        "ALPHITA": "a"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_allium",
+        "I_caepa",
+        "I_caryophyllum",
+        "I_ciperus",
+        "I_citrus",
+        "I_coriandrum",
+        "I_lac",
+        "I_malum",
+        "I_ruta",
+        "I_sanguis",
+        "I_vinum"
+      ],
+      "n_ingredients": 11
+    },
+    {
+      "folio": "f44r",
+      "species": "Mandragora officinarum",
+      "common": "Mandrake",
+      "medieval": "Mandragora; Mandragora mas; Mandragora femina",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "TACUINUM": "madua, et maskia",
+        "ALPHITA": "magnes lapis est qui et adamas dicitur et diamas"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_caro",
+        "I_galanga",
+        "I_lac",
+        "I_lapis",
+        "I_piper",
+        "I_species",
+        "I_vinum"
+      ],
+      "n_ingredients": 7
+    },
+    {
+      "folio": "f45r",
+      "species": "Atriplex hortensis",
+      "common": "Garden Orach / Saltbush",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "TACUINUM": "sal",
+        "ALPHITA": "a"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_origanum",
+        "I_sal",
+        "I_species"
+      ],
+      "n_ingredients": 3
+    },
+    {
+      "folio": "f50v",
+      "species": "Gentiana frigida",
+      "common": "Fringed Gentian",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "TACUINUM": "aqua frigida",
+        "ALPHITA": "nimphea\" siue ut alii cacabus uei. nefarcarum. per niuem infrigidata. 1 matth. silv. c. dlxiv"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_aqua",
+        "I_galanga",
+        "I_magnes",
+        "I_nigella",
+        "I_papaver",
+        "I_ren",
+        "I_rosa",
+        "I_species"
+      ],
+      "n_ingredients": 8
+    },
+    {
+      "folio": "f53r",
+      "species": "Achillea ptarmica",
+      "common": "Sneezewort",
+      "medieval": "Millefolium; Herba militaris; Achillea",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "TACUINUM": "thacon, id est, herba piretri",
+        "ALPHITA": ". fomentacio est membri positio in decoccione aliquarum herbarum aut cum spongia"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_aqua",
+        "I_mentha",
+        "I_pirethrum"
+      ],
+      "n_ingredients": 3
+    },
+    {
+      "folio": "f6v",
+      "species": "Ricinus communis",
+      "common": "Castor Oil Plant",
+      "medieval": "Ricinus; Cici; Croton",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "MACER": "plantago",
+        "ALPHITA": "cat. plant. anglie"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_aliptae",
+        "I_myrrha"
+      ],
+      "n_ingredients": 2
+    },
+    {
+      "folio": "f14r",
+      "species": "Scorzonera hispanica",
+      "common": "Black Salsify / Viper's Grass",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "TACUINUM": "sal",
+        "ALPHITA": "a"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_origanum",
+        "I_sal",
+        "I_species"
+      ],
+      "n_ingredients": 3
+    },
+    {
+      "folio": "f15v",
+      "species": "Paris quadrifolia",
+      "common": "Herb Paris",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "TACUINUM": "thacon, id est, herba piretri",
+        "ALPHITA": ". fomentacio est membri positio in decoccione aliquarum herbarum aut cum spongia"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_aqua",
+        "I_mentha",
+        "I_pirethrum"
+      ],
+      "n_ingredients": 3
+    },
+    {
+      "folio": "f21r",
+      "species": "Anagallis arvensis",
+      "common": "Scarlet Pimpernel",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "TACUINUM": "galli",
+        "ALPHITA": "a"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_brassica",
+        "I_gallina",
+        "I_sal"
+      ],
+      "n_ingredients": 3
+    },
+    {
+      "folio": "f22r",
+      "species": "Verbena officinalis",
+      "common": "Common Vervain / Holy Herb",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "TACUINUM": "thacon, id est, herba piretri",
+        "ALPHITA": "caropos est color flavus urinz velleribus camelorum similis. 1 μυροβάλανος. blatta est os naris purpurze quee byzantina vocatur (actuarius ap. holyoke)"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_absinthium",
+        "I_argentum",
+        "I_aurum",
+        "I_balsamum",
+        "I_camedreos",
+        "I_cantharides",
+        "I_capparis",
+        "I_carica",
+        "I_carpobalsamum",
+        "I_carvi",
+        "I_cassia_fistula",
+        "I_centaurea",
+        "I_cera",
+        "I_cerusa",
+        "I_cicer",
+        "I_cinnamomum",
+        "I_ciperus",
+        "I_ficus",
+        "I_folium",
+        "I_galanga",
+        "I_galla",
+        "I_hepatica",
+        "I_herba",
+        "I_hyoscyamus",
+        "I_lignum",
+        "I_lithargyrum",
+        "I_magnes",
+        "I_malva",
+        "I_mentha",
+        "I_milium",
+        "I_muscus",
+        "I_nenufar",
+        "I_oleum",
+        "I_panis",
+        "I_petroleum",
+        "I_pirethrum",
+        "I_salvia",
+        "I_solanum",
+        "I_squilla",
+        "I_vinum",
+        "I_viola"
+      ],
+      "n_ingredients": 41
+    },
+    {
+      "folio": "f25r",
+      "species": "Thymus capitatus",
+      "common": "Wild Thyme / Conehead Thyme",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "TACUINUM": "capita",
+        "ALPHITA": "a"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_caro",
+        "I_malum",
+        "I_mastix"
+      ],
+      "n_ingredients": 3
+    },
+    {
+      "folio": "f27r",
+      "species": "Spinacia oleracea",
+      "common": "Spinach",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "TACUINUM": "spinachiae",
+        "ALPHITA": "a"
+      },
+      "n_corpus": 2,
+      "ingredients": [
+        "I_spinachia"
+      ],
+      "n_ingredients": 1
+    },
+    {
+      "folio": "f33v",
+      "species": "Tanacetum parthenium",
+      "common": "Feverfew",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "TACUINUM": "ver",
+        "ALPHITA": "atanasia uel athasia tanacetum idem. hanc utuntur salerniani et hispanni similiter. —tansie"
+      },
+      "n_corpus": 2,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f56r",
+      "species": "Drosera intermedia",
+      "common": "Oblong-leaved Sundew",
+      "medieval": "",
+      "confidence": 0.8,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f10v",
+      "species": "Linnaea borealis",
+      "common": "Twinflower",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f11r",
+      "species": "Rosmarinus officinalis",
+      "common": "Rosemary",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f13v",
+      "species": "Lonicera periclymenum",
+      "common": "Honeysuckle / Woodbine",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f16r",
+      "species": "Cannabis sativa",
+      "common": "Cannabis / Hemp",
+      "medieval": "Cannabis; Cannabis silvatica",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f18r",
+      "species": "Aster alpinus",
+      "common": "Alpine Aster",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "oleander sive oleaster arbor est"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f1v",
+      "species": "Atropa belladonna",
+      "common": "Deadly Nightshade / Belladonna",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f22v",
+      "species": "Tulipa gesneriana",
+      "common": "Tulip",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f25v",
+      "species": "Isatis tinctoria",
+      "common": "Woad",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f28v",
+      "species": "Rhododendron caucasicum",
+      "common": "White Rhododendron",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f32v",
+      "species": "Campanula rotundifolia",
+      "common": "Harebell / Bluebell",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f35r",
+      "species": "Cichorium intybus",
+      "common": "Radicchio / Chicory",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "io"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f36r",
+      "species": "Delphinium staphisagria",
+      "common": "Stavesacre / Delphinium",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f36v",
+      "species": "Lamium amplexicaule",
+      "common": "Henbit Dead-nettle",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f37r",
+      "species": "Mentha longifolia",
+      "common": "Horse Mint / Wild Mint",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f39r",
+      "species": "Crocus sativus",
+      "common": "Saffron Crocus",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f3r",
+      "species": "Celosia argentea",
+      "common": "Feathery Amaranth / Cockscomb",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f40r",
+      "species": "Erodium malacoides",
+      "common": "Mallow-leaved Stork's Bill",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "mala"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f41r",
+      "species": "Origanum vulgare",
+      "common": "Wild Marjoram / Oregano",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "origanum secundum quosdam idem est quod pulegium majus"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f42v",
+      "species": "Aquilegia vulgaris",
+      "common": "European Columbine",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "lumbi"
+      },
+      "n_corpus": 1,
+      "ingredients": [
+        "I_caro",
+        "I_ren"
+      ],
+      "n_ingredients": 2
+    },
+    {
+      "folio": "f43r",
+      "species": "Stellaria media",
+      "common": "Common Chickweed",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f45v",
+      "species": "Lavandula angustifolia",
+      "common": "Lavender",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f46r",
+      "species": "Leucanthemum vulgare",
+      "common": "Oxeye Daisy",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f46v",
+      "species": "Inula conyza",
+      "common": "Ploughman's Spikenard",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f47v",
+      "species": "Pulmonaria officinalis",
+      "common": "Lungwort",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "i. pasmaphora. io. quia florem. 23. pulmonaria. 1 bart. p. 33"
+      },
+      "n_corpus": 1,
+      "ingredients": [
+        "I_passula",
+        "I_uva"
+      ],
+      "n_ingredients": 2
+    },
+    {
+      "folio": "f4r",
+      "species": "Saxifraga cespitosa",
+      "common": "Alpine Saxifrage",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f4v",
+      "species": "Campanula rapunculus",
+      "common": "Rampion",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "io"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f50r",
+      "species": "Astrantia major",
+      "common": "Great Masterwort",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "crassula major"
+      },
+      "n_corpus": 1,
+      "ingredients": [
+        "I_aurum"
+      ],
+      "n_ingredients": 1
+    },
+    {
+      "folio": "f52r",
+      "species": "Anemone coronaria",
+      "common": "Poppy Anemone",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f53v",
+      "species": "Hieracium aurantiacum",
+      "common": "Orange Hawkweed",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f54r",
+      "species": "Cirsium oleraceum",
+      "common": "Cabbage Thistle",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f55r",
+      "species": "Fumaria officinalis",
+      "common": "Common Fumitory",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f5r",
+      "species": "Arnica montana",
+      "common": "Wolf's Bane / European Arnica",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f5v",
+      "species": "Malva sylvestris",
+      "common": "Common Mallow",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "est"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f65r",
+      "species": "Alchemilla vulgaris",
+      "common": "Lady's Mantle",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f6r",
+      "species": "Acanthus mollis",
+      "common": "Bear's Breeches / Acanthus",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f7r",
+      "species": "Trientalis europaea",
+      "common": "Starflower / Chickweed Wintergreen",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f7v",
+      "species": "Myrica gale",
+      "common": "Bog Myrtle / Sweet Gale",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "pulegium regale \""
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f8r",
+      "species": "Pisum sativum",
+      "common": "Green Pea",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f8v",
+      "species": "Symphytum officinale",
+      "common": "Comfrey",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f93r",
+      "species": "Helianthus annuus",
+      "common": "Sunflower",
+      "medieval": "[No medieval name - New World plant]",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "medieval lat. gaida"
+      },
+      "n_corpus": 1,
+      "ingredients": [
+        "I_acorus",
+        "I_carvi",
+        "I_chelidonia"
+      ],
+      "n_ingredients": 3
+    },
+    {
+      "folio": "f94r",
+      "species": "Botrychium lunaria",
+      "common": "Moonwort / Moonfern",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f94v",
+      "species": "Agrostemma githago",
+      "common": "Corncockle",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f96v",
+      "species": "Tamus communis",
+      "common": "Black Bryony",
+      "medieval": "",
+      "confidence": 0.65,
+      "corpus_matches": {
+        "ALPHITA": "kartamus\""
+      },
+      "n_corpus": 1,
+      "ingredients": [
+        "I_crocus"
+      ],
+      "n_ingredients": 1
+    },
+    {
+      "folio": "f28r",
+      "species": "Aristolochia sp.",
+      "common": "Birthwort / Pipevine",
+      "medieval": "",
+      "confidence": 0.6,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f30v",
+      "species": "Cuscuta europaea",
+      "common": "Dodder / Witch's Hair",
+      "medieval": "",
+      "confidence": 0.6,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f11v",
+      "species": "Curcuma longa",
+      "common": "Turmeric",
+      "medieval": "",
+      "confidence": 0.45,
+      "corpus_matches": {
+        "ALPHITA": "ercinos nascitur in fluuiis et circa 25 foliga — habens ozimo similia et oblonga εἰ divisa in summo"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f37v",
+      "species": "Emilia fosbergii",
+      "common": "Tassel Flower",
+      "medieval": "",
+      "confidence": 0.45,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f49r",
+      "species": "Nymphaea caerulea",
+      "common": "Blue Nile Lotus",
+      "medieval": "Nenuphar; Nenufar; Nimfa; Nymphaea",
+      "confidence": 0.45,
+      "corpus_matches": {
+        "ALPHITA": "imbis i. pes ciconie. imnile canales. inantis uel inanti"
+      },
+      "n_corpus": 1,
+      "ingredients": [
+        "I_aliptae",
+        "I_costus",
+        "I_endivia/cichorium",
+        "I_folium",
+        "I_pes",
+        "I_rosa",
+        "I_solanum",
+        "I_succus",
+        "I_viola"
+      ],
+      "n_ingredients": 9
+    },
+    {
+      "folio": "f100r",
+      "species": "Capsicum annuum",
+      "common": "Capsicum Pepper",
+      "medieval": "[No medieval name - New World plant]",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "medieval lat. gaida"
+      },
+      "n_corpus": 1,
+      "ingredients": [
+        "I_acorus",
+        "I_carvi",
+        "I_chelidonia"
+      ],
+      "n_ingredients": 3
+    },
+    {
+      "folio": "f14v",
+      "species": "Stachys monnieri",
+      "common": "Wood Betony / Heal-All",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f15r",
+      "species": "Sonchus oleraceus",
+      "common": "Sow Thistle",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f17r",
+      "species": "Catananche caerulea",
+      "common": "Cupid's Dart",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f19r",
+      "species": "Polemonium caeruleum",
+      "common": "Greek Valerian / Jacob's Ladder",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "polemonium\" cappadocii celidoniam uocant"
+      },
+      "n_corpus": 1,
+      "ingredients": [
+        "I_vinum"
+      ],
+      "n_ingredients": 1
+    },
+    {
+      "folio": "f20r",
+      "species": "Astragalus hypoglottis",
+      "common": "Milk Vetch",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f20v",
+      "species": "Cynara cardunculus",
+      "common": "Cardoon / Artichoke",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f21v",
+      "species": "Dictamnus albus",
+      "common": "Burning Bush / White Dittany",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "elleborus albus habet folia similia plantagini sed longiora et acuciora. et crescit ut plurimum in humidis locis"
+      },
+      "n_corpus": 1,
+      "ingredients": [
+        "I_elleborus",
+        "I_lupinus"
+      ],
+      "n_ingredients": 2
+    },
+    {
+      "folio": "f23r",
+      "species": "Pulsatilla vulgaris",
+      "common": "Pasque Flower",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f23v",
+      "species": "Borago officinalis",
+      "common": "Borage / Starflower",
+      "medieval": "Borago; Borrago; Buglossum",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f24r",
+      "species": "Cucumis sativus",
+      "common": "Cucumber",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f26r",
+      "species": "Prunella vulgaris",
+      "common": "Self-Heal / Healall",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f26v",
+      "species": "Lens culinaris",
+      "common": "Lentil",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "analensia"
+      },
+      "n_corpus": 1,
+      "ingredients": [
+        "I_species"
+      ],
+      "n_ingredients": 1
+    },
+    {
+      "folio": "f27v",
+      "species": "Dianthus superbus",
+      "common": "Fringed Pink / Dianthus",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f30r",
+      "species": "Prunella vulgaris",
+      "common": "Healall / Self-Heal",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f31r",
+      "species": "Erigeron acris",
+      "common": "Blue Fleabane",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f31v",
+      "species": "Valeriana officinalis",
+      "common": "Valerian",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f33r",
+      "species": "Silene vulgaris",
+      "common": "Bladder Campion",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "io"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f51r",
+      "species": "Cakile maritima",
+      "common": "European Sea Rocket",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "purenia i maritima\" quam alii balattam luctantem appellant eo 35 quod luzancio primum inuenta est"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f52v",
+      "species": "Athyrium filix-femina",
+      "common": "Lady Fern",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f55v",
+      "species": "Brassica oleracea",
+      "common": "Broccoli / Wild Cabbage",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f57r",
+      "species": "Sherardia arvensis",
+      "common": "Blue Field Madder",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f65v",
+      "species": "Centaurea cyanus",
+      "common": "Cornflower",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f66v",
+      "species": "Satureja montana",
+      "common": "Winter Savory",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f87r",
+      "species": "Satureja hortensis",
+      "common": "Summer Savory",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "a"
+      },
+      "n_corpus": 1,
+      "ingredients": [],
+      "n_ingredients": 0
+    },
+    {
+      "folio": "f87v",
+      "species": "Primula vulgaris",
+      "common": "Primrose",
+      "medieval": "",
+      "confidence": 0.4,
+      "corpus_matches": {
+        "ALPHITA": "primula veris"
+      },
+      "n_corpus": 1,
+      "ingredients": [
+        "I_aliptae"
+      ],
+      "n_ingredients": 1
+    }
+  ],
+  "plant_name_mappings": {
+    "foch": {
+      "latin": "viola",
+      "folio": "f9v",
+      "species": "Viola tricolor / V. bertolonii",
+      "eva": "fochor"
+    },
+    "pos": {
+      "latin": "lactuca",
+      "folio": "f29r",
+      "species": "Lactuca sativa var. longifolia",
+      "eva": "posaiin"
+    },
+    "tsho": {
+      "latin": "emilia",
+      "folio": "f37v",
+      "species": "Emilia fosbergii",
+      "eva": "tshody"
+    },
+    "pcheod": {
+      "latin": "ruta",
+      "folio": "f48v",
+      "species": "Ruta graveolens",
+      "eva": "pcheodchy"
+    },
+    "posho": {
+      "latin": "salvia",
+      "folio": "f51v",
+      "species": "Salvia officinalis",
+      "eva": "poshody"
+    },
+    "kooiin": {
+      "latin": "nenuphar",
+      "folio": "f2v",
+      "species": "Nymphaea candida",
+      "eva": "kooiin"
+    },
+    "fch": {
+      "latin": "veronica",
+      "folio": "f32r",
+      "species": "Veronica triphyllos",
+      "eva": "fchaiin"
+    },
+    "kech": {
+      "latin": "lunaria",
+      "folio": "f34v",
+      "species": "Lunaria annua",
+      "eva": "kechdy"
+    },
+    "parch": {
+      "latin": "ribes",
+      "folio": "f35v",
+      "species": "Ribes nigrum",
+      "eva": "parchor"
+    },
+    "ko": {
+      "latin": "lonicera",
+      "folio": "f13v",
+      "species": "Lonicera periclymenum",
+      "eva": "koair"
+    },
+    "pched": {
+      "latin": "lens",
+      "folio": "f26v",
+      "species": "Lens culinaris",
+      "eva": "pchedar"
+    },
+    "keered": {
+      "latin": "coriandrum",
+      "folio": "f41v",
+      "species": "Coriandrum sativum",
+      "eva": "keeredal"
+    },
+    "tshodpy": {
+      "latin": "mandragora",
+      "folio": "f44r",
+      "species": "Mandragora officinarum",
+      "eva": "tshodpy"
+    },
+    "pykyd": {
+      "latin": "atriplex",
+      "folio": "f45r",
+      "species": "Atriplex hortensis",
+      "eva": "pykydal"
+    },
+    "do": {
+      "latin": "gentiana",
+      "folio": "f50v",
+      "species": "Gentiana frigida",
+      "eva": "do"
+    },
+    "kod": {
+      "latin": "millefolium",
+      "folio": "f53r",
+      "species": "Achillea ptarmica",
+      "eva": "kodam"
+    },
+    "koary": {
+      "latin": "ricinus",
+      "folio": "f6v",
+      "species": "Ricinus communis",
+      "eva": "koary"
+    },
+    "pcho": {
+      "latin": "scorzonera",
+      "folio": "f14r",
+      "species": "Scorzonera hispanica",
+      "eva": "pcho"
+    },
+    "por": {
+      "latin": "paris",
+      "folio": "f15v",
+      "species": "Paris quadrifolia",
+      "eva": "poror"
+    },
+    "pch": {
+      "latin": "athyrium",
+      "folio": "f52v",
+      "species": "Athyrium filix-femina",
+      "eva": "pchor"
+    },
+    "ol": {
+      "latin": "verbena",
+      "folio": "f22r",
+      "species": "Verbena officinalis",
+      "eva": "olshy"
+    },
+    "fchol": {
+      "latin": "thymus",
+      "folio": "f25r",
+      "species": "Thymus capitatus",
+      "eva": "fcholdy"
+    },
+    "ks": {
+      "latin": "spinacia",
+      "folio": "f27r",
+      "species": "Spinacia oleracea",
+      "eva": "ksor"
+    },
+    "ar": {
+      "latin": "tanacetum",
+      "folio": "f33v",
+      "species": "Tanacetum parthenium",
+      "eva": "ar"
+    },
+    "och": {
+      "latin": "drosera",
+      "folio": "f56r",
+      "species": "Drosera intermedia",
+      "eva": "ochal"
+    },
+    "sheo": {
+      "latin": "linnaea",
+      "folio": "f10v",
+      "species": "Linnaea borealis",
+      "eva": "sheo"
+    },
+    "tsh": {
+      "latin": "sonchus",
+      "folio": "f15r",
+      "species": "Sonchus oleraceus",
+      "eva": "tshor"
+    },
+    "pocheo": {
+      "latin": "cannabis",
+      "folio": "f16r",
+      "species": "Cannabis sativa",
+      "eva": "pocheody"
+    },
+    "pdrair": {
+      "latin": "aster",
+      "folio": "f18r",
+      "species": "Aster alpinus",
+      "eva": "pdrairdy"
+    },
+    "kchsy": {
+      "latin": "atropa",
+      "folio": "f1v",
+      "species": "Atropa belladonna",
+      "eva": "kchsy"
+    },
+    "pysaiin": {
+      "latin": "tulipa",
+      "folio": "f22v",
+      "species": "Tulipa gesneriana",
+      "eva": "pysaiinor"
+    },
+    "poee": {
+      "latin": "isatis",
+      "folio": "f25v",
+      "species": "Isatis tinctoria",
+      "eva": "poeeaiin"
+    },
+    "ksh": {
+      "latin": "rhododendron",
+      "folio": "f28v",
+      "species": "Rhododendron caucasicum",
+      "eva": "kshol"
+    },
+    "kcheod": {
+      "latin": "campanula",
+      "folio": "f32v",
+      "species": "Campanula rotundifolia",
+      "eva": "kcheodaiin"
+    },
+    "choo": {
+      "latin": "cichorium",
+      "folio": "f35r",
+      "species": "Cichorium intybus",
+      "eva": "choo"
+    },
+    "pchadan": {
+      "latin": "delphinium",
+      "folio": "f36r",
+      "species": "Delphinium staphisagria",
+      "eva": "pchadan"
+    },
+    "tocph": {
+      "latin": "mentha",
+      "folio": "f37r",
+      "species": "Mentha longifolia",
+      "eva": "tocphol"
+    },
+    "tedo": {
+      "latin": "crocus",
+      "folio": "f39r",
+      "species": "Crocus sativus",
+      "eva": "tedo"
+    },
+    "tsheos": {
+      "latin": "celosia",
+      "folio": "f3r",
+      "species": "Celosia argentea",
+      "eva": "tsheos"
+    },
+    "psh": {
+      "latin": "pisum",
+      "folio": "f8r",
+      "species": "Pisum sativum",
+      "eva": "pshol"
+    },
+    "cho": {
+      "latin": "aquilegia",
+      "folio": "f42v",
+      "species": "Aquilegia vulgaris",
+      "eva": "cho"
+    },
+    "tarod": {
+      "latin": "stellaria",
+      "folio": "f43r",
+      "species": "Stellaria media",
+      "eva": "tarodaiin"
+    },
+    "korary": {
+      "latin": "lavandula",
+      "folio": "f45v",
+      "species": "Lavandula angustifolia",
+      "eva": "korary"
+    },
+    "pcheocphy": {
+      "latin": "leucanthemum",
+      "folio": "f46r",
+      "species": "Leucanthemum vulgare",
+      "eva": "pcheocphy"
+    },
+    "po": {
+      "latin": "inula",
+      "folio": "f46v",
+      "species": "Inula conyza",
+      "eva": "pody"
+    },
+    "psheot": {
+      "latin": "pulmonaria",
+      "folio": "f47v",
+      "species": "Pulmonaria officinalis",
+      "eva": "psheot"
+    },
+    "kodal": {
+      "latin": "saxifraga",
+      "folio": "f4r",
+      "species": "Saxifraga cespitosa",
+      "eva": "kodalchy"
+    },
+    "pchooiin": {
+      "latin": "campanula",
+      "folio": "f4v",
+      "species": "Campanula rapunculus",
+      "eva": "pchooiin"
+    },
+    "pshe": {
+      "latin": "astrantia",
+      "folio": "f50r",
+      "species": "Astrantia major",
+      "eva": "psheor"
+    },
+    "tdokchcfhy": {
+      "latin": "anemone",
+      "folio": "f52r",
+      "species": "Anemone coronaria",
+      "eva": "tdokchcfhy"
+    },
+    "pod": {
+      "latin": "valeriana",
+      "folio": "f31v",
+      "species": "Valeriana officinalis",
+      "eva": "podair"
+    },
+    "kcho": {
+      "latin": "arnica",
+      "folio": "f5r",
+      "species": "Arnica montana",
+      "eva": "kchody"
+    },
+    "che": {
+      "latin": "malva",
+      "folio": "f5v",
+      "species": "Malva sylvestris",
+      "eva": "cheor"
+    },
+    "otaim": {
+      "latin": "alchemilla",
+      "folio": "f65r",
+      "species": "Alchemilla vulgaris",
+      "eva": "otaim"
+    },
+    "fo": {
+      "latin": "acanthus",
+      "folio": "f6r",
+      "species": "Acanthus mollis",
+      "eva": "foar"
+    },
+    "fchod": {
+      "latin": "trientalis",
+      "folio": "f7r",
+      "species": "Trientalis europaea",
+      "eva": "fchodaiin"
+    },
+    "poly": {
+      "latin": "myrica",
+      "folio": "f7v",
+      "species": "Myrica gale",
+      "eva": "polyshy"
+    },
+    "chod": {
+      "latin": "symphytum",
+      "folio": "f8v",
+      "species": "Symphytum officinale",
+      "eva": "chod"
+    },
+    "kodsh": {
+      "latin": "[no medieval name - new world plant]",
+      "folio": "f93r",
+      "species": "Helianthus annuus",
+      "eva": "kodshol"
+    },
+    "tch": {
+      "latin": "botrychium",
+      "folio": "f94r",
+      "species": "Botrychium lunaria",
+      "eva": "tchedy"
+    },
+    "psheesshee": {
+      "latin": "tamus",
+      "folio": "f96v",
+      "species": "Tamus communis",
+      "eva": "psheessheeor"
+    },
+    "pchod": {
+      "latin": "aristolochia",
+      "folio": "f28r",
+      "species": "Aristolochia sp.",
+      "eva": "pchodar"
+    },
+    "chsch": {
+      "latin": "cuscuta",
+      "folio": "f30v",
+      "species": "Cuscuta europaea",
+      "eva": "chschain"
+    },
+    "poldcho": {
+      "latin": "curcuma",
+      "folio": "f11v",
+      "species": "Curcuma longa",
+      "eva": "poldchody"
+    },
+    "pych": {
+      "latin": "nenuphar",
+      "folio": "f49r",
+      "species": "Nymphaea caerulea",
+      "eva": "pychol"
+    },
+    "chosarosh": {
+      "latin": "[no medieval name - new world plant]",
+      "folio": "f100r",
+      "species": "Capsicum annuum",
+      "eva": "chosaroshol"
+    },
+    "pdychoiin": {
+      "latin": "stachys",
+      "folio": "f14v",
+      "species": "Stachys monnieri",
+      "eva": "pdychoiin"
+    },
+    "fsho": {
+      "latin": "catananche",
+      "folio": "f17r",
+      "species": "Catananche caerulea",
+      "eva": "fshody"
+    },
+    "kdcho": {
+      "latin": "astragalus",
+      "folio": "f20r",
+      "species": "Astragalus hypoglottis",
+      "eva": "kdchody"
+    },
+    "faiis": {
+      "latin": "cynara",
+      "folio": "f20v",
+      "species": "Cynara cardunculus",
+      "eva": "faiis"
+    },
+    "told": {
+      "latin": "dictamnus",
+      "folio": "f21v",
+      "species": "Dictamnus albus",
+      "eva": "toldshy"
+    },
+    "pydchd": {
+      "latin": "pulsatilla",
+      "folio": "f23r",
+      "species": "Pulsatilla vulgaris",
+      "eva": "pydchdom"
+    },
+    "podair": {
+      "latin": "borago",
+      "folio": "f23v",
+      "species": "Borago officinalis",
+      "eva": "podairol"
+    },
+    "or": {
+      "latin": "cucumis",
+      "folio": "f24r",
+      "species": "Cucumis sativus",
+      "eva": "or"
+    },
+    "psheoky": {
+      "latin": "prunella",
+      "folio": "f26r",
+      "species": "Prunella vulgaris",
+      "eva": "psheoky"
+    },
+    "pochof": {
+      "latin": "dianthus",
+      "folio": "f27v",
+      "species": "Dianthus superbus",
+      "eva": "pochof"
+    },
+    "okeeesy": {
+      "latin": "prunella",
+      "folio": "f30r",
+      "species": "Prunella vulgaris",
+      "eva": "okeeesy"
+    },
+    "keed": {
+      "latin": "erigeron",
+      "folio": "f31r",
+      "species": "Erigeron acris",
+      "eva": "keedey"
+    },
+    "tshd": {
+      "latin": "silene",
+      "folio": "f33r",
+      "species": "Silene vulgaris",
+      "eva": "tshdar"
+    },
+    "tshold": {
+      "latin": "cakile",
+      "folio": "f51r",
+      "species": "Cakile maritima",
+      "eva": "tsholdchy"
+    },
+    "kcheedch": {
+      "latin": "brassica",
+      "folio": "f55v",
+      "species": "Brassica oleracea",
+      "eva": "kcheedchdy"
+    },
+    "poeeockh": {
+      "latin": "sherardia",
+      "folio": "f57r",
+      "species": "Sherardia arvensis",
+      "eva": "poeeockhey"
+    },
+    "cphy": {
+      "latin": "centaurea",
+      "folio": "f65v",
+      "species": "Centaurea cyanus",
+      "eva": "cphy"
+    },
+    "okeodof": {
+      "latin": "satureja",
+      "folio": "f66v",
+      "species": "Satureja montana",
+      "eva": "okeodof"
+    },
+    "poalshs": {
+      "latin": "satureja",
+      "folio": "f87r",
+      "species": "Satureja hortensis",
+      "eva": "poalshsal"
+    },
+    "ch": {
+      "latin": "primula",
+      "folio": "f87v",
+      "species": "Primula vulgaris",
+      "eva": "cheey"
+    }
+  },
+  "first_words": {
+    "f9v": {
+      "eva": "fochor",
+      "root": "foch"
+    },
+    "f29r": {
+      "eva": "posaiin",
+      "root": "pos"
+    },
+    "f44v": {
+      "eva": "tsho",
+      "root": "tsho"
+    },
+    "f48v": {
+      "eva": "pcheodchy",
+      "root": "pcheod"
+    },
+    "f51v": {
+      "eva": "poshody",
+      "root": "posho"
+    },
+    "f29v": {
+      "eva": "kooiin",
+      "root": "kooiin"
+    },
+    "f2v": {
+      "eva": "kooiin",
+      "root": "kooiin"
+    },
+    "f32r": {
+      "eva": "fchaiin",
+      "root": "fch"
+    },
+    "f34v": {
+      "eva": "kechdy",
+      "root": "kech"
+    },
+    "f35v": {
+      "eva": "parchor",
+      "root": "parch"
+    },
+    "f3v": {
+      "eva": "koaiin",
+      "root": "ko"
+    },
+    "f40v": {
+      "eva": "pchedain",
+      "root": "pched"
+    },
+    "f41v": {
+      "eva": "keeredal",
+      "root": "keered"
+    },
+    "f44r": {
+      "eva": "tshodpy",
+      "root": "tshodpy"
+    },
+    "f45r": {
+      "eva": "pykydal",
+      "root": "pykyd"
+    },
+    "f50v": {
+      "eva": "do",
+      "root": "do"
+    },
+    "f53r": {
+      "eva": "kodam",
+      "root": "kod"
+    },
+    "f6v": {
+      "eva": "koary",
+      "root": "koary"
+    },
+    "f14r": {
+      "eva": "pcho",
+      "root": "pcho"
+    },
+    "f15v": {
+      "eva": "poror",
+      "root": "por"
+    },
+    "f21r": {
+      "eva": "pchor",
+      "root": "pch"
+    },
+    "f22r": {
+      "eva": "olshy",
+      "root": "ol"
+    },
+    "f25r": {
+      "eva": "fcholdy",
+      "root": "fchol"
+    },
+    "f27r": {
+      "eva": "ksor",
+      "root": "ks"
+    },
+    "f33v": {
+      "eva": "ar",
+      "root": "ar"
+    },
+    "f56r": {
+      "eva": "ochal",
+      "root": "och"
+    },
+    "f10v": {
+      "eva": "sheo",
+      "root": "sheo"
+    },
+    "f11r": {
+      "eva": "tshol",
+      "root": "tsh"
+    },
+    "f13v": {
+      "eva": "koair",
+      "root": "ko"
+    },
+    "f16r": {
+      "eva": "pocheody",
+      "root": "pocheo"
+    },
+    "f18r": {
+      "eva": "pdrairdy",
+      "root": "pdrair"
+    },
+    "f1v": {
+      "eva": "kchsy",
+      "root": "kchsy"
+    },
+    "f22v": {
+      "eva": "pysaiinor",
+      "root": "pysaiin"
+    },
+    "f25v": {
+      "eva": "poeeaiin",
+      "root": "poee"
+    },
+    "f28v": {
+      "eva": "kshol",
+      "root": "ksh"
+    },
+    "f32v": {
+      "eva": "kcheodaiin",
+      "root": "kcheod"
+    },
+    "f35r": {
+      "eva": "choo",
+      "root": "choo"
+    },
+    "f36r": {
+      "eva": "pchadan",
+      "root": "pchadan"
+    },
+    "f36v": {
+      "eva": "pchar",
+      "root": "pch"
+    },
+    "f37r": {
+      "eva": "tocphol",
+      "root": "tocph"
+    },
+    "f39r": {
+      "eva": "tedo",
+      "root": "tedo"
+    },
+    "f3r": {
+      "eva": "tsheos",
+      "root": "tsheos"
+    },
+    "f40r": {
+      "eva": "pchey",
+      "root": "pch"
+    },
+    "f41r": {
+      "eva": "pshey",
+      "root": "psh"
+    },
+    "f42v": {
+      "eva": "cho",
+      "root": "cho"
+    },
+    "f43r": {
+      "eva": "tarodaiin",
+      "root": "tarod"
+    },
+    "f45v": {
+      "eva": "korary",
+      "root": "korary"
+    },
+    "f46r": {
+      "eva": "pcheocphy",
+      "root": "pcheocphy"
+    },
+    "f46v": {
+      "eva": "pody",
+      "root": "po"
+    },
+    "f47v": {
+      "eva": "psheot",
+      "root": "psheot"
+    },
+    "f4r": {
+      "eva": "kodalchy",
+      "root": "kodal"
+    },
+    "f4v": {
+      "eva": "pchooiin",
+      "root": "pchooiin"
+    },
+    "f50r": {
+      "eva": "psheor",
+      "root": "pshe"
+    },
+    "f52r": {
+      "eva": "tdokchcfhy",
+      "root": "tdokchcfhy"
+    },
+    "f53v": {
+      "eva": "tshor",
+      "root": "tsh"
+    },
+    "f54r": {
+      "eva": "podaiin",
+      "root": "pod"
+    },
+    "f55r": {
+      "eva": "podaiin",
+      "root": "pod"
+    },
+    "f5r": {
+      "eva": "kchody",
+      "root": "kcho"
+    },
+    "f5v": {
+      "eva": "cheor",
+      "root": "che"
+    },
+    "f65r": {
+      "eva": "otaim",
+      "root": "otaim"
+    },
+    "f6r": {
+      "eva": "foar",
+      "root": "fo"
+    },
+    "f7r": {
+      "eva": "fchodaiin",
+      "root": "fchod"
+    },
+    "f7v": {
+      "eva": "polyshy",
+      "root": "poly"
+    },
+    "f8r": {
+      "eva": "pshol",
+      "root": "psh"
+    },
+    "f8v": {
+      "eva": "chod",
+      "root": "chod"
+    },
+    "f93r": {
+      "eva": "kodshol",
+      "root": "kodsh"
+    },
+    "f94r": {
+      "eva": "tchedy",
+      "root": "tch"
+    },
+    "f94v": {
+      "eva": "tshedy",
+      "root": "tsh"
+    },
+    "f96v": {
+      "eva": "psheessheeor",
+      "root": "psheesshee"
+    },
+    "f28r": {
+      "eva": "pchodar",
+      "root": "pchod"
+    },
+    "f30v": {
+      "eva": "chschain",
+      "root": "chsch"
+    },
+    "f11v": {
+      "eva": "poldchody",
+      "root": "poldcho"
+    },
+    "f37v": {
+      "eva": "tshody",
+      "root": "tsho"
+    },
+    "f49r": {
+      "eva": "pychol",
+      "root": "pych"
+    },
+    "f100r": {
+      "eva": "chosaroshol",
+      "root": "chosarosh"
+    },
+    "f14v": {
+      "eva": "pdychoiin",
+      "root": "pdychoiin"
+    },
+    "f15r": {
+      "eva": "tshor",
+      "root": "tsh"
+    },
+    "f17r": {
+      "eva": "fshody",
+      "root": "fsho"
+    },
+    "f19r": {
+      "eva": "pchor",
+      "root": "pch"
+    },
+    "f20r": {
+      "eva": "kdchody",
+      "root": "kdcho"
+    },
+    "f20v": {
+      "eva": "faiis",
+      "root": "faiis"
+    },
+    "f21v": {
+      "eva": "toldshy",
+      "root": "told"
+    },
+    "f23r": {
+      "eva": "pydchdom",
+      "root": "pydchd"
+    },
+    "f23v": {
+      "eva": "podairol",
+      "root": "podair"
+    },
+    "f24r": {
+      "eva": "or",
+      "root": "or"
+    },
+    "f26r": {
+      "eva": "psheoky",
+      "root": "psheoky"
+    },
+    "f26v": {
+      "eva": "pchedar",
+      "root": "pched"
+    },
+    "f27v": {
+      "eva": "pochof",
+      "root": "pochof"
+    },
+    "f30r": {
+      "eva": "okeeesy",
+      "root": "okeeesy"
+    },
+    "f31r": {
+      "eva": "keedey",
+      "root": "keed"
+    },
+    "f31v": {
+      "eva": "podair",
+      "root": "pod"
+    },
+    "f33r": {
+      "eva": "tshdar",
+      "root": "tshd"
+    },
+    "f51r": {
+      "eva": "tsholdchy",
+      "root": "tshold"
+    },
+    "f52v": {
+      "eva": "pchor",
+      "root": "pch"
+    },
+    "f55v": {
+      "eva": "kcheedchdy",
+      "root": "kcheedch"
+    },
+    "f57r": {
+      "eva": "poeeockhey",
+      "root": "poeeockh"
+    },
+    "f65v": {
+      "eva": "cphy",
+      "root": "cphy"
+    },
+    "f66v": {
+      "eva": "okeodof",
+      "root": "okeodof"
+    },
+    "f87r": {
+      "eva": "poalshsal",
+      "root": "poalshs"
+    },
+    "f87v": {
+      "eva": "cheey",
+      "root": "ch"
+    }
+  }
+}

@@ -1,0 +1,2084 @@
+{
+  "n_known_roots": 19,
+  "n_folio_fingerprints": 142,
+  "n_unidentified_matched": 111,
+  "validation_correct": 0,
+  "validation_wrong": 28,
+  "validation_total": 28,
+  "reverse_identifications": [
+    {
+      "fid": "f43v",
+      "n_folio_ingrs": 9,
+      "folio_ingrs": [
+        "aqua",
+        "myrrha",
+        "nitrum",
+        "oleum",
+        "ovum",
+        "panis",
+        "piper",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 9,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 566,
+      "top3": [
+        [
+          "betonica",
+          9,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .viii.",
+          8,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "lactuca",
+          7,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f57r",
+      "n_folio_ingrs": 8,
+      "folio_ingrs": [
+        "aurum",
+        "ovum",
+        "panis",
+        "piper",
+        "ren",
+        "succus",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 8,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 408,
+      "top3": [
+        [
+          "betonica",
+          8,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          6,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .viii.",
+          6,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f43r",
+      "n_folio_ingrs": 9,
+      "folio_ingrs": [
+        "aurum",
+        "oleum",
+        "ovum",
+        "panis",
+        "piper",
+        "succus",
+        "vena",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 8,
+      "best_coverage": 0.8888888888888888,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 385,
+      "top3": [
+        [
+          "betonica",
+          8,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          6,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .viii.",
+          6,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f46r",
+      "n_folio_ingrs": 9,
+      "folio_ingrs": [
+        "aqua",
+        "aurum",
+        "oleum",
+        "ovum",
+        "panis",
+        "succus",
+        "vena",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 8,
+      "best_coverage": 0.8888888888888888,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 543,
+      "top3": [
+        [
+          "betonica",
+          8,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "ruta",
+          6,
+          [
+            "ALPHITA",
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .xxi.",
+          6,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f48r",
+      "n_folio_ingrs": 9,
+      "folio_ingrs": [
+        "aqua",
+        "aurum",
+        "nitrum",
+        "panis",
+        "piper",
+        "succus",
+        "vena",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 8,
+      "best_coverage": 0.8888888888888888,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 549,
+      "top3": [
+        [
+          "betonica",
+          8,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .viii.",
+          7,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "lactuca",
+          6,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f45v",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "oleum",
+        "panis",
+        "piper",
+        "ren",
+        "succus",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 6,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 123,
+      "top3": [
+        [
+          "betonica",
+          6,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "lactuca",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f13v",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "myrrha",
+        "ovum",
+        "piper",
+        "ren",
+        "vena"
+      ],
+      "best_plant": "de cura. capitulum .ix.",
+      "best_overlap": 5,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 189,
+      "top3": [
+        [
+          "de cura. capitulum .ix.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .xiiii.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .xviii.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f1r",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "myrrha",
+        "panis",
+        "piper",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "de cura. capitulum .vii.",
+      "best_overlap": 5,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 105,
+      "top3": [
+        [
+          "de cura. capitulum .vii.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .ix.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f32r",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "myrrha",
+        "panis",
+        "vena",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "de cura. capitulum .vii.",
+      "best_overlap": 5,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 302,
+      "top3": [
+        [
+          "de cura. capitulum .vii.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de egritudinibus. que infantibus accidunt. capitulum .iii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f34v",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "aqua",
+        "oleum",
+        "succus",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 343,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "ruta",
+          4,
+          [
+            "ALPHITA",
+            "MACER"
+          ]
+        ],
+        [
+          "pulegium",
+          4,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f46v",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "ovum",
+        "piper",
+        "vena",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "de cura. capitulum .vii.",
+      "best_overlap": 5,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 233,
+      "top3": [
+        [
+          "de cura. capitulum .vii.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .ix.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f53v",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "oleum",
+        "panis",
+        "ren",
+        "succus",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 91,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "cs_v2_l1840",
+          4,
+          [
+            "BALNEA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f89v2",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "myrrha",
+        "oleum",
+        "piper",
+        "succus",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 85,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "pulegium",
+          3,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f8r",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "myrrha",
+        "oleum",
+        "panis",
+        "piper",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 101,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f95r2",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "oleum",
+        "panis",
+        "succus",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 188,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "caropos est color flavus urinz velleribus camelorum similis. 1 μυροβάλανος. blatta est os naris purpurze quee byzantina vocatur (actuarius ap. holyoke)",
+          4,
+          [
+            "ALPHITA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f10r",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "aqua",
+        "piper",
+        "ren",
+        "succus",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 253,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f16v",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "aqua",
+        "oleum",
+        "panis",
+        "ren",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 282,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f2r",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "aqua",
+        "aurum",
+        "oleum",
+        "piper",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 186,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .xviii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f34r",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "nitrum",
+        "ovum",
+        "piper",
+        "vena",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 289,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .ix.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .xiiii.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f42r",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "aurum",
+        "myrrha",
+        "oleum",
+        "piper",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 100,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .xviii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f49v",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "myrrha",
+        "oleum",
+        "panis",
+        "succus",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 122,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f7r",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "myrrha",
+        "oleum",
+        "panis",
+        "succus",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 122,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f89r1",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "panis",
+        "piper",
+        "succus",
+        "vena",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 279,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f93v",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "oleum",
+        "panis",
+        "ren",
+        "succus",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 157,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f94v",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "aqua",
+        "nitrum",
+        "succus",
+        "vena",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 442,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .xxi.",
+          5,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "ruta",
+          4,
+          [
+            "ALPHITA",
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f96r",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "oleum",
+        "panis",
+        "ren",
+        "succus",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 157,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f99r",
+      "n_folio_ingrs": 6,
+      "folio_ingrs": [
+        "aqua",
+        "oleum",
+        "panis",
+        "succus",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 5,
+      "best_coverage": 0.8333333333333334,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 228,
+      "top3": [
+        [
+          "betonica",
+          5,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura specierum eius. capitulum .iii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f21v",
+      "n_folio_ingrs": 4,
+      "folio_ingrs": [
+        "myrrha",
+        "panis",
+        "piper",
+        "vena"
+      ],
+      "best_plant": "de cura. capitulum .ix.",
+      "best_overlap": 4,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 100,
+      "top3": [
+        [
+          "de cura. capitulum .ix.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .vi.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .xiiii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f26r",
+      "n_folio_ingrs": 4,
+      "folio_ingrs": [
+        "aqua",
+        "nitrum",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 4,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 324,
+      "top3": [
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .xxi.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .viii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f33r",
+      "n_folio_ingrs": 4,
+      "folio_ingrs": [
+        "oleum",
+        "ovum",
+        "vena",
+        "vinum"
+      ],
+      "best_plant": "tractatus .xi. de vnguentis et emplastris.",
+      "best_overlap": 4,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 207,
+      "top3": [
+        [
+          "tractatus .xi. de vnguentis et emplastris.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "betonica",
+          3,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "capitulum .i.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f54v",
+      "n_folio_ingrs": 4,
+      "folio_ingrs": [
+        "aqua",
+        "mastix",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "de cura. capitulum .xxi.",
+      "best_overlap": 4,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 149,
+      "top3": [
+        [
+          "de cura. capitulum .xxi.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de regimine eius quod comeditur et bibitur. capitulum .vii.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f89v1",
+      "n_folio_ingrs": 4,
+      "folio_ingrs": [
+        "ovum",
+        "ren",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "de cura. capitulum .vii.",
+      "best_overlap": 4,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 107,
+      "top3": [
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "betonica",
+          3,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "capitulum .i.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f99v",
+      "n_folio_ingrs": 4,
+      "folio_ingrs": [
+        "mastix",
+        "myrrha",
+        "ovum",
+        "viola"
+      ],
+      "best_plant": "de cura. capitulum .vii.",
+      "best_overlap": 4,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 95,
+      "top3": [
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .viii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "betonica",
+          3,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f13r",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "aqua",
+        "oleum",
+        "succus",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 4,
+      "best_coverage": 0.8,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 169,
+      "top3": [
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "cs_v2_l1840",
+          4,
+          [
+            "BALNEA"
+          ]
+        ],
+        [
+          "ruta",
+          3,
+          [
+            "ALPHITA",
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f14v",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "aqua",
+        "oleum",
+        "panis",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 4,
+      "best_coverage": 0.8,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 193,
+      "top3": [
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura specierum eius. capitulum .iii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .xxi.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f17r",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "aqua",
+        "panis",
+        "succus",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 4,
+      "best_coverage": 0.8,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 177,
+      "top3": [
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura specierum eius. capitulum .iii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .xxi.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f17v",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "oleum",
+        "ren",
+        "succus",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 4,
+      "best_coverage": 0.8,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 111,
+      "top3": [
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "cs_v2_l1840",
+          4,
+          [
+            "BALNEA"
+          ]
+        ],
+        [
+          "lactuca",
+          3,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f30v",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "myrrha",
+        "oleum",
+        "piper",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 4,
+      "best_coverage": 0.8,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 84,
+      "top3": [
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "lactuca",
+          3,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f50r",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "oleum",
+        "succus",
+        "vena",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 4,
+      "best_coverage": 0.8,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 170,
+      "top3": [
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "allium",
+          3,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "viola",
+          3,
+          [
+            "ALPHITA",
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f51r",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "aqua",
+        "ovum",
+        "succus",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "ruta",
+      "best_overlap": 4,
+      "best_coverage": 0.8,
+      "best_sources": [
+        "ALPHITA",
+        "MACER"
+      ],
+      "n_matches": 179,
+      "top3": [
+        [
+          "ruta",
+          4,
+          [
+            "ALPHITA",
+            "MACER"
+          ]
+        ],
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "portulaca",
+          4,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f55r",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "oleum",
+        "piper",
+        "vena",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 4,
+      "best_coverage": 0.8,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 187,
+      "top3": [
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "lactuca",
+          3,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f89r2",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "oleum",
+        "succus",
+        "vena",
+        "vinum",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 4,
+      "best_coverage": 0.8,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 170,
+      "top3": [
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "allium",
+          3,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "viola",
+          3,
+          [
+            "ALPHITA",
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f93r",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "oleum",
+        "panis",
+        "ren",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 4,
+      "best_coverage": 0.8,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 127,
+      "top3": [
+        [
+          "betonica",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "lactuca",
+          3,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f9r",
+      "n_folio_ingrs": 5,
+      "folio_ingrs": [
+        "mastix",
+        "oleum",
+        "panis",
+        "ren",
+        "vena"
+      ],
+      "best_plant": "lactuca",
+      "best_overlap": 4,
+      "best_coverage": 0.8,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 164,
+      "top3": [
+        [
+          "lactuca",
+          4,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "de regimine eius quod comeditur et bibitur. capitulum .vii.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .ix.",
+          4,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f100r",
+      "n_folio_ingrs": 3,
+      "folio_ingrs": [
+        "oleum",
+        "panis",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 3,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 19,
+      "top3": [
+        [
+          "betonica",
+          3,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "caropos est color flavus urinz velleribus camelorum similis. 1 μυροβάλανος. blatta est os naris purpurze quee byzantina vocatur (actuarius ap. holyoke)",
+          3,
+          [
+            "ALPHITA"
+          ]
+        ],
+        [
+          "absinthium",
+          2,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f100v",
+      "n_folio_ingrs": 3,
+      "folio_ingrs": [
+        "salvia",
+        "succus",
+        "viola"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 3,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 13,
+      "top3": [
+        [
+          "betonica",
+          3,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "ruta",
+          2,
+          [
+            "ALPHITA",
+            "MACER"
+          ]
+        ],
+        [
+          "portulaca",
+          2,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f101r",
+      "n_folio_ingrs": 3,
+      "folio_ingrs": [
+        "aqua",
+        "oleum",
+        "succus"
+      ],
+      "best_plant": "betonica",
+      "best_overlap": 3,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "MACER"
+      ],
+      "n_matches": 87,
+      "top3": [
+        [
+          "betonica",
+          3,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "pulegium",
+          3,
+          [
+            "MACER"
+          ]
+        ],
+        [
+          "lactuca",
+          3,
+          [
+            "MACER"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f10v",
+      "n_folio_ingrs": 3,
+      "folio_ingrs": [
+        "panis",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "de cura specierum eius. capitulum .iii.",
+      "best_overlap": 3,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 35,
+      "top3": [
+        [
+          "de cura specierum eius. capitulum .iii.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .xxi.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f15r",
+      "n_folio_ingrs": 3,
+      "folio_ingrs": [
+        "mastix",
+        "piper",
+        "vena"
+      ],
+      "best_plant": "de canonibus vniuersalibus curationis. capitulum .xxix.",
+      "best_overlap": 3,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 53,
+      "top3": [
+        [
+          "de canonibus vniuersalibus curationis. capitulum .xxix.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .ix.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .vi.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    },
+    {
+      "fid": "f19r",
+      "n_folio_ingrs": 3,
+      "folio_ingrs": [
+        "panis",
+        "vena",
+        "viola"
+      ],
+      "best_plant": "de cura specierum eius. capitulum .iii.",
+      "best_overlap": 3,
+      "best_coverage": 1.0,
+      "best_sources": [
+        "AVICENNA"
+      ],
+      "n_matches": 35,
+      "top3": [
+        [
+          "de cura specierum eius. capitulum .iii.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .xxi.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ],
+        [
+          "de cura. capitulum .vii.",
+          3,
+          [
+            "AVICENNA"
+          ]
+        ]
+      ]
+    }
+  ],
+  "plant_db_size": 4120
+}

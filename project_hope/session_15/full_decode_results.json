@@ -1,0 +1,331 @@
+{
+  "pharma_decomposed_pct": 50,
+  "f48v_pct": 57,
+  "f103r_b01_pct": 54,
+  "top_recipes": [
+    {
+      "bid": "f115v_B04",
+      "n_total": 13,
+      "n_decoded": 12,
+      "pct": 92,
+      "n_ingr": 10,
+      "unique_ingr": 4,
+      "ingredients": [
+        "q+i_vena.ey",
+        "i_nitrum.rail",
+        "oleum.ol",
+        "q+i_vena.ed"
+      ]
+    },
+    {
+      "bid": "f106r_B09",
+      "n_total": 21,
+      "n_decoded": 19,
+      "pct": 90,
+      "n_ingr": 13,
+      "unique_ingr": 3,
+      "ingredients": [
+        "se+i_ruta.ey",
+        "se+i_ruta.chor",
+        "i_vena.odar"
+      ]
+    },
+    {
+      "bid": "f114v_B02",
+      "n_total": 20,
+      "n_decoded": 18,
+      "pct": 90,
+      "n_ingr": 14,
+      "unique_ingr": 3,
+      "ingredients": [
+        "acetum.edy",
+        "q+i_vena.edy",
+        "i_nitrum.d"
+      ]
+    },
+    {
+      "bid": "f103r_B09",
+      "n_total": 27,
+      "n_decoded": 24,
+      "pct": 88,
+      "n_ingr": 21,
+      "unique_ingr": 8,
+      "ingredients": [
+        "se+i_ruta.eody",
+        "ac+i_ruta.ey",
+        "qo+i_ruta.ey",
+        "qo+i_ruta.chy",
+        "qo+i_ruta.eey",
+        "se+i_ruta.ol",
+        "qo+i_ruta.eechy",
+        "i_nitrum.keey"
+      ]
+    },
+    {
+      "bid": "f103r_B12",
+      "n_total": 18,
+      "n_decoded": 16,
+      "pct": 88,
+      "n_ingr": 12,
+      "unique_ingr": 2,
+      "ingredients": [
+        "qo+i_ruta.car",
+        "qo+i_ruta.ey"
+      ]
+    },
+    {
+      "bid": "f112v_B09",
+      "n_total": 34,
+      "n_decoded": 30,
+      "pct": 88,
+      "n_ingr": 22,
+      "unique_ingr": 4,
+      "ingredients": [
+        "ac+i_ruta.es",
+        "ac+i_ruta.eedy",
+        "qo+i_ruta.dy",
+        "che+i_viola."
+      ]
+    },
+    {
+      "bid": "f108r_B13",
+      "n_total": 31,
+      "n_decoded": 27,
+      "pct": 87,
+      "n_ingr": 23,
+      "unique_ingr": 7,
+      "ingredients": [
+        "ac+i_ruta.ey",
+        "she+i_viola.",
+        "qo+i_ruta.dy",
+        "i_ruta.ey",
+        "ac+i_ruta.dy",
+        "qo+i_ruta.y",
+        "i_ruta.am"
+      ]
+    },
+    {
+      "bid": "f111r_B05",
+      "n_total": 31,
+      "n_decoded": 27,
+      "pct": 87,
+      "n_ingr": 21,
+      "unique_ingr": 9,
+      "ingredients": [
+        "i_ruta.eey",
+        "i_ruta.el",
+        "poeo+i_ruta.ey",
+        "ac+i_ruta.ey",
+        "qo+i_ruta.ey",
+        "i_ruta.eor",
+        "cum+i_viola.",
+        "se+i_ruta.ey",
+        "she+acetum.y"
+      ]
+    },
+    {
+      "bid": "f115v_B10",
+      "n_total": 24,
+      "n_decoded": 21,
+      "pct": 87,
+      "n_ingr": 18,
+      "unique_ingr": 4,
+      "ingredients": [
+        "cum+acetum.y",
+        "q+i_vena.y",
+        "i_aurum.",
+        "i_nitrum.kchy"
+      ]
+    },
+    {
+      "bid": "f104r_B13",
+      "n_total": 30,
+      "n_decoded": 26,
+      "pct": 86,
+      "n_ingr": 13,
+      "unique_ingr": 1,
+      "ingredients": [
+        "qo+i_ruta.ey"
+      ]
+    },
+    {
+      "bid": "f106r_B07",
+      "n_total": 37,
+      "n_decoded": 32,
+      "pct": 86,
+      "n_ingr": 21,
+      "unique_ingr": 2,
+      "ingredients": [
+        "i_vena.edy",
+        "qo+i_ruta.ey"
+      ]
+    },
+    {
+      "bid": "f108r_B14",
+      "n_total": 30,
+      "n_decoded": 26,
+      "pct": 86,
+      "n_ingr": 23,
+      "unique_ingr": 8,
+      "ingredients": [
+        "qo+i_ruta.ey",
+        "se+i_ruta.dy",
+        "ac+i_ruta.ol",
+        "qo+i_ruta.dy",
+        "i_ruta.ol",
+        "qo+i_ruta.o",
+        "ac+i_ruta.dy",
+        "qo+i_ruta.y"
+      ]
+    },
+    {
+      "bid": "f111r_B03",
+      "n_total": 83,
+      "n_decoded": 72,
+      "pct": 86,
+      "n_ingr": 52,
+      "unique_ingr": 21,
+      "ingredients": [
+        "qo+i_ruta.eol",
+        "cum+acetum.edy",
+        "i_ruta.eol",
+        "i_ruta.dy",
+        "ac+i_ruta.ey",
+        "qo+i_ruta.eal",
+        "qo+i_ruta.ey",
+        "se+i_ruta.eedy",
+        "ac+i_ruta.eo",
+        "qo+i_ruta.okedy"
+      ]
+    },
+    {
+      "bid": "f103r_B17",
+      "n_total": 34,
+      "n_decoded": 29,
+      "pct": 85,
+      "n_ingr": 21,
+      "unique_ingr": 2,
+      "ingredients": [
+        "ac+i_ruta.ey",
+        "qo+i_ruta.ey"
+      ]
+    },
+    {
+      "bid": "f111v_B03",
+      "n_total": 20,
+      "n_decoded": 17,
+      "pct": 85,
+      "n_ingr": 8,
+      "unique_ingr": 3,
+      "ingredients": [
+        "i_nitrum.kar",
+        "i_vena.ey",
+        "qo+i_ruta.ey"
+      ]
+    },
+    {
+      "bid": "f115v_B03",
+      "n_total": 27,
+      "n_decoded": 23,
+      "pct": 85,
+      "n_ingr": 18,
+      "unique_ingr": 3,
+      "ingredients": [
+        "q+i_vena.y",
+        "i_nitrum.",
+        "q+i_vena.s"
+      ]
+    },
+    {
+      "bid": "f106r_B12",
+      "n_total": 13,
+      "n_decoded": 11,
+      "pct": 84,
+      "n_ingr": 8,
+      "unique_ingr": 0,
+      "ingredients": []
+    },
+    {
+      "bid": "f107v_B09",
+      "n_total": 26,
+      "n_decoded": 22,
+      "pct": 84,
+      "n_ingr": 16,
+      "unique_ingr": 6,
+      "ingredients": [
+        "se+i_ruta.ody",
+        "q+acetum.hy",
+        "qo+i_ruta.ey",
+        "ac+i_ruta.ol",
+        "se+i_ruta.eey",
+        "ac+i_ruta.ody"
+      ]
+    },
+    {
+      "bid": "f108r_B10",
+      "n_total": 19,
+      "n_decoded": 16,
+      "pct": 84,
+      "n_ingr": 16,
+      "unique_ingr": 4,
+      "ingredients": [
+        "se+i_ruta.ol",
+        "ac+i_ruta.ol",
+        "ac+i_ruta.chy",
+        "ac+i_ruta.dy"
+      ]
+    },
+    {
+      "bid": "f115r_B09",
+      "n_total": 58,
+      "n_decoded": 49,
+      "pct": 84,
+      "n_ingr": 36,
+      "unique_ingr": 9,
+      "ingredients": [
+        "i_ruta.eey",
+        "ac+i_ruta.ey",
+        "i_nitrum.d",
+        "qo+i_ruta.ey",
+        "cho+i_ruta.eey",
+        "i_aurum.",
+        "lk+i_nitrum.",
+        "se+i_ruta.dy",
+        "q+i_vena.edy"
+      ]
+    }
+  ],
+  "universal_candidates": [
+    {
+      "root": "qok",
+      "blocks": 232,
+      "pct": 81
+    },
+    {
+      "root": "ch",
+      "blocks": 229,
+      "pct": 80
+    },
+    {
+      "root": "ot",
+      "blocks": 197,
+      "pct": 68
+    },
+    {
+      "root": "ok",
+      "blocks": 197,
+      "pct": 68
+    },
+    {
+      "root": "sh",
+      "blocks": 168,
+      "pct": 58
+    },
+    {
+      "root": "qot",
+      "blocks": 143,
+      "pct": 50
+    }
+  ],
+  "total_vocabulary": 79
+}

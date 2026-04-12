@@ -1,0 +1,1723 @@
+{
+  "vms_recipes": [
+    {
+      "id": "f103r_B01",
+      "n_tokens": 50,
+      "n_logo": 0,
+      "n_dose": 4,
+      "n_content": 46,
+      "unique_roots": 34,
+      "ratio_dose": 0.08,
+      "ratio_logo": 0.0
+    },
+    {
+      "id": "f103r_B02",
+      "n_tokens": 35,
+      "n_logo": 0,
+      "n_dose": 2,
+      "n_content": 33,
+      "unique_roots": 28,
+      "ratio_dose": 0.05714285714285714,
+      "ratio_logo": 0.0
+    },
+    {
+      "id": "f103r_B03",
+      "n_tokens": 62,
+      "n_logo": 1,
+      "n_dose": 10,
+      "n_content": 51,
+      "unique_roots": 36,
+      "ratio_dose": 0.16129032258064516,
+      "ratio_logo": 0.016129032258064516
+    },
+    {
+      "id": "f103r_B04",
+      "n_tokens": 30,
+      "n_logo": 1,
+      "n_dose": 5,
+      "n_content": 24,
+      "unique_roots": 20,
+      "ratio_dose": 0.16666666666666666,
+      "ratio_logo": 0.03333333333333333
+    },
+    {
+      "id": "f103r_B05",
+      "n_tokens": 21,
+      "n_logo": 0,
+      "n_dose": 1,
+      "n_content": 20,
+      "unique_roots": 19,
+      "ratio_dose": 0.047619047619047616,
+      "ratio_logo": 0.0
+    },
+    {
+      "id": "f103r_B06",
+      "n_tokens": 28,
+      "n_logo": 0,
+      "n_dose": 9,
+      "n_content": 19,
+      "unique_roots": 18,
+      "ratio_dose": 0.32142857142857145,
+      "ratio_logo": 0.0
+    },
+    {
+      "id": "f103r_B07",
+      "n_tokens": 29,
+      "n_logo": 0,
+      "n_dose": 2,
+      "n_content": 27,
+      "unique_roots": 24,
+      "ratio_dose": 0.06896551724137931,
+      "ratio_logo": 0.0
+    },
+    {
+      "id": "f103r_B08",
+      "n_tokens": 31,
+      "n_logo": 0,
+      "n_dose": 6,
+      "n_content": 25,
+      "unique_roots": 20,
+      "ratio_dose": 0.1935483870967742,
+      "ratio_logo": 0.0
+    },
+    {
+      "id": "f103r_B09",
+      "n_tokens": 28,
+      "n_logo": 0,
+      "n_dose": 3,
+      "n_content": 25,
+      "unique_roots": 17,
+      "ratio_dose": 0.10714285714285714,
+      "ratio_logo": 0.0
+    },
+    {
+      "id": "f103r_B10",
+      "n_tokens": 28,
+      "n_logo": 0,
+      "n_dose": 5,
+      "n_content": 23,
+      "unique_roots": 20,
+      "ratio_dose": 0.17857142857142858,
+      "ratio_logo": 0.0
+    },
+    {
+      "id": "f103r_B11",
+      "n_tokens": 14,
+      "n_logo": 1,
+      "n_dose": 1,
+      "n_content": 12,
+      "unique_roots": 10,
+      "ratio_dose": 0.07142857142857142,
+      "ratio_logo": 0.07142857142857142
+    },
+    {
+      "id": "f103r_B12",
+      "n_tokens": 18,
+      "n_logo": 0,
+      "n_dose": 4,
+      "n_content": 14,
+      "unique_roots": 12,
+      "ratio_dose": 0.2222222222222222,
+      "ratio_logo": 0.0
+    },
+    {
+      "id": "f103r_B13",
+      "n_tokens": 24,
+      "n_logo": 0,
+      "n_dose": 2,
+      "n_content": 22,
+      "unique_roots": 18,
+      "ratio_dose": 0.08333333333333333,
+      "ratio_logo": 0.0
+    },
+    {
+      "id": "f103r_B14",
+      "n_tokens": 27,
+      "n_logo": 1,
+      "n_dose": 0,
+      "n_content": 26,
+      "unique_roots": 18,
+      "ratio_dose": 0.0,
+      "ratio_logo": 0.037037037037037035
+    },
+    {
+      "id": "f103r_B15",
+      "n_tokens": 16,
+      "n_logo": 0,
+      "n_dose": 1,
+      "n_content": 15,
+      "unique_roots": 11,
+      "ratio_dose": 0.0625,
+      "ratio_logo": 0.0
+    },
+    {
+      "id": "f103r_B16",
+      "n_tokens": 28,
+      "n_logo": 2,
+      "n_dose": 1,
+      "n_content": 25,
+      "unique_roots": 18,
+      "ratio_dose": 0.03571428571428571,
+      "ratio_logo": 0.07142857142857142
+    },
+    {
+      "id": "f103r_B17",
+      "n_tokens": 37,
+      "n_logo": 2,
+      "n_dose": 6,
+      "n_content": 29,
+      "unique_roots": 23,
+      "ratio_dose": 0.16216216216216217,
+      "ratio_logo": 0.05405405405405406
+    },
+    {
+      "id": "f103r_B18",
+      "n_tokens": 25,
+      "n_logo": 0,
+      "n_dose": 2,
+      "n_content": 23,
+      "unique_roots": 18,
+      "ratio_dose": 0.08,
+      "ratio_logo": 0.0
+    }
+  ],
+  "aurea_sig": {
+    "id": "AUREA",
+    "name": "Aurea Alexandrina",
+    "n_tokens": 105,
+    "n_ingr": 78,
+    "n_dose": 11,
+    "ratio_ingr": 0.7428571428571429,
+    "ratio_dose": 0.10476190476190476
+  },
+  "matches": [
+    {
+      "vms_id": "f103r_B01",
+      "vms_sig": {
+        "n_tokens": 50,
+        "n_logo": 0,
+        "n_dose": 4,
+        "n_content": 46,
+        "ratio_dose": 0.08
+      },
+      "top5": [
+        {
+          "an_id": "AN_012",
+          "an_name": "Recipe masticis",
+          "distance": 0.0289,
+          "an_sig": {
+            "n_tokens": 51,
+            "n_ingr": 10,
+            "n_dose": 3,
+            "ratio_ingr": 0.19607843137254902,
+            "ratio_dose": 0.058823529411764705
+          }
+        },
+        {
+          "an_id": "AN_088",
+          "an_name": "Recipe ontbreekt in",
+          "distance": 0.1031,
+          "an_sig": {
+            "n_tokens": 47,
+            "n_ingr": 4,
+            "n_dose": 6,
+            "ratio_ingr": 0.0851063829787234,
+            "ratio_dose": 0.1276595744680851
+          }
+        },
+        {
+          "an_id": "AN_096",
+          "an_name": "Recipe aloes",
+          "distance": 0.1072,
+          "an_sig": {
+            "n_tokens": 46,
+            "n_ingr": 7,
+            "n_dose": 6,
+            "ratio_ingr": 0.15217391304347827,
+            "ratio_dose": 0.13043478260869565
+          }
+        },
+        {
+          "an_id": "AN_100",
+          "an_name": "Recipe elempnii",
+          "distance": 0.1236,
+          "an_sig": {
+            "n_tokens": 51,
+            "n_ingr": 14,
+            "n_dose": 6,
+            "ratio_ingr": 0.27450980392156865,
+            "ratio_dose": 0.11764705882352941
+          }
+        },
+        {
+          "an_id": "AN_089",
+          "an_name": "Recipe hermodactili turbiti agarici",
+          "distance": 0.1369,
+          "an_sig": {
+            "n_tokens": 56,
+            "n_ingr": 18,
+            "n_dose": 6,
+            "ratio_ingr": 0.32142857142857145,
+            "ratio_dose": 0.10714285714285714
+          }
+        }
+      ],
+      "aurea_distance": 0.5535,
+      "aurea_rank": 72
+    },
+    {
+      "vms_id": "f103r_B02",
+      "vms_sig": {
+        "n_tokens": 35,
+        "n_logo": 0,
+        "n_dose": 2,
+        "n_content": 33,
+        "ratio_dose": 0.05714285714285714
+      },
+      "top5": [
+        {
+          "an_id": "AN_011",
+          "an_name": "Recipe ontbreekt in",
+          "distance": 0.0279,
+          "an_sig": {
+            "n_tokens": 36,
+            "n_ingr": 5,
+            "n_dose": 2,
+            "ratio_ingr": 0.1388888888888889,
+            "ratio_dose": 0.05555555555555555
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.1273,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        },
+        {
+          "an_id": "AN_049",
+          "an_name": "Recipe psillii libras",
+          "distance": 0.1323,
+          "an_sig": {
+            "n_tokens": 40,
+            "n_ingr": 4,
+            "n_dose": 2,
+            "ratio_ingr": 0.1,
+            "ratio_dose": 0.05
+          }
+        },
+        {
+          "an_id": "AN_090",
+          "an_name": "Recipe aloes diagridii an",
+          "distance": 0.1709,
+          "an_sig": {
+            "n_tokens": 39,
+            "n_ingr": 11,
+            "n_dose": 6,
+            "ratio_ingr": 0.28205128205128205,
+            "ratio_dose": 0.15384615384615385
+          }
+        },
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.1733,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        }
+      ],
+      "aurea_distance": 0.6976,
+      "aurea_rank": 72
+    },
+    {
+      "vms_id": "f103r_B03",
+      "vms_sig": {
+        "n_tokens": 62,
+        "n_logo": 1,
+        "n_dose": 10,
+        "n_content": 51,
+        "ratio_dose": 0.16129032258064516
+      },
+      "top5": [
+        {
+          "an_id": "AN_041",
+          "an_name": "Recipe calamenti pulegii ysopi",
+          "distance": 0.0422,
+          "an_sig": {
+            "n_tokens": 63,
+            "n_ingr": 19,
+            "n_dose": 8,
+            "ratio_ingr": 0.30158730158730157,
+            "ratio_dose": 0.12698412698412698
+          }
+        },
+        {
+          "an_id": "AN_093",
+          "an_name": "Recipe cinoglosse opii seminis",
+          "distance": 0.0785,
+          "an_sig": {
+            "n_tokens": 67,
+            "n_ingr": 13,
+            "n_dose": 12,
+            "ratio_ingr": 0.19402985074626866,
+            "ratio_dose": 0.1791044776119403
+          }
+        },
+        {
+          "an_id": "AN_148",
+          "an_name": "Recipe coloquintide squille agarici",
+          "distance": 0.0822,
+          "an_sig": {
+            "n_tokens": 62,
+            "n_ingr": 27,
+            "n_dose": 9,
+            "ratio_ingr": 0.43548387096774194,
+            "ratio_dose": 0.14516129032258066
+          }
+        },
+        {
+          "an_id": "AN_027",
+          "an_name": "Recipe seminum frigidorum mundatorum",
+          "distance": 0.094,
+          "an_sig": {
+            "n_tokens": 62,
+            "n_ingr": 12,
+            "n_dose": 7,
+            "ratio_ingr": 0.1935483870967742,
+            "ratio_dose": 0.11290322580645161
+          }
+        },
+        {
+          "an_id": "AN_045",
+          "an_name": "Recipe succi liquiricie dragaganti",
+          "distance": 0.1057,
+          "an_sig": {
+            "n_tokens": 57,
+            "n_ingr": 21,
+            "n_dose": 9,
+            "ratio_ingr": 0.3684210526315789,
+            "ratio_dose": 0.15789473684210525
+          }
+        }
+      ],
+      "aurea_distance": 0.421,
+      "aurea_rank": 61
+    },
+    {
+      "vms_id": "f103r_B04",
+      "vms_sig": {
+        "n_tokens": 30,
+        "n_logo": 1,
+        "n_dose": 5,
+        "n_content": 24,
+        "ratio_dose": 0.16666666666666666
+      },
+      "top5": [
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.0761,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_028",
+          "an_name": "Recipe cumini pridie in",
+          "distance": 0.1242,
+          "an_sig": {
+            "n_tokens": 34,
+            "n_ingr": 13,
+            "n_dose": 7,
+            "ratio_ingr": 0.38235294117647056,
+            "ratio_dose": 0.20588235294117646
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.1288,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        },
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.1392,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        },
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.1891,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        }
+      ],
+      "aurea_distance": 0.7192,
+      "aurea_rank": 66
+    },
+    {
+      "vms_id": "f103r_B05",
+      "vms_sig": {
+        "n_tokens": 21,
+        "n_logo": 0,
+        "n_dose": 1,
+        "n_content": 20,
+        "ratio_dose": 0.047619047619047616
+      },
+      "top5": [
+        {
+          "an_id": "AN_024",
+          "an_name": "Recipe galange zinziberis gariofilorum",
+          "distance": 0.1604,
+          "an_sig": {
+            "n_tokens": 25,
+            "n_ingr": 5,
+            "n_dose": 1,
+            "ratio_ingr": 0.2,
+            "ratio_dose": 0.04
+          }
+        },
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.277,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        },
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.3024,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        },
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.304,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.33,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        }
+      ],
+      "aurea_distance": 0.829,
+      "aurea_rank": 75
+    },
+    {
+      "vms_id": "f103r_B06",
+      "vms_sig": {
+        "n_tokens": 28,
+        "n_logo": 0,
+        "n_dose": 9,
+        "n_content": 19,
+        "ratio_dose": 0.32142857142857145
+      },
+      "top5": [
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.1732,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        },
+        {
+          "an_id": "AN_028",
+          "an_name": "Recipe cumini pridie in",
+          "distance": 0.2405,
+          "an_sig": {
+            "n_tokens": 34,
+            "n_ingr": 13,
+            "n_dose": 7,
+            "ratio_ingr": 0.38235294117647056,
+            "ratio_dose": 0.20588235294117646
+          }
+        },
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.2618,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.3321,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        },
+        {
+          "an_id": "AN_125",
+          "an_name": "Recipe amomi cerefolii mirre",
+          "distance": 0.3562,
+          "an_sig": {
+            "n_tokens": 41,
+            "n_ingr": 12,
+            "n_dose": 8,
+            "ratio_ingr": 0.2926829268292683,
+            "ratio_dose": 0.1951219512195122
+          }
+        }
+      ],
+      "aurea_distance": 0.7674,
+      "aurea_rank": 62
+    },
+    {
+      "vms_id": "f103r_B07",
+      "vms_sig": {
+        "n_tokens": 29,
+        "n_logo": 0,
+        "n_dose": 2,
+        "n_content": 27,
+        "ratio_dose": 0.06896551724137931
+      },
+      "top5": [
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.0345,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.0756,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        },
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.0975,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_024",
+          "an_name": "Recipe galange zinziberis gariofilorum",
+          "distance": 0.1439,
+          "an_sig": {
+            "n_tokens": 25,
+            "n_ingr": 5,
+            "n_dose": 1,
+            "ratio_ingr": 0.2,
+            "ratio_dose": 0.04
+          }
+        },
+        {
+          "an_id": "AN_011",
+          "an_name": "Recipe ontbreekt in",
+          "distance": 0.1954,
+          "an_sig": {
+            "n_tokens": 36,
+            "n_ingr": 5,
+            "n_dose": 2,
+            "ratio_ingr": 0.1388888888888889,
+            "ratio_dose": 0.05555555555555555
+          }
+        }
+      ],
+      "aurea_distance": 0.7487,
+      "aurea_rank": 73
+    },
+    {
+      "vms_id": "f103r_B08",
+      "vms_sig": {
+        "n_tokens": 31,
+        "n_logo": 0,
+        "n_dose": 6,
+        "n_content": 25,
+        "ratio_dose": 0.1935483870967742
+      },
+      "top5": [
+        {
+          "an_id": "AN_028",
+          "an_name": "Recipe cumini pridie in",
+          "distance": 0.0899,
+          "an_sig": {
+            "n_tokens": 34,
+            "n_ingr": 13,
+            "n_dose": 7,
+            "ratio_ingr": 0.38235294117647056,
+            "ratio_dose": 0.20588235294117646
+          }
+        },
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.1017,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.1369,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        },
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.1655,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        },
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.2121,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        }
+      ],
+      "aurea_distance": 0.7132,
+      "aurea_rank": 67
+    },
+    {
+      "vms_id": "f103r_B09",
+      "vms_sig": {
+        "n_tokens": 28,
+        "n_logo": 0,
+        "n_dose": 3,
+        "n_content": 25,
+        "ratio_dose": 0.10714285714285714
+      },
+      "top5": [
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.0555,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.089,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.0979,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        },
+        {
+          "an_id": "AN_024",
+          "an_name": "Recipe galange zinziberis gariofilorum",
+          "distance": 0.1432,
+          "an_sig": {
+            "n_tokens": 25,
+            "n_ingr": 5,
+            "n_dose": 1,
+            "ratio_ingr": 0.2,
+            "ratio_dose": 0.04
+          }
+        },
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.1662,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        }
+      ],
+      "aurea_distance": 0.7485,
+      "aurea_rank": 72
+    },
+    {
+      "vms_id": "f103r_B10",
+      "vms_sig": {
+        "n_tokens": 28,
+        "n_logo": 0,
+        "n_dose": 5,
+        "n_content": 23,
+        "ratio_dose": 0.17857142857142858
+      },
+      "top5": [
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.067,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.0895,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.1508,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        },
+        {
+          "an_id": "AN_028",
+          "an_name": "Recipe cumini pridie in",
+          "distance": 0.1806,
+          "an_sig": {
+            "n_tokens": 34,
+            "n_ingr": 13,
+            "n_dose": 7,
+            "ratio_ingr": 0.38235294117647056,
+            "ratio_dose": 0.20588235294117646
+          }
+        },
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.1843,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        }
+      ],
+      "aurea_distance": 0.7412,
+      "aurea_rank": 68
+    },
+    {
+      "vms_id": "f103r_B11",
+      "vms_sig": {
+        "n_tokens": 14,
+        "n_logo": 1,
+        "n_dose": 1,
+        "n_content": 12,
+        "ratio_dose": 0.07142857142857142
+      },
+      "top5": [
+        {
+          "an_id": "AN_024",
+          "an_name": "Recipe galange zinziberis gariofilorum",
+          "distance": 0.453,
+          "an_sig": {
+            "n_tokens": 25,
+            "n_ingr": 5,
+            "n_dose": 1,
+            "ratio_ingr": 0.2,
+            "ratio_dose": 0.04
+          }
+        },
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.4851,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        },
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.5215,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.5238,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.5509,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        }
+      ],
+      "aurea_distance": 0.8748,
+      "aurea_rank": 72
+    },
+    {
+      "vms_id": "f103r_B12",
+      "vms_sig": {
+        "n_tokens": 18,
+        "n_logo": 0,
+        "n_dose": 4,
+        "n_content": 14,
+        "ratio_dose": 0.2222222222222222
+      },
+      "top5": [
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.3093,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        },
+        {
+          "an_id": "AN_024",
+          "an_name": "Recipe galange zinziberis gariofilorum",
+          "distance": 0.3805,
+          "an_sig": {
+            "n_tokens": 25,
+            "n_ingr": 5,
+            "n_dose": 1,
+            "ratio_ingr": 0.2,
+            "ratio_dose": 0.04
+          }
+        },
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.3976,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.4501,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.4553,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        }
+      ],
+      "aurea_distance": 0.8376,
+      "aurea_rank": 66
+    },
+    {
+      "vms_id": "f103r_B13",
+      "vms_sig": {
+        "n_tokens": 24,
+        "n_logo": 0,
+        "n_dose": 2,
+        "n_content": 22,
+        "ratio_dose": 0.08333333333333333
+      },
+      "top5": [
+        {
+          "an_id": "AN_024",
+          "an_name": "Recipe galange zinziberis gariofilorum",
+          "distance": 0.0732,
+          "an_sig": {
+            "n_tokens": 25,
+            "n_ingr": 5,
+            "n_dose": 1,
+            "ratio_ingr": 0.2,
+            "ratio_dose": 0.04
+          }
+        },
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.1798,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        },
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.1889,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.1988,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.2266,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        }
+      ],
+      "aurea_distance": 0.7911,
+      "aurea_rank": 73
+    },
+    {
+      "vms_id": "f103r_B14",
+      "vms_sig": {
+        "n_tokens": 27,
+        "n_logo": 1,
+        "n_dose": 0,
+        "n_content": 26,
+        "ratio_dose": 0.0
+      },
+      "top5": [
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.0835,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        },
+        {
+          "an_id": "AN_024",
+          "an_name": "Recipe galange zinziberis gariofilorum",
+          "distance": 0.0842,
+          "an_sig": {
+            "n_tokens": 25,
+            "n_ingr": 5,
+            "n_dose": 1,
+            "ratio_ingr": 0.2,
+            "ratio_dose": 0.04
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.172,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        },
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.1843,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_011",
+          "an_name": "Recipe ontbreekt in",
+          "distance": 0.2568,
+          "an_sig": {
+            "n_tokens": 36,
+            "n_ingr": 5,
+            "n_dose": 2,
+            "ratio_ingr": 0.1388888888888889,
+            "ratio_dose": 0.05555555555555555
+          }
+        }
+      ],
+      "aurea_distance": 0.7818,
+      "aurea_rank": 75
+    },
+    {
+      "vms_id": "f103r_B15",
+      "vms_sig": {
+        "n_tokens": 16,
+        "n_logo": 0,
+        "n_dose": 1,
+        "n_content": 15,
+        "ratio_dose": 0.0625
+      },
+      "top5": [
+        {
+          "an_id": "AN_024",
+          "an_name": "Recipe galange zinziberis gariofilorum",
+          "distance": 0.3614,
+          "an_sig": {
+            "n_tokens": 25,
+            "n_ingr": 5,
+            "n_dose": 1,
+            "ratio_ingr": 0.2,
+            "ratio_dose": 0.04
+          }
+        },
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.4394,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        },
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.4492,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        },
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.4608,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.4863,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        }
+      ],
+      "aurea_distance": 0.8707,
+      "aurea_rank": 76
+    },
+    {
+      "vms_id": "f103r_B16",
+      "vms_sig": {
+        "n_tokens": 28,
+        "n_logo": 2,
+        "n_dose": 1,
+        "n_content": 25,
+        "ratio_dose": 0.03571428571428571
+      },
+      "top5": [
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.0515,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        },
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.1122,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.1149,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        },
+        {
+          "an_id": "AN_024",
+          "an_name": "Recipe galange zinziberis gariofilorum",
+          "distance": 0.1265,
+          "an_sig": {
+            "n_tokens": 25,
+            "n_ingr": 5,
+            "n_dose": 1,
+            "ratio_ingr": 0.2,
+            "ratio_dose": 0.04
+          }
+        },
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.2119,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        }
+      ],
+      "aurea_distance": 0.7517,
+      "aurea_rank": 72
+    },
+    {
+      "vms_id": "f103r_B17",
+      "vms_sig": {
+        "n_tokens": 37,
+        "n_logo": 2,
+        "n_dose": 6,
+        "n_content": 29,
+        "ratio_dose": 0.16216216216216217
+      },
+      "top5": [
+        {
+          "an_id": "AN_090",
+          "an_name": "Recipe aloes diagridii an",
+          "distance": 0.0812,
+          "an_sig": {
+            "n_tokens": 39,
+            "n_ingr": 11,
+            "n_dose": 6,
+            "ratio_ingr": 0.28205128205128205,
+            "ratio_dose": 0.15384615384615385
+          }
+        },
+        {
+          "an_id": "AN_028",
+          "an_name": "Recipe cumini pridie in",
+          "distance": 0.0927,
+          "an_sig": {
+            "n_tokens": 34,
+            "n_ingr": 13,
+            "n_dose": 7,
+            "ratio_ingr": 0.38235294117647056,
+            "ratio_dose": 0.20588235294117646
+          }
+        },
+        {
+          "an_id": "AN_125",
+          "an_name": "Recipe amomi cerefolii mirre",
+          "distance": 0.103,
+          "an_sig": {
+            "n_tokens": 41,
+            "n_ingr": 12,
+            "n_dose": 8,
+            "ratio_ingr": 0.2926829268292683,
+            "ratio_dose": 0.1951219512195122
+          }
+        },
+        {
+          "an_id": "AN_074",
+          "an_name": "Recipe zuchari libram",
+          "distance": 0.1747,
+          "an_sig": {
+            "n_tokens": 44,
+            "n_ingr": 7,
+            "n_dose": 4,
+            "ratio_ingr": 0.1590909090909091,
+            "ratio_dose": 0.09090909090909091
+          }
+        },
+        {
+          "an_id": "AN_049",
+          "an_name": "Recipe psillii libras",
+          "distance": 0.1781,
+          "an_sig": {
+            "n_tokens": 40,
+            "n_ingr": 4,
+            "n_dose": 2,
+            "ratio_ingr": 0.1,
+            "ratio_dose": 0.05
+          }
+        }
+      ],
+      "aurea_distance": 0.6514,
+      "aurea_rank": 65
+    },
+    {
+      "vms_id": "f103r_B18",
+      "vms_sig": {
+        "n_tokens": 25,
+        "n_logo": 0,
+        "n_dose": 2,
+        "n_content": 23,
+        "ratio_dose": 0.08
+      },
+      "top5": [
+        {
+          "an_id": "AN_024",
+          "an_name": "Recipe galange zinziberis gariofilorum",
+          "distance": 0.0566,
+          "an_sig": {
+            "n_tokens": 25,
+            "n_ingr": 5,
+            "n_dose": 1,
+            "ratio_ingr": 0.2,
+            "ratio_dose": 0.04
+          }
+        },
+        {
+          "an_id": "AN_097",
+          "an_name": "Recipe aloes absintii pulpe",
+          "distance": 0.1457,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 8,
+            "n_dose": 1,
+            "ratio_ingr": 0.27586206896551724,
+            "ratio_dose": 0.034482758620689655
+          }
+        },
+        {
+          "an_id": "AN_095",
+          "an_name": "Recipe aloes",
+          "distance": 0.1604,
+          "an_sig": {
+            "n_tokens": 29,
+            "n_ingr": 12,
+            "n_dose": 4,
+            "ratio_ingr": 0.41379310344827586,
+            "ratio_dose": 0.13793103448275862
+          }
+        },
+        {
+          "an_id": "AN_129",
+          "an_name": "Recipe tapsie libram",
+          "distance": 0.1919,
+          "an_sig": {
+            "n_tokens": 26,
+            "n_ingr": 6,
+            "n_dose": 5,
+            "ratio_ingr": 0.23076923076923078,
+            "ratio_dose": 0.19230769230769232
+          }
+        },
+        {
+          "an_id": "AN_098",
+          "an_name": "Recipe mirabolanorum citrinorum che",
+          "distance": 0.195,
+          "an_sig": {
+            "n_tokens": 31,
+            "n_ingr": 12,
+            "n_dose": 3,
+            "ratio_ingr": 0.3870967741935484,
+            "ratio_dose": 0.0967741935483871
+          }
+        }
+      ],
+      "aurea_distance": 0.7826,
+      "aurea_rank": 73
+    }
+  ],
+  "best_matches_under_015": [
+    {
+      "distance": 0.0279,
+      "vms_id": "f103r_B02",
+      "an_id": "AN_011",
+      "an_name": "Recipe ontbreekt in"
+    },
+    {
+      "distance": 0.0289,
+      "vms_id": "f103r_B01",
+      "an_id": "AN_012",
+      "an_name": "Recipe masticis"
+    },
+    {
+      "distance": 0.0345,
+      "vms_id": "f103r_B07",
+      "an_id": "AN_097",
+      "an_name": "Recipe aloes absintii pulpe"
+    },
+    {
+      "distance": 0.0422,
+      "vms_id": "f103r_B03",
+      "an_id": "AN_041",
+      "an_name": "Recipe calamenti pulegii ysopi"
+    },
+    {
+      "distance": 0.0515,
+      "vms_id": "f103r_B16",
+      "an_id": "AN_097",
+      "an_name": "Recipe aloes absintii pulpe"
+    },
+    {
+      "distance": 0.0555,
+      "vms_id": "f103r_B09",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes"
+    },
+    {
+      "distance": 0.0566,
+      "vms_id": "f103r_B18",
+      "an_id": "AN_024",
+      "an_name": "Recipe galange zinziberis gariofilorum"
+    },
+    {
+      "distance": 0.067,
+      "vms_id": "f103r_B10",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes"
+    },
+    {
+      "distance": 0.0732,
+      "vms_id": "f103r_B13",
+      "an_id": "AN_024",
+      "an_name": "Recipe galange zinziberis gariofilorum"
+    },
+    {
+      "distance": 0.0756,
+      "vms_id": "f103r_B07",
+      "an_id": "AN_098",
+      "an_name": "Recipe mirabolanorum citrinorum che"
+    },
+    {
+      "distance": 0.0761,
+      "vms_id": "f103r_B04",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes"
+    },
+    {
+      "distance": 0.0785,
+      "vms_id": "f103r_B03",
+      "an_id": "AN_093",
+      "an_name": "Recipe cinoglosse opii seminis"
+    },
+    {
+      "distance": 0.0812,
+      "vms_id": "f103r_B17",
+      "an_id": "AN_090",
+      "an_name": "Recipe aloes diagridii an"
+    },
+    {
+      "distance": 0.0822,
+      "vms_id": "f103r_B03",
+      "an_id": "AN_148",
+      "an_name": "Recipe coloquintide squille agarici"
+    },
+    {
+      "distance": 0.0835,
+      "vms_id": "f103r_B14",
+      "an_id": "AN_097",
+      "an_name": "Recipe aloes absintii pulpe"
+    },
+    {
+      "distance": 0.0842,
+      "vms_id": "f103r_B14",
+      "an_id": "AN_024",
+      "an_name": "Recipe galange zinziberis gariofilorum"
+    },
+    {
+      "distance": 0.089,
+      "vms_id": "f103r_B09",
+      "an_id": "AN_097",
+      "an_name": "Recipe aloes absintii pulpe"
+    },
+    {
+      "distance": 0.0895,
+      "vms_id": "f103r_B10",
+      "an_id": "AN_129",
+      "an_name": "Recipe tapsie libram"
+    },
+    {
+      "distance": 0.0899,
+      "vms_id": "f103r_B08",
+      "an_id": "AN_028",
+      "an_name": "Recipe cumini pridie in"
+    },
+    {
+      "distance": 0.0927,
+      "vms_id": "f103r_B17",
+      "an_id": "AN_028",
+      "an_name": "Recipe cumini pridie in"
+    }
+  ],
+  "aurea_ranking": [
+    {
+      "distance": 0.421,
+      "vms_id": "f103r_B03"
+    },
+    {
+      "distance": 0.5535,
+      "vms_id": "f103r_B01"
+    },
+    {
+      "distance": 0.6514,
+      "vms_id": "f103r_B17"
+    },
+    {
+      "distance": 0.6976,
+      "vms_id": "f103r_B02"
+    },
+    {
+      "distance": 0.7132,
+      "vms_id": "f103r_B08"
+    },
+    {
+      "distance": 0.7192,
+      "vms_id": "f103r_B04"
+    },
+    {
+      "distance": 0.7412,
+      "vms_id": "f103r_B10"
+    },
+    {
+      "distance": 0.7485,
+      "vms_id": "f103r_B09"
+    },
+    {
+      "distance": 0.7487,
+      "vms_id": "f103r_B07"
+    },
+    {
+      "distance": 0.7517,
+      "vms_id": "f103r_B16"
+    },
+    {
+      "distance": 0.7674,
+      "vms_id": "f103r_B06"
+    },
+    {
+      "distance": 0.7818,
+      "vms_id": "f103r_B14"
+    },
+    {
+      "distance": 0.7826,
+      "vms_id": "f103r_B18"
+    },
+    {
+      "distance": 0.7911,
+      "vms_id": "f103r_B13"
+    },
+    {
+      "distance": 0.829,
+      "vms_id": "f103r_B05"
+    },
+    {
+      "distance": 0.8376,
+      "vms_id": "f103r_B12"
+    },
+    {
+      "distance": 0.8707,
+      "vms_id": "f103r_B15"
+    },
+    {
+      "distance": 0.8748,
+      "vms_id": "f103r_B11"
+    }
+  ]
+}

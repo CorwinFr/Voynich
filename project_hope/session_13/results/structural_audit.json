@@ -1,0 +1,34 @@
+{
+  "gallows_initial": {
+    "pct": 88,
+    "p": 0.0,
+    "confirmed": true
+  },
+  "am_terminator": {
+    "pct": 72,
+    "expected": 13.6,
+    "enrichment": 5.3
+  },
+  "ingr_dose_ratio": {
+    "an": 2.09,
+    "vms": 0.99
+  },
+  "ingr_groups": {
+    "vms_median": 2,
+    "an_median": 2
+  },
+  "fp_variants": {
+    "shared": 13,
+    "p": 1.0
+  },
+  "sal_cleartext": {
+    "count": 49,
+    "avg_3letter": 13.0,
+    "proven": false
+  },
+  "aiin_aqua": {
+    "plausible": true,
+    "proven": false,
+    "agreement": 0.15
+  }
+}

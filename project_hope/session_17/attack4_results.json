@@ -1,0 +1,38 @@
+{
+  "herbal_b_folios": 32,
+  "herbal_b_identified": 2,
+  "herbal_b_with_oty": [
+    [
+      "f93v",
+      "?",
+      "?"
+    ],
+    [
+      "f95r1",
+      "?",
+      "?"
+    ],
+    [
+      "f95r2",
+      "?",
+      "?"
+    ],
+    [
+      "f95v1",
+      "althaea",
+      "wet"
+    ],
+    [
+      "f96r",
+      "?",
+      "?"
+    ]
+  ],
+  "combined_test": {
+    "hot_oty": 2,
+    "hot_no_oty": 13,
+    "cold_oty": 5,
+    "cold_no_oty": 9,
+    "p_value": 0.16574212893553225
+  }
+}

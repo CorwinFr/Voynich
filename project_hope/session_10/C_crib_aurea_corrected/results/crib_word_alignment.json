@@ -1,0 +1,1525 @@
+{
+  "pairs_analyzed": 12,
+  "alignments": [
+    {
+      "vms_id": "f103r_B01",
+      "an_id": "AN_012",
+      "distance": 0.029,
+      "n_vms": 50,
+      "n_an": 51,
+      "n_dose_pairs": 4,
+      "n_segments_aligned": 4
+    },
+    {
+      "vms_id": "f103r_B02",
+      "an_id": "AN_011",
+      "distance": 0.028,
+      "n_vms": 35,
+      "n_an": 36,
+      "n_dose_pairs": 2,
+      "n_segments_aligned": 2
+    },
+    {
+      "vms_id": "f103r_B03",
+      "an_id": "AN_041",
+      "distance": 0.042,
+      "n_vms": 62,
+      "n_an": 63,
+      "n_dose_pairs": 10,
+      "n_segments_aligned": 4
+    },
+    {
+      "vms_id": "f103r_B03",
+      "an_id": "AN_148",
+      "distance": 0.082,
+      "n_vms": 62,
+      "n_an": 62,
+      "n_dose_pairs": 10,
+      "n_segments_aligned": 7
+    },
+    {
+      "vms_id": "f103r_B04",
+      "an_id": "AN_095",
+      "distance": 0.076,
+      "n_vms": 30,
+      "n_an": 29,
+      "n_dose_pairs": 5,
+      "n_segments_aligned": 4
+    },
+    {
+      "vms_id": "f103r_B07",
+      "an_id": "AN_097",
+      "distance": 0.034,
+      "n_vms": 29,
+      "n_an": 29,
+      "n_dose_pairs": 2,
+      "n_segments_aligned": 1
+    },
+    {
+      "vms_id": "f103r_B08",
+      "an_id": "AN_028",
+      "distance": 0.09,
+      "n_vms": 31,
+      "n_an": 34,
+      "n_dose_pairs": 6,
+      "n_segments_aligned": 5
+    },
+    {
+      "vms_id": "f103r_B09",
+      "an_id": "AN_095",
+      "distance": 0.056,
+      "n_vms": 28,
+      "n_an": 29,
+      "n_dose_pairs": 3,
+      "n_segments_aligned": 3
+    },
+    {
+      "vms_id": "f103r_B10",
+      "an_id": "AN_095",
+      "distance": 0.067,
+      "n_vms": 28,
+      "n_an": 29,
+      "n_dose_pairs": 5,
+      "n_segments_aligned": 4
+    },
+    {
+      "vms_id": "f103r_B16",
+      "an_id": "AN_097",
+      "distance": 0.052,
+      "n_vms": 28,
+      "n_an": 29,
+      "n_dose_pairs": 1,
+      "n_segments_aligned": 1
+    },
+    {
+      "vms_id": "f103r_B17",
+      "an_id": "AN_090",
+      "distance": 0.081,
+      "n_vms": 37,
+      "n_an": 39,
+      "n_dose_pairs": 6,
+      "n_segments_aligned": 5
+    },
+    {
+      "vms_id": "f103r_B18",
+      "an_id": "AN_024",
+      "distance": 0.057,
+      "n_vms": 25,
+      "n_an": 25,
+      "n_dose_pairs": 2,
+      "n_segments_aligned": 2
+    }
+  ],
+  "convergent_candidates": [
+    {
+      "eva": "pchedal",
+      "n_sources": 2,
+      "top_latin": "masticis",
+      "agreement": 0.5,
+      "all_candidates": {
+        "masticis": 1,
+        "galange": 1
+      },
+      "refs": [
+        "I_galanga",
+        "I_mastix"
+      ]
+    },
+    {
+      "eva": "shek",
+      "n_sources": 2,
+      "top_latin": "camphore",
+      "agreement": 0.5,
+      "all_candidates": {
+        "camphore": 1,
+        "preciosissimis": 1
+      },
+      "refs": [
+        "I_camphora"
+      ]
+    },
+    {
+      "eva": "daroal",
+      "n_sources": 2,
+      "top_latin": "calamenti",
+      "agreement": 0.5,
+      "all_candidates": {
+        "calamenti": 1,
+        "coloquintide": 1
+      },
+      "refs": [
+        "I_coloquintida",
+        "I_calamintha"
+      ]
+    },
+    {
+      "eva": "okechy",
+      "n_sources": 2,
+      "top_latin": "aneti",
+      "agreement": 0.5,
+      "all_candidates": {
+        "aneti": 1,
+        "epithimi": 1
+      },
+      "refs": [
+        "I_epithimum",
+        "I_anethum"
+      ]
+    },
+    {
+      "eva": "qoisal",
+      "n_sources": 2,
+      "top_latin": "cinamomi",
+      "agreement": 0.5,
+      "all_candidates": {
+        "cinamomi": 1,
+        "bdelii": 1
+      },
+      "refs": [
+        "I_bdellium",
+        "I_cinnamomum"
+      ]
+    },
+    {
+      "eva": "qotar",
+      "n_sources": 2,
+      "top_latin": "zinziberis",
+      "agreement": 0.5,
+      "all_candidates": {
+        "zinziberis": 1,
+        "camedrei": 1
+      },
+      "refs": [
+        "I_chamaedris",
+        "I_zingiber"
+      ]
+    },
+    {
+      "eva": "otey",
+      "n_sources": 2,
+      "top_latin": "aque",
+      "agreement": 0.5,
+      "all_candidates": {
+        "aque": 1,
+        "petroselini": 1
+      },
+      "refs": [
+        "I_aqua",
+        "I_petroselinum"
+      ]
+    },
+    {
+      "eva": "dy",
+      "n_sources": 2,
+      "top_latin": "pluvialis",
+      "agreement": 0.5,
+      "all_candidates": {
+        "pluvialis": 1,
+        "absinthii": 1
+      },
+      "refs": [
+        "I_absinthium"
+      ]
+    },
+    {
+      "eva": "okeedaram",
+      "n_sources": 2,
+      "top_latin": "spodium",
+      "agreement": 0.5,
+      "all_candidates": {
+        "spodium": 1,
+        "piperis": 1
+      },
+      "refs": [
+        "I_piper_nigrum",
+        "I_spodium"
+      ]
+    },
+    {
+      "eva": "ol",
+      "n_sources": 2,
+      "top_latin": "aloes",
+      "agreement": 0.5,
+      "all_candidates": {
+        "aloes": 1,
+        "feniculi": 1
+      },
+      "refs": [
+        "I_aloe",
+        "I_feniculum"
+      ]
+    },
+    {
+      "eva": "oteey",
+      "n_sources": 2,
+      "top_latin": "nardi",
+      "agreement": 0.5,
+      "all_candidates": {
+        "nardi": 1,
+        "zinziberis": 1
+      },
+      "refs": [
+        "I_nardus",
+        "I_zingiber"
+      ]
+    },
+    {
+      "eva": "cheey",
+      "n_sources": 2,
+      "top_latin": "absintii",
+      "agreement": 0.5,
+      "all_candidates": {
+        "absintii": 1,
+        "mane": 1
+      },
+      "refs": [
+        "I_manna"
+      ]
+    },
+    {
+      "eva": "qokeedy",
+      "n_sources": 2,
+      "top_latin": "aloes",
+      "agreement": 0.5,
+      "all_candidates": {
+        "aloes": 1,
+        "absintii": 1
+      },
+      "refs": [
+        "I_aloe"
+      ]
+    },
+    {
+      "eva": "opchedy",
+      "n_sources": 3,
+      "top_latin": "rosarum",
+      "agreement": 0.3333333333333333,
+      "all_candidates": {
+        "rosarum": 1,
+        "gariofilorum": 1,
+        "masticis": 1
+      },
+      "refs": [
+        "I_gariofilum",
+        "I_mastix",
+        "I_rosa"
+      ]
+    },
+    {
+      "eva": "qoky",
+      "n_sources": 3,
+      "top_latin": "absintii",
+      "agreement": 0.3333333333333333,
+      "all_candidates": {
+        "absintii": 1,
+        "-ö-iii": 1,
+        "solatri": 1
+      },
+      "refs": []
+    },
+    {
+      "eva": "qokal",
+      "n_sources": 3,
+      "top_latin": "succo",
+      "agreement": 0.3333333333333333,
+      "all_candidates": {
+        "succo": 1,
+        "5.viii.9.i": 1,
+        "-ö-iii": 1
+      },
+      "refs": [
+        "I_succus"
+      ]
+    },
+    {
+      "eva": "qokeey",
+      "n_sources": 3,
+      "top_latin": "emblicorum",
+      "agreement": 0.3333333333333333,
+      "all_candidates": {
+        "emblicorum": 1,
+        "masticis": 1,
+        "agarici": 1
+      },
+      "refs": [
+        "I_agaricum",
+        "I_mastix",
+        "I_emblicum"
+      ]
+    },
+    {
+      "eva": "chedy",
+      "n_sources": 7,
+      "top_latin": "belliricorum",
+      "agreement": 0.2857142857142857,
+      "all_candidates": {
+        "colati": 1,
+        "ysopi": 1,
+        "agarici": 1,
+        "belliricorum": 2,
+        "succo": 2
+      },
+      "refs": [
+        "I_agaricum",
+        "I_belliricum",
+        "I_hyssopus",
+        "I_succus"
+      ]
+    },
+    {
+      "eva": "shey",
+      "n_sources": 4,
+      "top_latin": "mei",
+      "agreement": 0.25,
+      "all_candidates": {
+        "mei": 1,
+        "§.iiii": 1,
+        "croci": 1,
+        "ciceris": 1
+      },
+      "refs": [
+        "I_crocus",
+        "I_mel",
+        "I_cicer"
+      ]
+    },
+    {
+      "eva": "okey",
+      "n_sources": 5,
+      "top_latin": "electuariis",
+      "agreement": 0.2,
+      "all_candidates": {
+        "electuariis": 1,
+        "pulegii": 1,
+        "melanopiperis": 1,
+        "squille": 1,
+        "armoniaci": 1
+      },
+      "refs": [
+        "I_ammoniacum",
+        "I_pulegium",
+        "I_piper_nigrum",
+        "I_squilla"
+      ]
+    },
+    {
+      "eva": "shedy",
+      "n_sources": 5,
+      "top_latin": "solutioni",
+      "agreement": 0.2,
+      "all_candidates": {
+        "solutioni": 1,
+        "g.iii": 1,
+        "mane": 1,
+        "exsiccati": 1,
+        "belliricorum": 1
+      },
+      "refs": [
+        "I_belliricum",
+        "I_manna"
+      ]
+    }
+  ],
+  "all_candidates": {
+    "pchedal": [
+      {
+        "latin": "masticis",
+        "ref": "I_mastix",
+        "type": "INGR",
+        "source": "f103r_B01↔AN_012",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "galange",
+        "ref": "I_galanga",
+        "type": "INGR",
+        "source": "f103r_B18↔AN_024",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "okal": [
+      {
+        "latin": "gummi",
+        "ref": "I_gummi_arabicum",
+        "type": "INGR",
+        "source": "f103r_B01↔AN_012",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "shek": [
+      {
+        "latin": "camphore",
+        "ref": "I_camphora",
+        "type": "INGR",
+        "source": "f103r_B01↔AN_012",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "preciosissimis",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B02↔AN_011",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "chcphhdy": [
+      {
+        "latin": "y.i",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B01↔AN_012",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "daloky": [
+      {
+        "latin": "aqua",
+        "ref": "I_aqua_rosarum",
+        "type": "INGR",
+        "source": "f103r_B01↔AN_012",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "opchedy": [
+      {
+        "latin": "rosarum",
+        "ref": "I_rosa",
+        "type": "INGR",
+        "source": "f103r_B01↔AN_012",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "gariofilorum",
+        "ref": "I_gariofilum",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      },
+      {
+        "latin": "masticis",
+        "ref": "I_mastix",
+        "type": "INGR",
+        "source": "f103r_B10↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "sheek": [
+      {
+        "latin": "olei",
+        "ref": "I_oleum",
+        "type": "INGR",
+        "source": "f103r_B01↔AN_012",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "cheoty": [
+      {
+        "latin": "sambaci",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B01↔AN_012",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "eeokal": [
+      {
+        "latin": "bulliti",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B01↔AN_012",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "chedy": [
+      {
+        "latin": "colati",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B01↔AN_012",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "ysopi",
+        "ref": "I_hyssopus",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "agarici",
+        "ref": "I_agaricum",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "belliricorum",
+        "ref": "I_belliricum",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.6
+      },
+      {
+        "latin": "succo",
+        "ref": "I_succus",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "belliricorum",
+        "ref": "I_belliricum",
+        "type": "INGR",
+        "source": "f103r_B09↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "succo",
+        "ref": "I_succus",
+        "type": "INGR",
+        "source": "f103r_B16↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "chckhy": [
+      {
+        "latin": "speciebus",
+        "ref": "I_species",
+        "type": "INGR",
+        "source": "f103r_B01↔AN_012",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "pocharal": [
+      {
+        "latin": "alle",
+        "ref": "I_allium",
+        "type": "INGR",
+        "source": "f103r_B02↔AN_011",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "okedar": [
+      {
+        "latin": "ende",
+        "ref": "I_endiva",
+        "type": "INGR",
+        "source": "f103r_B02↔AN_011",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "okeedy": [
+      {
+        "latin": "medicinis",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B02↔AN_011",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "okey": [
+      {
+        "latin": "electuariis",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B02↔AN_011",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "pulegii",
+        "ref": "I_pulegium",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "melanopiperis",
+        "ref": "I_piper_nigrum",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "squille",
+        "ref": "I_squilla",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "armoniaci",
+        "ref": "I_ammoniacum",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "daroal": [
+      {
+        "latin": "calamenti",
+        "ref": "I_calamintha",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "coloquintide",
+        "ref": "I_coloquintida",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "okechy": [
+      {
+        "latin": "aneti",
+        "ref": "I_anethum",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "epithimi",
+        "ref": "I_epithimum",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "qoisal": [
+      {
+        "latin": "cinamomi",
+        "ref": "I_cinnamomum",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "bdelii",
+        "ref": "I_bdellium",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "qotar": [
+      {
+        "latin": "zinziberis",
+        "ref": "I_zingiber",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "camedrei",
+        "ref": "I_chamaedris",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "shey": [
+      {
+        "latin": "mei",
+        "ref": "I_mel",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "§.iiii",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "croci",
+        "ref": "I_crocus",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "ciceris",
+        "ref": "I_cicer",
+        "type": "INGR",
+        "source": "f103r_B17↔AN_090",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "shedy": [
+      {
+        "latin": "solutioni",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "g.iii",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.6
+      },
+      {
+        "latin": "mane",
+        "ref": "I_manna",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "exsiccati",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      },
+      {
+        "latin": "belliricorum",
+        "ref": "I_belliricum",
+        "type": "INGR",
+        "source": "f103r_B10↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "otey": [
+      {
+        "latin": "aque",
+        "ref": "I_aqua",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "petroselini",
+        "ref": "I_petroselinum",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      }
+    ],
+    "dy": [
+      {
+        "latin": "pluvialis",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "absinthii",
+        "ref": "I_absinthium",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      }
+    ],
+    "okeedaram": [
+      {
+        "latin": "spodium",
+        "ref": "I_spodium",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_041",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "piperis",
+        "ref": "I_piper_nigrum",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      }
+    ],
+    "adchey": [
+      {
+        "latin": "succi",
+        "ref": "I_succus",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "ofeeo": [
+      {
+        "latin": "casie",
+        "ref": "I_casia_lignea",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "lkeor": [
+      {
+        "latin": "smirnis",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "ol": [
+      {
+        "latin": "aloes",
+        "ref": "I_aloe",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.6
+      },
+      {
+        "latin": "feniculi",
+        "ref": "I_feniculum",
+        "type": "INGR",
+        "source": "f103r_B09↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "okeol": [
+      {
+        "latin": "mei",
+        "ref": "I_mel",
+        "type": "INGR",
+        "source": "f103r_B03↔AN_148",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "podar": [
+      {
+        "latin": "aloes",
+        "ref": "I_aloe",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "pchdy": [
+      {
+        "latin": "emblicorum",
+        "ref": "I_emblicum",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      }
+    ],
+    "tshdy": [
+      {
+        "latin": "masticis",
+        "ref": "I_mastix",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      }
+    ],
+    "dal": [
+      {
+        "latin": "diagridii",
+        "ref": "I_diagridium",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      }
+    ],
+    "kasol": [
+      {
+        "latin": "asari",
+        "ref": "I_asarum",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      }
+    ],
+    "qokeechy": [
+      {
+        "latin": "feniculi",
+        "ref": "I_feniculum",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "qoky": [
+      {
+        "latin": "absintii",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "-ö-iii",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "solatri",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B07↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "chcthy": [
+      {
+        "latin": "castorei",
+        "ref": "I_castoreum",
+        "type": "INGR",
+        "source": "f103r_B04↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "pcheam": [
+      {
+        "latin": "aloes",
+        "ref": "I_aloe",
+        "type": "INGR",
+        "source": "f103r_B07↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "sokedy": [
+      {
+        "latin": "absintii",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B07↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "dalkar": [
+      {
+        "latin": "coloquintide",
+        "ref": "I_coloquintida",
+        "type": "INGR",
+        "source": "f103r_B07↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "otal": [
+      {
+        "latin": "masticis",
+        "ref": "I_mastix",
+        "type": "INGR",
+        "source": "f103r_B07↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "qokal": [
+      {
+        "latin": "succo",
+        "ref": "I_succus",
+        "type": "INGR",
+        "source": "f103r_B07↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "5.viii.9.i",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      },
+      {
+        "latin": "-ö-iii",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B10↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "chepy": [
+      {
+        "latin": "feniculi",
+        "ref": "I_feniculum",
+        "type": "INGR",
+        "source": "f103r_B07↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "okedy": [
+      {
+        "latin": "absintii",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B07↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "tchoky": [
+      {
+        "latin": "cumini",
+        "ref": "I_cuminum",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.6
+      }
+    ],
+    "okeal": [
+      {
+        "latin": "aceto",
+        "ref": "I_acetum",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      }
+    ],
+    "oty": [
+      {
+        "latin": "cinamomi",
+        "ref": "I_cinnamomum",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      }
+    ],
+    "shcthy": [
+      {
+        "latin": "zinpiperis",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "oteey": [
+      {
+        "latin": "nardi",
+        "ref": "I_nardus",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "zinziberis",
+        "ref": "I_zingiber",
+        "type": "INGR",
+        "source": "f103r_B18↔AN_024",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "oky": [
+      {
+        "latin": "carvi",
+        "ref": "I_carvi",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "dar": [
+      {
+        "latin": "masticis",
+        "ref": "I_mastix",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "chckhey": [
+      {
+        "latin": "mei",
+        "ref": "I_mel",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "chedal": [
+      {
+        "latin": "vino",
+        "ref": "I_vinum",
+        "type": "INGR",
+        "source": "f103r_B08↔AN_028",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "qokechy": [
+      {
+        "latin": "aloes",
+        "ref": "I_aloe",
+        "type": "INGR",
+        "source": "f103r_B09↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "qokeey": [
+      {
+        "latin": "emblicorum",
+        "ref": "I_emblicum",
+        "type": "INGR",
+        "source": "f103r_B09↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "masticis",
+        "ref": "I_mastix",
+        "type": "INGR",
+        "source": "f103r_B17↔AN_090",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "agarici",
+        "ref": "I_agaricum",
+        "type": "INGR",
+        "source": "f103r_B17↔AN_090",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "ain": [
+      {
+        "latin": "succo",
+        "ref": "I_succus",
+        "type": "INGR",
+        "source": "f103r_B09↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "cheey": [
+      {
+        "latin": "absintii",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B09↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      },
+      {
+        "latin": "mane",
+        "ref": "I_manna",
+        "type": "INGR",
+        "source": "f103r_B17↔AN_090",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "lkeedy": [
+      {
+        "latin": "croci",
+        "ref": "I_crocus",
+        "type": "INGR",
+        "source": "f103r_B09↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "pcholkchdy": [
+      {
+        "latin": "aloes",
+        "ref": "I_aloe",
+        "type": "INGR",
+        "source": "f103r_B10↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "chpchy": [
+      {
+        "latin": "emblicorum",
+        "ref": "I_emblicum",
+        "type": "INGR",
+        "source": "f103r_B10↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "oteeykshy": [
+      {
+        "latin": "diagridii",
+        "ref": "I_diagridium",
+        "type": "INGR",
+        "source": "f103r_B10↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "chdaly": [
+      {
+        "latin": "asari",
+        "ref": "I_asarum",
+        "type": "INGR",
+        "source": "f103r_B10↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "chal": [
+      {
+        "latin": "succo",
+        "ref": "I_succus",
+        "type": "INGR",
+        "source": "f103r_B10↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "shckhy": [
+      {
+        "latin": "castorei",
+        "ref": "I_castoreum",
+        "type": "INGR",
+        "source": "f103r_B10↔AN_095",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "qokeedy": [
+      {
+        "latin": "aloes",
+        "ref": "I_aloe",
+        "type": "INGR",
+        "source": "f103r_B16↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      },
+      {
+        "latin": "absintii",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B16↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "shol": [
+      {
+        "latin": "coloquintide",
+        "ref": "I_coloquintida",
+        "type": "INGR",
+        "source": "f103r_B16↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "shedar": [
+      {
+        "latin": "masticis",
+        "ref": "I_mastix",
+        "type": "INGR",
+        "source": "f103r_B16↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "qoteedy": [
+      {
+        "latin": "feniculi",
+        "ref": "I_feniculum",
+        "type": "INGR",
+        "source": "f103r_B16↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "oteedy": [
+      {
+        "latin": "absintii",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B16↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "olkeol": [
+      {
+        "latin": "solatri",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B16↔AN_097",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "polarar": [
+      {
+        "latin": "aloes",
+        "ref": "I_aloe",
+        "type": "INGR",
+        "source": "f103r_B17↔AN_090",
+        "strategy": "segment_positional",
+        "confidence": 0.6
+      }
+    ],
+    "lshedy": [
+      {
+        "latin": "diagridii",
+        "ref": "I_diagridium",
+        "type": "INGR",
+        "source": "f103r_B17↔AN_090",
+        "strategy": "segment_positional",
+        "confidence": 0.5
+      }
+    ],
+    "shkchy": [
+      {
+        "latin": "absinthii",
+        "ref": "I_absinthium",
+        "type": "INGR",
+        "source": "f103r_B17↔AN_090",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "am": [
+      {
+        "latin": "succo",
+        "ref": "I_succus",
+        "type": "INGR",
+        "source": "f103r_B17↔AN_090",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "ssheey": [
+      {
+        "latin": "stringni",
+        "ref": "",
+        "type": "INGR",
+        "source": "f103r_B17↔AN_090",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "cheteey": [
+      {
+        "latin": "mirabolanorum",
+        "ref": "I_mirabolanum",
+        "type": "INGR",
+        "source": "f103r_B17↔AN_090",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ],
+    "qol": [
+      {
+        "latin": "gariofilorum",
+        "ref": "I_gariofilum",
+        "type": "INGR",
+        "source": "f103r_B18↔AN_024",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "keedy": [
+      {
+        "latin": "pine",
+        "ref": "I_pinea",
+        "type": "INGR",
+        "source": "f103r_B18↔AN_024",
+        "strategy": "segment_positional",
+        "confidence": 0.3
+      }
+    ],
+    "otalsy": [
+      {
+        "latin": "ende",
+        "ref": "I_endiva",
+        "type": "INGR",
+        "source": "f103r_B18↔AN_024",
+        "strategy": "segment_positional",
+        "confidence": 0.4
+      }
+    ]
+  },
+  "summary": {
+    "total_eva_with_candidates": 79,
+    "total_convergent": 21,
+    "high_agreement": 0,
+    "perfect_agreement": 0
+  }
+}

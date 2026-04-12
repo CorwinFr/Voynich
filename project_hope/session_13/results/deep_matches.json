@@ -1,0 +1,5900 @@
+{
+  "deep_matches": [
+    {
+      "vms_id": "f115r_B10",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "lcs_score": 0.889,
+      "dose_corr": 0.965,
+      "group_match": 0.5,
+      "len_corr": 0.345,
+      "deep_score": 0.749,
+      "n_word_pairs": 11,
+      "word_pairs": [
+        [
+          "aral",
+          "aloes",
+          4,
+          5
+        ],
+        [
+          "shkchedy",
+          "belliricorum",
+          8,
+          12
+        ],
+        [
+          "chs",
+          "emblicorum",
+          3,
+          10
+        ],
+        [
+          "chpchar",
+          "masticis",
+          7,
+          8
+        ],
+        [
+          "ar",
+          "diagridii",
+          2,
+          9
+        ],
+        [
+          "al",
+          "asari",
+          2,
+          5
+        ],
+        [
+          "cheey",
+          "feniculi",
+          5,
+          8
+        ],
+        [
+          "qoek",
+          "absintii",
+          4,
+          8
+        ],
+        [
+          "chody",
+          "croci",
+          5,
+          5
+        ],
+        [
+          "sheey",
+          "castorei",
+          5,
+          8
+        ],
+        [
+          "dar",
+          "-ö-iii",
+          3,
+          6
+        ]
+      ],
+      "v_groups": [
+        1,
+        5,
+        1,
+        3,
+        2
+      ],
+      "a_groups": [
+        1,
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "vms_id": "f103v_B08",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "lcs_score": 0.852,
+      "dose_corr": 0.83,
+      "group_match": 0.5,
+      "len_corr": 0.537,
+      "deep_score": 0.729,
+      "n_word_pairs": 19,
+      "word_pairs": [
+        [
+          "okeey",
+          "sandali",
+          5,
+          7
+        ],
+        [
+          "okeey",
+          "rosarum",
+          5,
+          7
+        ],
+        [
+          "oteal",
+          "reubarbari",
+          5,
+          10
+        ],
+        [
+          "lpar",
+          "spodii",
+          4,
+          6
+        ],
+        [
+          "otedy",
+          "draganti",
+          5,
+          8
+        ],
+        [
+          "qotar",
+          "gummi",
+          5,
+          5
+        ],
+        [
+          "checkhy",
+          "arabici",
+          7,
+          7
+        ],
+        [
+          "ykeey",
+          "violarum",
+          5,
+          8
+        ],
+        [
+          "shckhy",
+          "berberis",
+          6,
+          8
+        ],
+        [
+          "chey",
+          "portulace",
+          4,
+          9
+        ],
+        [
+          "oteedy",
+          "scariole",
+          6,
+          8
+        ],
+        [
+          "aiin",
+          "aqua",
+          4,
+          4
+        ],
+        [
+          "y",
+          "ducis",
+          1,
+          5
+        ],
+        [
+          "olcheeey",
+          "ducis",
+          8,
+          5
+        ],
+        [
+          "chey",
+          "Rogerii",
+          4,
+          7
+        ]
+      ],
+      "v_groups": [
+        7,
+        3,
+        9,
+        1
+      ],
+      "a_groups": [
+        9,
+        3,
+        7,
+        1
+      ]
+    },
+    {
+      "vms_id": "f106v_B11",
+      "an_id": "AN_098",
+      "an_name": "Recipe mirabolanorum citrinorum che",
+      "lcs_score": 0.875,
+      "dose_corr": 0.967,
+      "group_match": 0.5,
+      "len_corr": 0.236,
+      "deep_score": 0.727,
+      "n_word_pairs": 11,
+      "word_pairs": [
+        [
+          "shdair",
+          "mirabolanorum",
+          6,
+          13
+        ],
+        [
+          "sheky",
+          "emblicorum",
+          5,
+          10
+        ],
+        [
+          "keedy",
+          "dyagridii",
+          5,
+          9
+        ],
+        [
+          "qoeedy",
+          "agarici",
+          6,
+          7
+        ],
+        [
+          "qofchedy",
+          "spice",
+          8,
+          5
+        ],
+        [
+          "al",
+          "coloquintide",
+          2,
+          12
+        ],
+        [
+          "qotar",
+          "aloes",
+          5,
+          5
+        ],
+        [
+          "chey",
+          "3,vii",
+          4,
+          5
+        ],
+        [
+          "ol",
+          "succo",
+          2,
+          5
+        ],
+        [
+          "aiin",
+          "fumiterre",
+          4,
+          9
+        ],
+        [
+          "chey",
+          "ciceris",
+          4,
+          7
+        ]
+      ],
+      "v_groups": [
+        6,
+        1,
+        6
+      ],
+      "a_groups": [
+        6,
+        5
+      ]
+    },
+    {
+      "vms_id": "f113r_B11",
+      "an_id": "AN_091",
+      "an_name": "Recipe fol",
+      "lcs_score": 0.829,
+      "dose_corr": 0.916,
+      "group_match": 0.5,
+      "len_corr": 0.432,
+      "deep_score": 0.725,
+      "n_word_pairs": 25,
+      "word_pairs": [
+        [
+          "oteol",
+          "2i",
+          5,
+          2
+        ],
+        [
+          "lshedy",
+          "mirabolanorum",
+          6,
+          13
+        ],
+        [
+          "lkshedy",
+          "emblicorum",
+          7,
+          10
+        ],
+        [
+          "otar",
+          "agarici",
+          4,
+          7
+        ],
+        [
+          "tar",
+          "dyagridii",
+          3,
+          9
+        ],
+        [
+          "shkchedy",
+          "coloquintide",
+          8,
+          12
+        ],
+        [
+          "qokchd",
+          "sene",
+          6,
+          4
+        ],
+        [
+          "opy",
+          "anisi",
+          3,
+          5
+        ],
+        [
+          "chear",
+          "turbit",
+          5,
+          6
+        ],
+        [
+          "ckhar",
+          "anisi",
+          5,
+          5
+        ],
+        [
+          "shal",
+          "maratri",
+          4,
+          7
+        ],
+        [
+          "shckhy",
+          "spleneticis",
+          6,
+          11
+        ],
+        [
+          "o",
+          "macis",
+          1,
+          5
+        ],
+        [
+          "chor",
+          "asae",
+          4,
+          4
+        ],
+        [
+          "cky",
+          "foetidae",
+          3,
+          8
+        ]
+      ],
+      "v_groups": [
+        8,
+        4,
+        3,
+        1,
+        3,
+        1,
+        4,
+        2
+      ],
+      "a_groups": [
+        8,
+        4,
+        3,
+        2,
+        1,
+        1,
+        2,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "vms_id": "f103v_B12",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "lcs_score": 0.862,
+      "dose_corr": 0.963,
+      "group_match": 0.25,
+      "len_corr": 0.47,
+      "deep_score": 0.706,
+      "n_word_pairs": 20,
+      "word_pairs": [
+        [
+          "okey",
+          "sandali",
+          4,
+          7
+        ],
+        [
+          "shol",
+          "rosarum",
+          4,
+          7
+        ],
+        [
+          "okeedar",
+          "reubarbari",
+          7,
+          10
+        ],
+        [
+          "shes",
+          "spodii",
+          4,
+          6
+        ],
+        [
+          "aiin",
+          "draganti",
+          4,
+          8
+        ],
+        [
+          "oty",
+          "gummi",
+          3,
+          5
+        ],
+        [
+          "yteey",
+          "arabici",
+          5,
+          7
+        ],
+        [
+          "sheal",
+          "violarum",
+          5,
+          8
+        ],
+        [
+          "shey",
+          "berberis",
+          4,
+          8
+        ],
+        [
+          "ol",
+          "seminis",
+          2,
+          7
+        ],
+        [
+          "keey",
+          "portulace",
+          4,
+          9
+        ],
+        [
+          "shckhy",
+          "scariole",
+          6,
+          8
+        ],
+        [
+          "shey",
+          "aqua",
+          4,
+          4
+        ],
+        [
+          "lshey",
+          "ducis",
+          5,
+          5
+        ],
+        [
+          "qoar",
+          "ducis",
+          4,
+          5
+        ]
+      ],
+      "v_groups": [
+        9,
+        2,
+        1,
+        9,
+        2
+      ],
+      "a_groups": [
+        9,
+        3,
+        7,
+        1
+      ]
+    },
+    {
+      "vms_id": "f107v_B04",
+      "an_id": "AN_148",
+      "an_name": "Recipe coloquintide squille agarici",
+      "lcs_score": 0.841,
+      "dose_corr": 0.882,
+      "group_match": 0.333,
+      "len_corr": 0.548,
+      "deep_score": 0.706,
+      "n_word_pairs": 27,
+      "word_pairs": [
+        [
+          "okal",
+          "squille",
+          4,
+          7
+        ],
+        [
+          "shedy",
+          "agarici",
+          5,
+          7
+        ],
+        [
+          "qokchey",
+          "armoniaci",
+          7,
+          9
+        ],
+        [
+          "chky",
+          "ellebori",
+          4,
+          8
+        ],
+        [
+          "qokeey",
+          "silphii",
+          6,
+          7
+        ],
+        [
+          "otol",
+          "bdelii",
+          4,
+          6
+        ],
+        [
+          "qoteedy",
+          "camedrei",
+          7,
+          8
+        ],
+        [
+          "qokeey",
+          "succi",
+          6,
+          5
+        ],
+        [
+          "chol",
+          "casie",
+          4,
+          5
+        ],
+        [
+          "olkal",
+          "§.iiii",
+          5,
+          6
+        ],
+        [
+          "shedy",
+          "smirnis",
+          5,
+          7
+        ],
+        [
+          "qokaly",
+          "sagapeni",
+          6,
+          8
+        ],
+        [
+          "odar",
+          "aristologie",
+          4,
+          11
+        ],
+        [
+          "choty",
+          "longe",
+          5,
+          5
+        ],
+        [
+          "otam",
+          "piperis",
+          4,
+          7
+        ]
+      ],
+      "v_groups": [
+        5,
+        4,
+        5,
+        2,
+        2,
+        1,
+        1,
+        4,
+        1,
+        2,
+        1,
+        1
+      ],
+      "a_groups": [
+        6,
+        5,
+        10,
+        1,
+        3,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "vms_id": "f106v_B10",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "lcs_score": 0.852,
+      "dose_corr": 0.838,
+      "group_match": 0.25,
+      "len_corr": 0.678,
+      "deep_score": 0.702,
+      "n_word_pairs": 18,
+      "word_pairs": [
+        [
+          "qokor",
+          "sandali",
+          5,
+          7
+        ],
+        [
+          "sheos",
+          "rosarum",
+          5,
+          7
+        ],
+        [
+          "choty",
+          "reubarbari",
+          5,
+          10
+        ],
+        [
+          "oteody",
+          "spodii",
+          6,
+          6
+        ],
+        [
+          "qokar",
+          "draganti",
+          5,
+          8
+        ],
+        [
+          "otydy",
+          "gummi",
+          5,
+          5
+        ],
+        [
+          "ycheey",
+          "arabici",
+          6,
+          7
+        ],
+        [
+          "olchey",
+          "violarum",
+          6,
+          8
+        ],
+        [
+          "chedy",
+          "berberis",
+          5,
+          8
+        ],
+        [
+          "cheos",
+          "scariole",
+          5,
+          8
+        ],
+        [
+          "aiin",
+          "aqua",
+          4,
+          4
+        ],
+        [
+          "qody",
+          "ducis",
+          4,
+          5
+        ],
+        [
+          "okeey",
+          "ducis",
+          5,
+          5
+        ],
+        [
+          "oteedy",
+          "Rogerii",
+          6,
+          7
+        ],
+        [
+          "ksheody",
+          "filii",
+          7,
+          5
+        ]
+      ],
+      "v_groups": [
+        4,
+        1,
+        5,
+        1,
+        1,
+        6,
+        1
+      ],
+      "a_groups": [
+        9,
+        3,
+        7,
+        1
+      ]
+    },
+    {
+      "vms_id": "f114v_B02",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "lcs_score": 0.833,
+      "dose_corr": 0.81,
+      "group_match": 0.5,
+      "len_corr": 0.418,
+      "deep_score": 0.698,
+      "n_word_pairs": 11,
+      "word_pairs": [
+        [
+          "qotchedy",
+          "aloes",
+          8,
+          5
+        ],
+        [
+          "opchedy",
+          "emblicorum",
+          7,
+          10
+        ],
+        [
+          "shedy",
+          "masticis",
+          5,
+          8
+        ],
+        [
+          "chedar",
+          "diagridii",
+          6,
+          9
+        ],
+        [
+          "dairy",
+          "asari",
+          5,
+          5
+        ],
+        [
+          "cheedar",
+          "succo",
+          7,
+          5
+        ],
+        [
+          "cheey",
+          "feniculi",
+          5,
+          8
+        ],
+        [
+          "s",
+          "absintii",
+          1,
+          8
+        ],
+        [
+          "aiin",
+          "croci",
+          4,
+          5
+        ],
+        [
+          "shod",
+          "castorei",
+          4,
+          8
+        ],
+        [
+          "chokchedy",
+          "-ö-iii",
+          9,
+          6
+        ]
+      ],
+      "v_groups": [
+        3,
+        4,
+        4,
+        2
+      ],
+      "a_groups": [
+        1,
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "vms_id": "f107v_B02",
+      "an_id": "AN_100",
+      "an_name": "Recipe elempnii",
+      "lcs_score": 0.833,
+      "dose_corr": 0.932,
+      "group_match": 0.25,
+      "len_corr": 0.508,
+      "deep_score": 0.692,
+      "n_word_pairs": 13,
+      "word_pairs": [
+        [
+          "qotol",
+          "elempnii",
+          5,
+          8
+        ],
+        [
+          "chdor",
+          "i.S.5.iii",
+          5,
+          9
+        ],
+        [
+          "otechdy",
+          "seminis",
+          7,
+          7
+        ],
+        [
+          "teol",
+          "maratri",
+          4,
+          7
+        ],
+        [
+          "opchedy",
+          "-ó.vi",
+          7,
+          5
+        ],
+        [
+          "qopchdy",
+          "cumini",
+          7,
+          6
+        ],
+        [
+          "ytar",
+          "mei",
+          4,
+          3
+        ],
+        [
+          "olkeedy",
+          "mane",
+          7,
+          4
+        ],
+        [
+          "qokeey",
+          "vino",
+          6,
+          4
+        ],
+        [
+          "oky",
+          "veteris",
+          3,
+          7
+        ],
+        [
+          "lkal",
+          "sulfur",
+          4,
+          6
+        ],
+        [
+          "aiin",
+          "defectis",
+          4,
+          8
+        ],
+        [
+          "qokaldy",
+          "mire",
+          7,
+          4
+        ]
+      ],
+      "v_groups": [
+        5,
+        3,
+        2,
+        2,
+        2,
+        1
+      ],
+      "a_groups": [
+        4,
+        3,
+        1,
+        6
+      ]
+    },
+    {
+      "vms_id": "f106r_B07",
+      "an_id": "AN_082",
+      "an_name": "Recipe aloes optimi",
+      "lcs_score": 0.829,
+      "dose_corr": 0.912,
+      "group_match": 0.25,
+      "len_corr": 0.527,
+      "deep_score": 0.689,
+      "n_word_pairs": 22,
+      "word_pairs": [
+        [
+          "dsheol",
+          "aloes",
+          6,
+          5
+        ],
+        [
+          "qokeedy",
+          "optimi",
+          7,
+          6
+        ],
+        [
+          "otol",
+          "cinnamomi",
+          4,
+          9
+        ],
+        [
+          "okeedy",
+          "nardi",
+          6,
+          5
+        ],
+        [
+          "lkeedar",
+          "costi",
+          7,
+          5
+        ],
+        [
+          "qopchy",
+          "croci",
+          6,
+          5
+        ],
+        [
+          "qotolchy",
+          "squinanti",
+          8,
+          9
+        ],
+        [
+          "qoty",
+          "silobalsami",
+          4,
+          11
+        ],
+        [
+          "chdy",
+          "casiefistule",
+          4,
+          12
+        ],
+        [
+          "otchedy",
+          "masticis",
+          7,
+          8
+        ],
+        [
+          "qokeey",
+          "asari",
+          6,
+          5
+        ],
+        [
+          "cholkeeey",
+          "rosarum",
+          9,
+          7
+        ],
+        [
+          "ltal",
+          "amomi",
+          4,
+          5
+        ],
+        [
+          "olcheey",
+          "absinthii",
+          7,
+          9
+        ],
+        [
+          "cheey",
+          "mei",
+          5,
+          3
+        ]
+      ],
+      "v_groups": [
+        11,
+        3,
+        1,
+        1,
+        4,
+        4
+      ],
+      "a_groups": [
+        2,
+        12,
+        1,
+        7
+      ]
+    },
+    {
+      "vms_id": "f113r_B02",
+      "an_id": "AN_118",
+      "an_name": "Recipe opii",
+      "lcs_score": 0.833,
+      "dose_corr": 0.816,
+      "group_match": 0.4,
+      "len_corr": 0.463,
+      "deep_score": 0.687,
+      "n_word_pairs": 35,
+      "word_pairs": [
+        [
+          "olkeedy",
+          "opii",
+          7,
+          4
+        ],
+        [
+          "qokchedy",
+          "cinamomi",
+          8,
+          8
+        ],
+        [
+          "qokedy",
+          "gariofilorum",
+          6,
+          12
+        ],
+        [
+          "qotaly",
+          "galange",
+          6,
+          7
+        ],
+        [
+          "lkar",
+          "spice",
+          4,
+          5
+        ],
+        [
+          "ar",
+          "zedoarie",
+          2,
+          8
+        ],
+        [
+          "al",
+          "zinziberis",
+          2,
+          10
+        ],
+        [
+          "om",
+          "costi",
+          2,
+          5
+        ],
+        [
+          "cheoar",
+          "storacis",
+          6,
+          8
+        ],
+        [
+          "chekal",
+          "calamite",
+          6,
+          8
+        ],
+        [
+          "otar",
+          "calami",
+          4,
+          6
+        ],
+        [
+          "shos",
+          "aromatici",
+          4,
+          9
+        ],
+        [
+          "aiin",
+          "ciperi",
+          4,
+          6
+        ],
+        [
+          "chckhy",
+          "yris",
+          6,
+          4
+        ],
+        [
+          "okol",
+          "peucedani",
+          4,
+          9
+        ]
+      ],
+      "v_groups": [
+        1,
+        8,
+        1,
+        12,
+        7,
+        7
+      ],
+      "a_groups": [
+        1,
+        27,
+        1,
+        1,
+        5
+      ]
+    },
+    {
+      "vms_id": "f112v_B13",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "lcs_score": 0.852,
+      "dose_corr": 0.885,
+      "group_match": 0.25,
+      "len_corr": 0.474,
+      "deep_score": 0.683,
+      "n_word_pairs": 19,
+      "word_pairs": [
+        [
+          "ycheey",
+          "sandali",
+          6,
+          7
+        ],
+        [
+          "chokeey",
+          "rosarum",
+          7,
+          7
+        ],
+        [
+          "okasal",
+          "reubarbari",
+          6,
+          10
+        ],
+        [
+          "tchdy",
+          "spodii",
+          5,
+          6
+        ],
+        [
+          "oteol",
+          "draganti",
+          5,
+          8
+        ],
+        [
+          "chcthy",
+          "gummi",
+          6,
+          5
+        ],
+        [
+          "char",
+          "arabici",
+          4,
+          7
+        ],
+        [
+          "al",
+          "violarum",
+          2,
+          8
+        ],
+        [
+          "ykeey",
+          "berberis",
+          5,
+          8
+        ],
+        [
+          "char",
+          "seminis",
+          4,
+          7
+        ],
+        [
+          "am",
+          "portulace",
+          2,
+          9
+        ],
+        [
+          "chey",
+          "scariole",
+          4,
+          8
+        ],
+        [
+          "daldy",
+          "aqua",
+          5,
+          4
+        ],
+        [
+          "otar",
+          "ducis",
+          4,
+          5
+        ],
+        [
+          "oaral",
+          "ducis",
+          5,
+          5
+        ]
+      ],
+      "v_groups": [
+        6,
+        3,
+        1,
+        3,
+        1,
+        5,
+        2
+      ],
+      "a_groups": [
+        9,
+        3,
+        7,
+        1
+      ]
+    },
+    {
+      "vms_id": "f107v_B01",
+      "an_id": "AN_091",
+      "an_name": "Recipe fol",
+      "lcs_score": 0.854,
+      "dose_corr": 0.877,
+      "group_match": 0.3,
+      "len_corr": 0.377,
+      "deep_score": 0.677,
+      "n_word_pairs": 26,
+      "word_pairs": [
+        [
+          "olkeeey",
+          "2i",
+          7,
+          2
+        ],
+        [
+          "otody",
+          "mirabolanorum",
+          5,
+          13
+        ],
+        [
+          "qokair",
+          "emblicorum",
+          6,
+          10
+        ],
+        [
+          "lkal",
+          "agarici",
+          4,
+          7
+        ],
+        [
+          "chey",
+          "dyagridii",
+          4,
+          9
+        ],
+        [
+          "chody",
+          "coloquintide",
+          5,
+          12
+        ],
+        [
+          "otal",
+          "sene",
+          4,
+          4
+        ],
+        [
+          "cheey",
+          "anisi",
+          5,
+          5
+        ],
+        [
+          "chkal",
+          "turbit",
+          5,
+          6
+        ],
+        [
+          "qokedy",
+          "anisi",
+          6,
+          5
+        ],
+        [
+          "otal",
+          "maratri",
+          4,
+          7
+        ],
+        [
+          "chedy",
+          "spleneticis",
+          5,
+          11
+        ],
+        [
+          "oteos",
+          "poivre",
+          5,
+          6
+        ],
+        [
+          "aiin",
+          "nardi",
+          4,
+          5
+        ],
+        [
+          "otar",
+          "macis",
+          4,
+          5
+        ]
+      ],
+      "v_groups": [
+        1,
+        7,
+        1,
+        7,
+        1,
+        2,
+        5,
+        2,
+        2,
+        1
+      ],
+      "a_groups": [
+        8,
+        4,
+        3,
+        2,
+        1,
+        1,
+        2,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "vms_id": "f112r_B02",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "lcs_score": 0.852,
+      "dose_corr": 0.782,
+      "group_match": 0.25,
+      "len_corr": 0.58,
+      "deep_score": 0.673,
+      "n_word_pairs": 20,
+      "word_pairs": [
+        [
+          "qoteey",
+          "sandali",
+          6,
+          7
+        ],
+        [
+          "qokeey",
+          "rosarum",
+          6,
+          7
+        ],
+        [
+          "otey",
+          "reubarbari",
+          4,
+          10
+        ],
+        [
+          "qokeey",
+          "spodii",
+          6,
+          6
+        ],
+        [
+          "qokedy",
+          "draganti",
+          6,
+          8
+        ],
+        [
+          "qo",
+          "gummi",
+          2,
+          5
+        ],
+        [
+          "otchedy",
+          "arabici",
+          7,
+          7
+        ],
+        [
+          "chdy",
+          "violarum",
+          4,
+          8
+        ],
+        [
+          "qokeey",
+          "berberis",
+          6,
+          8
+        ],
+        [
+          "oteey",
+          "seminis",
+          5,
+          7
+        ],
+        [
+          "aiin",
+          "portulace",
+          4,
+          9
+        ],
+        [
+          "chdy",
+          "scariole",
+          4,
+          8
+        ],
+        [
+          "ches",
+          "aqua",
+          4,
+          4
+        ],
+        [
+          "qokeey",
+          "ducis",
+          6,
+          5
+        ],
+        [
+          "okeey",
+          "ducis",
+          5,
+          5
+        ]
+      ],
+      "v_groups": [
+        9,
+        7,
+        4,
+        2
+      ],
+      "a_groups": [
+        9,
+        3,
+        7,
+        1
+      ]
+    },
+    {
+      "vms_id": "f105v_B04",
+      "an_id": "AN_092",
+      "an_name": "Recipe mirtili balaustiarum psidie",
+      "lcs_score": 0.833,
+      "dose_corr": 0.885,
+      "group_match": 0.167,
+      "len_corr": 0.497,
+      "deep_score": 0.662,
+      "n_word_pairs": 29,
+      "word_pairs": [
+        [
+          "chckhdy",
+          "mirtili",
+          7,
+          7
+        ],
+        [
+          "qokaiir",
+          "balaustiarum",
+          7,
+          12
+        ],
+        [
+          "olpchedy",
+          "simphiti",
+          8,
+          8
+        ],
+        [
+          "aiiin",
+          "sanguinis",
+          5,
+          9
+        ],
+        [
+          "odar",
+          "draconis",
+          4,
+          8
+        ],
+        [
+          "chtchy",
+          "boli",
+          6,
+          4
+        ],
+        [
+          "ycheey",
+          "acacie",
+          6,
+          6
+        ],
+        [
+          "kar",
+          "rosarum",
+          3,
+          7
+        ],
+        [
+          "ykeey",
+          "tartari",
+          5,
+          7
+        ],
+        [
+          "ot",
+          "sumac",
+          2,
+          5
+        ],
+        [
+          "al",
+          "galle",
+          2,
+          5
+        ],
+        [
+          "dar",
+          "cinnamomi",
+          3,
+          9
+        ],
+        [
+          "chdor",
+          "spodii",
+          5,
+          6
+        ],
+        [
+          "kalchedy",
+          "masticis",
+          8,
+          8
+        ],
+        [
+          "opchdy",
+          "gummi",
+          6,
+          5
+        ]
+      ],
+      "v_groups": [
+        9,
+        6,
+        1,
+        8,
+        4,
+        3
+      ],
+      "a_groups": [
+        15,
+        1,
+        2,
+        5,
+        3,
+        3
+      ]
+    },
+    {
+      "vms_id": "f103r_B10",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "lcs_score": 0.852,
+      "dose_corr": 0.9,
+      "group_match": 0.0,
+      "len_corr": 0.632,
+      "deep_score": 0.661,
+      "n_word_pairs": 19,
+      "word_pairs": [
+        [
+          "sheckhy",
+          "sandali",
+          7,
+          7
+        ],
+        [
+          "qokey",
+          "rosarum",
+          5,
+          7
+        ],
+        [
+          "shedy",
+          "reubarbari",
+          5,
+          10
+        ],
+        [
+          "chpchy",
+          "spodii",
+          6,
+          6
+        ],
+        [
+          "opchedy",
+          "draganti",
+          7,
+          8
+        ],
+        [
+          "chdaly",
+          "gummi",
+          6,
+          5
+        ],
+        [
+          "soiin",
+          "arabici",
+          5,
+          7
+        ],
+        [
+          "chol",
+          "violarum",
+          4,
+          8
+        ],
+        [
+          "chal",
+          "berberis",
+          4,
+          8
+        ],
+        [
+          "qokal",
+          "seminis",
+          5,
+          7
+        ],
+        [
+          "shdar",
+          "portulace",
+          5,
+          9
+        ],
+        [
+          "shchdy",
+          "scariole",
+          6,
+          8
+        ],
+        [
+          "okeey",
+          "aqua",
+          5,
+          4
+        ],
+        [
+          "shedy",
+          "ducis",
+          5,
+          5
+        ],
+        [
+          "qokedy",
+          "ducis",
+          6,
+          5
+        ]
+      ],
+      "v_groups": [
+        2,
+        6,
+        1,
+        4,
+        8
+      ],
+      "a_groups": [
+        9,
+        3,
+        7,
+        1
+      ]
+    },
+    {
+      "vms_id": "f111v_B06",
+      "an_id": "AN_140",
+      "an_name": "Recipe succi cucurbite agrestis",
+      "lcs_score": 0.829,
+      "dose_corr": 0.792,
+      "group_match": 0.182,
+      "len_corr": 0.619,
+      "deep_score": 0.659,
+      "n_word_pairs": 53,
+      "word_pairs": [
+        [
+          "keedy",
+          "succi",
+          5,
+          5
+        ],
+        [
+          "lteedy",
+          "agrestis",
+          6,
+          8
+        ],
+        [
+          "r",
+          "succi",
+          1,
+          5
+        ],
+        [
+          "ycheey",
+          "interioris",
+          6,
+          10
+        ],
+        [
+          "o",
+          "squille",
+          1,
+          7
+        ],
+        [
+          "aiin",
+          "succi",
+          4,
+          5
+        ],
+        [
+          "checkhey",
+          "ciclaminis",
+          8,
+          10
+        ],
+        [
+          "chear",
+          "succi",
+          5,
+          5
+        ],
+        [
+          "chedy",
+          "radicis",
+          5,
+          7
+        ],
+        [
+          "qokeey",
+          "succi",
+          6,
+          5
+        ],
+        [
+          "okeedy",
+          "radicis",
+          6,
+          7
+        ],
+        [
+          "lkeey",
+          "ebuli",
+          5,
+          5
+        ],
+        [
+          "dsheey",
+          "succi",
+          6,
+          5
+        ],
+        [
+          "qokal",
+          "mediani",
+          5,
+          7
+        ],
+        [
+          "chedy",
+          "corticis",
+          5,
+          8
+        ]
+      ],
+      "v_groups": [
+        9,
+        9,
+        3,
+        2,
+        1,
+        19,
+        2,
+        5,
+        3,
+        2,
+        1,
+        1
+      ],
+      "a_groups": [
+        19,
+        18,
+        2,
+        1,
+        1,
+        2,
+        5,
+        1,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "vms_id": "f107r_B04",
+      "an_id": "AN_091",
+      "an_name": "Recipe fol",
+      "lcs_score": 0.829,
+      "dose_corr": 0.922,
+      "group_match": 0.111,
+      "len_corr": 0.474,
+      "deep_score": 0.655,
+      "n_word_pairs": 27,
+      "word_pairs": [
+        [
+          "aiin",
+          "2i",
+          4,
+          2
+        ],
+        [
+          "sheky",
+          "mirabolanorum",
+          5,
+          13
+        ],
+        [
+          "opchal",
+          "emblicorum",
+          6,
+          10
+        ],
+        [
+          "shedy",
+          "agarici",
+          5,
+          7
+        ],
+        [
+          "otodal",
+          "dyagridii",
+          6,
+          9
+        ],
+        [
+          "shedy",
+          "coloquintide",
+          5,
+          12
+        ],
+        [
+          "otaral",
+          "sene",
+          6,
+          4
+        ],
+        [
+          "cthedy",
+          "anisi",
+          6,
+          5
+        ],
+        [
+          "lshedy",
+          "turbit",
+          6,
+          6
+        ],
+        [
+          "or",
+          "anisi",
+          2,
+          5
+        ],
+        [
+          "alam",
+          "maratri",
+          4,
+          7
+        ],
+        [
+          "chey",
+          "spleneticis",
+          4,
+          11
+        ],
+        [
+          "ychol",
+          "poivre",
+          5,
+          6
+        ],
+        [
+          "oiin",
+          "nardi",
+          4,
+          5
+        ],
+        [
+          "chey",
+          "macis",
+          4,
+          5
+        ]
+      ],
+      "v_groups": [
+        2,
+        2,
+        7,
+        1,
+        5,
+        2,
+        2,
+        5,
+        1
+      ],
+      "a_groups": [
+        8,
+        4,
+        3,
+        2,
+        1,
+        1,
+        2,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "vms_id": "f114v_B05",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "lcs_score": 0.833,
+      "dose_corr": 0.916,
+      "group_match": 0.0,
+      "len_corr": 0.576,
+      "deep_score": 0.649,
+      "n_word_pairs": 25,
+      "word_pairs": [
+        [
+          "qopchedy",
+          "opii",
+          8,
+          4
+        ],
+        [
+          "qopchedy",
+          "thebaici",
+          8,
+          8
+        ],
+        [
+          "qokchedy",
+          "g-i",
+          8,
+          3
+        ],
+        [
+          "shody",
+          "iusquiami",
+          5,
+          9
+        ],
+        [
+          "qokod",
+          "succi",
+          5,
+          5
+        ],
+        [
+          "qokol",
+          "more",
+          5,
+          4
+        ],
+        [
+          "cheedy",
+          "rubi",
+          6,
+          4
+        ],
+        [
+          "qotody",
+          "seminis",
+          6,
+          7
+        ],
+        [
+          "cheol",
+          "lactuce",
+          5,
+          7
+        ],
+        [
+          "kchedy",
+          "succi",
+          6,
+          5
+        ],
+        [
+          "ytchedy",
+          "cicute",
+          7,
+          6
+        ],
+        [
+          "qool",
+          "coconidii",
+          4,
+          9
+        ],
+        [
+          "chey",
+          "papaveris",
+          4,
+          9
+        ],
+        [
+          "ol",
+          "succi",
+          2,
+          5
+        ],
+        [
+          "aiin",
+          "mandragore",
+          4,
+          10
+        ]
+      ],
+      "v_groups": [
+        6,
+        2,
+        12,
+        1,
+        9
+      ],
+      "a_groups": [
+        4,
+        8,
+        4,
+        10
+      ]
+    },
+    {
+      "vms_id": "f106r_B15",
+      "an_id": "AN_119",
+      "an_name": "Recipe piperis albi quod",
+      "lcs_score": 0.833,
+      "dose_corr": 0.938,
+      "group_match": 0.091,
+      "len_corr": 0.392,
+      "deep_score": 0.645,
+      "n_word_pairs": 26,
+      "word_pairs": [
+        [
+          "shol",
+          "piperis",
+          4,
+          7
+        ],
+        [
+          "qoteey",
+          "piperis",
+          6,
+          7
+        ],
+        [
+          "shotchy",
+          "cimini",
+          7,
+          6
+        ],
+        [
+          "qoty",
+          "assi",
+          4,
+          4
+        ],
+        [
+          "shedy",
+          "zinziberis",
+          5,
+          10
+        ],
+        [
+          "daiiral",
+          "nitri",
+          7,
+          5
+        ],
+        [
+          "sheol",
+          "piretri",
+          5,
+          7
+        ],
+        [
+          "cheor",
+          "piperis",
+          5,
+          7
+        ],
+        [
+          "al",
+          "longi",
+          2,
+          5
+        ],
+        [
+          "chekal",
+          "petroselini",
+          6,
+          11
+        ],
+        [
+          "dshedy",
+          "ameos",
+          6,
+          5
+        ],
+        [
+          "qoteey",
+          "dauci",
+          6,
+          5
+        ],
+        [
+          "chy",
+          "elempnii",
+          3,
+          8
+        ],
+        [
+          "aiin",
+          "spice",
+          4,
+          5
+        ],
+        [
+          "oty",
+          "ciperi",
+          3,
+          6
+        ]
+      ],
+      "v_groups": [
+        1,
+        3,
+        3,
+        1,
+        3,
+        3,
+        6,
+        1,
+        3,
+        2,
+        1,
+        2,
+        3
+      ],
+      "a_groups": [
+        1,
+        1,
+        2,
+        3,
+        2,
+        10,
+        2,
+        2,
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "vms_id": "f104r_B04",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "lcs_score": 0.853,
+      "dose_corr": 0.879,
+      "group_match": 0.0,
+      "len_corr": 0.552,
+      "deep_score": 0.644,
+      "n_word_pairs": 25,
+      "word_pairs": [
+        [
+          "qotchedy",
+          "opii",
+          8,
+          4
+        ],
+        [
+          "qokoeey",
+          "thebaici",
+          7,
+          8
+        ],
+        [
+          "lo",
+          "g-i",
+          2,
+          3
+        ],
+        [
+          "al",
+          "iusquiami",
+          2,
+          9
+        ],
+        [
+          "octhy",
+          "succi",
+          5,
+          5
+        ],
+        [
+          "qotor",
+          "more",
+          5,
+          4
+        ],
+        [
+          "opchey",
+          "rubi",
+          6,
+          4
+        ],
+        [
+          "qotam",
+          "seminis",
+          5,
+          7
+        ],
+        [
+          "olcheol",
+          "lactuce",
+          7,
+          7
+        ],
+        [
+          "chokar",
+          "succi",
+          6,
+          5
+        ],
+        [
+          "okcho",
+          "cicute",
+          5,
+          6
+        ],
+        [
+          "okar",
+          "coconidii",
+          4,
+          9
+        ],
+        [
+          "cheody",
+          "papaveris",
+          6,
+          9
+        ],
+        [
+          "okeeody",
+          "succi",
+          7,
+          5
+        ],
+        [
+          "qodam",
+          "mandragore",
+          5,
+          10
+        ]
+      ],
+      "v_groups": [
+        9,
+        2,
+        5,
+        3,
+        3,
+        3
+      ],
+      "a_groups": [
+        4,
+        8,
+        4,
+        10
+      ]
+    },
+    {
+      "vms_id": "f114v_B01",
+      "an_id": "AN_091",
+      "an_name": "Recipe fol",
+      "lcs_score": 0.857,
+      "dose_corr": 0.882,
+      "group_match": 0.0,
+      "len_corr": 0.519,
+      "deep_score": 0.641,
+      "n_word_pairs": 27,
+      "word_pairs": [
+        [
+          "dar",
+          "2i",
+          3,
+          2
+        ],
+        [
+          "fcheey",
+          "mirabolanorum",
+          6,
+          13
+        ],
+        [
+          "qocphdy",
+          "emblicorum",
+          7,
+          10
+        ],
+        [
+          "qotedar",
+          "agarici",
+          7,
+          7
+        ],
+        [
+          "qoteody",
+          "dyagridii",
+          7,
+          9
+        ],
+        [
+          "choddy",
+          "coloquintide",
+          6,
+          12
+        ],
+        [
+          "otol",
+          "sene",
+          4,
+          4
+        ],
+        [
+          "chedal",
+          "anisi",
+          6,
+          5
+        ],
+        [
+          "shedy",
+          "turbit",
+          5,
+          6
+        ],
+        [
+          "qotched",
+          "anisi",
+          7,
+          5
+        ],
+        [
+          "dl",
+          "maratri",
+          2,
+          7
+        ],
+        [
+          "qotcheo",
+          "spleneticis",
+          7,
+          11
+        ],
+        [
+          "qotchd",
+          "poivre",
+          6,
+          6
+        ],
+        [
+          "dol",
+          "nardi",
+          3,
+          5
+        ],
+        [
+          "qotchedy",
+          "macis",
+          8,
+          5
+        ]
+      ],
+      "v_groups": [
+        1,
+        3,
+        4,
+        1,
+        4,
+        6,
+        7,
+        4,
+        1
+      ],
+      "a_groups": [
+        8,
+        4,
+        3,
+        2,
+        1,
+        1,
+        2,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "vms_id": "f112r_B08",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "lcs_score": 0.857,
+      "dose_corr": 0.906,
+      "group_match": 0.0,
+      "len_corr": 0.44,
+      "deep_score": 0.635,
+      "n_word_pairs": 20,
+      "word_pairs": [
+        [
+          "ar",
+          "sandali",
+          2,
+          7
+        ],
+        [
+          "l",
+          "rosarum",
+          1,
+          7
+        ],
+        [
+          "shdar",
+          "reubarbari",
+          5,
+          10
+        ],
+        [
+          "okechedy",
+          "spodii",
+          8,
+          6
+        ],
+        [
+          "qokar",
+          "draganti",
+          5,
+          8
+        ],
+        [
+          "aram",
+          "gummi",
+          4,
+          5
+        ],
+        [
+          "qotedy",
+          "arabici",
+          6,
+          7
+        ],
+        [
+          "qokchdy",
+          "violarum",
+          7,
+          8
+        ],
+        [
+          "opary",
+          "berberis",
+          5,
+          8
+        ],
+        [
+          "qoky",
+          "seminis",
+          4,
+          7
+        ],
+        [
+          "okeal",
+          "portulace",
+          5,
+          9
+        ],
+        [
+          "chedy",
+          "scariole",
+          5,
+          8
+        ],
+        [
+          "okeey",
+          "aqua",
+          5,
+          4
+        ],
+        [
+          "otedy",
+          "ducis",
+          5,
+          5
+        ],
+        [
+          "ar",
+          "ducis",
+          2,
+          5
+        ]
+      ],
+      "v_groups": [
+        7,
+        2,
+        9,
+        2,
+        2
+      ],
+      "a_groups": [
+        9,
+        3,
+        7,
+        1
+      ]
+    },
+    {
+      "vms_id": "f106v_B08",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "lcs_score": 0.829,
+      "dose_corr": 0.871,
+      "group_match": 0.0,
+      "len_corr": 0.568,
+      "deep_score": 0.635,
+      "n_word_pairs": 25,
+      "word_pairs": [
+        [
+          "qokar",
+          "opii",
+          5,
+          4
+        ],
+        [
+          "shedy",
+          "thebaici",
+          5,
+          8
+        ],
+        [
+          "shey",
+          "g-i",
+          4,
+          3
+        ],
+        [
+          "qopshedy",
+          "iusquiami",
+          8,
+          9
+        ],
+        [
+          "ol",
+          "succi",
+          2,
+          5
+        ],
+        [
+          "kalol",
+          "more",
+          5,
+          4
+        ],
+        [
+          "shar",
+          "rubi",
+          4,
+          4
+        ],
+        [
+          "chor",
+          "seminis",
+          4,
+          7
+        ],
+        [
+          "okal",
+          "lactuce",
+          4,
+          7
+        ],
+        [
+          "chdy",
+          "succi",
+          4,
+          5
+        ],
+        [
+          "chol",
+          "cicute",
+          4,
+          6
+        ],
+        [
+          "chedy",
+          "coconidii",
+          5,
+          9
+        ],
+        [
+          "or",
+          "succi",
+          2,
+          5
+        ],
+        [
+          "aiin",
+          "mandragore",
+          4,
+          10
+        ],
+        [
+          "okeedy",
+          "succi",
+          6,
+          5
+        ]
+      ],
+      "v_groups": [
+        1,
+        13,
+        3,
+        3,
+        3,
+        5
+      ],
+      "a_groups": [
+        4,
+        8,
+        4,
+        10
+      ]
+    },
+    {
+      "vms_id": "f104r_B09",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "lcs_score": 0.833,
+      "dose_corr": 0.847,
+      "group_match": 0.0,
+      "len_corr": 0.584,
+      "deep_score": 0.633,
+      "n_word_pairs": 25,
+      "word_pairs": [
+        [
+          "okeeo",
+          "thebaici",
+          5,
+          8
+        ],
+        [
+          "l",
+          "g-i",
+          1,
+          3
+        ],
+        [
+          "keeo",
+          "iusquiami",
+          4,
+          9
+        ],
+        [
+          "qokeeo",
+          "succi",
+          6,
+          5
+        ],
+        [
+          "lkechey",
+          "more",
+          7,
+          4
+        ],
+        [
+          "otechdy",
+          "rubi",
+          7,
+          4
+        ],
+        [
+          "qokeeo",
+          "seminis",
+          6,
+          7
+        ],
+        [
+          "aiin",
+          "lactuce",
+          4,
+          7
+        ],
+        [
+          "okcheey",
+          "succi",
+          7,
+          5
+        ],
+        [
+          "oteey",
+          "cicute",
+          5,
+          6
+        ],
+        [
+          "lkechedy",
+          "coconidii",
+          8,
+          9
+        ],
+        [
+          "qocth",
+          "papaveris",
+          5,
+          9
+        ],
+        [
+          "okshey",
+          "succi",
+          6,
+          5
+        ],
+        [
+          "otechshy",
+          "mandragore",
+          8,
+          10
+        ],
+        [
+          "cheol",
+          "succi",
+          5,
+          5
+        ]
+      ],
+      "v_groups": [
+        3,
+        3,
+        5,
+        7,
+        8,
+        2
+      ],
+      "a_groups": [
+        4,
+        8,
+        4,
+        10
+      ]
+    },
+    {
+      "vms_id": "f105r_B08",
+      "an_id": "AN_089",
+      "an_name": "Recipe hermodactili turbiti agarici",
+      "lcs_score": 0.828,
+      "dose_corr": 0.939,
+      "group_match": 0.0,
+      "len_corr": 0.41,
+      "deep_score": 0.627,
+      "n_word_pairs": 20,
+      "word_pairs": [
+        [
+          "qoteedy",
+          "hermodactili",
+          7,
+          12
+        ],
+        [
+          "qoeey",
+          "turbiti",
+          5,
+          7
+        ],
+        [
+          "qokeedy",
+          "agarici",
+          7,
+          7
+        ],
+        [
+          "opair",
+          "casie",
+          5,
+          5
+        ],
+        [
+          "kechedy",
+          "gariofilorum",
+          7,
+          12
+        ],
+        [
+          "oees",
+          "xilobalsami",
+          4,
+          11
+        ],
+        [
+          "olkeedy",
+          "carpobalsami",
+          7,
+          12
+        ],
+        [
+          "qockhy",
+          "zinziberis",
+          6,
+          10
+        ],
+        [
+          "r",
+          "masticis",
+          1,
+          8
+        ],
+        [
+          "aiin",
+          "feniculi",
+          4,
+          8
+        ],
+        [
+          "chol",
+          "anisi",
+          4,
+          5
+        ],
+        [
+          "okair",
+          "semen",
+          5,
+          5
+        ],
+        [
+          "oteedy",
+          "sparagi",
+          6,
+          7
+        ],
+        [
+          "qopchedy",
+          "bruxi",
+          8,
+          5
+        ],
+        [
+          "dar",
+          "solis",
+          3,
+          5
+        ]
+      ],
+      "v_groups": [
+        4,
+        12,
+        8
+      ],
+      "a_groups": [
+        3,
+        11,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "vms_id": "f108r_B07",
+      "an_id": "AN_118",
+      "an_name": "Recipe opii",
+      "lcs_score": 0.833,
+      "dose_corr": 0.906,
+      "group_match": 0.0,
+      "len_corr": 0.429,
+      "deep_score": 0.624,
+      "n_word_pairs": 35,
+      "word_pairs": [
+        [
+          "qotedy",
+          "opii",
+          6,
+          4
+        ],
+        [
+          "qoked",
+          "cinamomi",
+          5,
+          8
+        ],
+        [
+          "qotedy",
+          "gariofilorum",
+          6,
+          12
+        ],
+        [
+          "okal",
+          "galange",
+          4,
+          7
+        ],
+        [
+          "chdar",
+          "spice",
+          5,
+          5
+        ],
+        [
+          "al",
+          "zedoarie",
+          2,
+          8
+        ],
+        [
+          "char",
+          "zinziberis",
+          4,
+          10
+        ],
+        [
+          "aiin",
+          "costi",
+          4,
+          5
+        ],
+        [
+          "y",
+          "storacis",
+          1,
+          8
+        ],
+        [
+          "cheeor",
+          "calamite",
+          6,
+          8
+        ],
+        [
+          "aiin",
+          "calami",
+          4,
+          6
+        ],
+        [
+          "okeey",
+          "aromatici",
+          5,
+          9
+        ],
+        [
+          "cheol",
+          "ciperi",
+          5,
+          6
+        ],
+        [
+          "chedy",
+          "yris",
+          5,
+          4
+        ],
+        [
+          "opchedy",
+          "peucedani",
+          7,
+          9
+        ]
+      ],
+      "v_groups": [
+        21,
+        9,
+        2,
+        7,
+        2
+      ],
+      "a_groups": [
+        1,
+        27,
+        1,
+        1,
+        5
+      ]
+    },
+    {
+      "vms_id": "f116r_B05",
+      "an_id": "AN_089",
+      "an_name": "Recipe hermodactili turbiti agarici",
+      "lcs_score": 0.833,
+      "dose_corr": 0.773,
+      "group_match": 0.2,
+      "len_corr": 0.33,
+      "deep_score": 0.616,
+      "n_word_pairs": 20,
+      "word_pairs": [
+        [
+          "otal",
+          "hermodactili",
+          4,
+          12
+        ],
+        [
+          "oteedy",
+          "turbiti",
+          6,
+          7
+        ],
+        [
+          "olr",
+          "agarici",
+          3,
+          7
+        ],
+        [
+          "dar",
+          "casie",
+          3,
+          5
+        ],
+        [
+          "al",
+          "gariofilorum",
+          2,
+          12
+        ],
+        [
+          "keedy",
+          "xilobalsami",
+          5,
+          11
+        ],
+        [
+          "shdy",
+          "carpobalsami",
+          4,
+          12
+        ],
+        [
+          "dar",
+          "zinziberis",
+          3,
+          10
+        ],
+        [
+          "chedy",
+          "masticis",
+          5,
+          8
+        ],
+        [
+          "sheedy",
+          "feniculi",
+          6,
+          8
+        ],
+        [
+          "otal",
+          "anisi",
+          4,
+          5
+        ],
+        [
+          "al",
+          "semen",
+          2,
+          5
+        ],
+        [
+          "shcthy",
+          "sparagi",
+          6,
+          7
+        ],
+        [
+          "qotey",
+          "bruxi",
+          5,
+          5
+        ],
+        [
+          "otarar",
+          "solis",
+          6,
+          5
+        ]
+      ],
+      "v_groups": [
+        4,
+        13,
+        3,
+        3,
+        2
+      ],
+      "a_groups": [
+        3,
+        11,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "vms_id": "f111r_B05",
+      "an_id": "AN_089",
+      "an_name": "Recipe hermodactili turbiti agarici",
+      "lcs_score": 0.828,
+      "dose_corr": 0.807,
+      "group_match": 0.0,
+      "len_corr": 0.54,
+      "deep_score": 0.614,
+      "n_word_pairs": 20,
+      "word_pairs": [
+        [
+          "shecthy",
+          "hermodactili",
+          7,
+          12
+        ],
+        [
+          "qokeedy",
+          "turbiti",
+          7,
+          7
+        ],
+        [
+          "chckhy",
+          "agarici",
+          6,
+          7
+        ],
+        [
+          "lfchy",
+          "casie",
+          5,
+          5
+        ],
+        [
+          "cheal",
+          "gariofilorum",
+          5,
+          12
+        ],
+        [
+          "chepcham",
+          "xilobalsami",
+          8,
+          11
+        ],
+        [
+          "daim",
+          "carpobalsami",
+          4,
+          12
+        ],
+        [
+          "keeey",
+          "zinziberis",
+          5,
+          10
+        ],
+        [
+          "qockhey",
+          "masticis",
+          7,
+          8
+        ],
+        [
+          "qokeey",
+          "feniculi",
+          6,
+          8
+        ],
+        [
+          "keeor",
+          "anisi",
+          5,
+          5
+        ],
+        [
+          "okeey",
+          "semen",
+          5,
+          5
+        ],
+        [
+          "lkeedy",
+          "sparagi",
+          6,
+          7
+        ],
+        [
+          "lkeey",
+          "bruxi",
+          5,
+          5
+        ],
+        [
+          "l",
+          "solis",
+          1,
+          5
+        ]
+      ],
+      "v_groups": [
+        1,
+        14,
+        4,
+        2,
+        2
+      ],
+      "a_groups": [
+        3,
+        11,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "vms_id": "f103r_B17",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "lcs_score": 0.853,
+      "dose_corr": 0.773,
+      "group_match": 0.0,
+      "len_corr": 0.515,
+      "deep_score": 0.612,
+      "n_word_pairs": 26,
+      "word_pairs": [
+        [
+          "lshedy",
+          "opii",
+          6,
+          4
+        ],
+        [
+          "qokeey",
+          "thebaici",
+          6,
+          8
+        ],
+        [
+          "qokeey",
+          "g-i",
+          6,
+          3
+        ],
+        [
+          "shkchy",
+          "iusquiami",
+          6,
+          9
+        ],
+        [
+          "kchy",
+          "succi",
+          4,
+          5
+        ],
+        [
+          "okeey",
+          "more",
+          5,
+          4
+        ],
+        [
+          "lr",
+          "rubi",
+          2,
+          4
+        ],
+        [
+          "ain",
+          "seminis",
+          3,
+          7
+        ],
+        [
+          "l",
+          "lactuce",
+          1,
+          7
+        ],
+        [
+          "ol",
+          "succi",
+          2,
+          5
+        ],
+        [
+          "sheed",
+          "cicute",
+          5,
+          6
+        ],
+        [
+          "qokeey",
+          "coconidii",
+          6,
+          9
+        ],
+        [
+          "sheol",
+          "papaveris",
+          5,
+          9
+        ],
+        [
+          "qokeedy",
+          "succi",
+          7,
+          5
+        ],
+        [
+          "shedy",
+          "mandragore",
+          5,
+          10
+        ]
+      ],
+      "v_groups": [
+        1,
+        15,
+        8,
+        1,
+        2
+      ],
+      "a_groups": [
+        4,
+        8,
+        4,
+        10
+      ]
+    },
+    {
+      "vms_id": "f115v_B01",
+      "an_id": "AN_034",
+      "an_name": "Recipe penidiorum",
+      "lcs_score": 0.83,
+      "dose_corr": 0.799,
+      "group_match": 0.0,
+      "len_corr": 0.515,
+      "deep_score": 0.609,
+      "n_word_pairs": 33,
+      "word_pairs": [
+        [
+          "otchedy",
+          "penidiorum",
+          7,
+          10
+        ],
+        [
+          "qotees",
+          "pinearum",
+          6,
+          8
+        ],
+        [
+          "qoty",
+          "amigdolarum",
+          4,
+          11
+        ],
+        [
+          "qotar",
+          "seminis",
+          5,
+          7
+        ],
+        [
+          "ol",
+          "-S-iii",
+          2,
+          6
+        ],
+        [
+          "om",
+          "cinamomi",
+          2,
+          8
+        ],
+        [
+          "qokeedy",
+          "gariofili",
+          7,
+          9
+        ],
+        [
+          "yteedy",
+          "zinziberis",
+          6,
+          10
+        ],
+        [
+          "qokar",
+          "succi",
+          5,
+          5
+        ],
+        [
+          "qokchdy",
+          "liquiricie",
+          7,
+          10
+        ],
+        [
+          "chdar",
+          "dragaganti",
+          5,
+          10
+        ],
+        [
+          "okchdy",
+          "gummi",
+          6,
+          5
+        ],
+        [
+          "qokam",
+          "arabici",
+          5,
+          7
+        ],
+        [
+          "dsheol",
+          "seminis",
+          6,
+          7
+        ],
+        [
+          "qokchedy",
+          "citroli",
+          8,
+          7
+        ]
+      ],
+      "v_groups": [
+        2,
+        2,
+        1,
+        4,
+        8,
+        1,
+        2,
+        14
+      ],
+      "a_groups": [
+        5,
+        1,
+        12,
+        2,
+        11,
+        2,
+        1
+      ]
+    },
+    {
+      "vms_id": "f103v_B07",
+      "an_id": "AN_114",
+      "an_name": "Recipe apii petrosilini feniculi",
+      "lcs_score": 0.828,
+      "dose_corr": 0.742,
+      "group_match": 0.2,
+      "len_corr": 0.35,
+      "deep_score": 0.609,
+      "n_word_pairs": 52,
+      "word_pairs": [
+        [
+          "char",
+          "apii",
+          4,
+          4
+        ],
+        [
+          "otar",
+          "petrosilini",
+          4,
+          11
+        ],
+        [
+          "oteal",
+          "feniculi",
+          5,
+          8
+        ],
+        [
+          "qotal",
+          "anisi",
+          5,
+          5
+        ],
+        [
+          "shedy",
+          "poiitrici",
+          5,
+          9
+        ],
+        [
+          "qokeey",
+          "caparis",
+          6,
+          7
+        ],
+        [
+          "shal",
+          "tamarisci",
+          4,
+          9
+        ],
+        [
+          "qokeed",
+          "siselei",
+          6,
+          7
+        ],
+        [
+          "oteedy",
+          "solis",
+          6,
+          5
+        ],
+        [
+          "sheoky",
+          "seminis",
+          6,
+          7
+        ],
+        [
+          "tar",
+          "melonis",
+          3,
+          7
+        ],
+        [
+          "teor",
+          "citroli",
+          4,
+          7
+        ],
+        [
+          "otam",
+          "cucumeris",
+          4,
+          9
+        ],
+        [
+          "oll",
+          "cretani",
+          3,
+          7
+        ],
+        [
+          "olshey",
+          "saxifragie",
+          6,
+          10
+        ]
+      ],
+      "v_groups": [
+        2,
+        1,
+        3,
+        12,
+        19,
+        2,
+        3,
+        10
+      ],
+      "a_groups": [
+        4,
+        4,
+        23,
+        2,
+        19
+      ]
+    },
+    {
+      "vms_id": "f106v_B02",
+      "an_id": "AN_082",
+      "an_name": "Recipe aloes optimi",
+      "lcs_score": 0.829,
+      "dose_corr": 0.902,
+      "group_match": 0.0,
+      "len_corr": 0.343,
+      "deep_score": 0.608,
+      "n_word_pairs": 21,
+      "word_pairs": [
+        [
+          "oeey",
+          "optimi",
+          4,
+          6
+        ],
+        [
+          "opched",
+          "cinnamomi",
+          6,
+          9
+        ],
+        [
+          "qopchedy",
+          "nardi",
+          8,
+          5
+        ],
+        [
+          "chepar",
+          "costi",
+          6,
+          5
+        ],
+        [
+          "aiin",
+          "croci",
+          4,
+          5
+        ],
+        [
+          "octhy",
+          "squinanti",
+          5,
+          9
+        ],
+        [
+          "dair",
+          "silobalsami",
+          4,
+          11
+        ],
+        [
+          "ry",
+          "casiefistule",
+          2,
+          12
+        ],
+        [
+          "shody",
+          "masticis",
+          5,
+          8
+        ],
+        [
+          "kchedy",
+          "asari",
+          6,
+          5
+        ],
+        [
+          "sheody",
+          "rosarum",
+          6,
+          7
+        ],
+        [
+          "shkar",
+          "amomi",
+          5,
+          5
+        ],
+        [
+          "chody",
+          "absinthii",
+          5,
+          9
+        ],
+        [
+          "shol",
+          "mei",
+          4,
+          3
+        ],
+        [
+          "chodar",
+          "musco",
+          6,
+          5
+        ]
+      ],
+      "v_groups": [
+        1,
+        2,
+        5,
+        3,
+        2,
+        1,
+        1,
+        5,
+        2
+      ],
+      "a_groups": [
+        2,
+        12,
+        1,
+        7
+      ]
+    },
+    {
+      "vms_id": "f108v_B06",
+      "an_id": "AN_067",
+      "an_name": "Recipe storacis calamite",
+      "lcs_score": 0.83,
+      "dose_corr": 0.722,
+      "group_match": 0.2,
+      "len_corr": 0.357,
+      "deep_score": 0.606,
+      "n_word_pairs": 83,
+      "word_pairs": [
+        [
+          "sheo",
+          "storacis",
+          4,
+          8
+        ],
+        [
+          "kchey",
+          "calamite",
+          5,
+          8
+        ],
+        [
+          "otshedy",
+          "gariofilorum",
+          7,
+          12
+        ],
+        [
+          "qotey",
+          "nardi",
+          5,
+          5
+        ],
+        [
+          "r",
+          "xilobalsami",
+          1,
+          11
+        ],
+        [
+          "aiin",
+          "oroboni",
+          4,
+          7
+        ],
+        [
+          "ol",
+          "lentici",
+          2,
+          7
+        ],
+        [
+          "shol",
+          "draganti",
+          4,
+          8
+        ],
+        [
+          "olkeeey",
+          "masticis",
+          7,
+          8
+        ],
+        [
+          "lky",
+          "galbani",
+          3,
+          7
+        ],
+        [
+          "chedar",
+          "gummi",
+          6,
+          5
+        ],
+        [
+          "chey",
+          "cedri",
+          4,
+          5
+        ],
+        [
+          "kechey",
+          "aspalti",
+          6,
+          7
+        ],
+        [
+          "qotedy",
+          "castorei",
+          6,
+          8
+        ],
+        [
+          "otedy",
+          "olphei",
+          5,
+          6
+        ]
+      ],
+      "v_groups": [
+        2,
+        1,
+        5,
+        8,
+        1,
+        2,
+        2,
+        1,
+        4,
+        6,
+        6,
+        1,
+        3,
+        6,
+        1,
+        3,
+        14,
+        9,
+        9
+      ],
+      "a_groups": [
+        2,
+        21,
+        46,
+        4,
+        26
+      ]
+    },
+    {
+      "vms_id": "f105v_B03",
+      "an_id": "AN_114",
+      "an_name": "Recipe apii petrosilini feniculi",
+      "lcs_score": 0.869,
+      "dose_corr": 0.863,
+      "group_match": 0.0,
+      "len_corr": 0.268,
+      "deep_score": 0.604,
+      "n_word_pairs": 50,
+      "word_pairs": [
+        [
+          "air",
+          "apii",
+          3,
+          4
+        ],
+        [
+          "odar",
+          "petrosilini",
+          4,
+          11
+        ],
+        [
+          "qoeees",
+          "feniculi",
+          6,
+          8
+        ],
+        [
+          "y",
+          "anisi",
+          1,
+          5
+        ],
+        [
+          "otchedy",
+          "caparis",
+          7,
+          7
+        ],
+        [
+          "ockhedy",
+          "tamarisci",
+          7,
+          9
+        ],
+        [
+          "otchey",
+          "siselei",
+          6,
+          7
+        ],
+        [
+          "or",
+          "solis",
+          2,
+          5
+        ],
+        [
+          "r",
+          "seminis",
+          1,
+          7
+        ],
+        [
+          "ail",
+          "melonis",
+          3,
+          7
+        ],
+        [
+          "l",
+          "citroli",
+          1,
+          7
+        ],
+        [
+          "okam",
+          "cucumeris",
+          4,
+          9
+        ],
+        [
+          "ykeey",
+          "cretani",
+          5,
+          7
+        ],
+        [
+          "ky",
+          "saxifragie",
+          2,
+          10
+        ],
+        [
+          "che",
+          "seminis",
+          3,
+          7
+        ]
+      ],
+      "v_groups": [
+        1,
+        5,
+        3,
+        10,
+        11,
+        13,
+        3,
+        6
+      ],
+      "a_groups": [
+        4,
+        4,
+        23,
+        2,
+        19
+      ]
+    },
+    {
+      "vms_id": "f115v_B12",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "lcs_score": 0.829,
+      "dose_corr": 0.814,
+      "group_match": 0.0,
+      "len_corr": 0.424,
+      "deep_score": 0.599,
+      "n_word_pairs": 25,
+      "word_pairs": [
+        [
+          "lkeedol",
+          "opii",
+          7,
+          4
+        ],
+        [
+          "ltchdy",
+          "thebaici",
+          6,
+          8
+        ],
+        [
+          "lkeedy",
+          "g-i",
+          6,
+          3
+        ],
+        [
+          "oiiin",
+          "iusquiami",
+          5,
+          9
+        ],
+        [
+          "chees",
+          "succi",
+          5,
+          5
+        ],
+        [
+          "loedy",
+          "more",
+          5,
+          4
+        ],
+        [
+          "cheo",
+          "rubi",
+          4,
+          4
+        ],
+        [
+          "keeo",
+          "seminis",
+          4,
+          7
+        ],
+        [
+          "o",
+          "lactuce",
+          1,
+          7
+        ],
+        [
+          "l",
+          "succi",
+          1,
+          5
+        ],
+        [
+          "r",
+          "cicute",
+          1,
+          6
+        ],
+        [
+          "aiiin",
+          "coconidii",
+          5,
+          9
+        ],
+        [
+          "sham",
+          "papaveris",
+          4,
+          9
+        ],
+        [
+          "dairal",
+          "succi",
+          6,
+          5
+        ],
+        [
+          "ykeedy",
+          "mandragore",
+          6,
+          10
+        ]
+      ],
+      "v_groups": [
+        14,
+        2,
+        2,
+        1,
+        2,
+        6
+      ],
+      "a_groups": [
+        4,
+        8,
+        4,
+        10
+      ]
+    },
+    {
+      "vms_id": "f114r_B11",
+      "an_id": "AN_091",
+      "an_name": "Recipe fol",
+      "lcs_score": 0.829,
+      "dose_corr": 0.859,
+      "group_match": 0.0,
+      "len_corr": 0.338,
+      "deep_score": 0.597,
+      "n_word_pairs": 26,
+      "word_pairs": [
+        [
+          "lked",
+          "2i",
+          4,
+          2
+        ],
+        [
+          "o",
+          "mirabolanorum",
+          1,
+          13
+        ],
+        [
+          "kchdar",
+          "emblicorum",
+          6,
+          10
+        ],
+        [
+          "otal",
+          "agarici",
+          4,
+          7
+        ],
+        [
+          "kar",
+          "dyagridii",
+          3,
+          9
+        ],
+        [
+          "ychedar",
+          "coloquintide",
+          7,
+          12
+        ],
+        [
+          "otar",
+          "sene",
+          4,
+          4
+        ],
+        [
+          "ain",
+          "anisi",
+          3,
+          5
+        ],
+        [
+          "qokal",
+          "turbit",
+          5,
+          6
+        ],
+        [
+          "otchedy",
+          "anisi",
+          7,
+          5
+        ],
+        [
+          "qokar",
+          "maratri",
+          5,
+          7
+        ],
+        [
+          "odar",
+          "spleneticis",
+          4,
+          11
+        ],
+        [
+          "or",
+          "poivre",
+          2,
+          6
+        ],
+        [
+          "aiin",
+          "nardi",
+          4,
+          5
+        ],
+        [
+          "otshedy",
+          "macis",
+          7,
+          5
+        ]
+      ],
+      "v_groups": [
+        12,
+        1,
+        6,
+        3,
+        2,
+        3,
+        5
+      ],
+      "a_groups": [
+        8,
+        4,
+        3,
+        2,
+        1,
+        1,
+        2,
+        3,
+        2,
+        1
+      ]
+    },
+    {
+      "vms_id": "f105r_B05",
+      "an_id": "AN_114",
+      "an_name": "Recipe apii petrosilini feniculi",
+      "lcs_score": 0.828,
+      "dose_corr": 0.826,
+      "group_match": 0.0,
+      "len_corr": 0.396,
+      "deep_score": 0.597,
+      "n_word_pairs": 50,
+      "word_pairs": [
+        [
+          "lteedy",
+          "petrosilini",
+          6,
+          11
+        ],
+        [
+          "sheokedy",
+          "feniculi",
+          8,
+          8
+        ],
+        [
+          "qokedy",
+          "anisi",
+          6,
+          5
+        ],
+        [
+          "shol",
+          "poiitrici",
+          4,
+          9
+        ],
+        [
+          "kol",
+          "caparis",
+          3,
+          7
+        ],
+        [
+          "aiirol",
+          "tamarisci",
+          6,
+          9
+        ],
+        [
+          "qokchedy",
+          "siselei",
+          8,
+          7
+        ],
+        [
+          "okedy",
+          "solis",
+          5,
+          5
+        ],
+        [
+          "sheoy",
+          "seminis",
+          5,
+          7
+        ],
+        [
+          "oleedy",
+          "melonis",
+          6,
+          7
+        ],
+        [
+          "al",
+          "citroli",
+          2,
+          7
+        ],
+        [
+          "chedy",
+          "cucumeris",
+          5,
+          9
+        ],
+        [
+          "okeeey",
+          "cretani",
+          6,
+          7
+        ],
+        [
+          "otedy",
+          "saxifragie",
+          5,
+          10
+        ],
+        [
+          "cheoty",
+          "seminis",
+          6,
+          7
+        ]
+      ],
+      "v_groups": [
+        7,
+        3,
+        3,
+        7,
+        1,
+        1,
+        7,
+        11,
+        3,
+        1,
+        4,
+        4
+      ],
+      "a_groups": [
+        4,
+        4,
+        23,
+        2,
+        19
+      ]
+    },
+    {
+      "vms_id": "f108r_B12",
+      "an_id": "AN_083",
+      "an_name": "Recipe spice optime",
+      "lcs_score": 0.833,
+      "dose_corr": 0.741,
+      "group_match": 0.0,
+      "len_corr": 0.5,
+      "deep_score": 0.594,
+      "n_word_pairs": 48,
+      "word_pairs": [
+        [
+          "l",
+          "spice",
+          1,
+          5
+        ],
+        [
+          "qokar",
+          "optime",
+          5,
+          6
+        ],
+        [
+          "otedy",
+          "piperis",
+          5,
+          7
+        ],
+        [
+          "otarar",
+          "longi",
+          6,
+          5
+        ],
+        [
+          "yty",
+          "zinziberis",
+          3,
+          10
+        ],
+        [
+          "sho",
+          "zedoarie",
+          3,
+          8
+        ],
+        [
+          "qotedy",
+          "gariofilorum",
+          6,
+          12
+        ],
+        [
+          "oteedy",
+          "rosarum",
+          6,
+          7
+        ],
+        [
+          "okedy",
+          "violarum",
+          5,
+          8
+        ],
+        [
+          "okor",
+          "anacardi",
+          4,
+          8
+        ],
+        [
+          "aiin",
+          "acori",
+          4,
+          5
+        ],
+        [
+          "okeedy",
+          "coralli",
+          6,
+          7
+        ],
+        [
+          "qokeedy",
+          "costi",
+          7,
+          5
+        ],
+        [
+          "okeeom",
+          "levistici",
+          6,
+          9
+        ],
+        [
+          "chol",
+          "nucis",
+          4,
+          5
+        ]
+      ],
+      "v_groups": [
+        1,
+        18,
+        3,
+        10,
+        16
+      ],
+      "a_groups": [
+        26,
+        2,
+        18,
+        4,
+        2
+      ]
+    },
+    {
+      "vms_id": "f108v_B04",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "lcs_score": 0.853,
+      "dose_corr": 0.703,
+      "group_match": 0.0,
+      "len_corr": 0.504,
+      "deep_score": 0.593,
+      "n_word_pairs": 25,
+      "word_pairs": [
+        [
+          "sheckhy",
+          "thebaici",
+          7,
+          8
+        ],
+        [
+          "akey",
+          "g-i",
+          4,
+          3
+        ],
+        [
+          "sheey",
+          "iusquiami",
+          5,
+          9
+        ],
+        [
+          "teeody",
+          "succi",
+          6,
+          5
+        ],
+        [
+          "qokedy",
+          "more",
+          6,
+          4
+        ],
+        [
+          "qokeedy",
+          "rubi",
+          7,
+          4
+        ],
+        [
+          "shok",
+          "seminis",
+          4,
+          7
+        ],
+        [
+          "ar",
+          "lactuce",
+          2,
+          7
+        ],
+        [
+          "aiin",
+          "succi",
+          4,
+          5
+        ],
+        [
+          "okeey",
+          "cicute",
+          5,
+          6
+        ],
+        [
+          "tedam",
+          "coconidii",
+          5,
+          9
+        ],
+        [
+          "cheol",
+          "papaveris",
+          5,
+          9
+        ],
+        [
+          "qokeey",
+          "succi",
+          6,
+          5
+        ],
+        [
+          "qokeedy",
+          "mandragore",
+          7,
+          10
+        ],
+        [
+          "qokeey",
+          "succi",
+          6,
+          5
+        ]
+      ],
+      "v_groups": [
+        11,
+        4,
+        3,
+        8,
+        1
+      ],
+      "a_groups": [
+        4,
+        8,
+        4,
+        10
+      ]
+    },
+    {
+      "vms_id": "f111v_B05",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "lcs_score": 0.833,
+      "dose_corr": 0.759,
+      "group_match": 0.0,
+      "len_corr": 0.45,
+      "deep_score": 0.591,
+      "n_word_pairs": 20,
+      "word_pairs": [
+        [
+          "okar",
+          "sandali",
+          4,
+          7
+        ],
+        [
+          "teody",
+          "rosarum",
+          5,
+          7
+        ],
+        [
+          "talol",
+          "reubarbari",
+          5,
+          10
+        ],
+        [
+          "tarol",
+          "spodii",
+          5,
+          6
+        ],
+        [
+          "opchedy",
+          "draganti",
+          7,
+          8
+        ],
+        [
+          "qotar",
+          "gummi",
+          5,
+          5
+        ],
+        [
+          "otar",
+          "arabici",
+          4,
+          7
+        ],
+        [
+          "chtal",
+          "violarum",
+          5,
+          8
+        ],
+        [
+          "chcthy",
+          "berberis",
+          6,
+          8
+        ],
+        [
+          "shedy",
+          "seminis",
+          5,
+          7
+        ],
+        [
+          "chkeey",
+          "portulace",
+          6,
+          9
+        ],
+        [
+          "y",
+          "scariole",
+          1,
+          8
+        ],
+        [
+          "chey",
+          "aqua",
+          4,
+          4
+        ],
+        [
+          "qokar",
+          "ducis",
+          5,
+          5
+        ],
+        [
+          "ar",
+          "ducis",
+          2,
+          5
+        ]
+      ],
+      "v_groups": [
+        2,
+        6,
+        1,
+        3,
+        1,
+        8
+      ],
+      "a_groups": [
+        9,
+        3,
+        7,
+        1
+      ]
+    },
+    {
+      "vms_id": "f105r_B05",
+      "an_id": "AN_048",
+      "an_name": "Recipe sandalorum alborum et",
+      "lcs_score": 0.828,
+      "dose_corr": 0.756,
+      "group_match": 0.0,
+      "len_corr": 0.447,
+      "deep_score": 0.587,
+      "n_word_pairs": 47,
+      "word_pairs": [
+        [
+          "lteedy",
+          "sandalorum",
+          6,
+          10
+        ],
+        [
+          "sheokedy",
+          "alborum",
+          8,
+          7
+        ],
+        [
+          "qokedy",
+          "rubeorum",
+          6,
+          8
+        ],
+        [
+          "shol",
+          "spodii",
+          4,
+          6
+        ],
+        [
+          "kol",
+          "dragaganti",
+          3,
+          10
+        ],
+        [
+          "aiirol",
+          "gummi",
+          6,
+          5
+        ],
+        [
+          "qokchedy",
+          "arabici",
+          8,
+          7
+        ],
+        [
+          "okedy",
+          "amili",
+          5,
+          5
+        ],
+        [
+          "sheoy",
+          "eboris",
+          5,
+          6
+        ],
+        [
+          "oleedy",
+          "reubarbari",
+          6,
+          10
+        ],
+        [
+          "al",
+          "sene",
+          2,
+          4
+        ],
+        [
+          "chedy",
+          "rosarum",
+          5,
+          7
+        ],
+        [
+          "okeeey",
+          "violarum",
+          6,
+          8
+        ],
+        [
+          "otedy",
+          "seminis",
+          5,
+          7
+        ],
+        [
+          "cheoty",
+          "fumiterre",
+          6,
+          9
+        ]
+      ],
+      "v_groups": [
+        7,
+        3,
+        3,
+        7,
+        1,
+        1,
+        7,
+        11,
+        3,
+        1,
+        4,
+        4
+      ],
+      "a_groups": [
+        20,
+        1,
+        1,
+        3,
+        10,
+        4,
+        8
+      ]
+    },
+    {
+      "vms_id": "f104r_B12",
+      "an_id": "AN_089",
+      "an_name": "Recipe hermodactili turbiti agarici",
+      "lcs_score": 0.828,
+      "dose_corr": 0.768,
+      "group_match": 0.0,
+      "len_corr": 0.39,
+      "deep_score": 0.582,
+      "n_word_pairs": 20,
+      "word_pairs": [
+        [
+          "aiin",
+          "hermodactili",
+          4,
+          12
+        ],
+        [
+          "qotal",
+          "turbiti",
+          5,
+          7
+        ],
+        [
+          "chol",
+          "agarici",
+          4,
+          7
+        ],
+        [
+          "qoar",
+          "casie",
+          4,
+          5
+        ],
+        [
+          "aiin",
+          "gariofilorum",
+          4,
+          12
+        ],
+        [
+          "qopcheedy",
+          "xilobalsami",
+          9,
+          11
+        ],
+        [
+          "qotair",
+          "carpobalsami",
+          6,
+          12
+        ],
+        [
+          "oair",
+          "zinziberis",
+          4,
+          10
+        ],
+        [
+          "oiinol",
+          "masticis",
+          6,
+          8
+        ],
+        [
+          "al",
+          "feniculi",
+          2,
+          8
+        ],
+        [
+          "ly",
+          "anisi",
+          2,
+          5
+        ],
+        [
+          "oeear",
+          "semen",
+          5,
+          5
+        ],
+        [
+          "chcthy",
+          "sparagi",
+          6,
+          7
+        ],
+        [
+          "olched",
+          "bruxi",
+          6,
+          5
+        ],
+        [
+          "qoty",
+          "solis",
+          4,
+          5
+        ]
+      ],
+      "v_groups": [
+        8,
+        7,
+        4,
+        1,
+        4
+      ],
+      "a_groups": [
+        3,
+        11,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "vms_id": "f106v_B11",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "lcs_score": 0.833,
+      "dose_corr": 0.761,
+      "group_match": 0.0,
+      "len_corr": 0.383,
+      "deep_score": 0.581,
+      "n_word_pairs": 12,
+      "word_pairs": [
+        [
+          "shdair",
+          "aloes",
+          6,
+          5
+        ],
+        [
+          "sheky",
+          "belliricorum",
+          5,
+          12
+        ],
+        [
+          "keedy",
+          "emblicorum",
+          5,
+          10
+        ],
+        [
+          "qoeedy",
+          "masticis",
+          6,
+          8
+        ],
+        [
+          "qofchedy",
+          "diagridii",
+          8,
+          9
+        ],
+        [
+          "al",
+          "asari",
+          2,
+          5
+        ],
+        [
+          "ody",
+          "succo",
+          3,
+          5
+        ],
+        [
+          "qotar",
+          "feniculi",
+          5,
+          8
+        ],
+        [
+          "chey",
+          "absintii",
+          4,
+          8
+        ],
+        [
+          "ol",
+          "croci",
+          2,
+          5
+        ],
+        [
+          "aiin",
+          "castorei",
+          4,
+          8
+        ],
+        [
+          "chey",
+          "-ö-iii",
+          4,
+          6
+        ]
+      ],
+      "v_groups": [
+        6,
+        1,
+        6
+      ],
+      "a_groups": [
+        1,
+        5,
+        4,
+        2
+      ]
+    },
+    {
+      "vms_id": "f103v_B05",
+      "an_id": "AN_089",
+      "an_name": "Recipe hermodactili turbiti agarici",
+      "lcs_score": 0.828,
+      "dose_corr": 0.79,
+      "group_match": 0.0,
+      "len_corr": 0.31,
+      "deep_score": 0.575,
+      "n_word_pairs": 20,
+      "word_pairs": [
+        [
+          "sheol",
+          "hermodactili",
+          5,
+          12
+        ],
+        [
+          "sho",
+          "turbiti",
+          3,
+          7
+        ],
+        [
+          "qokeedy",
+          "agarici",
+          7,
+          7
+        ],
+        [
+          "shedy",
+          "casie",
+          5,
+          5
+        ],
+        [
+          "qokey",
+          "gariofilorum",
+          5,
+          12
+        ],
+        [
+          "oshedy",
+          "xilobalsami",
+          6,
+          11
+        ],
+        [
+          "oteedy",
+          "carpobalsami",
+          6,
+          12
+        ],
+        [
+          "otar",
+          "zinziberis",
+          4,
+          10
+        ],
+        [
+          "aiin",
+          "masticis",
+          4,
+          8
+        ],
+        [
+          "otam",
+          "feniculi",
+          4,
+          8
+        ],
+        [
+          "shey",
+          "anisi",
+          4,
+          5
+        ],
+        [
+          "ch",
+          "semen",
+          2,
+          5
+        ],
+        [
+          "ar",
+          "sparagi",
+          2,
+          7
+        ],
+        [
+          "olchey",
+          "bruxi",
+          6,
+          5
+        ],
+        [
+          "lcheody",
+          "solis",
+          7,
+          5
+        ]
+      ],
+      "v_groups": [
+        7,
+        9,
+        3,
+        2
+      ],
+      "a_groups": [
+        3,
+        11,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "vms_id": "f105v_B03",
+      "an_id": "AN_083",
+      "an_name": "Recipe spice optime",
+      "lcs_score": 0.885,
+      "dose_corr": 0.653,
+      "group_match": 0.0,
+      "len_corr": 0.365,
+      "deep_score": 0.572,
+      "n_word_pairs": 52,
+      "word_pairs": [
+        [
+          "kedar",
+          "spice",
+          5,
+          5
+        ],
+        [
+          "opchedy",
+          "optime",
+          7,
+          6
+        ],
+        [
+          "air",
+          "piperis",
+          3,
+          7
+        ],
+        [
+          "odar",
+          "longi",
+          4,
+          5
+        ],
+        [
+          "qoeees",
+          "zinziberis",
+          6,
+          10
+        ],
+        [
+          "y",
+          "zedoarie",
+          1,
+          8
+        ],
+        [
+          "otchedy",
+          "gariofilorum",
+          7,
+          12
+        ],
+        [
+          "ockhedy",
+          "rosarum",
+          7,
+          7
+        ],
+        [
+          "otchey",
+          "violarum",
+          6,
+          8
+        ],
+        [
+          "or",
+          "anacardi",
+          2,
+          8
+        ],
+        [
+          "r",
+          "acori",
+          1,
+          5
+        ],
+        [
+          "ail",
+          "coralli",
+          3,
+          7
+        ],
+        [
+          "l",
+          "costi",
+          1,
+          5
+        ],
+        [
+          "okam",
+          "levistici",
+          4,
+          9
+        ],
+        [
+          "ykeey",
+          "nucis",
+          5,
+          5
+        ]
+      ],
+      "v_groups": [
+        1,
+        5,
+        3,
+        10,
+        11,
+        13,
+        3,
+        6
+      ],
+      "a_groups": [
+        26,
+        2,
+        18,
+        4,
+        2
+      ]
+    },
+    {
+      "vms_id": "f113r_B16",
+      "an_id": "AN_083",
+      "an_name": "Recipe spice optime",
+      "lcs_score": 0.831,
+      "dose_corr": 0.485,
+      "group_match": 0.2,
+      "len_corr": 0.49,
+      "deep_score": 0.567,
+      "n_word_pairs": 49,
+      "word_pairs": [
+        [
+          "or",
+          "spice",
+          2,
+          5
+        ],
+        [
+          "chey",
+          "optime",
+          4,
+          6
+        ],
+        [
+          "opchey",
+          "piperis",
+          6,
+          7
+        ],
+        [
+          "shedy",
+          "longi",
+          5,
+          5
+        ],
+        [
+          "qotor",
+          "zinziberis",
+          5,
+          10
+        ],
+        [
+          "sheol",
+          "zedoarie",
+          5,
+          8
+        ],
+        [
+          "qotody",
+          "gariofilorum",
+          6,
+          12
+        ],
+        [
+          "tedy",
+          "rosarum",
+          4,
+          7
+        ],
+        [
+          "chkal",
+          "violarum",
+          5,
+          8
+        ],
+        [
+          "kar",
+          "anacardi",
+          3,
+          8
+        ],
+        [
+          "cheeody",
+          "acori",
+          7,
+          5
+        ],
+        [
+          "qokeeody",
+          "coralli",
+          8,
+          7
+        ],
+        [
+          "qokeey",
+          "costi",
+          6,
+          5
+        ],
+        [
+          "chos",
+          "levistici",
+          4,
+          9
+        ],
+        [
+          "y",
+          "nucis",
+          1,
+          5
+        ]
+      ],
+      "v_groups": [
+        2,
+        6,
+        9,
+        3,
+        2,
+        4,
+        1,
+        10,
+        4,
+        1,
+        2,
+        2,
+        2,
+        1
+      ],
+      "a_groups": [
+        26,
+        2,
+        18,
+        4,
+        2
+      ]
+    },
+    {
+      "vms_id": "f115r_B08",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "lcs_score": 0.852,
+      "dose_corr": 0.596,
+      "group_match": 0.0,
+      "len_corr": 0.5,
+      "deep_score": 0.565,
+      "n_word_pairs": 20,
+      "word_pairs": [
+        [
+          "aiiin",
+          "sandali",
+          5,
+          7
+        ],
+        [
+          "chotchdy",
+          "rosarum",
+          8,
+          7
+        ],
+        [
+          "qodair",
+          "reubarbari",
+          6,
+          10
+        ],
+        [
+          "sheol",
+          "spodii",
+          5,
+          6
+        ],
+        [
+          "dal",
+          "draganti",
+          3,
+          8
+        ],
+        [
+          "dalom",
+          "gummi",
+          5,
+          5
+        ],
+        [
+          "ysheeo",
+          "arabici",
+          6,
+          7
+        ],
+        [
+          "los",
+          "violarum",
+          3,
+          8
+        ],
+        [
+          "ar",
+          "berberis",
+          2,
+          8
+        ],
+        [
+          "chey",
+          "seminis",
+          4,
+          7
+        ],
+        [
+          "qoky",
+          "portulace",
+          4,
+          9
+        ],
+        [
+          "chol",
+          "scariole",
+          4,
+          8
+        ],
+        [
+          "shey",
+          "aqua",
+          4,
+          4
+        ],
+        [
+          "qoetar",
+          "ducis",
+          6,
+          5
+        ],
+        [
+          "chol",
+          "ducis",
+          4,
+          5
+        ]
+      ],
+      "v_groups": [
+        16,
+        7,
+        1
+      ],
+      "a_groups": [
+        9,
+        3,
+        7,
+        1
+      ]
+    },
+    {
+      "vms_id": "f104v_B05",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "lcs_score": 0.829,
+      "dose_corr": 0.565,
+      "group_match": 0.0,
+      "len_corr": 0.585,
+      "deep_score": 0.561,
+      "n_word_pairs": 26,
+      "word_pairs": [
+        [
+          "qokeochy",
+          "opii",
+          8,
+          4
+        ],
+        [
+          "qokchy",
+          "thebaici",
+          6,
+          8
+        ],
+        [
+          "qotcheo",
+          "g-i",
+          7,
+          3
+        ],
+        [
+          "qotcheo",
+          "iusquiami",
+          7,
+          9
+        ],
+        [
+          "chedy",
+          "succi",
+          5,
+          5
+        ],
+        [
+          "tchdy",
+          "more",
+          5,
+          4
+        ],
+        [
+          "qotchdy",
+          "rubi",
+          7,
+          4
+        ],
+        [
+          "qockheey",
+          "seminis",
+          8,
+          7
+        ],
+        [
+          "chdor",
+          "lactuce",
+          5,
+          7
+        ],
+        [
+          "as",
+          "succi",
+          2,
+          5
+        ],
+        [
+          "aiin",
+          "cicute",
+          4,
+          6
+        ],
+        [
+          "chcthhy",
+          "coconidii",
+          7,
+          9
+        ],
+        [
+          "dchdar",
+          "papaveris",
+          6,
+          9
+        ],
+        [
+          "chdy",
+          "succi",
+          4,
+          5
+        ],
+        [
+          "qokchedy",
+          "mandragore",
+          8,
+          10
+        ]
+      ],
+      "v_groups": [
+        17,
+        10,
+        1,
+        1
+      ],
+      "a_groups": [
+        4,
+        8,
+        4,
+        10
+      ]
+    },
+    {
+      "vms_id": "f103v_B07",
+      "an_id": "AN_083",
+      "an_name": "Recipe spice optime",
+      "lcs_score": 0.844,
+      "dose_corr": 0.516,
+      "group_match": 0.0,
+      "len_corr": 0.477,
+      "deep_score": 0.538,
+      "n_word_pairs": 52,
+      "word_pairs": [
+        [
+          "char",
+          "spice",
+          4,
+          5
+        ],
+        [
+          "otar",
+          "optime",
+          4,
+          6
+        ],
+        [
+          "oteal",
+          "piperis",
+          5,
+          7
+        ],
+        [
+          "qotal",
+          "longi",
+          5,
+          5
+        ],
+        [
+          "shedy",
+          "zinziberis",
+          5,
+          10
+        ],
+        [
+          "qokeey",
+          "zedoarie",
+          6,
+          8
+        ],
+        [
+          "shal",
+          "gariofilorum",
+          4,
+          12
+        ],
+        [
+          "qokeed",
+          "rosarum",
+          6,
+          7
+        ],
+        [
+          "oteedy",
+          "violarum",
+          6,
+          8
+        ],
+        [
+          "sheoky",
+          "anacardi",
+          6,
+          8
+        ],
+        [
+          "tar",
+          "acori",
+          3,
+          5
+        ],
+        [
+          "teor",
+          "coralli",
+          4,
+          7
+        ],
+        [
+          "otam",
+          "costi",
+          4,
+          5
+        ],
+        [
+          "oll",
+          "levistici",
+          3,
+          9
+        ],
+        [
+          "olshey",
+          "nucis",
+          6,
+          5
+        ]
+      ],
+      "v_groups": [
+        2,
+        1,
+        3,
+        12,
+        19,
+        2,
+        3,
+        10
+      ],
+      "a_groups": [
+        26,
+        2,
+        18,
+        4,
+        2
+      ]
+    }
+  ],
+  "convergent_mappings": [
+    {
+      "eva": "cheey",
+      "latin": "feniculi",
+      "count": 2,
+      "total": 4
+    },
+    {
+      "eva": "okeey",
+      "latin": "ducis",
+      "count": 2,
+      "total": 5
+    },
+    {
+      "eva": "aiin",
+      "latin": "aqua",
+      "count": 2,
+      "total": 13
+    },
+    {
+      "eva": "shedy",
+      "latin": "agarici",
+      "count": 2,
+      "total": 8
+    },
+    {
+      "eva": "qokeey",
+      "latin": "succi",
+      "count": 2,
+      "total": 9
+    }
+  ]
+}

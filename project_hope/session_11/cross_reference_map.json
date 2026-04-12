@@ -1,0 +1,5832 @@
+{
+  "pharma_to_herbal": {
+    "f103r_B01": {
+      "folio": "f103r",
+      "n_words": 50,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f33v": 4,
+        "f50v": 1,
+        "f24r": 2,
+        "f10v": 1,
+        "f22r": 1
+      }
+    },
+    "f103r_B02": {
+      "folio": "f103r",
+      "n_words": 35,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 1,
+        "f22r": 1
+      }
+    },
+    "f103r_B03": {
+      "folio": "f103r",
+      "n_words": 62,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 3,
+        "f10v": 4,
+        "f22r": 2,
+        "f24r": 1
+      }
+    },
+    "f103r_B04": {
+      "folio": "f103r",
+      "n_words": 30,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 2,
+        "f10v": 1
+      }
+    },
+    "f103r_B05": {
+      "folio": "f103r",
+      "n_words": 21,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f11r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f11r": 1,
+        "f101r": 1,
+        "f33v": 1,
+        "f24r": 1,
+        "f10v": 1
+      }
+    },
+    "f103r_B06": {
+      "folio": "f103r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 1,
+        "f33v": 1,
+        "f22r": 1
+      }
+    },
+    "f103r_B07": {
+      "folio": "f103r",
+      "n_words": 29,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f24r": 1,
+        "f33v": 2,
+        "f50v": 1,
+        "f10v": 1,
+        "f22r": 1
+      }
+    },
+    "f103r_B08": {
+      "folio": "f103r",
+      "n_words": 31,
+      "herbal_refs": [
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 1,
+        "f22r": 1
+      }
+    },
+    "f103r_B09": {
+      "folio": "f103r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 1,
+        "f22r": 1
+      }
+    },
+    "f103r_B10": {
+      "folio": "f103r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 4,
+        "f22r": 1,
+        "f24r": 1
+      }
+    },
+    "f103r_B11": {
+      "folio": "f103r",
+      "n_words": 14,
+      "herbal_refs": [
+        "f22r"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f22r": 1
+      }
+    },
+    "f103r_B12": {
+      "folio": "f103r",
+      "n_words": 18,
+      "herbal_refs": [
+        "f22r"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f22r": 1
+      }
+    },
+    "f103r_B13": {
+      "folio": "f103r",
+      "n_words": 24,
+      "herbal_refs": [],
+      "n_refs": 0,
+      "ref_counts": {}
+    },
+    "f103r_B14": {
+      "folio": "f103r",
+      "n_words": 27,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f44v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 1,
+        "f44v": 1,
+        "f101r": 1
+      }
+    },
+    "f103r_B15": {
+      "folio": "f103r",
+      "n_words": 16,
+      "herbal_refs": [
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 1,
+        "f22r": 1
+      }
+    },
+    "f103r_B16": {
+      "folio": "f103r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f19r",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 3,
+        "f19r": 1
+      }
+    },
+    "f103r_B17": {
+      "folio": "f103r",
+      "n_words": 37,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f50v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f50v": 1,
+        "f22r": 1,
+        "f10v": 1
+      }
+    },
+    "f103r_B18": {
+      "folio": "f103r",
+      "n_words": 25,
+      "herbal_refs": [],
+      "n_refs": 0,
+      "ref_counts": {}
+    },
+    "f103v_B01": {
+      "folio": "f103v",
+      "n_words": 43,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f22r": 2,
+        "f33v": 3,
+        "f10v": 2,
+        "f24r": 1
+      }
+    },
+    "f103v_B02": {
+      "folio": "f103v",
+      "n_words": 39,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f90v1"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f90v1": 1,
+        "f10v": 2,
+        "f22r": 2
+      }
+    },
+    "f103v_B03": {
+      "folio": "f103v",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 2,
+        "f22r": 1,
+        "f24r": 2
+      }
+    },
+    "f103v_B04": {
+      "folio": "f103v",
+      "n_words": 24,
+      "herbal_refs": [
+        "f19r",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 3,
+        "f19r": 1
+      }
+    },
+    "f103v_B05": {
+      "folio": "f103v",
+      "n_words": 32,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f44v": 1,
+        "f33v": 2,
+        "f10v": 2,
+        "f22r": 1
+      }
+    },
+    "f103v_B06": {
+      "folio": "f103v",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 3,
+        "f33v": 1,
+        "f10v": 1
+      }
+    },
+    "f103v_B07": {
+      "folio": "f103v",
+      "n_words": 70,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f26r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f22r": 1,
+        "f33v": 8,
+        "f10v": 2,
+        "f26r": 1,
+        "f24r": 2
+      }
+    },
+    "f103v_B08": {
+      "folio": "f103v",
+      "n_words": 29,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 2,
+        "f10v": 2,
+        "f24r": 1,
+        "f44v": 1
+      }
+    },
+    "f103v_B09": {
+      "folio": "f103v",
+      "n_words": 29,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 1,
+        "f33v": 1
+      }
+    },
+    "f103v_B10": {
+      "folio": "f103v",
+      "n_words": 36,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 3,
+        "f22r": 1
+      }
+    },
+    "f103v_B11": {
+      "folio": "f103v",
+      "n_words": 17,
+      "herbal_refs": [
+        "f22r"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f22r": 3
+      }
+    },
+    "f103v_B12": {
+      "folio": "f103v",
+      "n_words": 39,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f36v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f36v": 1,
+        "f22r": 2,
+        "f10v": 2,
+        "f33v": 3
+      }
+    },
+    "f103v_B13": {
+      "folio": "f103v",
+      "n_words": 40,
+      "herbal_refs": [
+        "f22r",
+        "f24r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f24r": 2,
+        "f50v": 1,
+        "f33v": 3,
+        "f22r": 2
+      }
+    },
+    "f104r_B01": {
+      "folio": "f104r",
+      "n_words": 45,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 3,
+        "f10v": 3
+      }
+    },
+    "f104r_B02": {
+      "folio": "f104r",
+      "n_words": 52,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f3r"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f22r": 2,
+        "f10v": 1,
+        "f3r": 1,
+        "f33v": 4
+      }
+    },
+    "f104r_B03": {
+      "folio": "f104r",
+      "n_words": 20,
+      "herbal_refs": [
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 1,
+        "f33v": 1
+      }
+    },
+    "f104r_B04": {
+      "folio": "f104r",
+      "n_words": 39,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 6,
+      "ref_counts": {
+        "f33v": 3,
+        "f14r": 3,
+        "f10v": 3,
+        "f101r": 1,
+        "f22r": 1,
+        "f24r": 1
+      }
+    },
+    "f104r_B05": {
+      "folio": "f104r",
+      "n_words": 26,
+      "herbal_refs": [
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f44v": 1,
+        "f33v": 1,
+        "f24r": 1
+      }
+    },
+    "f104r_B06": {
+      "folio": "f104r",
+      "n_words": 29,
+      "herbal_refs": [
+        "f22r",
+        "f24r",
+        "f33v",
+        "f36v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 3,
+        "f24r": 1,
+        "f22r": 1,
+        "f36v": 1
+      }
+    },
+    "f104r_B07": {
+      "folio": "f104r",
+      "n_words": 50,
+      "herbal_refs": [
+        "f10v",
+        "f19r",
+        "f22r",
+        "f33v",
+        "f36v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f36v": 1,
+        "f10v": 2,
+        "f22r": 4,
+        "f19r": 1,
+        "f33v": 6
+      }
+    },
+    "f104r_B08": {
+      "folio": "f104r",
+      "n_words": 34,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f10v": 2,
+        "f33v": 3,
+        "f24r": 5,
+        "f44v": 1
+      }
+    },
+    "f104r_B09": {
+      "folio": "f104r",
+      "n_words": 42,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 2,
+        "f33v": 1
+      }
+    },
+    "f104r_B10": {
+      "folio": "f104r",
+      "n_words": 19,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 2,
+        "f101r": 1,
+        "f22r": 1
+      }
+    },
+    "f104r_B11": {
+      "folio": "f104r",
+      "n_words": 25,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 4,
+        "f33v": 3,
+        "f24r": 1
+      }
+    },
+    "f104r_B12": {
+      "folio": "f104r",
+      "n_words": 35,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 3,
+        "f10v": 2,
+        "f22r": 1
+      }
+    },
+    "f104r_B13": {
+      "folio": "f104r",
+      "n_words": 32,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 2,
+        "f10v": 5
+      }
+    },
+    "f104v_B01": {
+      "folio": "f104v",
+      "n_words": 51,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f24r": 2,
+        "f22r": 4,
+        "f10v": 1,
+        "f33v": 1,
+        "f101r": 1
+      }
+    },
+    "f104v_B02": {
+      "folio": "f104v",
+      "n_words": 26,
+      "herbal_refs": [
+        "f14r",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 2,
+        "f14r": 1
+      }
+    },
+    "f104v_B03": {
+      "folio": "f104v",
+      "n_words": 44,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 3,
+        "f22r": 2
+      }
+    },
+    "f104v_B04": {
+      "folio": "f104v",
+      "n_words": 31,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 1,
+        "f10v": 2
+      }
+    },
+    "f104v_B05": {
+      "folio": "f104v",
+      "n_words": 42,
+      "herbal_refs": [
+        "f10r",
+        "f10v",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10r": 1,
+        "f10v": 1,
+        "f24r": 1
+      }
+    },
+    "f104v_B06": {
+      "folio": "f104v",
+      "n_words": 31,
+      "herbal_refs": [
+        "f10v",
+        "f19r",
+        "f22r",
+        "f24r",
+        "f44v",
+        "f90v1"
+      ],
+      "n_refs": 6,
+      "ref_counts": {
+        "f90v1": 1,
+        "f22r": 1,
+        "f44v": 1,
+        "f19r": 2,
+        "f10v": 1,
+        "f24r": 2
+      }
+    },
+    "f104v_B07": {
+      "folio": "f104v",
+      "n_words": 51,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f39v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f10v": 3,
+        "f39v": 1,
+        "f33v": 2,
+        "f24r": 1,
+        "f22r": 1
+      }
+    },
+    "f104v_B08": {
+      "folio": "f104v",
+      "n_words": 22,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f19r",
+        "f24r",
+        "f44v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f19r": 1,
+        "f24r": 1,
+        "f44v": 1,
+        "f10v": 3,
+        "f14r": 1
+      }
+    },
+    "f104v_B09": {
+      "folio": "f104v",
+      "n_words": 35,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f90v1"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f22r": 2,
+        "f10v": 3,
+        "f24r": 1,
+        "f33v": 2,
+        "f90v1": 1
+      }
+    },
+    "f104v_B10": {
+      "folio": "f104v",
+      "n_words": 37,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f24r": 2,
+        "f33v": 3,
+        "f10v": 2,
+        "f22r": 1
+      }
+    },
+    "f104v_B11": {
+      "folio": "f104v",
+      "n_words": 16,
+      "herbal_refs": [
+        "f33v",
+        "f3r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 1,
+        "f3r": 1
+      }
+    },
+    "f104v_B12": {
+      "folio": "f104v",
+      "n_words": 49,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f33v": 6,
+        "f22r": 1,
+        "f50v": 1,
+        "f24r": 2,
+        "f10v": 3
+      }
+    },
+    "f104v_B13": {
+      "folio": "f104v",
+      "n_words": 41,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 1,
+        "f24r": 1,
+        "f10v": 1
+      }
+    },
+    "f105r_B01": {
+      "folio": "f105r",
+      "n_words": 56,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 4,
+        "f33v": 3,
+        "f24r": 2
+      }
+    },
+    "f105r_B02": {
+      "folio": "f105r",
+      "n_words": 39,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 1,
+        "f10v": 3,
+        "f24r": 2,
+        "f22r": 1
+      }
+    },
+    "f105r_B03": {
+      "folio": "f105r",
+      "n_words": 34,
+      "herbal_refs": [
+        "f10v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f10v": 1
+      }
+    },
+    "f105r_B04": {
+      "folio": "f105r",
+      "n_words": 31,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f22r": 1,
+        "f10v": 3,
+        "f33v": 1,
+        "f24r": 1
+      }
+    },
+    "f105r_B05": {
+      "folio": "f105r",
+      "n_words": 75,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f44v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 4,
+        "f10v": 10,
+        "f44v": 1
+      }
+    },
+    "f105r_B06": {
+      "folio": "f105r",
+      "n_words": 19,
+      "herbal_refs": [
+        "f10v",
+        "f33v",
+        "f90v1"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f90v1": 1,
+        "f10v": 2,
+        "f33v": 1
+      }
+    },
+    "f105r_B07": {
+      "folio": "f105r",
+      "n_words": 19,
+      "herbal_refs": [
+        "f14r"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f14r": 1
+      }
+    },
+    "f105r_B08": {
+      "folio": "f105r",
+      "n_words": 33,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 1,
+        "f22r": 1,
+        "f33v": 1
+      }
+    },
+    "f105r_B09": {
+      "folio": "f105r",
+      "n_words": 46,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 7,
+        "f24r": 3,
+        "f10v": 1
+      }
+    },
+    "f105r_B10": {
+      "folio": "f105r",
+      "n_words": 27,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 3,
+        "f22r": 2,
+        "f24r": 1,
+        "f10v": 1
+      }
+    },
+    "f105v_B01": {
+      "folio": "f105v",
+      "n_words": 40,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f50v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f24r": 3,
+        "f10v": 1,
+        "f50v": 1,
+        "f22r": 4
+      }
+    },
+    "f105v_B02": {
+      "folio": "f105v",
+      "n_words": 30,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 3,
+        "f33v": 3,
+        "f22r": 1
+      }
+    },
+    "f105v_B03": {
+      "folio": "f105v",
+      "n_words": 73,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 5,
+        "f10v": 8,
+        "f24r": 2,
+        "f22r": 1
+      }
+    },
+    "f105v_B04": {
+      "folio": "f105v",
+      "n_words": 45,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 2,
+        "f10v": 7,
+        "f24r": 1
+      }
+    },
+    "f105v_B05": {
+      "folio": "f105v",
+      "n_words": 21,
+      "herbal_refs": [
+        "f10v",
+        "f19r",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f19r": 1,
+        "f10v": 3,
+        "f24r": 1
+      }
+    },
+    "f105v_B06": {
+      "folio": "f105v",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f24r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 4,
+        "f24r": 1
+      }
+    },
+    "f105v_B07": {
+      "folio": "f105v",
+      "n_words": 18,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 2,
+        "f33v": 1
+      }
+    },
+    "f105v_B08": {
+      "folio": "f105v",
+      "n_words": 40,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 4,
+        "f33v": 2,
+        "f24r": 1
+      }
+    },
+    "f105v_B09": {
+      "folio": "f105v",
+      "n_words": 32,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f24r": 1,
+        "f44v": 1,
+        "f10v": 8,
+        "f22r": 1,
+        "f33v": 1
+      }
+    },
+    "f105v_B10": {
+      "folio": "f105v",
+      "n_words": 72,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f6r"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f6r": 1,
+        "f33v": 3,
+        "f10v": 10,
+        "f24r": 2,
+        "f22r": 1
+      }
+    },
+    "f106r_B01": {
+      "folio": "f106r",
+      "n_words": 29,
+      "herbal_refs": [
+        "f14r",
+        "f24r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f14r": 1,
+        "f24r": 1
+      }
+    },
+    "f106r_B02": {
+      "folio": "f106r",
+      "n_words": 39,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f24r": 3,
+        "f10v": 2,
+        "f33v": 2
+      }
+    },
+    "f106r_B03": {
+      "folio": "f106r",
+      "n_words": 18,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f24r": 1,
+        "f22r": 2,
+        "f10v": 1
+      }
+    },
+    "f106r_B04": {
+      "folio": "f106r",
+      "n_words": 26,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 1,
+        "f10v": 3
+      }
+    },
+    "f106r_B05": {
+      "folio": "f106r",
+      "n_words": 19,
+      "herbal_refs": [
+        "f101r",
+        "f10v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f101r": 1,
+        "f10v": 3
+      }
+    },
+    "f106r_B06": {
+      "folio": "f106r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f19r",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f19r": 1,
+        "f22r": 2,
+        "f10v": 3,
+        "f33v": 2,
+        "f24r": 1
+      }
+    },
+    "f106r_B07": {
+      "folio": "f106r",
+      "n_words": 37,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 1,
+        "f10v": 1
+      }
+    },
+    "f106r_B08": {
+      "folio": "f106r",
+      "n_words": 20,
+      "herbal_refs": [
+        "f14r",
+        "f19r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f19r": 1,
+        "f33v": 3,
+        "f14r": 1
+      }
+    },
+    "f106r_B09": {
+      "folio": "f106r",
+      "n_words": 22,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f27r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f14r": 1,
+        "f10v": 1,
+        "f27r": 1
+      }
+    },
+    "f106r_B10": {
+      "folio": "f106r",
+      "n_words": 52,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 6,
+      "ref_counts": {
+        "f50v": 1,
+        "f10v": 3,
+        "f22r": 2,
+        "f14r": 2,
+        "f33v": 4,
+        "f24r": 2
+      }
+    },
+    "f106r_B11": {
+      "folio": "f106r",
+      "n_words": 19,
+      "herbal_refs": [
+        "f14r",
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f24r": 1,
+        "f44v": 1,
+        "f14r": 1,
+        "f33v": 1
+      }
+    },
+    "f106r_B12": {
+      "folio": "f106r",
+      "n_words": 14,
+      "herbal_refs": [
+        "f10v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f10v": 1
+      }
+    },
+    "f106r_B13": {
+      "folio": "f106r",
+      "n_words": 13,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 1,
+        "f10v": 2
+      }
+    },
+    "f106r_B14": {
+      "folio": "f106r",
+      "n_words": 39,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f36v",
+        "f50v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f50v": 1,
+        "f22r": 2,
+        "f10v": 5,
+        "f36v": 1,
+        "f33v": 1
+      }
+    },
+    "f106r_B15": {
+      "folio": "f106r",
+      "n_words": 57,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f22r": 2,
+        "f33v": 4,
+        "f10v": 5,
+        "f50v": 1
+      }
+    },
+    "f106v_B01": {
+      "folio": "f106v",
+      "n_words": 45,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f33v",
+        "f36v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 7,
+        "f10v": 3,
+        "f14r": 1,
+        "f36v": 1
+      }
+    },
+    "f106v_B02": {
+      "folio": "f106v",
+      "n_words": 40,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 6,
+      "ref_counts": {
+        "f44v": 2,
+        "f10v": 5,
+        "f14r": 1,
+        "f22r": 1,
+        "f33v": 1,
+        "f24r": 2
+      }
+    },
+    "f106v_B03": {
+      "folio": "f106v",
+      "n_words": 17,
+      "herbal_refs": [
+        "f10v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f10v": 1
+      }
+    },
+    "f106v_B04": {
+      "folio": "f106v",
+      "n_words": 39,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f50v": 1,
+        "f10v": 1,
+        "f14r": 1,
+        "f33v": 1
+      }
+    },
+    "f106v_B05": {
+      "folio": "f106v",
+      "n_words": 25,
+      "herbal_refs": [
+        "f10v",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 1,
+        "f10v": 1,
+        "f44v": 1
+      }
+    },
+    "f106v_B06": {
+      "folio": "f106v",
+      "n_words": 19,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 1,
+        "f10v": 2,
+        "f22r": 1
+      }
+    },
+    "f106v_B07": {
+      "folio": "f106v",
+      "n_words": 17,
+      "herbal_refs": [
+        "f24r"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f24r": 1
+      }
+    },
+    "f106v_B08": {
+      "folio": "f106v",
+      "n_words": 38,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f27r",
+        "f33v",
+        "f36v"
+      ],
+      "n_refs": 6,
+      "ref_counts": {
+        "f22r": 4,
+        "f33v": 4,
+        "f24r": 2,
+        "f10v": 1,
+        "f27r": 1,
+        "f36v": 1
+      }
+    },
+    "f106v_B09": {
+      "folio": "f106v",
+      "n_words": 17,
+      "herbal_refs": [
+        "f33v",
+        "f44v",
+        "f47v",
+        "f6r"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 2,
+        "f47v": 1,
+        "f44v": 1,
+        "f6r": 1
+      }
+    },
+    "f106v_B10": {
+      "folio": "f106v",
+      "n_words": 34,
+      "herbal_refs": [
+        "f10v",
+        "f3r",
+        "f44v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f3r": 1,
+        "f10v": 4,
+        "f44v": 1
+      }
+    },
+    "f106v_B11": {
+      "folio": "f106v",
+      "n_words": 19,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f33v",
+        "f39v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f39v": 1,
+        "f33v": 1,
+        "f14r": 1,
+        "f22r": 1,
+        "f10v": 1
+      }
+    },
+    "f106v_B12": {
+      "folio": "f106v",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f33v": 1,
+        "f24r": 1,
+        "f44v": 1,
+        "f10v": 1,
+        "f22r": 1
+      }
+    },
+    "f106v_B13": {
+      "folio": "f106v",
+      "n_words": 26,
+      "herbal_refs": [
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 1,
+        "f33v": 1
+      }
+    },
+    "f106v_B14": {
+      "folio": "f106v",
+      "n_words": 21,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 3,
+        "f33v": 1
+      }
+    },
+    "f106v_B15": {
+      "folio": "f106v",
+      "n_words": 59,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f36v",
+        "f50v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f50v": 1,
+        "f10v": 1,
+        "f22r": 2,
+        "f36v": 1,
+        "f33v": 1
+      }
+    },
+    "f107r_B01": {
+      "folio": "f107r",
+      "n_words": 31,
+      "herbal_refs": [
+        "f10v",
+        "f24r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f24r": 2,
+        "f10v": 3
+      }
+    },
+    "f107r_B02": {
+      "folio": "f107r",
+      "n_words": 37,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 2,
+        "f10v": 3
+      }
+    },
+    "f107r_B03": {
+      "folio": "f107r",
+      "n_words": 50,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f10v": 4,
+        "f101r": 1,
+        "f24r": 2,
+        "f33v": 2,
+        "f22r": 2
+      }
+    },
+    "f107r_B04": {
+      "folio": "f107r",
+      "n_words": 43,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f10v": 2,
+        "f33v": 1,
+        "f24r": 1,
+        "f101r": 1
+      }
+    },
+    "f107r_B05": {
+      "folio": "f107r",
+      "n_words": 25,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f22r",
+        "f33v",
+        "f49v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f33v": 1,
+        "f49v": 1,
+        "f10v": 2,
+        "f22r": 2,
+        "f101r": 1
+      }
+    },
+    "f107r_B06": {
+      "folio": "f107r",
+      "n_words": 25,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 2,
+        "f22r": 1,
+        "f10v": 4
+      }
+    },
+    "f107r_B07": {
+      "folio": "f107r",
+      "n_words": 32,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 2,
+        "f14r": 1,
+        "f22r": 1,
+        "f10v": 1
+      }
+    },
+    "f107r_B08": {
+      "folio": "f107r",
+      "n_words": 24,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f24r": 1,
+        "f33v": 2,
+        "f10v": 2,
+        "f22r": 2,
+        "f50v": 1
+      }
+    },
+    "f107r_B09": {
+      "folio": "f107r",
+      "n_words": 45,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 2,
+        "f10v": 5
+      }
+    },
+    "f107r_B10": {
+      "folio": "f107r",
+      "n_words": 39,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 3,
+        "f10v": 4,
+        "f22r": 1,
+        "f14r": 1
+      }
+    },
+    "f107r_B11": {
+      "folio": "f107r",
+      "n_words": 37,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f6r"
+      ],
+      "n_refs": 6,
+      "ref_counts": {
+        "f6r": 1,
+        "f24r": 1,
+        "f22r": 1,
+        "f14r": 1,
+        "f10v": 2,
+        "f33v": 1
+      }
+    },
+    "f107r_B12": {
+      "folio": "f107r",
+      "n_words": 25,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 3,
+        "f33v": 2
+      }
+    },
+    "f107r_B13": {
+      "folio": "f107r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 4,
+        "f33v": 2,
+        "f22r": 2
+      }
+    },
+    "f107r_B14": {
+      "folio": "f107r",
+      "n_words": 46,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 3,
+        "f10v": 2,
+        "f22r": 4,
+        "f50v": 1
+      }
+    },
+    "f107v_B01": {
+      "folio": "f107v",
+      "n_words": 44,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f14r": 1,
+        "f10v": 4,
+        "f22r": 3,
+        "f33v": 1
+      }
+    },
+    "f107v_B02": {
+      "folio": "f107v",
+      "n_words": 26,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 1,
+        "f10v": 5
+      }
+    },
+    "f107v_B03": {
+      "folio": "f107v",
+      "n_words": 28,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f101r": 1,
+        "f10v": 1,
+        "f33v": 1
+      }
+    },
+    "f107v_B04": {
+      "folio": "f107v",
+      "n_words": 50,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 2,
+        "f101r": 1,
+        "f10v": 4
+      }
+    },
+    "f107v_B05": {
+      "folio": "f107v",
+      "n_words": 37,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f27r"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f10v": 7,
+        "f24r": 2,
+        "f22r": 2,
+        "f27r": 1
+      }
+    },
+    "f107v_B06": {
+      "folio": "f107v",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f24r": 1,
+        "f10v": 4,
+        "f22r": 4,
+        "f33v": 2
+      }
+    },
+    "f107v_B07": {
+      "folio": "f107v",
+      "n_words": 15,
+      "herbal_refs": [
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 3,
+        "f22r": 2
+      }
+    },
+    "f107v_B08": {
+      "folio": "f107v",
+      "n_words": 40,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f24r": 1,
+        "f10v": 1,
+        "f33v": 1,
+        "f22r": 2,
+        "f44v": 1
+      }
+    },
+    "f107v_B09": {
+      "folio": "f107v",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 2,
+        "f10v": 2
+      }
+    },
+    "f107v_B10": {
+      "folio": "f107v",
+      "n_words": 26,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 5,
+        "f24r": 1,
+        "f22r": 1
+      }
+    },
+    "f107v_B11": {
+      "folio": "f107v",
+      "n_words": 20,
+      "herbal_refs": [
+        "f22r",
+        "f33v",
+        "f90v1"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 2,
+        "f90v1": 1,
+        "f33v": 2
+      }
+    },
+    "f107v_B12": {
+      "folio": "f107v",
+      "n_words": 36,
+      "herbal_refs": [
+        "f10v",
+        "f24r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 3,
+        "f24r": 1
+      }
+    },
+    "f107v_B13": {
+      "folio": "f107v",
+      "n_words": 17,
+      "herbal_refs": [
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 1,
+        "f24r": 1
+      }
+    },
+    "f107v_B14": {
+      "folio": "f107v",
+      "n_words": 18,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 1,
+        "f10v": 1
+      }
+    },
+    "f107v_B15": {
+      "folio": "f107v",
+      "n_words": 49,
+      "herbal_refs": [
+        "f10v",
+        "f14r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 4,
+        "f14r": 1
+      }
+    },
+    "f108r_B01": {
+      "folio": "f108r",
+      "n_words": 38,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 1,
+        "f10v": 1
+      }
+    },
+    "f108r_B02": {
+      "folio": "f108r",
+      "n_words": 36,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f26r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f22r": 2,
+        "f26r": 1,
+        "f10v": 1,
+        "f33v": 3
+      }
+    },
+    "f108r_B03": {
+      "folio": "f108r",
+      "n_words": 61,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 3,
+        "f10v": 4
+      }
+    },
+    "f108r_B04": {
+      "folio": "f108r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 1,
+        "f24r": 2,
+        "f10v": 2
+      }
+    },
+    "f108r_B05": {
+      "folio": "f108r",
+      "n_words": 39,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f50v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 2,
+        "f50v": 1,
+        "f22r": 1
+      }
+    },
+    "f108r_B06": {
+      "folio": "f108r",
+      "n_words": 25,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f22r",
+        "f24r",
+        "f36v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f101r": 1,
+        "f22r": 2,
+        "f24r": 1,
+        "f10v": 1,
+        "f36v": 1
+      }
+    },
+    "f108r_B07": {
+      "folio": "f108r",
+      "n_words": 52,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 1,
+        "f10v": 5,
+        "f22r": 1
+      }
+    },
+    "f108r_B08": {
+      "folio": "f108r",
+      "n_words": 17,
+      "herbal_refs": [
+        "f10v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f10v": 1
+      }
+    },
+    "f108r_B09": {
+      "folio": "f108r",
+      "n_words": 36,
+      "herbal_refs": [
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 1,
+        "f24r": 1,
+        "f33v": 1
+      }
+    },
+    "f108r_B10": {
+      "folio": "f108r",
+      "n_words": 19,
+      "herbal_refs": [],
+      "n_refs": 0,
+      "ref_counts": {}
+    },
+    "f108r_B11": {
+      "folio": "f108r",
+      "n_words": 18,
+      "herbal_refs": [],
+      "n_refs": 0,
+      "ref_counts": {}
+    },
+    "f108r_B12": {
+      "folio": "f108r",
+      "n_words": 60,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f36v",
+        "f44v"
+      ],
+      "n_refs": 6,
+      "ref_counts": {
+        "f33v": 2,
+        "f44v": 1,
+        "f24r": 2,
+        "f10v": 3,
+        "f22r": 3,
+        "f36v": 1
+      }
+    },
+    "f108r_B13": {
+      "folio": "f108r",
+      "n_words": 33,
+      "herbal_refs": [],
+      "n_refs": 0,
+      "ref_counts": {}
+    },
+    "f108r_B14": {
+      "folio": "f108r",
+      "n_words": 32,
+      "herbal_refs": [
+        "f33v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f33v": 3
+      }
+    },
+    "f108v_B01": {
+      "folio": "f108v",
+      "n_words": 41,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 2,
+        "f22r": 3,
+        "f33v": 2
+      }
+    },
+    "f108v_B02": {
+      "folio": "f108v",
+      "n_words": 21,
+      "herbal_refs": [],
+      "n_refs": 0,
+      "ref_counts": {}
+    },
+    "f108v_B03": {
+      "folio": "f108v",
+      "n_words": 56,
+      "herbal_refs": [
+        "f14r",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 3,
+        "f22r": 1,
+        "f14r": 1
+      }
+    },
+    "f108v_B04": {
+      "folio": "f108v",
+      "n_words": 33,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 1,
+        "f10v": 3,
+        "f22r": 1
+      }
+    },
+    "f108v_B05": {
+      "folio": "f108v",
+      "n_words": 50,
+      "herbal_refs": [
+        "f10v",
+        "f11r",
+        "f22r",
+        "f90v1"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f90v1": 1,
+        "f10v": 2,
+        "f11r": 1,
+        "f22r": 1
+      }
+    },
+    "f108v_B06": {
+      "folio": "f108v",
+      "n_words": 119,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f36v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f10v": 15,
+        "f22r": 6,
+        "f33v": 7,
+        "f36v": 1,
+        "f24r": 2
+      }
+    },
+    "f108v_B07": {
+      "folio": "f108v",
+      "n_words": 261,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f33v": 6,
+        "f22r": 4,
+        "f10v": 9,
+        "f24r": 1,
+        "f50v": 1
+      }
+    },
+    "f111r_B01": {
+      "folio": "f111r",
+      "n_words": 55,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f33v": 2,
+        "f10v": 4,
+        "f101r": 1,
+        "f24r": 1,
+        "f22r": 1
+      }
+    },
+    "f111r_B02": {
+      "folio": "f111r",
+      "n_words": 365,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f22r": 5,
+        "f33v": 15,
+        "f10v": 15,
+        "f24r": 2,
+        "f14r": 4
+      }
+    },
+    "f111r_B03": {
+      "folio": "f111r",
+      "n_words": 86,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f22r": 2,
+        "f10v": 4,
+        "f33v": 1,
+        "f14r": 1
+      }
+    },
+    "f111r_B04": {
+      "folio": "f111r",
+      "n_words": 46,
+      "herbal_refs": [
+        "f10v",
+        "f24r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f24r": 1,
+        "f10v": 1
+      }
+    },
+    "f111r_B05": {
+      "folio": "f111r",
+      "n_words": 32,
+      "herbal_refs": [
+        "f22r"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f22r": 1
+      }
+    },
+    "f111r_B06": {
+      "folio": "f111r",
+      "n_words": 40,
+      "herbal_refs": [
+        "f10v",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 3,
+        "f10v": 4,
+        "f50v": 1
+      }
+    },
+    "f111v_B01": {
+      "folio": "f111v",
+      "n_words": 294,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f19r",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f44v",
+        "f49v",
+        "f50v"
+      ],
+      "n_refs": 9,
+      "ref_counts": {
+        "f50v": 2,
+        "f33v": 8,
+        "f10v": 14,
+        "f22r": 6,
+        "f19r": 1,
+        "f44v": 2,
+        "f24r": 1,
+        "f101r": 2,
+        "f49v": 1
+      }
+    },
+    "f111v_B02": {
+      "folio": "f111v",
+      "n_words": 28,
+      "herbal_refs": [
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 2,
+        "f33v": 1
+      }
+    },
+    "f111v_B03": {
+      "folio": "f111v",
+      "n_words": 21,
+      "herbal_refs": [
+        "f33v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f33v": 1
+      }
+    },
+    "f111v_B04": {
+      "folio": "f111v",
+      "n_words": 37,
+      "herbal_refs": [
+        "f33v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f33v": 2
+      }
+    },
+    "f111v_B05": {
+      "folio": "f111v",
+      "n_words": 33,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 2,
+        "f33v": 6,
+        "f10v": 2
+      }
+    },
+    "f111v_B06": {
+      "folio": "f111v",
+      "n_words": 82,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f24r": 2,
+        "f10v": 4,
+        "f22r": 1
+      }
+    },
+    "f111v_B07": {
+      "folio": "f111v",
+      "n_words": 29,
+      "herbal_refs": [
+        "f22r",
+        "f36v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 2,
+        "f36v": 1
+      }
+    },
+    "f111v_B08": {
+      "folio": "f111v",
+      "n_words": 43,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f50v": 1,
+        "f24r": 2,
+        "f10v": 2,
+        "f33v": 1,
+        "f22r": 1
+      }
+    },
+    "f112r_B01": {
+      "folio": "f112r",
+      "n_words": 78,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f39v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f24r": 3,
+        "f10v": 5,
+        "f33v": 4,
+        "f22r": 5,
+        "f39v": 1
+      }
+    },
+    "f112r_B02": {
+      "folio": "f112r",
+      "n_words": 33,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f6r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f24r": 1,
+        "f10v": 3,
+        "f6r": 1
+      }
+    },
+    "f112r_B03": {
+      "folio": "f112r",
+      "n_words": 38,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f33v",
+        "f6r"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f6r": 1,
+        "f22r": 2,
+        "f33v": 1,
+        "f10v": 2,
+        "f14r": 1
+      }
+    },
+    "f112r_B04": {
+      "folio": "f112r",
+      "n_words": 36,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 3,
+        "f24r": 1,
+        "f22r": 1
+      }
+    },
+    "f112r_B05": {
+      "folio": "f112r",
+      "n_words": 33,
+      "herbal_refs": [
+        "f10v",
+        "f19r",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f19r": 1,
+        "f24r": 1,
+        "f10v": 1
+      }
+    },
+    "f112r_B06": {
+      "folio": "f112r",
+      "n_words": 36,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 4,
+        "f10v": 2,
+        "f22r": 3
+      }
+    },
+    "f112r_B07": {
+      "folio": "f112r",
+      "n_words": 30,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f10v": 1,
+        "f24r": 1,
+        "f33v": 3,
+        "f22r": 1
+      }
+    },
+    "f112r_B08": {
+      "folio": "f112r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 5,
+        "f22r": 3
+      }
+    },
+    "f112r_B09": {
+      "folio": "f112r",
+      "n_words": 19,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 1,
+        "f33v": 1
+      }
+    },
+    "f112r_B10": {
+      "folio": "f112r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 1,
+        "f33v": 1,
+        "f24r": 1
+      }
+    },
+    "f112r_B11": {
+      "folio": "f112r",
+      "n_words": 42,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f22r": 1,
+        "f33v": 4,
+        "f14r": 1,
+        "f10v": 3,
+        "f24r": 1
+      }
+    },
+    "f112v_B01": {
+      "folio": "f112v",
+      "n_words": 53,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 7,
+      "ref_counts": {
+        "f14r": 1,
+        "f101r": 1,
+        "f33v": 3,
+        "f24r": 3,
+        "f44v": 1,
+        "f10v": 4,
+        "f22r": 1
+      }
+    },
+    "f112v_B02": {
+      "folio": "f112v",
+      "n_words": 29,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v",
+        "f90v1"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f10v": 5,
+        "f90v1": 1,
+        "f33v": 3,
+        "f24r": 1
+      }
+    },
+    "f112v_B03": {
+      "folio": "f112v",
+      "n_words": 35,
+      "herbal_refs": [
+        "f10v",
+        "f19r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f19r": 1,
+        "f10v": 4
+      }
+    },
+    "f112v_B04": {
+      "folio": "f112v",
+      "n_words": 46,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f10v": 5,
+        "f50v": 1,
+        "f24r": 1,
+        "f22r": 1,
+        "f33v": 2
+      }
+    },
+    "f112v_B05": {
+      "folio": "f112v",
+      "n_words": 24,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 1,
+        "f10v": 1,
+        "f22r": 2
+      }
+    },
+    "f112v_B06": {
+      "folio": "f112v",
+      "n_words": 36,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 1,
+        "f24r": 2,
+        "f10v": 1
+      }
+    },
+    "f112v_B07": {
+      "folio": "f112v",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 2,
+        "f22r": 1
+      }
+    },
+    "f112v_B08": {
+      "folio": "f112v",
+      "n_words": 15,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 1,
+        "f10v": 2,
+        "f33v": 2
+      }
+    },
+    "f112v_B09": {
+      "folio": "f112v",
+      "n_words": 35,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 1,
+        "f24r": 1,
+        "f10v": 2,
+        "f22r": 1
+      }
+    },
+    "f112v_B10": {
+      "folio": "f112v",
+      "n_words": 33,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 3,
+        "f10v": 2,
+        "f22r": 2
+      }
+    },
+    "f112v_B11": {
+      "folio": "f112v",
+      "n_words": 24,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f22r",
+        "f50v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f10v": 4,
+        "f50v": 1,
+        "f101r": 1,
+        "f22r": 1
+      }
+    },
+    "f112v_B12": {
+      "folio": "f112v",
+      "n_words": 31,
+      "herbal_refs": [
+        "f22r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 2,
+        "f33v": 1,
+        "f50v": 1
+      }
+    },
+    "f112v_B13": {
+      "folio": "f112v",
+      "n_words": 30,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v",
+        "f6r"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 3,
+        "f24r": 1,
+        "f10v": 2,
+        "f6r": 1
+      }
+    },
+    "f113r_B01": {
+      "folio": "f113r",
+      "n_words": 29,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 2,
+        "f10v": 1
+      }
+    },
+    "f113r_B02": {
+      "folio": "f113r",
+      "n_words": 49,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f44v": 1,
+        "f33v": 3,
+        "f10v": 5,
+        "f22r": 2,
+        "f24r": 1
+      }
+    },
+    "f113r_B03": {
+      "folio": "f113r",
+      "n_words": 22,
+      "herbal_refs": [
+        "f10v",
+        "f14r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 2,
+        "f14r": 2
+      }
+    },
+    "f113r_B04": {
+      "folio": "f113r",
+      "n_words": 36,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f44v",
+        "f50v"
+      ],
+      "n_refs": 6,
+      "ref_counts": {
+        "f50v": 1,
+        "f10v": 4,
+        "f24r": 2,
+        "f33v": 1,
+        "f44v": 1,
+        "f22r": 1
+      }
+    },
+    "f113r_B05": {
+      "folio": "f113r",
+      "n_words": 30,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 2,
+        "f10v": 1
+      }
+    },
+    "f113r_B06": {
+      "folio": "f113r",
+      "n_words": 40,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f24r": 2,
+        "f10v": 1,
+        "f33v": 2,
+        "f22r": 2
+      }
+    },
+    "f113r_B07": {
+      "folio": "f113r",
+      "n_words": 20,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f24r": 1,
+        "f10v": 1,
+        "f33v": 1,
+        "f22r": 1
+      }
+    },
+    "f113r_B08": {
+      "folio": "f113r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10r",
+        "f14r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f14r": 1,
+        "f10r": 1,
+        "f24r": 2,
+        "f33v": 1
+      }
+    },
+    "f113r_B09": {
+      "folio": "f113r",
+      "n_words": 20,
+      "herbal_refs": [
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 1,
+        "f33v": 1
+      }
+    },
+    "f113r_B10": {
+      "folio": "f113r",
+      "n_words": 36,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f26r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f22r": 2,
+        "f24r": 1,
+        "f26r": 1,
+        "f33v": 1,
+        "f10v": 3
+      }
+    },
+    "f113r_B11": {
+      "folio": "f113r",
+      "n_words": 40,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 2,
+        "f10v": 3,
+        "f24r": 1
+      }
+    },
+    "f113r_B12": {
+      "folio": "f113r",
+      "n_words": 27,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 1,
+        "f33v": 2
+      }
+    },
+    "f113r_B13": {
+      "folio": "f113r",
+      "n_words": 17,
+      "herbal_refs": [
+        "f10v",
+        "f3r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 3,
+        "f3r": 1
+      }
+    },
+    "f113r_B14": {
+      "folio": "f113r",
+      "n_words": 34,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f24r": 1,
+        "f33v": 2,
+        "f10v": 3
+      }
+    },
+    "f113r_B15": {
+      "folio": "f113r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f19r",
+        "f22r",
+        "f33v",
+        "f90v1"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f33v": 3,
+        "f90v1": 1,
+        "f19r": 1,
+        "f10v": 1,
+        "f22r": 1
+      }
+    },
+    "f113r_B16": {
+      "folio": "f113r",
+      "n_words": 73,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f24r": 2,
+        "f10v": 5,
+        "f33v": 2,
+        "f14r": 2
+      }
+    },
+    "f113v_B01": {
+      "folio": "f113v",
+      "n_words": 35,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f10v": 3,
+        "f50v": 1,
+        "f33v": 3,
+        "f22r": 2
+      }
+    },
+    "f113v_B02": {
+      "folio": "f113v",
+      "n_words": 29,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 2,
+        "f33v": 1,
+        "f101r": 1
+      }
+    },
+    "f113v_B03": {
+      "folio": "f113v",
+      "n_words": 30,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 4,
+        "f24r": 1,
+        "f10v": 1,
+        "f22r": 1
+      }
+    },
+    "f113v_B04": {
+      "folio": "f113v",
+      "n_words": 31,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 4,
+        "f22r": 1,
+        "f10v": 1,
+        "f24r": 2
+      }
+    },
+    "f113v_B05": {
+      "folio": "f113v",
+      "n_words": 56,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f90v1"
+      ],
+      "n_refs": 6,
+      "ref_counts": {
+        "f33v": 6,
+        "f22r": 2,
+        "f24r": 1,
+        "f10v": 4,
+        "f101r": 1,
+        "f90v1": 1
+      }
+    },
+    "f113v_B06": {
+      "folio": "f113v",
+      "n_words": 29,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f33v",
+        "f36v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f10v": 3,
+        "f33v": 2,
+        "f14r": 1,
+        "f36v": 1,
+        "f22r": 1
+      }
+    },
+    "f113v_B07": {
+      "folio": "f113v",
+      "n_words": 40,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f6r"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 6,
+        "f10v": 6,
+        "f22r": 2,
+        "f6r": 1
+      }
+    },
+    "f113v_B08": {
+      "folio": "f113v",
+      "n_words": 30,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f101r": 1,
+        "f10v": 3,
+        "f22r": 2,
+        "f33v": 2
+      }
+    },
+    "f113v_B09": {
+      "folio": "f113v",
+      "n_words": 57,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f10v": 7,
+        "f24r": 2,
+        "f33v": 4,
+        "f22r": 2,
+        "f44v": 1
+      }
+    },
+    "f113v_B10": {
+      "folio": "f113v",
+      "n_words": 25,
+      "herbal_refs": [
+        "f10v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f10v": 1
+      }
+    },
+    "f113v_B11": {
+      "folio": "f113v",
+      "n_words": 19,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 1,
+        "f44v": 1,
+        "f10v": 2,
+        "f22r": 1
+      }
+    },
+    "f113v_B12": {
+      "folio": "f113v",
+      "n_words": 40,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 3,
+        "f24r": 1,
+        "f10v": 5
+      }
+    },
+    "f113v_B13": {
+      "folio": "f113v",
+      "n_words": 31,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f22r": 3,
+        "f10v": 6,
+        "f24r": 2,
+        "f33v": 2
+      }
+    },
+    "f113v_B14": {
+      "folio": "f113v",
+      "n_words": 17,
+      "herbal_refs": [
+        "f33v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f33v": 3
+      }
+    },
+    "f113v_B15": {
+      "folio": "f113v",
+      "n_words": 33,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 1,
+        "f10v": 1,
+        "f22r": 1
+      }
+    },
+    "f114r_B01": {
+      "folio": "f114r",
+      "n_words": 23,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f39v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f39v": 1,
+        "f10v": 2,
+        "f33v": 1,
+        "f24r": 1,
+        "f22r": 1
+      }
+    },
+    "f114r_B02": {
+      "folio": "f114r",
+      "n_words": 41,
+      "herbal_refs": [
+        "f10v",
+        "f14r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 4,
+        "f14r": 1
+      }
+    },
+    "f114r_B03": {
+      "folio": "f114r",
+      "n_words": 27,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f14r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f10v": 3,
+        "f101r": 1,
+        "f14r": 1,
+        "f33v": 1
+      }
+    },
+    "f114r_B04": {
+      "folio": "f114r",
+      "n_words": 26,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 2,
+        "f10v": 2,
+        "f14r": 1
+      }
+    },
+    "f114r_B05": {
+      "folio": "f114r",
+      "n_words": 56,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f39v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f39v": 2,
+        "f22r": 3,
+        "f33v": 2,
+        "f10v": 1
+      }
+    },
+    "f114r_B06": {
+      "folio": "f114r",
+      "n_words": 29,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 1,
+        "f10v": 2,
+        "f33v": 2
+      }
+    },
+    "f114r_B07": {
+      "folio": "f114r",
+      "n_words": 21,
+      "herbal_refs": [
+        "f10v",
+        "f24r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f24r": 1,
+        "f10v": 1
+      }
+    },
+    "f114r_B08": {
+      "folio": "f114r",
+      "n_words": 44,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f24r": 2,
+        "f22r": 2,
+        "f33v": 1,
+        "f10v": 2
+      }
+    },
+    "f114r_B09": {
+      "folio": "f114r",
+      "n_words": 46,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f22r": 2,
+        "f33v": 1,
+        "f10v": 4,
+        "f24r": 1
+      }
+    },
+    "f114r_B10": {
+      "folio": "f114r",
+      "n_words": 32,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 8,
+        "f33v": 1
+      }
+    },
+    "f114r_B11": {
+      "folio": "f114r",
+      "n_words": 45,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 4,
+        "f24r": 1,
+        "f10v": 4,
+        "f22r": 2
+      }
+    },
+    "f114r_B12": {
+      "folio": "f114r",
+      "n_words": 30,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 3,
+        "f33v": 1
+      }
+    },
+    "f114r_B13": {
+      "folio": "f114r",
+      "n_words": 40,
+      "herbal_refs": [
+        "f10r",
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f10v": 2,
+        "f24r": 1,
+        "f22r": 1,
+        "f33v": 1,
+        "f10r": 1
+      }
+    },
+    "f114v_B01": {
+      "folio": "f114v",
+      "n_words": 48,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 2,
+        "f10v": 2,
+        "f22r": 3
+      }
+    },
+    "f114v_B02": {
+      "folio": "f114v",
+      "n_words": 20,
+      "herbal_refs": [
+        "f10v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f10v": 2
+      }
+    },
+    "f114v_B03": {
+      "folio": "f114v",
+      "n_words": 27,
+      "herbal_refs": [
+        "f10v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f10v": 1
+      }
+    },
+    "f114v_B04": {
+      "folio": "f114v",
+      "n_words": 26,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f22r": 2,
+        "f14r": 1,
+        "f10v": 1,
+        "f33v": 1
+      }
+    },
+    "f114v_B05": {
+      "folio": "f114v",
+      "n_words": 38,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f44v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f44v": 1,
+        "f10v": 2,
+        "f22r": 3
+      }
+    },
+    "f114v_B06": {
+      "folio": "f114v",
+      "n_words": 13,
+      "herbal_refs": [
+        "f10v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f10v": 1
+      }
+    },
+    "f114v_B07": {
+      "folio": "f114v",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 1,
+        "f50v": 1,
+        "f33v": 1
+      }
+    },
+    "f114v_B08": {
+      "folio": "f114v",
+      "n_words": 23,
+      "herbal_refs": [
+        "f10v",
+        "f24r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 4,
+        "f24r": 1
+      }
+    },
+    "f114v_B09": {
+      "folio": "f114v",
+      "n_words": 29,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f33v": 2,
+        "f10v": 1
+      }
+    },
+    "f114v_B10": {
+      "folio": "f114v",
+      "n_words": 36,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f44v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f44v": 1,
+        "f10v": 3,
+        "f22r": 3
+      }
+    },
+    "f114v_B11": {
+      "folio": "f114v",
+      "n_words": 27,
+      "herbal_refs": [
+        "f10v",
+        "f22r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 4,
+        "f22r": 1
+      }
+    },
+    "f114v_B12": {
+      "folio": "f114v",
+      "n_words": 61,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 1,
+        "f10v": 7,
+        "f33v": 1
+      }
+    },
+    "f115r_B01": {
+      "folio": "f115r",
+      "n_words": 32,
+      "herbal_refs": [
+        "f22r",
+        "f24r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f22r": 2,
+        "f24r": 1
+      }
+    },
+    "f115r_B02": {
+      "folio": "f115r",
+      "n_words": 42,
+      "herbal_refs": [
+        "f14r",
+        "f19r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f24r": 1,
+        "f19r": 2,
+        "f33v": 2,
+        "f14r": 1
+      }
+    },
+    "f115r_B03": {
+      "folio": "f115r",
+      "n_words": 24,
+      "herbal_refs": [
+        "f10v",
+        "f24r",
+        "f33v",
+        "f90v1"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f90v1": 1,
+        "f24r": 3,
+        "f10v": 1,
+        "f33v": 3
+      }
+    },
+    "f115r_B04": {
+      "folio": "f115r",
+      "n_words": 31,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f10v": 1,
+        "f22r": 2,
+        "f14r": 1,
+        "f24r": 1
+      }
+    },
+    "f115r_B05": {
+      "folio": "f115r",
+      "n_words": 63,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 2,
+        "f10v": 4,
+        "f14r": 2,
+        "f22r": 1
+      }
+    },
+    "f115r_B06": {
+      "folio": "f115r",
+      "n_words": 33,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r",
+        "f50v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f22r": 1,
+        "f14r": 1,
+        "f24r": 2,
+        "f10v": 1,
+        "f50v": 1
+      }
+    },
+    "f115r_B07": {
+      "folio": "f115r",
+      "n_words": 46,
+      "herbal_refs": [
+        "f101r",
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 7,
+      "ref_counts": {
+        "f44v": 1,
+        "f33v": 2,
+        "f14r": 2,
+        "f22r": 2,
+        "f101r": 1,
+        "f24r": 3,
+        "f10v": 1
+      }
+    },
+    "f115r_B08": {
+      "folio": "f115r",
+      "n_words": 31,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v",
+        "f39v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 2,
+        "f39v": 1,
+        "f22r": 2,
+        "f10v": 1
+      }
+    },
+    "f115r_B09": {
+      "folio": "f115r",
+      "n_words": 59,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f22r": 1,
+        "f33v": 1,
+        "f10v": 5,
+        "f24r": 1
+      }
+    },
+    "f115r_B10": {
+      "folio": "f115r",
+      "n_words": 20,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 3,
+        "f10v": 2,
+        "f14r": 1
+      }
+    },
+    "f115r_B11": {
+      "folio": "f115r",
+      "n_words": 28,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f36v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f10v": 2,
+        "f36v": 1,
+        "f24r": 1,
+        "f22r": 1
+      }
+    },
+    "f115r_B12": {
+      "folio": "f115r",
+      "n_words": 15,
+      "herbal_refs": [
+        "f19r",
+        "f22r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f50v": 1,
+        "f33v": 2,
+        "f22r": 1,
+        "f19r": 1
+      }
+    },
+    "f115r_B13": {
+      "folio": "f115r",
+      "n_words": 37,
+      "herbal_refs": [
+        "f24r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f24r": 2,
+        "f44v": 1,
+        "f33v": 4
+      }
+    },
+    "f115v_B01": {
+      "folio": "f115v",
+      "n_words": 46,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f22r": 1,
+        "f10v": 1,
+        "f24r": 1,
+        "f33v": 1
+      }
+    },
+    "f115v_B02": {
+      "folio": "f115v",
+      "n_words": 20,
+      "herbal_refs": [
+        "f14r",
+        "f24r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f14r": 1,
+        "f24r": 1
+      }
+    },
+    "f115v_B03": {
+      "folio": "f115v",
+      "n_words": 27,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f33v",
+        "f44v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f33v": 1,
+        "f14r": 1,
+        "f10v": 2,
+        "f44v": 1
+      }
+    },
+    "f115v_B04": {
+      "folio": "f115v",
+      "n_words": 13,
+      "herbal_refs": [
+        "f27r"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f27r": 1
+      }
+    },
+    "f115v_B05": {
+      "folio": "f115v",
+      "n_words": 51,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f22r": 3,
+        "f24r": 1,
+        "f10v": 2,
+        "f33v": 3,
+        "f14r": 1
+      }
+    },
+    "f115v_B06": {
+      "folio": "f115v",
+      "n_words": 26,
+      "herbal_refs": [
+        "f24r"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f24r": 1
+      }
+    },
+    "f115v_B07": {
+      "folio": "f115v",
+      "n_words": 25,
+      "herbal_refs": [
+        "f10v",
+        "f24r"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f24r": 1,
+        "f10v": 1
+      }
+    },
+    "f115v_B08": {
+      "folio": "f115v",
+      "n_words": 50,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f14r": 2,
+        "f10v": 2,
+        "f22r": 3,
+        "f33v": 1,
+        "f24r": 2
+      }
+    },
+    "f115v_B09": {
+      "folio": "f115v",
+      "n_words": 20,
+      "herbal_refs": [
+        "f22r",
+        "f33v",
+        "f47v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f22r": 2,
+        "f47v": 1,
+        "f33v": 1
+      }
+    },
+    "f115v_B10": {
+      "folio": "f115v",
+      "n_words": 24,
+      "herbal_refs": [
+        "f33v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f33v": 1
+      }
+    },
+    "f115v_B11": {
+      "folio": "f115v",
+      "n_words": 26,
+      "herbal_refs": [
+        "f10v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f10v": 2
+      }
+    },
+    "f115v_B12": {
+      "folio": "f115v",
+      "n_words": 39,
+      "herbal_refs": [
+        "f10v",
+        "f14r",
+        "f24r",
+        "f39v"
+      ],
+      "n_refs": 4,
+      "ref_counts": {
+        "f24r": 1,
+        "f39v": 1,
+        "f10v": 1,
+        "f14r": 1
+      }
+    },
+    "f115v_B13": {
+      "folio": "f115v",
+      "n_words": 43,
+      "herbal_refs": [
+        "f14r",
+        "f50v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f50v": 1,
+        "f14r": 1
+      }
+    },
+    "f116r_B01": {
+      "folio": "f116r",
+      "n_words": 33,
+      "herbal_refs": [
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f24r": 1,
+        "f33v": 4
+      }
+    },
+    "f116r_B02": {
+      "folio": "f116r",
+      "n_words": 34,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f10v": 2,
+        "f24r": 1,
+        "f22r": 2
+      }
+    },
+    "f116r_B03": {
+      "folio": "f116r",
+      "n_words": 25,
+      "herbal_refs": [
+        "f33v"
+      ],
+      "n_refs": 1,
+      "ref_counts": {
+        "f33v": 1
+      }
+    },
+    "f116r_B04": {
+      "folio": "f116r",
+      "n_words": 53,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 3,
+        "f22r": 3,
+        "f10v": 1
+      }
+    },
+    "f116r_B05": {
+      "folio": "f116r",
+      "n_words": 32,
+      "herbal_refs": [
+        "f10v",
+        "f33v"
+      ],
+      "n_refs": 2,
+      "ref_counts": {
+        "f10v": 1,
+        "f33v": 4
+      }
+    },
+    "f116r_B06": {
+      "folio": "f116r",
+      "n_words": 160,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f33v",
+        "f50v"
+      ],
+      "n_refs": 5,
+      "ref_counts": {
+        "f24r": 2,
+        "f33v": 7,
+        "f22r": 6,
+        "f10v": 2,
+        "f50v": 1
+      }
+    },
+    "f116r_B07": {
+      "folio": "f116r",
+      "n_words": 167,
+      "herbal_refs": [
+        "f10v",
+        "f22r",
+        "f24r",
+        "f27r",
+        "f33v",
+        "f50v",
+        "f90v1"
+      ],
+      "n_refs": 7,
+      "ref_counts": {
+        "f33v": 7,
+        "f10v": 4,
+        "f22r": 4,
+        "f27r": 1,
+        "f24r": 2,
+        "f50v": 2,
+        "f90v1": 1
+      }
+    },
+    "f116r_B08": {
+      "folio": "f116r",
+      "n_words": 49,
+      "herbal_refs": [
+        "f22r",
+        "f24r",
+        "f33v"
+      ],
+      "n_refs": 3,
+      "ref_counts": {
+        "f33v": 2,
+        "f24r": 1,
+        "f22r": 1
+      }
+    }
+  },
+  "herbal_usage": {
+    "f10v": [
+      "f103r_B01",
+      "f103r_B02",
+      "f103r_B03",
+      "f103r_B04",
+      "f103r_B05",
+      "f103r_B06",
+      "f103r_B07",
+      "f103r_B09",
+      "f103r_B10",
+      "f103r_B14",
+      "f103r_B17",
+      "f103v_B01",
+      "f103v_B02",
+      "f103v_B03",
+      "f103v_B05",
+      "f103v_B06",
+      "f103v_B07",
+      "f103v_B08",
+      "f103v_B09",
+      "f103v_B10",
+      "f103v_B12",
+      "f104r_B01",
+      "f104r_B02",
+      "f104r_B04",
+      "f104r_B07",
+      "f104r_B08",
+      "f104r_B09",
+      "f104r_B10",
+      "f104r_B11",
+      "f104r_B12",
+      "f104r_B13",
+      "f104v_B01",
+      "f104v_B03",
+      "f104v_B04",
+      "f104v_B05",
+      "f104v_B06",
+      "f104v_B07",
+      "f104v_B08",
+      "f104v_B09",
+      "f104v_B10",
+      "f104v_B12",
+      "f104v_B13",
+      "f105r_B01",
+      "f105r_B02",
+      "f105r_B03",
+      "f105r_B04",
+      "f105r_B05",
+      "f105r_B06",
+      "f105r_B08",
+      "f105r_B09",
+      "f105r_B10",
+      "f105v_B01",
+      "f105v_B02",
+      "f105v_B03",
+      "f105v_B04",
+      "f105v_B05",
+      "f105v_B06",
+      "f105v_B07",
+      "f105v_B08",
+      "f105v_B09",
+      "f105v_B10",
+      "f106r_B02",
+      "f106r_B03",
+      "f106r_B04",
+      "f106r_B05",
+      "f106r_B06",
+      "f106r_B07",
+      "f106r_B09",
+      "f106r_B10",
+      "f106r_B12",
+      "f106r_B13",
+      "f106r_B14",
+      "f106r_B15",
+      "f106v_B01",
+      "f106v_B02",
+      "f106v_B03",
+      "f106v_B04",
+      "f106v_B05",
+      "f106v_B06",
+      "f106v_B08",
+      "f106v_B10",
+      "f106v_B11",
+      "f106v_B12",
+      "f106v_B14",
+      "f106v_B15",
+      "f107r_B01",
+      "f107r_B02",
+      "f107r_B03",
+      "f107r_B04",
+      "f107r_B05",
+      "f107r_B06",
+      "f107r_B07",
+      "f107r_B08",
+      "f107r_B09",
+      "f107r_B10",
+      "f107r_B11",
+      "f107r_B12",
+      "f107r_B13",
+      "f107r_B14",
+      "f107v_B01",
+      "f107v_B02",
+      "f107v_B03",
+      "f107v_B04",
+      "f107v_B05",
+      "f107v_B06",
+      "f107v_B08",
+      "f107v_B09",
+      "f107v_B10",
+      "f107v_B12",
+      "f107v_B14",
+      "f107v_B15",
+      "f108r_B01",
+      "f108r_B02",
+      "f108r_B03",
+      "f108r_B04",
+      "f108r_B05",
+      "f108r_B06",
+      "f108r_B07",
+      "f108r_B08",
+      "f108r_B12",
+      "f108v_B01",
+      "f108v_B04",
+      "f108v_B05",
+      "f108v_B06",
+      "f108v_B07",
+      "f111r_B01",
+      "f111r_B02",
+      "f111r_B03",
+      "f111r_B04",
+      "f111r_B06",
+      "f111v_B01",
+      "f111v_B05",
+      "f111v_B06",
+      "f111v_B08",
+      "f112r_B01",
+      "f112r_B02",
+      "f112r_B03",
+      "f112r_B04",
+      "f112r_B05",
+      "f112r_B06",
+      "f112r_B07",
+      "f112r_B09",
+      "f112r_B10",
+      "f112r_B11",
+      "f112v_B01",
+      "f112v_B02",
+      "f112v_B03",
+      "f112v_B04",
+      "f112v_B05",
+      "f112v_B06",
+      "f112v_B07",
+      "f112v_B08",
+      "f112v_B09",
+      "f112v_B10",
+      "f112v_B11",
+      "f112v_B13",
+      "f113r_B01",
+      "f113r_B02",
+      "f113r_B03",
+      "f113r_B04",
+      "f113r_B05",
+      "f113r_B06",
+      "f113r_B07",
+      "f113r_B10",
+      "f113r_B11",
+      "f113r_B12",
+      "f113r_B13",
+      "f113r_B14",
+      "f113r_B15",
+      "f113r_B16",
+      "f113v_B01",
+      "f113v_B02",
+      "f113v_B03",
+      "f113v_B04",
+      "f113v_B05",
+      "f113v_B06",
+      "f113v_B07",
+      "f113v_B08",
+      "f113v_B09",
+      "f113v_B10",
+      "f113v_B11",
+      "f113v_B12",
+      "f113v_B13",
+      "f113v_B15",
+      "f114r_B01",
+      "f114r_B02",
+      "f114r_B03",
+      "f114r_B04",
+      "f114r_B05",
+      "f114r_B06",
+      "f114r_B07",
+      "f114r_B08",
+      "f114r_B09",
+      "f114r_B10",
+      "f114r_B11",
+      "f114r_B12",
+      "f114r_B13",
+      "f114v_B01",
+      "f114v_B02",
+      "f114v_B03",
+      "f114v_B04",
+      "f114v_B05",
+      "f114v_B06",
+      "f114v_B07",
+      "f114v_B08",
+      "f114v_B09",
+      "f114v_B10",
+      "f114v_B11",
+      "f114v_B12",
+      "f115r_B03",
+      "f115r_B04",
+      "f115r_B05",
+      "f115r_B06",
+      "f115r_B07",
+      "f115r_B08",
+      "f115r_B09",
+      "f115r_B10",
+      "f115r_B11",
+      "f115v_B01",
+      "f115v_B03",
+      "f115v_B05",
+      "f115v_B07",
+      "f115v_B08",
+      "f115v_B11",
+      "f115v_B12",
+      "f116r_B02",
+      "f116r_B04",
+      "f116r_B05",
+      "f116r_B06",
+      "f116r_B07"
+    ],
+    "f22r": [
+      "f103r_B01",
+      "f103r_B02",
+      "f103r_B03",
+      "f103r_B04",
+      "f103r_B06",
+      "f103r_B07",
+      "f103r_B08",
+      "f103r_B09",
+      "f103r_B10",
+      "f103r_B11",
+      "f103r_B12",
+      "f103r_B15",
+      "f103r_B16",
+      "f103r_B17",
+      "f103v_B01",
+      "f103v_B02",
+      "f103v_B03",
+      "f103v_B04",
+      "f103v_B05",
+      "f103v_B06",
+      "f103v_B07",
+      "f103v_B10",
+      "f103v_B11",
+      "f103v_B12",
+      "f103v_B13",
+      "f104r_B02",
+      "f104r_B03",
+      "f104r_B04",
+      "f104r_B06",
+      "f104r_B07",
+      "f104r_B10",
+      "f104r_B12",
+      "f104v_B01",
+      "f104v_B02",
+      "f104v_B03",
+      "f104v_B06",
+      "f104v_B07",
+      "f104v_B09",
+      "f104v_B10",
+      "f104v_B12",
+      "f105r_B02",
+      "f105r_B04",
+      "f105r_B05",
+      "f105r_B08",
+      "f105r_B10",
+      "f105v_B01",
+      "f105v_B02",
+      "f105v_B03",
+      "f105v_B09",
+      "f105v_B10",
+      "f106r_B03",
+      "f106r_B06",
+      "f106r_B07",
+      "f106r_B10",
+      "f106r_B14",
+      "f106r_B15",
+      "f106v_B02",
+      "f106v_B06",
+      "f106v_B08",
+      "f106v_B11",
+      "f106v_B12",
+      "f106v_B13",
+      "f106v_B15",
+      "f107r_B03",
+      "f107r_B05",
+      "f107r_B06",
+      "f107r_B07",
+      "f107r_B08",
+      "f107r_B10",
+      "f107r_B11",
+      "f107r_B13",
+      "f107r_B14",
+      "f107v_B01",
+      "f107v_B02",
+      "f107v_B04",
+      "f107v_B05",
+      "f107v_B06",
+      "f107v_B07",
+      "f107v_B08",
+      "f107v_B09",
+      "f107v_B10",
+      "f107v_B11",
+      "f107v_B14",
+      "f108r_B02",
+      "f108r_B04",
+      "f108r_B05",
+      "f108r_B06",
+      "f108r_B07",
+      "f108r_B09",
+      "f108r_B12",
+      "f108v_B01",
+      "f108v_B03",
+      "f108v_B04",
+      "f108v_B05",
+      "f108v_B06",
+      "f108v_B07",
+      "f111r_B01",
+      "f111r_B02",
+      "f111r_B03",
+      "f111r_B05",
+      "f111v_B01",
+      "f111v_B02",
+      "f111v_B05",
+      "f111v_B06",
+      "f111v_B07",
+      "f111v_B08",
+      "f112r_B01",
+      "f112r_B03",
+      "f112r_B04",
+      "f112r_B06",
+      "f112r_B07",
+      "f112r_B08",
+      "f112r_B11",
+      "f112v_B01",
+      "f112v_B04",
+      "f112v_B05",
+      "f112v_B06",
+      "f112v_B07",
+      "f112v_B08",
+      "f112v_B09",
+      "f112v_B10",
+      "f112v_B11",
+      "f112v_B12",
+      "f113r_B02",
+      "f113r_B04",
+      "f113r_B05",
+      "f113r_B06",
+      "f113r_B07",
+      "f113r_B09",
+      "f113r_B10",
+      "f113r_B15",
+      "f113v_B01",
+      "f113v_B03",
+      "f113v_B04",
+      "f113v_B05",
+      "f113v_B06",
+      "f113v_B07",
+      "f113v_B08",
+      "f113v_B09",
+      "f113v_B11",
+      "f113v_B13",
+      "f113v_B15",
+      "f114r_B01",
+      "f114r_B04",
+      "f114r_B05",
+      "f114r_B06",
+      "f114r_B08",
+      "f114r_B09",
+      "f114r_B11",
+      "f114r_B13",
+      "f114v_B01",
+      "f114v_B04",
+      "f114v_B05",
+      "f114v_B10",
+      "f114v_B11",
+      "f114v_B12",
+      "f115r_B01",
+      "f115r_B04",
+      "f115r_B05",
+      "f115r_B06",
+      "f115r_B07",
+      "f115r_B08",
+      "f115r_B09",
+      "f115r_B11",
+      "f115r_B12",
+      "f115v_B01",
+      "f115v_B05",
+      "f115v_B08",
+      "f115v_B09",
+      "f116r_B02",
+      "f116r_B04",
+      "f116r_B06",
+      "f116r_B07",
+      "f116r_B08"
+    ],
+    "f24r": [
+      "f103r_B01",
+      "f103r_B03",
+      "f103r_B05",
+      "f103r_B07",
+      "f103r_B10",
+      "f103v_B01",
+      "f103v_B03",
+      "f103v_B07",
+      "f103v_B08",
+      "f103v_B13",
+      "f104r_B04",
+      "f104r_B05",
+      "f104r_B06",
+      "f104r_B08",
+      "f104r_B11",
+      "f104v_B01",
+      "f104v_B05",
+      "f104v_B06",
+      "f104v_B07",
+      "f104v_B08",
+      "f104v_B09",
+      "f104v_B10",
+      "f104v_B12",
+      "f104v_B13",
+      "f105r_B01",
+      "f105r_B02",
+      "f105r_B04",
+      "f105r_B09",
+      "f105r_B10",
+      "f105v_B01",
+      "f105v_B03",
+      "f105v_B04",
+      "f105v_B05",
+      "f105v_B06",
+      "f105v_B08",
+      "f105v_B09",
+      "f105v_B10",
+      "f106r_B01",
+      "f106r_B02",
+      "f106r_B03",
+      "f106r_B06",
+      "f106r_B10",
+      "f106r_B11",
+      "f106v_B02",
+      "f106v_B07",
+      "f106v_B08",
+      "f106v_B12",
+      "f107r_B01",
+      "f107r_B03",
+      "f107r_B04",
+      "f107r_B08",
+      "f107r_B11",
+      "f107v_B05",
+      "f107v_B06",
+      "f107v_B08",
+      "f107v_B10",
+      "f107v_B12",
+      "f107v_B13",
+      "f108r_B04",
+      "f108r_B06",
+      "f108r_B09",
+      "f108r_B12",
+      "f108v_B06",
+      "f108v_B07",
+      "f111r_B01",
+      "f111r_B02",
+      "f111r_B04",
+      "f111v_B01",
+      "f111v_B06",
+      "f111v_B08",
+      "f112r_B01",
+      "f112r_B02",
+      "f112r_B04",
+      "f112r_B05",
+      "f112r_B07",
+      "f112r_B10",
+      "f112r_B11",
+      "f112v_B01",
+      "f112v_B02",
+      "f112v_B04",
+      "f112v_B06",
+      "f112v_B09",
+      "f112v_B13",
+      "f113r_B02",
+      "f113r_B04",
+      "f113r_B06",
+      "f113r_B07",
+      "f113r_B08",
+      "f113r_B10",
+      "f113r_B11",
+      "f113r_B14",
+      "f113r_B16",
+      "f113v_B03",
+      "f113v_B04",
+      "f113v_B05",
+      "f113v_B09",
+      "f113v_B12",
+      "f113v_B13",
+      "f114r_B01",
+      "f114r_B07",
+      "f114r_B08",
+      "f114r_B09",
+      "f114r_B11",
+      "f114r_B13",
+      "f114v_B08",
+      "f115r_B01",
+      "f115r_B02",
+      "f115r_B03",
+      "f115r_B04",
+      "f115r_B06",
+      "f115r_B07",
+      "f115r_B09",
+      "f115r_B11",
+      "f115r_B13",
+      "f115v_B01",
+      "f115v_B02",
+      "f115v_B05",
+      "f115v_B06",
+      "f115v_B07",
+      "f115v_B08",
+      "f115v_B12",
+      "f116r_B01",
+      "f116r_B02",
+      "f116r_B06",
+      "f116r_B07",
+      "f116r_B08"
+    ],
+    "f33v": [
+      "f103r_B01",
+      "f103r_B03",
+      "f103r_B05",
+      "f103r_B06",
+      "f103r_B07",
+      "f103r_B08",
+      "f103r_B15",
+      "f103v_B01",
+      "f103v_B05",
+      "f103v_B06",
+      "f103v_B07",
+      "f103v_B08",
+      "f103v_B09",
+      "f103v_B12",
+      "f103v_B13",
+      "f104r_B01",
+      "f104r_B02",
+      "f104r_B03",
+      "f104r_B04",
+      "f104r_B05",
+      "f104r_B06",
+      "f104r_B07",
+      "f104r_B08",
+      "f104r_B09",
+      "f104r_B11",
+      "f104r_B12",
+      "f104r_B13",
+      "f104v_B01",
+      "f104v_B04",
+      "f104v_B07",
+      "f104v_B09",
+      "f104v_B10",
+      "f104v_B11",
+      "f104v_B12",
+      "f104v_B13",
+      "f105r_B01",
+      "f105r_B02",
+      "f105r_B04",
+      "f105r_B06",
+      "f105r_B08",
+      "f105r_B09",
+      "f105r_B10",
+      "f105v_B02",
+      "f105v_B03",
+      "f105v_B04",
+      "f105v_B07",
+      "f105v_B08",
+      "f105v_B09",
+      "f105v_B10",
+      "f106r_B02",
+      "f106r_B04",
+      "f106r_B06",
+      "f106r_B08",
+      "f106r_B10",
+      "f106r_B11",
+      "f106r_B13",
+      "f106r_B14",
+      "f106r_B15",
+      "f106v_B01",
+      "f106v_B02",
+      "f106v_B04",
+      "f106v_B05",
+      "f106v_B06",
+      "f106v_B08",
+      "f106v_B09",
+      "f106v_B11",
+      "f106v_B12",
+      "f106v_B13",
+      "f106v_B14",
+      "f106v_B15",
+      "f107r_B02",
+      "f107r_B03",
+      "f107r_B04",
+      "f107r_B05",
+      "f107r_B06",
+      "f107r_B07",
+      "f107r_B08",
+      "f107r_B09",
+      "f107r_B10",
+      "f107r_B11",
+      "f107r_B12",
+      "f107r_B13",
+      "f107r_B14",
+      "f107v_B01",
+      "f107v_B03",
+      "f107v_B06",
+      "f107v_B07",
+      "f107v_B08",
+      "f107v_B11",
+      "f107v_B13",
+      "f108r_B01",
+      "f108r_B02",
+      "f108r_B03",
+      "f108r_B07",
+      "f108r_B09",
+      "f108r_B12",
+      "f108r_B14",
+      "f108v_B01",
+      "f108v_B03",
+      "f108v_B04",
+      "f108v_B06",
+      "f108v_B07",
+      "f111r_B01",
+      "f111r_B02",
+      "f111r_B03",
+      "f111r_B06",
+      "f111v_B01",
+      "f111v_B02",
+      "f111v_B03",
+      "f111v_B04",
+      "f111v_B05",
+      "f111v_B08",
+      "f112r_B01",
+      "f112r_B03",
+      "f112r_B06",
+      "f112r_B07",
+      "f112r_B08",
+      "f112r_B09",
+      "f112r_B10",
+      "f112r_B11",
+      "f112v_B01",
+      "f112v_B02",
+      "f112v_B04",
+      "f112v_B05",
+      "f112v_B08",
+      "f112v_B09",
+      "f112v_B10",
+      "f112v_B12",
+      "f112v_B13",
+      "f113r_B01",
+      "f113r_B02",
+      "f113r_B04",
+      "f113r_B06",
+      "f113r_B07",
+      "f113r_B08",
+      "f113r_B09",
+      "f113r_B10",
+      "f113r_B11",
+      "f113r_B12",
+      "f113r_B14",
+      "f113r_B15",
+      "f113r_B16",
+      "f113v_B01",
+      "f113v_B02",
+      "f113v_B03",
+      "f113v_B04",
+      "f113v_B05",
+      "f113v_B06",
+      "f113v_B07",
+      "f113v_B08",
+      "f113v_B09",
+      "f113v_B11",
+      "f113v_B12",
+      "f113v_B13",
+      "f113v_B14",
+      "f113v_B15",
+      "f114r_B01",
+      "f114r_B03",
+      "f114r_B05",
+      "f114r_B06",
+      "f114r_B08",
+      "f114r_B09",
+      "f114r_B10",
+      "f114r_B11",
+      "f114r_B12",
+      "f114r_B13",
+      "f114v_B01",
+      "f114v_B04",
+      "f114v_B07",
+      "f114v_B09",
+      "f114v_B12",
+      "f115r_B02",
+      "f115r_B03",
+      "f115r_B05",
+      "f115r_B07",
+      "f115r_B08",
+      "f115r_B09",
+      "f115r_B10",
+      "f115r_B12",
+      "f115r_B13",
+      "f115v_B01",
+      "f115v_B03",
+      "f115v_B05",
+      "f115v_B08",
+      "f115v_B09",
+      "f115v_B10",
+      "f116r_B01",
+      "f116r_B03",
+      "f116r_B04",
+      "f116r_B05",
+      "f116r_B06",
+      "f116r_B07",
+      "f116r_B08"
+    ],
+    "f50v": [
+      "f103r_B01",
+      "f103r_B07",
+      "f103r_B17",
+      "f103v_B13",
+      "f104v_B12",
+      "f105v_B01",
+      "f106r_B10",
+      "f106r_B14",
+      "f106r_B15",
+      "f106v_B04",
+      "f106v_B15",
+      "f107r_B08",
+      "f107r_B14",
+      "f108r_B05",
+      "f108v_B07",
+      "f111r_B06",
+      "f111v_B01",
+      "f111v_B08",
+      "f112v_B04",
+      "f112v_B11",
+      "f112v_B12",
+      "f113r_B04",
+      "f113v_B01",
+      "f114v_B07",
+      "f115r_B06",
+      "f115r_B12",
+      "f115v_B13",
+      "f116r_B06",
+      "f116r_B07"
+    ],
+    "f101r": [
+      "f103r_B05",
+      "f103r_B14",
+      "f104r_B04",
+      "f104r_B10",
+      "f104v_B01",
+      "f106r_B05",
+      "f107r_B03",
+      "f107r_B04",
+      "f107r_B05",
+      "f107v_B03",
+      "f107v_B04",
+      "f108r_B06",
+      "f111r_B01",
+      "f111v_B01",
+      "f112v_B01",
+      "f112v_B11",
+      "f113v_B02",
+      "f113v_B05",
+      "f113v_B08",
+      "f114r_B03",
+      "f115r_B07"
+    ],
+    "f11r": [
+      "f103r_B05",
+      "f108v_B05"
+    ],
+    "f44v": [
+      "f103r_B14",
+      "f103v_B05",
+      "f103v_B08",
+      "f104r_B05",
+      "f104r_B08",
+      "f104v_B06",
+      "f104v_B08",
+      "f105r_B05",
+      "f105v_B09",
+      "f106r_B11",
+      "f106v_B02",
+      "f106v_B05",
+      "f106v_B09",
+      "f106v_B10",
+      "f106v_B12",
+      "f107v_B08",
+      "f108r_B12",
+      "f111v_B01",
+      "f112v_B01",
+      "f113r_B02",
+      "f113r_B04",
+      "f113v_B09",
+      "f113v_B11",
+      "f114v_B05",
+      "f114v_B10",
+      "f115r_B07",
+      "f115r_B13",
+      "f115v_B03"
+    ],
+    "f19r": [
+      "f103r_B16",
+      "f103v_B04",
+      "f104r_B07",
+      "f104v_B06",
+      "f104v_B08",
+      "f105v_B05",
+      "f106r_B06",
+      "f106r_B08",
+      "f111v_B01",
+      "f112r_B05",
+      "f112v_B03",
+      "f113r_B15",
+      "f115r_B02",
+      "f115r_B12"
+    ],
+    "f90v1": [
+      "f103v_B02",
+      "f104v_B06",
+      "f104v_B09",
+      "f105r_B06",
+      "f107v_B11",
+      "f108v_B05",
+      "f112v_B02",
+      "f113r_B15",
+      "f113v_B05",
+      "f115r_B03",
+      "f116r_B07"
+    ],
+    "f26r": [
+      "f103v_B07",
+      "f108r_B02",
+      "f113r_B10"
+    ],
+    "f36v": [
+      "f103v_B12",
+      "f104r_B06",
+      "f104r_B07",
+      "f106r_B14",
+      "f106v_B01",
+      "f106v_B08",
+      "f106v_B15",
+      "f108r_B06",
+      "f108r_B12",
+      "f108v_B06",
+      "f111v_B07",
+      "f113v_B06",
+      "f115r_B11"
+    ],
+    "f3r": [
+      "f104r_B02",
+      "f104v_B11",
+      "f106v_B10",
+      "f113r_B13"
+    ],
+    "f14r": [
+      "f104r_B04",
+      "f104v_B02",
+      "f104v_B08",
+      "f105r_B07",
+      "f106r_B01",
+      "f106r_B08",
+      "f106r_B09",
+      "f106r_B10",
+      "f106r_B11",
+      "f106v_B01",
+      "f106v_B02",
+      "f106v_B04",
+      "f106v_B11",
+      "f107r_B07",
+      "f107r_B10",
+      "f107r_B11",
+      "f107v_B01",
+      "f107v_B15",
+      "f108v_B03",
+      "f111r_B02",
+      "f111r_B03",
+      "f112r_B03",
+      "f112r_B11",
+      "f112v_B01",
+      "f113r_B03",
+      "f113r_B08",
+      "f113r_B16",
+      "f113v_B06",
+      "f114r_B02",
+      "f114r_B03",
+      "f114r_B04",
+      "f114v_B04",
+      "f115r_B02",
+      "f115r_B04",
+      "f115r_B05",
+      "f115r_B06",
+      "f115r_B07",
+      "f115r_B10",
+      "f115v_B02",
+      "f115v_B03",
+      "f115v_B05",
+      "f115v_B08",
+      "f115v_B12",
+      "f115v_B13"
+    ],
+    "f10r": [
+      "f104v_B05",
+      "f113r_B08",
+      "f114r_B13"
+    ],
+    "f39v": [
+      "f104v_B07",
+      "f106v_B11",
+      "f112r_B01",
+      "f114r_B01",
+      "f114r_B05",
+      "f115r_B08",
+      "f115v_B12"
+    ],
+    "f6r": [
+      "f105v_B10",
+      "f106v_B09",
+      "f107r_B11",
+      "f112r_B02",
+      "f112r_B03",
+      "f112v_B13",
+      "f113v_B07"
+    ],
+    "f27r": [
+      "f106r_B09",
+      "f106v_B08",
+      "f107v_B05",
+      "f115v_B04",
+      "f116r_B07"
+    ],
+    "f47v": [
+      "f106v_B09",
+      "f115v_B09"
+    ],
+    "f49v": [
+      "f107r_B05",
+      "f111v_B01"
+    ]
+  },
+  "plant_pairs": [
+    {
+      "pair": [
+        "f10v",
+        "f33v"
+      ],
+      "count": 160
+    },
+    {
+      "pair": [
+        "f10v",
+        "f22r"
+      ],
+      "count": 148
+    },
+    {
+      "pair": [
+        "f22r",
+        "f33v"
+      ],
+      "count": 126
+    },
+    {
+      "pair": [
+        "f10v",
+        "f24r"
+      ],
+      "count": 110
+    },
+    {
+      "pair": [
+        "f24r",
+        "f33v"
+      ],
+      "count": 92
+    },
+    {
+      "pair": [
+        "f22r",
+        "f24r"
+      ],
+      "count": 83
+    },
+    {
+      "pair": [
+        "f10v",
+        "f14r"
+      ],
+      "count": 34
+    },
+    {
+      "pair": [
+        "f14r",
+        "f33v"
+      ],
+      "count": 30
+    },
+    {
+      "pair": [
+        "f10v",
+        "f50v"
+      ],
+      "count": 25
+    },
+    {
+      "pair": [
+        "f22r",
+        "f50v"
+      ],
+      "count": 25
+    },
+    {
+      "pair": [
+        "f10v",
+        "f44v"
+      ],
+      "count": 24
+    },
+    {
+      "pair": [
+        "f14r",
+        "f22r"
+      ],
+      "count": 24
+    },
+    {
+      "pair": [
+        "f33v",
+        "f50v"
+      ],
+      "count": 23
+    },
+    {
+      "pair": [
+        "f101r",
+        "f10v"
+      ],
+      "count": 21
+    },
+    {
+      "pair": [
+        "f33v",
+        "f44v"
+      ],
+      "count": 21
+    },
+    {
+      "pair": [
+        "f14r",
+        "f24r"
+      ],
+      "count": 20
+    },
+    {
+      "pair": [
+        "f24r",
+        "f44v"
+      ],
+      "count": 18
+    },
+    {
+      "pair": [
+        "f22r",
+        "f44v"
+      ],
+      "count": 17
+    },
+    {
+      "pair": [
+        "f24r",
+        "f50v"
+      ],
+      "count": 15
+    },
+    {
+      "pair": [
+        "f101r",
+        "f33v"
+      ],
+      "count": 15
+    },
+    {
+      "pair": [
+        "f101r",
+        "f22r"
+      ],
+      "count": 14
+    },
+    {
+      "pair": [
+        "f22r",
+        "f36v"
+      ],
+      "count": 12
+    },
+    {
+      "pair": [
+        "f101r",
+        "f24r"
+      ],
+      "count": 11
+    },
+    {
+      "pair": [
+        "f10v",
+        "f36v"
+      ],
+      "count": 11
+    },
+    {
+      "pair": [
+        "f10v",
+        "f90v1"
+      ],
+      "count": 10
+    },
+    {
+      "pair": [
+        "f33v",
+        "f36v"
+      ],
+      "count": 10
+    },
+    {
+      "pair": [
+        "f10v",
+        "f19r"
+      ],
+      "count": 9
+    },
+    {
+      "pair": [
+        "f19r",
+        "f22r"
+      ],
+      "count": 8
+    },
+    {
+      "pair": [
+        "f22r",
+        "f90v1"
+      ],
+      "count": 8
+    },
+    {
+      "pair": [
+        "f33v",
+        "f90v1"
+      ],
+      "count": 8
+    },
+    {
+      "pair": [
+        "f19r",
+        "f33v"
+      ],
+      "count": 7
+    },
+    {
+      "pair": [
+        "f19r",
+        "f24r"
+      ],
+      "count": 7
+    },
+    {
+      "pair": [
+        "f10v",
+        "f39v"
+      ],
+      "count": 7
+    },
+    {
+      "pair": [
+        "f24r",
+        "f36v"
+      ],
+      "count": 6
+    },
+    {
+      "pair": [
+        "f24r",
+        "f90v1"
+      ],
+      "count": 6
+    },
+    {
+      "pair": [
+        "f22r",
+        "f39v"
+      ],
+      "count": 6
+    },
+    {
+      "pair": [
+        "f33v",
+        "f39v"
+      ],
+      "count": 6
+    },
+    {
+      "pair": [
+        "f14r",
+        "f44v"
+      ],
+      "count": 6
+    },
+    {
+      "pair": [
+        "f10v",
+        "f6r"
+      ],
+      "count": 6
+    },
+    {
+      "pair": [
+        "f33v",
+        "f6r"
+      ],
+      "count": 6
+    },
+    {
+      "pair": [
+        "f101r",
+        "f44v"
+      ],
+      "count": 4
+    },
+    {
+      "pair": [
+        "f101r",
+        "f14r"
+      ],
+      "count": 4
+    },
+    {
+      "pair": [
+        "f24r",
+        "f39v"
+      ],
+      "count": 4
+    },
+    {
+      "pair": [
+        "f22r",
+        "f6r"
+      ],
+      "count": 4
+    },
+    {
+      "pair": [
+        "f24r",
+        "f6r"
+      ],
+      "count": 4
+    },
+    {
+      "pair": [
+        "f10v",
+        "f27r"
+      ],
+      "count": 4
+    },
+    {
+      "pair": [
+        "f14r",
+        "f50v"
+      ],
+      "count": 4
+    },
+    {
+      "pair": [
+        "f10v",
+        "f26r"
+      ],
+      "count": 3
+    },
+    {
+      "pair": [
+        "f22r",
+        "f26r"
+      ],
+      "count": 3
+    },
+    {
+      "pair": [
+        "f26r",
+        "f33v"
+      ],
+      "count": 3
+    }
+  ],
+  "orphan_folios": [
+    "f100r",
+    "f100v",
+    "f101v",
+    "f102r1",
+    "f102r2",
+    "f102v1",
+    "f102v2",
+    "f11v",
+    "f13r",
+    "f13v",
+    "f14v",
+    "f15r",
+    "f15v",
+    "f16r",
+    "f16v",
+    "f17r",
+    "f17v",
+    "f18r",
+    "f18v",
+    "f19v",
+    "f1r",
+    "f1v",
+    "f20r",
+    "f20v",
+    "f21r",
+    "f21v",
+    "f22v",
+    "f23r",
+    "f23v",
+    "f24v",
+    "f25r",
+    "f25v",
+    "f26v",
+    "f27v",
+    "f28r",
+    "f28v",
+    "f29r",
+    "f29v",
+    "f2r",
+    "f2v",
+    "f30r",
+    "f30v",
+    "f31r",
+    "f31v",
+    "f32r",
+    "f32v",
+    "f33r",
+    "f34r",
+    "f34v",
+    "f35r",
+    "f35v",
+    "f36r",
+    "f37r",
+    "f37v",
+    "f38r",
+    "f38v",
+    "f39r",
+    "f3v",
+    "f40r",
+    "f40v",
+    "f41r",
+    "f41v",
+    "f42r",
+    "f42v",
+    "f43r",
+    "f43v",
+    "f44r",
+    "f45r",
+    "f45v",
+    "f46r",
+    "f46v",
+    "f47r",
+    "f48r",
+    "f48v",
+    "f49r",
+    "f4r",
+    "f4v",
+    "f50r",
+    "f51r",
+    "f51v",
+    "f52r",
+    "f52v",
+    "f53r",
+    "f53v",
+    "f54r",
+    "f54v",
+    "f55r",
+    "f55v",
+    "f56r",
+    "f56v",
+    "f57r",
+    "f5r",
+    "f5v",
+    "f6v",
+    "f7r",
+    "f7v",
+    "f87r",
+    "f87v",
+    "f88r",
+    "f88v",
+    "f89r1",
+    "f89r2",
+    "f89v1",
+    "f89v2",
+    "f8r",
+    "f8v",
+    "f90r1",
+    "f90r2",
+    "f90v2",
+    "f93r",
+    "f93v",
+    "f94r",
+    "f94v",
+    "f95r1",
+    "f95r2",
+    "f95v1",
+    "f95v2",
+    "f96r",
+    "f96v",
+    "f99r",
+    "f99v",
+    "f9r",
+    "f9v"
+  ],
+  "n_referenced": 20,
+  "n_orphans": 123
+}

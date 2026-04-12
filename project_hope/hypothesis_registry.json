@@ -1,0 +1,1211 @@
+{
+  "_meta": {
+    "description": "Hypothesis registry for VMS decoding",
+    "principle": "Accumulate evidence FOR and AGAINST. Nothing deleted.",
+    "sessions": "10-17",
+    "last_updated": "2026-04-12"
+  },
+  "confirmed_ingredients": {
+    "cth": {
+      "latin": "acetum",
+      "english": "vinegar",
+      "confidence": 0.9,
+      "evidence_for": [
+        "fingerprint_unique_6anchors",
+        "found_on_f48v_Ruta",
+        "daly_fuzzy_support"
+      ],
+      "evidence_against": [],
+      "session_confirmed": 13
+    },
+    "yk": {
+      "latin": "mel",
+      "english": "honey",
+      "confidence": 0.9,
+      "evidence_for": [
+        "fingerprint_unique_6anchors",
+        "found_on_f48v_Ruta"
+      ],
+      "evidence_against": [
+        "was_candidate_for_aqua_15pct"
+      ],
+      "session_confirmed": 13
+    },
+    "cht": {
+      "latin": "piper",
+      "english": "pepper",
+      "confidence": 0.9,
+      "evidence_for": [
+        "fingerprint_unique_macer77_f48v+f28r"
+      ],
+      "evidence_against": [
+        "was_plantaginis_with_6anchors"
+      ],
+      "session_confirmed": 14
+    },
+    "shocthy": {
+      "latin": "mastix",
+      "english": "mastic",
+      "confidence": 0.9,
+      "evidence_for": [
+        "fingerprint_unique_100anchors_f29r+f25r"
+      ],
+      "evidence_against": [],
+      "session_confirmed": 14
+    },
+    "shotch": {
+      "latin": "nigella",
+      "english": "black cumin",
+      "confidence": 0.9,
+      "evidence_for": [
+        "fingerprint_unique_100anchors_f29v+f50v"
+      ],
+      "evidence_against": [],
+      "session_confirmed": 14
+    },
+    "chk": {
+      "latin": "oleum",
+      "english": "oil",
+      "confidence": 0.8,
+      "evidence_for": [
+        "triangulation_exclusive_f48v+f9v+f41r"
+      ],
+      "evidence_against": [],
+      "session_confirmed": 14
+    },
+    "otoly": {
+      "latin": "sal",
+      "english": "salt",
+      "confidence": 0.7,
+      "evidence_for": [
+        "triangulation_exclusive_f48v+f37r"
+      ],
+      "evidence_against": [],
+      "session_confirmed": 14
+    }
+  },
+  "plant_names": {
+    "pcheod": {
+      "latin": "ruta",
+      "folio": "f48v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood_macer"
+    },
+    "foch": {
+      "latin": "viola",
+      "folio": "f9v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood_macer"
+    },
+    "pos": {
+      "latin": "lactuca",
+      "folio": "f29r",
+      "confidence": 0.6,
+      "method": "first_word_sherwood_macer"
+    },
+    "tsho": {
+      "latin": "apium",
+      "folio": "f44v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood_macer"
+    },
+    "posho": {
+      "latin": "salvia",
+      "folio": "f51v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood_macer"
+    },
+    "tedo": {
+      "latin": "crocus",
+      "folio": "f39r",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "tocph": {
+      "latin": "mentha",
+      "folio": "f37r",
+      "confidence": 0.6,
+      "method": "first_word_sherwood_macer"
+    },
+    "keered": {
+      "latin": "coriandrum",
+      "folio": "f41v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood_macer"
+    },
+    "pchod": {
+      "latin": "aristolochia",
+      "folio": "f28r",
+      "confidence": 0.6,
+      "method": "first_word_sherwood_macer"
+    },
+    "pched": {
+      "latin": "lens",
+      "folio": "f26v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "do": {
+      "latin": "gentiana",
+      "folio": "f50v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "chod": {
+      "latin": "symphytum",
+      "folio": "f8v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "keed": {
+      "latin": "erigeron",
+      "folio": "f31r",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "fch": {
+      "latin": "veronica",
+      "folio": "f32r",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "ko": {
+      "latin": "lonicera",
+      "folio": "f13v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "ksh": {
+      "latin": "rhododendron",
+      "folio": "f28v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "told": {
+      "latin": "dictamnus",
+      "folio": "f21v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "och": {
+      "latin": "drosera",
+      "folio": "f56r",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "tsh": {
+      "latin": "sonchus",
+      "folio": "f15r",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "pcho": {
+      "latin": "scorzonera",
+      "folio": "f14r",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "pod": {
+      "latin": "valeriana",
+      "folio": "f31v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "po": {
+      "latin": "inula",
+      "folio": "f46v",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    },
+    "kcho": {
+      "latin": "arnica",
+      "folio": "f5r",
+      "confidence": 0.6,
+      "method": "first_word_sherwood"
+    }
+  },
+  "unknown_targets": {
+    "aqua": {
+      "attempts": [
+        {
+          "candidate": "aiin",
+          "method": "alignment",
+          "result": "15%",
+          "status": "eliminated",
+          "session": 13
+        },
+        {
+          "candidate": "qok",
+          "method": "co_occurrence",
+          "result": "Zipf p=0.92",
+          "status": "eliminated",
+          "session": 13
+        },
+        {
+          "candidate": null,
+          "method": "triangulation",
+          "result": "6/10 folios=too ubiquitous",
+          "status": "no_candidate",
+          "session": 14
+        },
+        {
+          "candidate": "ypch",
+          "method": "macer_fingerprint_16anchors",
+          "result": "J=0.50, TP=4/6, FP=2",
+          "status": "probable",
+          "session": 16
+        }
+      ]
+    },
+    "succus": {
+      "attempts": [
+        {
+          "candidate": null,
+          "method": "triangulation",
+          "result": "8/10 folios",
+          "status": "no_candidate",
+          "session": 14
+        }
+      ]
+    },
+    "vinum": {
+      "attempts": [
+        {
+          "candidate": null,
+          "method": "triangulation",
+          "result": "8/10 folios",
+          "status": "no_candidate",
+          "session": 14
+        }
+      ]
+    },
+    "lac": {
+      "attempts": []
+    },
+    "rosa": {
+      "attempts": []
+    },
+    "faba": {
+      "attempts": []
+    },
+    "ovum": {
+      "attempts": []
+    }
+  },
+  "eliminated_global": [
+    {
+      "hypothesis": "letter_substitution",
+      "reason": "volvelle score=0.00",
+      "session": 12
+    },
+    {
+      "hypothesis": "f_p_variants",
+      "reason": "permutation p=1.0",
+      "session": 13
+    },
+    {
+      "hypothesis": "AN_recodification",
+      "reason": "Zipf artifact p=0.92",
+      "session": 13
+    },
+    {
+      "hypothesis": "icount_doses",
+      "reason": "i2=81% herbal, ratio inversé",
+      "session": 14
+    },
+    {
+      "hypothesis": "encoding_has_phonetic_logic",
+      "reason": "0-12% match on all tests",
+      "session": 14
+    },
+    {
+      "hypothesis": "che=caro(flesh)",
+      "reason": "che appears in 80% of all folios. Too ubiquitous to be an ingredient. Reclassified as FUNCTIONAL.",
+      "session": 15
+    }
+  ],
+  "structural_facts": {
+    "gallows_88pct_initial": {
+      "p": 0.0,
+      "confirmed": true
+    },
+    "am_terminator_72pct": {
+      "enrichment": 5.3,
+      "confirmed": true
+    },
+    "n_end_98pct": {
+      "confirmed": true
+    },
+    "q_start_99pct": {
+      "confirmed": true
+    },
+    "volvelle_alphabet": {
+      "p": 0.00016,
+      "confirmed": true
+    },
+    "macer_best_match": {
+      "score": 1.61,
+      "confirmed": true
+    },
+    "pharma_compounds": {
+      "description": "prefix+root+suffix",
+      "confirmed": true
+    },
+    "kt_hot_cold": {
+      "p": "N/A",
+      "confirmed": false,
+      "trend": "k=cold t=hot",
+      "session_16_ratio": {
+        "result": "WRONG DIRECTION for k/t ratio",
+        "detail": "hot_plant(origanum)_has_most_k=0.820, cold_mean=0.548",
+        "verdict": "k/t RATIO does not encode galenic quality"
+      },
+      "session_16_oty": {
+        "result": "oty=COLD MARKER in lines 1-3",
+        "p": 0.023,
+        "detail": "5/9 cold folios have oty in L1-3, vs 1/13 hot. Fisher exact p=0.023",
+        "enrichment": "7.2x cold vs hot",
+        "hypothesis": "oty terminates cold-quality declaration in opening lines",
+        "confirmed": true
+      },
+      "session_16_cthor": {
+        "result": "cthor trend cold (p=0.067)",
+        "detail": "1/13 hot, 4/9 cold in L1-3"
+      },
+      "session_16_om": {
+        "result": "-om suffix trend cold (p=0.064)",
+        "detail": "2/13 hot, 5/9 cold across folio"
+      },
+      "session_16_hot_only_roots": {
+        "chckhy": "5 hot folios, 0 cold",
+        "chckh": "5 hot folios, 0 cold",
+        "cheky": "4 hot folios, 0 cold"
+      },
+      "session_17_expanded": {
+        "result": "WEAKENED — not significant with 29 plants",
+        "combined_p": 0.1657,
+        "hot_oty": "2/15 = 13%",
+        "cold_oty": "5/14 = 36%",
+        "enrichment": "2.7x (was 7.2x with 22 plants)",
+        "verdict": "Still a TREND (2.7x) but not statistically significant. 5 new cold plants (ribes, pulmonaria, anagallis, spinacia, nymphaea) do NOT have oty in L1-3."
+      },
+      "session_17_plant_suffix": {
+        "result": "Plant name suffix -or/-al = COLD (p=0.005)",
+        "detail": "6/14 cold plants end in -or or -al, 0/16 hot plants do",
+        "p_value": 0.005,
+        "cold_examples": "fochor(viola), parchor(ribes), pchor(anagallis), ksor(spinacia), keeredal(coriandrum), pykydal(atriplex)",
+        "hot_counter": "0/16 hot plants end in -or or -al",
+        "confirmed": true,
+        "implication": "Galenic quality IS encoded — in the plant name suffix, not in a separate word or k/t ratio",
+        "note": "This is stronger than oty(p=0.166) and k/t ratio(wrong direction). The pharmacist added -or/-al to cold plant codes."
+      },
+      "circa_instans_test": {
+        "result": "p=0.386 — NOT SIGNIFICANT with CI qualities",
+        "detail": "-or/-al: 1 cold (viola), 1 hot (coriandrum). 4 CI-cold, 15 CI-hot total.",
+        "conflict": "Coriandrum = frigidus in Macer, calidum in Circa Instans",
+        "verdict": "Suffix finding depends on which quality source is used. NOT robust across sources.",
+        "session": "17-18"
+      }
+    },
+    "vms_sections": {
+      "herbal_a": 111,
+      "herbal_b": 32,
+      "pharma": 24,
+      "balnea": 20,
+      "cosmo": 22,
+      "astro": 10,
+      "bio": 6,
+      "volvelle": 1,
+      "total": 226,
+      "confirmed": true
+    },
+    "pharma_openers_plant_roots": {
+      "description": "53% of pharma block openers contain a known plant root",
+      "matched": 154,
+      "total": 286,
+      "plants_with_macer": 5,
+      "bridged_recipes": 31,
+      "confirmed": true,
+      "session": 17
+    },
+    "short_root_noise": {
+      "description": "23 roots of 2-3 chars inflate decode rates by +23pp",
+      "strict_rate": "13% (roots >= 4 chars)",
+      "lenient_rate": "36% (all roots)",
+      "noise_roots": [
+        "ke",
+        "ko",
+        "po",
+        "do"
+      ],
+      "real_short_roots": [
+        "chk",
+        "cht",
+        "yk",
+        "dsh",
+        "olk",
+        "pod",
+        "ych"
+      ],
+      "confirmed": true,
+      "session": 17
+    },
+    "decisive_attack_s17": {
+      "description": "Macer constraint on 31 bridged recipes",
+      "result": "31 unique solutions, BUT 25 map to vinum, 6 to succus",
+      "interpretation": "Ubiquitous ingredients (vinum 12/16, succus 9/16 chapters) contaminate intersection",
+      "useful_finding": "ched=vinum(64% pharma) and opch=succus(44% pharma) are best candidates by pharma-specificity",
+      "lesson": "Constraint intersection works for RARE ingredients, not ubiquitous ones",
+      "session": 17
+    },
+    "death_match_f48v": {
+      "description": "Positional alignment f48v(Ruta) x Macer Ruta chapter",
+      "method": "50 Macer words mapped by position (0-1), 10 VMS anchors for calibration",
+      "mean_offset": -0.013,
+      "result": "Reading of f48v lines 8-11 matches Macer Ruta content",
+      "line10": "MEL + PIPER + trita(ground) + ACETUM + melle = oxymel piperé (confirmed)",
+      "line11": "NITRUM + ventrem(belly) + MEL + stomachum(stomach)",
+      "line8": "ruta + OLEUM + ruta + MEL + SAL + matricis(womb)",
+      "pharmaceutical_coherence": "All readings match Macer Ruta chapter content exactly",
+      "new_hypotheses": {
+        "kaly_tok": "position of matricis → womb/uterus",
+        "cheedls_sary": "position of stomachum → stomach",
+        "otsh_tchd": "position of succo/succus → juice",
+        "shef": "position of sale → salt (independently confirms otoly=sal)"
+      },
+      "session": 17,
+      "confirmed": true
+    },
+    "death_match_assessment": {
+      "total_anchors": 25,
+      "tier1_confirmed": 6,
+      "tier2_solid": 4,
+      "tier3_uncertain": 15,
+      "risks": [
+        "positional_bias: non-linear VMS↔Macer mapping",
+        "verb_inflation: verbs everywhere in Macer text",
+        "weak_crossval: only 2 folios required",
+        "circularity: errors propagate through iterations",
+        "no_independent_verification_for_verbs_body_disease"
+      ],
+      "session": 17,
+      "validation": {
+        "method": "distributional_context_independent_of_positional_alignment",
+        "PASS_to_tier2": [
+          "chy=caput",
+          "cho=febris",
+          "chek=dolor",
+          "cheky=venenum",
+          "dal=vinum",
+          "dary=vinum",
+          "qokeo=rosa"
+        ],
+        "MIXED_stay_tier3": [
+          "otch=trita",
+          "qoty=sumere",
+          "alch=decoctio",
+          "chod=jungere",
+          "kch=sumere",
+          "chot=decoctio",
+          "chcthy=superaddere"
+        ],
+        "FAIL_eliminate": [
+          "cthy=superaddere (94% herbal, 0% pharma)"
+        ],
+        "key_finding": "dal=vinum fingerprint TP=4 FP=0 precision=100%",
+        "verbs_assessment": "All verbs pass pharma test but FAIL ingredient-context test. May not be verbs."
+      }
+    },
+    "propagation_v2": {
+      "result": "1 new assignment: f48r→Ruta (score=171, margin=58)",
+      "new_roots": "chy=mel and otch=succus BUT both conflict with death match",
+      "conflicts_identified": [
+        "chy: caput vs mel → probably functional",
+        "otch: trita vs succus → probably functional"
+      ],
+      "verdict": "Propagation too conservative with 12 ingredient anchors. Most folios have margin=0.",
+      "session": 17
+    },
+    "propagation_v3": {
+      "result": "+2 folios (f43v, f48r → Ruta). Score=175, margin=52.",
+      "key_improvement": "Plant names as cross-reference anchors (8 plant roots)",
+      "total_assigned": 18,
+      "blocker": "Only 19 anchors cover 35% of 54 Macer items. Need 38+ to discriminate.",
+      "next_step": "Death match on new folios + extend to Avicenna (257 items vs 54)",
+      "session": 17
+    },
+    "multicorpus_death_match": {
+      "result": "0 agreements between Macer and Collectio death match",
+      "disagree": {
+        "cho": "febris/aqua",
+        "cthy": "superaddere/mel",
+        "kch": "bibere/acetum",
+        "chek": "dolor/feniculum"
+      },
+      "interpretation": "Death match positional alignment produces NOISE for common roots. Cross-corpus validation ESSENTIAL.",
+      "lesson": "Only use death match mappings confirmed by 2+ independent methods",
+      "session": 17
+    },
+    "circa_instans_resource": {
+      "description": "S02_CI.json = Circa Instans (Platearius c.1150), 141 plants with galenic qualities",
+      "fields": "name_latin, name_old_french, name_french, galenic_thermal, galenic_thermal_deg, galenic_moisture, galenic_moisture_deg",
+      "use": "Best source for galenic qualities (all 141 entries have them)",
+      "session": "17-18"
+    },
+    "vms_is_catalogue": {
+      "description": "VMS is a personal pharmacopoeia/catalogue, not a copy of any single text",
+      "evidence": [
+        "herbal: 2 blocks/folio = 1 plant per page (catalogue entry)",
+        "pharma: 12 blocks/folio = multiple recipes per page (formulary)",
+        "balnea: 5 blocks/folio = bath entries",
+        "structure matches Circa Instans/Galen format, not Macer poem format"
+      ],
+      "implication": [
+        "Death match positional alignment assumes same text order = WRONG for catalogue",
+        "Should match ENTRIES not linear text",
+        "Content is compiled from MULTIPLE sources, not copied from one"
+      ],
+      "session": "17-18"
+    }
+  },
+  "next_actions": "See session_17 results and PLAN_SESSION_18",
+  "session_16_discoveries": {
+    "pharma_openers_contain_plant_roots": {
+      "finding": "27% of pharma block openers contain a known plant root as substring",
+      "structure": "[gallows_prefix] + [plant_root] + [suffix]",
+      "examples": "pchedal=p+pched(lens)+al, podar=pod(valeriana)+ar, tshdol=tsh(sonchus)+dol",
+      "implication": "Pharma recipes ARE named by their plant, encoded same as herbal but with gallows prefix",
+      "p_initial": "54% start with p, 21% with t, 6% with k, 5% with f",
+      "confirmed": true,
+      "session": 16
+    },
+    "star_colors_not_gallows": {
+      "finding": "f103r star colors (R/V) do NOT correlate with opener gallows",
+      "RED_openers": {
+        "p": 4,
+        "q": 3
+      },
+      "GREEN_openers": {
+        "p": 5,
+        "d": 2,
+        "t": 2,
+        "q": 2
+      },
+      "recipe_size_similar": "RED mean=31 words, GREEN mean=28",
+      "status": "star color encoding unknown",
+      "session": 16
+    },
+    "cosmo_astro_labels": {
+      "finding": "372 unique single-word labels in astro/cosmo folios",
+      "mostly_unique": "326/372 appear only once",
+      "no_overlap_herbal": "Only 1 overlap with herbal first-words",
+      "pattern": "Short labels around circular diagrams, likely independent vocabulary",
+      "session": 16
+    },
+    "f116v_colophon": {
+      "finding": "Last pharma folio f116v has only 2 words: oror sheey",
+      "hypothesis": "Colophon, end marker, or incomplete page",
+      "session": 16
+    }
+  },
+  "probable_ingredients": {
+    "teod": {
+      "latin": "i_materia",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15
+    },
+    "cheos": {
+      "latin": "i_materia",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15
+    },
+    "chek": {
+      "latin": "i_materia",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15
+    },
+    "chety": {
+      "latin": "i_aurum",
+      "confidence": 0.7,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15
+    },
+    "olk": {
+      "latin": "i_plantaginis",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15
+    },
+    "tchd": {
+      "latin": "i_plantaginis",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15
+    },
+    "chd": {
+      "latin": "i_plantaginis",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15
+    },
+    "shy": {
+      "latin": "i_caro",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15,
+      "status": "ELIMINATED",
+      "reason": "Root appears in 80% of folios = FUNCTIONAL, not ingredient"
+    },
+    "she": {
+      "latin": "i_caro",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15,
+      "status": "ELIMINATED",
+      "reason": "Root appears in 80% of folios = FUNCTIONAL, not ingredient"
+    },
+    "che": {
+      "latin": "i_caro",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15,
+      "status": "ELIMINATED",
+      "reason": "Root appears in 80% of folios = FUNCTIONAL, not ingredient"
+    },
+    "ypch": {
+      "latin": "aqua",
+      "confidence": 0.75,
+      "evidence_for": [
+        "triangulation_MACER",
+        "frappe1_fingerprint_J050_TP4_FP2_16anchors",
+        "attack5_anchor_fingerprint_accuracy81%_precision83%_recall71%"
+      ],
+      "session": 15,
+      "evidence_against": [
+        "was_allium_ABENGUEFIT_single_source"
+      ],
+      "conflict": "session15_said_allium(ABENGUEFIT), session16_says_aqua(Macer_fingerprint_J=0.50). Aqua has stronger evidence."
+    },
+    "yp": {
+      "latin": "i_allium",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15
+    },
+    "oky": {
+      "latin": "i_vesica",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15
+    },
+    "ych": {
+      "latin": "i_vesica",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_MACER"
+      ],
+      "session": 15
+    },
+    "choty": {
+      "latin": "i_myrrha",
+      "confidence": 0.7,
+      "evidence_for": [
+        "triangulation_AVICENNA"
+      ],
+      "session": 15
+    },
+    "choky": {
+      "latin": "i_manus",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_AVICENNA"
+      ],
+      "session": 15
+    },
+    "qoty": {
+      "latin": "i_manus",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_AVICENNA"
+      ],
+      "session": 15
+    },
+    "otch": {
+      "latin": "i_vena",
+      "confidence": 0.7,
+      "evidence_for": [
+        "triangulation_AVICENNA"
+      ],
+      "session": 15
+    },
+    "cthod": {
+      "latin": "i_ren",
+      "confidence": 0.7,
+      "evidence_for": [
+        "triangulation_AVICENNA"
+      ],
+      "session": 15
+    },
+    "sho": {
+      "latin": "i_nitrum",
+      "confidence": 0.7,
+      "evidence_for": [
+        "triangulation_ABENGUEFIT"
+      ],
+      "session": 15
+    },
+    "yd": {
+      "latin": "i_nigella",
+      "confidence": 0.7,
+      "evidence_for": [
+        "triangulation_ABENGUEFIT"
+      ],
+      "session": 15
+    },
+    "ke": {
+      "latin": "i_ruta",
+      "confidence": 0.7,
+      "evidence_for": [
+        "triangulation_ABENGUEFIT"
+      ],
+      "session": 15
+    },
+    "ckhy": {
+      "latin": "i_viola",
+      "confidence": 0.7,
+      "evidence_for": [
+        "triangulation_ABENGUEFIT"
+      ],
+      "session": 15
+    },
+    "ycheoky": {
+      "latin": "i_salvia",
+      "confidence": 0.7,
+      "evidence_for": [
+        "triangulation_ABENGUEFIT"
+      ],
+      "session": 15
+    },
+    "dsh": {
+      "latin": "i_panis",
+      "confidence": 0.7,
+      "evidence_for": [
+        "triangulation_ABENGUEFIT"
+      ],
+      "session": 15
+    },
+    "tch": {
+      "latin": "i_farina",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_ABENGUEFIT"
+      ],
+      "session": 15
+    },
+    "choy": {
+      "latin": "i_farina",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_ABENGUEFIT"
+      ],
+      "session": 15
+    },
+    "qod": {
+      "latin": "i_caro",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_ALPHITA"
+      ],
+      "session": 15,
+      "status": "ELIMINATED",
+      "reason": "Root appears in 80% of folios = FUNCTIONAL, not ingredient"
+    },
+    "dal": {
+      "latin": "i_caro",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_ALPHITA"
+      ],
+      "session": 15,
+      "status": "ELIMINATED",
+      "reason": "Root appears in 80% of folios = FUNCTIONAL, not ingredient"
+    },
+    "shckhy": {
+      "latin": "i_allium",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_ALPHITA"
+      ],
+      "session": 15
+    },
+    "shckh": {
+      "latin": "i_allium",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_ALPHITA"
+      ],
+      "session": 15
+    },
+    "shek": {
+      "latin": "i_cuminum",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_ALPHITA"
+      ],
+      "session": 15
+    },
+    "ykeeo": {
+      "latin": "i_cuminum",
+      "confidence": 0.5,
+      "evidence_for": [
+        "triangulation_ALPHITA"
+      ],
+      "session": 15
+    },
+    "seees": {
+      "latin": "lens",
+      "confidence": 0.75,
+      "evidence_for": [
+        "frappe1_positional_f3v_elleborus",
+        "frappe1_crossfolio_PERFECT_TP1_FP0_FN0"
+      ],
+      "evidence_against": [],
+      "session": 16
+    },
+    "ykeed": {
+      "latin": "nitrum",
+      "confidence": 0.7,
+      "evidence_for": [
+        "frappe1_positional_f48v_ruta",
+        "frappe1_crossfolio_TP1_FP0_FN1"
+      ],
+      "evidence_against": [
+        "only_1_folio_confirmed"
+      ],
+      "session": 16
+    },
+    "kald": {
+      "latin": "ovum",
+      "confidence": 0.65,
+      "evidence_for": [
+        "frappe1_positional_f66v_satureia",
+        "frappe1_crossfolio_TP1_FP0_FN1"
+      ],
+      "evidence_against": [
+        "only_1_folio_confirmed"
+      ],
+      "session": 16
+    },
+    "ched": {
+      "latin": "vinum",
+      "confidence": 0.6,
+      "evidence_for": [
+        "macer_constraint_9recipes_4plants_unique_intersection",
+        "pharma_specific_64pct",
+        "151_occurrences_24pct_folios"
+      ],
+      "evidence_against": [
+        "25_roots_all_map_to_vinum_by_constraint",
+        "could_be_functional_word_not_ingredient"
+      ],
+      "session": 17,
+      "method": "decisive_attack_constraint+pharma_filter",
+      "status": "HYPOTHESIS"
+    },
+    "opch": {
+      "latin": "succus",
+      "confidence": 0.55,
+      "evidence_for": [
+        "macer_constraint_4recipes_2plants_unique_intersection",
+        "pharma_specific_44pct",
+        "132_occurrences_31pct_folios"
+      ],
+      "evidence_against": [
+        "6_roots_all_map_to_succus_by_constraint",
+        "could_be_functional_word_not_ingredient"
+      ],
+      "session": 17,
+      "method": "decisive_attack_constraint+pharma_filter",
+      "status": "HYPOTHESIS"
+    }
+  },
+  "functional_words": {
+    "ch": {
+      "folio_pct": 97,
+      "category": "CONNECTOR",
+      "total": 2290
+    },
+    "sh": {
+      "folio_pct": 89,
+      "category": "FUNCTIONAL",
+      "total": 1476,
+      "note": "51% before dose in pharma"
+    },
+    "ot": {
+      "folio_pct": 85,
+      "category": "CONNECTOR",
+      "total": 1291,
+      "note": "53% after ingredient in pharma"
+    },
+    "ok": {
+      "folio_pct": 84,
+      "category": "CONNECTOR",
+      "total": 1415
+    },
+    "qok": {
+      "folio_pct": 77,
+      "category": "FUNCTIONAL",
+      "total": 2247,
+      "note": "balnea-heavy 40%"
+    },
+    "ol": {
+      "folio_pct": 66,
+      "category": "FUNCTIONAL",
+      "total": 737,
+      "note": "balnea-heavy 40%"
+    },
+    "or": {
+      "folio_pct": 64,
+      "category": "CONNECTOR",
+      "total": 491
+    },
+    "qot": {
+      "folio_pct": 62,
+      "category": "CONNECTOR",
+      "total": 676
+    },
+    "dy": {
+      "folio_pct": 62,
+      "category": "TERMINATOR",
+      "total": 282,
+      "note": "end-heavy pos=0.72"
+    },
+    "aiin": {
+      "folio_pct": 57,
+      "category": "CONNECTOR",
+      "total": 504
+    },
+    "ar": {
+      "folio_pct": 54,
+      "category": "CONNECTOR",
+      "total": 462
+    },
+    "dch": {
+      "folio_pct": 43,
+      "category": "OPENER",
+      "total": 148,
+      "note": "start-heavy"
+    },
+    "tch": {
+      "folio_pct": 38,
+      "category": "OPENER",
+      "total": 132,
+      "note": "start-heavy"
+    },
+    "ych": {
+      "folio_pct": 29,
+      "category": "OPENER",
+      "total": 99,
+      "note": "very start-heavy pos=0.13"
+    },
+    "am": {
+      "folio_pct": 24,
+      "category": "TERMINATOR",
+      "total": 90,
+      "note": "confirmed -am=72% sentence end"
+    },
+    "oty": {
+      "folio_pct": 35,
+      "category": "TERMINATOR",
+      "total": 121,
+      "note": "end-heavy pos=0.68"
+    }
+  },
+  "balnea_vocabulary": {
+    "exclusive_roots": [
+      "qolsh",
+      "qoly",
+      "loly",
+      "salch",
+      "qolky",
+      "lcheckhy",
+      "olksh"
+    ],
+    "enriched_roots": [
+      "rsh",
+      "solch",
+      "qolch",
+      "solsh",
+      "sheckh",
+      "qolk",
+      "olsh",
+      "qol"
+    ],
+    "pattern": "Most balnea roots contain ol/l as substring → ol may be body/bath concept",
+    "n_balnea_folios": 20,
+    "session": 16
+  },
+  "death_match_vocabulary": {
+    "cthy": {
+      "latin": "superaddere",
+      "type": "VERB",
+      "confidence": 0.62,
+      "evidence": "death_match_batch_4folios_31%consistent",
+      "session": 17,
+      "status": "CONFLICTED",
+      "reason": "94% herbal, 0% pharma — not a pharma verb",
+      "cross_corpus": "DISAGREE_Macer_vs_Collectio"
+    },
+    "otch": {
+      "latin": "trita",
+      "type": "VERB",
+      "confidence": 0.61,
+      "evidence": "death_match_batch_3folios_38%consistent",
+      "session": 17,
+      "conflict": {
+        "death_match": "trita",
+        "propagation": "succus",
+        "n_folios": 58,
+        "verdict": "PROBABLY FUNCTIONAL — too common (40% folios), conflicts between methods"
+      },
+      "status": "CONFLICTED"
+    },
+    "chy": {
+      "latin": "caput",
+      "type": "BODY",
+      "confidence": 0.7999999999999999,
+      "evidence": "death_match_batch_2folios_100%consistent",
+      "session": 17,
+      "validation": "PASS_distributional",
+      "conflict": {
+        "death_match": "caput",
+        "propagation": "mel",
+        "n_folios": 70,
+        "verdict": "PROBABLY FUNCTIONAL — too common (49% folios), conflicts between methods"
+      },
+      "status": "CONFLICTED"
+    },
+    "dary": {
+      "latin": "vinum",
+      "type": "INGR",
+      "confidence": 0.7,
+      "evidence": "death_match_batch_2folios_100%consistent",
+      "session": 17
+    },
+    "qoty": {
+      "latin": "sumere",
+      "type": "VERB",
+      "confidence": 0.7,
+      "evidence": "death_match_batch_2folios_100%consistent",
+      "session": 17
+    },
+    "alch": {
+      "latin": "decoctio",
+      "type": "VERB",
+      "confidence": 0.7,
+      "evidence": "death_match_batch_2folios_100%consistent",
+      "session": 17
+    },
+    "cho": {
+      "latin": "febris",
+      "type": "DISEASE",
+      "confidence": 0.73,
+      "evidence": "death_match_batch_2folios_67%consistent",
+      "session": 17,
+      "validation": "PASS_distributional",
+      "cross_corpus": "DISAGREE_Macer_vs_Collectio",
+      "status": "CONFLICTED"
+    },
+    "chek": {
+      "latin": "dolor",
+      "type": "DISEASE",
+      "confidence": 0.6799999999999999,
+      "evidence": "death_match_batch_2folios_40%consistent",
+      "session": 17,
+      "validation": "PASS_distributional",
+      "cross_corpus": "DISAGREE_Macer_vs_Collectio",
+      "status": "CONFLICTED"
+    },
+    "kch": {
+      "latin": "sumere",
+      "type": "VERB",
+      "confidence": 0.58,
+      "evidence": "death_match_iter2_3folios",
+      "session": 17,
+      "cross_corpus": "DISAGREE_Macer_vs_Collectio",
+      "status": "CONFLICTED"
+    },
+    "dal": {
+      "latin": "vinum",
+      "type": "INGR",
+      "confidence": 0.8,
+      "evidence": "death_match_2folios + fingerprint_TP4_FP0_precision100%",
+      "validation": "PASS_fingerprint",
+      "session": 17
+    },
+    "chod": {
+      "latin": "jungere",
+      "type": "VERB",
+      "confidence": 0.63,
+      "evidence": "death_match_iter2_2folios",
+      "session": 17
+    },
+    "cheky": {
+      "latin": "venenum",
+      "type": "DISEASE",
+      "confidence": 0.65,
+      "evidence": "death_match_auto_2folios",
+      "session": 17,
+      "validation": "PASS_distributional"
+    },
+    "qokeo": {
+      "latin": "rosa",
+      "type": "INGR",
+      "confidence": 0.65,
+      "evidence": "death_match_auto_2folios",
+      "session": 17,
+      "validation": "PASS_distributional"
+    },
+    "chot": {
+      "latin": "decoctio",
+      "type": "VERB",
+      "confidence": 0.55,
+      "evidence": "death_match_auto_2folios",
+      "session": 17
+    },
+    "chcthy": {
+      "latin": "superaddere",
+      "type": "VERB",
+      "confidence": 0.55,
+      "evidence": "death_match_auto_2folios",
+      "session": 17
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "n_hot": 13,
+  "n_cold": 9,
+  "hot_enriched_roots_top5": [
+    {
+      "root": "chek",
+      "ratio": 99.0,
+      "hot": 3,
+      "cold": 0
+    },
+    {
+      "root": "ctho",
+      "ratio": 99.0,
+      "hot": 3,
+      "cold": 0
+    },
+    {
+      "root": "cheo",
+      "ratio": 99.0,
+      "hot": 3,
+      "cold": 0
+    },
+    {
+      "root": "shckhy",
+      "ratio": 99.0,
+      "hot": 3,
+      "cold": 0
+    },
+    {
+      "root": "cheky",
+      "ratio": 99.0,
+      "hot": 4,
+      "cold": 0
+    }
+  ],
+  "cold_enriched_roots_top5": [
+    {
+      "root": "qoky",
+      "ratio": 0.01,
+      "hot": 0,
+      "cold": 4
+    },
+    {
+      "root": "pch",
+      "ratio": 0.01,
+      "hot": 0,
+      "cold": 3
+    },
+    {
+      "root": "ty",
+      "ratio": 0.1730769230769231,
+      "hot": 1,
+      "cold": 4
+    },
+    {
+      "root": "ofch",
+      "ratio": 0.23076923076923078,
+      "hot": 1,
+      "cold": 3
+    },
+    {
+      "root": "che",
+      "ratio": 0.3461538461538462,
+      "hot": 1,
+      "cold": 2
+    }
+  ]
+}

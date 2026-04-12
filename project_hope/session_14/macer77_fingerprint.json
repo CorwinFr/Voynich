@@ -1,0 +1,35 @@
+{
+  "n_anchors": 19,
+  "fp_size": 19,
+  "n_root_fps": 135,
+  "n_ingr_fps": 17,
+  "unique_matches": [
+    {
+      "root": "cht",
+      "ingredient": "I_piper",
+      "n_folios": 2,
+      "folios": [
+        "f48v",
+        "f28r"
+      ],
+      "freq": 36
+    }
+  ],
+  "strong_matches": [],
+  "fuzzy_matches": [
+    {
+      "root": "daly",
+      "ingredient": "I_oleum",
+      "root_folios": 4,
+      "ingr_folios": 3
+    }
+  ],
+  "all_decoded": {
+    "cht": {
+      "latin": "I_piper",
+      "confidence": "confirmed",
+      "n_folios": 2,
+      "freq": 36
+    }
+  }
+}

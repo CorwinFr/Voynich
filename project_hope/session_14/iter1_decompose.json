@@ -1,0 +1,604 @@
+{
+  "total_pharma": 9935,
+  "decomposed": 1175,
+  "failed": 8760,
+  "decompose_rate": 0.118,
+  "top_prefixes": {
+    "": 419,
+    "qo": 264,
+    "o": 166,
+    "ch": 62,
+    "l": 59,
+    "che": 27,
+    "ol": 24,
+    "y": 20,
+    "sh": 13,
+    "q": 13,
+    "cho": 12,
+    "she": 7,
+    "chol": 5,
+    "al": 5,
+    "p": 4,
+    "t": 4,
+    "ot": 3,
+    "shol": 3,
+    "shee": 3,
+    "tche": 3
+  },
+  "top_suffixes": {
+    "y": 489,
+    "": 68,
+    "l": 64,
+    "edy": 53,
+    "r": 47,
+    "aiin": 45,
+    "ey": 38,
+    "ar": 33,
+    "dy": 29,
+    "eey": 26,
+    "ain": 23,
+    "al": 22,
+    "eody": 8,
+    "eol": 8,
+    "laiin": 8,
+    "air": 8,
+    "ol": 5,
+    "ody": 5,
+    "hy": 5,
+    "or": 5
+  },
+  "top_roots_in_pharma": {
+    "keed": 349,
+    "cth": 113,
+    "pched": 101,
+    "yk": 82,
+    "ko": 69,
+    "chod": 60,
+    "fch": 47,
+    "po": 46,
+    "ksh": 44,
+    "do": 44,
+    "och": 35,
+    "tsh": 26,
+    "pcho": 20,
+    "kcho": 16,
+    "por": 15,
+    "pcheod": 13,
+    "pshe": 12,
+    "kcheod": 10,
+    "kod": 10,
+    "pchod": 10,
+    "cphy": 9,
+    "fo": 8,
+    "pod": 6,
+    "tsho": 5,
+    "tshd": 4,
+    "tedo": 3,
+    "psh": 3,
+    "poly": 2,
+    "pos": 2,
+    "shotch": 2
+  },
+  "examples": {
+    "pched": [
+      {
+        "eva": "pchedal",
+        "prefix": "",
+        "suffix": "al"
+      },
+      {
+        "eva": "opchedy",
+        "prefix": "o",
+        "suffix": "y"
+      },
+      {
+        "eva": "pchedy",
+        "prefix": "",
+        "suffix": "y"
+      },
+      {
+        "eva": "opchedy",
+        "prefix": "o",
+        "suffix": "y"
+      },
+      {
+        "eva": "opchedy",
+        "prefix": "o",
+        "suffix": "y"
+      }
+    ],
+    "och": [
+      {
+        "eva": "pocharal",
+        "prefix": "p",
+        "suffix": "aral"
+      },
+      {
+        "eva": "ocheey",
+        "prefix": "",
+        "suffix": "eey"
+      },
+      {
+        "eva": "qochey",
+        "prefix": "q",
+        "suffix": "ey"
+      },
+      {
+        "eva": "oteeochey",
+        "prefix": "otee",
+        "suffix": "ey"
+      },
+      {
+        "eva": "qocheol",
+        "prefix": "q",
+        "suffix": "eol"
+      }
+    ],
+    "keed": [
+      {
+        "eva": "okeedy",
+        "prefix": "o",
+        "suffix": "y"
+      },
+      {
+        "eva": "okeedaram",
+        "prefix": "o",
+        "suffix": "aram"
+      },
+      {
+        "eva": "keedy",
+        "prefix": "",
+        "suffix": "y"
+      },
+      {
+        "eva": "keedy",
+        "prefix": "",
+        "suffix": "y"
+      },
+      {
+        "eva": "qokeedy",
+        "prefix": "qo",
+        "suffix": "y"
+      }
+    ],
+    "cth": [
+      {
+        "eva": "shcthy",
+        "prefix": "sh",
+        "suffix": "y"
+      },
+      {
+        "eva": "chcthy",
+        "prefix": "ch",
+        "suffix": "y"
+      },
+      {
+        "eva": "checthy",
+        "prefix": "che",
+        "suffix": "y"
+      },
+      {
+        "eva": "chcthy",
+        "prefix": "ch",
+        "suffix": "y"
+      },
+      {
+        "eva": "shcthy",
+        "prefix": "sh",
+        "suffix": "y"
+      }
+    ],
+    "pod": [
+      {
+        "eva": "podar",
+        "prefix": "",
+        "suffix": "ar"
+      },
+      {
+        "eva": "podaroar",
+        "prefix": "",
+        "suffix": "aroar"
+      },
+      {
+        "eva": "podshedy",
+        "prefix": "",
+        "suffix": "shedy"
+      },
+      {
+        "eva": "ypodaiin",
+        "prefix": "y",
+        "suffix": "aiin"
+      },
+      {
+        "eva": "podkor",
+        "prefix": "",
+        "suffix": "kor"
+      }
+    ],
+    "tshd": [
+      {
+        "eva": "tshdy",
+        "prefix": "",
+        "suffix": "y"
+      },
+      {
+        "eva": "qotshdy",
+        "prefix": "qo",
+        "suffix": "y"
+      },
+      {
+        "eva": "tshdol",
+        "prefix": "",
+        "suffix": "ol"
+      },
+      {
+        "eva": "qotshdy",
+        "prefix": "qo",
+        "suffix": "y"
+      }
+    ],
+    "yk": [
+      {
+        "eva": "oteeykshy",
+        "prefix": "otee",
+        "suffix": "shy"
+      },
+      {
+        "eva": "ykeey",
+        "prefix": "",
+        "suffix": "eey"
+      },
+      {
+        "eva": "ykeey",
+        "prefix": "",
+        "suffix": "eey"
+      },
+      {
+        "eva": "ykeey",
+        "prefix": "",
+        "suffix": "eey"
+      },
+      {
+        "eva": "sheykain",
+        "prefix": "she",
+        "suffix": "ain"
+      }
+    ],
+    "ko": [
+      {
+        "eva": "okool",
+        "prefix": "o",
+        "suffix": "ol"
+      },
+      {
+        "eva": "chekoal",
+        "prefix": "che",
+        "suffix": "al"
+      },
+      {
+        "eva": "qokol",
+        "prefix": "qo",
+        "suffix": "l"
+      },
+      {
+        "eva": "qokoeey",
+        "prefix": "qo",
+        "suffix": "eey"
+      },
+      {
+        "eva": "chokor",
+        "prefix": "cho",
+        "suffix": "r"
+      }
+    ],
+    "ksh": [
+      {
+        "eva": "qokshy",
+        "prefix": "qo",
+        "suffix": "y"
+      },
+      {
+        "eva": "qokshdy",
+        "prefix": "qo",
+        "suffix": "dy"
+      },
+      {
+        "eva": "qokshy",
+        "prefix": "qo",
+        "suffix": "y"
+      },
+      {
+        "eva": "otalkshedy",
+        "prefix": "otal",
+        "suffix": "edy"
+      },
+      {
+        "eva": "okshey",
+        "prefix": "o",
+        "suffix": "ey"
+      }
+    ],
+    "tsh": [
+      {
+        "eva": "tshey",
+        "prefix": "",
+        "suffix": "ey"
+      },
+      {
+        "eva": "otshedy",
+        "prefix": "o",
+        "suffix": "edy"
+      },
+      {
+        "eva": "tshedar",
+        "prefix": "",
+        "suffix": "edar"
+      },
+      {
+        "eva": "qotsheod",
+        "prefix": "qo",
+        "suffix": "eod"
+      },
+      {
+        "eva": "tsheodl",
+        "prefix": "",
+        "suffix": "eodl"
+      }
+    ],
+    "po": [
+      {
+        "eva": "polarar",
+        "prefix": "",
+        "suffix": "larar"
+      },
+      {
+        "eva": "pol",
+        "prefix": "",
+        "suffix": "l"
+      },
+      {
+        "eva": "pol",
+        "prefix": "",
+        "suffix": "l"
+      },
+      {
+        "eva": "pol",
+        "prefix": "",
+        "suffix": "l"
+      },
+      {
+        "eva": "polshor",
+        "prefix": "",
+        "suffix": "lshor"
+      }
+    ],
+    "fch": [
+      {
+        "eva": "olfchey",
+        "prefix": "ol",
+        "suffix": "ey"
+      },
+      {
+        "eva": "fcheody",
+        "prefix": "",
+        "suffix": "eody"
+      },
+      {
+        "eva": "fchedy",
+        "prefix": "",
+        "suffix": "edy"
+      },
+      {
+        "eva": "fchedey",
+        "prefix": "",
+        "suffix": "edey"
+      },
+      {
+        "eva": "fchor",
+        "prefix": "",
+        "suffix": "or"
+      }
+    ],
+    "pcho": [
+      {
+        "eva": "pchor",
+        "prefix": "",
+        "suffix": "r"
+      },
+      {
+        "eva": "pchol",
+        "prefix": "",
+        "suffix": "l"
+      },
+      {
+        "eva": "pchol",
+        "prefix": "",
+        "suffix": "l"
+      },
+      {
+        "eva": "pcholor",
+        "prefix": "",
+        "suffix": "lor"
+      },
+      {
+        "eva": "pchoror",
+        "prefix": "",
+        "suffix": "ror"
+      }
+    ],
+    "por": [
+      {
+        "eva": "por",
+        "prefix": "",
+        "suffix": ""
+      },
+      {
+        "eva": "chpor",
+        "prefix": "ch",
+        "suffix": ""
+      },
+      {
+        "eva": "porair",
+        "prefix": "",
+        "suffix": "air"
+      },
+      {
+        "eva": "porarchy",
+        "prefix": "",
+        "suffix": "archy"
+      },
+      {
+        "eva": "poral",
+        "prefix": "",
+        "suffix": "al"
+      }
+    ],
+    "poly": [
+      {
+        "eva": "poly",
+        "prefix": "",
+        "suffix": ""
+      },
+      {
+        "eva": "poly",
+        "prefix": "",
+        "suffix": ""
+      }
+    ],
+    "chod": [
+      {
+        "eva": "dchodees",
+        "prefix": "d",
+        "suffix": "ees"
+      },
+      {
+        "eva": "chodaiin",
+        "prefix": "",
+        "suffix": "aiin"
+      },
+      {
+        "eva": "chody",
+        "prefix": "",
+        "suffix": "y"
+      },
+      {
+        "eva": "lchody",
+        "prefix": "l",
+        "suffix": "y"
+      },
+      {
+        "eva": "tchodls",
+        "prefix": "t",
+        "suffix": "ls"
+      }
+    ],
+    "fo": [
+      {
+        "eva": "cholfor",
+        "prefix": "chol",
+        "suffix": "r"
+      },
+      {
+        "eva": "ofory",
+        "prefix": "o",
+        "suffix": "ry"
+      },
+      {
+        "eva": "fodal",
+        "prefix": "",
+        "suffix": "dal"
+      },
+      {
+        "eva": "alfo",
+        "prefix": "al",
+        "suffix": ""
+      },
+      {
+        "eva": "ofoiir",
+        "prefix": "o",
+        "suffix": "iir"
+      }
+    ],
+    "kcho": [
+      {
+        "eva": "okcho",
+        "prefix": "o",
+        "suffix": ""
+      },
+      {
+        "eva": "qokchol",
+        "prefix": "qo",
+        "suffix": "l"
+      },
+      {
+        "eva": "olkchokeedy",
+        "prefix": "ol",
+        "suffix": "keedy"
+      },
+      {
+        "eva": "okcho",
+        "prefix": "o",
+        "suffix": ""
+      },
+      {
+        "eva": "qokcho",
+        "prefix": "qo",
+        "suffix": ""
+      }
+    ],
+    "pshe": [
+      {
+        "eva": "psheody",
+        "prefix": "",
+        "suffix": "ody"
+      },
+      {
+        "eva": "psheodar",
+        "prefix": "",
+        "suffix": "odar"
+      },
+      {
+        "eva": "olpshedy",
+        "prefix": "ol",
+        "suffix": "dy"
+      },
+      {
+        "eva": "psheodalo",
+        "prefix": "",
+        "suffix": "odalo"
+      },
+      {
+        "eva": "qopshedy",
+        "prefix": "qo",
+        "suffix": "dy"
+      }
+    ],
+    "kcheod": [
+      {
+        "eva": "kcheody",
+        "prefix": "",
+        "suffix": "y"
+      },
+      {
+        "eva": "qokcheodaiin",
+        "prefix": "qo",
+        "suffix": "aiin"
+      },
+      {
+        "eva": "kcheody",
+        "prefix": "",
+        "suffix": "y"
+      },
+      {
+        "eva": "kcheodar",
+        "prefix": "",
+        "suffix": "ar"
+      },
+      {
+        "eva": "okcheody",
+        "prefix": "o",
+        "suffix": "y"
+      }
+    ]
+  }
+}

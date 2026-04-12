@@ -1,0 +1,3313 @@
+{
+  "n_targets": 11,
+  "n_results": 10,
+  "n_cross_validated": 9,
+  "results": [
+    {
+      "fid": "f9v",
+      "chapter": "Violae",
+      "n_anchors": 9,
+      "mean_offset": 0.048,
+      "n_matches": 34,
+      "matches": [
+        {
+          "root": "foch",
+          "eva": "fochor",
+          "vms_pos": 0.0,
+          "macer_word": "rosa",
+          "macer_type": "INGR",
+          "distance": 0.0493
+        },
+        {
+          "root": "oporo",
+          "eva": "oporody",
+          "vms_pos": 0.012,
+          "macer_word": "rosa",
+          "macer_type": "INGR",
+          "distance": 0.0377
+        },
+        {
+          "root": "opy",
+          "eva": "opy",
+          "vms_pos": 0.023,
+          "macer_word": "rosa",
+          "macer_type": "INGR",
+          "distance": 0.0261
+        },
+        {
+          "root": "qopchypcho",
+          "eva": "qopchypcho",
+          "vms_pos": 0.058,
+          "macer_word": "rosa",
+          "macer_type": "INGR",
+          "distance": 0.0088
+        },
+        {
+          "root": "qof",
+          "eva": "qofol",
+          "vms_pos": 0.07,
+          "macer_word": "rosa",
+          "macer_type": "INGR",
+          "distance": 0.0204
+        },
+        {
+          "root": "cfh",
+          "eva": "cfhol",
+          "vms_pos": 0.093,
+          "macer_word": "rosa",
+          "macer_type": "INGR",
+          "distance": 0.0437
+        },
+        {
+          "root": "cph",
+          "eva": "cphol",
+          "vms_pos": 0.186,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0067
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.291,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.0005
+        },
+        {
+          "root": "oky",
+          "eva": "oky",
+          "vms_pos": 0.314,
+          "macer_word": "oculus",
+          "macer_type": "BODY",
+          "distance": 0.0071
+        },
+        {
+          "root": "oeees",
+          "eva": "oeees",
+          "vms_pos": 0.326,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0015
+        },
+        {
+          "root": "tol",
+          "eva": "toldy",
+          "vms_pos": 0.43,
+          "macer_word": "matrix",
+          "macer_type": "BODY",
+          "distance": 0.0275
+        },
+        {
+          "root": "pch",
+          "eva": "pchor",
+          "vms_pos": 0.442,
+          "macer_word": "mel",
+          "macer_type": "INGR",
+          "distance": 0.0218
+        },
+        {
+          "root": "olcfholy",
+          "eva": "olcfholy",
+          "vms_pos": 0.488,
+          "macer_word": "menstrua",
+          "macer_type": "BODY",
+          "distance": 0.0045
+        },
+        {
+          "root": "chty",
+          "eva": "chty",
+          "vms_pos": 0.523,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0006
+        },
+        {
+          "root": "choy",
+          "eva": "choy",
+          "vms_pos": 0.558,
+          "macer_word": "stomachus",
+          "macer_type": "BODY",
+          "distance": 0.009
+        },
+        {
+          "root": "ksheo",
+          "eva": "ksheody",
+          "vms_pos": 0.57,
+          "macer_word": "stomachus",
+          "macer_type": "BODY",
+          "distance": 0.0207
+        },
+        {
+          "root": "cho",
+          "eva": "chody",
+          "vms_pos": 0.581,
+          "macer_word": "sanguis",
+          "macer_type": "BODY",
+          "distance": 0.0199
+        },
+        {
+          "root": "cthod",
+          "eva": "cthod",
+          "vms_pos": 0.616,
+          "macer_word": "pulmo",
+          "macer_type": "BODY",
+          "distance": 0.0035
+        },
+        {
+          "root": "yko",
+          "eva": "yko",
+          "vms_pos": 0.628,
+          "macer_word": "pulmo",
+          "macer_type": "BODY",
+          "distance": 0.0081
+        },
+        {
+          "root": "daim",
+          "eva": "daim",
+          "vms_pos": 0.721,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0006
+        },
+        {
+          "root": "soiin",
+          "eva": "soiin",
+          "vms_pos": 0.733,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0013
+        },
+        {
+          "root": "qokcho",
+          "eva": "qokcho",
+          "vms_pos": 0.756,
+          "macer_word": "lumbus",
+          "macer_type": "BODY",
+          "distance": 0.0032
+        },
+        {
+          "root": "rokyd",
+          "eva": "rokyd",
+          "vms_pos": 0.767,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0017
+        },
+        {
+          "root": "daly",
+          "eva": "daly",
+          "vms_pos": 0.779,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0031
+        },
+        {
+          "root": "chy",
+          "eva": "chy",
+          "vms_pos": 0.802,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0029
+        },
+        {
+          "root": "chyty",
+          "eva": "chyty",
+          "vms_pos": 0.826,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0205
+        },
+        {
+          "root": "dary",
+          "eva": "dary",
+          "vms_pos": 0.837,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0089
+        },
+        {
+          "root": "ytol",
+          "eva": "ytoldy",
+          "vms_pos": 0.849,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0006
+        },
+        {
+          "root": "kch",
+          "eva": "kchol",
+          "vms_pos": 0.872,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0096
+        },
+        {
+          "root": "chy",
+          "eva": "chy",
+          "vms_pos": 0.895,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0328
+        },
+        {
+          "root": "kyty",
+          "eva": "kyty",
+          "vms_pos": 0.907,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0444
+        },
+        {
+          "root": "chshoty",
+          "eva": "chshoty",
+          "vms_pos": 0.93,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0677
+        },
+        {
+          "root": "oky",
+          "eva": "oky",
+          "vms_pos": 0.942,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0591
+        },
+        {
+          "root": "ckhy",
+          "eva": "ckhy",
+          "vms_pos": 0.977,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0242
+        }
+      ],
+      "anchors": [
+        [
+          "ypch",
+          "aqua"
+        ],
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "chk",
+          "oleum"
+        ]
+      ]
+    },
+    {
+      "fid": "f41r",
+      "chapter": "Origanum",
+      "n_anchors": 5,
+      "mean_offset": -0.134,
+      "n_matches": 49,
+      "matches": [
+        {
+          "root": "psh",
+          "eva": "pshey",
+          "vms_pos": 0.0,
+          "macer_word": "venenum",
+          "macer_type": "DISEASE",
+          "distance": 0.0107
+        },
+        {
+          "root": "kedal",
+          "eva": "kedaleey",
+          "vms_pos": 0.01,
+          "macer_word": "venenum",
+          "macer_type": "DISEASE",
+          "distance": 0.0004
+        },
+        {
+          "root": "oked",
+          "eva": "oked",
+          "vms_pos": 0.021,
+          "macer_word": "venenum",
+          "macer_type": "DISEASE",
+          "distance": 0.0099
+        },
+        {
+          "root": "seek",
+          "eva": "seekeeey",
+          "vms_pos": 0.031,
+          "macer_word": "venenum",
+          "macer_type": "DISEASE",
+          "distance": 0.0203
+        },
+        {
+          "root": "opshes",
+          "eva": "opshes",
+          "vms_pos": 0.041,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0157
+        },
+        {
+          "root": "opchd",
+          "eva": "opchd",
+          "vms_pos": 0.052,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0054
+        },
+        {
+          "root": "qotch",
+          "eva": "qotchedy",
+          "vms_pos": 0.062,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.005
+        },
+        {
+          "root": "shkak",
+          "eva": "shkakeedy",
+          "vms_pos": 0.072,
+          "macer_word": "mel",
+          "macer_type": "INGR",
+          "distance": 0.0028
+        },
+        {
+          "root": "ykeeo",
+          "eva": "ykeeo",
+          "vms_pos": 0.082,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0042
+        },
+        {
+          "root": "alsh",
+          "eva": "alshey",
+          "vms_pos": 0.093,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0145
+        },
+        {
+          "root": "kesh",
+          "eva": "kesh",
+          "vms_pos": 0.113,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0032
+        },
+        {
+          "root": "ycheoky",
+          "eva": "ycheoky",
+          "vms_pos": 0.155,
+          "macer_word": "coquere",
+          "macer_type": "VERB",
+          "distance": 0.002
+        },
+        {
+          "root": "qokeed",
+          "eva": "qokeed",
+          "vms_pos": 0.165,
+          "macer_word": "coquere",
+          "macer_type": "VERB",
+          "distance": 0.0083
+        },
+        {
+          "root": "chpy",
+          "eva": "chpy",
+          "vms_pos": 0.175,
+          "macer_word": "tussis",
+          "macer_type": "BODY",
+          "distance": 0.0079
+        },
+        {
+          "root": "say",
+          "eva": "say",
+          "vms_pos": 0.216,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.0264
+        },
+        {
+          "root": "ychdykch",
+          "eva": "ychdykchdy",
+          "vms_pos": 0.237,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.0058
+        },
+        {
+          "root": "shek",
+          "eva": "shekchy",
+          "vms_pos": 0.268,
+          "macer_word": "coquere",
+          "macer_type": "VERB",
+          "distance": 0.0019
+        },
+        {
+          "root": "cheky",
+          "eva": "cheky",
+          "vms_pos": 0.278,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0035
+        },
+        {
+          "root": "daly",
+          "eva": "daly",
+          "vms_pos": 0.289,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0068
+        },
+        {
+          "root": "chd",
+          "eva": "chdchy",
+          "vms_pos": 0.299,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0008
+        },
+        {
+          "root": "ytcheeky",
+          "eva": "ytcheeky",
+          "vms_pos": 0.309,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0111
+        },
+        {
+          "root": "sch",
+          "eva": "schdy",
+          "vms_pos": 0.33,
+          "macer_word": "vulnus",
+          "macer_type": "BODY",
+          "distance": 0.0038
+        },
+        {
+          "root": "cthhy",
+          "eva": "cthhy",
+          "vms_pos": 0.351,
+          "macer_word": "vulnus",
+          "macer_type": "BODY",
+          "distance": 0.0168
+        },
+        {
+          "root": "chees",
+          "eva": "chees",
+          "vms_pos": 0.361,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0191
+        },
+        {
+          "root": "kch",
+          "eva": "kchdy",
+          "vms_pos": 0.433,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0074
+        },
+        {
+          "root": "dal",
+          "eva": "dalain",
+          "vms_pos": 0.474,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0487
+        },
+        {
+          "root": "shed",
+          "eva": "shedey",
+          "vms_pos": 0.485,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.059
+        },
+        {
+          "root": "polch",
+          "eva": "polchedy",
+          "vms_pos": 0.495,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0693
+        },
+        {
+          "root": "chek",
+          "eva": "chekedy",
+          "vms_pos": 0.515,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0606
+        },
+        {
+          "root": "chkeeod",
+          "eva": "chkeeod",
+          "vms_pos": 0.536,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.04
+        },
+        {
+          "root": "ypchedpy",
+          "eva": "ypchedpy",
+          "vms_pos": 0.546,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0297
+        },
+        {
+          "root": "shepe",
+          "eva": "shepe",
+          "vms_pos": 0.557,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0194
+        },
+        {
+          "root": "parch",
+          "eva": "parchdy",
+          "vms_pos": 0.577,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0013
+        },
+        {
+          "root": "kch",
+          "eva": "kchey",
+          "vms_pos": 0.588,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0025
+        },
+        {
+          "root": "qokeodo",
+          "eva": "qokeodo",
+          "vms_pos": 0.608,
+          "macer_word": "stomachus",
+          "macer_type": "BODY",
+          "distance": 0.0046
+        },
+        {
+          "root": "chckhy",
+          "eva": "chckhy",
+          "vms_pos": 0.691,
+          "macer_word": "urina",
+          "macer_type": "BODY",
+          "distance": 0.0082
+        },
+        {
+          "root": "lch",
+          "eva": "lchdy",
+          "vms_pos": 0.711,
+          "macer_word": "lumbus",
+          "macer_type": "BODY",
+          "distance": 0.0079
+        },
+        {
+          "root": "chek",
+          "eva": "chekedy",
+          "vms_pos": 0.742,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0027
+        },
+        {
+          "root": "qod",
+          "eva": "qodar",
+          "vms_pos": 0.753,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0005
+        },
+        {
+          "root": "chek",
+          "eva": "chekedy",
+          "vms_pos": 0.794,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0064
+        },
+        {
+          "root": "chckheo",
+          "eva": "chckheody",
+          "vms_pos": 0.814,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0018
+        },
+        {
+          "root": "chek",
+          "eva": "chekol",
+          "vms_pos": 0.825,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0005
+        },
+        {
+          "root": "cheo",
+          "eva": "cheo",
+          "vms_pos": 0.845,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0159
+        },
+        {
+          "root": "sshok",
+          "eva": "sshok",
+          "vms_pos": 0.876,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.015
+        },
+        {
+          "root": "qekch",
+          "eva": "qekchdy",
+          "vms_pos": 0.897,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0356
+        },
+        {
+          "root": "dchdal",
+          "eva": "dchdaldy",
+          "vms_pos": 0.907,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0459
+        },
+        {
+          "root": "qokeg",
+          "eva": "qokeg",
+          "vms_pos": 0.948,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0872
+        },
+        {
+          "root": "ykeod",
+          "eva": "ykeod",
+          "vms_pos": 0.959,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0975
+        },
+        {
+          "root": "chek",
+          "eva": "chekeedy",
+          "vms_pos": 0.979,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.1181
+        }
+      ],
+      "anchors": [
+        [
+          "ypch",
+          "aqua"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ],
+        [
+          "chk",
+          "oleum"
+        ]
+      ]
+    },
+    {
+      "fid": "f37r",
+      "chapter": "Mentha",
+      "n_anchors": 3,
+      "mean_offset": -0.437,
+      "n_matches": 18,
+      "matches": [
+        {
+          "root": "tocph",
+          "eva": "tocphol",
+          "vms_pos": 0.0,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0079
+        },
+        {
+          "root": "ofch",
+          "eva": "ofchor",
+          "vms_pos": 0.038,
+          "macer_word": "auris",
+          "macer_type": "BODY",
+          "distance": 0.005
+        },
+        {
+          "root": "chory",
+          "eva": "chory",
+          "vms_pos": 0.064,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0086
+        },
+        {
+          "root": "otod",
+          "eva": "otod",
+          "vms_pos": 0.09,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0342
+        },
+        {
+          "root": "ykoiin",
+          "eva": "ykoiin",
+          "vms_pos": 0.115,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0599
+        },
+        {
+          "root": "yto",
+          "eva": "ytody",
+          "vms_pos": 0.179,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0153
+        },
+        {
+          "root": "sho",
+          "eva": "sho",
+          "vms_pos": 0.205,
+          "macer_word": "morsus",
+          "macer_type": "DISEASE",
+          "distance": 0.0063
+        },
+        {
+          "root": "shy",
+          "eva": "shy",
+          "vms_pos": 0.244,
+          "macer_word": "sal",
+          "macer_type": "INGR",
+          "distance": 0.0005
+        },
+        {
+          "root": "ckh",
+          "eva": "ckhor",
+          "vms_pos": 0.295,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0007
+        },
+        {
+          "root": "oky",
+          "eva": "oky",
+          "vms_pos": 0.308,
+          "macer_word": "acetum",
+          "macer_type": "INGR",
+          "distance": 0.0002
+        },
+        {
+          "root": "pchot",
+          "eva": "pchotchy",
+          "vms_pos": 0.333,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0036
+        },
+        {
+          "root": "cfhold",
+          "eva": "cfholdar",
+          "vms_pos": 0.359,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0221
+        },
+        {
+          "root": "yky",
+          "eva": "yky",
+          "vms_pos": 0.41,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0466
+        },
+        {
+          "root": "qotch",
+          "eva": "qotchor",
+          "vms_pos": 0.436,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.021
+        },
+        {
+          "root": "qotomo",
+          "eva": "qotomody",
+          "vms_pos": 0.513,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0241
+        },
+        {
+          "root": "koiin",
+          "eva": "koiin",
+          "vms_pos": 0.615,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0785
+        },
+        {
+          "root": "choro",
+          "eva": "chorody",
+          "vms_pos": 0.628,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0913
+        },
+        {
+          "root": "chhory",
+          "eva": "chhory",
+          "vms_pos": 0.654,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.1169
+        }
+      ],
+      "anchors": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "otoly",
+          "sal"
+        ]
+      ]
+    },
+    {
+      "fid": "f28r",
+      "chapter": "Aristolochia",
+      "n_anchors": 1,
+      "mean_offset": 0.136,
+      "n_matches": 31,
+      "matches": [
+        {
+          "root": "otch",
+          "eva": "otchor",
+          "vms_pos": 0.132,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0786
+        },
+        {
+          "root": "otch",
+          "eva": "otchor",
+          "vms_pos": 0.147,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0639
+        },
+        {
+          "root": "cty",
+          "eva": "cty",
+          "vms_pos": 0.176,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0345
+        },
+        {
+          "root": "chakod",
+          "eva": "chakod",
+          "vms_pos": 0.235,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0243
+        },
+        {
+          "root": "dly",
+          "eva": "dly",
+          "vms_pos": 0.25,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.039
+        },
+        {
+          "root": "qotch",
+          "eva": "qotchaiin",
+          "vms_pos": 0.265,
+          "macer_word": "morsus",
+          "macer_type": "DISEASE",
+          "distance": 0.0497
+        },
+        {
+          "root": "chot",
+          "eva": "chotchy",
+          "vms_pos": 0.338,
+          "macer_word": "venenum",
+          "macer_type": "DISEASE",
+          "distance": 0.0133
+        },
+        {
+          "root": "tchod",
+          "eva": "tchodar",
+          "vms_pos": 0.353,
+          "macer_word": "venenum",
+          "macer_type": "DISEASE",
+          "distance": 0.0014
+        },
+        {
+          "root": "choty",
+          "eva": "choty",
+          "vms_pos": 0.368,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.003
+        },
+        {
+          "root": "chot",
+          "eva": "chotchy",
+          "vms_pos": 0.412,
+          "macer_word": "piper",
+          "macer_type": "INGR",
+          "distance": 0.0294
+        },
+        {
+          "root": "choky",
+          "eva": "choky",
+          "vms_pos": 0.456,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0062
+        },
+        {
+          "root": "qoty",
+          "eva": "qoty",
+          "vms_pos": 0.471,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.003
+        },
+        {
+          "root": "oksho",
+          "eva": "oksho",
+          "vms_pos": 0.485,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0058
+        },
+        {
+          "root": "otor",
+          "eva": "otorchy",
+          "vms_pos": 0.5,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0025
+        },
+        {
+          "root": "kchor",
+          "eva": "kchoror",
+          "vms_pos": 0.515,
+          "macer_word": "mel",
+          "macer_type": "INGR",
+          "distance": 0.0018
+        },
+        {
+          "root": "chod",
+          "eva": "chodaiin",
+          "vms_pos": 0.529,
+          "macer_word": "mel",
+          "macer_type": "INGR",
+          "distance": 0.0166
+        },
+        {
+          "root": "sho",
+          "eva": "sho",
+          "vms_pos": 0.544,
+          "macer_word": "dens",
+          "macer_type": "BODY",
+          "distance": 0.0223
+        },
+        {
+          "root": "ctho",
+          "eva": "cthody",
+          "vms_pos": 0.559,
+          "macer_word": "dens",
+          "macer_type": "BODY",
+          "distance": 0.0076
+        },
+        {
+          "root": "okoy",
+          "eva": "okoy",
+          "vms_pos": 0.574,
+          "macer_word": "splen",
+          "macer_type": "BODY",
+          "distance": 0.0067
+        },
+        {
+          "root": "qokch",
+          "eva": "qokchol",
+          "vms_pos": 0.588,
+          "macer_word": "splen",
+          "macer_type": "BODY",
+          "distance": 0.008
+        },
+        {
+          "root": "qod",
+          "eva": "qodaiin",
+          "vms_pos": 0.603,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0041
+        },
+        {
+          "root": "otchol",
+          "eva": "otcholchy",
+          "vms_pos": 0.618,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0013
+        },
+        {
+          "root": "cho",
+          "eva": "cho",
+          "vms_pos": 0.647,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0308
+        },
+        {
+          "root": "sho",
+          "eva": "sho",
+          "vms_pos": 0.706,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0086
+        },
+        {
+          "root": "shockhy",
+          "eva": "shockhy",
+          "vms_pos": 0.735,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0067
+        },
+        {
+          "root": "otol",
+          "eva": "otoldy",
+          "vms_pos": 0.765,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0115
+        },
+        {
+          "root": "dsh",
+          "eva": "dshor",
+          "vms_pos": 0.779,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0262
+        },
+        {
+          "root": "oschotshl",
+          "eva": "oschotshl",
+          "vms_pos": 0.824,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0426
+        },
+        {
+          "root": "okch",
+          "eva": "okchey",
+          "vms_pos": 0.853,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0132
+        },
+        {
+          "root": "dsho",
+          "eva": "dsho",
+          "vms_pos": 0.912,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0456
+        },
+        {
+          "root": "ytch",
+          "eva": "ytchol",
+          "vms_pos": 0.941,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.046
+        }
+      ],
+      "anchors": [
+        [
+          "cht",
+          "piper"
+        ]
+      ]
+    },
+    {
+      "fid": "f3v",
+      "chapter": "Elleborus",
+      "n_anchors": 4,
+      "mean_offset": -0.048,
+      "n_matches": 41,
+      "matches": [
+        {
+          "root": "cph",
+          "eva": "cphor",
+          "vms_pos": 0.012,
+          "macer_word": "lens",
+          "macer_type": "INGR",
+          "distance": 0.0446
+        },
+        {
+          "root": "qotoy",
+          "eva": "qotoy",
+          "vms_pos": 0.024,
+          "macer_word": "lens",
+          "macer_type": "INGR",
+          "distance": 0.0328
+        },
+        {
+          "root": "sha",
+          "eva": "sha",
+          "vms_pos": 0.035,
+          "macer_word": "lens",
+          "macer_type": "INGR",
+          "distance": 0.0211
+        },
+        {
+          "root": "ckh",
+          "eva": "ckhol",
+          "vms_pos": 0.047,
+          "macer_word": "lens",
+          "macer_type": "INGR",
+          "distance": 0.0093
+        },
+        {
+          "root": "yko",
+          "eva": "ykoaiin",
+          "vms_pos": 0.059,
+          "macer_word": "lens",
+          "macer_type": "INGR",
+          "distance": 0.0025
+        },
+        {
+          "root": "oly",
+          "eva": "oly",
+          "vms_pos": 0.082,
+          "macer_word": "coquere",
+          "macer_type": "VERB",
+          "distance": 0.0208
+        },
+        {
+          "root": "daii",
+          "eva": "daiidy",
+          "vms_pos": 0.094,
+          "macer_word": "coquere",
+          "macer_type": "VERB",
+          "distance": 0.0326
+        },
+        {
+          "root": "qote",
+          "eva": "qoteeol",
+          "vms_pos": 0.106,
+          "macer_word": "podagra",
+          "macer_type": "DISEASE",
+          "distance": 0.0334
+        },
+        {
+          "root": "okee",
+          "eva": "okeeor",
+          "vms_pos": 0.118,
+          "macer_word": "podagra",
+          "macer_type": "DISEASE",
+          "distance": 0.0216
+        },
+        {
+          "root": "olyt",
+          "eva": "olytol",
+          "vms_pos": 0.141,
+          "macer_word": "podagra",
+          "macer_type": "DISEASE",
+          "distance": 0.0019
+        },
+        {
+          "root": "cheeyk",
+          "eva": "cheeykam",
+          "vms_pos": 0.235,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0036
+        },
+        {
+          "root": "okai",
+          "eva": "okai",
+          "vms_pos": 0.247,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0154
+        },
+        {
+          "root": "qod",
+          "eva": "qodar",
+          "vms_pos": 0.259,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0272
+        },
+        {
+          "root": "ees",
+          "eva": "ees",
+          "vms_pos": 0.271,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0389
+        },
+        {
+          "root": "kch",
+          "eva": "kcheol",
+          "vms_pos": 0.294,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0625
+        },
+        {
+          "root": "che",
+          "eva": "chear",
+          "vms_pos": 0.341,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.1095
+        },
+        {
+          "root": "ckha",
+          "eva": "ckha",
+          "vms_pos": 0.424,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.0905
+        },
+        {
+          "root": "che",
+          "eva": "cheor",
+          "vms_pos": 0.447,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.067
+        },
+        {
+          "root": "chodaly",
+          "eva": "chodaly",
+          "vms_pos": 0.471,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.0435
+        },
+        {
+          "root": "otch",
+          "eva": "otcham",
+          "vms_pos": 0.506,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.0082
+        },
+        {
+          "root": "cfh",
+          "eva": "cfham",
+          "vms_pos": 0.529,
+          "macer_word": "tumor",
+          "macer_type": "DISEASE",
+          "distance": 0.008
+        },
+        {
+          "root": "kch",
+          "eva": "kchom",
+          "vms_pos": 0.565,
+          "macer_word": "menstrua",
+          "macer_type": "BODY",
+          "distance": 0.0029
+        },
+        {
+          "root": "chckh",
+          "eva": "chckhol",
+          "vms_pos": 0.588,
+          "macer_word": "menstrua",
+          "macer_type": "BODY",
+          "distance": 0.0206
+        },
+        {
+          "root": "oka",
+          "eva": "oka",
+          "vms_pos": 0.6,
+          "macer_word": "auris",
+          "macer_type": "BODY",
+          "distance": 0.0306
+        },
+        {
+          "root": "ytchee",
+          "eva": "ytcheear",
+          "vms_pos": 0.612,
+          "macer_word": "auris",
+          "macer_type": "BODY",
+          "distance": 0.0189
+        },
+        {
+          "root": "cthodoaly",
+          "eva": "cthodoaly",
+          "vms_pos": 0.635,
+          "macer_word": "auris",
+          "macer_type": "BODY",
+          "distance": 0.0047
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.659,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0271
+        },
+        {
+          "root": "ochos",
+          "eva": "ochos",
+          "vms_pos": 0.671,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0153
+        },
+        {
+          "root": "qoksh",
+          "eva": "qokshol",
+          "vms_pos": 0.694,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0082
+        },
+        {
+          "root": "daiim",
+          "eva": "daiim",
+          "vms_pos": 0.706,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.02
+        },
+        {
+          "root": "okary",
+          "eva": "okary",
+          "vms_pos": 0.729,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0435
+        },
+        {
+          "root": "sho",
+          "eva": "sho",
+          "vms_pos": 0.741,
+          "macer_word": "acetum",
+          "macer_type": "INGR",
+          "distance": 0.0518
+        },
+        {
+          "root": "shockho",
+          "eva": "shockho",
+          "vms_pos": 0.753,
+          "macer_word": "acetum",
+          "macer_type": "INGR",
+          "distance": 0.04
+        },
+        {
+          "root": "ckhy",
+          "eva": "ckhy",
+          "vms_pos": 0.765,
+          "macer_word": "acetum",
+          "macer_type": "INGR",
+          "distance": 0.0283
+        },
+        {
+          "root": "chod",
+          "eva": "chodaiin",
+          "vms_pos": 0.788,
+          "macer_word": "acetum",
+          "macer_type": "INGR",
+          "distance": 0.0047
+        },
+        {
+          "root": "osh",
+          "eva": "osh",
+          "vms_pos": 0.812,
+          "macer_word": "dens",
+          "macer_type": "BODY",
+          "distance": 0.0119
+        },
+        {
+          "root": "chod",
+          "eva": "chodair",
+          "vms_pos": 0.824,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0049
+        },
+        {
+          "root": "kch",
+          "eva": "kcham",
+          "vms_pos": 0.859,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0304
+        },
+        {
+          "root": "shk",
+          "eva": "shkaiin",
+          "vms_pos": 0.894,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0657
+        },
+        {
+          "root": "yty",
+          "eva": "yty",
+          "vms_pos": 0.918,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0893
+        },
+        {
+          "root": "chky",
+          "eva": "chky",
+          "vms_pos": 0.941,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.1128
+        }
+      ],
+      "anchors": [
+        [
+          "seees",
+          "lens"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ]
+    },
+    {
+      "fid": "f22r",
+      "chapter": "Verbena",
+      "n_anchors": 1,
+      "mean_offset": -0.017,
+      "n_matches": 41,
+      "matches": [
+        {
+          "root": "fcholy",
+          "eva": "fcholy",
+          "vms_pos": 0.018,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.03
+        },
+        {
+          "root": "okoly",
+          "eva": "okoly",
+          "vms_pos": 0.054,
+          "macer_word": "icterus",
+          "macer_type": "DISEASE",
+          "distance": 0.0005
+        },
+        {
+          "root": "ocphy",
+          "eva": "ocphy",
+          "vms_pos": 0.09,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0018
+        },
+        {
+          "root": "oiin",
+          "eva": "oiin",
+          "vms_pos": 0.108,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0162
+        },
+        {
+          "root": "qokch",
+          "eva": "qokchol",
+          "vms_pos": 0.144,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0028
+        },
+        {
+          "root": "ckhy",
+          "eva": "ckhy",
+          "vms_pos": 0.189,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.016
+        },
+        {
+          "root": "dyk",
+          "eva": "dykaiin",
+          "vms_pos": 0.216,
+          "macer_word": "vulnus",
+          "macer_type": "BODY",
+          "distance": 0.0204
+        },
+        {
+          "root": "ctholo",
+          "eva": "ctholo",
+          "vms_pos": 0.261,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0017
+        },
+        {
+          "root": "pch",
+          "eva": "pchaiin",
+          "vms_pos": 0.288,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0043
+        },
+        {
+          "root": "cfhy",
+          "eva": "cfhy",
+          "vms_pos": 0.315,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.018
+        },
+        {
+          "root": "doroiin",
+          "eva": "doroiin",
+          "vms_pos": 0.324,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.009
+        },
+        {
+          "root": "sch",
+          "eva": "schor",
+          "vms_pos": 0.351,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.018
+        },
+        {
+          "root": "old",
+          "eva": "oldor",
+          "vms_pos": 0.423,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.0002
+        },
+        {
+          "root": "oky",
+          "eva": "oky",
+          "vms_pos": 0.432,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.0088
+        },
+        {
+          "root": "chold",
+          "eva": "choldchy",
+          "vms_pos": 0.45,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.0268
+        },
+        {
+          "root": "choksh",
+          "eva": "chokshchy",
+          "vms_pos": 0.468,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.0449
+        },
+        {
+          "root": "ctheeb",
+          "eva": "ctheeb",
+          "vms_pos": 0.477,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.0539
+        },
+        {
+          "root": "kch",
+          "eva": "kchol",
+          "vms_pos": 0.486,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.0629
+        },
+        {
+          "root": "dshe",
+          "eva": "dsheor",
+          "vms_pos": 0.505,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0682
+        },
+        {
+          "root": "chdoly",
+          "eva": "chdoly",
+          "vms_pos": 0.523,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0502
+        },
+        {
+          "root": "cph",
+          "eva": "cphal",
+          "vms_pos": 0.559,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0142
+        },
+        {
+          "root": "ctholy",
+          "eva": "ctholy",
+          "vms_pos": 0.595,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0184
+        },
+        {
+          "root": "qoky",
+          "eva": "qoky",
+          "vms_pos": 0.604,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0274
+        },
+        {
+          "root": "chot",
+          "eva": "chotaiin",
+          "vms_pos": 0.613,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0364
+        },
+        {
+          "root": "chocthy",
+          "eva": "chocthy",
+          "vms_pos": 0.622,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0454
+        },
+        {
+          "root": "doiin",
+          "eva": "doiin",
+          "vms_pos": 0.631,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.0544
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.667,
+          "macer_word": "pulmo",
+          "macer_type": "BODY",
+          "distance": 0.0203
+        },
+        {
+          "root": "ctheo",
+          "eva": "ctheo",
+          "vms_pos": 0.676,
+          "macer_word": "pulmo",
+          "macer_type": "BODY",
+          "distance": 0.0113
+        },
+        {
+          "root": "oraiino",
+          "eva": "oraiino",
+          "vms_pos": 0.694,
+          "macer_word": "pulmo",
+          "macer_type": "BODY",
+          "distance": 0.0067
+        },
+        {
+          "root": "kch",
+          "eva": "kchol",
+          "vms_pos": 0.703,
+          "macer_word": "pulmo",
+          "macer_type": "BODY",
+          "distance": 0.0158
+        },
+        {
+          "root": "cthoiin",
+          "eva": "cthoiin",
+          "vms_pos": 0.73,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.0425
+        },
+        {
+          "root": "opch",
+          "eva": "opchol",
+          "vms_pos": 0.775,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.0025
+        },
+        {
+          "root": "old",
+          "eva": "oldam",
+          "vms_pos": 0.784,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.0024
+        },
+        {
+          "root": "doiin",
+          "eva": "doiin",
+          "vms_pos": 0.793,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.0066
+        },
+        {
+          "root": "yckho",
+          "eva": "yckhody",
+          "vms_pos": 0.802,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.0156
+        },
+        {
+          "root": "oky",
+          "eva": "oky",
+          "vms_pos": 0.82,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.0336
+        },
+        {
+          "root": "otol",
+          "eva": "otoldy",
+          "vms_pos": 0.829,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.0426
+        },
+        {
+          "root": "yty",
+          "eva": "yty",
+          "vms_pos": 0.838,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.0516
+        },
+        {
+          "root": "odch",
+          "eva": "odchaiin",
+          "vms_pos": 0.883,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0365
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.892,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0275
+        },
+        {
+          "root": "qockhy",
+          "eva": "qockhy",
+          "vms_pos": 0.973,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0536
+        }
+      ],
+      "anchors": [
+        [
+          "ypch",
+          "aqua"
+        ]
+      ]
+    },
+    {
+      "fid": "f44v",
+      "chapter": "Apium",
+      "n_anchors": 16,
+      "mean_offset": -0.111,
+      "n_matches": 40,
+      "matches": [
+        {
+          "root": "qotsh",
+          "eva": "qotshol",
+          "vms_pos": 0.08,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0468
+        },
+        {
+          "root": "otol",
+          "eva": "otoldy",
+          "vms_pos": 0.09,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0368
+        },
+        {
+          "root": "yolk",
+          "eva": "yolkol",
+          "vms_pos": 0.1,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0268
+        },
+        {
+          "root": "qokch",
+          "eva": "qokchain",
+          "vms_pos": 0.12,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0068
+        },
+        {
+          "root": "daly",
+          "eva": "daly",
+          "vms_pos": 0.13,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0032
+        },
+        {
+          "root": "otch",
+          "eva": "otchol",
+          "vms_pos": 0.14,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0132
+        },
+        {
+          "root": "okch",
+          "eva": "okchor",
+          "vms_pos": 0.2,
+          "macer_word": "oculus",
+          "macer_type": "BODY",
+          "distance": 0.0008
+        },
+        {
+          "root": "shcthy",
+          "eva": "shcthy",
+          "vms_pos": 0.21,
+          "macer_word": "tumor",
+          "macer_type": "DISEASE",
+          "distance": 0.0023
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.24,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0108
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.25,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0208
+        },
+        {
+          "root": "yokalod",
+          "eva": "yokalod",
+          "vms_pos": 0.26,
+          "macer_word": "stomachus",
+          "macer_type": "BODY",
+          "distance": 0.0234
+        },
+        {
+          "root": "shoro",
+          "eva": "shorody",
+          "vms_pos": 0.29,
+          "macer_word": "tumor",
+          "macer_type": "DISEASE",
+          "distance": 0.0064
+        },
+        {
+          "root": "shky",
+          "eva": "shky",
+          "vms_pos": 0.3,
+          "macer_word": "tumor",
+          "macer_type": "DISEASE",
+          "distance": 0.0036
+        },
+        {
+          "root": "sho",
+          "eva": "sho",
+          "vms_pos": 0.31,
+          "macer_word": "tumor",
+          "macer_type": "DISEASE",
+          "distance": 0.0136
+        },
+        {
+          "root": "opchod",
+          "eva": "opchod",
+          "vms_pos": 0.34,
+          "macer_word": "urina",
+          "macer_type": "BODY",
+          "distance": 0.0282
+        },
+        {
+          "root": "opy",
+          "eva": "opy",
+          "vms_pos": 0.35,
+          "macer_word": "urina",
+          "macer_type": "BODY",
+          "distance": 0.0182
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.38,
+          "macer_word": "urina",
+          "macer_type": "BODY",
+          "distance": 0.0118
+        },
+        {
+          "root": "cph",
+          "eva": "cphaiin",
+          "vms_pos": 0.39,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.0212
+        },
+        {
+          "root": "ykch",
+          "eva": "ykchor",
+          "vms_pos": 0.4,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.0112
+        },
+        {
+          "root": "qoty",
+          "eva": "qoty",
+          "vms_pos": 0.42,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0029
+        },
+        {
+          "root": "ytche",
+          "eva": "ytchear",
+          "vms_pos": 0.43,
+          "macer_word": "sumere",
+          "macer_type": "VERB",
+          "distance": 0.0129
+        },
+        {
+          "root": "kch",
+          "eva": "kchain",
+          "vms_pos": 0.5,
+          "macer_word": "bibere",
+          "macer_type": "VERB",
+          "distance": 0.0117
+        },
+        {
+          "root": "otch",
+          "eva": "otchol",
+          "vms_pos": 0.53,
+          "macer_word": "venter",
+          "macer_type": "BODY",
+          "distance": 0.0078
+        },
+        {
+          "root": "oky",
+          "eva": "oky",
+          "vms_pos": 0.56,
+          "macer_word": "venter",
+          "macer_type": "BODY",
+          "distance": 0.0222
+        },
+        {
+          "root": "ololy",
+          "eva": "ololy",
+          "vms_pos": 0.61,
+          "macer_word": "acetum",
+          "macer_type": "INGR",
+          "distance": 0.0194
+        },
+        {
+          "root": "tsheo",
+          "eva": "tsheody",
+          "vms_pos": 0.62,
+          "macer_word": "acetum",
+          "macer_type": "INGR",
+          "distance": 0.0294
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.67,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0035
+        },
+        {
+          "root": "ykoda",
+          "eva": "ykoda",
+          "vms_pos": 0.68,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0065
+        },
+        {
+          "root": "dsh",
+          "eva": "dshor",
+          "vms_pos": 0.7,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0057
+        },
+        {
+          "root": "cthees",
+          "eva": "cthees",
+          "vms_pos": 0.71,
+          "macer_word": "splen",
+          "macer_type": "BODY",
+          "distance": 0.0091
+        },
+        {
+          "root": "lkeees",
+          "eva": "lkeees",
+          "vms_pos": 0.74,
+          "macer_word": "feniculum",
+          "macer_type": "INGR",
+          "distance": 0.0098
+        },
+        {
+          "root": "ckhy",
+          "eva": "ckhy",
+          "vms_pos": 0.75,
+          "macer_word": "feniculum",
+          "macer_type": "INGR",
+          "distance": 0.0002
+        },
+        {
+          "root": "chcthy",
+          "eva": "chcthy",
+          "vms_pos": 0.76,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0043
+        },
+        {
+          "root": "lsho",
+          "eva": "lsho",
+          "vms_pos": 0.78,
+          "macer_word": "lens",
+          "macer_type": "INGR",
+          "distance": 0.0089
+        },
+        {
+          "root": "cph",
+          "eva": "cphaiin",
+          "vms_pos": 0.81,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0048
+        },
+        {
+          "root": "choky",
+          "eva": "choky",
+          "vms_pos": 0.87,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0093
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.89,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0293
+        },
+        {
+          "root": "chcthy",
+          "eva": "chcthy",
+          "vms_pos": 0.94,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0793
+        },
+        {
+          "root": "ctho",
+          "eva": "ctho",
+          "vms_pos": 0.95,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0893
+        },
+        {
+          "root": "lch",
+          "eva": "lchor",
+          "vms_pos": 0.97,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.1093
+        }
+      ],
+      "anchors": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ]
+    },
+    {
+      "fid": "f41v",
+      "chapter": "Coriandrum",
+      "n_anchors": 1,
+      "mean_offset": -0.214,
+      "n_matches": 31,
+      "matches": [
+        {
+          "root": "keered",
+          "eva": "keeredal",
+          "vms_pos": 0.0,
+          "macer_word": "tumor",
+          "macer_type": "DISEASE",
+          "distance": 0.0013
+        },
+        {
+          "root": "pcheo",
+          "eva": "pcheody",
+          "vms_pos": 0.015,
+          "macer_word": "tumor",
+          "macer_type": "DISEASE",
+          "distance": 0.0164
+        },
+        {
+          "root": "qofcheepy",
+          "eva": "qofcheepy",
+          "vms_pos": 0.03,
+          "macer_word": "venter",
+          "macer_type": "BODY",
+          "distance": 0.0188
+        },
+        {
+          "root": "ofch",
+          "eva": "ofchdy",
+          "vms_pos": 0.045,
+          "macer_word": "venter",
+          "macer_type": "BODY",
+          "distance": 0.0037
+        },
+        {
+          "root": "cfhekch",
+          "eva": "cfhekchdy",
+          "vms_pos": 0.061,
+          "macer_word": "venter",
+          "macer_type": "BODY",
+          "distance": 0.0115
+        },
+        {
+          "root": "chepchefy",
+          "eva": "chepchefy",
+          "vms_pos": 0.091,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.0108
+        },
+        {
+          "root": "shdch",
+          "eva": "shdchdy",
+          "vms_pos": 0.106,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.026
+        },
+        {
+          "root": "dsh",
+          "eva": "dshedy",
+          "vms_pos": 0.152,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.0034
+        },
+        {
+          "root": "shek",
+          "eva": "shekey",
+          "vms_pos": 0.212,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0075
+        },
+        {
+          "root": "okaly",
+          "eva": "okaly",
+          "vms_pos": 0.242,
+          "macer_word": "tumor",
+          "macer_type": "DISEASE",
+          "distance": 0.0205
+        },
+        {
+          "root": "ykeeo",
+          "eva": "ykeeody",
+          "vms_pos": 0.288,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0147
+        },
+        {
+          "root": "choy",
+          "eva": "choy",
+          "vms_pos": 0.303,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0005
+        },
+        {
+          "root": "keoy",
+          "eva": "keoy",
+          "vms_pos": 0.318,
+          "macer_word": "acetum",
+          "macer_type": "INGR",
+          "distance": 0.0088
+        },
+        {
+          "root": "qokeo",
+          "eva": "qokeody",
+          "vms_pos": 0.348,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.0124
+        },
+        {
+          "root": "qokeo",
+          "eva": "qokeody",
+          "vms_pos": 0.379,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0079
+        },
+        {
+          "root": "ole",
+          "eva": "oleeol",
+          "vms_pos": 0.394,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0072
+        },
+        {
+          "root": "lkeeo",
+          "eva": "lkeeody",
+          "vms_pos": 0.424,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0072
+        },
+        {
+          "root": "sheols",
+          "eva": "sheols",
+          "vms_pos": 0.485,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0258
+        },
+        {
+          "root": "ycheos",
+          "eva": "ycheos",
+          "vms_pos": 0.5,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0106
+        },
+        {
+          "root": "olch",
+          "eva": "olchey",
+          "vms_pos": 0.515,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0045
+        },
+        {
+          "root": "cholal",
+          "eva": "cholalaiin",
+          "vms_pos": 0.561,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0069
+        },
+        {
+          "root": "oteod",
+          "eva": "oteodar",
+          "vms_pos": 0.606,
+          "macer_word": "coriandrum",
+          "macer_type": "INGR",
+          "distance": 0.001
+        },
+        {
+          "root": "tad",
+          "eva": "tadaiin",
+          "vms_pos": 0.636,
+          "macer_word": "coriandrum",
+          "macer_type": "INGR",
+          "distance": 0.0293
+        },
+        {
+          "root": "cheos",
+          "eva": "cheos",
+          "vms_pos": 0.667,
+          "macer_word": "menstrua",
+          "macer_type": "BODY",
+          "distance": 0.021
+        },
+        {
+          "root": "old",
+          "eva": "old",
+          "vms_pos": 0.712,
+          "macer_word": "coriandrum",
+          "macer_type": "INGR",
+          "distance": 0.0093
+        },
+        {
+          "root": "oteo",
+          "eva": "oteody",
+          "vms_pos": 0.773,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0079
+        },
+        {
+          "root": "yke",
+          "eva": "ykeeol",
+          "vms_pos": 0.818,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0376
+        },
+        {
+          "root": "ckh",
+          "eva": "ckhdy",
+          "vms_pos": 0.833,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0528
+        },
+        {
+          "root": "chd",
+          "eva": "chdal",
+          "vms_pos": 0.848,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0679
+        },
+        {
+          "root": "ykeo",
+          "eva": "ykeo",
+          "vms_pos": 0.864,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0831
+        },
+        {
+          "root": "okeo",
+          "eva": "okeody",
+          "vms_pos": 0.894,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.1134
+        }
+      ],
+      "anchors": [
+        [
+          "ypch",
+          "aqua"
+        ]
+      ]
+    },
+    {
+      "fid": "f45r",
+      "chapter": "Atriplex",
+      "n_anchors": 6,
+      "mean_offset": -0.33,
+      "n_matches": 25,
+      "matches": [
+        {
+          "root": "pykyd",
+          "eva": "pykydal",
+          "vms_pos": 0.0,
+          "macer_word": "coquere",
+          "macer_type": "VERB",
+          "distance": 0.0149
+        },
+        {
+          "root": "shaikhy",
+          "eva": "shaikhy",
+          "vms_pos": 0.011,
+          "macer_word": "coquere",
+          "macer_type": "VERB",
+          "distance": 0.0036
+        },
+        {
+          "root": "qop",
+          "eva": "qop",
+          "vms_pos": 0.045,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0078
+        },
+        {
+          "root": "opch",
+          "eva": "opchal",
+          "vms_pos": 0.067,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0303
+        },
+        {
+          "root": "ofch",
+          "eva": "ofchar",
+          "vms_pos": 0.09,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0528
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.112,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0753
+        },
+        {
+          "root": "qoky",
+          "eva": "qoky",
+          "vms_pos": 0.124,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0865
+        },
+        {
+          "root": "chcthy",
+          "eva": "chcthy",
+          "vms_pos": 0.225,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0879
+        },
+        {
+          "root": "kch",
+          "eva": "kchol",
+          "vms_pos": 0.236,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0767
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.27,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.043
+        },
+        {
+          "root": "sho",
+          "eva": "sho",
+          "vms_pos": 0.393,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0127
+        },
+        {
+          "root": "pch",
+          "eva": "pchor",
+          "vms_pos": 0.404,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0015
+        },
+        {
+          "root": "kch",
+          "eva": "kchey",
+          "vms_pos": 0.416,
+          "macer_word": "apponere",
+          "macer_type": "VERB",
+          "distance": 0.0097
+        },
+        {
+          "root": "opchal",
+          "eva": "opchaldy",
+          "vms_pos": 0.438,
+          "macer_word": "podagra",
+          "macer_type": "DISEASE",
+          "distance": 0.0233
+        },
+        {
+          "root": "otch",
+          "eva": "otchar",
+          "vms_pos": 0.494,
+          "macer_word": "icterus",
+          "macer_type": "DISEASE",
+          "distance": 0.0084
+        },
+        {
+          "root": "okch",
+          "eva": "okchar",
+          "vms_pos": 0.506,
+          "macer_word": "icterus",
+          "macer_type": "DISEASE",
+          "distance": 0.0196
+        },
+        {
+          "root": "ytcho",
+          "eva": "ytchody",
+          "vms_pos": 0.528,
+          "macer_word": "icterus",
+          "macer_type": "DISEASE",
+          "distance": 0.0421
+        },
+        {
+          "root": "tchol",
+          "eva": "tcholol",
+          "vms_pos": 0.539,
+          "macer_word": "icterus",
+          "macer_type": "DISEASE",
+          "distance": 0.0533
+        },
+        {
+          "root": "dary",
+          "eva": "dary",
+          "vms_pos": 0.573,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0507
+        },
+        {
+          "root": "lch",
+          "eva": "lchar",
+          "vms_pos": 0.584,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0395
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.652,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0279
+        },
+        {
+          "root": "qod",
+          "eva": "qodaiin",
+          "vms_pos": 0.663,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0392
+        },
+        {
+          "root": "cthy",
+          "eva": "cthy",
+          "vms_pos": 0.674,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0504
+        },
+        {
+          "root": "thh",
+          "eva": "thhey",
+          "vms_pos": 0.697,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0729
+        },
+        {
+          "root": "otyd",
+          "eva": "otydal",
+          "vms_pos": 0.708,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0841
+        }
+      ],
+      "anchors": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ]
+    },
+    {
+      "fid": "f48v",
+      "chapter": "Ruta",
+      "n_anchors": 10,
+      "mean_offset": 0.08,
+      "n_matches": 46,
+      "matches": [
+        {
+          "root": "pcheod",
+          "eva": "pcheodchy",
+          "vms_pos": 0.0,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.1065
+        },
+        {
+          "root": "dsh",
+          "eva": "dshedy",
+          "vms_pos": 0.008,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0986
+        },
+        {
+          "root": "fch",
+          "eva": "fchedy",
+          "vms_pos": 0.016,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0908
+        },
+        {
+          "root": "los",
+          "eva": "los",
+          "vms_pos": 0.023,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.083
+        },
+        {
+          "root": "yke",
+          "eva": "ykeeedy",
+          "vms_pos": 0.039,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0674
+        },
+        {
+          "root": "chedyty",
+          "eva": "chedyty",
+          "vms_pos": 0.094,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0127
+        },
+        {
+          "root": "otcho",
+          "eva": "otchody",
+          "vms_pos": 0.117,
+          "macer_word": "stomachus",
+          "macer_type": "BODY",
+          "distance": 0.0002
+        },
+        {
+          "root": "yot",
+          "eva": "yotedy",
+          "vms_pos": 0.141,
+          "macer_word": "tussis",
+          "macer_type": "BODY",
+          "distance": 0.0023
+        },
+        {
+          "root": "chety",
+          "eva": "chety",
+          "vms_pos": 0.164,
+          "macer_word": "aqua",
+          "macer_type": "INGR",
+          "distance": 0.001
+        },
+        {
+          "root": "choolk",
+          "eva": "choolkeey",
+          "vms_pos": 0.172,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0034
+        },
+        {
+          "root": "alch",
+          "eva": "alchey",
+          "vms_pos": 0.18,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.0017
+        },
+        {
+          "root": "keo",
+          "eva": "keody",
+          "vms_pos": 0.203,
+          "macer_word": "pulmo",
+          "macer_type": "BODY",
+          "distance": 0.0125
+        },
+        {
+          "root": "olk",
+          "eva": "olkeeey",
+          "vms_pos": 0.211,
+          "macer_word": "pulmo",
+          "macer_type": "BODY",
+          "distance": 0.0203
+        },
+        {
+          "root": "cho",
+          "eva": "chody",
+          "vms_pos": 0.219,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0138
+        },
+        {
+          "root": "daly",
+          "eva": "daly",
+          "vms_pos": 0.234,
+          "macer_word": "febris",
+          "macer_type": "DISEASE",
+          "distance": 0.0019
+        },
+        {
+          "root": "okee",
+          "eva": "okeeor",
+          "vms_pos": 0.242,
+          "macer_word": "oleum",
+          "macer_type": "INGR",
+          "distance": 0.0012
+        },
+        {
+          "root": "tchd",
+          "eva": "tchddy",
+          "vms_pos": 0.289,
+          "macer_word": "tumor",
+          "macer_type": "DISEASE",
+          "distance": 0.0105
+        },
+        {
+          "root": "otsh",
+          "eva": "otsh",
+          "vms_pos": 0.297,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0058
+        },
+        {
+          "root": "alch",
+          "eva": "alchdy",
+          "vms_pos": 0.328,
+          "macer_word": "decoctio",
+          "macer_type": "VERB",
+          "distance": 0.0039
+        },
+        {
+          "root": "oteed",
+          "eva": "oteed",
+          "vms_pos": 0.344,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0077
+        },
+        {
+          "root": "qocth",
+          "eva": "qocthedy",
+          "vms_pos": 0.383,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0003
+        },
+        {
+          "root": "shed",
+          "eva": "shed",
+          "vms_pos": 0.398,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.0017
+        },
+        {
+          "root": "tolk",
+          "eva": "tolkain",
+          "vms_pos": 0.438,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0001
+        },
+        {
+          "root": "otees",
+          "eva": "otees",
+          "vms_pos": 0.492,
+          "macer_word": "sanguis",
+          "macer_type": "BODY",
+          "distance": 0.0
+        },
+        {
+          "root": "ain",
+          "eva": "ain",
+          "vms_pos": 0.516,
+          "macer_word": "dolor",
+          "macer_type": "DISEASE",
+          "distance": 0.0034
+        },
+        {
+          "root": "pched",
+          "eva": "pchedar",
+          "vms_pos": 0.57,
+          "macer_word": "succus",
+          "macer_type": "INGR",
+          "distance": 0.0301
+        },
+        {
+          "root": "shef",
+          "eva": "shef",
+          "vms_pos": 0.602,
+          "macer_word": "caput",
+          "macer_type": "BODY",
+          "distance": 0.002
+        },
+        {
+          "root": "fcheod",
+          "eva": "fcheodal",
+          "vms_pos": 0.641,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.011
+        },
+        {
+          "root": "cpheeg",
+          "eva": "cpheeg",
+          "vms_pos": 0.648,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0032
+        },
+        {
+          "root": "oteo",
+          "eva": "oteody",
+          "vms_pos": 0.656,
+          "macer_word": "venenum",
+          "macer_type": "DISEASE",
+          "distance": 0.0032
+        },
+        {
+          "root": "chckh",
+          "eva": "chckhedy",
+          "vms_pos": 0.68,
+          "macer_word": "sal",
+          "macer_type": "INGR",
+          "distance": 0.0084
+        },
+        {
+          "root": "kaly",
+          "eva": "kaly",
+          "vms_pos": 0.719,
+          "macer_word": "venenum",
+          "macer_type": "DISEASE",
+          "distance": 0.0129
+        },
+        {
+          "root": "tok",
+          "eva": "tokar",
+          "vms_pos": 0.727,
+          "macer_word": "venenum",
+          "macer_type": "DISEASE",
+          "distance": 0.0051
+        },
+        {
+          "root": "sho",
+          "eva": "shody",
+          "vms_pos": 0.75,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0025
+        },
+        {
+          "root": "otch",
+          "eva": "otchedy",
+          "vms_pos": 0.766,
+          "macer_word": "venenum",
+          "macer_type": "DISEASE",
+          "distance": 0.0012
+        },
+        {
+          "root": "cheky",
+          "eva": "cheky",
+          "vms_pos": 0.773,
+          "macer_word": "venenum",
+          "macer_type": "DISEASE",
+          "distance": 0.0091
+        },
+        {
+          "root": "oly",
+          "eva": "oly",
+          "vms_pos": 0.781,
+          "macer_word": "serpens",
+          "macer_type": "DISEASE",
+          "distance": 0.0104
+        },
+        {
+          "root": "lol",
+          "eva": "loldy",
+          "vms_pos": 0.789,
+          "macer_word": "serpens",
+          "macer_type": "DISEASE",
+          "distance": 0.0026
+        },
+        {
+          "root": "otch",
+          "eva": "otchdy",
+          "vms_pos": 0.805,
+          "macer_word": "oleum",
+          "macer_type": "INGR",
+          "distance": 0.0009
+        },
+        {
+          "root": "otol",
+          "eva": "otoldy",
+          "vms_pos": 0.812,
+          "macer_word": "matrix",
+          "macer_type": "BODY",
+          "distance": 0.0006
+        },
+        {
+          "root": "chd",
+          "eva": "chdor",
+          "vms_pos": 0.875,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.004
+        },
+        {
+          "root": "ytched",
+          "eva": "ytchedal",
+          "vms_pos": 0.898,
+          "macer_word": "superaddere",
+          "macer_type": "VERB",
+          "distance": 0.0274
+        },
+        {
+          "root": "ary",
+          "eva": "ary",
+          "vms_pos": 0.93,
+          "macer_word": "jungere",
+          "macer_type": "VERB",
+          "distance": 0.0091
+        },
+        {
+          "root": "chckhy",
+          "eva": "chckhy",
+          "vms_pos": 0.945,
+          "macer_word": "piper",
+          "macer_type": "INGR",
+          "distance": 0.0
+        },
+        {
+          "root": "cheedls",
+          "eva": "cheedls",
+          "vms_pos": 0.984,
+          "macer_word": "vinum",
+          "macer_type": "INGR",
+          "distance": 0.0091
+        },
+        {
+          "root": "sary",
+          "eva": "sary",
+          "vms_pos": 0.992,
+          "macer_word": "trita",
+          "macer_type": "VERB",
+          "distance": 0.0151
+        }
+      ],
+      "anchors": [
+        [
+          "ypch",
+          "aqua"
+        ],
+        [
+          "ykeed",
+          "nitrum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ],
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "otoly",
+          "sal"
+        ],
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ykeed",
+          "nitrum"
+        ]
+      ]
+    }
+  ],
+  "cross_validated": [
+    {
+      "root": "cthy",
+      "word": "superaddere",
+      "type": "VERB",
+      "count": 4,
+      "total": 13,
+      "consistency": 0.31,
+      "alternatives": [
+        [
+          "febris",
+          2
+        ],
+        [
+          "vinum",
+          2
+        ]
+      ]
+    },
+    {
+      "root": "otch",
+      "word": "trita",
+      "type": "VERB",
+      "count": 3,
+      "total": 8,
+      "consistency": 0.38,
+      "alternatives": [
+        [
+          "jungere",
+          1
+        ],
+        [
+          "venter",
+          1
+        ]
+      ]
+    },
+    {
+      "root": "chy",
+      "word": "caput",
+      "type": "BODY",
+      "count": 2,
+      "total": 2,
+      "consistency": 1.0,
+      "alternatives": []
+    },
+    {
+      "root": "dary",
+      "word": "vinum",
+      "type": "INGR",
+      "count": 2,
+      "total": 2,
+      "consistency": 1.0,
+      "alternatives": []
+    },
+    {
+      "root": "qoty",
+      "word": "sumere",
+      "type": "VERB",
+      "count": 2,
+      "total": 2,
+      "consistency": 1.0,
+      "alternatives": []
+    },
+    {
+      "root": "alch",
+      "word": "decoctio",
+      "type": "VERB",
+      "count": 2,
+      "total": 2,
+      "consistency": 1.0,
+      "alternatives": []
+    },
+    {
+      "root": "cho",
+      "word": "febris",
+      "type": "DISEASE",
+      "count": 2,
+      "total": 3,
+      "consistency": 0.67,
+      "alternatives": [
+        [
+          "sanguis",
+          1
+        ]
+      ]
+    },
+    {
+      "root": "chek",
+      "word": "dolor",
+      "type": "DISEASE",
+      "count": 2,
+      "total": 5,
+      "consistency": 0.4,
+      "alternatives": [
+        [
+          "vinum",
+          1
+        ],
+        [
+          "bibere",
+          1
+        ]
+      ]
+    },
+    {
+      "root": "kch",
+      "word": "bibere",
+      "type": "VERB",
+      "count": 2,
+      "total": 11,
+      "consistency": 0.18,
+      "alternatives": [
+        [
+          "caput",
+          1
+        ],
+        [
+          "succus",
+          1
+        ]
+      ]
+    }
+  ]
+}

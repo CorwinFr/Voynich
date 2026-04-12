@@ -1,0 +1,6198 @@
+{
+  "version": "v2_deep_root",
+  "total_words": 531,
+  "tag_distribution": {
+    "UNK": 393,
+    "INGR": 66,
+    "DOSE": 64,
+    "LOGO": 8
+  },
+  "match_methods": {
+    "strip_l": 7,
+    "strip_op": 5,
+    "morphology": 23,
+    "strip_ot": 4,
+    "strip_s": 4,
+    "strip_k": 2,
+    "strip_o": 2,
+    "strip_ch": 3,
+    "strip_d": 3,
+    "strip_sh": 4,
+    "strip_t": 4,
+    "strip_ok+strip_al": 1,
+    "strip_p": 2,
+    "strip_qo": 1,
+    "strip_ch+strip_dy": 1
+  },
+  "recipes": [
+    {
+      "id": "f103r_B01",
+      "n_words": 50,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pchedal",
+          "root": "pched",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:pchedal",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "shdy",
+          "root": "sh",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "ytechypchy",
+          "root": "ytechyp",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ytechypchy",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "otey",
+          "root": "ot",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otey",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "lshey",
+          "root": "lsh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:shey→f41r",
+          "match_detail": "(strip_l,pharma_crossref)"
+        },
+        {
+          "pos": 5,
+          "eva": "qoteey",
+          "root": "qot",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoteey",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "qotal",
+          "root": "qot",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotal",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "yshdal",
+          "root": "yshd",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:yshdal",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "dain",
+          "root": "d",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "okal",
+          "root": "ok",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okal",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "daldy",
+          "root": "dal",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:daldy",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "dain",
+          "root": "d",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "shek",
+          "root": "shek",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shek",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "chcphhdy",
+          "root": "chcphh",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chcphhdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "daloky",
+          "root": "daloky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:daloky",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "opchedy",
+          "root": "opch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chedy→f94r",
+          "match_detail": "(strip_op,pharma_crossref)"
+        },
+        {
+          "pos": 17,
+          "eva": "peshol",
+          "root": "pesh",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:peshol",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "chep",
+          "root": "chep",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chep",
+          "match_detail": ""
+        },
+        {
+          "pos": 19,
+          "eva": "ar",
+          "root": "ar",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 20,
+          "eva": "otchy",
+          "root": "ot",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chy→f50v",
+          "match_detail": "(strip_ot,pharma_crossref)"
+        },
+        {
+          "pos": 21,
+          "eva": "sal",
+          "root": "s",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sal",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "lkeey",
+          "root": "lk",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lkeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "sar",
+          "root": "s",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(strip_s,pharma_crossref)"
+        },
+        {
+          "pos": 24,
+          "eva": "ain",
+          "root": "ain",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ain",
+          "match_detail": ""
+        },
+        {
+          "pos": 25,
+          "eva": "ok",
+          "root": "ok",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ok",
+          "match_detail": ""
+        },
+        {
+          "pos": 26,
+          "eva": "chedy",
+          "root": "ch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 27,
+          "eva": "yshdain",
+          "root": "yshd",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 28,
+          "eva": "sheek",
+          "root": "sheek",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheek",
+          "match_detail": ""
+        },
+        {
+          "pos": 29,
+          "eva": "cheoty",
+          "root": "cheoty",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:cheoty",
+          "match_detail": ""
+        },
+        {
+          "pos": 30,
+          "eva": "eeokal",
+          "root": "eeok",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:eeokal",
+          "match_detail": ""
+        },
+        {
+          "pos": 31,
+          "eva": "chedy",
+          "root": "ch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 32,
+          "eva": "chckhy",
+          "root": "chckhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chckhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 33,
+          "eva": "or",
+          "root": "or",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:or→f24r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 34,
+          "eva": "orol",
+          "root": "or",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:or→f24r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 35,
+          "eva": "okaiin",
+          "root": "ok",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 36,
+          "eva": "eeal",
+          "root": "ee",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:eeal",
+          "match_detail": ""
+        },
+        {
+          "pos": 37,
+          "eva": "ot",
+          "root": "ot",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ot",
+          "match_detail": ""
+        },
+        {
+          "pos": 38,
+          "eva": "kar",
+          "root": "k",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(strip_k,pharma_crossref)"
+        },
+        {
+          "pos": 39,
+          "eva": "otar",
+          "root": "ot",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(strip_ot,pharma_crossref)"
+        },
+        {
+          "pos": 40,
+          "eva": "chal",
+          "root": "ch",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chal",
+          "match_detail": ""
+        },
+        {
+          "pos": 41,
+          "eva": "ychedy",
+          "root": "ych",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ychedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 42,
+          "eva": "qokedy",
+          "root": "qok",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 43,
+          "eva": "okedy",
+          "root": "ok",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 44,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 45,
+          "eva": "okey",
+          "root": "ok",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okey",
+          "match_detail": ""
+        },
+        {
+          "pos": 46,
+          "eva": "chdar",
+          "root": "chd",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chdar",
+          "match_detail": ""
+        },
+        {
+          "pos": 47,
+          "eva": "ol",
+          "root": "ol",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 48,
+          "eva": "loty",
+          "root": "loty",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:loty",
+          "match_detail": ""
+        },
+        {
+          "pos": 49,
+          "eva": "chedaraly",
+          "root": "chedaraly",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedaraly",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 10,
+        "DOSE": 4,
+        "LOGO": 0,
+        "UNK": 36
+      },
+      "unique_ingredients": 8,
+      "pattern": "....I....D..D...I..II..I...D.....IID..II.......I.."
+    },
+    {
+      "id": "f103r_B02",
+      "n_words": 35,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pocharal",
+          "root": "pochar",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:pocharal",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "okedar",
+          "root": "oked",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okedar",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "oteey",
+          "root": "ot",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteey",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "qokey",
+          "root": "qok",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokey",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "lkar",
+          "root": "lk",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lkar",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "sheeky",
+          "root": "sheeky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheeky",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "okalor",
+          "root": "okal",
+          "suffix": "or",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okalor",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "yt",
+          "root": "yt",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:yt",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "rkar",
+          "root": "rk",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:rkar",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "ota",
+          "root": "ota",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ota",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "okdy",
+          "root": "ok",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "ocheey",
+          "root": "och",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:cheey→f87v",
+          "match_detail": "(strip_o,pharma_crossref)"
+        },
+        {
+          "pos": 14,
+          "eva": "dain",
+          "root": "d",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "shek",
+          "root": "shek",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shek",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "okeedy",
+          "root": "ok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "okey",
+          "root": "ok",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okey",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 19,
+          "eva": "qokealdy",
+          "root": "qokeal",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokealdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "shcthy",
+          "root": "shcthy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shcthy",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "qotedy",
+          "root": "qot",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "qoto",
+          "root": "qoto",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoto",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "ota",
+          "root": "ota",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ota",
+          "match_detail": ""
+        },
+        {
+          "pos": 24,
+          "eva": "san",
+          "root": "san",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:san",
+          "match_detail": ""
+        },
+        {
+          "pos": 25,
+          "eva": "am",
+          "root": "am",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:am",
+          "match_detail": ""
+        },
+        {
+          "pos": 26,
+          "eva": "saiin",
+          "root": "s",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 27,
+          "eva": "chey",
+          "root": "ch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chey",
+          "match_detail": ""
+        },
+        {
+          "pos": 28,
+          "eva": "shs",
+          "root": "shs",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shs",
+          "match_detail": ""
+        },
+        {
+          "pos": 29,
+          "eva": "olshedy",
+          "root": "olsh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:olshedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 30,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 31,
+          "eva": "okeeody",
+          "root": "okeeo",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeeody",
+          "match_detail": ""
+        },
+        {
+          "pos": 32,
+          "eva": "qoedy",
+          "root": "qo",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 33,
+          "eva": "ol",
+          "root": "ol",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 34,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 2,
+        "DOSE": 2,
+        "LOGO": 0,
+        "UNK": 31
+      },
+      "unique_ingredients": 2,
+      "pattern": ".............ID...........D......I."
+    },
+    {
+      "id": "f103r_B03",
+      "n_words": 62,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "daroal",
+          "root": "daro",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:daroal",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "okey",
+          "root": "ok",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okey",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "chedy",
+          "root": "ch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "okey",
+          "root": "ok",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okey",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "rain",
+          "root": "r",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "okechy",
+          "root": "oke",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okechy",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "qoisal",
+          "root": "qois",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoisal",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "qotar",
+          "root": "qot",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotar",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "adchey",
+          "root": "adch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:adchey",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "ofeeo",
+          "root": "ofeeo",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ofeeo",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "ltdy",
+          "root": "lt",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ltdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "olkechdy",
+          "root": "olkech",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:olkechdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "lo",
+          "root": "lo",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lo",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "oteeos",
+          "root": "oteeos",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteeos",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "ar",
+          "root": "ar",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 15,
+          "eva": "cheal",
+          "root": "che",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:cheal",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "okeey",
+          "root": "ok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "lkaiin",
+          "root": "lk",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 19,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "lkeor",
+          "root": "lke",
+          "suffix": "or",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lkeor",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "otaiin",
+          "root": "ot",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "otey",
+          "root": "ot",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otey",
+          "match_detail": ""
+        },
+        {
+          "pos": 24,
+          "eva": "l",
+          "root": "",
+          "suffix": null,
+          "i_count": null,
+          "tag": "LOGO",
+          "label": "LOGO:se",
+          "match_detail": ""
+        },
+        {
+          "pos": 25,
+          "eva": "dy",
+          "root": "dy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:dy",
+          "match_detail": ""
+        },
+        {
+          "pos": 26,
+          "eva": "okeedaram",
+          "root": "okeedar",
+          "suffix": "am",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeedaram",
+          "match_detail": ""
+        },
+        {
+          "pos": 27,
+          "eva": "daiin",
+          "root": "d",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 28,
+          "eva": "ol",
+          "root": "ol",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 29,
+          "eva": "oain",
+          "root": "o",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 30,
+          "eva": "okeol",
+          "root": "ok",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeol",
+          "match_detail": ""
+        },
+        {
+          "pos": 31,
+          "eva": "chol",
+          "root": "ch",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(strip_ch,pharma_crossref)"
+        },
+        {
+          "pos": 32,
+          "eva": "okam",
+          "root": "ok",
+          "suffix": "am",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okam",
+          "match_detail": ""
+        },
+        {
+          "pos": 33,
+          "eva": "chety",
+          "root": "chety",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chety",
+          "match_detail": ""
+        },
+        {
+          "pos": 34,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 35,
+          "eva": "otaiin",
+          "root": "ot",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 36,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 37,
+          "eva": "teolshy",
+          "root": "teol",
+          "suffix": "shy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:teolshy",
+          "match_detail": ""
+        },
+        {
+          "pos": 38,
+          "eva": "oteedy",
+          "root": "ot",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 39,
+          "eva": "sor",
+          "root": "s",
+          "suffix": "or",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:or→f24r",
+          "match_detail": "(strip_s,pharma_crossref)"
+        },
+        {
+          "pos": 40,
+          "eva": "ain",
+          "root": "ain",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ain",
+          "match_detail": ""
+        },
+        {
+          "pos": 41,
+          "eva": "dar",
+          "root": "d",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(strip_d,pharma_crossref)"
+        },
+        {
+          "pos": 42,
+          "eva": "oteey",
+          "root": "ot",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteey",
+          "match_detail": ""
+        },
+        {
+          "pos": 43,
+          "eva": "otain",
+          "root": "ot",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 44,
+          "eva": "lolshedy",
+          "root": "lolsh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lolshedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 45,
+          "eva": "okain",
+          "root": "ok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 46,
+          "eva": "chey",
+          "root": "ch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chey",
+          "match_detail": ""
+        },
+        {
+          "pos": 47,
+          "eva": "qorain",
+          "root": "qor",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 48,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 49,
+          "eva": "otoy",
+          "root": "otoy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otoy",
+          "match_detail": ""
+        },
+        {
+          "pos": 50,
+          "eva": "qokeol",
+          "root": "qok",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeol",
+          "match_detail": ""
+        },
+        {
+          "pos": 51,
+          "eva": "key",
+          "root": "k",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:key",
+          "match_detail": ""
+        },
+        {
+          "pos": 52,
+          "eva": "daikhyky",
+          "root": "daikhyky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:daikhyky",
+          "match_detail": ""
+        },
+        {
+          "pos": 53,
+          "eva": "oain",
+          "root": "o",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 54,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 55,
+          "eva": "shckhy",
+          "root": "shckhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shckhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 56,
+          "eva": "oteey",
+          "root": "ot",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteey",
+          "match_detail": ""
+        },
+        {
+          "pos": 57,
+          "eva": "qokeol",
+          "root": "qok",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeol",
+          "match_detail": ""
+        },
+        {
+          "pos": 58,
+          "eva": "keedy",
+          "root": "k",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:keedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 59,
+          "eva": "shar",
+          "root": "sh",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(strip_sh,pharma_crossref)"
+        },
+        {
+          "pos": 60,
+          "eva": "aiin",
+          "root": "aiin",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:aiin→f10v",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 61,
+          "eva": "otedy",
+          "root": "ot",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otedy",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 7,
+        "DOSE": 10,
+        "LOGO": 1,
+        "UNK": 44
+      },
+      "unique_ingredients": 7,
+      "pattern": "....D.........I...D..D..L..DID.I...D...I.I.D.D.D.....D.....II."
+    },
+    {
+      "id": "f103r_B04",
+      "n_words": 30,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "podar",
+          "root": "pod",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:podar",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "sheor",
+          "root": "she",
+          "suffix": "or",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheor",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "qotedy",
+          "root": "qot",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "okeey",
+          "root": "ok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "qokar",
+          "root": "qok",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokar",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "checkhy",
+          "root": "checkhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:checkhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "qokain",
+          "root": "qok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "chedy",
+          "root": "ch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "pchdy",
+          "root": "pch",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:pchdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "tshdy",
+          "root": "tsh",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:tshdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "dal",
+          "root": "d",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:dal",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "kasol",
+          "root": "kas",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:kasol",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "okain",
+          "root": "ok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "shekain",
+          "root": "shek",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "chedy",
+          "root": "ch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "qokeechy",
+          "root": "qokee",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeechy",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "qoky",
+          "root": "qoky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoky",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "lol",
+          "root": "l",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(strip_l,pharma_crossref)"
+        },
+        {
+          "pos": 19,
+          "eva": "s",
+          "root": "",
+          "suffix": null,
+          "i_count": null,
+          "tag": "LOGO",
+          "label": "LOGO:est",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "aiin",
+          "root": "aiin",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:aiin→f10v",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 21,
+          "eva": "chey",
+          "root": "ch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chey",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "eekain",
+          "root": "eek",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "chcthy",
+          "root": "chcthy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chcthy",
+          "match_detail": ""
+        },
+        {
+          "pos": 24,
+          "eva": "qoky",
+          "root": "qoky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoky",
+          "match_detail": ""
+        },
+        {
+          "pos": 25,
+          "eva": "qotedy",
+          "root": "qot",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 26,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 27,
+          "eva": "shol",
+          "root": "sh",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(strip_sh,pharma_crossref)"
+        },
+        {
+          "pos": 28,
+          "eva": "qotey",
+          "root": "qot",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotey",
+          "match_detail": ""
+        },
+        {
+          "pos": 29,
+          "eva": "shkaiin",
+          "root": "shk",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 3,
+        "DOSE": 5,
+        "LOGO": 1,
+        "UNK": 21
+      },
+      "unique_ingredients": 3,
+      "pattern": "......D.....DD....ILI.D....I.D"
+    },
+    {
+      "id": "f103r_B05",
+      "n_words": 21,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "dshol",
+          "root": "dsh",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:shol→f11r",
+          "match_detail": "(strip_d,pharma_crossref)"
+        },
+        {
+          "pos": 1,
+          "eva": "sholkar",
+          "root": "sholk",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sholkar",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "shdaiin",
+          "root": "shd",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "cheey",
+          "root": "ch",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:cheey",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "rar",
+          "root": "r",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:rar",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "okeey",
+          "root": "ok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "shcfhedy",
+          "root": "shcfh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shcfhedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "opcheol",
+          "root": "opch",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:cheol→f101r",
+          "match_detail": "(strip_op,pharma_crossref)"
+        },
+        {
+          "pos": 8,
+          "eva": "oteedy",
+          "root": "ot",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "tchey",
+          "root": "tch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chey→f40r",
+          "match_detail": "(strip_t,pharma_crossref)"
+        },
+        {
+          "pos": 10,
+          "eva": "shky",
+          "root": "shky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shky",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "sar",
+          "root": "s",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(strip_s,pharma_crossref)"
+        },
+        {
+          "pos": 12,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "qokey",
+          "root": "qok",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokey",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "keedy",
+          "root": "k",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:keedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "chckhy",
+          "root": "chckhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chckhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "qokal",
+          "root": "qok",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokal",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "oty",
+          "root": "oty",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oty",
+          "match_detail": ""
+        },
+        {
+          "pos": 19,
+          "eva": "or",
+          "root": "or",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:or→f24r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 20,
+          "eva": "aiin",
+          "root": "aiin",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:aiin→f10v",
+          "match_detail": "(morphology,pharma_crossref)"
+        }
+      ],
+      "counts": {
+        "INGR": 6,
+        "DOSE": 1,
+        "LOGO": 0,
+        "UNK": 14
+      },
+      "unique_ingredients": 6,
+      "pattern": "I.D....I.I.I.......II"
+    },
+    {
+      "id": "f103r_B06",
+      "n_words": 28,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "polchedy",
+          "root": "polch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:polchedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "qokeol",
+          "root": "qok",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeol",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "okain",
+          "root": "ok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "checthy",
+          "root": "checthy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:checthy",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "oteeylshedy",
+          "root": "oteeylsh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteeylshedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "okain",
+          "root": "ok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "qokain",
+          "root": "qok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "qokalshedy",
+          "root": "qokalsh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokalshedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "oteys",
+          "root": "oteys",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteys",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "okaiin",
+          "root": "ok",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "chey",
+          "root": "ch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chey",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "qoy",
+          "root": "qoy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoy",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "qokaiin",
+          "root": "qok",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "chedy",
+          "root": "ch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "qokain",
+          "root": "qok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "oteol",
+          "root": "ot",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteol",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "lkar",
+          "root": "lk",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lkar",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "okaral",
+          "root": "okar",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(strip_ok+strip_al,deep_strip)"
+        },
+        {
+          "pos": 19,
+          "eva": "lkldy",
+          "root": "lkl",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lkldy",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "lr",
+          "root": "lr",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lr",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "ychain",
+          "root": "ych",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "shckhy",
+          "root": "shckhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shckhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "qokaiin",
+          "root": "qok",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 24,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 25,
+          "eva": "qokaiin",
+          "root": "qok",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 26,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 27,
+          "eva": "olor",
+          "root": "ol",
+          "suffix": "or",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(morphology,pharma_crossref)"
+        }
+      ],
+      "counts": {
+        "INGR": 2,
+        "DOSE": 9,
+        "LOGO": 0,
+        "UNK": 17
+      },
+      "unique_ingredients": 2,
+      "pattern": "..D..DD..D...D.D..I..D.D.D.I"
+    },
+    {
+      "id": "f103r_B07",
+      "n_words": 29,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pcheam",
+          "root": "pche",
+          "suffix": "am",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:pcheam",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "sokedy",
+          "root": "sok",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sokedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "dalkar",
+          "root": "dalk",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:dalkar",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "otal",
+          "root": "ot",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otal",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "qokal",
+          "root": "qok",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokal",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "chepy",
+          "root": "chepy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chepy",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "okedy",
+          "root": "ok",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "qoky",
+          "root": "qoky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoky",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "pchedy",
+          "root": "pch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chedy→f94r",
+          "match_detail": "(strip_p,pharma_crossref)"
+        },
+        {
+          "pos": 9,
+          "eva": "okaly",
+          "root": "okaly",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okaly",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "qokeedy",
+          "root": "qok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "lor",
+          "root": "l",
+          "suffix": "or",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:or→f24r",
+          "match_detail": "(strip_l,pharma_crossref)"
+        },
+        {
+          "pos": 12,
+          "eva": "dalshy",
+          "root": "dal",
+          "suffix": "shy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:dalshy",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "okain",
+          "root": "ok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "shckhody",
+          "root": "shckho",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shckhody",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "shdal",
+          "root": "shd",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shdal",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "qokeedy",
+          "root": "qok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "qotar",
+          "root": "qot",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotar",
+          "match_detail": ""
+        },
+        {
+          "pos": 19,
+          "eva": "chcthy",
+          "root": "chcthy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chcthy",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "chep",
+          "root": "chep",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chep",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "ar",
+          "root": "ar",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 22,
+          "eva": "otar",
+          "root": "ot",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(strip_ot,pharma_crossref)"
+        },
+        {
+          "pos": 23,
+          "eva": "opchy",
+          "root": "op",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chy→f50v",
+          "match_detail": "(strip_op,pharma_crossref)"
+        },
+        {
+          "pos": 24,
+          "eva": "daiin",
+          "root": "d",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 25,
+          "eva": "sheckhy",
+          "root": "sheckhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheckhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 26,
+          "eva": "lchedy",
+          "root": "lch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chedy→f94r",
+          "match_detail": "(strip_l,pharma_crossref)"
+        },
+        {
+          "pos": 27,
+          "eva": "chckhy",
+          "root": "chckhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chckhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 28,
+          "eva": "shol",
+          "root": "sh",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(strip_sh,pharma_crossref)"
+        }
+      ],
+      "counts": {
+        "INGR": 7,
+        "DOSE": 2,
+        "LOGO": 0,
+        "UNK": 20
+      },
+      "unique_ingredients": 7,
+      "pattern": "........I..I.D.......IIID.I.I"
+    },
+    {
+      "id": "f103r_B08",
+      "n_words": 31,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "tchoky",
+          "root": "tchoky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:tchoky",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "okeal",
+          "root": "oke",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeal",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "qokal",
+          "root": "qok",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokal",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "oty",
+          "root": "oty",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oty",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "opchedy",
+          "root": "opch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chedy→f94r",
+          "match_detail": "(strip_op,pharma_crossref)"
+        },
+        {
+          "pos": 6,
+          "eva": "qotain",
+          "root": "qot",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "shcthy",
+          "root": "shcthy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shcthy",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "otey",
+          "root": "ot",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otey",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "dain",
+          "root": "d",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "oteey",
+          "root": "ot",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteey",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "oky",
+          "root": "oky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oky",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "dar",
+          "root": "d",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(strip_d,pharma_crossref)"
+        },
+        {
+          "pos": 13,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "qokain",
+          "root": "qok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "chckhey",
+          "root": "chckh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chckhey",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "chey",
+          "root": "ch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chey",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "kain",
+          "root": "k",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "chedal",
+          "root": "ched",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedal",
+          "match_detail": ""
+        },
+        {
+          "pos": 19,
+          "eva": "okeeey",
+          "root": "ok",
+          "suffix": "eeey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "qoodain",
+          "root": "qood",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "okain",
+          "root": "ok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "oteey",
+          "root": "ot",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteey",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "ol",
+          "root": "ol",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 24,
+          "eva": "oteedy",
+          "root": "ot",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 25,
+          "eva": "okeey",
+          "root": "ok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 26,
+          "eva": "qotchy",
+          "root": "qot",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotchy",
+          "match_detail": ""
+        },
+        {
+          "pos": 27,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 28,
+          "eva": "olcheedar",
+          "root": "olcheed",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:olcheedar",
+          "match_detail": ""
+        },
+        {
+          "pos": 29,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 30,
+          "eva": "lotor",
+          "root": "lot",
+          "suffix": "or",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lotor",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 3,
+        "DOSE": 6,
+        "LOGO": 0,
+        "UNK": 22
+      },
+      "unique_ingredients": 3,
+      "pattern": ".....ID..D..I.D..D..DD.I......."
+    },
+    {
+      "id": "f103r_B09",
+      "n_words": 28,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "qokechy",
+          "root": "qoke",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokechy",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "okeey",
+          "root": "ok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "lkeeody",
+          "root": "lkeeo",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lkeeody",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "sheey",
+          "root": "sh",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheey",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "lkeol",
+          "root": "lk",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lkeol",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "tchey",
+          "root": "tch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chey→f40r",
+          "match_detail": "(strip_t,pharma_crossref)"
+        },
+        {
+          "pos": 8,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "okeey",
+          "root": "ok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "qokaly",
+          "root": "qokaly",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokaly",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "deshedy",
+          "root": "desh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:deshedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "qokeeey",
+          "root": "qok",
+          "suffix": "eeey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "dalkain",
+          "root": "dalk",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "okaiin",
+          "root": "ok",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "chedy",
+          "root": "ch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "otain",
+          "root": "ot",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "ain",
+          "root": "ain",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ain",
+          "match_detail": ""
+        },
+        {
+          "pos": 19,
+          "eva": "ol",
+          "root": "ol",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 20,
+          "eva": "cheey",
+          "root": "ch",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:cheey",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "lkeedy",
+          "root": "lk",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lkeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "qokeeechy",
+          "root": "qokeee",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeeechy",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "shokeey",
+          "root": "shok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 24,
+          "eva": "qochey",
+          "root": "qoch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chey→f40r",
+          "match_detail": "(strip_qo,pharma_crossref)"
+        },
+        {
+          "pos": 25,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 26,
+          "eva": "chal",
+          "root": "ch",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chal",
+          "match_detail": ""
+        },
+        {
+          "pos": 27,
+          "eva": "chedy",
+          "root": "ch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedy",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 3,
+        "DOSE": 3,
+        "LOGO": 0,
+        "UNK": 22
+      },
+      "unique_ingredients": 3,
+      "pattern": ".......I.....DD..D.I....I..."
+    },
+    {
+      "id": "f103r_B10",
+      "n_words": 28,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pcholkchdy",
+          "root": "pcholkch",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:pcholkchdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "sheckhy",
+          "root": "sheckhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheckhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "qokey",
+          "root": "qok",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokey",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "okaiin",
+          "root": "ok",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "chpchy",
+          "root": "chp",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chpchy",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "opchedy",
+          "root": "opch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chedy→f94r",
+          "match_detail": "(strip_op,pharma_crossref)"
+        },
+        {
+          "pos": 7,
+          "eva": "oteeykshy",
+          "root": "oteeyk",
+          "suffix": "shy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteeykshy",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "chdaly",
+          "root": "chdaly",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chdaly",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "soiin",
+          "root": "soiin",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:soiin",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "chol",
+          "root": "ch",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(strip_ch,pharma_crossref)"
+        },
+        {
+          "pos": 11,
+          "eva": "kaiin",
+          "root": "k",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "chal",
+          "root": "ch",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chal",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "okaiin",
+          "root": "ok",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "shckhy",
+          "root": "shckhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shckhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "qokal",
+          "root": "qok",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokal",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "shdar",
+          "root": "shd",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shdar",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "shchdy",
+          "root": "shch",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shchdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "okaiin",
+          "root": "ok",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 19,
+          "eva": "chty",
+          "root": "chty",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chty",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "okeey",
+          "root": "ok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "qokedy",
+          "root": "qok",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "qokal",
+          "root": "qok",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokal",
+          "match_detail": ""
+        },
+        {
+          "pos": 24,
+          "eva": "shety",
+          "root": "shety",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shety",
+          "match_detail": ""
+        },
+        {
+          "pos": 25,
+          "eva": "otedy",
+          "root": "ot",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 26,
+          "eva": "shcthy",
+          "root": "shcthy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shcthy",
+          "match_detail": ""
+        },
+        {
+          "pos": 27,
+          "eva": "oraiin",
+          "root": "or",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 2,
+        "DOSE": 5,
+        "LOGO": 0,
+        "UNK": 21
+      },
+      "unique_ingredients": 2,
+      "pattern": "...D..I...ID.D....D........D"
+    },
+    {
+      "id": "f103r_B11",
+      "n_words": 14,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "chechy",
+          "root": "che",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chechy",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "qokey",
+          "root": "qok",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokey",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "shckhy",
+          "root": "shckhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shckhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "choldy",
+          "root": "chol",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(strip_ch+strip_dy,deep_strip)"
+        },
+        {
+          "pos": 5,
+          "eva": "qokal",
+          "root": "qok",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokal",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "y",
+          "root": "",
+          "suffix": null,
+          "i_count": null,
+          "tag": "LOGO",
+          "label": "LOGO:in",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "yteedy",
+          "root": "yt",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:yteedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "qotail",
+          "root": "qotail",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotail",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "sheod",
+          "root": "sheod",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheod",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "oshey",
+          "root": "osh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:shey→f41r",
+          "match_detail": "(strip_o,pharma_crossref)"
+        },
+        {
+          "pos": 13,
+          "eva": "cheedalaiin",
+          "root": "cheedal",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 2,
+        "DOSE": 1,
+        "LOGO": 1,
+        "UNK": 10
+      },
+      "unique_ingredients": 2,
+      "pattern": "....I.L.....ID"
+    },
+    {
+      "id": "f103r_B12",
+      "n_words": 18,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "qokecar",
+          "root": "qokec",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokecar",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "chain",
+          "root": "ch",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "olain",
+          "root": "ol",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "chey",
+          "root": "ch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chey",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "kain",
+          "root": "k",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "sheol",
+          "root": "sh",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheol",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "shedain",
+          "root": "shed",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "qokeedy",
+          "root": "qok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "ykeedy",
+          "root": "yk",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ykeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "lcheg",
+          "root": "lcheg",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lcheg",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "okool",
+          "root": "oko",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okool",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "chedy",
+          "root": "ch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "okeedy",
+          "root": "ok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "qokeedy",
+          "root": "qok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "shdy",
+          "root": "sh",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "otey",
+          "root": "ot",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otey",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 0,
+        "DOSE": 4,
+        "LOGO": 0,
+        "UNK": 14
+      },
+      "unique_ingredients": 0,
+      "pattern": ".DD.D.D..........."
+    },
+    {
+      "id": "f103r_B13",
+      "n_words": 24,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pchedy",
+          "root": "pch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chedy→f94r",
+          "match_detail": "(strip_p,pharma_crossref)"
+        },
+        {
+          "pos": 1,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "qokeodair",
+          "root": "qokeod",
+          "suffix": "air",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeodair",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "qokshy",
+          "root": "qok",
+          "suffix": "shy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokshy",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "qokeedy",
+          "root": "qok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "qokchdy",
+          "root": "qokch",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokchdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "chsky",
+          "root": "chsky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chsky",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "eeey",
+          "root": "e",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:eeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "shalky",
+          "root": "shalky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shalky",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "otechedy",
+          "root": "otech",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otechedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "qokain",
+          "root": "qok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "shcthy",
+          "root": "shcthy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shcthy",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "chckhy",
+          "root": "chckhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chckhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "lokeedy",
+          "root": "lok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lokeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "checkhy",
+          "root": "checkhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:checkhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "lokain",
+          "root": "lok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "okeey",
+          "root": "ok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "ykeedy",
+          "root": "yk",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ykeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 19,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "lsheey",
+          "root": "lsh",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lsheey",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "qotal",
+          "root": "qot",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotal",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "oteey",
+          "root": "ot",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteey",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 1,
+        "DOSE": 2,
+        "LOGO": 0,
+        "UNK": 21
+      },
+      "unique_ingredients": 1,
+      "pattern": "I.........D....D........"
+    },
+    {
+      "id": "f103r_B14",
+      "n_words": 27,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "sheeol",
+          "root": "she",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheeol",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "shckhy",
+          "root": "shckhy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shckhy",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "sheol",
+          "root": "sh",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheol",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "shodyol",
+          "root": "shody",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:shody→f17r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 5,
+          "eva": "aiin",
+          "root": "aiin",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:aiin→f10v",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 6,
+          "eva": "otedy",
+          "root": "ot",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "qoteey",
+          "root": "qot",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoteey",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "lotar",
+          "root": "lot",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lotar",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "otam",
+          "root": "ot",
+          "suffix": "am",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otam",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "cheol",
+          "root": "ch",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:cheol",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "sheeey",
+          "root": "sh",
+          "suffix": "eeey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "qotey",
+          "root": "qot",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotey",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "oteeal",
+          "root": "otee",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteeal",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "oteedy",
+          "root": "ot",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "shet",
+          "root": "shet",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shet",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "sho",
+          "root": "sho",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:sho→f44v",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 17,
+          "eva": "keeo",
+          "root": "keeo",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:keeo",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "s",
+          "root": "",
+          "suffix": null,
+          "i_count": null,
+          "tag": "LOGO",
+          "label": "LOGO:est",
+          "match_detail": ""
+        },
+        {
+          "pos": 19,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "qokeedy",
+          "root": "qok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "qokal",
+          "root": "qok",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokal",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "dal",
+          "root": "d",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:dal",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "tshey",
+          "root": "tsh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:shey→f41r",
+          "match_detail": "(strip_t,pharma_crossref)"
+        },
+        {
+          "pos": 24,
+          "eva": "sheol",
+          "root": "sh",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheol",
+          "match_detail": ""
+        },
+        {
+          "pos": 25,
+          "eva": "cheolshy",
+          "root": "cheol",
+          "suffix": "shy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:cheol→f101r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 26,
+          "eva": "chalal",
+          "root": "chal",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chalal",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 5,
+        "DOSE": 0,
+        "LOGO": 1,
+        "UNK": 21
+      },
+      "unique_ingredients": 5,
+      "pattern": "....II..........I.L....I.I."
+    },
+    {
+      "id": "f103r_B15",
+      "n_words": 16,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "tar",
+          "root": "t",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ar→f33v",
+          "match_detail": "(strip_t,pharma_crossref)"
+        },
+        {
+          "pos": 1,
+          "eva": "cheal",
+          "root": "che",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:cheal",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "ol",
+          "root": "ol",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 3,
+          "eva": "sheey",
+          "root": "sh",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheey",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "qotal",
+          "root": "qot",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qotal",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "sheal",
+          "root": "she",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheal",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "qokal",
+          "root": "qok",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokal",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "sheedy",
+          "root": "sh",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "okeshedy",
+          "root": "okesh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeshedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "shokey",
+          "root": "shok",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shokey",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "qokaiin",
+          "root": "qok",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "odeeey",
+          "root": "od",
+          "suffix": "eeey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:odeeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "sheal",
+          "root": "she",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheal",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "otshedy",
+          "root": "otsh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:shedy→f94v",
+          "match_detail": "(strip_ot,pharma_crossref)"
+        }
+      ],
+      "counts": {
+        "INGR": 3,
+        "DOSE": 1,
+        "LOGO": 0,
+        "UNK": 12
+      },
+      "unique_ingredients": 3,
+      "pattern": "I.I.......D....I"
+    },
+    {
+      "id": "f103r_B16",
+      "n_words": 28,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "qokeedy",
+          "root": "qok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "qokeedy",
+          "root": "qok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "shol",
+          "root": "sh",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(strip_sh,pharma_crossref)"
+        },
+        {
+          "pos": 3,
+          "eva": "shedar",
+          "root": "shed",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedar",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "chedy",
+          "root": "ch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "qoteedy",
+          "root": "qot",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoteedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "oteedy",
+          "root": "ot",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "olkeol",
+          "root": "olk",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:olkeol",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "ltar",
+          "root": "lt",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ltar",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "y",
+          "root": "",
+          "suffix": null,
+          "i_count": null,
+          "tag": "LOGO",
+          "label": "LOGO:in",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "chol",
+          "root": "ch",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(strip_ch,pharma_crossref)"
+        },
+        {
+          "pos": 11,
+          "eva": "keey",
+          "root": "k",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:keey",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "cheol",
+          "root": "ch",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:cheol",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "chorol",
+          "root": "chor",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chor→f19r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 15,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "ol",
+          "root": "ol",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 19,
+          "eva": "loiin",
+          "root": "loiin",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:loiin",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "chedan",
+          "root": "chedan",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedan",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "ssheey",
+          "root": "ssh",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ssheey",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "okeeo",
+          "root": "okeeo",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeeo",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "l",
+          "root": "",
+          "suffix": null,
+          "i_count": null,
+          "tag": "LOGO",
+          "label": "LOGO:se",
+          "match_detail": ""
+        },
+        {
+          "pos": 24,
+          "eva": "lchey",
+          "root": "lch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chey→f40r",
+          "match_detail": "(strip_l,pharma_crossref)"
+        },
+        {
+          "pos": 25,
+          "eva": "qokaly",
+          "root": "qokaly",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokaly",
+          "match_detail": ""
+        },
+        {
+          "pos": 26,
+          "eva": "lcheedy",
+          "root": "lch",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lcheedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 27,
+          "eva": "oloraiin",
+          "root": "olor",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 5,
+        "DOSE": 1,
+        "LOGO": 2,
+        "UNK": 20
+      },
+      "unique_ingredients": 5,
+      "pattern": "..I......LI...I...I....LI..D"
+    },
+    {
+      "id": "f103r_B17",
+      "n_words": 37,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "polarar",
+          "root": "polar",
+          "suffix": "ar",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:polarar",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "lshedy",
+          "root": "lsh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:shedy→f94v",
+          "match_detail": "(strip_l,pharma_crossref)"
+        },
+        {
+          "pos": 2,
+          "eva": "qotolaiin",
+          "root": "qotol",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "shkchy",
+          "root": "shk",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shkchy",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "opchealol",
+          "root": "opcheal",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:opchealol",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "kchy",
+          "root": "k",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chy→f50v",
+          "match_detail": "(strip_k,pharma_crossref)"
+        },
+        {
+          "pos": 8,
+          "eva": "sam",
+          "root": "s",
+          "suffix": "am",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sam",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "okeey",
+          "root": "ok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "lr",
+          "root": "lr",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:lr",
+          "match_detail": ""
+        },
+        {
+          "pos": 11,
+          "eva": "ain",
+          "root": "ain",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ain",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "l",
+          "root": "",
+          "suffix": null,
+          "i_count": null,
+          "tag": "LOGO",
+          "label": "LOGO:se",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "ol",
+          "root": "ol",
+          "suffix": "",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:ol→f22r",
+          "match_detail": "(morphology,pharma_crossref)"
+        },
+        {
+          "pos": 14,
+          "eva": "sheed",
+          "root": "sheed",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheed",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "sheol",
+          "root": "sh",
+          "suffix": "eol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:sheol",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "qokeedy",
+          "root": "qok",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "shedy",
+          "root": "sh",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 19,
+          "eva": "qoky",
+          "root": "qoky",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoky",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "leeesain",
+          "root": "leees",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "am",
+          "root": "am",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:am",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "ssheey",
+          "root": "ssh",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:ssheey",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "l",
+          "root": "",
+          "suffix": null,
+          "i_count": null,
+          "tag": "LOGO",
+          "label": "LOGO:se",
+          "match_detail": ""
+        },
+        {
+          "pos": 24,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 25,
+          "eva": "qol",
+          "root": "q",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qol",
+          "match_detail": ""
+        },
+        {
+          "pos": 26,
+          "eva": "cheey",
+          "root": "ch",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:cheey",
+          "match_detail": ""
+        },
+        {
+          "pos": 27,
+          "eva": "chey",
+          "root": "ch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chey",
+          "match_detail": ""
+        },
+        {
+          "pos": 28,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 29,
+          "eva": "okeey",
+          "root": "ok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:okeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 30,
+          "eva": "qokain",
+          "root": "qok",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 31,
+          "eva": "cheey",
+          "root": "ch",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:cheey",
+          "match_detail": ""
+        },
+        {
+          "pos": 32,
+          "eva": "qotain",
+          "root": "qot",
+          "suffix": "ain",
+          "i_count": 1,
+          "tag": "DOSE",
+          "label": "DOSE:i1",
+          "match_detail": ""
+        },
+        {
+          "pos": 33,
+          "eva": "saiin",
+          "root": "s",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 34,
+          "eva": "cheteey",
+          "root": "chet",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:cheteey",
+          "match_detail": ""
+        },
+        {
+          "pos": 35,
+          "eva": "shey",
+          "root": "sh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shey",
+          "match_detail": ""
+        },
+        {
+          "pos": 36,
+          "eva": "cheosaiin",
+          "root": "cheos",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 3,
+        "DOSE": 6,
+        "LOGO": 2,
+        "UNK": 26
+      },
+      "unique_ingredients": 3,
+      "pattern": ".ID....I....LI......D..L......D.DD..D"
+    },
+    {
+      "id": "f103r_B18",
+      "n_words": 25,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pchedal",
+          "root": "pched",
+          "suffix": "al",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:pchedal",
+          "match_detail": ""
+        },
+        {
+          "pos": 1,
+          "eva": "oteey",
+          "root": "ot",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:oteey",
+          "match_detail": ""
+        },
+        {
+          "pos": 2,
+          "eva": "qol",
+          "root": "q",
+          "suffix": "ol",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qol",
+          "match_detail": ""
+        },
+        {
+          "pos": 3,
+          "eva": "keedy",
+          "root": "k",
+          "suffix": "eedy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:keedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 4,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 5,
+          "eva": "qoty",
+          "root": "qoty",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoty",
+          "match_detail": ""
+        },
+        {
+          "pos": 6,
+          "eva": "chepchy",
+          "root": "chep",
+          "suffix": "chy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chepchy",
+          "match_detail": ""
+        },
+        {
+          "pos": 7,
+          "eva": "qopchey",
+          "root": "qopch",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qopchey",
+          "match_detail": ""
+        },
+        {
+          "pos": 8,
+          "eva": "lkaiin",
+          "root": "lk",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 9,
+          "eva": "otalsy",
+          "root": "otalsy",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:otalsy",
+          "match_detail": ""
+        },
+        {
+          "pos": 10,
+          "eva": "sshey",
+          "root": "ssh",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:shey→f41r",
+          "match_detail": "(strip_s,pharma_crossref)"
+        },
+        {
+          "pos": 11,
+          "eva": "qokedy",
+          "root": "qok",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 12,
+          "eva": "qokaiin",
+          "root": "qok",
+          "suffix": "aiin",
+          "i_count": 2,
+          "tag": "DOSE",
+          "label": "DOSE:i2",
+          "match_detail": ""
+        },
+        {
+          "pos": 13,
+          "eva": "shdy",
+          "root": "sh",
+          "suffix": "dy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:shdy",
+          "match_detail": ""
+        },
+        {
+          "pos": 14,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 15,
+          "eva": "chedy",
+          "root": "ch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:chedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 16,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 17,
+          "eva": "qokeey",
+          "root": "qok",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 18,
+          "eva": "lchedy",
+          "root": "lch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "INGR",
+          "label": "INGR:chedy→f94r",
+          "match_detail": "(strip_l,pharma_crossref)"
+        },
+        {
+          "pos": 19,
+          "eva": "loty",
+          "root": "loty",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:loty",
+          "match_detail": ""
+        },
+        {
+          "pos": 20,
+          "eva": "dsheey",
+          "root": "dsh",
+          "suffix": "eey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:dsheey",
+          "match_detail": ""
+        },
+        {
+          "pos": 21,
+          "eva": "qoteeey",
+          "root": "qot",
+          "suffix": "eeey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoteeey",
+          "match_detail": ""
+        },
+        {
+          "pos": 22,
+          "eva": "darchedy",
+          "root": "darch",
+          "suffix": "edy",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:darchedy",
+          "match_detail": ""
+        },
+        {
+          "pos": 23,
+          "eva": "qokey",
+          "root": "qok",
+          "suffix": "ey",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qokey",
+          "match_detail": ""
+        },
+        {
+          "pos": 24,
+          "eva": "qoty",
+          "root": "qoty",
+          "suffix": "",
+          "i_count": null,
+          "tag": "UNK",
+          "label": "?:qoty",
+          "match_detail": ""
+        }
+      ],
+      "counts": {
+        "INGR": 2,
+        "DOSE": 2,
+        "LOGO": 0,
+        "UNK": 21
+      },
+      "unique_ingredients": 2,
+      "pattern": "........D.I.D.....I......"
+    }
+  ],
+  "ingredient_registry": {
+    "shey": {
+      "herbal_folio": "f41r",
+      "pharma_count": 16,
+      "occurrences": [
+        {
+          "recipe": "f103r_B01",
+          "position": 4,
+          "eva": "lshey",
+          "method": "strip_l",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B11",
+          "position": 12,
+          "eva": "oshey",
+          "method": "strip_o",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B14",
+          "position": 23,
+          "eva": "tshey",
+          "method": "strip_t",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B18",
+          "position": 10,
+          "eva": "sshey",
+          "method": "strip_s",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "chedy": {
+      "herbal_folio": "f94r",
+      "pharma_count": 23,
+      "occurrences": [
+        {
+          "recipe": "f103r_B01",
+          "position": 16,
+          "eva": "opchedy",
+          "method": "strip_op",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B07",
+          "position": 8,
+          "eva": "pchedy",
+          "method": "strip_p",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B07",
+          "position": 26,
+          "eva": "lchedy",
+          "method": "strip_l",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B08",
+          "position": 5,
+          "eva": "opchedy",
+          "method": "strip_op",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B10",
+          "position": 6,
+          "eva": "opchedy",
+          "method": "strip_op",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B13",
+          "position": 0,
+          "eva": "pchedy",
+          "method": "strip_p",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B18",
+          "position": 18,
+          "eva": "lchedy",
+          "method": "strip_l",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "ar": {
+      "herbal_folio": "f33v",
+      "pharma_count": 23,
+      "occurrences": [
+        {
+          "recipe": "f103r_B01",
+          "position": 19,
+          "eva": "ar",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B01",
+          "position": 23,
+          "eva": "sar",
+          "method": "strip_s",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B01",
+          "position": 38,
+          "eva": "kar",
+          "method": "strip_k",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B01",
+          "position": 39,
+          "eva": "otar",
+          "method": "strip_ot",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B03",
+          "position": 14,
+          "eva": "ar",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B03",
+          "position": 41,
+          "eva": "dar",
+          "method": "strip_d",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B03",
+          "position": 59,
+          "eva": "shar",
+          "method": "strip_sh",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B05",
+          "position": 11,
+          "eva": "sar",
+          "method": "strip_s",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B06",
+          "position": 18,
+          "eva": "okaral",
+          "method": "strip_ok+strip_al",
+          "source": "deep_strip"
+        },
+        {
+          "recipe": "f103r_B07",
+          "position": 21,
+          "eva": "ar",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B07",
+          "position": 22,
+          "eva": "otar",
+          "method": "strip_ot",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B08",
+          "position": 12,
+          "eva": "dar",
+          "method": "strip_d",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B15",
+          "position": 0,
+          "eva": "tar",
+          "method": "strip_t",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "chy": {
+      "herbal_folio": "f50v",
+      "pharma_count": 9,
+      "occurrences": [
+        {
+          "recipe": "f103r_B01",
+          "position": 20,
+          "eva": "otchy",
+          "method": "strip_ot",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B07",
+          "position": 23,
+          "eva": "opchy",
+          "method": "strip_op",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B17",
+          "position": 7,
+          "eva": "kchy",
+          "method": "strip_k",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "or": {
+      "herbal_folio": "f24r",
+      "pharma_count": 22,
+      "occurrences": [
+        {
+          "recipe": "f103r_B01",
+          "position": 33,
+          "eva": "or",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B01",
+          "position": 34,
+          "eva": "orol",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B03",
+          "position": 39,
+          "eva": "sor",
+          "method": "strip_s",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B05",
+          "position": 19,
+          "eva": "or",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B07",
+          "position": 11,
+          "eva": "lor",
+          "method": "strip_l",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "ol": {
+      "herbal_folio": "f22r",
+      "pharma_count": 23,
+      "occurrences": [
+        {
+          "recipe": "f103r_B01",
+          "position": 47,
+          "eva": "ol",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B02",
+          "position": 33,
+          "eva": "ol",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B03",
+          "position": 28,
+          "eva": "ol",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B03",
+          "position": 31,
+          "eva": "chol",
+          "method": "strip_ch",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B04",
+          "position": 18,
+          "eva": "lol",
+          "method": "strip_l",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B04",
+          "position": 27,
+          "eva": "shol",
+          "method": "strip_sh",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B06",
+          "position": 27,
+          "eva": "olor",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B07",
+          "position": 28,
+          "eva": "shol",
+          "method": "strip_sh",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B08",
+          "position": 23,
+          "eva": "ol",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B09",
+          "position": 19,
+          "eva": "ol",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B10",
+          "position": 10,
+          "eva": "chol",
+          "method": "strip_ch",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B11",
+          "position": 4,
+          "eva": "choldy",
+          "method": "strip_ch+strip_dy",
+          "source": "deep_strip"
+        },
+        {
+          "recipe": "f103r_B15",
+          "position": 2,
+          "eva": "ol",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B16",
+          "position": 2,
+          "eva": "shol",
+          "method": "strip_sh",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B16",
+          "position": 10,
+          "eva": "chol",
+          "method": "strip_ch",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B16",
+          "position": 18,
+          "eva": "ol",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B17",
+          "position": 13,
+          "eva": "ol",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "cheey": {
+      "herbal_folio": "f87v",
+      "pharma_count": 22,
+      "occurrences": [
+        {
+          "recipe": "f103r_B02",
+          "position": 13,
+          "eva": "ocheey",
+          "method": "strip_o",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "aiin": {
+      "herbal_folio": "f10v",
+      "pharma_count": 23,
+      "occurrences": [
+        {
+          "recipe": "f103r_B03",
+          "position": 60,
+          "eva": "aiin",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B04",
+          "position": 20,
+          "eva": "aiin",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B05",
+          "position": 20,
+          "eva": "aiin",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B14",
+          "position": 5,
+          "eva": "aiin",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "shol": {
+      "herbal_folio": "f11r",
+      "pharma_count": 13,
+      "occurrences": [
+        {
+          "recipe": "f103r_B05",
+          "position": 0,
+          "eva": "dshol",
+          "method": "strip_d",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "cheol": {
+      "herbal_folio": "f101r",
+      "pharma_count": 20,
+      "occurrences": [
+        {
+          "recipe": "f103r_B05",
+          "position": 7,
+          "eva": "opcheol",
+          "method": "strip_op",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B14",
+          "position": 25,
+          "eva": "cheolshy",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "chey": {
+      "herbal_folio": "f40r",
+      "pharma_count": 23,
+      "occurrences": [
+        {
+          "recipe": "f103r_B05",
+          "position": 9,
+          "eva": "tchey",
+          "method": "strip_t",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B09",
+          "position": 7,
+          "eva": "tchey",
+          "method": "strip_t",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B09",
+          "position": 24,
+          "eva": "qochey",
+          "method": "strip_qo",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B16",
+          "position": 24,
+          "eva": "lchey",
+          "method": "strip_l",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "shody": {
+      "herbal_folio": "f17r",
+      "pharma_count": 7,
+      "occurrences": [
+        {
+          "recipe": "f103r_B14",
+          "position": 4,
+          "eva": "shodyol",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "sho": {
+      "herbal_folio": "f44v",
+      "pharma_count": 10,
+      "occurrences": [
+        {
+          "recipe": "f103r_B14",
+          "position": 16,
+          "eva": "sho",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "shedy": {
+      "herbal_folio": "f94v",
+      "pharma_count": 22,
+      "occurrences": [
+        {
+          "recipe": "f103r_B15",
+          "position": 15,
+          "eva": "otshedy",
+          "method": "strip_ot",
+          "source": "pharma_crossref"
+        },
+        {
+          "recipe": "f103r_B17",
+          "position": 1,
+          "eva": "lshedy",
+          "method": "strip_l",
+          "source": "pharma_crossref"
+        }
+      ]
+    },
+    "chor": {
+      "herbal_folio": "f19r",
+      "pharma_count": 10,
+      "occurrences": [
+        {
+          "recipe": "f103r_B16",
+          "position": 14,
+          "eva": "chorol",
+          "method": "morphology",
+          "source": "pharma_crossref"
+        }
+      ]
+    }
+  },
+  "all_herbal_roots": [
+    "aiin",
+    "ar",
+    "chaiin",
+    "char",
+    "chedain",
+    "chedar",
+    "chedy",
+    "cheey",
+    "cheodaiin",
+    "cheodar",
+    "cheodchy",
+    "cheol",
+    "cheor",
+    "chey",
+    "cho",
+    "chocthy",
+    "chodaiin",
+    "chodar",
+    "chody",
+    "choldy",
+    "chor",
+    "chsy",
+    "chy",
+    "dair",
+    "f",
+    "oaiin",
+    "oair",
+    "oar",
+    "ochor",
+    "odaiin",
+    "ody",
+    "ol",
+    "olor",
+    "or",
+    "oror",
+    "osaiin",
+    "shdaiin",
+    "shdar",
+    "shedy",
+    "sheoky",
+    "sheor",
+    "sheos",
+    "sheot",
+    "shey",
+    "sho",
+    "shody",
+    "shol",
+    "shor",
+    "sor",
+    "ychol"
+  ],
+  "n_herbal_roots_total": 50
+}

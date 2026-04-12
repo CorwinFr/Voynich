@@ -1,0 +1,431 @@
+{
+  "n_good_recipes": 31,
+  "n_gap_fills": 30,
+  "gap_fills": [
+    {
+      "bid": "f108r_B14",
+      "root": "lch",
+      "ingredient": "i_aqua",
+      "confidence": 1.0,
+      "known_context": [
+        "plantaginis",
+        "ruta"
+      ],
+      "n_corpus_matches": 8
+    },
+    {
+      "bid": "f112r_B08",
+      "root": "shd",
+      "ingredient": "i_vinum",
+      "confidence": 1.0,
+      "known_context": [
+        "plantaginis",
+        "ruta",
+        "vesica",
+        "viola"
+      ],
+      "n_corpus_matches": 39
+    },
+    {
+      "bid": "f103r_B09",
+      "root": "ch",
+      "ingredient": "i_mel",
+      "confidence": 1.0,
+      "known_context": [
+        "farina",
+        "nitrum",
+        "ruta"
+      ],
+      "n_corpus_matches": 90
+    },
+    {
+      "bid": "f111r_B03",
+      "root": "ch",
+      "ingredient": "i_aqua",
+      "confidence": 1.0,
+      "known_context": [
+        "acetum",
+        "mel",
+        "nitrum",
+        "plantaginis",
+        "ruta",
+        "vesica",
+        "viola"
+      ],
+      "n_corpus_matches": 653
+    },
+    {
+      "bid": "f111v_B03",
+      "root": "sh",
+      "ingredient": "i_rosa",
+      "confidence": 1.0,
+      "known_context": [
+        "nitrum",
+        "plantaginis",
+        "ruta",
+        "vena"
+      ],
+      "n_corpus_matches": 84
+    },
+    {
+      "bid": "f108r_B13",
+      "root": "ch",
+      "ingredient": "i_sanguis",
+      "confidence": 0.8,
+      "known_context": [
+        "ruta",
+        "vesica",
+        "viola"
+      ],
+      "n_corpus_matches": 24
+    },
+    {
+      "bid": "f108v_B04",
+      "root": "ch",
+      "ingredient": "i_apium",
+      "confidence": 0.8,
+      "known_context": [
+        "nitrum",
+        "ruta",
+        "viola"
+      ],
+      "n_corpus_matches": 40
+    },
+    {
+      "bid": "f111r_B05",
+      "root": "che",
+      "ingredient": "i_vinum",
+      "confidence": 1.0,
+      "known_context": [
+        "acetum",
+        "ruta",
+        "viola"
+      ],
+      "n_corpus_matches": 110
+    },
+    {
+      "bid": "f114v_B07",
+      "root": "qok",
+      "ingredient": "i_rosa",
+      "confidence": 0.8,
+      "known_context": [
+        "nitrum",
+        "plantaginis",
+        "ruta",
+        "vena",
+        "vesica",
+        "viola"
+      ],
+      "n_corpus_matches": 143
+    },
+    {
+      "bid": "f107v_B09",
+      "root": "ch",
+      "ingredient": "i_sal",
+      "confidence": 1.0,
+      "known_context": [
+        "acetum",
+        "manus",
+        "plantaginis",
+        "ruta",
+        "vesica"
+      ],
+      "n_corpus_matches": 257
+    },
+    {
+      "bid": "f108r_B09",
+      "root": "ot",
+      "ingredient": "i_aqua",
+      "confidence": 1.0,
+      "known_context": [
+        "mel",
+        "nitrum",
+        "plantaginis",
+        "ruta",
+        "vesica",
+        "viola"
+      ],
+      "n_corpus_matches": 330
+    },
+    {
+      "bid": "f108r_B07",
+      "root": "ch",
+      "ingredient": "i_aqua",
+      "confidence": 1.0,
+      "known_context": [
+        "oleum",
+        "plantaginis",
+        "ruta"
+      ],
+      "n_corpus_matches": 112
+    },
+    {
+      "bid": "f112r_B09",
+      "root": "ote",
+      "ingredient": "i_mel",
+      "confidence": 0.8,
+      "known_context": [
+        "plantaginis",
+        "ruta",
+        "vesica"
+      ],
+      "n_corpus_matches": 31
+    },
+    {
+      "bid": "f103v_B13",
+      "root": "lch",
+      "ingredient": "i_caro",
+      "confidence": 1.0,
+      "known_context": [
+        "allium",
+        "nitrum",
+        "plantaginis",
+        "ruta",
+        "vesica",
+        "viola"
+      ],
+      "n_corpus_matches": 109
+    },
+    {
+      "bid": "f106r_B07",
+      "root": "ch",
+      "ingredient": "i_sanguis",
+      "confidence": 1.0,
+      "known_context": [
+        "manus",
+        "panis",
+        "plantaginis",
+        "ruta",
+        "vena"
+      ],
+      "n_corpus_matches": 158
+    },
+    {
+      "bid": "f112v_B09",
+      "root": "qopch",
+      "ingredient": "i_aqua",
+      "confidence": 1.0,
+      "known_context": [
+        "farina",
+        "plantaginis",
+        "ruta",
+        "viola"
+      ],
+      "n_corpus_matches": 81
+    },
+    {
+      "bid": "f112v_B05",
+      "root": "ch",
+      "ingredient": "i_aqua",
+      "confidence": 1.0,
+      "known_context": [
+        "acetum",
+        "plantaginis",
+        "ruta"
+      ],
+      "n_corpus_matches": 138
+    },
+    {
+      "bid": "f112v_B06",
+      "root": "ch",
+      "ingredient": "i_rosa",
+      "confidence": 0.8,
+      "known_context": [
+        "plantaginis",
+        "ruta",
+        "vena",
+        "vesica",
+        "viola"
+      ],
+      "n_corpus_matches": 97
+    },
+    {
+      "bid": "f115v_B04",
+      "root": "dpch",
+      "ingredient": "i_sanguis",
+      "confidence": 0.8,
+      "known_context": [
+        "nitrum",
+        "oleum",
+        "plantaginis",
+        "vena"
+      ],
+      "n_corpus_matches": 108
+    },
+    {
+      "bid": "f107v_B15",
+      "root": "ch",
+      "ingredient": "i_mel",
+      "confidence": 0.8,
+      "known_context": [
+        "plantaginis",
+        "ruta",
+        "vesica"
+      ],
+      "n_corpus_matches": 31
+    },
+    {
+      "bid": "f103r_B12",
+      "root": "ch",
+      "ingredient": "i_anisum",
+      "confidence": 0.8,
+      "known_context": [
+        "mel",
+        "ruta"
+      ],
+      "n_corpus_matches": 142
+    },
+    {
+      "bid": "f108v_B02",
+      "root": "qok",
+      "ingredient": "i_materia",
+      "confidence": 0.8,
+      "known_context": [
+        "ruta",
+        "vena"
+      ],
+      "n_corpus_matches": 26
+    },
+    {
+      "bid": "f114r_B07",
+      "root": "kch",
+      "ingredient": "i_oleum",
+      "confidence": 0.8,
+      "known_context": [
+        "farina",
+        "plantaginis"
+      ],
+      "n_corpus_matches": 22
+    },
+    {
+      "bid": "f115v_B01",
+      "root": "qot",
+      "ingredient": "i_acetum",
+      "confidence": 1.0,
+      "known_context": [
+        "cuminum",
+        "farina",
+        "manus",
+        "materia",
+        "panis",
+        "plantaginis",
+        "ruta",
+        "vena"
+      ],
+      "n_corpus_matches": 426
+    },
+    {
+      "bid": "f108r_B03",
+      "root": "qok",
+      "ingredient": "i_ovum",
+      "confidence": 0.8,
+      "known_context": [
+        "acetum",
+        "cuminum",
+        "materia",
+        "mel",
+        "plantaginis",
+        "ruta"
+      ],
+      "n_corpus_matches": 663
+    },
+    {
+      "bid": "f112r_B02",
+      "root": "ot",
+      "ingredient": "i_sal",
+      "confidence": 1.0,
+      "known_context": [
+        "acetum",
+        "farina",
+        "myrrha",
+        "plantaginis",
+        "ruta",
+        "vena"
+      ],
+      "n_corpus_matches": 426
+    },
+    {
+      "bid": "f113r_B07",
+      "root": "lklch",
+      "ingredient": "i_aqua",
+      "confidence": 1.0,
+      "known_context": [
+        "allium",
+        "nitrum",
+        "plantaginis",
+        "ruta",
+        "viola"
+      ],
+      "n_corpus_matches": 82
+    },
+    {
+      "bid": "f114v_B08",
+      "root": "aiin",
+      "ingredient": "i_aqua",
+      "confidence": 0.8,
+      "known_context": [
+        "materia",
+        "nigella",
+        "plantaginis",
+        "ruta",
+        "vena"
+      ],
+      "n_corpus_matches": 204
+    },
+    {
+      "bid": "f112v_B10",
+      "root": "ch",
+      "ingredient": "i_acetum",
+      "confidence": 0.8,
+      "known_context": [
+        "farina",
+        "materia",
+        "plantaginis",
+        "ruta"
+      ],
+      "n_corpus_matches": 168
+    },
+    {
+      "bid": "f107r_B12",
+      "root": "ot",
+      "ingredient": "i_aqua",
+      "confidence": 1.0,
+      "known_context": [
+        "mel",
+        "plantaginis",
+        "ruta"
+      ],
+      "n_corpus_matches": 182
+    }
+  ],
+  "consolidated": [
+    {
+      "root": "ch",
+      "ingredient": "i_aqua",
+      "n_recipes": 12,
+      "n_agreement": 3,
+      "confidence": 0.7
+    },
+    {
+      "root": "qok",
+      "ingredient": "i_rosa",
+      "n_recipes": 3,
+      "n_agreement": 1,
+      "confidence": 0.5
+    },
+    {
+      "root": "ot",
+      "ingredient": "i_aqua",
+      "n_recipes": 3,
+      "n_agreement": 2,
+      "confidence": 0.6000000000000001
+    },
+    {
+      "root": "lch",
+      "ingredient": "i_aqua",
+      "n_recipes": 2,
+      "n_agreement": 1,
+      "confidence": 0.5
+    }
+  ]
+}

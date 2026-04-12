@@ -1,0 +1,1486 @@
+{
+  "iterations": 73,
+  "n_assigned": 88,
+  "n_known_roots": 11,
+  "history": [
+    {
+      "iteration": 1,
+      "folio": "f101r",
+      "chapter": "Allium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 2,
+      "folio": "f21r",
+      "chapter": "Allium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 3,
+      "folio": "f28v",
+      "chapter": "Absinthium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 4,
+      "folio": "f2r",
+      "chapter": "Allium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 5,
+      "folio": "f42v",
+      "chapter": "Absinthium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 6,
+      "folio": "f43v",
+      "chapter": "Ruta",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 7,
+      "folio": "f46r",
+      "chapter": "Allium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 8,
+      "folio": "f48r",
+      "chapter": "Ruta",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 9,
+      "folio": "f89v2",
+      "chapter": "Absinthium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 10,
+      "folio": "f99r",
+      "chapter": "Allium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 11,
+      "folio": "f100r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 12,
+      "folio": "f101v",
+      "chapter": "Plantago",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "otoly",
+          "sal"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 13,
+      "folio": "f102r2",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 14,
+      "folio": "f10r",
+      "chapter": "Allium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 15,
+      "folio": "f13v",
+      "chapter": "Plantago",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "kald",
+          "ovum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 16,
+      "folio": "f14v",
+      "chapter": "Allium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 17,
+      "folio": "f16v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 18,
+      "folio": "f17v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 19,
+      "folio": "f18r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 20,
+      "folio": "f1r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 21,
+      "folio": "f23r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 22,
+      "folio": "f24r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 23,
+      "folio": "f25v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 24,
+      "folio": "f26r",
+      "chapter": "Allium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 25,
+      "folio": "f26v",
+      "chapter": "Abrotanum",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": [
+        [
+          "sho",
+          "vinum"
+        ]
+      ]
+    },
+    {
+      "iteration": 26,
+      "folio": "f30v",
+      "chapter": "Absinthium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 27,
+      "folio": "f36v",
+      "chapter": "Absinthium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 28,
+      "folio": "f42r",
+      "chapter": "Absinthium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 29,
+      "folio": "f47r",
+      "chapter": "Absinthium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 30,
+      "folio": "f56r",
+      "chapter": "Absinthium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 31,
+      "folio": "f7v",
+      "chapter": "Absinthium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 32,
+      "folio": "f89r2",
+      "chapter": "Absinthium",
+      "score": 9,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 33,
+      "folio": "f25r",
+      "chapter": "Absinthium",
+      "score": 7,
+      "n_matched": 3,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 34,
+      "folio": "f102v1",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 35,
+      "folio": "f102v2",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 36,
+      "folio": "f10v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 37,
+      "folio": "f15v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 38,
+      "folio": "f1v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 39,
+      "folio": "f20r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 40,
+      "folio": "f21v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 41,
+      "folio": "f27v",
+      "chapter": "Abrotanum",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 42,
+      "folio": "f30r",
+      "chapter": "Abrotanum",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 43,
+      "folio": "f31v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 44,
+      "folio": "f32r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 45,
+      "folio": "f32v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 46,
+      "folio": "f33r",
+      "chapter": "Abrotanum",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 47,
+      "folio": "f34v",
+      "chapter": "Abrotanum",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 48,
+      "folio": "f35r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 49,
+      "folio": "f37v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 50,
+      "folio": "f38r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 51,
+      "folio": "f3r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 52,
+      "folio": "f46v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 53,
+      "folio": "f47v",
+      "chapter": "Abrotanum",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 54,
+      "folio": "f49v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 55,
+      "folio": "f4v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 56,
+      "folio": "f53r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cht",
+          "piper"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 57,
+      "folio": "f53v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 58,
+      "folio": "f56v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 59,
+      "folio": "f5r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 60,
+      "folio": "f7r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 61,
+      "folio": "f87r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 62,
+      "folio": "f87v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 63,
+      "folio": "f8v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 64,
+      "folio": "f90v1",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 65,
+      "folio": "f93r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 66,
+      "folio": "f93v",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 67,
+      "folio": "f95r2",
+      "chapter": "Abrotanum",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 68,
+      "folio": "f96r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 69,
+      "folio": "f9r",
+      "chapter": "Absinthium",
+      "score": 6,
+      "n_matched": 2,
+      "matched": [
+        [
+          "chk",
+          "oleum"
+        ],
+        [
+          "cth",
+          "acetum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 70,
+      "folio": "f15r",
+      "chapter": "Absinthium",
+      "score": 4,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 71,
+      "folio": "f54v",
+      "chapter": "Allium",
+      "score": 4,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "ypch",
+          "aqua"
+        ]
+      ],
+      "new_mappings": []
+    },
+    {
+      "iteration": 72,
+      "folio": "f99v",
+      "chapter": "Absinthium",
+      "score": 4,
+      "n_matched": 2,
+      "matched": [
+        [
+          "cth",
+          "acetum"
+        ],
+        [
+          "sho",
+          "vinum"
+        ]
+      ],
+      "new_mappings": []
+    }
+  ],
+  "known_roots": {
+    "cth": "acetum",
+    "cht": "piper",
+    "shocthy": "mastix",
+    "shotch": "nigella",
+    "chk": "oleum",
+    "otoly": "sal",
+    "ypch": "aqua",
+    "ykeed": "nitrum",
+    "seees": "lens",
+    "kald": "ovum",
+    "sho": "vinum"
+  },
+  "assigned_folios": {
+    "f48v": "Ruta",
+    "f9v": "Violae",
+    "f44v": "Apium",
+    "f51v": "Salvia",
+    "f29r": "Lactuca",
+    "f41r": "Origanum",
+    "f37r": "Mentha",
+    "f41v": "Coriandrum",
+    "f22r": "Verbena",
+    "f28r": "Aristolochia",
+    "f5v": "Malva",
+    "f45r": "Atriplex",
+    "f66v": "Satureia",
+    "f65v": "Centaurea",
+    "f3v": "Elleborus",
+    "f95v1": "Althaea",
+    "f101r": "Allium",
+    "f21r": "Allium",
+    "f28v": "Absinthium",
+    "f2r": "Allium",
+    "f42v": "Absinthium",
+    "f43v": "Ruta",
+    "f46r": "Allium",
+    "f48r": "Ruta",
+    "f89v2": "Absinthium",
+    "f99r": "Allium",
+    "f100r": "Absinthium",
+    "f101v": "Plantago",
+    "f102r2": "Absinthium",
+    "f10r": "Allium",
+    "f13v": "Plantago",
+    "f14v": "Allium",
+    "f16v": "Absinthium",
+    "f17v": "Absinthium",
+    "f18r": "Absinthium",
+    "f1r": "Absinthium",
+    "f23r": "Absinthium",
+    "f24r": "Absinthium",
+    "f25v": "Absinthium",
+    "f26r": "Allium",
+    "f26v": "Abrotanum",
+    "f30v": "Absinthium",
+    "f36v": "Absinthium",
+    "f42r": "Absinthium",
+    "f47r": "Absinthium",
+    "f56r": "Absinthium",
+    "f7v": "Absinthium",
+    "f89r2": "Absinthium",
+    "f25r": "Absinthium",
+    "f102v1": "Absinthium",
+    "f102v2": "Absinthium",
+    "f10v": "Absinthium",
+    "f15v": "Absinthium",
+    "f1v": "Absinthium",
+    "f20r": "Absinthium",
+    "f21v": "Absinthium",
+    "f27v": "Abrotanum",
+    "f30r": "Abrotanum",
+    "f31v": "Absinthium",
+    "f32r": "Absinthium",
+    "f32v": "Absinthium",
+    "f33r": "Abrotanum",
+    "f34v": "Abrotanum",
+    "f35r": "Absinthium",
+    "f37v": "Absinthium",
+    "f38r": "Absinthium",
+    "f3r": "Absinthium",
+    "f46v": "Absinthium",
+    "f47v": "Abrotanum",
+    "f49v": "Absinthium",
+    "f4v": "Absinthium",
+    "f53r": "Absinthium",
+    "f53v": "Absinthium",
+    "f56v": "Absinthium",
+    "f5r": "Absinthium",
+    "f7r": "Absinthium",
+    "f87r": "Absinthium",
+    "f87v": "Absinthium",
+    "f8v": "Absinthium",
+    "f90v1": "Absinthium",
+    "f93r": "Absinthium",
+    "f93v": "Absinthium",
+    "f95r2": "Abrotanum",
+    "f96r": "Absinthium",
+    "f9r": "Absinthium",
+    "f15r": "Absinthium",
+    "f54v": "Allium",
+    "f99v": "Absinthium"
+  },
+  "new_root_mappings": {
+    "sho": "vinum"
+  }
+}

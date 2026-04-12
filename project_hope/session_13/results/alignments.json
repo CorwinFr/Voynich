@@ -1,0 +1,2683 @@
+{
+  "n_matches": 1420,
+  "top_matches": [
+    {
+      "vms_id": "f115r_B10",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "score": 0.889,
+      "lcs": 16,
+      "v_len": 17,
+      "a_len": 18
+    },
+    {
+      "vms_id": "f105v_B03",
+      "an_id": "AN_083",
+      "an_name": "Recipe spice optime",
+      "score": 0.885,
+      "lcs": 54,
+      "v_len": 61,
+      "a_len": 60
+    },
+    {
+      "vms_id": "f106v_B11",
+      "an_id": "AN_098",
+      "an_name": "Recipe mirabolanorum citrinorum che",
+      "score": 0.875,
+      "lcs": 14,
+      "v_len": 16,
+      "a_len": 16
+    },
+    {
+      "vms_id": "f105v_B03",
+      "an_id": "AN_114",
+      "an_name": "Recipe apii petrosilini feniculi",
+      "score": 0.869,
+      "lcs": 53,
+      "v_len": 61,
+      "a_len": 61
+    },
+    {
+      "vms_id": "f103v_B12",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "score": 0.862,
+      "lcs": 25,
+      "v_len": 29,
+      "a_len": 27
+    },
+    {
+      "vms_id": "f112r_B08",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "score": 0.857,
+      "lcs": 24,
+      "v_len": 28,
+      "a_len": 27
+    },
+    {
+      "vms_id": "f114v_B01",
+      "an_id": "AN_091",
+      "an_name": "Recipe fol",
+      "score": 0.857,
+      "lcs": 36,
+      "v_len": 42,
+      "a_len": 41
+    },
+    {
+      "vms_id": "f107v_B01",
+      "an_id": "AN_091",
+      "an_name": "Recipe fol",
+      "score": 0.854,
+      "lcs": 35,
+      "v_len": 41,
+      "a_len": 41
+    },
+    {
+      "vms_id": "f103r_B17",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "score": 0.853,
+      "lcs": 29,
+      "v_len": 34,
+      "a_len": 34
+    },
+    {
+      "vms_id": "f104r_B04",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "score": 0.853,
+      "lcs": 29,
+      "v_len": 34,
+      "a_len": 34
+    },
+    {
+      "vms_id": "f108v_B04",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "score": 0.853,
+      "lcs": 29,
+      "v_len": 32,
+      "a_len": 34
+    },
+    {
+      "vms_id": "f103r_B10",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "score": 0.852,
+      "lcs": 23,
+      "v_len": 27,
+      "a_len": 27
+    },
+    {
+      "vms_id": "f103v_B08",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "score": 0.852,
+      "lcs": 23,
+      "v_len": 25,
+      "a_len": 27
+    },
+    {
+      "vms_id": "f106v_B10",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "score": 0.852,
+      "lcs": 23,
+      "v_len": 27,
+      "a_len": 27
+    },
+    {
+      "vms_id": "f112r_B02",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "score": 0.852,
+      "lcs": 23,
+      "v_len": 26,
+      "a_len": 27
+    },
+    {
+      "vms_id": "f112v_B13",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "score": 0.852,
+      "lcs": 23,
+      "v_len": 27,
+      "a_len": 27
+    },
+    {
+      "vms_id": "f115r_B08",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "score": 0.852,
+      "lcs": 23,
+      "v_len": 27,
+      "a_len": 27
+    },
+    {
+      "vms_id": "f103v_B07",
+      "an_id": "AN_083",
+      "an_name": "Recipe spice optime",
+      "score": 0.844,
+      "lcs": 54,
+      "v_len": 64,
+      "a_len": 60
+    },
+    {
+      "vms_id": "f107v_B04",
+      "an_id": "AN_148",
+      "an_name": "Recipe coloquintide squille agarici",
+      "score": 0.841,
+      "lcs": 37,
+      "v_len": 44,
+      "a_len": 43
+    },
+    {
+      "vms_id": "f104r_B09",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "score": 0.833,
+      "lcs": 30,
+      "v_len": 36,
+      "a_len": 34
+    },
+    {
+      "vms_id": "f105v_B04",
+      "an_id": "AN_092",
+      "an_name": "Recipe mirtili balaustiarum psidie",
+      "score": 0.833,
+      "lcs": 35,
+      "v_len": 40,
+      "a_len": 42
+    },
+    {
+      "vms_id": "f106r_B15",
+      "an_id": "AN_119",
+      "an_name": "Recipe piperis albi quod",
+      "score": 0.833,
+      "lcs": 40,
+      "v_len": 48,
+      "a_len": 48
+    },
+    {
+      "vms_id": "f106v_B11",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "score": 0.833,
+      "lcs": 15,
+      "v_len": 16,
+      "a_len": 18
+    },
+    {
+      "vms_id": "f107v_B02",
+      "an_id": "AN_100",
+      "an_name": "Recipe elempnii",
+      "score": 0.833,
+      "lcs": 20,
+      "v_len": 24,
+      "a_len": 24
+    },
+    {
+      "vms_id": "f108r_B07",
+      "an_id": "AN_118",
+      "an_name": "Recipe opii",
+      "score": 0.833,
+      "lcs": 40,
+      "v_len": 48,
+      "a_len": 48
+    },
+    {
+      "vms_id": "f108r_B12",
+      "an_id": "AN_083",
+      "an_name": "Recipe spice optime",
+      "score": 0.833,
+      "lcs": 50,
+      "v_len": 54,
+      "a_len": 60
+    },
+    {
+      "vms_id": "f111v_B05",
+      "an_id": "AN_050",
+      "an_name": "Recipe sandali albi et",
+      "score": 0.833,
+      "lcs": 25,
+      "v_len": 30,
+      "a_len": 27
+    },
+    {
+      "vms_id": "f113r_B02",
+      "an_id": "AN_118",
+      "an_name": "Recipe opii",
+      "score": 0.833,
+      "lcs": 40,
+      "v_len": 44,
+      "a_len": 48
+    },
+    {
+      "vms_id": "f114v_B02",
+      "an_id": "AN_095",
+      "an_name": "Recipe aloes",
+      "score": 0.833,
+      "lcs": 15,
+      "v_len": 17,
+      "a_len": 18
+    },
+    {
+      "vms_id": "f114v_B05",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "score": 0.833,
+      "lcs": 30,
+      "v_len": 36,
+      "a_len": 34
+    },
+    {
+      "vms_id": "f116r_B05",
+      "an_id": "AN_089",
+      "an_name": "Recipe hermodactili turbiti agarici",
+      "score": 0.833,
+      "lcs": 25,
+      "v_len": 30,
+      "a_len": 29
+    },
+    {
+      "vms_id": "f113r_B16",
+      "an_id": "AN_083",
+      "an_name": "Recipe spice optime",
+      "score": 0.831,
+      "lcs": 54,
+      "v_len": 65,
+      "a_len": 60
+    },
+    {
+      "vms_id": "f108v_B06",
+      "an_id": "AN_067",
+      "an_name": "Recipe storacis calamite",
+      "score": 0.83,
+      "lcs": 88,
+      "v_len": 106,
+      "a_len": 106
+    },
+    {
+      "vms_id": "f115v_B01",
+      "an_id": "AN_034",
+      "an_name": "Recipe penidiorum",
+      "score": 0.83,
+      "lcs": 39,
+      "v_len": 43,
+      "a_len": 47
+    },
+    {
+      "vms_id": "f104v_B05",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "score": 0.829,
+      "lcs": 29,
+      "v_len": 35,
+      "a_len": 34
+    },
+    {
+      "vms_id": "f106r_B07",
+      "an_id": "AN_082",
+      "an_name": "Recipe aloes optimi",
+      "score": 0.829,
+      "lcs": 29,
+      "v_len": 35,
+      "a_len": 35
+    },
+    {
+      "vms_id": "f106v_B02",
+      "an_id": "AN_082",
+      "an_name": "Recipe aloes optimi",
+      "score": 0.829,
+      "lcs": 29,
+      "v_len": 34,
+      "a_len": 35
+    },
+    {
+      "vms_id": "f106v_B08",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "score": 0.829,
+      "lcs": 29,
+      "v_len": 35,
+      "a_len": 34
+    },
+    {
+      "vms_id": "f107r_B04",
+      "an_id": "AN_091",
+      "an_name": "Recipe fol",
+      "score": 0.829,
+      "lcs": 34,
+      "v_len": 38,
+      "a_len": 41
+    },
+    {
+      "vms_id": "f111v_B06",
+      "an_id": "AN_140",
+      "an_name": "Recipe succi cucurbite agrestis",
+      "score": 0.829,
+      "lcs": 63,
+      "v_len": 74,
+      "a_len": 76
+    },
+    {
+      "vms_id": "f113r_B11",
+      "an_id": "AN_091",
+      "an_name": "Recipe fol",
+      "score": 0.829,
+      "lcs": 34,
+      "v_len": 37,
+      "a_len": 41
+    },
+    {
+      "vms_id": "f114r_B11",
+      "an_id": "AN_091",
+      "an_name": "Recipe fol",
+      "score": 0.829,
+      "lcs": 34,
+      "v_len": 41,
+      "a_len": 41
+    },
+    {
+      "vms_id": "f115v_B12",
+      "an_id": "AN_113",
+      "an_name": "Recipe opii thebaici",
+      "score": 0.829,
+      "lcs": 29,
+      "v_len": 35,
+      "a_len": 34
+    },
+    {
+      "vms_id": "f103v_B05",
+      "an_id": "AN_089",
+      "an_name": "Recipe hermodactili turbiti agarici",
+      "score": 0.828,
+      "lcs": 24,
+      "v_len": 28,
+      "a_len": 29
+    },
+    {
+      "vms_id": "f103v_B07",
+      "an_id": "AN_114",
+      "an_name": "Recipe apii petrosilini feniculi",
+      "score": 0.828,
+      "lcs": 53,
+      "v_len": 64,
+      "a_len": 61
+    },
+    {
+      "vms_id": "f104r_B12",
+      "an_id": "AN_089",
+      "an_name": "Recipe hermodactili turbiti agarici",
+      "score": 0.828,
+      "lcs": 24,
+      "v_len": 29,
+      "a_len": 29
+    },
+    {
+      "vms_id": "f105r_B05",
+      "an_id": "AN_048",
+      "an_name": "Recipe sandalorum alborum et",
+      "score": 0.828,
+      "lcs": 53,
+      "v_len": 64,
+      "a_len": 63
+    },
+    {
+      "vms_id": "f105r_B05",
+      "an_id": "AN_114",
+      "an_name": "Recipe apii petrosilini feniculi",
+      "score": 0.828,
+      "lcs": 53,
+      "v_len": 64,
+      "a_len": 61
+    },
+    {
+      "vms_id": "f105r_B08",
+      "an_id": "AN_089",
+      "an_name": "Recipe hermodactili turbiti agarici",
+      "score": 0.828,
+      "lcs": 24,
+      "v_len": 28,
+      "a_len": 29
+    },
+    {
+      "vms_id": "f111r_B05",
+      "an_id": "AN_089",
+      "an_name": "Recipe hermodactili turbiti agarici",
+      "score": 0.828,
+      "lcs": 24,
+      "v_len": 29,
+      "a_len": 29
+    }
+  ],
+  "detailed_alignments": [
+    {
+      "vms_id": "f115r_B10",
+      "an_id": "AN_095",
+      "score": 0.889,
+      "word_pairs": [
+        {
+          "vms_eva": "aral",
+          "vms_code": "PLANT_f33v.al",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "shkchedy",
+          "vms_code": "INGR_627.edy",
+          "an_raw": "belliricorum",
+          "an_ref": "I_belliricum",
+          "vms_len": 8,
+          "an_len": 12
+        },
+        {
+          "vms_eva": "chs",
+          "vms_code": "INGR_084",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 3,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "chpchar",
+          "vms_code": "INGR_458.ar",
+          "an_raw": "masticis",
+          "an_ref": "I_mastix",
+          "vms_len": 7,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "ar",
+          "vms_code": "PLANT_f33v",
+          "an_raw": "diagridii",
+          "an_ref": "I_diagridium",
+          "vms_len": 2,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "al",
+          "vms_code": "FUNC_011",
+          "an_raw": "asari",
+          "an_ref": "I_asarum",
+          "vms_len": 2,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "cheey",
+          "vms_code": "FUNC_001.eey",
+          "an_raw": "feniculi",
+          "an_ref": "I_feniculum",
+          "vms_len": 5,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "qoek",
+          "vms_code": "INGR_183",
+          "an_raw": "absintii",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "chody",
+          "vms_code": "PLANT_f14r.dy",
+          "an_raw": "croci",
+          "an_ref": "I_crocus",
+          "vms_len": 5,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "sheey",
+          "vms_code": "FUNC_004.eey",
+          "an_raw": "castorei",
+          "an_ref": "I_castoreum",
+          "vms_len": 5,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "dar",
+          "vms_code": "FUNC_003.ar",
+          "an_raw": "-ö-iii",
+          "an_ref": "",
+          "vms_len": 3,
+          "an_len": 6
+        }
+      ]
+    },
+    {
+      "vms_id": "f105v_B03",
+      "an_id": "AN_083",
+      "score": 0.885,
+      "word_pairs": [
+        {
+          "vms_eva": "kedar",
+          "vms_code": "INGR_286.ar",
+          "an_raw": "spice",
+          "an_ref": "I_spica",
+          "vms_len": 5,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "opchedy",
+          "vms_code": "FUNC_032.edy",
+          "an_raw": "optime",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "air",
+          "vms_code": "LOGO(air)",
+          "an_raw": "piperis",
+          "an_ref": "I_piper_nigrum",
+          "vms_len": 3,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "odar",
+          "vms_code": "FUNC_023.ar",
+          "an_raw": "longi",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "qoeees",
+          "vms_code": "INGR_659",
+          "an_raw": "zinziberis",
+          "an_ref": "I_zingiber",
+          "vms_len": 6,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "y",
+          "vms_code": "LOGO(in)",
+          "an_raw": "zedoarie",
+          "an_ref": "I_zedoaria",
+          "vms_len": 1,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "otchedy",
+          "vms_code": "FUNC_022.edy",
+          "an_raw": "gariofilorum",
+          "an_ref": "I_gariofilum",
+          "vms_len": 7,
+          "an_len": 12
+        },
+        {
+          "vms_eva": "ockhedy",
+          "vms_code": "INGR_134.edy",
+          "an_raw": "rosarum",
+          "an_ref": "I_rosa",
+          "vms_len": 7,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "otchey",
+          "vms_code": "FUNC_022.ey",
+          "an_raw": "violarum",
+          "an_ref": "I_viola",
+          "vms_len": 6,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "or",
+          "vms_code": "PLANT_f24r",
+          "an_raw": "anacardi",
+          "an_ref": "I_anacardium",
+          "vms_len": 2,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "r",
+          "vms_code": "LOGO(recipe)",
+          "an_raw": "acori",
+          "an_ref": "I_acorus",
+          "vms_len": 1,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ail",
+          "vms_code": "INGR_335",
+          "an_raw": "coralli",
+          "an_ref": "I_corallium",
+          "vms_len": 3,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "l",
+          "vms_code": "LOGO(se)",
+          "an_raw": "costi",
+          "an_ref": "I_costus",
+          "vms_len": 1,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "okam",
+          "vms_code": "FUNC_005.am",
+          "an_raw": "levistici",
+          "an_ref": "I_levisticum",
+          "vms_len": 4,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "ykeey",
+          "vms_code": "FUNC_012.eey",
+          "an_raw": "nucis",
+          "an_ref": "I_nux_muscata",
+          "vms_len": 5,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ky",
+          "vms_code": "INGR_058",
+          "an_raw": "eboris",
+          "an_ref": "I_ebur",
+          "vms_len": 2,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "che",
+          "vms_code": "FUNC_017",
+          "an_raw": "margaritarum",
+          "an_ref": "I_margarita",
+          "vms_len": 3,
+          "an_len": 12
+        },
+        {
+          "vms_eva": "oiiin",
+          "vms_code": "INGR_187",
+          "an_raw": "perforatarum",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 12
+        },
+        {
+          "vms_eva": "dal",
+          "vms_code": "FUNC_003.al",
+          "an_raw": "antofali",
+          "an_ref": "",
+          "vms_len": 3,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "l",
+          "vms_code": "LOGO(se)",
+          "an_raw": "reubarbari",
+          "an_ref": "I_reubarbarum",
+          "vms_len": 1,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "kair",
+          "vms_code": "FUNC_008.air",
+          "an_raw": "amomi",
+          "an_ref": "I_amomum",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "chedy",
+          "vms_code": "FUNC_001.edy",
+          "an_raw": "ossis",
+          "an_ref": "I_ocimum",
+          "vms_len": 5,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "s",
+          "vms_code": "LOGO(est)",
+          "an_raw": "cervi",
+          "an_ref": "I_cervisia",
+          "vms_len": 1,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "odar",
+          "vms_code": "FUNC_023.ar",
+          "an_raw": "croci",
+          "an_ref": "I_crocus",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "air",
+          "vms_code": "LOGO(air)",
+          "an_raw": "piperis",
+          "an_ref": "I_piper_nigrum",
+          "vms_len": 3,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "al",
+          "vms_code": "FUNC_011",
+          "an_raw": "quae",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "oral",
+          "vms_code": "PLANT_f24r.al",
+          "an_raw": "spice",
+          "an_ref": "I_spica",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "odam",
+          "vms_code": "FUNC_023.am",
+          "an_raw": "folii",
+          "an_ref": "I_folium",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "aiiin",
+          "vms_code": "INGR_018",
+          "an_raw": "cataalbi",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "ol",
+          "vms_code": "PLANT_f22r",
+          "an_raw": "ossium",
+          "an_ref": "I_ocimum",
+          "vms_len": 2,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "os",
+          "vms_code": "INGR_014",
+          "an_raw": "dactilorum",
+          "an_ref": "I_dactylus",
+          "vms_len": 2,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "aiin",
+          "vms_code": "PLANT_f10v",
+          "an_raw": "beliculi",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "qoteedy",
+          "vms_code": "FUNC_007.eedy",
+          "an_raw": "marini",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "aiir",
+          "vms_code": "INGR_064",
+          "an_raw": "spodii",
+          "an_ref": "I_spodium",
+          "vms_len": 4,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "ypar",
+          "vms_code": "INGR_143.ar",
+          "an_raw": "sandali",
+          "an_ref": "I_sandalum",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "ysheedy",
+          "vms_code": "INGR_024.eedy",
+          "an_raw": "macis",
+          "an_ref": "I_macis",
+          "vms_len": 7,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "aiin",
+          "vms_code": "PLANT_f10v",
+          "an_raw": "liquiricie",
+          "an_ref": "I_glycyrrhiza",
+          "vms_len": 4,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "okeol",
+          "vms_code": "FUNC_005.eol",
+          "an_raw": "cinnamomi",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 5,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "ykedor",
+          "vms_code": "INGR_741.or",
+          "an_raw": "anisi",
+          "an_ref": "I_anisum",
+          "vms_len": 6,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ar",
+          "vms_code": "PLANT_f33v",
+          "an_raw": "draganti",
+          "an_ref": "I_dragagantum",
+          "vms_len": 2,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "ar",
+          "vms_code": "PLANT_f33v",
+          "an_raw": "blacte",
+          "an_ref": "I_blatta_byzantia",
+          "vms_len": 2,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "alkair",
+          "vms_code": "INGR_087.air",
+          "an_raw": "cardamomi",
+          "an_ref": "I_cardamomum",
+          "vms_len": 6,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "otar",
+          "vms_code": "FUNC_006.ar",
+          "an_raw": "ozimi",
+          "an_ref": "I_ozimum",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "otal",
+          "vms_code": "FUNC_006.al",
+          "an_raw": "seminis",
+          "an_ref": "P_semen",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "tair",
+          "vms_code": "FUNC_010.air",
+          "an_raw": "auri",
+          "an_ref": "I_aurum",
+          "vms_len": 4,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "am",
+          "vms_code": "FUNC_047",
+          "an_raw": "argenti",
+          "an_ref": "I_argentum",
+          "vms_len": 2,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "opchedy",
+          "vms_code": "FUNC_032.edy",
+          "an_raw": "musci",
+          "an_ref": "I_muscus",
+          "vms_len": 7,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "qokchdy",
+          "vms_code": "FUNC_025.dy",
+          "an_raw": "camphore",
+          "an_ref": "I_camphora",
+          "vms_len": 7,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "otar",
+          "vms_code": "FUNC_006.ar",
+          "an_raw": "ambre",
+          "an_ref": "I_ambrosia",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "al",
+          "vms_code": "FUNC_011",
+          "an_raw": "trium",
+          "an_ref": "I_triticum",
+          "vms_len": 2,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "kair",
+          "vms_code": "FUNC_008.air",
+          "an_raw": "zuchari",
+          "an_ref": "I_zuccharum",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "okees",
+          "vms_code": "INGR_154",
+          "an_raw": "candi",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 5
+        }
+      ]
+    },
+    {
+      "vms_id": "f106v_B11",
+      "an_id": "AN_098",
+      "score": 0.875,
+      "word_pairs": [
+        {
+          "vms_eva": "shdair",
+          "vms_code": "INGR_047.air",
+          "an_raw": "mirabolanorum",
+          "an_ref": "I_mirabolanum",
+          "vms_len": 6,
+          "an_len": 13
+        },
+        {
+          "vms_eva": "sheky",
+          "vms_code": "INGR_041",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 5,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "keedy",
+          "vms_code": "FUNC_008.eedy",
+          "an_raw": "dyagridii",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "qoeedy",
+          "vms_code": "FUNC_018.eedy",
+          "an_raw": "agarici",
+          "an_ref": "I_agaricum",
+          "vms_len": 6,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "qofchedy",
+          "vms_code": "INGR_133.edy",
+          "an_raw": "spice",
+          "an_ref": "I_spica",
+          "vms_len": 8,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "al",
+          "vms_code": "FUNC_011",
+          "an_raw": "coloquintide",
+          "an_ref": "I_coloquintida",
+          "vms_len": 2,
+          "an_len": 12
+        },
+        {
+          "vms_eva": "qotar",
+          "vms_code": "FUNC_007.ar",
+          "an_raw": "aloes",
+          "an_ref": "I_aloe",
+          "vms_len": 5,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "chey",
+          "vms_code": "FUNC_001.ey",
+          "an_raw": "3,vii",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ol",
+          "vms_code": "PLANT_f22r",
+          "an_raw": "succo",
+          "an_ref": "I_succus",
+          "vms_len": 2,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "aiin",
+          "vms_code": "PLANT_f10v",
+          "an_raw": "fumiterre",
+          "an_ref": "I_fumaria",
+          "vms_len": 4,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "chey",
+          "vms_code": "FUNC_001.ey",
+          "an_raw": "ciceris",
+          "an_ref": "I_cicer",
+          "vms_len": 4,
+          "an_len": 7
+        }
+      ]
+    },
+    {
+      "vms_id": "f105v_B03",
+      "an_id": "AN_114",
+      "score": 0.869,
+      "word_pairs": [
+        {
+          "vms_eva": "air",
+          "vms_code": "LOGO(air)",
+          "an_raw": "apii",
+          "an_ref": "I_apium",
+          "vms_len": 3,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "odar",
+          "vms_code": "FUNC_023.ar",
+          "an_raw": "petrosilini",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 11
+        },
+        {
+          "vms_eva": "qoeees",
+          "vms_code": "INGR_659",
+          "an_raw": "feniculi",
+          "an_ref": "I_feniculum",
+          "vms_len": 6,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "y",
+          "vms_code": "LOGO(in)",
+          "an_raw": "anisi",
+          "an_ref": "I_anisum",
+          "vms_len": 1,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "otchedy",
+          "vms_code": "FUNC_022.edy",
+          "an_raw": "caparis",
+          "an_ref": "I_capparis",
+          "vms_len": 7,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "ockhedy",
+          "vms_code": "INGR_134.edy",
+          "an_raw": "tamarisci",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "otchey",
+          "vms_code": "FUNC_022.ey",
+          "an_raw": "siselei",
+          "an_ref": "I_seselium",
+          "vms_len": 6,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "or",
+          "vms_code": "PLANT_f24r",
+          "an_raw": "solis",
+          "an_ref": "I_solanum",
+          "vms_len": 2,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "r",
+          "vms_code": "LOGO(recipe)",
+          "an_raw": "seminis",
+          "an_ref": "P_semen",
+          "vms_len": 1,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "ail",
+          "vms_code": "INGR_335",
+          "an_raw": "melonis",
+          "an_ref": "I_melon",
+          "vms_len": 3,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "l",
+          "vms_code": "LOGO(se)",
+          "an_raw": "citroli",
+          "an_ref": "I_citrolus",
+          "vms_len": 1,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "okam",
+          "vms_code": "FUNC_005.am",
+          "an_raw": "cucumeris",
+          "an_ref": "I_cucumis",
+          "vms_len": 4,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "ykeey",
+          "vms_code": "FUNC_012.eey",
+          "an_raw": "cretani",
+          "an_ref": "I_cretanum/dictamnus_creticus",
+          "vms_len": 5,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "ky",
+          "vms_code": "INGR_058",
+          "an_raw": "saxifragie",
+          "an_ref": "I_saxifragia",
+          "vms_len": 2,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "che",
+          "vms_code": "FUNC_017",
+          "an_raw": "seminis",
+          "an_ref": "P_semen",
+          "vms_len": 3,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "oiiin",
+          "vms_code": "INGR_187",
+          "an_raw": "citri",
+          "an_ref": "I_citrus",
+          "vms_len": 5,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "dal",
+          "vms_code": "FUNC_003.al",
+          "an_raw": "lapis",
+          "an_ref": "I_lapis",
+          "vms_len": 3,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "l",
+          "vms_code": "LOGO(se)",
+          "an_raw": "amomi",
+          "an_ref": "I_amomum",
+          "vms_len": 1,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "kair",
+          "vms_code": "FUNC_008.air",
+          "an_raw": "thimi",
+          "an_ref": "I_thymus",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "chedy",
+          "vms_code": "FUNC_001.edy",
+          "an_raw": "ossa",
+          "an_ref": "I_ocimum",
+          "vms_len": 5,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "s",
+          "vms_code": "LOGO(est)",
+          "an_raw": "cerasorum",
+          "an_ref": "I_cerasum",
+          "vms_len": 1,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "odar",
+          "vms_code": "FUNC_023.ar",
+          "an_raw": "pomorum",
+          "an_ref": "I_pomum",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "air",
+          "vms_code": "LOGO(air)",
+          "an_raw": "persicorum",
+          "an_ref": "I_persica",
+          "vms_len": 3,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "al",
+          "vms_code": "FUNC_011",
+          "an_raw": "cardamomi",
+          "an_ref": "I_cardamomum",
+          "vms_len": 2,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "oral",
+          "vms_code": "PLANT_f24r.al",
+          "an_raw": "yreos",
+          "an_ref": "I_iris",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "odam",
+          "vms_code": "FUNC_023.am",
+          "an_raw": "spice",
+          "an_ref": "I_spica_nardi",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "aiiin",
+          "vms_code": "INGR_018",
+          "an_raw": "nardi",
+          "an_ref": "I_nardus",
+          "vms_len": 5,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ol",
+          "vms_code": "PLANT_f22r",
+          "an_raw": "gariofilorum",
+          "an_ref": "I_gariofilum",
+          "vms_len": 2,
+          "an_len": 12
+        },
+        {
+          "vms_eva": "os",
+          "vms_code": "INGR_014",
+          "an_raw": "costi",
+          "an_ref": "I_costus",
+          "vms_len": 2,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "aiin",
+          "vms_code": "PLANT_f10v",
+          "an_raw": "nucis",
+          "an_ref": "I_nux_muscata",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "qoteedy",
+          "vms_code": "FUNC_007.eedy",
+          "an_raw": "galange",
+          "an_ref": "I_galanga",
+          "vms_len": 7,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "aiir",
+          "vms_code": "INGR_064",
+          "an_raw": "thimi",
+          "an_ref": "I_thymus",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ypar",
+          "vms_code": "INGR_143.ar",
+          "an_raw": "magna",
+          "an_ref": "I_magnes",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ysheedy",
+          "vms_code": "INGR_024.eedy",
+          "an_raw": "Galeni",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "aiin",
+          "vms_code": "PLANT_f10v",
+          "an_raw": "cinarum",
+          "an_ref": "I_cinnamomum",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "okeol",
+          "vms_code": "FUNC_005.eol",
+          "an_raw": "Galieni",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "ykedor",
+          "vms_code": "INGR_741.or",
+          "an_raw": "humani",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "ar",
+          "vms_code": "PLANT_f33v",
+          "an_raw": "corporis",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "ar",
+          "vms_code": "PLANT_f33v",
+          "an_raw": "cathalenticis",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 13
+        },
+        {
+          "vms_eva": "alkair",
+          "vms_code": "INGR_087.air",
+          "an_raw": "apopleticis",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 11
+        },
+        {
+          "vms_eva": "otar",
+          "vms_code": "FUNC_006.ar",
+          "an_raw": "stomaticis",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "otal",
+          "vms_code": "FUNC_006.al",
+          "an_raw": "emigranicis",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 11
+        },
+        {
+          "vms_eva": "tair",
+          "vms_code": "FUNC_010.air",
+          "an_raw": "vocis",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "am",
+          "vms_code": "FUNC_047",
+          "an_raw": "optima",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "opchedy",
+          "vms_code": "FUNC_032.edy",
+          "an_raw": "ydropicis",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "qokchdy",
+          "vms_code": "FUNC_025.dy",
+          "an_raw": "peripleumonicis",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 15
+        },
+        {
+          "vms_eva": "otar",
+          "vms_code": "FUNC_006.ar",
+          "an_raw": "yliosis",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "al",
+          "vms_code": "FUNC_011",
+          "an_raw": "intestinis",
+          "an_ref": "I_intestinum",
+          "vms_len": 2,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "kair",
+          "vms_code": "FUNC_008.air",
+          "an_raw": "calculosis",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "okees",
+          "vms_code": "INGR_154",
+          "an_raw": "colericis",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 9
+        }
+      ]
+    },
+    {
+      "vms_id": "f103v_B12",
+      "an_id": "AN_050",
+      "score": 0.862,
+      "word_pairs": [
+        {
+          "vms_eva": "okey",
+          "vms_code": "FUNC_005.ey",
+          "an_raw": "sandali",
+          "an_ref": "I_sandalum",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "shol",
+          "vms_code": "FUNC_004.ol",
+          "an_raw": "rosarum",
+          "an_ref": "I_rosa",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "okeedar",
+          "vms_code": "INGR_188.ar",
+          "an_raw": "reubarbari",
+          "an_ref": "I_reubarbarum",
+          "vms_len": 7,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "shes",
+          "vms_code": "INGR_181",
+          "an_raw": "spodii",
+          "an_ref": "I_spodium",
+          "vms_len": 4,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "aiin",
+          "vms_code": "PLANT_f10v",
+          "an_raw": "draganti",
+          "an_ref": "I_dragagantum",
+          "vms_len": 4,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "oty",
+          "vms_code": "FUNC_034",
+          "an_raw": "gummi",
+          "an_ref": "I_gummi_arabicum",
+          "vms_len": 3,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "yteey",
+          "vms_code": "FUNC_014.eey",
+          "an_raw": "arabici",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "sheal",
+          "vms_code": "FUNC_028.al",
+          "an_raw": "violarum",
+          "an_ref": "I_viola",
+          "vms_len": 5,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "shey",
+          "vms_code": "FUNC_004.ey",
+          "an_raw": "berberis",
+          "an_ref": "I_berberis",
+          "vms_len": 4,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "ol",
+          "vms_code": "PLANT_f22r",
+          "an_raw": "seminis",
+          "an_ref": "P_semen",
+          "vms_len": 2,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "keey",
+          "vms_code": "FUNC_008.eey",
+          "an_raw": "portulace",
+          "an_ref": "I_portulaca",
+          "vms_len": 4,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "shckhy",
+          "vms_code": "FUNC_062",
+          "an_raw": "scariole",
+          "an_ref": "I_scariola",
+          "vms_len": 6,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "shey",
+          "vms_code": "FUNC_004.ey",
+          "an_raw": "aqua",
+          "an_ref": "I_aqua",
+          "vms_len": 4,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "lshey",
+          "vms_code": "FUNC_053.ey",
+          "an_raw": "ducis",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "qoar",
+          "vms_code": "FUNC_018.ar",
+          "an_raw": "ducis",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "al",
+          "vms_code": "FUNC_011",
+          "an_raw": "Rogerii",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "otar",
+          "vms_code": "FUNC_006.ar",
+          "an_raw": "filii",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "shedy",
+          "vms_code": "FUNC_004.edy",
+          "an_raw": "Roberti",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "yshey",
+          "vms_code": "INGR_024.ey",
+          "an_raw": "viscardi",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "arol",
+          "vms_code": "PLANT_f33v.ol",
+          "an_raw": "lapidis",
+          "an_ref": "I_lapis",
+          "vms_len": 4,
+          "an_len": 7
+        }
+      ]
+    },
+    {
+      "vms_id": "f112r_B08",
+      "an_id": "AN_050",
+      "score": 0.857,
+      "word_pairs": [
+        {
+          "vms_eva": "ar",
+          "vms_code": "PLANT_f33v",
+          "an_raw": "sandali",
+          "an_ref": "I_sandalum",
+          "vms_len": 2,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "l",
+          "vms_code": "LOGO(se)",
+          "an_raw": "rosarum",
+          "an_ref": "I_rosa",
+          "vms_len": 1,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "shdar",
+          "vms_code": "INGR_047.ar",
+          "an_raw": "reubarbari",
+          "an_ref": "I_reubarbarum",
+          "vms_len": 5,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "okechedy",
+          "vms_code": "INGR_202.edy",
+          "an_raw": "spodii",
+          "an_ref": "I_spodium",
+          "vms_len": 8,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "qokar",
+          "vms_code": "FUNC_002.ar",
+          "an_raw": "draganti",
+          "an_ref": "I_dragagantum",
+          "vms_len": 5,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "aram",
+          "vms_code": "PLANT_f33v.am",
+          "an_raw": "gummi",
+          "an_ref": "I_gummi_arabicum",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "qotedy",
+          "vms_code": "FUNC_007.edy",
+          "an_raw": "arabici",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "qokchdy",
+          "vms_code": "FUNC_025.dy",
+          "an_raw": "violarum",
+          "an_ref": "I_viola",
+          "vms_len": 7,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "opary",
+          "vms_code": "INGR_811",
+          "an_raw": "berberis",
+          "an_ref": "I_berberis",
+          "vms_len": 5,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "qoky",
+          "vms_code": "FUNC_027",
+          "an_raw": "seminis",
+          "an_ref": "P_semen",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "okeal",
+          "vms_code": "FUNC_050.al",
+          "an_raw": "portulace",
+          "an_ref": "I_portulaca",
+          "vms_len": 5,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "chedy",
+          "vms_code": "FUNC_001.edy",
+          "an_raw": "scariole",
+          "an_ref": "I_scariola",
+          "vms_len": 5,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "okeey",
+          "vms_code": "FUNC_005.eey",
+          "an_raw": "aqua",
+          "an_ref": "I_aqua",
+          "vms_len": 5,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "otedy",
+          "vms_code": "FUNC_006.edy",
+          "an_raw": "ducis",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ar",
+          "vms_code": "PLANT_f33v",
+          "an_raw": "ducis",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ar",
+          "vms_code": "PLANT_f33v",
+          "an_raw": "Rogerii",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "okeedy",
+          "vms_code": "FUNC_005.eedy",
+          "an_raw": "filii",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ol",
+          "vms_code": "PLANT_f22r",
+          "an_raw": "Roberti",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "checkhy",
+          "vms_code": "INGR_012",
+          "an_raw": "viscardi",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "olam",
+          "vms_code": "PLANT_f22r.am",
+          "an_raw": "lapidis",
+          "an_ref": "I_lapis",
+          "vms_len": 4,
+          "an_len": 7
+        }
+      ]
+    },
+    {
+      "vms_id": "f114v_B01",
+      "an_id": "AN_091",
+      "score": 0.857,
+      "word_pairs": [
+        {
+          "vms_eva": "dar",
+          "vms_code": "FUNC_003.ar",
+          "an_raw": "2i",
+          "an_ref": "",
+          "vms_len": 3,
+          "an_len": 2
+        },
+        {
+          "vms_eva": "fcheey",
+          "vms_code": "INGR_076.eey",
+          "an_raw": "mirabolanorum",
+          "an_ref": "I_mirabolanum",
+          "vms_len": 6,
+          "an_len": 13
+        },
+        {
+          "vms_eva": "qocphdy",
+          "vms_code": "INGR_796.dy",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 7,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "qotedar",
+          "vms_code": "INGR_126.ar",
+          "an_raw": "agarici",
+          "an_ref": "I_agaricum",
+          "vms_len": 7,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "qoteody",
+          "vms_code": "INGR_147.dy",
+          "an_raw": "dyagridii",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "choddy",
+          "vms_code": "INGR_008.dy",
+          "an_raw": "coloquintide",
+          "an_ref": "I_coloquintida",
+          "vms_len": 6,
+          "an_len": 12
+        },
+        {
+          "vms_eva": "otol",
+          "vms_code": "FUNC_006.ol",
+          "an_raw": "sene",
+          "an_ref": "I_sena",
+          "vms_len": 4,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "chedal",
+          "vms_code": "INGR_003.al",
+          "an_raw": "anisi",
+          "an_ref": "I_anisum",
+          "vms_len": 6,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "shedy",
+          "vms_code": "FUNC_004.edy",
+          "an_raw": "turbit",
+          "an_ref": "I_turbith",
+          "vms_len": 5,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "qotched",
+          "vms_code": "INGR_376",
+          "an_raw": "anisi",
+          "an_ref": "I_anisum",
+          "vms_len": 7,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "dl",
+          "vms_code": "INGR_085",
+          "an_raw": "maratri",
+          "an_ref": "I_feniculum",
+          "vms_len": 2,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "qotcheo",
+          "vms_code": "INGR_512",
+          "an_raw": "spleneticis",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 11
+        },
+        {
+          "vms_eva": "qotchd",
+          "vms_code": "INGR_375",
+          "an_raw": "poivre",
+          "an_ref": "I_piper",
+          "vms_len": 6,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "dol",
+          "vms_code": "FUNC_003.ol",
+          "an_raw": "nardi",
+          "an_ref": "I_nardus",
+          "vms_len": 3,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "qotchedy",
+          "vms_code": "FUNC_038.edy",
+          "an_raw": "macis",
+          "an_ref": "I_macis",
+          "vms_len": 8,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "choty",
+          "vms_code": "INGR_029",
+          "an_raw": "asae",
+          "an_ref": "I_asarum",
+          "vms_len": 5,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "ol",
+          "vms_code": "PLANT_f22r",
+          "an_raw": "foetidae",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "dal",
+          "vms_code": "FUNC_003.al",
+          "an_raw": "saxifrage",
+          "an_ref": "I_saxifragia",
+          "vms_len": 3,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "qokedy",
+          "vms_code": "FUNC_002.edy",
+          "an_raw": "ivae",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "qoted",
+          "vms_code": "INGR_126",
+          "an_raw": "strigni",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "qotedol",
+          "vms_code": "INGR_126.ol",
+          "an_raw": "„foeniculi",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "chedar",
+          "vms_code": "INGR_003.ar",
+          "an_raw": "epithymi",
+          "an_ref": "I_epithymum",
+          "vms_len": 6,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "qotedy",
+          "vms_code": "FUNC_007.edy",
+          "an_raw": "turbit",
+          "an_ref": "I_turbith",
+          "vms_len": 6,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "okeedy",
+          "vms_code": "FUNC_005.eedy",
+          "an_raw": "litzi",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "qokeedy",
+          "vms_code": "FUNC_002.eedy",
+          "an_raw": "rhei",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "okaly",
+          "vms_code": "INGR_102",
+          "an_raw": "barbari",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "shedy",
+          "vms_code": "FUNC_004.edy",
+          "an_raw": "succi",
+          "an_ref": "I_succus",
+          "vms_len": 5,
+          "an_len": 5
+        }
+      ]
+    },
+    {
+      "vms_id": "f107v_B01",
+      "an_id": "AN_091",
+      "score": 0.854,
+      "word_pairs": [
+        {
+          "vms_eva": "olkeeey",
+          "vms_code": "FUNC_015.eeey",
+          "an_raw": "2i",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 2
+        },
+        {
+          "vms_eva": "otody",
+          "vms_code": "INGR_044.dy",
+          "an_raw": "mirabolanorum",
+          "an_ref": "I_mirabolanum",
+          "vms_len": 5,
+          "an_len": 13
+        },
+        {
+          "vms_eva": "qokair",
+          "vms_code": "FUNC_002.air",
+          "an_raw": "emblicorum",
+          "an_ref": "I_emblicum",
+          "vms_len": 6,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "lkal",
+          "vms_code": "INGR_001.al",
+          "an_raw": "agarici",
+          "an_ref": "I_agaricum",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "chey",
+          "vms_code": "FUNC_001.ey",
+          "an_raw": "dyagridii",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "chody",
+          "vms_code": "PLANT_f14r.dy",
+          "an_raw": "coloquintide",
+          "an_ref": "I_coloquintida",
+          "vms_len": 5,
+          "an_len": 12
+        },
+        {
+          "vms_eva": "otal",
+          "vms_code": "FUNC_006.al",
+          "an_raw": "sene",
+          "an_ref": "I_sena",
+          "vms_len": 4,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "cheey",
+          "vms_code": "FUNC_001.eey",
+          "an_raw": "anisi",
+          "an_ref": "I_anisum",
+          "vms_len": 5,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "chkal",
+          "vms_code": "FUNC_042.al",
+          "an_raw": "turbit",
+          "an_ref": "I_turbith",
+          "vms_len": 5,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "qokedy",
+          "vms_code": "FUNC_002.edy",
+          "an_raw": "anisi",
+          "an_ref": "I_anisum",
+          "vms_len": 6,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "otal",
+          "vms_code": "FUNC_006.al",
+          "an_raw": "maratri",
+          "an_ref": "I_feniculum",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "chedy",
+          "vms_code": "FUNC_001.edy",
+          "an_raw": "spleneticis",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 11
+        },
+        {
+          "vms_eva": "oteos",
+          "vms_code": "INGR_072",
+          "an_raw": "poivre",
+          "an_ref": "I_piper",
+          "vms_len": 5,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "aiin",
+          "vms_code": "PLANT_f10v",
+          "an_raw": "nardi",
+          "an_ref": "I_nardus",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "otar",
+          "vms_code": "FUNC_006.ar",
+          "an_raw": "macis",
+          "an_ref": "I_macis",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ol",
+          "vms_code": "PLANT_f22r",
+          "an_raw": "foetidae",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "ain",
+          "vms_code": "FUNC_035",
+          "an_raw": "saxifrage",
+          "an_ref": "I_saxifragia",
+          "vms_len": 3,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "aiiin",
+          "vms_code": "INGR_018",
+          "an_raw": "ivae",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "shol",
+          "vms_code": "FUNC_004.ol",
+          "an_raw": "strigni",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "kal",
+          "vms_code": "FUNC_008.al",
+          "an_raw": "„foeniculi",
+          "an_ref": "",
+          "vms_len": 3,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "qokar",
+          "vms_code": "FUNC_002.ar",
+          "an_raw": "epithymi",
+          "an_ref": "I_epithymum",
+          "vms_len": 5,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "al",
+          "vms_code": "FUNC_011",
+          "an_raw": "turbit",
+          "an_ref": "I_turbith",
+          "vms_len": 2,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "ochedy",
+          "vms_code": "INGR_025.edy",
+          "an_raw": "litzi",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "cheky",
+          "vms_code": "FUNC_060",
+          "an_raw": "rhei",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "okechy",
+          "vms_code": "FUNC_050.chy",
+          "an_raw": "barbari",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "shocthy",
+          "vms_code": "INGR_212",
+          "an_raw": "succi",
+          "an_ref": "I_succus",
+          "vms_len": 7,
+          "an_len": 5
+        }
+      ]
+    },
+    {
+      "vms_id": "f103r_B17",
+      "an_id": "AN_113",
+      "score": 0.853,
+      "word_pairs": [
+        {
+          "vms_eva": "lshedy",
+          "vms_code": "FUNC_053.edy",
+          "an_raw": "opii",
+          "an_ref": "I_opium",
+          "vms_len": 6,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "qokeey",
+          "vms_code": "FUNC_002.eey",
+          "an_raw": "thebaici",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "qokeey",
+          "vms_code": "FUNC_002.eey",
+          "an_raw": "g-i",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 3
+        },
+        {
+          "vms_eva": "shkchy",
+          "vms_code": "INGR_105.chy",
+          "an_raw": "iusquiami",
+          "an_ref": "I_iusquiamus",
+          "vms_len": 6,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "kchy",
+          "vms_code": "FUNC_008.chy",
+          "an_raw": "succi",
+          "an_ref": "I_succus",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "okeey",
+          "vms_code": "FUNC_005.eey",
+          "an_raw": "more",
+          "an_ref": "I_morus",
+          "vms_len": 5,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "lr",
+          "vms_code": "INGR_235",
+          "an_raw": "rubi",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "ain",
+          "vms_code": "FUNC_035",
+          "an_raw": "seminis",
+          "an_ref": "P_semen",
+          "vms_len": 3,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "l",
+          "vms_code": "LOGO(se)",
+          "an_raw": "lactuce",
+          "an_ref": "I_lactuca",
+          "vms_len": 1,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "ol",
+          "vms_code": "PLANT_f22r",
+          "an_raw": "succi",
+          "an_ref": "I_succus",
+          "vms_len": 2,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "sheed",
+          "vms_code": "INGR_299",
+          "an_raw": "cicute",
+          "an_ref": "I_cicuta",
+          "vms_len": 5,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "qokeey",
+          "vms_code": "FUNC_002.eey",
+          "an_raw": "coconidii",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "sheol",
+          "vms_code": "FUNC_004.eol",
+          "an_raw": "papaveris",
+          "an_ref": "I_papaver",
+          "vms_len": 5,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "qokeedy",
+          "vms_code": "FUNC_002.eedy",
+          "an_raw": "succi",
+          "an_ref": "I_succus",
+          "vms_len": 7,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "shedy",
+          "vms_code": "FUNC_004.edy",
+          "an_raw": "mandragore",
+          "an_ref": "I_mandragora",
+          "vms_len": 5,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "qoky",
+          "vms_code": "FUNC_027",
+          "an_raw": "succi",
+          "an_ref": "I_succus",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "ssheey",
+          "vms_code": "INGR_151.eey",
+          "an_raw": "vase",
+          "an_ref": "T_vas",
+          "vms_len": 6,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "l",
+          "vms_code": "LOGO(se)",
+          "an_raw": "qualis",
+          "an_ref": "",
+          "vms_len": 1,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "shey",
+          "vms_code": "FUNC_004.ey",
+          "an_raw": "mare",
+          "an_ref": "I_feniculum",
+          "vms_len": 4,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "cheey",
+          "vms_code": "FUNC_001.eey",
+          "an_raw": "aqua",
+          "an_ref": "I_aqua",
+          "vms_len": 5,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "chey",
+          "vms_code": "FUNC_001.ey",
+          "an_raw": "solem",
+          "an_ref": "T_sol",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "qokeey",
+          "vms_code": "FUNC_002.eey",
+          "an_raw": "aqua",
+          "an_ref": "I_aqua",
+          "vms_len": 6,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "okeey",
+          "vms_code": "FUNC_005.eey",
+          "an_raw": "patientis",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "cheey",
+          "vms_code": "FUNC_001.eey",
+          "an_raw": "succum",
+          "an_ref": "I_succus",
+          "vms_len": 5,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "cheteey",
+          "vms_code": "INGR_040.eey",
+          "an_raw": "radicum",
+          "an_ref": "P_radix",
+          "vms_len": 7,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "shey",
+          "vms_code": "FUNC_004.ey",
+          "an_raw": "feniculi",
+          "an_ref": "I_feniculum",
+          "vms_len": 4,
+          "an_len": 8
+        }
+      ]
+    },
+    {
+      "vms_id": "f104r_B04",
+      "an_id": "AN_113",
+      "score": 0.853,
+      "word_pairs": [
+        {
+          "vms_eva": "qotchedy",
+          "vms_code": "FUNC_038.edy",
+          "an_raw": "opii",
+          "an_ref": "I_opium",
+          "vms_len": 8,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "qokoeey",
+          "vms_code": "INGR_122.eey",
+          "an_raw": "thebaici",
+          "an_ref": "",
+          "vms_len": 7,
+          "an_len": 8
+        },
+        {
+          "vms_eva": "lo",
+          "vms_code": "INGR_075",
+          "an_raw": "g-i",
+          "an_ref": "",
+          "vms_len": 2,
+          "an_len": 3
+        },
+        {
+          "vms_eva": "al",
+          "vms_code": "FUNC_011",
+          "an_raw": "iusquiami",
+          "an_ref": "I_iusquiamus",
+          "vms_len": 2,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "octhy",
+          "vms_code": "INGR_245",
+          "an_raw": "succi",
+          "an_ref": "I_succus",
+          "vms_len": 5,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "qotor",
+          "vms_code": "FUNC_007.or",
+          "an_raw": "more",
+          "an_ref": "I_morus",
+          "vms_len": 5,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "opchey",
+          "vms_code": "FUNC_032.ey",
+          "an_raw": "rubi",
+          "an_ref": "",
+          "vms_len": 6,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "qotam",
+          "vms_code": "FUNC_007.am",
+          "an_raw": "seminis",
+          "an_ref": "P_semen",
+          "vms_len": 5,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "olcheol",
+          "vms_code": "FUNC_039.eol",
+          "an_raw": "lactuce",
+          "an_ref": "I_lactuca",
+          "vms_len": 7,
+          "an_len": 7
+        },
+        {
+          "vms_eva": "chokar",
+          "vms_code": "FUNC_037.ar",
+          "an_raw": "succi",
+          "an_ref": "I_succus",
+          "vms_len": 6,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "okcho",
+          "vms_code": "INGR_167",
+          "an_raw": "cicute",
+          "an_ref": "I_cicuta",
+          "vms_len": 5,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "okar",
+          "vms_code": "FUNC_005.ar",
+          "an_raw": "coconidii",
+          "an_ref": "",
+          "vms_len": 4,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "cheody",
+          "vms_code": "FUNC_020.dy",
+          "an_raw": "papaveris",
+          "an_ref": "I_papaver",
+          "vms_len": 6,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "okeeody",
+          "vms_code": "INGR_036.dy",
+          "an_raw": "succi",
+          "an_ref": "I_succus",
+          "vms_len": 7,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "qodam",
+          "vms_code": "FUNC_045.am",
+          "an_raw": "mandragore",
+          "an_ref": "I_mandragora",
+          "vms_len": 5,
+          "an_len": 10
+        },
+        {
+          "vms_eva": "chdy",
+          "vms_code": "FUNC_001.dy",
+          "an_raw": "succi",
+          "an_ref": "I_succus",
+          "vms_len": 4,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "qokechy",
+          "vms_code": "FUNC_059.chy",
+          "an_raw": "vase",
+          "an_ref": "T_vas",
+          "vms_len": 7,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "qotal",
+          "vms_code": "FUNC_007.al",
+          "an_raw": "qualis",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "cheolor",
+          "vms_code": "PLANT_f101r.or",
+          "an_raw": "mare",
+          "an_ref": "I_feniculum",
+          "vms_len": 7,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "otal",
+          "vms_code": "FUNC_006.al",
+          "an_raw": "aqua",
+          "an_ref": "I_aqua",
+          "vms_len": 4,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "ol",
+          "vms_code": "PLANT_f22r",
+          "an_raw": "solem",
+          "an_ref": "T_sol",
+          "vms_len": 2,
+          "an_len": 5
+        },
+        {
+          "vms_eva": "oeeal",
+          "vms_code": "INGR_250.al",
+          "an_raw": "aqua",
+          "an_ref": "I_aqua",
+          "vms_len": 5,
+          "an_len": 4
+        },
+        {
+          "vms_eva": "chody",
+          "vms_code": "PLANT_f14r.dy",
+          "an_raw": "patientis",
+          "an_ref": "",
+          "vms_len": 5,
+          "an_len": 9
+        },
+        {
+          "vms_eva": "okar",
+          "vms_code": "FUNC_005.ar",
+          "an_raw": "succum",
+          "an_ref": "I_succus",
+          "vms_len": 4,
+          "an_len": 6
+        },
+        {
+          "vms_eva": "okal",
+          "vms_code": "FUNC_005.al",
+          "an_raw": "radicum",
+          "an_ref": "P_radix",
+          "vms_len": 4,
+          "an_len": 7
+        }
+      ]
+    }
+  ],
+  "convergent_mappings": [
+    {
+      "eva": "air",
+      "latin": "piperis",
+      "count": 2
+    },
+    {
+      "eva": "ol",
+      "latin": "foetidae",
+      "count": 2
+    }
+  ]
+}

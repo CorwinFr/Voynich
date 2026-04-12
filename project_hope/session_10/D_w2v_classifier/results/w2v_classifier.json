@@ -1,0 +1,7036 @@
+{
+  "categories": {
+    "VERB": [
+      "recipe",
+      "misce",
+      "tere",
+      "coque",
+      "adde",
+      "fiat",
+      "cola",
+      "dissolve",
+      "pone",
+      "fac",
+      "accipe",
+      "contere",
+      "commisce",
+      "confice",
+      "munde",
+      "decoque",
+      "solve",
+      "distempera",
+      "incorpora",
+      "infunde",
+      "bulliat",
+      "coletur",
+      "ponatur",
+      "terantur",
+      "misceantur",
+      "addatur",
+      "imponatur"
+    ],
+    "GRAM": [
+      "et",
+      "in",
+      "cum",
+      "de",
+      "vel",
+      "est",
+      "per",
+      "se",
+      "ad",
+      "non",
+      "sed",
+      "sic",
+      "si",
+      "aut",
+      "que",
+      "hoc",
+      "inde",
+      "item",
+      "quod",
+      "eius",
+      "autem",
+      "ergo"
+    ],
+    "INGR": [
+      "rosa",
+      "piper",
+      "aloe",
+      "crocus",
+      "sal",
+      "mel",
+      "opium",
+      "mirra",
+      "camphora",
+      "cassia",
+      "cinnamomum",
+      "galanga",
+      "nardus",
+      "absinthium",
+      "feniculum",
+      "anetum",
+      "petroselinum",
+      "ruta",
+      "salvia",
+      "origanum",
+      "cera",
+      "oleum",
+      "vinum",
+      "aqua",
+      "acetum",
+      "mastix",
+      "thus",
+      "galbanum",
+      "opopanax",
+      "bdellium",
+      "ammoniacum",
+      "aloes",
+      "opii",
+      "mirre",
+      "ciperi",
+      "croci",
+      "piperis",
+      "rosarum",
+      "gariofilorum",
+      "cinamomi",
+      "masticis",
+      "absintii",
+      "feniculi",
+      "petroselini",
+      "cassie"
+    ],
+    "DOSE": [
+      "ana",
+      "drachma",
+      "uncia",
+      "libra",
+      "semis",
+      "manipulum",
+      "pugillum",
+      "quantum",
+      "pondus",
+      "drachmas",
+      "uncias",
+      "libras",
+      "dragma"
+    ],
+    "TEMPORAL": [
+      "mane",
+      "nocte",
+      "die",
+      "hora",
+      "sero",
+      "vespere",
+      "diebus",
+      "noctibus",
+      "horis",
+      "continuis",
+      "donec",
+      "postea",
+      "ante",
+      "post",
+      "semper",
+      "quotidie"
+    ],
+    "PREP_FORM": [
+      "unguentum",
+      "electuarium",
+      "siropi",
+      "sirupus",
+      "pilulae",
+      "emplastrum",
+      "pulvis",
+      "confectio",
+      "cataplasma",
+      "ptisanum",
+      "potio",
+      "decoctio",
+      "infusio",
+      "collyrium",
+      "oximel",
+      "conditum"
+    ]
+  },
+  "global_distribution": {
+    "GRAM": 896,
+    "INGR": 143,
+    "TEMPORAL": 582,
+    "VERB": 183,
+    "DOSE": 496,
+    "PREP_FORM": 174
+  },
+  "f103r_role_counts": {
+    "DOSE": 118,
+    "?": 54,
+    "INGR_XREF": 66,
+    "VERB": 36,
+    "TEMPORAL": 86,
+    "DOSE_MORPH": 64,
+    "INGR": 27,
+    "GRAM": 63,
+    "LOGO": 8,
+    "PREP_FORM": 9
+  },
+  "f103r_recipes": [
+    {
+      "id": "f103r_B01",
+      "n_words": 50,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pchedal",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 1,
+          "eva": "shdy",
+          "role": "DOSE",
+          "detail": "0.41",
+          "sym": "Q"
+        },
+        {
+          "pos": 2,
+          "eva": "ytechypchy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 3,
+          "eva": "otey",
+          "role": "DOSE",
+          "detail": "0.37",
+          "sym": "Q"
+        },
+        {
+          "pos": 4,
+          "eva": "lshey",
+          "role": "INGR_XREF",
+          "detail": "INGR:shey→f41r",
+          "sym": "★"
+        },
+        {
+          "pos": 5,
+          "eva": "qoteey",
+          "role": "DOSE",
+          "detail": "0.38",
+          "sym": "Q"
+        },
+        {
+          "pos": 6,
+          "eva": "qotal",
+          "role": "VERB",
+          "detail": "0.27",
+          "sym": "V"
+        },
+        {
+          "pos": 7,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 8,
+          "eva": "yshdal",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 9,
+          "eva": "dain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 10,
+          "eva": "okal",
+          "role": "INGR",
+          "detail": "0.52",
+          "sym": "I"
+        },
+        {
+          "pos": 11,
+          "eva": "daldy",
+          "role": "INGR",
+          "detail": "0.34",
+          "sym": "I"
+        },
+        {
+          "pos": 12,
+          "eva": "dain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 13,
+          "eva": "shek",
+          "role": "DOSE",
+          "detail": "0.42",
+          "sym": "Q"
+        },
+        {
+          "pos": 14,
+          "eva": "chcphhdy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 15,
+          "eva": "daloky",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 16,
+          "eva": "opchedy",
+          "role": "INGR_XREF",
+          "detail": "INGR:chedy→f94r",
+          "sym": "★"
+        },
+        {
+          "pos": 17,
+          "eva": "peshol",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 18,
+          "eva": "chep",
+          "role": "DOSE",
+          "detail": "0.39",
+          "sym": "Q"
+        },
+        {
+          "pos": 19,
+          "eva": "ar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 20,
+          "eva": "otchy",
+          "role": "INGR_XREF",
+          "detail": "INGR:chy→f50v",
+          "sym": "★"
+        },
+        {
+          "pos": 21,
+          "eva": "sal",
+          "role": "VERB",
+          "detail": "0.39",
+          "sym": "V"
+        },
+        {
+          "pos": 22,
+          "eva": "lkeey",
+          "role": "VERB",
+          "detail": "0.45",
+          "sym": "V"
+        },
+        {
+          "pos": 23,
+          "eva": "sar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 24,
+          "eva": "ain",
+          "role": "INGR",
+          "detail": "0.41",
+          "sym": "I"
+        },
+        {
+          "pos": 25,
+          "eva": "ok",
+          "role": "GRAM",
+          "detail": "0.35",
+          "sym": "G"
+        },
+        {
+          "pos": 26,
+          "eva": "chedy",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        },
+        {
+          "pos": 27,
+          "eva": "yshdain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 28,
+          "eva": "sheek",
+          "role": "GRAM",
+          "detail": "0.35",
+          "sym": "G"
+        },
+        {
+          "pos": 29,
+          "eva": "cheoty",
+          "role": "TEMPORAL",
+          "detail": "0.10",
+          "sym": "T"
+        },
+        {
+          "pos": 30,
+          "eva": "eeokal",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 31,
+          "eva": "chedy",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        },
+        {
+          "pos": 32,
+          "eva": "chckhy",
+          "role": "TEMPORAL",
+          "detail": "0.43",
+          "sym": "T"
+        },
+        {
+          "pos": 33,
+          "eva": "or",
+          "role": "INGR_XREF",
+          "detail": "INGR:or→f24r",
+          "sym": "★"
+        },
+        {
+          "pos": 34,
+          "eva": "orol",
+          "role": "INGR_XREF",
+          "detail": "INGR:or→f24r",
+          "sym": "★"
+        },
+        {
+          "pos": 35,
+          "eva": "okaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 36,
+          "eva": "eeal",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 37,
+          "eva": "ot",
+          "role": "VERB",
+          "detail": "0.33",
+          "sym": "V"
+        },
+        {
+          "pos": 38,
+          "eva": "kar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 39,
+          "eva": "otar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 40,
+          "eva": "chal",
+          "role": "GRAM",
+          "detail": "0.29",
+          "sym": "G"
+        },
+        {
+          "pos": 41,
+          "eva": "ychedy",
+          "role": "DOSE",
+          "detail": "0.36",
+          "sym": "Q"
+        },
+        {
+          "pos": 42,
+          "eva": "qokedy",
+          "role": "DOSE",
+          "detail": "0.49",
+          "sym": "Q"
+        },
+        {
+          "pos": 43,
+          "eva": "okedy",
+          "role": "VERB",
+          "detail": "0.32",
+          "sym": "V"
+        },
+        {
+          "pos": 44,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 45,
+          "eva": "okey",
+          "role": "INGR",
+          "detail": "0.47",
+          "sym": "I"
+        },
+        {
+          "pos": 46,
+          "eva": "chdar",
+          "role": "VERB",
+          "detail": "0.40",
+          "sym": "V"
+        },
+        {
+          "pos": 47,
+          "eva": "ol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 48,
+          "eva": "loty",
+          "role": "DOSE",
+          "detail": "0.49",
+          "sym": "Q"
+        },
+        {
+          "pos": 49,
+          "eva": "chedaraly",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        }
+      ],
+      "role_counts": {
+        "DOSE": 10,
+        "?": 8,
+        "INGR_XREF": 10,
+        "VERB": 6,
+        "TEMPORAL": 5,
+        "DOSE_MORPH": 4,
+        "INGR": 4,
+        "GRAM": 3
+      }
+    },
+    {
+      "id": "f103r_B02",
+      "n_words": 35,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pocharal",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 1,
+          "eva": "okedar",
+          "role": "TEMPORAL",
+          "detail": "0.25",
+          "sym": "T"
+        },
+        {
+          "pos": 2,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 3,
+          "eva": "oteey",
+          "role": "GRAM",
+          "detail": "0.24",
+          "sym": "G"
+        },
+        {
+          "pos": 4,
+          "eva": "qokey",
+          "role": "TEMPORAL",
+          "detail": "0.35",
+          "sym": "T"
+        },
+        {
+          "pos": 5,
+          "eva": "lkar",
+          "role": "VERB",
+          "detail": "0.41",
+          "sym": "V"
+        },
+        {
+          "pos": 6,
+          "eva": "sheeky",
+          "role": "VERB",
+          "detail": "0.35",
+          "sym": "V"
+        },
+        {
+          "pos": 7,
+          "eva": "okalor",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 8,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 9,
+          "eva": "yt",
+          "role": "GRAM",
+          "detail": "0.43",
+          "sym": "G"
+        },
+        {
+          "pos": 10,
+          "eva": "rkar",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 11,
+          "eva": "ota",
+          "role": "VERB",
+          "detail": "0.49",
+          "sym": "V"
+        },
+        {
+          "pos": 12,
+          "eva": "okdy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 13,
+          "eva": "ocheey",
+          "role": "INGR_XREF",
+          "detail": "INGR:cheey→f87v",
+          "sym": "★"
+        },
+        {
+          "pos": 14,
+          "eva": "dain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 15,
+          "eva": "shek",
+          "role": "DOSE",
+          "detail": "0.42",
+          "sym": "Q"
+        },
+        {
+          "pos": 16,
+          "eva": "okeedy",
+          "role": "TEMPORAL",
+          "detail": "0.42",
+          "sym": "T"
+        },
+        {
+          "pos": 17,
+          "eva": "okey",
+          "role": "INGR",
+          "detail": "0.47",
+          "sym": "I"
+        },
+        {
+          "pos": 18,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 19,
+          "eva": "qokealdy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 20,
+          "eva": "shcthy",
+          "role": "DOSE",
+          "detail": "0.18",
+          "sym": "Q"
+        },
+        {
+          "pos": 21,
+          "eva": "qotedy",
+          "role": "TEMPORAL",
+          "detail": "0.32",
+          "sym": "T"
+        },
+        {
+          "pos": 22,
+          "eva": "qoto",
+          "role": "GRAM",
+          "detail": "0.45",
+          "sym": "G"
+        },
+        {
+          "pos": 23,
+          "eva": "ota",
+          "role": "VERB",
+          "detail": "0.49",
+          "sym": "V"
+        },
+        {
+          "pos": 24,
+          "eva": "san",
+          "role": "VERB",
+          "detail": "0.48",
+          "sym": "V"
+        },
+        {
+          "pos": 25,
+          "eva": "am",
+          "role": "TEMPORAL",
+          "detail": "0.46",
+          "sym": "T"
+        },
+        {
+          "pos": 26,
+          "eva": "saiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 27,
+          "eva": "chey",
+          "role": "DOSE",
+          "detail": "0.52",
+          "sym": "Q"
+        },
+        {
+          "pos": 28,
+          "eva": "shs",
+          "role": "TEMPORAL",
+          "detail": "0.31",
+          "sym": "T"
+        },
+        {
+          "pos": 29,
+          "eva": "olshedy",
+          "role": "DOSE",
+          "detail": "0.38",
+          "sym": "Q"
+        },
+        {
+          "pos": 30,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 31,
+          "eva": "okeeody",
+          "role": "TEMPORAL",
+          "detail": "0.27",
+          "sym": "T"
+        },
+        {
+          "pos": 32,
+          "eva": "qoedy",
+          "role": "TEMPORAL",
+          "detail": "0.24",
+          "sym": "T"
+        },
+        {
+          "pos": 33,
+          "eva": "ol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 34,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        }
+      ],
+      "role_counts": {
+        "?": 4,
+        "TEMPORAL": 12,
+        "GRAM": 3,
+        "VERB": 5,
+        "DOSE": 6,
+        "INGR_XREF": 2,
+        "DOSE_MORPH": 2,
+        "INGR": 1
+      }
+    },
+    {
+      "id": "f103r_B03",
+      "n_words": 62,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "daroal",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 1,
+          "eva": "okey",
+          "role": "INGR",
+          "detail": "0.47",
+          "sym": "I"
+        },
+        {
+          "pos": 2,
+          "eva": "chedy",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        },
+        {
+          "pos": 3,
+          "eva": "okey",
+          "role": "INGR",
+          "detail": "0.47",
+          "sym": "I"
+        },
+        {
+          "pos": 4,
+          "eva": "rain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 5,
+          "eva": "okechy",
+          "role": "TEMPORAL",
+          "detail": "0.38",
+          "sym": "T"
+        },
+        {
+          "pos": 6,
+          "eva": "qoisal",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 7,
+          "eva": "qotar",
+          "role": "TEMPORAL",
+          "detail": "0.42",
+          "sym": "T"
+        },
+        {
+          "pos": 8,
+          "eva": "adchey",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 9,
+          "eva": "ofeeo",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 10,
+          "eva": "ltdy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 11,
+          "eva": "olkechdy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 12,
+          "eva": "lo",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        },
+        {
+          "pos": 13,
+          "eva": "oteeos",
+          "role": "TEMPORAL",
+          "detail": "0.48",
+          "sym": "T"
+        },
+        {
+          "pos": 14,
+          "eva": "ar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 15,
+          "eva": "cheal",
+          "role": "GRAM",
+          "detail": "0.34",
+          "sym": "G"
+        },
+        {
+          "pos": 16,
+          "eva": "okeey",
+          "role": "INGR",
+          "detail": "0.40",
+          "sym": "I"
+        },
+        {
+          "pos": 17,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 18,
+          "eva": "lkaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 19,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 20,
+          "eva": "lkeor",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 21,
+          "eva": "otaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 22,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 23,
+          "eva": "otey",
+          "role": "DOSE",
+          "detail": "0.37",
+          "sym": "Q"
+        },
+        {
+          "pos": 24,
+          "eva": "l",
+          "role": "LOGO",
+          "detail": "se",
+          "sym": "L"
+        },
+        {
+          "pos": 25,
+          "eva": "dy",
+          "role": "DOSE",
+          "detail": "0.47",
+          "sym": "Q"
+        },
+        {
+          "pos": 26,
+          "eva": "okeedaram",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 27,
+          "eva": "daiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 28,
+          "eva": "ol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 29,
+          "eva": "oain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 30,
+          "eva": "okeol",
+          "role": "PREP_FORM",
+          "detail": "0.30",
+          "sym": "P"
+        },
+        {
+          "pos": 31,
+          "eva": "chol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 32,
+          "eva": "okam",
+          "role": "PREP_FORM",
+          "detail": "0.42",
+          "sym": "P"
+        },
+        {
+          "pos": 33,
+          "eva": "chety",
+          "role": "TEMPORAL",
+          "detail": "0.32",
+          "sym": "T"
+        },
+        {
+          "pos": 34,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 35,
+          "eva": "otaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 36,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 37,
+          "eva": "teolshy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 38,
+          "eva": "oteedy",
+          "role": "TEMPORAL",
+          "detail": "0.21",
+          "sym": "T"
+        },
+        {
+          "pos": 39,
+          "eva": "sor",
+          "role": "INGR_XREF",
+          "detail": "INGR:or→f24r",
+          "sym": "★"
+        },
+        {
+          "pos": 40,
+          "eva": "ain",
+          "role": "INGR",
+          "detail": "0.41",
+          "sym": "I"
+        },
+        {
+          "pos": 41,
+          "eva": "dar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 42,
+          "eva": "oteey",
+          "role": "GRAM",
+          "detail": "0.24",
+          "sym": "G"
+        },
+        {
+          "pos": 43,
+          "eva": "otain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 44,
+          "eva": "lolshedy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 45,
+          "eva": "okain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 46,
+          "eva": "chey",
+          "role": "DOSE",
+          "detail": "0.52",
+          "sym": "Q"
+        },
+        {
+          "pos": 47,
+          "eva": "qorain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 48,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 49,
+          "eva": "otoy",
+          "role": "GRAM",
+          "detail": "0.34",
+          "sym": "G"
+        },
+        {
+          "pos": 50,
+          "eva": "qokeol",
+          "role": "INGR",
+          "detail": "0.34",
+          "sym": "I"
+        },
+        {
+          "pos": 51,
+          "eva": "key",
+          "role": "GRAM",
+          "detail": "0.44",
+          "sym": "G"
+        },
+        {
+          "pos": 52,
+          "eva": "daikhyky",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 53,
+          "eva": "oain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 54,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 55,
+          "eva": "shckhy",
+          "role": "VERB",
+          "detail": "0.36",
+          "sym": "V"
+        },
+        {
+          "pos": 56,
+          "eva": "oteey",
+          "role": "GRAM",
+          "detail": "0.24",
+          "sym": "G"
+        },
+        {
+          "pos": 57,
+          "eva": "qokeol",
+          "role": "INGR",
+          "detail": "0.34",
+          "sym": "I"
+        },
+        {
+          "pos": 58,
+          "eva": "keedy",
+          "role": "DOSE",
+          "detail": "0.43",
+          "sym": "Q"
+        },
+        {
+          "pos": 59,
+          "eva": "shar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 60,
+          "eva": "aiin",
+          "role": "INGR_XREF",
+          "detail": "INGR:aiin→f10v",
+          "sym": "★"
+        },
+        {
+          "pos": 61,
+          "eva": "otedy",
+          "role": "TEMPORAL",
+          "detail": "0.28",
+          "sym": "T"
+        }
+      ],
+      "role_counts": {
+        "?": 11,
+        "INGR": 6,
+        "TEMPORAL": 11,
+        "DOSE_MORPH": 10,
+        "INGR_XREF": 7,
+        "GRAM": 9,
+        "DOSE": 4,
+        "LOGO": 1,
+        "PREP_FORM": 2,
+        "VERB": 1
+      }
+    },
+    {
+      "id": "f103r_B04",
+      "n_words": 30,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "podar",
+          "role": "TEMPORAL",
+          "detail": "0.38",
+          "sym": "T"
+        },
+        {
+          "pos": 1,
+          "eva": "sheor",
+          "role": "DOSE",
+          "detail": "0.45",
+          "sym": "Q"
+        },
+        {
+          "pos": 2,
+          "eva": "qotedy",
+          "role": "TEMPORAL",
+          "detail": "0.32",
+          "sym": "T"
+        },
+        {
+          "pos": 3,
+          "eva": "okeey",
+          "role": "INGR",
+          "detail": "0.40",
+          "sym": "I"
+        },
+        {
+          "pos": 4,
+          "eva": "qokar",
+          "role": "VERB",
+          "detail": "0.45",
+          "sym": "V"
+        },
+        {
+          "pos": 5,
+          "eva": "checkhy",
+          "role": "VERB",
+          "detail": "0.36",
+          "sym": "V"
+        },
+        {
+          "pos": 6,
+          "eva": "qokain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 7,
+          "eva": "chedy",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        },
+        {
+          "pos": 8,
+          "eva": "pchdy",
+          "role": "VERB",
+          "detail": "0.49",
+          "sym": "V"
+        },
+        {
+          "pos": 9,
+          "eva": "tshdy",
+          "role": "TEMPORAL",
+          "detail": "0.21",
+          "sym": "T"
+        },
+        {
+          "pos": 10,
+          "eva": "dal",
+          "role": "DOSE",
+          "detail": "0.51",
+          "sym": "Q"
+        },
+        {
+          "pos": 11,
+          "eva": "kasol",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 12,
+          "eva": "okain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 13,
+          "eva": "shekain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 14,
+          "eva": "chedy",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        },
+        {
+          "pos": 15,
+          "eva": "qokeechy",
+          "role": "GRAM",
+          "detail": "0.36",
+          "sym": "G"
+        },
+        {
+          "pos": 16,
+          "eva": "qoky",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 17,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 18,
+          "eva": "lol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 19,
+          "eva": "s",
+          "role": "LOGO",
+          "detail": "est",
+          "sym": "L"
+        },
+        {
+          "pos": 20,
+          "eva": "aiin",
+          "role": "INGR_XREF",
+          "detail": "INGR:aiin→f10v",
+          "sym": "★"
+        },
+        {
+          "pos": 21,
+          "eva": "chey",
+          "role": "DOSE",
+          "detail": "0.52",
+          "sym": "Q"
+        },
+        {
+          "pos": 22,
+          "eva": "eekain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 23,
+          "eva": "chcthy",
+          "role": "VERB",
+          "detail": "0.36",
+          "sym": "V"
+        },
+        {
+          "pos": 24,
+          "eva": "qoky",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 25,
+          "eva": "qotedy",
+          "role": "TEMPORAL",
+          "detail": "0.32",
+          "sym": "T"
+        },
+        {
+          "pos": 26,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 27,
+          "eva": "shol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 28,
+          "eva": "qotey",
+          "role": "DOSE",
+          "detail": "0.20",
+          "sym": "Q"
+        },
+        {
+          "pos": 29,
+          "eva": "shkaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        }
+      ],
+      "role_counts": {
+        "TEMPORAL": 6,
+        "DOSE": 7,
+        "INGR": 1,
+        "VERB": 4,
+        "DOSE_MORPH": 5,
+        "?": 1,
+        "GRAM": 2,
+        "INGR_XREF": 3,
+        "LOGO": 1
+      }
+    },
+    {
+      "id": "f103r_B05",
+      "n_words": 21,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "dshol",
+          "role": "INGR_XREF",
+          "detail": "INGR:shol→f11r",
+          "sym": "★"
+        },
+        {
+          "pos": 1,
+          "eva": "sholkar",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 2,
+          "eva": "shdaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 3,
+          "eva": "cheey",
+          "role": "TEMPORAL",
+          "detail": "0.54",
+          "sym": "T"
+        },
+        {
+          "pos": 4,
+          "eva": "rar",
+          "role": "GRAM",
+          "detail": "0.36",
+          "sym": "G"
+        },
+        {
+          "pos": 5,
+          "eva": "okeey",
+          "role": "INGR",
+          "detail": "0.40",
+          "sym": "I"
+        },
+        {
+          "pos": 6,
+          "eva": "shcfhedy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 7,
+          "eva": "opcheol",
+          "role": "INGR_XREF",
+          "detail": "INGR:cheol→f101r",
+          "sym": "★"
+        },
+        {
+          "pos": 8,
+          "eva": "oteedy",
+          "role": "TEMPORAL",
+          "detail": "0.21",
+          "sym": "T"
+        },
+        {
+          "pos": 9,
+          "eva": "tchey",
+          "role": "INGR_XREF",
+          "detail": "INGR:chey→f40r",
+          "sym": "★"
+        },
+        {
+          "pos": 10,
+          "eva": "shky",
+          "role": "DOSE",
+          "detail": "0.26",
+          "sym": "Q"
+        },
+        {
+          "pos": 11,
+          "eva": "sar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 12,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 13,
+          "eva": "qokey",
+          "role": "TEMPORAL",
+          "detail": "0.35",
+          "sym": "T"
+        },
+        {
+          "pos": 14,
+          "eva": "keedy",
+          "role": "DOSE",
+          "detail": "0.43",
+          "sym": "Q"
+        },
+        {
+          "pos": 15,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 16,
+          "eva": "chckhy",
+          "role": "TEMPORAL",
+          "detail": "0.43",
+          "sym": "T"
+        },
+        {
+          "pos": 17,
+          "eva": "qokal",
+          "role": "DOSE",
+          "detail": "0.30",
+          "sym": "Q"
+        },
+        {
+          "pos": 18,
+          "eva": "oty",
+          "role": "DOSE",
+          "detail": "0.29",
+          "sym": "Q"
+        },
+        {
+          "pos": 19,
+          "eva": "or",
+          "role": "INGR_XREF",
+          "detail": "INGR:or→f24r",
+          "sym": "★"
+        },
+        {
+          "pos": 20,
+          "eva": "aiin",
+          "role": "INGR_XREF",
+          "detail": "INGR:aiin→f10v",
+          "sym": "★"
+        }
+      ],
+      "role_counts": {
+        "INGR_XREF": 6,
+        "?": 2,
+        "DOSE_MORPH": 1,
+        "TEMPORAL": 4,
+        "GRAM": 2,
+        "INGR": 1,
+        "DOSE": 5
+      }
+    },
+    {
+      "id": "f103r_B06",
+      "n_words": 28,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "polchedy",
+          "role": "VERB",
+          "detail": "0.26",
+          "sym": "V"
+        },
+        {
+          "pos": 1,
+          "eva": "qokeol",
+          "role": "INGR",
+          "detail": "0.34",
+          "sym": "I"
+        },
+        {
+          "pos": 2,
+          "eva": "okain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 3,
+          "eva": "checthy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 4,
+          "eva": "oteeylshedy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 5,
+          "eva": "okain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 6,
+          "eva": "qokain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 7,
+          "eva": "qokalshedy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 8,
+          "eva": "oteys",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 9,
+          "eva": "okaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 10,
+          "eva": "chey",
+          "role": "DOSE",
+          "detail": "0.52",
+          "sym": "Q"
+        },
+        {
+          "pos": 11,
+          "eva": "qoy",
+          "role": "GRAM",
+          "detail": "0.27",
+          "sym": "G"
+        },
+        {
+          "pos": 12,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 13,
+          "eva": "qokaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 14,
+          "eva": "chedy",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        },
+        {
+          "pos": 15,
+          "eva": "qokain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 16,
+          "eva": "oteol",
+          "role": "PREP_FORM",
+          "detail": "0.24",
+          "sym": "P"
+        },
+        {
+          "pos": 17,
+          "eva": "lkar",
+          "role": "VERB",
+          "detail": "0.41",
+          "sym": "V"
+        },
+        {
+          "pos": 18,
+          "eva": "okaral",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 19,
+          "eva": "lkldy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 20,
+          "eva": "lr",
+          "role": "VERB",
+          "detail": "0.29",
+          "sym": "V"
+        },
+        {
+          "pos": 21,
+          "eva": "ychain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 22,
+          "eva": "shckhy",
+          "role": "VERB",
+          "detail": "0.36",
+          "sym": "V"
+        },
+        {
+          "pos": 23,
+          "eva": "qokaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 24,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 25,
+          "eva": "qokaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 26,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 27,
+          "eva": "olor",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        }
+      ],
+      "role_counts": {
+        "VERB": 4,
+        "INGR": 1,
+        "DOSE_MORPH": 9,
+        "DOSE": 2,
+        "?": 4,
+        "GRAM": 3,
+        "TEMPORAL": 2,
+        "PREP_FORM": 1,
+        "INGR_XREF": 2
+      }
+    },
+    {
+      "id": "f103r_B07",
+      "n_words": 29,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pcheam",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 1,
+          "eva": "sokedy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 2,
+          "eva": "dalkar",
+          "role": "DOSE",
+          "detail": "0.30",
+          "sym": "Q"
+        },
+        {
+          "pos": 3,
+          "eva": "otal",
+          "role": "VERB",
+          "detail": "0.47",
+          "sym": "V"
+        },
+        {
+          "pos": 4,
+          "eva": "qokal",
+          "role": "DOSE",
+          "detail": "0.30",
+          "sym": "Q"
+        },
+        {
+          "pos": 5,
+          "eva": "chepy",
+          "role": "PREP_FORM",
+          "detail": "0.22",
+          "sym": "P"
+        },
+        {
+          "pos": 6,
+          "eva": "okedy",
+          "role": "VERB",
+          "detail": "0.32",
+          "sym": "V"
+        },
+        {
+          "pos": 7,
+          "eva": "qoky",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 8,
+          "eva": "pchedy",
+          "role": "INGR_XREF",
+          "detail": "INGR:chedy→f94r",
+          "sym": "★"
+        },
+        {
+          "pos": 9,
+          "eva": "okaly",
+          "role": "PREP_FORM",
+          "detail": "0.34",
+          "sym": "P"
+        },
+        {
+          "pos": 10,
+          "eva": "qokeedy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 11,
+          "eva": "lor",
+          "role": "INGR_XREF",
+          "detail": "INGR:or→f24r",
+          "sym": "★"
+        },
+        {
+          "pos": 12,
+          "eva": "dalshy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 13,
+          "eva": "okain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 14,
+          "eva": "shckhody",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 15,
+          "eva": "shdal",
+          "role": "DOSE",
+          "detail": "0.41",
+          "sym": "Q"
+        },
+        {
+          "pos": 16,
+          "eva": "qokeedy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 17,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 18,
+          "eva": "qotar",
+          "role": "TEMPORAL",
+          "detail": "0.42",
+          "sym": "T"
+        },
+        {
+          "pos": 19,
+          "eva": "chcthy",
+          "role": "VERB",
+          "detail": "0.36",
+          "sym": "V"
+        },
+        {
+          "pos": 20,
+          "eva": "chep",
+          "role": "DOSE",
+          "detail": "0.39",
+          "sym": "Q"
+        },
+        {
+          "pos": 21,
+          "eva": "ar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 22,
+          "eva": "otar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 23,
+          "eva": "opchy",
+          "role": "INGR_XREF",
+          "detail": "INGR:chy→f50v",
+          "sym": "★"
+        },
+        {
+          "pos": 24,
+          "eva": "daiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 25,
+          "eva": "sheckhy",
+          "role": "DOSE",
+          "detail": "0.35",
+          "sym": "Q"
+        },
+        {
+          "pos": 26,
+          "eva": "lchedy",
+          "role": "INGR_XREF",
+          "detail": "INGR:chedy→f94r",
+          "sym": "★"
+        },
+        {
+          "pos": 27,
+          "eva": "chckhy",
+          "role": "TEMPORAL",
+          "detail": "0.43",
+          "sym": "T"
+        },
+        {
+          "pos": 28,
+          "eva": "shol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        }
+      ],
+      "role_counts": {
+        "?": 4,
+        "DOSE": 8,
+        "VERB": 3,
+        "PREP_FORM": 2,
+        "INGR_XREF": 7,
+        "DOSE_MORPH": 2,
+        "TEMPORAL": 3
+      }
+    },
+    {
+      "id": "f103r_B08",
+      "n_words": 31,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "tchoky",
+          "role": "DOSE",
+          "detail": "0.50",
+          "sym": "Q"
+        },
+        {
+          "pos": 1,
+          "eva": "okeal",
+          "role": "INGR",
+          "detail": "0.44",
+          "sym": "I"
+        },
+        {
+          "pos": 2,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 3,
+          "eva": "qokal",
+          "role": "DOSE",
+          "detail": "0.30",
+          "sym": "Q"
+        },
+        {
+          "pos": 4,
+          "eva": "oty",
+          "role": "DOSE",
+          "detail": "0.29",
+          "sym": "Q"
+        },
+        {
+          "pos": 5,
+          "eva": "opchedy",
+          "role": "INGR_XREF",
+          "detail": "INGR:chedy→f94r",
+          "sym": "★"
+        },
+        {
+          "pos": 6,
+          "eva": "qotain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 7,
+          "eva": "shcthy",
+          "role": "DOSE",
+          "detail": "0.18",
+          "sym": "Q"
+        },
+        {
+          "pos": 8,
+          "eva": "otey",
+          "role": "DOSE",
+          "detail": "0.37",
+          "sym": "Q"
+        },
+        {
+          "pos": 9,
+          "eva": "dain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 10,
+          "eva": "oteey",
+          "role": "GRAM",
+          "detail": "0.24",
+          "sym": "G"
+        },
+        {
+          "pos": 11,
+          "eva": "oky",
+          "role": "INGR",
+          "detail": "0.36",
+          "sym": "I"
+        },
+        {
+          "pos": 12,
+          "eva": "dar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 13,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 14,
+          "eva": "qokain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 15,
+          "eva": "chckhey",
+          "role": "VERB",
+          "detail": "0.36",
+          "sym": "V"
+        },
+        {
+          "pos": 16,
+          "eva": "chey",
+          "role": "DOSE",
+          "detail": "0.52",
+          "sym": "Q"
+        },
+        {
+          "pos": 17,
+          "eva": "kain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 18,
+          "eva": "chedal",
+          "role": "TEMPORAL",
+          "detail": "0.29",
+          "sym": "T"
+        },
+        {
+          "pos": 19,
+          "eva": "okeeey",
+          "role": "DOSE",
+          "detail": "0.28",
+          "sym": "Q"
+        },
+        {
+          "pos": 20,
+          "eva": "qoodain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 21,
+          "eva": "okain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 22,
+          "eva": "oteey",
+          "role": "GRAM",
+          "detail": "0.24",
+          "sym": "G"
+        },
+        {
+          "pos": 23,
+          "eva": "ol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 24,
+          "eva": "oteedy",
+          "role": "TEMPORAL",
+          "detail": "0.21",
+          "sym": "T"
+        },
+        {
+          "pos": 25,
+          "eva": "okeey",
+          "role": "INGR",
+          "detail": "0.40",
+          "sym": "I"
+        },
+        {
+          "pos": 26,
+          "eva": "qotchy",
+          "role": "DOSE",
+          "detail": "0.42",
+          "sym": "Q"
+        },
+        {
+          "pos": 27,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 28,
+          "eva": "olcheedar",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 29,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 30,
+          "eva": "lotor",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        }
+      ],
+      "role_counts": {
+        "DOSE": 8,
+        "INGR": 3,
+        "TEMPORAL": 3,
+        "INGR_XREF": 3,
+        "DOSE_MORPH": 6,
+        "GRAM": 5,
+        "VERB": 1,
+        "?": 2
+      }
+    },
+    {
+      "id": "f103r_B09",
+      "n_words": 28,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "qokechy",
+          "role": "DOSE",
+          "detail": "0.38",
+          "sym": "Q"
+        },
+        {
+          "pos": 1,
+          "eva": "okeey",
+          "role": "INGR",
+          "detail": "0.40",
+          "sym": "I"
+        },
+        {
+          "pos": 2,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 3,
+          "eva": "lkeeody",
+          "role": "TEMPORAL",
+          "detail": "0.15",
+          "sym": "T"
+        },
+        {
+          "pos": 4,
+          "eva": "sheey",
+          "role": "GRAM",
+          "detail": "0.45",
+          "sym": "G"
+        },
+        {
+          "pos": 5,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 6,
+          "eva": "lkeol",
+          "role": "TEMPORAL",
+          "detail": "0.21",
+          "sym": "T"
+        },
+        {
+          "pos": 7,
+          "eva": "tchey",
+          "role": "INGR_XREF",
+          "detail": "INGR:chey→f40r",
+          "sym": "★"
+        },
+        {
+          "pos": 8,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 9,
+          "eva": "okeey",
+          "role": "INGR",
+          "detail": "0.40",
+          "sym": "I"
+        },
+        {
+          "pos": 10,
+          "eva": "qokaly",
+          "role": "TEMPORAL",
+          "detail": "0.25",
+          "sym": "T"
+        },
+        {
+          "pos": 11,
+          "eva": "deshedy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 12,
+          "eva": "qokeeey",
+          "role": "DOSE",
+          "detail": "0.31",
+          "sym": "Q"
+        },
+        {
+          "pos": 13,
+          "eva": "dalkain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 14,
+          "eva": "okaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 15,
+          "eva": "chedy",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        },
+        {
+          "pos": 16,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 17,
+          "eva": "otain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 18,
+          "eva": "ain",
+          "role": "INGR",
+          "detail": "0.41",
+          "sym": "I"
+        },
+        {
+          "pos": 19,
+          "eva": "ol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 20,
+          "eva": "cheey",
+          "role": "TEMPORAL",
+          "detail": "0.54",
+          "sym": "T"
+        },
+        {
+          "pos": 21,
+          "eva": "lkeedy",
+          "role": "VERB",
+          "detail": "0.33",
+          "sym": "V"
+        },
+        {
+          "pos": 22,
+          "eva": "qokeeechy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 23,
+          "eva": "shokeey",
+          "role": "VERB",
+          "detail": "0.43",
+          "sym": "V"
+        },
+        {
+          "pos": 24,
+          "eva": "qochey",
+          "role": "INGR_XREF",
+          "detail": "INGR:chey→f40r",
+          "sym": "★"
+        },
+        {
+          "pos": 25,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 26,
+          "eva": "chal",
+          "role": "GRAM",
+          "detail": "0.29",
+          "sym": "G"
+        },
+        {
+          "pos": 27,
+          "eva": "chedy",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        }
+      ],
+      "role_counts": {
+        "DOSE": 7,
+        "INGR": 3,
+        "TEMPORAL": 6,
+        "GRAM": 2,
+        "INGR_XREF": 3,
+        "?": 2,
+        "DOSE_MORPH": 3,
+        "VERB": 2
+      }
+    },
+    {
+      "id": "f103r_B10",
+      "n_words": 28,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pcholkchdy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 1,
+          "eva": "sheckhy",
+          "role": "DOSE",
+          "detail": "0.35",
+          "sym": "Q"
+        },
+        {
+          "pos": 2,
+          "eva": "qokey",
+          "role": "TEMPORAL",
+          "detail": "0.35",
+          "sym": "T"
+        },
+        {
+          "pos": 3,
+          "eva": "okaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 4,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 5,
+          "eva": "chpchy",
+          "role": "TEMPORAL",
+          "detail": "0.16",
+          "sym": "T"
+        },
+        {
+          "pos": 6,
+          "eva": "opchedy",
+          "role": "INGR_XREF",
+          "detail": "INGR:chedy→f94r",
+          "sym": "★"
+        },
+        {
+          "pos": 7,
+          "eva": "oteeykshy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 8,
+          "eva": "chdaly",
+          "role": "GRAM",
+          "detail": "0.18",
+          "sym": "G"
+        },
+        {
+          "pos": 9,
+          "eva": "soiin",
+          "role": "GRAM",
+          "detail": "0.28",
+          "sym": "G"
+        },
+        {
+          "pos": 10,
+          "eva": "chol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 11,
+          "eva": "kaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 12,
+          "eva": "chal",
+          "role": "GRAM",
+          "detail": "0.29",
+          "sym": "G"
+        },
+        {
+          "pos": 13,
+          "eva": "okaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 14,
+          "eva": "shckhy",
+          "role": "VERB",
+          "detail": "0.36",
+          "sym": "V"
+        },
+        {
+          "pos": 15,
+          "eva": "qokal",
+          "role": "DOSE",
+          "detail": "0.30",
+          "sym": "Q"
+        },
+        {
+          "pos": 16,
+          "eva": "shdar",
+          "role": "GRAM",
+          "detail": "0.47",
+          "sym": "G"
+        },
+        {
+          "pos": 17,
+          "eva": "shchdy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 18,
+          "eva": "okaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 19,
+          "eva": "chty",
+          "role": "GRAM",
+          "detail": "0.38",
+          "sym": "G"
+        },
+        {
+          "pos": 20,
+          "eva": "okeey",
+          "role": "INGR",
+          "detail": "0.40",
+          "sym": "I"
+        },
+        {
+          "pos": 21,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 22,
+          "eva": "qokedy",
+          "role": "DOSE",
+          "detail": "0.49",
+          "sym": "Q"
+        },
+        {
+          "pos": 23,
+          "eva": "qokal",
+          "role": "DOSE",
+          "detail": "0.30",
+          "sym": "Q"
+        },
+        {
+          "pos": 24,
+          "eva": "shety",
+          "role": "GRAM",
+          "detail": "0.36",
+          "sym": "G"
+        },
+        {
+          "pos": 25,
+          "eva": "otedy",
+          "role": "TEMPORAL",
+          "detail": "0.28",
+          "sym": "T"
+        },
+        {
+          "pos": 26,
+          "eva": "shcthy",
+          "role": "DOSE",
+          "detail": "0.18",
+          "sym": "Q"
+        },
+        {
+          "pos": 27,
+          "eva": "oraiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        }
+      ],
+      "role_counts": {
+        "?": 3,
+        "DOSE": 5,
+        "TEMPORAL": 5,
+        "DOSE_MORPH": 5,
+        "INGR_XREF": 2,
+        "GRAM": 6,
+        "VERB": 1,
+        "INGR": 1
+      }
+    },
+    {
+      "id": "f103r_B11",
+      "n_words": 14,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 1,
+          "eva": "chechy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 2,
+          "eva": "qokey",
+          "role": "TEMPORAL",
+          "detail": "0.35",
+          "sym": "T"
+        },
+        {
+          "pos": 3,
+          "eva": "shckhy",
+          "role": "VERB",
+          "detail": "0.36",
+          "sym": "V"
+        },
+        {
+          "pos": 4,
+          "eva": "choldy",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 5,
+          "eva": "qokal",
+          "role": "DOSE",
+          "detail": "0.30",
+          "sym": "Q"
+        },
+        {
+          "pos": 6,
+          "eva": "y",
+          "role": "LOGO",
+          "detail": "in",
+          "sym": "L"
+        },
+        {
+          "pos": 7,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 8,
+          "eva": "yteedy",
+          "role": "INGR",
+          "detail": "0.29",
+          "sym": "I"
+        },
+        {
+          "pos": 9,
+          "eva": "qotail",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 10,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 11,
+          "eva": "sheod",
+          "role": "VERB",
+          "detail": "0.30",
+          "sym": "V"
+        },
+        {
+          "pos": 12,
+          "eva": "oshey",
+          "role": "INGR_XREF",
+          "detail": "INGR:shey→f41r",
+          "sym": "★"
+        },
+        {
+          "pos": 13,
+          "eva": "cheedalaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        }
+      ],
+      "role_counts": {
+        "DOSE": 2,
+        "?": 2,
+        "TEMPORAL": 3,
+        "VERB": 2,
+        "INGR_XREF": 2,
+        "LOGO": 1,
+        "INGR": 1,
+        "DOSE_MORPH": 1
+      }
+    },
+    {
+      "id": "f103r_B12",
+      "n_words": 18,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "qokecar",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 1,
+          "eva": "chain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 2,
+          "eva": "olain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 3,
+          "eva": "chey",
+          "role": "DOSE",
+          "detail": "0.52",
+          "sym": "Q"
+        },
+        {
+          "pos": 4,
+          "eva": "kain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 5,
+          "eva": "sheol",
+          "role": "GRAM",
+          "detail": "0.16",
+          "sym": "G"
+        },
+        {
+          "pos": 6,
+          "eva": "shedain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 7,
+          "eva": "qokeedy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 8,
+          "eva": "ykeedy",
+          "role": "TEMPORAL",
+          "detail": "0.44",
+          "sym": "T"
+        },
+        {
+          "pos": 9,
+          "eva": "lcheg",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 10,
+          "eva": "okool",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 11,
+          "eva": "chedy",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        },
+        {
+          "pos": 12,
+          "eva": "okeedy",
+          "role": "TEMPORAL",
+          "detail": "0.42",
+          "sym": "T"
+        },
+        {
+          "pos": 13,
+          "eva": "qokeedy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 14,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 15,
+          "eva": "shdy",
+          "role": "DOSE",
+          "detail": "0.41",
+          "sym": "Q"
+        },
+        {
+          "pos": 16,
+          "eva": "otey",
+          "role": "DOSE",
+          "detail": "0.37",
+          "sym": "Q"
+        },
+        {
+          "pos": 17,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        }
+      ],
+      "role_counts": {
+        "?": 3,
+        "DOSE_MORPH": 4,
+        "DOSE": 7,
+        "GRAM": 1,
+        "TEMPORAL": 3
+      }
+    },
+    {
+      "id": "f103r_B13",
+      "n_words": 24,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pchedy",
+          "role": "INGR_XREF",
+          "detail": "INGR:chedy→f94r",
+          "sym": "★"
+        },
+        {
+          "pos": 1,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 2,
+          "eva": "qokeodair",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 3,
+          "eva": "qokshy",
+          "role": "TEMPORAL",
+          "detail": "0.28",
+          "sym": "T"
+        },
+        {
+          "pos": 4,
+          "eva": "qokeedy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 5,
+          "eva": "qokchdy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 6,
+          "eva": "chsky",
+          "role": "PREP_FORM",
+          "detail": "0.37",
+          "sym": "P"
+        },
+        {
+          "pos": 7,
+          "eva": "eeey",
+          "role": "DOSE",
+          "detail": "0.26",
+          "sym": "Q"
+        },
+        {
+          "pos": 8,
+          "eva": "shalky",
+          "role": "DOSE",
+          "detail": "0.50",
+          "sym": "Q"
+        },
+        {
+          "pos": 9,
+          "eva": "otechedy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 10,
+          "eva": "qokain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 11,
+          "eva": "shcthy",
+          "role": "DOSE",
+          "detail": "0.18",
+          "sym": "Q"
+        },
+        {
+          "pos": 12,
+          "eva": "chckhy",
+          "role": "TEMPORAL",
+          "detail": "0.43",
+          "sym": "T"
+        },
+        {
+          "pos": 13,
+          "eva": "lokeedy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 14,
+          "eva": "checkhy",
+          "role": "VERB",
+          "detail": "0.36",
+          "sym": "V"
+        },
+        {
+          "pos": 15,
+          "eva": "lokain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 16,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 17,
+          "eva": "okeey",
+          "role": "INGR",
+          "detail": "0.40",
+          "sym": "I"
+        },
+        {
+          "pos": 18,
+          "eva": "ykeedy",
+          "role": "TEMPORAL",
+          "detail": "0.44",
+          "sym": "T"
+        },
+        {
+          "pos": 19,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 20,
+          "eva": "lsheey",
+          "role": "GRAM",
+          "detail": "0.28",
+          "sym": "G"
+        },
+        {
+          "pos": 21,
+          "eva": "qotal",
+          "role": "VERB",
+          "detail": "0.27",
+          "sym": "V"
+        },
+        {
+          "pos": 22,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 23,
+          "eva": "oteey",
+          "role": "GRAM",
+          "detail": "0.24",
+          "sym": "G"
+        }
+      ],
+      "role_counts": {
+        "INGR_XREF": 1,
+        "DOSE": 7,
+        "?": 2,
+        "TEMPORAL": 6,
+        "PREP_FORM": 1,
+        "DOSE_MORPH": 2,
+        "VERB": 2,
+        "INGR": 1,
+        "GRAM": 2
+      }
+    },
+    {
+      "id": "f103r_B14",
+      "n_words": 27,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 1,
+          "eva": "sheeol",
+          "role": "GRAM",
+          "detail": "0.21",
+          "sym": "G"
+        },
+        {
+          "pos": 2,
+          "eva": "shckhy",
+          "role": "VERB",
+          "detail": "0.36",
+          "sym": "V"
+        },
+        {
+          "pos": 3,
+          "eva": "sheol",
+          "role": "GRAM",
+          "detail": "0.16",
+          "sym": "G"
+        },
+        {
+          "pos": 4,
+          "eva": "shodyol",
+          "role": "INGR_XREF",
+          "detail": "INGR:shody→f17r",
+          "sym": "★"
+        },
+        {
+          "pos": 5,
+          "eva": "aiin",
+          "role": "INGR_XREF",
+          "detail": "INGR:aiin→f10v",
+          "sym": "★"
+        },
+        {
+          "pos": 6,
+          "eva": "otedy",
+          "role": "TEMPORAL",
+          "detail": "0.28",
+          "sym": "T"
+        },
+        {
+          "pos": 7,
+          "eva": "qoteey",
+          "role": "DOSE",
+          "detail": "0.38",
+          "sym": "Q"
+        },
+        {
+          "pos": 8,
+          "eva": "lotar",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 9,
+          "eva": "otam",
+          "role": "INGR",
+          "detail": "0.35",
+          "sym": "I"
+        },
+        {
+          "pos": 10,
+          "eva": "cheol",
+          "role": "DOSE",
+          "detail": "0.36",
+          "sym": "Q"
+        },
+        {
+          "pos": 11,
+          "eva": "sheeey",
+          "role": "TEMPORAL",
+          "detail": "0.22",
+          "sym": "T"
+        },
+        {
+          "pos": 12,
+          "eva": "qotey",
+          "role": "DOSE",
+          "detail": "0.20",
+          "sym": "Q"
+        },
+        {
+          "pos": 13,
+          "eva": "oteeal",
+          "role": "PREP_FORM",
+          "detail": "0.36",
+          "sym": "P"
+        },
+        {
+          "pos": 14,
+          "eva": "oteedy",
+          "role": "TEMPORAL",
+          "detail": "0.21",
+          "sym": "T"
+        },
+        {
+          "pos": 15,
+          "eva": "shet",
+          "role": "DOSE",
+          "detail": "0.37",
+          "sym": "Q"
+        },
+        {
+          "pos": 16,
+          "eva": "sho",
+          "role": "INGR_XREF",
+          "detail": "INGR:sho→f44v",
+          "sym": "★"
+        },
+        {
+          "pos": 17,
+          "eva": "keeo",
+          "role": "PREP_FORM",
+          "detail": "0.41",
+          "sym": "P"
+        },
+        {
+          "pos": 18,
+          "eva": "s",
+          "role": "LOGO",
+          "detail": "est",
+          "sym": "L"
+        },
+        {
+          "pos": 19,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 20,
+          "eva": "qokeedy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 21,
+          "eva": "qokal",
+          "role": "DOSE",
+          "detail": "0.30",
+          "sym": "Q"
+        },
+        {
+          "pos": 22,
+          "eva": "dal",
+          "role": "DOSE",
+          "detail": "0.51",
+          "sym": "Q"
+        },
+        {
+          "pos": 23,
+          "eva": "tshey",
+          "role": "INGR_XREF",
+          "detail": "INGR:shey→f41r",
+          "sym": "★"
+        },
+        {
+          "pos": 24,
+          "eva": "sheol",
+          "role": "GRAM",
+          "detail": "0.16",
+          "sym": "G"
+        },
+        {
+          "pos": 25,
+          "eva": "cheolshy",
+          "role": "INGR_XREF",
+          "detail": "INGR:cheol→f101r",
+          "sym": "★"
+        },
+        {
+          "pos": 26,
+          "eva": "chalal",
+          "role": "GRAM",
+          "detail": "0.36",
+          "sym": "G"
+        }
+      ],
+      "role_counts": {
+        "DOSE": 8,
+        "GRAM": 5,
+        "VERB": 1,
+        "INGR_XREF": 5,
+        "TEMPORAL": 3,
+        "?": 1,
+        "INGR": 1,
+        "PREP_FORM": 2,
+        "LOGO": 1
+      }
+    },
+    {
+      "id": "f103r_B15",
+      "n_words": 16,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "tar",
+          "role": "INGR_XREF",
+          "detail": "INGR:ar→f33v",
+          "sym": "★"
+        },
+        {
+          "pos": 1,
+          "eva": "cheal",
+          "role": "GRAM",
+          "detail": "0.34",
+          "sym": "G"
+        },
+        {
+          "pos": 2,
+          "eva": "ol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 3,
+          "eva": "sheey",
+          "role": "GRAM",
+          "detail": "0.45",
+          "sym": "G"
+        },
+        {
+          "pos": 4,
+          "eva": "qotal",
+          "role": "VERB",
+          "detail": "0.27",
+          "sym": "V"
+        },
+        {
+          "pos": 5,
+          "eva": "sheal",
+          "role": "GRAM",
+          "detail": "0.26",
+          "sym": "G"
+        },
+        {
+          "pos": 6,
+          "eva": "qokal",
+          "role": "DOSE",
+          "detail": "0.30",
+          "sym": "Q"
+        },
+        {
+          "pos": 7,
+          "eva": "sheedy",
+          "role": "DOSE",
+          "detail": "0.36",
+          "sym": "Q"
+        },
+        {
+          "pos": 8,
+          "eva": "okeshedy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 9,
+          "eva": "shokey",
+          "role": "GRAM",
+          "detail": "0.33",
+          "sym": "G"
+        },
+        {
+          "pos": 10,
+          "eva": "qokaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 11,
+          "eva": "odeeey",
+          "role": "VERB",
+          "detail": "0.36",
+          "sym": "V"
+        },
+        {
+          "pos": 12,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 13,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 14,
+          "eva": "sheal",
+          "role": "GRAM",
+          "detail": "0.26",
+          "sym": "G"
+        },
+        {
+          "pos": 15,
+          "eva": "otshedy",
+          "role": "INGR_XREF",
+          "detail": "INGR:shedy→f94v",
+          "sym": "★"
+        }
+      ],
+      "role_counts": {
+        "INGR_XREF": 3,
+        "GRAM": 6,
+        "VERB": 2,
+        "DOSE": 3,
+        "?": 1,
+        "DOSE_MORPH": 1
+      }
+    },
+    {
+      "id": "f103r_B16",
+      "n_words": 28,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "qokeedy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 1,
+          "eva": "qokeedy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 2,
+          "eva": "shol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 3,
+          "eva": "shedar",
+          "role": "TEMPORAL",
+          "detail": "0.23",
+          "sym": "T"
+        },
+        {
+          "pos": 4,
+          "eva": "chedy",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        },
+        {
+          "pos": 5,
+          "eva": "qoteedy",
+          "role": "GRAM",
+          "detail": "0.25",
+          "sym": "G"
+        },
+        {
+          "pos": 6,
+          "eva": "oteedy",
+          "role": "TEMPORAL",
+          "detail": "0.21",
+          "sym": "T"
+        },
+        {
+          "pos": 7,
+          "eva": "olkeol",
+          "role": "PREP_FORM",
+          "detail": "0.20",
+          "sym": "P"
+        },
+        {
+          "pos": 8,
+          "eva": "ltar",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 9,
+          "eva": "y",
+          "role": "LOGO",
+          "detail": "in",
+          "sym": "L"
+        },
+        {
+          "pos": 10,
+          "eva": "chol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 11,
+          "eva": "keey",
+          "role": "DOSE",
+          "detail": "0.43",
+          "sym": "Q"
+        },
+        {
+          "pos": 12,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 13,
+          "eva": "cheol",
+          "role": "DOSE",
+          "detail": "0.36",
+          "sym": "Q"
+        },
+        {
+          "pos": 14,
+          "eva": "chorol",
+          "role": "INGR_XREF",
+          "detail": "INGR:chor→f19r",
+          "sym": "★"
+        },
+        {
+          "pos": 15,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 16,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 17,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 18,
+          "eva": "ol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 19,
+          "eva": "loiin",
+          "role": "VERB",
+          "detail": "0.24",
+          "sym": "V"
+        },
+        {
+          "pos": 20,
+          "eva": "chedan",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 21,
+          "eva": "ssheey",
+          "role": "GRAM",
+          "detail": "0.48",
+          "sym": "G"
+        },
+        {
+          "pos": 22,
+          "eva": "okeeo",
+          "role": "GRAM",
+          "detail": "0.40",
+          "sym": "G"
+        },
+        {
+          "pos": 23,
+          "eva": "l",
+          "role": "LOGO",
+          "detail": "se",
+          "sym": "L"
+        },
+        {
+          "pos": 24,
+          "eva": "lchey",
+          "role": "INGR_XREF",
+          "detail": "INGR:chey→f40r",
+          "sym": "★"
+        },
+        {
+          "pos": 25,
+          "eva": "qokaly",
+          "role": "TEMPORAL",
+          "detail": "0.25",
+          "sym": "T"
+        },
+        {
+          "pos": 26,
+          "eva": "lcheedy",
+          "role": "DOSE",
+          "detail": "0.35",
+          "sym": "Q"
+        },
+        {
+          "pos": 27,
+          "eva": "oloraiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        }
+      ],
+      "role_counts": {
+        "DOSE": 8,
+        "INGR_XREF": 5,
+        "TEMPORAL": 5,
+        "GRAM": 3,
+        "PREP_FORM": 1,
+        "?": 2,
+        "LOGO": 2,
+        "VERB": 1,
+        "DOSE_MORPH": 1
+      }
+    },
+    {
+      "id": "f103r_B17",
+      "n_words": 37,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "polarar",
+          "role": "DOSE",
+          "detail": "0.27",
+          "sym": "Q"
+        },
+        {
+          "pos": 1,
+          "eva": "lshedy",
+          "role": "INGR_XREF",
+          "detail": "INGR:shedy→f94v",
+          "sym": "★"
+        },
+        {
+          "pos": 2,
+          "eva": "qotolaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 3,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 4,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 5,
+          "eva": "shkchy",
+          "role": "GRAM",
+          "detail": "0.27",
+          "sym": "G"
+        },
+        {
+          "pos": 6,
+          "eva": "opchealol",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 7,
+          "eva": "kchy",
+          "role": "INGR_XREF",
+          "detail": "INGR:chy→f50v",
+          "sym": "★"
+        },
+        {
+          "pos": 8,
+          "eva": "sam",
+          "role": "GRAM",
+          "detail": "0.14",
+          "sym": "G"
+        },
+        {
+          "pos": 9,
+          "eva": "okeey",
+          "role": "INGR",
+          "detail": "0.40",
+          "sym": "I"
+        },
+        {
+          "pos": 10,
+          "eva": "lr",
+          "role": "VERB",
+          "detail": "0.29",
+          "sym": "V"
+        },
+        {
+          "pos": 11,
+          "eva": "ain",
+          "role": "INGR",
+          "detail": "0.41",
+          "sym": "I"
+        },
+        {
+          "pos": 12,
+          "eva": "l",
+          "role": "LOGO",
+          "detail": "se",
+          "sym": "L"
+        },
+        {
+          "pos": 13,
+          "eva": "ol",
+          "role": "INGR_XREF",
+          "detail": "INGR:ol→f22r",
+          "sym": "★"
+        },
+        {
+          "pos": 14,
+          "eva": "sheed",
+          "role": "DOSE",
+          "detail": "0.43",
+          "sym": "Q"
+        },
+        {
+          "pos": 15,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 16,
+          "eva": "sheol",
+          "role": "GRAM",
+          "detail": "0.16",
+          "sym": "G"
+        },
+        {
+          "pos": 17,
+          "eva": "qokeedy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 18,
+          "eva": "shedy",
+          "role": "TEMPORAL",
+          "detail": "0.39",
+          "sym": "T"
+        },
+        {
+          "pos": 19,
+          "eva": "qoky",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 20,
+          "eva": "leeesain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 21,
+          "eva": "am",
+          "role": "TEMPORAL",
+          "detail": "0.46",
+          "sym": "T"
+        },
+        {
+          "pos": 22,
+          "eva": "ssheey",
+          "role": "GRAM",
+          "detail": "0.48",
+          "sym": "G"
+        },
+        {
+          "pos": 23,
+          "eva": "l",
+          "role": "LOGO",
+          "detail": "se",
+          "sym": "L"
+        },
+        {
+          "pos": 24,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 25,
+          "eva": "qol",
+          "role": "GRAM",
+          "detail": "0.33",
+          "sym": "G"
+        },
+        {
+          "pos": 26,
+          "eva": "cheey",
+          "role": "TEMPORAL",
+          "detail": "0.54",
+          "sym": "T"
+        },
+        {
+          "pos": 27,
+          "eva": "chey",
+          "role": "DOSE",
+          "detail": "0.52",
+          "sym": "Q"
+        },
+        {
+          "pos": 28,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 29,
+          "eva": "okeey",
+          "role": "INGR",
+          "detail": "0.40",
+          "sym": "I"
+        },
+        {
+          "pos": 30,
+          "eva": "qokain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 31,
+          "eva": "cheey",
+          "role": "TEMPORAL",
+          "detail": "0.54",
+          "sym": "T"
+        },
+        {
+          "pos": 32,
+          "eva": "qotain",
+          "role": "DOSE_MORPH",
+          "detail": "i1",
+          "sym": "D"
+        },
+        {
+          "pos": 33,
+          "eva": "saiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 34,
+          "eva": "cheteey",
+          "role": "TEMPORAL",
+          "detail": "0.43",
+          "sym": "T"
+        },
+        {
+          "pos": 35,
+          "eva": "shey",
+          "role": "GRAM",
+          "detail": "0.49",
+          "sym": "G"
+        },
+        {
+          "pos": 36,
+          "eva": "cheosaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        }
+      ],
+      "role_counts": {
+        "DOSE": 9,
+        "INGR_XREF": 3,
+        "DOSE_MORPH": 6,
+        "GRAM": 7,
+        "?": 1,
+        "INGR": 3,
+        "VERB": 1,
+        "LOGO": 2,
+        "TEMPORAL": 5
+      }
+    },
+    {
+      "id": "f103r_B18",
+      "n_words": 25,
+      "tagged": [
+        {
+          "pos": 0,
+          "eva": "pchedal",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 1,
+          "eva": "oteey",
+          "role": "GRAM",
+          "detail": "0.24",
+          "sym": "G"
+        },
+        {
+          "pos": 2,
+          "eva": "qol",
+          "role": "GRAM",
+          "detail": "0.33",
+          "sym": "G"
+        },
+        {
+          "pos": 3,
+          "eva": "keedy",
+          "role": "DOSE",
+          "detail": "0.43",
+          "sym": "Q"
+        },
+        {
+          "pos": 4,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 5,
+          "eva": "qoty",
+          "role": "TEMPORAL",
+          "detail": "0.30",
+          "sym": "T"
+        },
+        {
+          "pos": 6,
+          "eva": "chepchy",
+          "role": "DOSE",
+          "detail": "0.40",
+          "sym": "Q"
+        },
+        {
+          "pos": 7,
+          "eva": "qopchey",
+          "role": "GRAM",
+          "detail": "0.33",
+          "sym": "G"
+        },
+        {
+          "pos": 8,
+          "eva": "lkaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 9,
+          "eva": "otalsy",
+          "role": "DOSE",
+          "detail": "0.45",
+          "sym": "Q"
+        },
+        {
+          "pos": 10,
+          "eva": "sshey",
+          "role": "INGR_XREF",
+          "detail": "INGR:shey→f41r",
+          "sym": "★"
+        },
+        {
+          "pos": 11,
+          "eva": "qokedy",
+          "role": "DOSE",
+          "detail": "0.49",
+          "sym": "Q"
+        },
+        {
+          "pos": 12,
+          "eva": "qokaiin",
+          "role": "DOSE_MORPH",
+          "detail": "i2",
+          "sym": "D"
+        },
+        {
+          "pos": 13,
+          "eva": "shdy",
+          "role": "DOSE",
+          "detail": "0.41",
+          "sym": "Q"
+        },
+        {
+          "pos": 14,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 15,
+          "eva": "chedy",
+          "role": "TEMPORAL",
+          "detail": "0.49",
+          "sym": "T"
+        },
+        {
+          "pos": 16,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 17,
+          "eva": "qokeey",
+          "role": "DOSE",
+          "detail": "0.44",
+          "sym": "Q"
+        },
+        {
+          "pos": 18,
+          "eva": "lchedy",
+          "role": "INGR_XREF",
+          "detail": "INGR:chedy→f94r",
+          "sym": "★"
+        },
+        {
+          "pos": 19,
+          "eva": "loty",
+          "role": "DOSE",
+          "detail": "0.49",
+          "sym": "Q"
+        },
+        {
+          "pos": 20,
+          "eva": "dsheey",
+          "role": "DOSE",
+          "detail": "0.45",
+          "sym": "Q"
+        },
+        {
+          "pos": 21,
+          "eva": "qoteeey",
+          "role": "GRAM",
+          "detail": "0.42",
+          "sym": "G"
+        },
+        {
+          "pos": 22,
+          "eva": "darchedy",
+          "role": "?",
+          "detail": "",
+          "sym": "?"
+        },
+        {
+          "pos": 23,
+          "eva": "qokey",
+          "role": "TEMPORAL",
+          "detail": "0.35",
+          "sym": "T"
+        },
+        {
+          "pos": 24,
+          "eva": "qoty",
+          "role": "TEMPORAL",
+          "detail": "0.30",
+          "sym": "T"
+        }
+      ],
+      "role_counts": {
+        "DOSE": 12,
+        "GRAM": 4,
+        "TEMPORAL": 4,
+        "DOSE_MORPH": 2,
+        "INGR_XREF": 2,
+        "?": 1
+      }
+    }
+  ],
+  "f103r_ratios": {
+    "verb_logo": 44,
+    "ingr_total": 93,
+    "dose_total": 182,
+    "gram": 63,
+    "temporal": 86
+  },
+  "verb_candidates": [
+    {
+      "eva": "lor",
+      "freq": 38,
+      "verb_score": 0.504,
+      "confidence": 0.0909
+    },
+    {
+      "eva": "ota",
+      "freq": 3,
+      "verb_score": 0.4915,
+      "confidence": 0.0173
+    },
+    {
+      "eva": "pchdy",
+      "freq": 10,
+      "verb_score": 0.4895,
+      "confidence": 0.0932
+    },
+    {
+      "eva": "san",
+      "freq": 3,
+      "verb_score": 0.4791,
+      "confidence": 0.0609
+    },
+    {
+      "eva": "ar",
+      "freq": 393,
+      "verb_score": 0.4776,
+      "confidence": 0.0308
+    },
+    {
+      "eva": "otal",
+      "freq": 136,
+      "verb_score": 0.4742,
+      "confidence": 0.0376
+    },
+    {
+      "eva": "ocheey",
+      "freq": 3,
+      "verb_score": 0.4699,
+      "confidence": 0.0105
+    },
+    {
+      "eva": "ychain",
+      "freq": 3,
+      "verb_score": 0.4646,
+      "confidence": 0.0326
+    },
+    {
+      "eva": "lkeey",
+      "freq": 39,
+      "verb_score": 0.4523,
+      "confidence": 0.0443
+    },
+    {
+      "eva": "qokar",
+      "freq": 159,
+      "verb_score": 0.4515,
+      "confidence": 0.0966
+    },
+    {
+      "eva": "dar",
+      "freq": 320,
+      "verb_score": 0.4396,
+      "confidence": 0.0089
+    },
+    {
+      "eva": "shokeey",
+      "freq": 3,
+      "verb_score": 0.4314,
+      "confidence": 0.0438
+    },
+    {
+      "eva": "shedain",
+      "freq": 12,
+      "verb_score": 0.4181,
+      "confidence": 0.0273
+    },
+    {
+      "eva": "lkar",
+      "freq": 31,
+      "verb_score": 0.4063,
+      "confidence": 0.072
+    },
+    {
+      "eva": "chdar",
+      "freq": 21,
+      "verb_score": 0.4023,
+      "confidence": 0.1279
+    },
+    {
+      "eva": "sal",
+      "freq": 49,
+      "verb_score": 0.3922,
+      "confidence": 0.0126
+    },
+    {
+      "eva": "olain",
+      "freq": 12,
+      "verb_score": 0.3855,
+      "confidence": 0.0453
+    },
+    {
+      "eva": "kar",
+      "freq": 58,
+      "verb_score": 0.3816,
+      "confidence": 0.0773
+    },
+    {
+      "eva": "chckhey",
+      "freq": 30,
+      "verb_score": 0.3649,
+      "confidence": 0.0451
+    },
+    {
+      "eva": "shckhy",
+      "freq": 60,
+      "verb_score": 0.3635,
+      "confidence": 0.0726
+    },
+    {
+      "eva": "chcthy",
+      "freq": 81,
+      "verb_score": 0.36,
+      "confidence": 0.0004
+    },
+    {
+      "eva": "checkhy",
+      "freq": 48,
+      "verb_score": 0.36,
+      "confidence": 0.0219
+    },
+    {
+      "eva": "odeeey",
+      "freq": 2,
+      "verb_score": 0.3564,
+      "confidence": 0.0022
+    },
+    {
+      "eva": "sheeky",
+      "freq": 15,
+      "verb_score": 0.3547,
+      "confidence": 0.0228
+    },
+    {
+      "eva": "ot",
+      "freq": 15,
+      "verb_score": 0.3313,
+      "confidence": 0.0907
+    },
+    {
+      "eva": "lkeedy",
+      "freq": 37,
+      "verb_score": 0.3277,
+      "confidence": 0.0059
+    },
+    {
+      "eva": "otshedy",
+      "freq": 10,
+      "verb_score": 0.3244,
+      "confidence": 0.0218
+    },
+    {
+      "eva": "okedy",
+      "freq": 115,
+      "verb_score": 0.3235,
+      "confidence": 0.0621
+    },
+    {
+      "eva": "sheod",
+      "freq": 11,
+      "verb_score": 0.301,
+      "confidence": 0.0444
+    },
+    {
+      "eva": "lr",
+      "freq": 10,
+      "verb_score": 0.2884,
+      "confidence": 0.0086
+    }
+  ],
+  "all_f103r_classifications": {
+    "daiin": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.3547,
+        "GRAM": 0.5207,
+        "INGR": 0.463,
+        "DOSE": 0.4496,
+        "TEMPORAL": 0.3573,
+        "PREP_FORM": 0.3751
+      },
+      "confidence": 0.0577
+    },
+    "ol": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.3924,
+        "GRAM": 0.4341,
+        "INGR": 0.5748,
+        "DOSE": 0.4572,
+        "TEMPORAL": 0.4449,
+        "PREP_FORM": 0.3914
+      },
+      "confidence": 0.1176
+    },
+    "chedy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.4241,
+        "GRAM": 0.324,
+        "INGR": 0.3048,
+        "DOSE": 0.4812,
+        "TEMPORAL": 0.494,
+        "PREP_FORM": 0.2373
+      },
+      "confidence": 0.0128
+    },
+    "aiin": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.4942,
+        "GRAM": 0.4997,
+        "INGR": 0.4598,
+        "DOSE": 0.4511,
+        "TEMPORAL": 0.5849,
+        "PREP_FORM": 0.4074
+      },
+      "confidence": 0.0852
+    },
+    "shedy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.3289,
+        "GRAM": 0.3087,
+        "INGR": 0.1931,
+        "DOSE": 0.3017,
+        "TEMPORAL": 0.3867,
+        "PREP_FORM": 0.1699
+      },
+      "confidence": 0.0577
+    },
+    "chol": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.3414,
+        "GRAM": 0.4985,
+        "INGR": 0.4761,
+        "DOSE": 0.3551,
+        "TEMPORAL": 0.3122,
+        "PREP_FORM": 0.3849
+      },
+      "confidence": 0.0225
+    },
+    "ar": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4776,
+        "GRAM": 0.4468,
+        "INGR": 0.3829,
+        "DOSE": 0.2911,
+        "TEMPORAL": 0.4388,
+        "PREP_FORM": 0.2613
+      },
+      "confidence": 0.0308
+    },
+    "or": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.4535,
+        "GRAM": 0.4102,
+        "INGR": 0.4284,
+        "DOSE": 0.3869,
+        "TEMPORAL": 0.4966,
+        "PREP_FORM": 0.3295
+      },
+      "confidence": 0.0431
+    },
+    "chey": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.4673,
+        "GRAM": 0.4825,
+        "INGR": 0.4841,
+        "DOSE": 0.5206,
+        "TEMPORAL": 0.3758,
+        "PREP_FORM": 0.4384
+      },
+      "confidence": 0.0364
+    },
+    "s": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.52,
+        "GRAM": 0.7091,
+        "INGR": 0.5354,
+        "DOSE": 0.505,
+        "TEMPORAL": 0.502,
+        "PREP_FORM": 0.5693
+      },
+      "confidence": 0.1397
+    },
+    "dar": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4396,
+        "GRAM": 0.3767,
+        "INGR": 0.4224,
+        "DOSE": 0.4306,
+        "TEMPORAL": 0.3415,
+        "PREP_FORM": 0.2632
+      },
+      "confidence": 0.0089
+    },
+    "qokeedy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.251,
+        "GRAM": 0.2877,
+        "INGR": 0.2124,
+        "DOSE": 0.3995,
+        "TEMPORAL": 0.34,
+        "PREP_FORM": 0.1907
+      },
+      "confidence": 0.0595
+    },
+    "qokeey": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3245,
+        "GRAM": 0.3374,
+        "INGR": 0.2797,
+        "DOSE": 0.4429,
+        "TEMPORAL": 0.3662,
+        "PREP_FORM": 0.1657
+      },
+      "confidence": 0.0767
+    },
+    "y": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.6211,
+        "GRAM": 0.6381,
+        "INGR": 0.5199,
+        "DOSE": 0.4554,
+        "TEMPORAL": 0.5609,
+        "PREP_FORM": 0.4069
+      },
+      "confidence": 0.017
+    },
+    "qokain": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2859,
+        "GRAM": 0.2655,
+        "INGR": 0.1952,
+        "DOSE": 0.408,
+        "TEMPORAL": 0.3802,
+        "PREP_FORM": 0.1835
+      },
+      "confidence": 0.0278
+    },
+    "shey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.281,
+        "GRAM": 0.4871,
+        "INGR": 0.325,
+        "DOSE": 0.2924,
+        "TEMPORAL": 0.3619,
+        "PREP_FORM": 0.309
+      },
+      "confidence": 0.1252
+    },
+    "dy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3303,
+        "GRAM": 0.4448,
+        "INGR": 0.4595,
+        "DOSE": 0.4712,
+        "TEMPORAL": 0.4521,
+        "PREP_FORM": 0.3299
+      },
+      "confidence": 0.0117
+    },
+    "qokedy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3574,
+        "GRAM": 0.327,
+        "INGR": 0.2702,
+        "DOSE": 0.493,
+        "TEMPORAL": 0.4802,
+        "PREP_FORM": 0.2094
+      },
+      "confidence": 0.0128
+    },
+    "qokaiin": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3953,
+        "GRAM": 0.3647,
+        "INGR": 0.3027,
+        "DOSE": 0.4295,
+        "TEMPORAL": 0.3265,
+        "PREP_FORM": 0.3249
+      },
+      "confidence": 0.0342
+    },
+    "dal": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3439,
+        "GRAM": 0.4176,
+        "INGR": 0.4172,
+        "DOSE": 0.5091,
+        "TEMPORAL": 0.3233,
+        "PREP_FORM": 0.3209
+      },
+      "confidence": 0.0916
+    },
+    "dain": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.3439,
+        "GRAM": 0.4689,
+        "INGR": 0.4883,
+        "DOSE": 0.4071,
+        "TEMPORAL": 0.2511,
+        "PREP_FORM": 0.4172
+      },
+      "confidence": 0.0194
+    },
+    "okaiin": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.346,
+        "GRAM": 0.3335,
+        "INGR": 0.5111,
+        "DOSE": 0.3492,
+        "TEMPORAL": 0.3234,
+        "PREP_FORM": 0.3805
+      },
+      "confidence": 0.1305
+    },
+    "qokal": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2913,
+        "GRAM": 0.2736,
+        "INGR": 0.2198,
+        "DOSE": 0.3031,
+        "TEMPORAL": 0.2375,
+        "PREP_FORM": 0.1849
+      },
+      "confidence": 0.0118
+    },
+    "l": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.5001,
+        "GRAM": 0.6138,
+        "INGR": 0.4878,
+        "DOSE": 0.636,
+        "TEMPORAL": 0.4841,
+        "PREP_FORM": 0.4215
+      },
+      "confidence": 0.0223
+    },
+    "cheey": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.3481,
+        "GRAM": 0.4536,
+        "INGR": 0.3276,
+        "DOSE": 0.3251,
+        "TEMPORAL": 0.5429,
+        "PREP_FORM": 0.284
+      },
+      "confidence": 0.0894
+    },
+    "okeey": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.2985,
+        "GRAM": 0.3281,
+        "INGR": 0.403,
+        "DOSE": 0.3908,
+        "TEMPORAL": 0.3698,
+        "PREP_FORM": 0.2221
+      },
+      "confidence": 0.0122
+    },
+    "shol": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.3302,
+        "GRAM": 0.4177,
+        "INGR": 0.3739,
+        "DOSE": 0.3963,
+        "TEMPORAL": 0.2887,
+        "PREP_FORM": 0.3344
+      },
+      "confidence": 0.0213
+    },
+    "cheol": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2176,
+        "GRAM": 0.2935,
+        "INGR": 0.3192,
+        "DOSE": 0.3635,
+        "TEMPORAL": 0.2272,
+        "PREP_FORM": 0.2044
+      },
+      "confidence": 0.0443
+    },
+    "qokar": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4515,
+        "GRAM": 0.2689,
+        "INGR": 0.2857,
+        "DOSE": 0.3257,
+        "TEMPORAL": 0.3549,
+        "PREP_FORM": 0.3324
+      },
+      "confidence": 0.0966
+    },
+    "otedy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2693,
+        "GRAM": 0.185,
+        "INGR": 0.1047,
+        "DOSE": 0.1822,
+        "TEMPORAL": 0.278,
+        "PREP_FORM": -0.0553
+      },
+      "confidence": 0.0087
+    },
+    "otaiin": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2902,
+        "GRAM": 0.2951,
+        "INGR": 0.3109,
+        "DOSE": 0.221,
+        "TEMPORAL": 0.4362,
+        "PREP_FORM": 0.2795
+      },
+      "confidence": 0.1253
+    },
+    "sheey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2097,
+        "GRAM": 0.4476,
+        "INGR": 0.3436,
+        "DOSE": 0.2772,
+        "TEMPORAL": 0.3682,
+        "PREP_FORM": 0.2777
+      },
+      "confidence": 0.0793
+    },
+    "okal": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.4797,
+        "GRAM": 0.367,
+        "INGR": 0.5189,
+        "DOSE": 0.3437,
+        "TEMPORAL": 0.3527,
+        "PREP_FORM": 0.5017
+      },
+      "confidence": 0.0172
+    },
+    "otar": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.3338,
+        "GRAM": 0.2108,
+        "INGR": 0.3308,
+        "DOSE": 0.36,
+        "TEMPORAL": 0.393,
+        "PREP_FORM": 0.1379
+      },
+      "confidence": 0.033
+    },
+    "qoky": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3013,
+        "GRAM": 0.3658,
+        "INGR": 0.2427,
+        "DOSE": 0.4399,
+        "TEMPORAL": 0.3523,
+        "PREP_FORM": 0.3243
+      },
+      "confidence": 0.0741
+    },
+    "qol": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.321,
+        "GRAM": 0.329,
+        "INGR": 0.1559,
+        "DOSE": 0.3248,
+        "TEMPORAL": 0.3128,
+        "PREP_FORM": 0.1904
+      },
+      "confidence": 0.0042
+    },
+    "oteey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.0936,
+        "GRAM": 0.2429,
+        "INGR": 0.2273,
+        "DOSE": 0.181,
+        "TEMPORAL": 0.0641,
+        "PREP_FORM": 0.078
+      },
+      "confidence": 0.0156
+    },
+    "okain": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3521,
+        "GRAM": 0.2673,
+        "INGR": 0.3083,
+        "DOSE": 0.3846,
+        "TEMPORAL": 0.3687,
+        "PREP_FORM": 0.186
+      },
+      "confidence": 0.0159
+    },
+    "chckhy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2718,
+        "GRAM": 0.2498,
+        "INGR": 0.2829,
+        "DOSE": 0.3007,
+        "TEMPORAL": 0.4275,
+        "PREP_FORM": 0.3745
+      },
+      "confidence": 0.053
+    },
+    "otal": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4742,
+        "GRAM": 0.3003,
+        "INGR": 0.3491,
+        "DOSE": 0.4169,
+        "TEMPORAL": 0.4366,
+        "PREP_FORM": 0.3515
+      },
+      "confidence": 0.0376
+    },
+    "saiin": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2676,
+        "GRAM": 0.3701,
+        "INGR": 0.2166,
+        "DOSE": 0.3726,
+        "TEMPORAL": 0.3385,
+        "PREP_FORM": 0.2764
+      },
+      "confidence": 0.0025
+    },
+    "sho": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1726,
+        "GRAM": 0.3833,
+        "INGR": 0.2776,
+        "DOSE": 0.2372,
+        "TEMPORAL": 0.2596,
+        "PREP_FORM": 0.34
+      },
+      "confidence": 0.0434
+    },
+    "lchedy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2489,
+        "GRAM": 0.2019,
+        "INGR": 0.0406,
+        "DOSE": 0.3427,
+        "TEMPORAL": 0.2219,
+        "PREP_FORM": 0.0443
+      },
+      "confidence": 0.0938
+    },
+    "oty": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.162,
+        "GRAM": 0.1607,
+        "INGR": 0.2835,
+        "DOSE": 0.2889,
+        "TEMPORAL": 0.1084,
+        "PREP_FORM": 0.1273
+      },
+      "confidence": 0.0055
+    },
+    "okedy": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.3235,
+        "GRAM": 0.14,
+        "INGR": 0.2221,
+        "DOSE": 0.2138,
+        "TEMPORAL": 0.2614,
+        "PREP_FORM": 0.1364
+      },
+      "confidence": 0.0621
+    },
+    "ain": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.3997,
+        "GRAM": 0.375,
+        "INGR": 0.4118,
+        "DOSE": 0.2853,
+        "TEMPORAL": 0.3701,
+        "PREP_FORM": 0.2913
+      },
+      "confidence": 0.0121
+    },
+    "okeedy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.3099,
+        "GRAM": 0.2207,
+        "INGR": 0.1955,
+        "DOSE": 0.3459,
+        "TEMPORAL": 0.4239,
+        "PREP_FORM": 0.2123
+      },
+      "confidence": 0.078
+    },
+    "sheol": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.0179,
+        "GRAM": 0.158,
+        "INGR": 0.0059,
+        "DOSE": 0.1494,
+        "TEMPORAL": 0.1062,
+        "PREP_FORM": -0.0003
+      },
+      "confidence": 0.0086
+    },
+    "qokey": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2934,
+        "GRAM": 0.1929,
+        "INGR": 0.1594,
+        "DOSE": 0.2912,
+        "TEMPORAL": 0.3475,
+        "PREP_FORM": 0.2289
+      },
+      "confidence": 0.0542
+    },
+    "oky": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.1817,
+        "GRAM": 0.2889,
+        "INGR": 0.3596,
+        "DOSE": 0.1667,
+        "TEMPORAL": 0.1078,
+        "PREP_FORM": 0.199
+      },
+      "confidence": 0.0706
+    },
+    "oteedy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.0736,
+        "GRAM": 0.189,
+        "INGR": 0.1983,
+        "DOSE": 0.1732,
+        "TEMPORAL": 0.2067,
+        "PREP_FORM": 0.0571
+      },
+      "confidence": 0.0084
+    },
+    "otain": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2617,
+        "GRAM": 0.2947,
+        "INGR": 0.2394,
+        "DOSE": 0.3281,
+        "TEMPORAL": 0.35,
+        "PREP_FORM": 0.2741
+      },
+      "confidence": 0.0219
+    },
+    "qoty": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.1858,
+        "GRAM": 0.2661,
+        "INGR": 0.0587,
+        "DOSE": 0.2286,
+        "TEMPORAL": 0.2983,
+        "PREP_FORM": 0.161
+      },
+      "confidence": 0.0322
+    },
+    "qotedy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2964,
+        "GRAM": 0.2022,
+        "INGR": 0.0692,
+        "DOSE": 0.257,
+        "TEMPORAL": 0.3234,
+        "PREP_FORM": 0.1607
+      },
+      "confidence": 0.027
+    },
+    "am": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.3275,
+        "GRAM": 0.3464,
+        "INGR": 0.2176,
+        "DOSE": 0.1694,
+        "TEMPORAL": 0.4616,
+        "PREP_FORM": 0.0786
+      },
+      "confidence": 0.1152
+    },
+    "sheedy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.261,
+        "GRAM": 0.2149,
+        "INGR": 0.177,
+        "DOSE": 0.3619,
+        "TEMPORAL": 0.1433,
+        "PREP_FORM": 0.2237
+      },
+      "confidence": 0.1009
+    },
+    "sar": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2407,
+        "GRAM": 0.3138,
+        "INGR": 0.2554,
+        "DOSE": 0.3996,
+        "TEMPORAL": 0.4602,
+        "PREP_FORM": 0.2794
+      },
+      "confidence": 0.0606
+    },
+    "chcthy": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.36,
+        "GRAM": 0.1862,
+        "INGR": 0.1791,
+        "DOSE": 0.3597,
+        "TEMPORAL": 0.2182,
+        "PREP_FORM": 0.2392
+      },
+      "confidence": 0.0004
+    },
+    "kaiin": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.3641,
+        "GRAM": 0.3738,
+        "INGR": 0.3751,
+        "DOSE": 0.1952,
+        "TEMPORAL": 0.1745,
+        "PREP_FORM": 0.2474
+      },
+      "confidence": 0.0012
+    },
+    "qoteedy": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.142,
+        "GRAM": 0.2523,
+        "INGR": 0.1518,
+        "DOSE": 0.1584,
+        "TEMPORAL": 0.2155,
+        "PREP_FORM": 0.069
+      },
+      "confidence": 0.0368
+    },
+    "qotar": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.1726,
+        "GRAM": 0.2173,
+        "INGR": 0.1112,
+        "DOSE": 0.3046,
+        "TEMPORAL": 0.4202,
+        "PREP_FORM": 0.0518
+      },
+      "confidence": 0.1157
+    },
+    "okey": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.2861,
+        "GRAM": 0.3795,
+        "INGR": 0.4721,
+        "DOSE": 0.3865,
+        "TEMPORAL": 0.4394,
+        "PREP_FORM": 0.4204
+      },
+      "confidence": 0.0327
+    },
+    "okeol": {
+      "category": "PREP_FORM",
+      "scores": {
+        "VERB": 0.2174,
+        "GRAM": 0.2761,
+        "INGR": 0.2468,
+        "DOSE": 0.247,
+        "TEMPORAL": 0.2186,
+        "PREP_FORM": 0.3045
+      },
+      "confidence": 0.0284
+    },
+    "keedy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3437,
+        "GRAM": 0.3244,
+        "INGR": 0.3615,
+        "DOSE": 0.4307,
+        "TEMPORAL": 0.324,
+        "PREP_FORM": 0.2367
+      },
+      "confidence": 0.0692
+    },
+    "qotchy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2162,
+        "GRAM": 0.3715,
+        "INGR": 0.2653,
+        "DOSE": 0.424,
+        "TEMPORAL": 0.3031,
+        "PREP_FORM": 0.2976
+      },
+      "confidence": 0.0524
+    },
+    "qotain": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2069,
+        "GRAM": 0.0813,
+        "INGR": 0.1883,
+        "DOSE": 0.2498,
+        "TEMPORAL": 0.1618,
+        "PREP_FORM": 0.1826
+      },
+      "confidence": 0.0428
+    },
+    "otey": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3182,
+        "GRAM": 0.2584,
+        "INGR": 0.3067,
+        "DOSE": 0.3703,
+        "TEMPORAL": 0.1927,
+        "PREP_FORM": 0.1468
+      },
+      "confidence": 0.0521
+    },
+    "shckhy": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.3635,
+        "GRAM": 0.2802,
+        "INGR": 0.2192,
+        "DOSE": 0.2281,
+        "TEMPORAL": 0.2909,
+        "PREP_FORM": 0.1336
+      },
+      "confidence": 0.0726
+    },
+    "qotal": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.2734,
+        "GRAM": 0.1775,
+        "INGR": 0.1234,
+        "DOSE": 0.261,
+        "TEMPORAL": 0.1598,
+        "PREP_FORM": 0.1031
+      },
+      "confidence": 0.0123
+    },
+    "kar": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.3816,
+        "GRAM": 0.2118,
+        "INGR": 0.2744,
+        "DOSE": 0.1759,
+        "TEMPORAL": 0.3043,
+        "PREP_FORM": 0.2501
+      },
+      "confidence": 0.0773
+    },
+    "keey": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2391,
+        "GRAM": 0.385,
+        "INGR": 0.3269,
+        "DOSE": 0.4329,
+        "TEMPORAL": 0.335,
+        "PREP_FORM": 0.3327
+      },
+      "confidence": 0.0479
+    },
+    "sor": {
+      "category": "PREP_FORM",
+      "scores": {
+        "VERB": 0.1887,
+        "GRAM": 0.2455,
+        "INGR": 0.2973,
+        "DOSE": 0.2255,
+        "TEMPORAL": 0.2372,
+        "PREP_FORM": 0.3643
+      },
+      "confidence": 0.067
+    },
+    "qokchdy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.3167,
+        "GRAM": 0.3207,
+        "INGR": 0.0978,
+        "DOSE": 0.2539,
+        "TEMPORAL": 0.3913,
+        "PREP_FORM": 0.2738
+      },
+      "confidence": 0.0706
+    },
+    "opchedy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.1197,
+        "GRAM": 0.0985,
+        "INGR": 0.1088,
+        "DOSE": 0.222,
+        "TEMPORAL": 0.1924,
+        "PREP_FORM": 0.064
+      },
+      "confidence": 0.0296
+    },
+    "qokeol": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.156,
+        "GRAM": 0.2745,
+        "INGR": 0.3374,
+        "DOSE": 0.1584,
+        "TEMPORAL": 0.2365,
+        "PREP_FORM": 0.2434
+      },
+      "confidence": 0.0629
+    },
+    "lchey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2027,
+        "GRAM": 0.3617,
+        "INGR": 0.2391,
+        "DOSE": 0.3192,
+        "TEMPORAL": 0.3091,
+        "PREP_FORM": 0.0172
+      },
+      "confidence": 0.0426
+    },
+    "sal": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.3922,
+        "GRAM": 0.3612,
+        "INGR": 0.3796,
+        "DOSE": 0.3777,
+        "TEMPORAL": 0.2554,
+        "PREP_FORM": 0.2197
+      },
+      "confidence": 0.0126
+    },
+    "chal": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1485,
+        "GRAM": 0.2936,
+        "INGR": 0.1233,
+        "DOSE": 0.2303,
+        "TEMPORAL": 0.2696,
+        "PREP_FORM": 0.0783
+      },
+      "confidence": 0.0239
+    },
+    "lkaiin": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2452,
+        "GRAM": 0.2272,
+        "INGR": 0.0599,
+        "DOSE": 0.3708,
+        "TEMPORAL": 0.2374,
+        "PREP_FORM": 0.2082
+      },
+      "confidence": 0.1256
+    },
+    "checkhy": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.36,
+        "GRAM": 0.2397,
+        "INGR": 0.2707,
+        "DOSE": 0.3307,
+        "TEMPORAL": 0.3381,
+        "PREP_FORM": 0.1326
+      },
+      "confidence": 0.0219
+    },
+    "otam": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.2833,
+        "GRAM": 0.1321,
+        "INGR": 0.3523,
+        "DOSE": 0.2183,
+        "TEMPORAL": 0.1772,
+        "PREP_FORM": 0.2361
+      },
+      "confidence": 0.069
+    },
+    "sheor": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.1914,
+        "GRAM": 0.2612,
+        "INGR": 0.2472,
+        "DOSE": 0.4473,
+        "TEMPORAL": 0.3916,
+        "PREP_FORM": 0.2108
+      },
+      "confidence": 0.0557
+    },
+    "otchy": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.3185,
+        "GRAM": 0.3986,
+        "INGR": 0.3146,
+        "DOSE": 0.3628,
+        "TEMPORAL": 0.3547,
+        "PREP_FORM": 0.2451
+      },
+      "confidence": 0.0358
+    },
+    "shdy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2873,
+        "GRAM": 0.2437,
+        "INGR": 0.2014,
+        "DOSE": 0.4096,
+        "TEMPORAL": 0.2657,
+        "PREP_FORM": 0.1577
+      },
+      "confidence": 0.1223
+    },
+    "kain": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.4245,
+        "GRAM": 0.3204,
+        "INGR": 0.4318,
+        "DOSE": 0.4509,
+        "TEMPORAL": 0.3099,
+        "PREP_FORM": 0.3203
+      },
+      "confidence": 0.0191
+    },
+    "qoteey": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2259,
+        "GRAM": 0.1794,
+        "INGR": 0.2417,
+        "DOSE": 0.3831,
+        "TEMPORAL": 0.2245,
+        "PREP_FORM": 0.1735
+      },
+      "confidence": 0.1413
+    },
+    "tar": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.3167,
+        "GRAM": 0.3309,
+        "INGR": 0.2744,
+        "DOSE": 0.2103,
+        "TEMPORAL": 0.2524,
+        "PREP_FORM": 0.2308
+      },
+      "confidence": 0.0142
+    },
+    "lshedy": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.2396,
+        "GRAM": 0.0668,
+        "INGR": 0.0623,
+        "DOSE": 0.2197,
+        "TEMPORAL": 0.1134,
+        "PREP_FORM": 0.0711
+      },
+      "confidence": 0.0199
+    },
+    "lkeey": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4523,
+        "GRAM": 0.3243,
+        "INGR": 0.2037,
+        "DOSE": 0.408,
+        "TEMPORAL": 0.2821,
+        "PREP_FORM": 0.1623
+      },
+      "confidence": 0.0443
+    },
+    "lor": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.504,
+        "GRAM": 0.3881,
+        "INGR": 0.384,
+        "DOSE": 0.4132,
+        "TEMPORAL": 0.4062,
+        "PREP_FORM": 0.3765
+      },
+      "confidence": 0.0909
+    },
+    "lol": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1576,
+        "GRAM": 0.2457,
+        "INGR": 0.0659,
+        "DOSE": 0.1452,
+        "TEMPORAL": 0.1562,
+        "PREP_FORM": 0.1276
+      },
+      "confidence": 0.088
+    },
+    "lkeedy": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.3277,
+        "GRAM": 0.2764,
+        "INGR": 0.1639,
+        "DOSE": 0.3217,
+        "TEMPORAL": 0.1714,
+        "PREP_FORM": 0.1822
+      },
+      "confidence": 0.0059
+    },
+    "oteol": {
+      "category": "PREP_FORM",
+      "scores": {
+        "VERB": 0.1544,
+        "GRAM": 0.0838,
+        "INGR": 0.1482,
+        "DOSE": 0.1973,
+        "TEMPORAL": 0.1924,
+        "PREP_FORM": 0.2431
+      },
+      "confidence": 0.0458
+    },
+    "pchedy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.1656,
+        "GRAM": 0.1578,
+        "INGR": 0.162,
+        "DOSE": 0.2688,
+        "TEMPORAL": 0.1218,
+        "PREP_FORM": 0.2427
+      },
+      "confidence": 0.0261
+    },
+    "kchy": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1082,
+        "GRAM": 0.3188,
+        "INGR": 0.1917,
+        "DOSE": 0.1378,
+        "TEMPORAL": 0.234,
+        "PREP_FORM": 0.1408
+      },
+      "confidence": 0.0848
+    },
+    "shar": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1143,
+        "GRAM": 0.2704,
+        "INGR": 0.2318,
+        "DOSE": 0.0485,
+        "TEMPORAL": 0.0508,
+        "PREP_FORM": 0.1973
+      },
+      "confidence": 0.0386
+    },
+    "sheckhy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2722,
+        "GRAM": 0.2557,
+        "INGR": 0.1961,
+        "DOSE": 0.3548,
+        "TEMPORAL": 0.2656,
+        "PREP_FORM": 0.2012
+      },
+      "confidence": 0.0826
+    },
+    "okam": {
+      "category": "PREP_FORM",
+      "scores": {
+        "VERB": 0.2338,
+        "GRAM": 0.1669,
+        "INGR": 0.2825,
+        "DOSE": 0.0784,
+        "TEMPORAL": 0.2859,
+        "PREP_FORM": 0.4153
+      },
+      "confidence": 0.1294
+    },
+    "oraiin": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.2174,
+        "GRAM": 0.1227,
+        "INGR": 0.0099,
+        "DOSE": 0.0766,
+        "TEMPORAL": 0.0778,
+        "PREP_FORM": 0.0515
+      },
+      "confidence": 0.0947
+    },
+    "ykeedy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2465,
+        "GRAM": 0.2154,
+        "INGR": 0.1655,
+        "DOSE": 0.3643,
+        "TEMPORAL": 0.4382,
+        "PREP_FORM": 0.1528
+      },
+      "confidence": 0.0739
+    },
+    "shcthy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.1092,
+        "GRAM": 0.1073,
+        "INGR": -0.0157,
+        "DOSE": 0.1773,
+        "TEMPORAL": 0.0953,
+        "PREP_FORM": 0.07
+      },
+      "confidence": 0.0681
+    },
+    "lkar": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4063,
+        "GRAM": 0.1161,
+        "INGR": 0.2503,
+        "DOSE": 0.3342,
+        "TEMPORAL": 0.2006,
+        "PREP_FORM": 0.2322
+      },
+      "confidence": 0.072
+    },
+    "cheal": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1086,
+        "GRAM": 0.336,
+        "INGR": 0.0524,
+        "DOSE": 0.1617,
+        "TEMPORAL": 0.2499,
+        "PREP_FORM": 0.225
+      },
+      "confidence": 0.0861
+    },
+    "checthy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3042,
+        "GRAM": 0.2017,
+        "INGR": 0.299,
+        "DOSE": 0.3974,
+        "TEMPORAL": 0.2498,
+        "PREP_FORM": 0.19
+      },
+      "confidence": 0.0933
+    },
+    "chckhey": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.3649,
+        "GRAM": 0.2584,
+        "INGR": 0.2552,
+        "DOSE": 0.3198,
+        "TEMPORAL": 0.165,
+        "PREP_FORM": 0.2267
+      },
+      "confidence": 0.0451
+    },
+    "yteedy": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.2685,
+        "GRAM": 0.1352,
+        "INGR": 0.2895,
+        "DOSE": 0.26,
+        "TEMPORAL": 0.2849,
+        "PREP_FORM": 0.1116
+      },
+      "confidence": 0.0046
+    },
+    "qokeeey": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.269,
+        "GRAM": 0.1387,
+        "INGR": 0.0886,
+        "DOSE": 0.3095,
+        "TEMPORAL": 0.3087,
+        "PREP_FORM": 0.0858
+      },
+      "confidence": 0.0008
+    },
+    "olor": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.235,
+        "GRAM": 0.2703,
+        "INGR": 0.2027,
+        "DOSE": 0.1999,
+        "TEMPORAL": 0.1375,
+        "PREP_FORM": 0.2606
+      },
+      "confidence": 0.0097
+    },
+    "okeeey": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.1051,
+        "GRAM": 0.0807,
+        "INGR": 0.1988,
+        "DOSE": 0.2845,
+        "TEMPORAL": 0.1444,
+        "PREP_FORM": 0.1638
+      },
+      "confidence": 0.0857
+    },
+    "chedal": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.0759,
+        "GRAM": 0.2223,
+        "INGR": 0.0569,
+        "DOSE": 0.1747,
+        "TEMPORAL": 0.2925,
+        "PREP_FORM": 0.0657
+      },
+      "confidence": 0.0702
+    },
+    "okaly": {
+      "category": "PREP_FORM",
+      "scores": {
+        "VERB": 0.1288,
+        "GRAM": 0.2248,
+        "INGR": 0.2156,
+        "DOSE": 0.1484,
+        "TEMPORAL": 0.2365,
+        "PREP_FORM": 0.34
+      },
+      "confidence": 0.1035
+    },
+    "qotey": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.1693,
+        "GRAM": 0.1086,
+        "INGR": 0.1434,
+        "DOSE": 0.2049,
+        "TEMPORAL": 0.1232,
+        "PREP_FORM": 0.1005
+      },
+      "confidence": 0.0356
+    },
+    "rain": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.1995,
+        "GRAM": 0.2389,
+        "INGR": 0.2712,
+        "DOSE": 0.4041,
+        "TEMPORAL": 0.2365,
+        "PREP_FORM": 0.0738
+      },
+      "confidence": 0.1329
+    },
+    "olshedy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2247,
+        "GRAM": 0.2069,
+        "INGR": 0.1672,
+        "DOSE": 0.3842,
+        "TEMPORAL": 0.323,
+        "PREP_FORM": 0.1087
+      },
+      "confidence": 0.0612
+    },
+    "chety": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.1433,
+        "GRAM": 0.2657,
+        "INGR": 0.1158,
+        "DOSE": 0.2055,
+        "TEMPORAL": 0.3158,
+        "PREP_FORM": 0.2315
+      },
+      "confidence": 0.0501
+    },
+    "tchey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1603,
+        "GRAM": 0.2096,
+        "INGR": 0.0688,
+        "DOSE": 0.0841,
+        "TEMPORAL": 0.1592,
+        "PREP_FORM": 0.0487
+      },
+      "confidence": 0.0493
+    },
+    "chdar": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4023,
+        "GRAM": 0.2479,
+        "INGR": 0.2645,
+        "DOSE": 0.2531,
+        "TEMPORAL": 0.2163,
+        "PREP_FORM": 0.2744
+      },
+      "confidence": 0.1279
+    },
+    "daldy": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.089,
+        "GRAM": 0.1371,
+        "INGR": 0.3367,
+        "DOSE": 0.2735,
+        "TEMPORAL": 0.0193,
+        "PREP_FORM": 0.2022
+      },
+      "confidence": 0.0632
+    },
+    "okeeo": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2026,
+        "GRAM": 0.3986,
+        "INGR": 0.258,
+        "DOSE": 0.2743,
+        "TEMPORAL": 0.2066,
+        "PREP_FORM": 0.2763
+      },
+      "confidence": 0.1223
+    },
+    "lo": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.3068,
+        "GRAM": 0.3432,
+        "INGR": 0.1232,
+        "DOSE": 0.4576,
+        "TEMPORAL": 0.4907,
+        "PREP_FORM": 0.0802
+      },
+      "confidence": 0.0331
+    },
+    "chain": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2583,
+        "GRAM": 0.3329,
+        "INGR": 0.2821,
+        "DOSE": 0.4841,
+        "TEMPORAL": 0.4086,
+        "PREP_FORM": 0.2559
+      },
+      "confidence": 0.0755
+    },
+    "soiin": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1755,
+        "GRAM": 0.2808,
+        "INGR": 0.1762,
+        "DOSE": 0.2609,
+        "TEMPORAL": 0.0409,
+        "PREP_FORM": 0.1022
+      },
+      "confidence": 0.0199
+    },
+    "sheal": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1618,
+        "GRAM": 0.2615,
+        "INGR": 0.1579,
+        "DOSE": 0.2368,
+        "TEMPORAL": 0.1977,
+        "PREP_FORM": 0.0816
+      },
+      "confidence": 0.0246
+    },
+    "lshey": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3417,
+        "GRAM": 0.3361,
+        "INGR": 0.213,
+        "DOSE": 0.3479,
+        "TEMPORAL": 0.1501,
+        "PREP_FORM": 0.1696
+      },
+      "confidence": 0.0062
+    },
+    "rar": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2808,
+        "GRAM": 0.3558,
+        "INGR": 0.1976,
+        "DOSE": 0.2784,
+        "TEMPORAL": 0.3263,
+        "PREP_FORM": 0.0902
+      },
+      "confidence": 0.0296
+    },
+    "okeeody": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.0748,
+        "GRAM": 0.1481,
+        "INGR": 0.0985,
+        "DOSE": 0.1274,
+        "TEMPORAL": 0.2701,
+        "PREP_FORM": 0.184
+      },
+      "confidence": 0.0861
+    },
+    "qokaly": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.1742,
+        "GRAM": 0.2122,
+        "INGR": 0.1881,
+        "DOSE": 0.0291,
+        "TEMPORAL": 0.2517,
+        "PREP_FORM": 0.1537
+      },
+      "confidence": 0.0395
+    },
+    "key": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2746,
+        "GRAM": 0.4433,
+        "INGR": 0.3137,
+        "DOSE": 0.3121,
+        "TEMPORAL": 0.1997,
+        "PREP_FORM": 0.3265
+      },
+      "confidence": 0.1168
+    },
+    "sheeky": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.3547,
+        "GRAM": 0.3158,
+        "INGR": 0.2431,
+        "DOSE": 0.22,
+        "TEMPORAL": 0.3319,
+        "PREP_FORM": 0.2283
+      },
+      "confidence": 0.0228
+    },
+    "oteeos": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.1665,
+        "GRAM": 0.3803,
+        "INGR": 0.2322,
+        "DOSE": 0.2949,
+        "TEMPORAL": 0.4813,
+        "PREP_FORM": 0.2124
+      },
+      "confidence": 0.101
+    },
+    "ot": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.3313,
+        "GRAM": 0.1577,
+        "INGR": 0.226,
+        "DOSE": 0.1828,
+        "TEMPORAL": 0.2406,
+        "PREP_FORM": 0.1783
+      },
+      "confidence": 0.0907
+    },
+    "okeal": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.3155,
+        "GRAM": 0.3743,
+        "INGR": 0.4417,
+        "DOSE": 0.4238,
+        "TEMPORAL": 0.3683,
+        "PREP_FORM": 0.3722
+      },
+      "confidence": 0.0179
+    },
+    "opchy": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2048,
+        "GRAM": 0.3302,
+        "INGR": 0.0835,
+        "DOSE": 0.1088,
+        "TEMPORAL": 0.1831,
+        "PREP_FORM": 0.1555
+      },
+      "confidence": 0.1254
+    },
+    "sheeol": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": -0.023,
+        "GRAM": 0.2086,
+        "INGR": 0.1704,
+        "DOSE": -0.04,
+        "TEMPORAL": 0.1285,
+        "PREP_FORM": 0.1223
+      },
+      "confidence": 0.0381
+    },
+    "shky": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2004,
+        "GRAM": 0.2477,
+        "INGR": 0.1325,
+        "DOSE": 0.2591,
+        "TEMPORAL": 0.2437,
+        "PREP_FORM": 0.0816
+      },
+      "confidence": 0.0114
+    },
+    "qokechy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2659,
+        "GRAM": 0.2651,
+        "INGR": 0.2395,
+        "DOSE": 0.3812,
+        "TEMPORAL": 0.1794,
+        "PREP_FORM": 0.1748
+      },
+      "confidence": 0.1152
+    },
+    "chty": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.0754,
+        "GRAM": 0.3804,
+        "INGR": 0.04,
+        "DOSE": 0.0112,
+        "TEMPORAL": 0.1998,
+        "PREP_FORM": 0.1325
+      },
+      "confidence": 0.1806
+    },
+    "olain": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.3855,
+        "GRAM": 0.1956,
+        "INGR": 0.2109,
+        "DOSE": 0.3402,
+        "TEMPORAL": 0.3088,
+        "PREP_FORM": 0.1113
+      },
+      "confidence": 0.0453
+    },
+    "orol": {
+      "category": "PREP_FORM",
+      "scores": {
+        "VERB": 0.1981,
+        "GRAM": 0.2043,
+        "INGR": 0.1721,
+        "DOSE": 0.1105,
+        "TEMPORAL": 0.2186,
+        "PREP_FORM": 0.2677
+      },
+      "confidence": 0.0491
+    },
+    "shedain": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4181,
+        "GRAM": 0.324,
+        "INGR": 0.2653,
+        "DOSE": 0.3511,
+        "TEMPORAL": 0.3907,
+        "PREP_FORM": 0.2796
+      },
+      "confidence": 0.0273
+    },
+    "sam": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": -0.1357,
+        "GRAM": 0.1446,
+        "INGR": -0.0194,
+        "DOSE": 0.0136,
+        "TEMPORAL": 0.0605,
+        "PREP_FORM": -0.1498
+      },
+      "confidence": 0.0841
+    },
+    "ychedy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2385,
+        "GRAM": 0.0645,
+        "INGR": 0.2787,
+        "DOSE": 0.3648,
+        "TEMPORAL": 0.2268,
+        "PREP_FORM": 0.1147
+      },
+      "confidence": 0.0862
+    },
+    "shdar": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2519,
+        "GRAM": 0.4652,
+        "INGR": 0.143,
+        "DOSE": 0.1205,
+        "TEMPORAL": 0.3172,
+        "PREP_FORM": 0.0397
+      },
+      "confidence": 0.1481
+    },
+    "oain": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.0667,
+        "GRAM": 0.2194,
+        "INGR": 0.2654,
+        "DOSE": 0.2787,
+        "TEMPORAL": 0.2677,
+        "PREP_FORM": 0.1366
+      },
+      "confidence": 0.011
+    },
+    "sheod": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.301,
+        "GRAM": 0.243,
+        "INGR": 0.2072,
+        "DOSE": 0.2544,
+        "TEMPORAL": 0.2566,
+        "PREP_FORM": 0.178
+      },
+      "confidence": 0.0444
+    },
+    "choldy": {
+      "category": "INGR",
+      "scores": {
+        "VERB": 0.09,
+        "GRAM": 0.1848,
+        "INGR": 0.2003,
+        "DOSE": 0.1261,
+        "TEMPORAL": -0.0144,
+        "PREP_FORM": 0.1194
+      },
+      "confidence": 0.0154
+    },
+    "otshedy": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.3244,
+        "GRAM": 0.3026,
+        "INGR": 0.1532,
+        "DOSE": 0.1732,
+        "TEMPORAL": 0.2626,
+        "PREP_FORM": 0.2678
+      },
+      "confidence": 0.0218
+    },
+    "pchdy": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4895,
+        "GRAM": 0.2906,
+        "INGR": 0.3009,
+        "DOSE": 0.3963,
+        "TEMPORAL": 0.3625,
+        "PREP_FORM": 0.3154
+      },
+      "confidence": 0.0932
+    },
+    "lr": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.2884,
+        "GRAM": 0.2554,
+        "INGR": 0.1304,
+        "DOSE": 0.2798,
+        "TEMPORAL": 0.2008,
+        "PREP_FORM": 0.1199
+      },
+      "confidence": 0.0086
+    },
+    "shek": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2657,
+        "GRAM": 0.3119,
+        "INGR": 0.4118,
+        "DOSE": 0.4169,
+        "TEMPORAL": 0.1963,
+        "PREP_FORM": 0.3922
+      },
+      "confidence": 0.0052
+    },
+    "qopchey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2228,
+        "GRAM": 0.3265,
+        "INGR": 0.1927,
+        "DOSE": 0.2862,
+        "TEMPORAL": 0.1745,
+        "PREP_FORM": 0.1825
+      },
+      "confidence": 0.0404
+    },
+    "keeo": {
+      "category": "PREP_FORM",
+      "scores": {
+        "VERB": 0.183,
+        "GRAM": 0.3845,
+        "INGR": 0.2752,
+        "DOSE": 0.2172,
+        "TEMPORAL": 0.2276,
+        "PREP_FORM": 0.4115
+      },
+      "confidence": 0.027
+    },
+    "lcheedy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2395,
+        "GRAM": 0.2939,
+        "INGR": 0.3101,
+        "DOSE": 0.3489,
+        "TEMPORAL": 0.3119,
+        "PREP_FORM": 0.2338
+      },
+      "confidence": 0.037
+    },
+    "shety": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2415,
+        "GRAM": 0.362,
+        "INGR": 0.1776,
+        "DOSE": 0.3085,
+        "TEMPORAL": 0.2684,
+        "PREP_FORM": 0.1304
+      },
+      "confidence": 0.0534
+    },
+    "tshey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.0562,
+        "GRAM": 0.3622,
+        "INGR": 0.2425,
+        "DOSE": 0.21,
+        "TEMPORAL": 0.0688,
+        "PREP_FORM": 0.1944
+      },
+      "confidence": 0.1196
+    },
+    "qokshy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2216,
+        "GRAM": 0.2598,
+        "INGR": 0.0769,
+        "DOSE": 0.2048,
+        "TEMPORAL": 0.2786,
+        "PREP_FORM": 0.2003
+      },
+      "confidence": 0.0188
+    },
+    "ok": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1762,
+        "GRAM": 0.3508,
+        "INGR": 0.303,
+        "DOSE": 0.3053,
+        "TEMPORAL": 0.236,
+        "PREP_FORM": 0.2938
+      },
+      "confidence": 0.0454
+    },
+    "shedar": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.015,
+        "GRAM": 0.1476,
+        "INGR": 0.0598,
+        "DOSE": 0.1285,
+        "TEMPORAL": 0.2324,
+        "PREP_FORM": 0.1007
+      },
+      "confidence": 0.0848
+    },
+    "chepy": {
+      "category": "PREP_FORM",
+      "scores": {
+        "VERB": 0.1112,
+        "GRAM": 0.129,
+        "INGR": 0.1802,
+        "DOSE": 0.1052,
+        "TEMPORAL": 0.0431,
+        "PREP_FORM": 0.2179
+      },
+      "confidence": 0.0377
+    },
+    "dsheey": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3941,
+        "GRAM": 0.2916,
+        "INGR": 0.2084,
+        "DOSE": 0.4508,
+        "TEMPORAL": 0.3681,
+        "PREP_FORM": 0.2264
+      },
+      "confidence": 0.0567
+    },
+    "qoy": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.0422,
+        "GRAM": 0.2726,
+        "INGR": 0.0497,
+        "DOSE": 0.2292,
+        "TEMPORAL": 0.0958,
+        "PREP_FORM": 0.1477
+      },
+      "confidence": 0.0434
+    },
+    "olkeol": {
+      "category": "PREP_FORM",
+      "scores": {
+        "VERB": 0.0241,
+        "GRAM": 0.166,
+        "INGR": 0.1384,
+        "DOSE": 0.1946,
+        "TEMPORAL": 0.1824,
+        "PREP_FORM": 0.1989
+      },
+      "confidence": 0.0043
+    },
+    "opcheol": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.0414,
+        "GRAM": 0.2968,
+        "INGR": 0.0904,
+        "DOSE": 0.2423,
+        "TEMPORAL": 0.3197,
+        "PREP_FORM": 0.0748
+      },
+      "confidence": 0.0228
+    },
+    "polchedy": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.2579,
+        "GRAM": 0.1417,
+        "INGR": 0.1351,
+        "DOSE": 0.2434,
+        "TEMPORAL": 0.228,
+        "PREP_FORM": 0.1347
+      },
+      "confidence": 0.0145
+    },
+    "sshey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.4192,
+        "GRAM": 0.4583,
+        "INGR": 0.3051,
+        "DOSE": 0.4258,
+        "TEMPORAL": 0.2851,
+        "PREP_FORM": 0.3523
+      },
+      "confidence": 0.0326
+    },
+    "qochey": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.2074,
+        "GRAM": 0.1658,
+        "INGR": 0.1091,
+        "DOSE": 0.1254,
+        "TEMPORAL": 0.1306,
+        "PREP_FORM": 0.007
+      },
+      "confidence": 0.0416
+    },
+    "lsheey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.0837,
+        "GRAM": 0.2837,
+        "INGR": -0.0157,
+        "DOSE": 0.1737,
+        "TEMPORAL": 0.1738,
+        "PREP_FORM": 0.0231
+      },
+      "confidence": 0.1099
+    },
+    "qokeechy": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.3313,
+        "GRAM": 0.3633,
+        "INGR": 0.106,
+        "DOSE": 0.3084,
+        "TEMPORAL": 0.2892,
+        "PREP_FORM": 0.282
+      },
+      "confidence": 0.032
+    },
+    "oshey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.35,
+        "GRAM": 0.3835,
+        "INGR": 0.2458,
+        "DOSE": 0.1796,
+        "TEMPORAL": 0.3425,
+        "PREP_FORM": 0.0969
+      },
+      "confidence": 0.0335
+    },
+    "okedar": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.204,
+        "GRAM": 0.1001,
+        "INGR": 0.1801,
+        "DOSE": 0.1914,
+        "TEMPORAL": 0.2455,
+        "PREP_FORM": 0.0519
+      },
+      "confidence": 0.0416
+    },
+    "qoto": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.3479,
+        "GRAM": 0.4503,
+        "INGR": 0.2397,
+        "DOSE": 0.3593,
+        "TEMPORAL": 0.3651,
+        "PREP_FORM": 0.2835
+      },
+      "confidence": 0.0852
+    },
+    "qoedy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.1286,
+        "GRAM": 0.1557,
+        "INGR": 0.1792,
+        "DOSE": 0.2371,
+        "TEMPORAL": 0.2428,
+        "PREP_FORM": 0.0274
+      },
+      "confidence": 0.0058
+    },
+    "pchedal": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2304,
+        "GRAM": 0.2401,
+        "INGR": 0.1646,
+        "DOSE": 0.4039,
+        "TEMPORAL": 0.1859,
+        "PREP_FORM": 0.0814
+      },
+      "confidence": 0.1638
+    },
+    "sheed": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2544,
+        "GRAM": 0.353,
+        "INGR": 0.1592,
+        "DOSE": 0.4321,
+        "TEMPORAL": 0.429,
+        "PREP_FORM": 0.1684
+      },
+      "confidence": 0.0031
+    },
+    "eeey": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.1003,
+        "GRAM": 0.1918,
+        "INGR": 0.1428,
+        "DOSE": 0.2639,
+        "TEMPORAL": 0.1856,
+        "PREP_FORM": 0.2019
+      },
+      "confidence": 0.062
+    },
+    "sheeey": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.037,
+        "GRAM": 0.1059,
+        "INGR": 0.041,
+        "DOSE": 0.1627,
+        "TEMPORAL": 0.2177,
+        "PREP_FORM": 0.1149
+      },
+      "confidence": 0.0551
+    },
+    "okechy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2532,
+        "GRAM": 0.2755,
+        "INGR": 0.3319,
+        "DOSE": 0.2973,
+        "TEMPORAL": 0.3773,
+        "PREP_FORM": 0.2759
+      },
+      "confidence": 0.0454
+    },
+    "cheoty": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.0056,
+        "GRAM": 0.0538,
+        "INGR": 0.0081,
+        "DOSE": 0.0885,
+        "TEMPORAL": 0.1041,
+        "PREP_FORM": 0.063
+      },
+      "confidence": 0.0156
+    },
+    "lkeol": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.1251,
+        "GRAM": 0.1293,
+        "INGR": 0.0274,
+        "DOSE": 0.1815,
+        "TEMPORAL": 0.2132,
+        "PREP_FORM": -0.1023
+      },
+      "confidence": 0.0317
+    },
+    "lkeeody": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": -0.0777,
+        "GRAM": 0.0699,
+        "INGR": -0.0297,
+        "DOSE": 0.1251,
+        "TEMPORAL": 0.1541,
+        "PREP_FORM": -0.1083
+      },
+      "confidence": 0.029
+    },
+    "tshdy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.1978,
+        "GRAM": 0.1273,
+        "INGR": 0.0377,
+        "DOSE": 0.1609,
+        "TEMPORAL": 0.2148,
+        "PREP_FORM": 0.1375
+      },
+      "confidence": 0.017
+    },
+    "shokey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2386,
+        "GRAM": 0.3297,
+        "INGR": 0.3038,
+        "DOSE": 0.3007,
+        "TEMPORAL": 0.2784,
+        "PREP_FORM": 0.2328
+      },
+      "confidence": 0.0259
+    },
+    "chep": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2397,
+        "GRAM": 0.1767,
+        "INGR": 0.1921,
+        "DOSE": 0.3869,
+        "TEMPORAL": 0.0984,
+        "PREP_FORM": 0.0773
+      },
+      "confidence": 0.1472
+    },
+    "shkaiin": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.3021,
+        "GRAM": 0.408,
+        "INGR": 0.1527,
+        "DOSE": 0.2788,
+        "TEMPORAL": 0.0231,
+        "PREP_FORM": 0.2636
+      },
+      "confidence": 0.1059
+    },
+    "loty": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3654,
+        "GRAM": 0.3231,
+        "INGR": 0.2113,
+        "DOSE": 0.4938,
+        "TEMPORAL": 0.3887,
+        "PREP_FORM": 0.2113
+      },
+      "confidence": 0.1051
+    },
+    "loiin": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.2413,
+        "GRAM": 0.2095,
+        "INGR": 0.079,
+        "DOSE": 0.2331,
+        "TEMPORAL": 0.2031,
+        "PREP_FORM": -0.0314
+      },
+      "confidence": 0.0082
+    },
+    "okaral": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2493,
+        "GRAM": 0.25,
+        "INGR": 0.0777,
+        "DOSE": 0.2288,
+        "TEMPORAL": 0.1402,
+        "PREP_FORM": 0.1372
+      },
+      "confidence": 0.0007
+    },
+    "shdal": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3853,
+        "GRAM": 0.1916,
+        "INGR": 0.1671,
+        "DOSE": 0.4133,
+        "TEMPORAL": 0.2774,
+        "PREP_FORM": 0.1864
+      },
+      "confidence": 0.028
+    },
+    "chpchy": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.0563,
+        "GRAM": 0.1429,
+        "INGR": 0.1582,
+        "DOSE": 0.1563,
+        "TEMPORAL": 0.1635,
+        "PREP_FORM": 0.1067
+      },
+      "confidence": 0.0053
+    },
+    "sheek": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2686,
+        "GRAM": 0.3509,
+        "INGR": 0.1831,
+        "DOSE": 0.266,
+        "TEMPORAL": 0.28,
+        "PREP_FORM": 0.2005
+      },
+      "confidence": 0.0709
+    },
+    "otoy": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.0923,
+        "GRAM": 0.3376,
+        "INGR": 0.1925,
+        "DOSE": 0.2199,
+        "TEMPORAL": 0.2814,
+        "PREP_FORM": 0.1604
+      },
+      "confidence": 0.0561
+    },
+    "qorain": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1731,
+        "GRAM": 0.2398,
+        "INGR": 0.1343,
+        "DOSE": 0.2139,
+        "TEMPORAL": 0.0771,
+        "PREP_FORM": 0.1449
+      },
+      "confidence": 0.0259
+    },
+    "shs": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2242,
+        "GRAM": 0.2373,
+        "INGR": 0.1032,
+        "DOSE": 0.1798,
+        "TEMPORAL": 0.3087,
+        "PREP_FORM": 0.1101
+      },
+      "confidence": 0.0715
+    },
+    "chepchy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2813,
+        "GRAM": 0.3362,
+        "INGR": 0.1392,
+        "DOSE": 0.4044,
+        "TEMPORAL": 0.2833,
+        "PREP_FORM": 0.1676
+      },
+      "confidence": 0.0683
+    },
+    "shdaiin": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.1157,
+        "GRAM": 0.3137,
+        "INGR": 0.112,
+        "DOSE": 0.2872,
+        "TEMPORAL": 0.3309,
+        "PREP_FORM": 0.0988
+      },
+      "confidence": 0.0172
+    },
+    "dshol": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1585,
+        "GRAM": 0.399,
+        "INGR": 0.1679,
+        "DOSE": 0.2597,
+        "TEMPORAL": 0.2786,
+        "PREP_FORM": 0.2009
+      },
+      "confidence": 0.1204
+    },
+    "shekain": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2197,
+        "GRAM": 0.296,
+        "INGR": 0.1277,
+        "DOSE": 0.3201,
+        "TEMPORAL": 0.161,
+        "PREP_FORM": 0.17
+      },
+      "confidence": 0.0241
+    },
+    "ota": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4915,
+        "GRAM": 0.4188,
+        "INGR": 0.2373,
+        "DOSE": 0.4742,
+        "TEMPORAL": 0.4406,
+        "PREP_FORM": 0.2251
+      },
+      "confidence": 0.0173
+    },
+    "ocheey": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4699,
+        "GRAM": 0.4594,
+        "INGR": 0.4552,
+        "DOSE": 0.4591,
+        "TEMPORAL": 0.3726,
+        "PREP_FORM": 0.3604
+      },
+      "confidence": 0.0105
+    },
+    "san": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4791,
+        "GRAM": 0.3535,
+        "INGR": 0.3296,
+        "DOSE": 0.4182,
+        "TEMPORAL": 0.3811,
+        "PREP_FORM": 0.2686
+      },
+      "confidence": 0.0609
+    },
+    "dalkar": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2051,
+        "GRAM": 0.1488,
+        "INGR": 0.2615,
+        "DOSE": 0.2994,
+        "TEMPORAL": 0.1379,
+        "PREP_FORM": 0.1777
+      },
+      "confidence": 0.038
+    },
+    "cheteey": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.3187,
+        "GRAM": 0.4032,
+        "INGR": 0.2621,
+        "DOSE": 0.4081,
+        "TEMPORAL": 0.431,
+        "PREP_FORM": 0.2475
+      },
+      "confidence": 0.0229
+    },
+    "chorol": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2053,
+        "GRAM": 0.2778,
+        "INGR": 0.2347,
+        "DOSE": 0.3008,
+        "TEMPORAL": 0.1683,
+        "PREP_FORM": 0.1517
+      },
+      "confidence": 0.023
+    },
+    "yt": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.4233,
+        "GRAM": 0.435,
+        "INGR": 0.3747,
+        "DOSE": 0.3903,
+        "TEMPORAL": 0.303,
+        "PREP_FORM": 0.3372
+      },
+      "confidence": 0.0117
+    },
+    "shokeey": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4314,
+        "GRAM": 0.3876,
+        "INGR": 0.3358,
+        "DOSE": 0.2774,
+        "TEMPORAL": 0.3529,
+        "PREP_FORM": 0.278
+      },
+      "confidence": 0.0438
+    },
+    "shet": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.2328,
+        "GRAM": 0.335,
+        "INGR": 0.2617,
+        "DOSE": 0.3729,
+        "TEMPORAL": 0.1118,
+        "PREP_FORM": 0.2348
+      },
+      "confidence": 0.038
+    },
+    "chdaly": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1603,
+        "GRAM": 0.1849,
+        "INGR": 0.0591,
+        "DOSE": 0.1675,
+        "TEMPORAL": 0.1655,
+        "PREP_FORM": -0.0145
+      },
+      "confidence": 0.0173
+    },
+    "chsky": {
+      "category": "PREP_FORM",
+      "scores": {
+        "VERB": 0.2809,
+        "GRAM": 0.2912,
+        "INGR": 0.1706,
+        "DOSE": 0.2793,
+        "TEMPORAL": 0.3168,
+        "PREP_FORM": 0.3704
+      },
+      "confidence": 0.0536
+    },
+    "qoteeey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2675,
+        "GRAM": 0.4197,
+        "INGR": 0.2006,
+        "DOSE": 0.4164,
+        "TEMPORAL": 0.2347,
+        "PREP_FORM": 0.1753
+      },
+      "confidence": 0.0033
+    },
+    "ychain": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.4646,
+        "GRAM": 0.4319,
+        "INGR": 0.2186,
+        "DOSE": 0.3568,
+        "TEMPORAL": 0.241,
+        "PREP_FORM": 0.2841
+      },
+      "confidence": 0.0326
+    },
+    "ssheey": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.3228,
+        "GRAM": 0.477,
+        "INGR": 0.3016,
+        "DOSE": 0.4446,
+        "TEMPORAL": 0.3811,
+        "PREP_FORM": 0.2119
+      },
+      "confidence": 0.0324
+    },
+    "lokeedy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.1405,
+        "GRAM": 0.2041,
+        "INGR": 0.1625,
+        "DOSE": 0.4041,
+        "TEMPORAL": 0.2425,
+        "PREP_FORM": 0.1744
+      },
+      "confidence": 0.1616
+    },
+    "shalky": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.4058,
+        "GRAM": 0.3353,
+        "INGR": 0.367,
+        "DOSE": 0.5025,
+        "TEMPORAL": 0.4291,
+        "PREP_FORM": 0.4425
+      },
+      "confidence": 0.06
+    },
+    "podar": {
+      "category": "TEMPORAL",
+      "scores": {
+        "VERB": 0.2121,
+        "GRAM": 0.2579,
+        "INGR": 0.1737,
+        "DOSE": 0.3256,
+        "TEMPORAL": 0.3817,
+        "PREP_FORM": 0.201
+      },
+      "confidence": 0.0561
+    },
+    "otalsy": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3441,
+        "GRAM": 0.3194,
+        "INGR": 0.1184,
+        "DOSE": 0.4454,
+        "TEMPORAL": 0.332,
+        "PREP_FORM": 0.1785
+      },
+      "confidence": 0.1013
+    },
+    "odeeey": {
+      "category": "VERB",
+      "scores": {
+        "VERB": 0.3564,
+        "GRAM": 0.3543,
+        "INGR": 0.2527,
+        "DOSE": 0.2813,
+        "TEMPORAL": 0.2238,
+        "PREP_FORM": 0.1903
+      },
+      "confidence": 0.0022
+    },
+    "okalor": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.3178,
+        "GRAM": 0.2763,
+        "INGR": 0.2492,
+        "DOSE": 0.3957,
+        "TEMPORAL": 0.3092,
+        "PREP_FORM": 0.1758
+      },
+      "confidence": 0.0779
+    },
+    "polarar": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.1574,
+        "GRAM": 0.2332,
+        "INGR": 0.2377,
+        "DOSE": 0.2708,
+        "TEMPORAL": 0.1799,
+        "PREP_FORM": 0.1104
+      },
+      "confidence": 0.0332
+    },
+    "chalal": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.2064,
+        "GRAM": 0.3588,
+        "INGR": 0.2099,
+        "DOSE": 0.2302,
+        "TEMPORAL": 0.1793,
+        "PREP_FORM": 0.2602
+      },
+      "confidence": 0.0986
+    },
+    "oteeal": {
+      "category": "PREP_FORM",
+      "scores": {
+        "VERB": 0.2923,
+        "GRAM": 0.3257,
+        "INGR": 0.3324,
+        "DOSE": 0.2728,
+        "TEMPORAL": 0.1583,
+        "PREP_FORM": 0.3584
+      },
+      "confidence": 0.026
+    },
+    "tchoky": {
+      "category": "DOSE",
+      "scores": {
+        "VERB": 0.317,
+        "GRAM": 0.425,
+        "INGR": 0.4255,
+        "DOSE": 0.4973,
+        "TEMPORAL": 0.3018,
+        "PREP_FORM": 0.3682
+      },
+      "confidence": 0.0718
+    },
+    "shkchy": {
+      "category": "GRAM",
+      "scores": {
+        "VERB": 0.1182,
+        "GRAM": 0.269,
+        "INGR": 0.1148,
+        "DOSE": 0.2114,
+        "TEMPORAL": 0.1678,
+        "PREP_FORM": 0.0438
+      },
+      "confidence": 0.0576
+    }
+  }
+}

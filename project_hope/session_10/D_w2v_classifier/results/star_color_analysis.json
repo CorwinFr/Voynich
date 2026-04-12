@@ -1,0 +1,159 @@
+{
+  "star_colors": {
+    "f103r_B01": "V",
+    "f103r_B02": "V",
+    "f103r_B03": "R",
+    "f103r_B04": "V",
+    "f103r_B05": "R",
+    "f103r_B06": "V",
+    "f103r_B07": "V",
+    "f103r_B08": "R",
+    "f103r_B09": "V",
+    "f103r_B10": "V",
+    "f103r_B11": "R",
+    "f103r_B12": "V",
+    "f103r_B13": "R",
+    "f103r_B14": "V",
+    "f103r_B15": "V",
+    "f103r_B16": "R",
+    "f103r_B17": "V",
+    "f103r_B18": "V"
+  },
+  "compound_recipes": [
+    {
+      "recipe_num": 1,
+      "header": "PAGE_HEADER",
+      "parts": [
+        "f103r_B01",
+        "f103r_B02"
+      ],
+      "total_words": 85,
+      "total_ingr": 17,
+      "total_dose": 22
+    },
+    {
+      "recipe_num": 2,
+      "header": "f103r_B03",
+      "parts": [
+        "f103r_B03",
+        "f103r_B04"
+      ],
+      "total_words": 92,
+      "total_ingr": 17,
+      "total_dose": 26
+    },
+    {
+      "recipe_num": 3,
+      "header": "f103r_B05",
+      "parts": [
+        "f103r_B05",
+        "f103r_B06",
+        "f103r_B07"
+      ],
+      "total_words": 78,
+      "total_ingr": 17,
+      "total_dose": 27
+    },
+    {
+      "recipe_num": 4,
+      "header": "f103r_B08",
+      "parts": [
+        "f103r_B08",
+        "f103r_B09",
+        "f103r_B10"
+      ],
+      "total_words": 87,
+      "total_ingr": 15,
+      "total_dose": 34
+    },
+    {
+      "recipe_num": 5,
+      "header": "f103r_B11",
+      "parts": [
+        "f103r_B11",
+        "f103r_B12"
+      ],
+      "total_words": 32,
+      "total_ingr": 3,
+      "total_dose": 14
+    },
+    {
+      "recipe_num": 6,
+      "header": "f103r_B13",
+      "parts": [
+        "f103r_B13",
+        "f103r_B14",
+        "f103r_B15"
+      ],
+      "total_words": 67,
+      "total_ingr": 11,
+      "total_dose": 21
+    },
+    {
+      "recipe_num": 7,
+      "header": "f103r_B16",
+      "parts": [
+        "f103r_B16",
+        "f103r_B17",
+        "f103r_B18"
+      ],
+      "total_words": 90,
+      "total_ingr": 13,
+      "total_dose": 38
+    }
+  ],
+  "position_stats": {
+    "HEAD": {
+      "n": 7,
+      "verb": 17,
+      "ingr": 50,
+      "dose": 69,
+      "temp": 37,
+      "gram": 0,
+      "words": 230,
+      "scores": [
+        155,
+        91,
+        85,
+        85,
+        119,
+        66,
+        140
+      ]
+    },
+    "SUB_1": {
+      "n": 7,
+      "verb": 21,
+      "ingr": 28,
+      "dose": 75,
+      "temp": 37,
+      "gram": 0,
+      "words": 203,
+      "scores": [
+        71,
+        107,
+        96,
+        150,
+        10,
+        100,
+        175
+      ]
+    },
+    "SUB_2": {
+      "n": 4,
+      "verb": 6,
+      "ingr": 15,
+      "dose": 38,
+      "temp": 12,
+      "gram": 0,
+      "words": 98,
+      "scores": [
+        87,
+        59,
+        49,
+        66
+      ]
+    }
+  },
+  "discovery": "f103r has 7 COMPOUND RECIPES (rouge=header, vide=sub-section), not 18 independent recipes. Compound sizes (mean 76) much closer to AN median (115) than individual blocks (mean 30)."
+}

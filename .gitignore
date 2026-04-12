@@ -43,3 +43,36 @@ data/corpus_*.json
 # Old build script (replaced by docs/paper/)
 build_academia_paper.py
 external_repos/
+
+# ================================================================
+# PRIVATE — not for public repo
+# ================================================================
+
+# Copyrighted corpora (cannot redistribute)
+attacks/RECIPE_DATASET/
+data/De_viribus_herbarum.txt
+data/transcriptions/
+data/images/
+data/*.pdf
+data/king_andrisani/
+
+# Old approaches (retracted or superseded)
+BruteForce/
+LatinCypher/
+v12/
+OPERATION_HOPE/
+hypotheses/
+docs/
+datasets/
+
+# Generated Word docs and intermediate PDFs
+*.docx
+project_hope/Tironian_temp.docx
+project_hope/convert_to_pdf.ps1
+project_hope/generate_*.py
+Voynich_Decryption_Clement_Claude_2026.pdf
+Voynich_Journal_Decryptage_FR.pdf
+
+# Keep ONLY these PDFs (final publications)
+!project_hope/Voynich_Tironian_Structural_Clement_2026.pdf
+!project_hope/Voynich_V2_Corrective_Clement_2026.pdf

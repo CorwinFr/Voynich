@@ -1,0 +1,179 @@
+{
+  "strict_total_pct": 13,
+  "lenient_total_pct": 36,
+  "inflation": 23,
+  "section_stats": {
+    "herbal_b": {
+      "strict_dec": 335,
+      "lenient_dec": 1552,
+      "logo": 152,
+      "total": 3976
+    },
+    "pharma": {
+      "strict_dec": 1003,
+      "lenient_dec": 3299,
+      "logo": 296,
+      "total": 10891
+    },
+    "herbal_a": {
+      "strict_dec": 1158,
+      "lenient_dec": 3971,
+      "logo": 462,
+      "total": 10243
+    },
+    "volvelle": {
+      "strict_dec": 4,
+      "lenient_dec": 19,
+      "logo": 104,
+      "total": 198
+    },
+    "astro": {
+      "strict_dec": 152,
+      "lenient_dec": 553,
+      "logo": 80,
+      "total": 1752
+    },
+    "cosmo": {
+      "strict_dec": 219,
+      "lenient_dec": 839,
+      "logo": 78,
+      "total": 2587
+    },
+    "balnea": {
+      "strict_dec": 625,
+      "lenient_dec": 2047,
+      "logo": 176,
+      "total": 6954
+    },
+    "bio": {
+      "strict_dec": 135,
+      "lenient_dec": 544,
+      "logo": 28,
+      "total": 1855
+    }
+  },
+  "top20_strict": [
+    {
+      "fid": "f57v",
+      "section": "volvelle",
+      "strict_pct": 54,
+      "lenient_pct": 62
+    },
+    {
+      "fid": "f11r",
+      "section": "herbal_a",
+      "strict_pct": 32,
+      "lenient_pct": 57
+    },
+    {
+      "fid": "f13v",
+      "section": "herbal_a",
+      "strict_pct": 31,
+      "lenient_pct": 57
+    },
+    {
+      "fid": "f21v",
+      "section": "herbal_a",
+      "strict_pct": 31,
+      "lenient_pct": 53
+    },
+    {
+      "fid": "f28r",
+      "section": "herbal_a",
+      "strict_pct": 30,
+      "lenient_pct": 63
+    },
+    {
+      "fid": "f49v",
+      "section": "herbal_a",
+      "strict_pct": 29,
+      "lenient_pct": 50
+    },
+    {
+      "fid": "f56r",
+      "section": "herbal_a",
+      "strict_pct": 25,
+      "lenient_pct": 50
+    },
+    {
+      "fid": "f56v",
+      "section": "herbal_a",
+      "strict_pct": 25,
+      "lenient_pct": 46
+    },
+    {
+      "fid": "f26r",
+      "section": "herbal_a",
+      "strict_pct": 24,
+      "lenient_pct": 44
+    },
+    {
+      "fid": "f53r",
+      "section": "herbal_a",
+      "strict_pct": 24,
+      "lenient_pct": 50
+    },
+    {
+      "fid": "f66v",
+      "section": "astro",
+      "strict_pct": 24,
+      "lenient_pct": 48
+    },
+    {
+      "fid": "f13r",
+      "section": "herbal_a",
+      "strict_pct": 23,
+      "lenient_pct": 50
+    },
+    {
+      "fid": "f14r",
+      "section": "herbal_a",
+      "strict_pct": 23,
+      "lenient_pct": 50
+    },
+    {
+      "fid": "f93r",
+      "section": "herbal_b",
+      "strict_pct": 23,
+      "lenient_pct": 57
+    },
+    {
+      "fid": "f16v",
+      "section": "herbal_a",
+      "strict_pct": 22,
+      "lenient_pct": 44
+    },
+    {
+      "fid": "f44r",
+      "section": "herbal_a",
+      "strict_pct": 22,
+      "lenient_pct": 52
+    },
+    {
+      "fid": "f66r",
+      "section": "astro",
+      "strict_pct": 22,
+      "lenient_pct": 48
+    },
+    {
+      "fid": "f7r",
+      "section": "herbal_a",
+      "strict_pct": 22,
+      "lenient_pct": 51
+    },
+    {
+      "fid": "f96r",
+      "section": "herbal_b",
+      "strict_pct": 22,
+      "lenient_pct": 42
+    },
+    {
+      "fid": "f27v",
+      "section": "herbal_a",
+      "strict_pct": 21,
+      "lenient_pct": 54
+    }
+  ],
+  "strict_roots_count": 38,
+  "lenient_roots_count": 61
+}

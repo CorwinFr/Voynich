@@ -1,0 +1,60 @@
+{
+  "final_n_anchors": 25,
+  "n_discovered": 4,
+  "history": [
+    {
+      "iteration": 1,
+      "n_anchors": 25,
+      "total_anchors_found": 203,
+      "total_matches": 335,
+      "n_new": 4,
+      "new_mappings": {
+        "cheky": "venenum(DISEASE,2f,100%)",
+        "chot": "decoctio(VERB,2f,50%)",
+        "chcthy": "superaddere(VERB,2f,67%)",
+        "qokeo": "rosa(INGR,2f,100%)"
+      }
+    },
+    {
+      "iteration": 2,
+      "n_anchors": 25,
+      "total_anchors_found": 210,
+      "total_matches": 323,
+      "n_new": 0,
+      "new_mappings": {}
+    }
+  ],
+  "all_anchors": {
+    "cth": "acetum",
+    "cht": "piper",
+    "shocthy": "mastix",
+    "shotch": "nigella",
+    "chk": "oleum",
+    "otoly": "sal",
+    "ypch": "aqua",
+    "ykeed": "nitrum",
+    "seees": "lens",
+    "kald": "ovum",
+    "cthy": "superaddere",
+    "otch": "trita",
+    "chy": "caput",
+    "dary": "vinum",
+    "qoty": "sumere",
+    "alch": "decoctio",
+    "cho": "febris",
+    "chek": "dolor",
+    "kch": "sumere",
+    "dal": "vinum",
+    "chod": "jungere",
+    "cheky": "venenum",
+    "chot": "decoctio",
+    "chcthy": "superaddere",
+    "qokeo": "rosa"
+  },
+  "discovered": {
+    "cheky": "venenum",
+    "chot": "decoctio",
+    "chcthy": "superaddere",
+    "qokeo": "rosa"
+  }
+}

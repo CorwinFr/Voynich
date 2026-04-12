@@ -1,0 +1,1104 @@
+{
+  "source": "De viribus herbarum (Odo Magdunensis, 11th c.)",
+  "file": "data/De_viribus_herbarum.txt",
+  "n_chapters": 77,
+  "n_unique_ingredients": 36,
+  "chapters": [
+    {
+      "name": "Artemisia",
+      "text": "Herbarum quasdam dicturus carmine vires\n\nherbarum matrem, dedit Artemisia nomen\n\ncui graecus sermo, justum puto ponere primo.\n\nHujus opem fertur prior invenisse Diana,\n\nArtemis graece quae dicitur, indeque nomen 5\n\nherba tenet, quia sic inventrix dicitur ejus.\n\nPraecipue morbis muliebribus ista medetur:\n\nmenstrua deducit ejus decoctio sumpta,\n\nhocque facit, matrix si saepe fovetur eadem,\n\nvel si cruda mero sociata terendo bibatur, 10\n\naut si trita virens super alvum nocte ligetur;\n\npellit abortivum potu vel subdita tantum,\n\nduritias solvit stericas pellitque tumores.\n\nUrinam potata det, lapidesque repellit,\n\nictericosque juvat cum vino saepius hausta. 15\n\nHanc adipi junctam strumis apponere laudat\n\nPlinius atque jubet cum vino sumere tritam.\n\nHaec, opium nimium si quemquam laeserit haustum,\n\nsubvenit eximie, si vino juncta bibatur.\n\nAffirmant quidam, quisquis gustaverit illam, 20\n\nquod nullo valeat nocuo medicamine laedi,\n\net quod eum morsu non appetat ulla ferarum.\n\nRadix illius collo suspensa rubetis\n\ndicitur et cunctis nocuis obsistere ranis;\n\nsuccus ad hoc ejus cum vino proderit haustus. 25\n\nSi musto contrita recens servabitur herba,\n\nvinum praedictis reddit medicabile morbis,\n\net sapor est et odor vino gratissimus illi,\n\nconfortat stomachum, sanat praecordia sumptum,\n\net multis aliis affirmant utile causis. 30",
+      "ingredients": [
+        "I_succus",
+        "I_vinum",
+        "P_adeps"
+      ],
+      "qualities": [],
+      "n_words": 184,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Abrotanum",
+      "text": "Tertius Abrotano legitur gradus esse caloris,\n\net desiccandi semen ferventius herba est,\n\nunde juvat nervos et causas pectoris omnes,\n\nillius elixi si sit decoctio sumpta.\n\nSic quoque dysnoicis prodest tussimque repellit, 35\n\net prodest lumbis, sic vulvarumque querelis.\n\nOmnibus his crudum cum vino proderit haustum,\n\nurinam purgat sic et praecordia mundat,\n\nsic curat sciasim, sic sumptum menstrua purgat,\n\nserpentes nidore fugat, bibitumque venena 40\n\nillorum extinguit, sedat quoque frigora febris\n\nantea quam veniant si mixto sumitur amne,\n\naut oleo quo decoquitur si membra perungas.\n\nLumbricos ventris hanc saepe bibendo necabis.\n\nHuic panis micas et mala cidonia jungens 45\n\ninsimul amne coquas, oculorum cocta dolori\n\napponas vel fervori, curabit utrumque.\n\nStirpes infixas et spinas abstrahet ipsum\n\nappositum per se vel adeps si jungitur illi.\n\nHaec etiam venerem pulvino subdita tantum 50\n\nincitat, et veneri nocuis potata resistit.",
+      "ingredients": [
+        "I_oleum",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_calidus"
+      ],
+      "n_words": 132,
+      "n_ingredients": 2
+    },
+    {
+      "name": "Absinthium",
+      "text": "In primo calor esse gradu, vis sicca secundo\n\ndicitur absinthii; stomachum corroborat herba\n\nillius quocunque modo quis sumpserit illam,\n\nsed melius pluviae si sit decocta liquore, 65\n\net sic sub divo prius infrigidata bibatur.\n\nSic poterit variis ejus succurrere morbis,\n\nhocque modo pellit lumbricos, mollit et alvum,\n\nejus et immodicum sedat sic sumpta dolorem,\n\nurinam potu producit, menstrua solvit. 60\n\nIlli si nardum, quam profert Gallia, jungas\n\net conjuncta teras et mulsa trita resolvas,\n\npraecipue tali purgabis menstrua potu,\n\nhoc quoque praestabunt cum lana subdita molli.\n\nSi siler et nardus et acetum jungitur illi 65\n\nnoxia deterges potu fastidia tali.\n\nGramina si rutae jungas huic salque piperque\n\ncumque mero tundens des haec decoctave potum,\n\nnoxius et crudus stomachi purgabitur humor.\n\nIri cunjuncta pectus mire juvat hausta. 70\n\nAcri cum vino trita se quilibet ungens\n\nnon metuat culices, ustaeque fugantur odore.\n\nIctericis crudam dabis hanc apio sociatam,\n\ncurat hepar, sibi si jungatur gallica nardus,\n\nsplenque sibi juncto potata juvabit aceto. 75\n\nSic quoque fungorum depellit sumpta venenum,\n\nobstat letiferae cum vino sumpta cicutae,\n\nsicque venenatis occurrit morsibus hausta,\n\net daros oculos reddit cum melle peruncta.\n\nHocque modo sugillatis superaddita prodest, 80\n\ndecoctaeque vapor obstrusas liberat aures,\n\nsi manant sanie cum melle terens superadde.\n\nSubvenit anginae melli nitroque jugata.\n\nVulneribus prodest contrita recentibus illa,\n\nsi superaddatur capitis sic ulcera curat, 85\n\npruritusque juvat ejus decoctio fotu.\n\nNausea non poterit quemquam vexare marina,\n\nantea commixtam vino qui sumpserit illam.\n\nIn lini panno si circumcincta geratur\n\nInguinis immodicum fertur cohibere tumorem. 90\n\nOlfactu somnum capiti vel subdita praestat,\n\nhanc sibi supponi si non praesenserit aeger.\n\nDenigrat crines cinis ejus, si bene mixtus\n\nceroto fuerit et eo sint saepe peruncti.\n\nA tineis tutam reddit qua conditur arcam. 95\n\nSub lingua factum curat cum melle tumorem,\n\nlivoremque nigrum, qui circa luminis orbem\n\napparere solet, purgabit idem medicamen.\n\nAuris depellit sonitum cum felle bovino.\n\nDuritiam splenis ejus cataplasma resolvit. 100\n\nConjuncto sibi melle sterae si subditur herba\n\ndesiccabit eam, manareque menstrua coget;\n\nex oleo fuerit viridis si cocta, juvabit\n\nnon modice stomachum, quot erit hoc unguine fotus.\n\nIncaustum vino, quo sit macerata, resolve: 105\n\nsi scribis chartam mus non teret amplius illam.\n\nPlinius attollit magnis hanc laudibus herbam,\n\nRomanosque refert sacris ex more diebus\n\ndum quadrigarum cursu certare solerent,\n\nabsinthii succum solitos donare bibendum 110\n\nin capitolina victori sede locato,\n\ncredentes pretium prae cunctis reddere dignum\n\nilli, quo firmam posset servare salutem,\n\nquae constat mundi pretio pretiosior omni.",
+      "ingredients": [
+        "I_acetum",
+        "I_linum",
+        "I_mel",
+        "I_nardus",
+        "I_oleum",
+        "I_ruta",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_siccus"
+      ],
+      "n_words": 389,
+      "n_ingredients": 8
+    },
+    {
+      "name": "Urtica",
+      "text": "Dicimus urticam, quam Graecus acalyphe dicit, 115\n\nfervida non modice vis illi dicitur esse,\n\nunde nec immerito nomen sumpsisse videtur,\n\ntacta quod exurat digitos urtica tenentis.\n\nHaec solet ictericos cum vino sumpta juvare,\n\nillius semen colicis cum melle medetur, 120\n\net tussim veterem curat, si saepe bibatur.\n\nFrigus pulmonis pellit ventrisque tumorem.\n\nOmnibus his prodest pulvis cum melle jugatus,\n\naut succus viridis cum vino saepius haustus.\n\nCum sale de foliis ejus factum cataplasma 125\n\nulceribus prodest et sordida vulnera purgat,\n\net contra morsus valet hoc cataplasma caninos,\n\net cancros et parotidas luxataque curat,\n\nhocque reformatur caro, quae discessit ab osse,\n\net solet humores hoc desiccare nocentes. 130\n\nAcri cum vino radix contrita tumorem\n\ncompescit splenis, podagrae sic subvenit illa\n\nomnibus et morbis sic subvenit articulorum,\n\nomnibus his prodest superaddita, vel sibi juncto\n\nsi coquis hanc oleo foveasque hoc unguine membra. 135\n\nNaribus impositus succus foliumve cruorem\n\nelicit; innati vis est sibi tanta caloris,\n\nquod si manantem cupias retinere cruorem,\n\nurticae succo frontem line, reprimit illum.\n\nSi supponatur cum myrrha menstrua pellit, 140\n\nsi claudit vulvam matrix humore gravata\n\nurticae foliis revocabitur ilia fricata.\n\nCum vino bibitum venerem semen movet ejus,\n\net melius tritae si jungas melque piperque\n\net si cum vino praedicto more bibatur. 145\n\nPleureticos, pectus, pulmones adjuvat ejus\n\nsemen, si sumptum fuerit cum melle jugatum,\n\ncum mulsa bibitum lotium producit abundans.\n\nHerba recens ejus olerum si more coquatur,\n\ndetur et illius decoctio, molliet alvum. 150\n\nOre diu clausus succus si volvitur ejus\n\nuvae non modicum poterit sedare tumorem.\n\nSudorem movet ex oleo decocta perunctis.\n\nSi quadrupes quaecunque marem perferre recusat,\n\nurticae foliis illius vulva fricetur, 155\n\nsic naturalem calor excitat ille calorem.\n\nDefluvium capitis, si succo seminis hujus\n\nungas saepe caput, reprimi dicit Galienus.\n\nIllius semen collectum tempore messis\n\nEt desiccatum multis erit utile causis. 160",
+      "ingredients": [
+        "I_mel",
+        "I_myrrha",
+        "I_oleum",
+        "I_sal",
+        "I_succus",
+        "I_urtica",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_calidus"
+      ],
+      "n_words": 288,
+      "n_ingredients": 7
+    },
+    {
+      "name": "Allium",
+      "text": "Scordeon argive sunt allia dicta latine,\n\nhujus vim medici calidam siccamque periti\n\nin quarto posuere gradu. Mansum vel inunctum\n\ncurat, quos serpens vel scorpius intulit, ictus;\n\nsanat et appositum morsus cum melle caninos 165\n\net nocui vermes triti pelluntur odore.\n\nIn mulsa coctum commixtum cui sit acetum\n\net bibitum vermes ventriis tineasque repellit;\n\nex oleo cum reste sua si decoquis illud\n\nmorsus pestiferos reddes hoc unguine sanos, 170\n\ncorpus et attritum cura sanabis eadem,\n\nunguine vesicae dolor et tumor hoc reprimuntur.\n\nIpse refert Ipocras educi posse secundas\n\nfumo combusti si vulva diu foveatur.\n\nPulmonis varias coctum cum lacte querelas 175\n\npotatumque juvat vel crudum saepe comestum.\n\nCum centaurea Diocles dare praecipit illud\n\nhydropicis, sic humores desiccat aquosos,\n\nidem nefreticis elixum sumere jussit.\n\nPraxagoras illo fuit usus cum coriandro 180\n\net vino, causas sic curans ictericorum,\n\net sic potatum dicit quod molliat alvum.\n\nCumque faba coctum capitis sedare dolorem\n\ndicitur, attrito si tempora perlinis illo.\n\nAnseris huic adipem jungas tepidumque dolenti 185\n\ninfundas auri, praedare subvenit illi.\n\nElixum tussim juvat et suspiria sedat,\n\nclarificat raucam crudum coctum quoque vocem,\n\nsed magis elixum juvat illam saepe comestum,\n\nadjuvat incoctum pulti sumptumque tenesmon. 190\n\nPorcino jungens adipi si conteris ipsum\n\nnon modicos reprimes superaddens saepe tumores.\n\nHunc ignotarum potus non laedit aquarum\n\nnec diversorum mutatio facta locorum,\n\nallia qui mane jejuno sumpserit ore. 195",
+      "ingredients": [
+        "I_acetum",
+        "I_coriandrum",
+        "I_faba",
+        "I_lac",
+        "I_mel",
+        "I_oleum",
+        "I_vesica",
+        "I_vinum",
+        "P_adeps"
+      ],
+      "qualities": [],
+      "n_words": 214,
+      "n_ingredients": 9
+    },
+    {
+      "name": "Plantago",
+      "text": "Herbam, quae nostra lingua plantago vocatur,\n\nhanc arnoglossam Graecus vocat, est quia linguae\n\nagninae similis foliis. Plantaginis hujus\n\nsunt geminae species, et major prima vocatur,\n\naltera vero minor, quam vulgo lanceolatam 200\n\ndicunt, quod foliis (ut lancea) surgit acutis.\n\nHis infrigdandi desiccandique notatur\n\ntertius esse gradus, majori vim tamen esse\n\nmajorem dicunt, nimis humida vulnera siccat,\n\nsi superaddatur cum melle, et sordida purgat. 205\n\nCum sale sicut olus si juncta coquatur aceto,\n\nventrem restringit nimium sic mansa fluentem;\n\nsi supradictis lens sit concocta juvabit\n\nhic dysentericos melius cibus et ciliacos.\n\nStringit manantem superaddita trita cruorem, 210\n\net nigris maculis fertur reparare colorem,\n\novi cum lacrymo mire medicatur adustos.\n\nSola canis morsum curat sedatque tumorem,\n\net scrophas spargit superaddita cum sale trita,\n\nhydropicis ut olus decocta comestaque prodest, 215\n\nsic juvat asthmaticos, ferturque juvare caducos.\n\nSordida purgabit bene vulnera quaelibet oris,\n\nore diu tentus si succus volvitur ejus.\n\nhic introfusus curat syringia succus,\n\net dolor hoc auris sedabitur et sacer ignis. 220\n\nFert haemoptoicis hic opem, si saepe hibatur\n\nper se, fortior est si sit conjunctus aceto;\n\nsicque juvat phthisicos, injectus vero per anum\n\nstringit non modicum fiuxum dysentericorum,\n\npellitur ex oculis tumor hoc fervorque perunctis. 225\n\nSaepius hanc ipsam si dentibus atteris herbam,\n\ngingivas reprimet tumidas et sanguine plenas,\n\nsicque solet dentis compescere saepe dolorem.\n\nSuccus cum lana matrici subditus ejus\n\nstringit manantem nimium siccando cruorem. 230\n\nCunctis praedictis ejus decoctio causis\n\nprodest et potus cum vino seminis ejus,\n\nvesicae renumque juvat potata dolorem.\n\nDicunt non nasci scrophas gestantibus ejus\n\nradicem collo suspensam, vis sibi tanta est. 235\n\nRadices ejus tres contere, jungito tritis\n\nvini tres cyathos et aquae fac sit modus idem,\n\nhaec nondum tremulo potanda dabis febrienti,\n\nsic pelles febrem, cui dat lux tertia nomen,\n\nbis binae quoque quartanis prodesse putantur 240\n\ncum totidem vini cyathis si dentur et amnis.\n\nCuncta potest plantago minor praedicta juvare,\n\nquamvis non tantas vires videatur hebere.\n\nPraecipue succus curat plantaginis hujus.\n\nQuod juxta nares vel lumina nascitur, ulcus, 245\n\nsi superaddatur cum lanis mollibus illi,\n\nperque novem cataplasma dies istud renovetur.\n\nEjus si suco tepido venter foveatur\n\nacri depulso sanabitur ille dolore.\n\nLumbricos succus depellere dicitur ejus. 250\n\nSi porcina vetus axungia jungitur illi,\n\nsedabit duros istud cataplasma tumores,\n\nparotidas vulnusque recens hoc adjuvat unguen.\n\nAnte duas horas quartanae quam tremor aegrum\n\nvexet si succum biberit plantaginis hujus, 255\n\nsentiet eximiam facili medicamine curam.\n\nEjus potatum depellit sperma secundas.\n\nSi via longa pedum movet, ut fit saepe, dolorem,\n\nacri cum vino superaddita trita juvabit.\n\nCum passo succus bibitur si saepius ejus 260\n\nvesicae variis fertur succurrere morbis.\n\nIn desiccando vis est plantaginis ingens\n\nmajoris, queat ut veluti cauteria corpus\n\nappositum siccare, refert ut Plinius auctor.\n\nComposuit librum Themison de viribus ejus 265\n\nin quo praeclaris celebravit laudibus illam.",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_lens",
+        "I_mel",
+        "I_ovum",
+        "I_plantago",
+        "I_sal",
+        "I_succus",
+        "I_vesica",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_humidus"
+      ],
+      "n_words": 442,
+      "n_ingredients": 10
+    },
+    {
+      "name": "Ruta",
+      "text": "A medicis rutae vis fervida dicitur esse\n\nsiccaque, fertur in his gradus illi tertius esse.\n\nUtilis est valde stomacho, si saepe bibatur,\n\nexpellit partum potu veneremque coercet, 270\n\ntussim si bibitur compescit, menstrua purgat.\n\nSi coquis hanc in aqua, cui vinum junxeris acre,\n\ncompescit talis decoctio tormina ventris,\n\npulmones juvat et pectus, morboque medetur\n\ncostarum, quem pleuresim vocat attica lingua, 275\n\narteticos sciasimque juvat, febrique medetur\n\nhausta vel in oleo viridem si coxeris illam\n\net foveas tepido patientes ante tremorem.\n\nMatrici prodest intestinique tumori\n\nhoc unguen vel clysterio si funditur intus, 280\n\nhaustaque cum vino prodesse valebit utrique,\n\nlumbricos oleo decocta et pota repellit.\n\nCum caricis decocta diu vinique liquore\n\nproderit hydropicis, si sint superaddita nocte.\n\nCruda comesta recens oculos caligine curat, 285\n\net melius marathri cum succo felleque galli\n\nmelleque si succus ex aequo jungitur ejus,\n\nindeque sint oculi patientis saepe peruncti.\n\nCum roseo miscens oleo nec non et aceto\n\nillius succum, capitis curare dolorem 290\n\nquemvis immodicum poteris, hoc saepe perungens.\n\nNaribus expressus si succus funditur ejus\n\nsistit manantem bene desiccando cruorem.\n\nIn corio mali granati si tepefactum\n\nAuribus infundas, depelles inde dolorem, 295\n\ncerussae roseoque oleo miscens et aceto\n\nillius succum mirandum conficis unguen\n\nad depellendum sacrum quem dicimus ignem,\n\net scabiem derte, quae dicitur herpeta graece,\n\net graece dictas achoras hoc unguine purgas: 300\n\nulcera sunt capitis humore fluentia pingui.\n\nCurat et hoc ozinas immissum naribus, haec sunt\n\nquae graviter foetent in naribus ulcera nata,\n\nobstat pota mero vel cruda comesta venenis\n\nhoc Metridates rex Ponti saepe probavit, 305\n\nqui Rutae foliis viginti cum sale pauco\n\net magnis nucibus binis caricisque duabus\n\njejunus vesci consurgens mane solebat,\n\narmatusque cibo tali, quascunque veneno\n\nquilibet insidias sibi tenderet, haud metuebat. 310\n\nMustelaeque docent obsistere posse venenis\n\nmirifice rutam, comedunt quae primitus illam,\n\ncum pugnaturae sunt cum serpentibus atris.\n\nCum butyro modicoque oleo decocta tumorem\n\nmatricis subjecta tepens fugat ilia colique 315\n\net cunctis intus morbis sic subdita prodest.\n\nHac etiam testes poteris curare tumentes,\n\ncum foliis lauri bene tritam si superaddes.\n\nEx hac antidotum non paucis utile causis\n\nconficitur, medici dicunt diapiganon illud, 320\n\npiganon in graeca lingua quia ruta vocatur;\n\nillius antidoti confectio talis habetur:\n\npondere junge pari nitrum, piper atque cyminum,\n\nde tribus his, quantum de ruta, ponito tantum,\n\nsed prius ex acri vino macerare cyminum 325\n\nconvenit, in ferro post assari calefacto,\n\nomnia deinde simul bene trita ex melle jugabis,\n\npectoris et lateris, jecoris, renumque dolores\n\nhoc ex antidoto curantur saepe comesto,\n\nextenuat bilem, mollit sine tormine ventrem, 330\n\nconfortat stomachum, facit ut bene digerat escam.",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_mel",
+        "I_nitrum",
+        "I_oleum",
+        "I_piper",
+        "I_ruta",
+        "I_sal",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 408,
+      "n_ingredients": 10
+    },
+    {
+      "name": "Apium",
+      "text": "Est apium dictum, quod apex hanc ferre solebat\n\nvictoris, veterum fieret dum more triumphus.\n\nIpse sibi talem prior imposuisse coronam\n\ndicitur Alcides, morem tenuere sequentes. 335\n\nAst alii dictum credunt, quod apes vehementer\n\nillius soleant avide decerpere flores.\n\nHanc herbam selinon solet attica dicere lingua,\n\nvirtutis calidae siccae quoque dicitur esse,\n\ntertius a medicis datus est gradus huic in utroque. 340\n\nIllius succo si candida mica terendo\n\npanis jungatur, oculi sedare tumorem\n\ndicitur emplastri noctu superaddita more,\n\nsicque ferunt mammis prodesse tumentibus illam.\n\nSedat fervorem stomachi, pellitque tumorem, 345\n\net quicquid venti creat includitve nocivi\n\ndesiccans poris assumpta repellit apertis.\n\nProvocat urinas haec cruda comesta vel hausta,\n\nsed mage radicum facit hoc decoctio sumpta,\n\nHoc itidem semen operatur fortius haustum. 350\n\ntota venenatis occurrit morsibus herba,\n\nsed semen potius vel apozima proderit ejus\n\nsi bibitur, tussimque modo sedabit eodem.\n\nVentrem constringit, vomitum potata coercet,\n\nlymphae commixtum sibi si jungatur acetum; 355\n\naegris amissum fertur reparare colorem,\n\ncruda a jejunis fuerit si saepe comesta.\n\nUnaquaque die vexantem corpora febrem\n\ncum lympha potata juvat febris ante tremor'em.\n\nHydropicos et splen tumidum juvat ilia, jecurque 360\n\nsi cum feniculi succo contrita bibatur.\n\nHacque superposita turpis lentigo fugatur.\n\nIllius succus farris cum polline mixtus\n\natque ovi lacrymo vulnus bene purgat et ulcus,\n\nsi superaddatur emplastri more frequenter. 365",
+      "ingredients": [
+        "I_acetum",
+        "I_feniculum",
+        "I_ovum",
+        "I_succus"
+      ],
+      "qualities": [],
+      "n_words": 208,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Althaea",
+      "text": "Althaeam malvae speciem nullus negat esse,\n\nalthaeamque vocant illam, quod crescat in altum.\n\nHanc ipsam dicunt eviscum, quod quasi visco\n\nillius radix contrita madere videtur,}}\n\nagrestisque solet a multis malva vocari. 370\n\nIn mulsa coctus flos ejus vulnera purgat,\n\nvel si cum vino tritum florem superaddas,\n\nspargere sic scrophas, anumque juvare dolentem\n\ndicitur, hocque modo conquassatis medicatur.\n\nElixata prius radix adipique terendo 375\n\naddita porcino terebinthinaeque tumores\n\nmatricis curat, reliquosque juvare dolores\n\ndicitur illius; nervos sic ipsa relaxat,\n\nrumpit vel spargit sic apostemata dura.\n\nOmnes has causas elixatura juvabit, 380\n\nsi loca morborum foveantur saepe tepenti.\n\nA dysentericis radicum coctio sumpta\n\ncum vino fluxum stringens compescit eorum,\n\net pellit tardas haec coctio sumpta secundas,\n\net prodest haemoptoicis, lapidesque repellit, 385\n\nvesicaeque solet variis succurrere causis.\n\nAcri cum vino contritum semen olivo\n\njungito, deformes maculas hoc unguine pelles.\n\nCum pusca potata potest obstare venenis,\n\nelixata prius cum melleque trita replebit 390\n\nvulnera quae cava sunt, si sit superaddita saepe;\n\nsic quoque duricias mollit lenitque rigores;\n\ndecoctis oleo foliis factum cataplasma\n\nquosvis pestiferos morsus combustaque curat.<span class=\"plainlinks\" style=\"font-size:90%; float:right; color:darkblue;\" id=\"\n\n\">",
+      "ingredients": [
+        "I_oleum",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 180,
+      "n_ingredients": 2
+    },
+    {
+      "name": "Anethum",
+      "text": "A medicis calidum siccumque refertur anethum, 395\n\net dicunt, quod sit gradus huic in utroque secundus.\n\nLac dat abundanter ejus decoctio sumpta\n\nnutrici, stomachique solet depellere morbos,\n\ntres cyathos ejus tepide si sumpserit aeger;\n\nindicio ructus est qui demonstrat apertum 400\n\nos stomachi ventumque per hoc exisse nocivum,\n\natque gravis tali sedatur nausea potu;\n\nprovocat urinas, obstantia quaeque repellens,\n\nmatricemque juvat, bene si foveatur eadem.\n\nCum tepida tritum patiens si potet anethum, 405\n\nintestinorum curat ventrisque dolorem,\n\nhoc etiam potu digestio tarda juvatur\n\nunde minor fieri vis egestiva videtur.\n\nAssidue bibitum visum nocet et genitale\n\nclaudit iter siccans humorem seminis intus. 410\n\nUvaque si nimio turgens humore gravetur,\n\nsuspendit pulvis combusti seminis ejus.\n\nAppositus digitis, aut intus clystere fusus,\n\nacrior esse cinis radicum dicitur ejus,\n\nrodit crescentes cinis bic in vulnere carnes, 415\n\nulcera quae serpunt et sordida vulnera curat,\n\nulcera praecipue membri curare virilis\n\ndicitur iste cinis infusus saepius illis.\n\nOlfactu reprimit singultum semen anethi\n\nassatum et fervens si saepius olfacit aeger. 420\n\nDicunt fervores oculorum tollere posse\n\nejus radices tritas prius appositasque.\n\nApponas haemorrhoidis si semen anethi\n\nustum, curat eas et condylomata solvit.\n\nFlos oleo si decoquitur, medicabile reddit 425\n\nillud, praecipue natis de frigore causis\n\nprodest et capitis compescit saepe dolorem,\n\nnervorum laxat tensuras, frigora pellit.",
+      "ingredients": [
+        "I_anethum",
+        "I_lac",
+        "I_oleum"
+      ],
+      "qualities": [
+        "Q_calidus"
+      ],
+      "n_words": 202,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Betonica",
+      "text": "Betonicam soliti sunt cestron dicere Graeci.}}\n\nUrinas potata ciet, lapidesque repellit, 430\n\nfert haemoptoicis cum pusca sumpta juvamen,\n\nhydropicos siccat cum vino melleque sumpta.\n\nDe foliis ejus tritis factum cataplasma\n\nnon modicum prodest oculis, quos laeserit ictus.\n\nIllius succus roseo commixtus olivo 435\n\nauribus infusus varios fugat inde dolores.\n\nBetonicae pulvis cocto cum melle jugatus\n\nempicos, tussimque juvat, suspiria sedat,\n\net stomachi varios sumptus juvat ille dolores,\n\nsi febrit ex calida, cum vino si febris absit. 440\n\nCum mulsa bibitus idem pulvis movet alvum.\n\nCum sale contritis foliis cataplasmate facto\n\nvulnera curabis, fuerint quae facta recenter,\n\ntritaque fracturae capitis haec sola medetur.\n\nDe foliis ejus elixis fit cataplasma 445\n\nutile non modicum variis vitiis oculorum;\n\nrestringit lacrymas oculorum mansa vel hausta,\n\nhac etiam caligo solet metuenda repelli,\n\naequo cum ruta fuerit si pondere juncta\n\net sic cum lympha sumatur trita tepenti, 450\n\nsic oculis nocuus sanguis per subtiliora\n\ndicitur expelli, sic lumina libera reddi.\n\nSumpta hac cum tepida purgatur vomica dira,\n\npectoris et morbi potu curantur eodem,\n\nsplen juvat illius decoctio sumpta jecurque. 455\n\nUncia betonicae socianda quaterna vetusti\n\ncum vini cyathis tribus, his sint addita grana\n\nviginti septem piperis, simul haec bene trita\n\nhaustaque purgabunt renes, pellentque dolores.\n\nUncia cum cyathis calidae potata duobus 460\n\ndicitur immodicum ventris sedare dolorem.\n\nHaec tussim cum melle fugat, ventrem quoque mollit,\n\nunaquaque die febre si vexabitur aeger\n\nuncia jungatur plantaginis una duabus\n\nbetonicae, sic cum tepida contrita bibantur, 465\n\nantea quam febris praenuncia frigora fiant.\n\nUncia Betonicae calidae cyatho resoluta\n\nprodest hydropicis, si sit potata frequenter.\n\nRadicum pulvis cum mulsa tritus et haustus\n\nhumores (velut elleborum) vomitu cito purgat, 470\n\nbis binas dragmas praecepit Plinius harum\n\nradicum dare cum passo mulsove bibendas,\n\npraecipue phlegma vomitu purgabitur isto.\n\nCum mulsa bibitus prodest pulvis foliorum\n\nruptis atque steras potus levat iste cadentes. 475\n\nCum vino sumptis obstat potata venenis,\n\noraecipue semen, quod si desit datur herba.\n\nUncia betonicae cum vino sumpta tepenti\n\nictericos curat; cum mulsa menstrua solvit;\n\npondere vero fabae pulvis cum melle voratus 480\n\npost coenam stomachum juvat, ut bene digerat escam.\n\nSi de betonica viridi sit facta corona\n\ncirca serpentes, ut Plinius asserit auctor,\n\naudebunt nunquam positam transire coronam,\n\nsed morsu proprio pereunt et verbere caudae. 485\n\nOmnibus antidotis Menemachus eam sociari\n\npraecipit, ut stomacho magis herbis omnibus aptam.\n\nPlinius hanc, inquit, qui secum gesserit herbam,\n\na nullo poterit nocuo medicamine laedi,\n\net dicunt, quod ea cum vino saepius hausta 490\n\nplumbeus abscedat color et melior revocetur.",
+      "ingredients": [
+        "I_betonica",
+        "I_faba",
+        "I_mel",
+        "I_piper",
+        "I_plantago",
+        "I_ruta",
+        "I_sal",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_calidus"
+      ],
+      "n_words": 393,
+      "n_ingredients": 9
+    },
+    {
+      "name": "Sabina",
+      "text": "Bratheos est graece sabina vocata latine,\n\nsicca calensque sibi vis est, et tertius illi\n\nest in utroque gradus. Vulnus cum melle vel ulcus\n\nFortiter exsiccat, et sordes purgat eorum; 495\n\nsic juvat anthracas, bona quae plebs ulcera dicit.\n\nMenstrua deducit, corruptos extrahit alvo\n\nconceptus, si cum vino sit sumpta frequenter,\n\nvel si trita prius matricis subditur ori.\n\nCerotis admixta cutem facit esse nitentem, 500\n\nomnibus et morbis prodest de frigore factis.\n\nIllius in vino vel aqua decoctio curat,\n\nquos vertigo nocet, si lotum sit caput inde\n\nherbaque temporibus et fronti cocta ligetur.\n\nDuplum sabinae si desunt cinnama poni 505\n\nin medicamentis jubet Oribasius auctor.",
+      "ingredients": [
+        "I_aqua",
+        "I_mel",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_siccus"
+      ],
+      "n_words": 101,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Porrum",
+      "text": "In multis causis usus medicamine porri\n\ndicitur Ippocras, medicinae maximus auctor,\n\nistius succum solum dedit ille bibendum\n\naegrotis, qui rejiciunt sputantve cruorem, 510\n\nquos haemoptoicos soliti sunt dicere Graeci;\n\ncum galla dant hunc alii thurisve farina,\n\naut geminis dragmis porrorum seminis unam\n\napponunt myrrhae, vino quoque trita resolvunt,\n\nprae cunctis aliis dicunt haec sumpta juvare; 515\n\nmanantemque potes naris retinere cruorem,\n\nintus si nares ungas medicamine tali.\n\nContractas vulvas succo curabis eodem,\n\nreddit fecundas mansum persaepe puellas;\n\nulcera cum melle tritum juvat appositumque. 520\n\nHumorum capitis si destillatio fiat\n\npulmones pectusque nocens vocemque canoram,\n\nindeque consurgat tussis praecordia laedens,\n\ncum ptisana succum porri sorbere juvabit;\n\net per se solum prodest his omnibus ipsum. 525\n\nSi porri partes in lympha coxeris albas,\n\nsic ut aquam primam mutes, addasque secundam,\n\nutilis ejus aquae duro fit potio ventri,\n\ndicitur haec eadem cum vino stringere ventrem.\n\nCum vino porrum datur his quos laeserit anguis 530\n\nquodlibet aut animal fundens letale venenum;\n\nnec minus his prodest, si vulneribus superaddas\n\nsic velut emplastrum porrum cum melle subactum.\n\nCommixtus porri succus lacti muliebri\n\net bibitus tussim fertur sanare vetustam, 535\n\net variis vitiis pulmonum subvenit idem.\n\nAuris compescit cum caprae felle dolorem,\n\npraestat idem paritercum mulsa mixtus et auri\n\ninfusus tepidus; fungis si manditur obstat.\n\nEjus jungatur succo pars tertia mellis, 540\n\net sic per nares tepidum fundendo vel aures\n\nimmensum poteris capitis sedare dolorem.\n\nCum vino bibat hunc, lumborum quem dolor angit.\n\nDicunt utilius tali nihil esse dolori.\n\nFracturas solidat cito, duritiasque relaxat 545\n\nappositum, vulnusque recens cito cum sale claudit.\n\nSi crudum fuerit sumptum levat ebrietatem,\n\nsic venerem stimulat, sic duram mollit et alvum.",
+      "ingredients": [
+        "I_aqua",
+        "I_mel",
+        "I_myrrha",
+        "I_sal",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 261,
+      "n_ingredients": 6
+    },
+    {
+      "name": "Chamomilla",
+      "text": "Anthemim magnis commendat laudibus auctor\n\nAsclepius, quam chamaemelum nos vel chamomillam 550\n\ndicimus; haec multum redolens est et brevis herba,\n\nherbae tam similis, quam justo nomine vulgus\n\ndicit amariscam, quod foeteat et sit amara,\n\nut collata sibi vix discernatur odore.\n\nAuctores dicunt species tres illius esse, 555\n\nquas solo florum distingui posse colore\n\ntradunt: est cunctis medius flos aureus illis,\n\nsed variis foliis flos circumcingitur ille,\n\nalbi vel nigri sunt purpureive coloris.\n\nDicitur anthemis proprie, cujus foliorum 560\n\npurpureus color est, majorque et fortior haec est;\n\nat leucanthemum foliis deprehenditur albis,\n\nmelinis chrysanthemum; vis omnibus illis\n\nsicca calensque gradu primo conceditur esse.\n\nProvocat urinam cum vino quaelibet hausta, 565\n\nvesicae frangit lapides et menstrua purgat,\n\nsi foveatur aqua matrix qua coeta sit herba,\n\naut si cum vino potetur saepius illa;\n\ntormina sic sedat, stomachique inflatio potu\n\npelletur tali; squamas de vultibus aufert, 570\n\nsi tritam apponas solam mellive jugatam.\n\nIctericis prodest ejus decoctio sumpta\n\net mire prodest jecoris potata querelis,\n\npellere cum vino potata refertur abortum.\n\nHac oleo cocto foveas si febricitantem 575\n\nfrigus depelles, febrem quoque saepe fugabis;\n\nunguine purgantur hypochondria turgida tali.\n\nPestiferos morsus serpentum pondere dragmae\n\ncum vino prohibet anthemis sumpta nocere;\n\nPlinius affirmat hanc quadraginta diebus 580\n\nunaquaque die bis sumptam pondere dragmae\n\ncum geminis cyathis vini subtilis et albi\n\ncum lotio sensim totum purgare lienem.\n\nAegilopas curat, si quis commasticet illam\n\net sic apponat; sic ulcera sordida purgat. 585\n\nEbullire caput febris fervore gravatum\n\nsaepe solet, vel collectis humoribus in se\n\nulcera producit, vocat exanthimata Graecus,\n\nhaec decocta virens oleo Chamomilla repellit.\n\nQuod si defuerit viridis maceretur aceto, 590\n\net caput inde lavet, nullum magis adjuvat unguen.",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_chamomilla",
+        "I_oleum",
+        "I_vesica",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_siccus"
+      ],
+      "n_words": 263,
+      "n_ingredients": 6
+    },
+    {
+      "name": "Nepeta",
+      "text": "Herbam, quam nepetam vulgari more vocamus,\n\nhanc medici graeco calamenti nomine dicunt,\n\nsicca calensque sibi vis est et tertius illi\n\nest in utroque gradus. Cum mulsa sicca tepenti 595\n\nsumpta solet totum sudore resolvere corpus;\n\nex oleo, quo sit decocta, perunge fricando\n\nillum, venturae metuit qui frigora febris,\n\nnon frigus tantum sed febrem saepe repellit;\n\nilli, qui sciasim patitur, coxae superadde 600\n\ncontritam viridem, fertur comburere pellem\n\net sic humores siccando fugare dolores;\n\nappositu potuque suo cito menstrua purgat.\n\nEst leprae species elephantiasisque vocatur,\n\nquae cunctis morbis major sic esse videtur, 605\n\nut maior cunctis elephas animalibus extat,\n\nHune in principio morbum potus calamenti\n\ncum vino curat humores extenuando;\n\nserpentum morsus superaddita trita nocere\n\nnon sinit, et pellit cum vino sumpta venena. 610\n\nPotus et injectus lumbricos enecat ejus\n\nsuccus et in membris vermes necat omnibus ipse,\n\nsi mel jungatur huic cum sale plus operatur.\n\nSi bibit hanc praegnans aut tritam subdit, abortit.\n\nPurgat et ictericos, cum vino curat anhelos, 615\n\nasthmaticos medici quos graeco nomine dicunt,\n\net jecoris morbos cum vino mitigat hausta,\n\nhocque modo veterem lateris juvat illa dolorem,\n\natque cicatrices nigras superaddita trita\n\nhaec naturali reddit purgando colori; 620\n\nvino decoctae facit hoc melius cataplasma.\n\nCompescit stomachi cum vino sumpta dolorem.\n\nFumus de domibus serpentes effugat ejus,\n\ntollere singultum cum vina dicitur hausta\n\nhocque modo venerem prohibet potata frequenter. 625",
+      "ingredients": [
+        "I_mel",
+        "I_oleum",
+        "I_sal",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_siccus"
+      ],
+      "n_words": 216,
+      "n_ingredients": 5
+    },
+    {
+      "name": "Pulegium",
+      "text": "Fervida pulegii vis siccaque dicitur esse.\n\nTertius a medicis datus est gradus huic in utroque.\n\nSaepius nanc herbam si praegnans sumit, abortit;\n\nmenstrua deducit cum viuo sumpta tepenti,\n\nhocque modo tardas haec extrahit herba secundas. 630\n\n(Hoc nomen, quod non notum reor esse quibusdam,\n\nexponam tali quid nomine significetur:\n\nut nondum oatus testa circumdatur ovi\n\npullus, sic infans matris vestitur in alvo\n\nquadam pellicula matris de semine facta, 635\n\nquam nascens rumpit, quasi testam pullulus ovi,\n\nistas pelliculas medici dixere secundas,\n\nquod mox expositos naturae jure sequantur;\n\nhae si plus justo vitio cogente morantur\n\naut mors subsequitur, dolor aut qui vix toleratur; 640\n\nistas pulegium praedicto more repellit.)\n\nCum sale contritam melli si junxeris illam\n\nunguine contractis potes hoc succurrere membris.\n\nIllius pulvis sumptus cum melle vel haustus\n\npectoris humores viscosos extenuare. 645\n\nEt per sputa potest illos educere mire.\n\nNausea vel morsus stomachi curabitur illa\n\ncum pusca sumpta vel aceto quod sit aquosum;\n\ncum vino nigram choleram potata repellit,\n\nsicque venenatis serpentum morsibus obstat. 650\n\nSi per vim febris nimiove fluore cruoris\n\naut aliquo casu subito defecerit aeger,\n\nquod solet a doctis medicis malefactio dici,\n\npulegium valido tritum jungatur aceto,\n\nnaribus aegroti sic apponatur, odore 655\n\nsolo confestim dicunt relevare incentem.\n\nGingivas sicci pulvis confirmat et usti.\n\nAppositam viridem dicunt sedare podagram,\n\net quosvis alios solet emendare tumores,\n\nsi superaddatur tepidae pemixta polentae; 660\n\naddita cerotis papulas de corpore tollit.\n\nSpleneticis multum superaddita cum sale prodest;\n\nelixatura si quisquam saepe tepenti\n\nillius abluitur, pruritus nou patietur,\n\net sic matricis poteris curare tumorem; 665\n\ntussim compescit cum vino sumpta tepenti,\n\net sic urinam compellit reddere largam,\n\net magis ex vino si sit decoctio facta\n\naut oleo mixto contritam si superaddas.\n\nSi radix acri contrita jugatur aceto, 670\n\nsedabit quosvis superaddita saepe tumores;\n\nobstat serpentum cum vino sumpta venenis\n\net sic assumptam venerem stimulare fatentur.\n\nSic quoque pulmonis prodest jecorisque querelis\n\net sic nutrici sumptum lac praebet abundans. 675\n\nHerba vireos curat morsus cum melle caninos,\n\nsi superaddatur et vino mixta bibatur.",
+      "ingredients": [
+        "I_acetum",
+        "I_lac",
+        "I_mel",
+        "I_oleum",
+        "I_ovum",
+        "I_sal",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 321,
+      "n_ingredients": 7
+    },
+    {
+      "name": "Feniculum",
+      "text": "Feniculum medici calidum siccumque secundo\n\ndicunt esse gradu, marathrum Graecus vocat illud.\n\nCum vino cunctis obstat haec herba venenis, 680\n\nhac mansa serpens oculos caligine purgat,\n\nindeque compertum est humanis posse mederi\n\nillam luminibus, atque experiendo probatum;\n\nradicum succus oculis cum melle perunctis\n\npulsa reddit eos omni caligine claros; 685\n\nexpressus marathri viridi de semine succus\n\nsoleque siccatus magnum medicamen habetur\n\nad quoscunque voles oculorum pellere morbos.\n\nAuribus infusus vermes succus necat ejus,\n\nrenibus in ptisana radix decocta medetur, 690\n\ncum vino fugat hydropicos potata tumores,\n\nsicque venenatis obstabit morsibus illa,\n\nsic quoque pulmonis obstat jecorisque querelis,\n\net sic nutrici sumpta fit copia lactis.\n\nCum vino vel aqua radicum coctio sumpta 695\n\nnefreticis et vesicae morbis medicatur,\n\nurinas purgat et menstrua sumpta resolvit,\n\nvel si trita super pecten haec herba ligetur;\n\nnausea cum vino sumpta sedabitur illa,\n\nfervorem stomachi cum lympha mitigat hausta. 700\n\nRadix illius vino decocta dolores\n\nfomento curat, patitur quos virga virilis,\n\nhoc quoque, si jungas oleum, facit, hocque perungas.\n\nIctu vel factos subito quoscunque tumores\n\nappositum tantum juncto sedabit aceto. 705\n\nSemen cum vino bibitum veneris movet actus,\n\nhocque modo lateris diros sedare dolores\n\ndicunt aut herbae si sit decoctio sumpta.\n\nTradunt auctores ejus juvenescere gustu\n\nserpentes et ob hoc senibus prodesse putatur. 710",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_feniculum",
+        "I_lac",
+        "I_mel",
+        "I_oleum",
+        "I_succus",
+        "I_vesica",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_calidus"
+      ],
+      "n_words": 201,
+      "n_ingredients": 9
+    },
+    {
+      "name": "Acidula",
+      "text": "Dicimus acidulam, quam Graeeus dicit aizon;\n\nsic dici credunt, sapor illi quod sit aceti.\n\nCrescit arenosis in pratis et secus amnes,\n\nhanc avide quidam comedunt in tempore veris\n\nexpertumque ferunt, sibi quod fastidia tollat; 715\n\nvirtus est illi siccans et frigida valde\n\ntertius a medicis datus est gradus huic in utroque.\n\nHac fugit apposita sacer ignis et herpeta mordax,\n\net tumor ex oculis tritae cataplasmate cedit.\n\nUlcera, quae serpunt, cohibet combustaque curat 720\n\net multum calidae dicunt prodesse podagrae,\n\nsi fuerit foliis illius operta virentis\n\naut cataplasmetur mixta contrita polenta.\n\nEjus cum roseo succus permixtus olivo\n\ndicitur antiquo capitis prodesse dolori, 725\n\nqui dolor est lingua dictus cephalargia graeca.\n\nOmne genus fluxus ventris restringere mire\n\ncum vino potata solet vel mansa frequenter,\n\nhocque modo nimium manantia menstrua sistit,\n\nvel si matrici tritam viridem superaddas; 730\n\nsic quoque lumbricos pellit potata rotundos,\n\ntaliter et cunctis prodest potata venenis.\n\nExhilarat visus succus illius inunctos\n\ncum vino variis obstat potata venenis.\n\nAffirmant istam qui secum gesserit herbam, 735\n\nquod non appetat hunc letali scorpius ictu.\n\nAuribus expressus si succus funditur ejus\n\nadjuvat auditum mire pellitque dolorem.\n\nAltera vero minor species est istius herbae,\n\nquam sempervivam dicunt, quoniam viret omni 740\n\ntempore, barba Jovis vulgari more vocatur;\n\nesse refert similem praedictae Plinius istam,\n\nnec minus hanc cunctis praedictis posse juvare;\n\nmane solent adeo palpebrae glutine quodam\n\nflegmatis astringi, valeant ut vix aperiri, 745\n\nhas mire succus herbae deglutinat hujus,\n\nilli si taetae fuerint digitove perunctae.",
+      "ingredients": [
+        "I_acetum",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_frigidus"
+      ],
+      "n_words": 234,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Portulaca",
+      "text": "Andrachne graece quae portulaca latine\n\ndicitur, haec vulgi pes pulli more vocatur.\n\nHumida vis ejus et frigida dicitur esse, 750\n\ntertius humoris, frigoris vero secundus\n\nhuic gradus est. Febrem, quam causon Graecia dicit,\n\ninde juvat, stomacho viridis superaddita trita,\n\npraestat idem succus, si sumitur; herbaque mansa\n\naut ut olus accepta, solet lenire calorem. 755\n\nMansa vel hausta potest nimium restringere fluxum\n\nsanguinis et ventris nimium cohibere fluorem.\n\nEsse vetat dentes illis contrita stupentes,\n\net tumidis oculis prodest superaddita trita,\n\nfervorem solis aestate comesta nocere 760\n\nnon sinit et ventrem cum vino et cum sale mollit,\n\nvesicaeque solet sedare comesta dolores.\n\nAcidulae similes huic pene per omnia vires\n\neffectosque pares testatur Plinius esse.",
+      "ingredients": [
+        "I_sal",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_frigidus",
+        "Q_humidus"
+      ],
+      "n_words": 109,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Lactuca",
+      "text": "Frigida lactucae vis constat et humida valde, 765\n\nunde potest nimios haec mansa levare calores,\n\net praestabit idem superaddas si bene tritam;\n\nutilis est stomacho, somnum dat, mollit et alvum,\n\nomnibus his melius prodest decocta comesta,\n\net stomacho potius non lota comesta medetur. 770\n\nLactucae semen compescit somnia vana,\n\ncum vino bibitum f 1uxum quoque reprimit alvi,\n\nlac dat abundanter nutrici sumpta frequenter.\n\nUt quidam dicunt oculis caligo creatur\n\nhis, quibus assiduo fuerit cibus ejus in usu. 775",
+      "ingredients": [
+        "I_lac",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_frigidus",
+        "Q_humidus"
+      ],
+      "n_words": 75,
+      "n_ingredients": 2
+    },
+    {
+      "name": "Rosa",
+      "text": "Dici flos florum nobis rosa jure videtur,\n\nquod specie cunctos praecedat odoreque flores.\n\nNon tamen haec specie tantum nec odore juvare\n\nnos valet, at variis nos adjuvat ilia medelis,\n\nejus sicca gradu vis est et frigida primo. 780\n\nCompescit sacrum, si trita apponitur, ignem,\n\nsic quoque, si stomachus calet aut praecordia, sedat;\n\nfluxum matricis cum vino stringit et alvi,\n\nillius succum collyria plurima quaerunt,\n\net siccae pulvis morbis bene subvenit oris, 785\n\ninfrictus per se tantum cum melleve mixtus.\n\nOmnes fervores superaddita trita coercet\n\nipsa recens, vel si mulsae commixta bibatur.\n\nEx hac conficitur oleum, roseumque vocatur,\n\ndiversis morbis et multis utile causis: 790\n\nsi bibitur ventrem mollit stomachique calorem\n\nextinguit nimium; bene si foveatur eodem\n\net dolor et fervor capitis curabitur illo;\n\npermiscendo sibi si forte jugatur acetum\n\nexpurgat sordens. vulnus repletque profundum 795\n\net combusturis praeclare convenit ignis;\n\nore diu tentum dentis sedare dolorem\n\ndicitur et duras palpebras reddere molles;\n\naufert suppositum pruritus interiorum\n\net stericis variis solet hoc succurrere causis. 800\n\nHoc oleum quoniam variatur conficiendo,\n\ndicam Palladius quid scripserit inde peritus:\n\nquod rubeum fuerit foliorum sumito floris\n\nuncia sic purgatorum jungatur olivi\n\nin libra, vitreo sic claudens omnia vase, 805\n\nsub Phoebo tantum septem suspende diebus,\n\ninde medelarum vanos servetur ad usus.",
+      "ingredients": [
+        "I_acetum",
+        "I_oleum",
+        "I_rosa",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_frigidus",
+        "Q_siccus"
+      ],
+      "n_words": 200,
+      "n_ingredients": 5
+    },
+    {
+      "name": "Lilium",
+      "text": "Aurosas ut credo rosas argentea debent\n\nlilia jure sequi, quae nec specie nec odore\n\ncedere creduntur roseo collata decori, 810\n\nnec minus in multis hominum sunt apta medelis.\n\nEjus radicis bulbus, quae lilia profert,\n\nsub prunis tectos juncto quoque tritos olivo\n\nprodest usturis mire superadditus ignis,\n\net melius roseum sibi si jungatur olivum; 815\n\nduras matrices mollit, si subditur, idem.\n\nElixis ejus foliis cataplasmate facto\n\nmollescunt nervi, combustaque membra juvantur,\n\nsicque superpositis morsus curabitur anguis,\n\naut si cum vino bulbus potabitur ille, 820\n\nsic quoque fungorum vetat ille venena nocere.\n\nHunc vino coctum tritumque pedum superadde\n\nclavis, nec solvas nisi cum lux tertia transit;\n\npingui porcino decoctus idem vel olivo\n\nreddere posse pilos membris narratur adustis. 825\n\nCum vino potum nocuum purgare cruorem\n\nper ventrem dicunt et sic prodesse lieni,\n\nsicque juvat vulvas, sic idem menstrua purgat,\n\nvel si cum vino veteri coctum superaddas.\n\nPraecisis nervis tritus cum melle medetur 830\n\nexpressus succus foliorum, mixtus aceto\n\net melli coquitur sic, mellis sint et aceti\n\nut geminae partes, praedicti quinque liquoris;\n\nad desiccandas nihil est magis utile plagas,\n\ninque cicatricem ducit licet inveteratas 835\n\nelixus bulbus et cerotis bene mixtus;\n\nrugas distentat vultus, maculas fugat omnes,\n\nlichenas purgat, faciem quoque furfure mundat.\n\nExprimitur succus de tritis floribus ejus,\n\nqui mollit vulvas cum lana subditus illis; 840\n\nillitus asseritur sudorem posse movere;\n\nturgida maturat, pus concoquit et cito purgat.",
+      "ingredients": [
+        "I_acetum",
+        "I_mel",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 220,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Satureia",
+      "text": "Thymbra solet graece dici,satureia latine,\n\nilli sicca minus vis est, sed fervida valde.\n\nProvocat urinam cum vino et menstrua sumpta, 845\n\npellit abortivum, muliebria viscera purgat.\n\nIllius pulvis cum cocto melle subactus\n\net mansus (vel cum vino si sumitur idem)\n\npectoris humorem pellit per sputa tenacem.\n\nCum vino tepido compescit tormina ventris 850\n\nsi large bibitur, verum jam saepe probavi.\n\nEst quidam morbus letargus nomine dictus,\n\noppositum medici quem dicunt esse frenesi,\n\nquod vetat haec somnum, somno gravat hic nimis aegrum,\n\nhoc tam letali somno depressus aceto 855\n\nthymbram commiscens foveat caput inde frequenter,\n\nsic vitium pigri poterit depellere morbi.\n\nHanc herbam caveat mulier contingere praegnans,\n\nNam non mansa modo sed partum subdita pellit.\n\nNausea sedatur hac, si bene trita sumatur 860\n\ncum modico vino, vel si sumatur in ovo;\n\nhocque modo mire venerem solet ilia movere,\n\nsi largo potu viridis vel sicca bibatur;\n\nquod si cum vino mel jungitur et piper illi,\n\nnon modicum veneris succendere dicitur ignem. 865\n\nHinc est a Satyris merito satureia vocata,\n\nquod sint in venerem nimis haec animalia prona.\n\nSi desit thymus pro thymo ponere thymbram\n\npraecipiunt medici, quia vis est aequa duabus.",
+      "ingredients": [
+        "I_acetum",
+        "I_mel",
+        "I_ovum",
+        "I_piper",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_siccus"
+      ],
+      "n_words": 185,
+      "n_ingredients": 5
+    },
+    {
+      "name": "Salvia",
+      "text": "Salvia, cui nomen elelisphacus est apud Argos, 870\n\ncum mulsa jecoris prodest potata querelis,\n\npellit abortivum, lotiumque et menstrua purgat,\n\ntrita venenatos curat superaddita morsus,\n\ncrudis vulneribus (quae multo sanguine manant)\n\napponas tritam, dicunt retinere cruorem. 875\n\nCum vino succus tepidus si sumitur ejus,\n\ncompescit veterem tussim laterisque dolorem.\n\nPruritus vulvae curat virgaeque virilis,\n\nsi foveas vino fuerit quo salvia cocta.\n\nIllius succo crines nigrescere dicunt, 880\n\nsi sint hoc uncti crebro sub sole calenti.",
+      "ingredients": [
+        "I_salvia",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 72,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Ligusticum",
+      "text": "A Ligurum patria sumpsere ligustica nomen,\n\ncopia quod major ibi nascitur illius herbae;\n\ntertius huic gradus est sicci calidique vigoris.\n\nMajor radicis vis est et seminis ejus 885\n\net par est illis vis in medicamine quovis.\n\nInflato stomacho cum vino sumpta medetur\n\net tali potu vis digestiva juvatur,\n\nomnibus et morbis sic prodest interiorum,\n\nurinas sic sumpta movet et menstrua purgat. 890\n\ntota venenatis medicatur morsibus herba,\n\nsi bibitur bene trita prius vinoque soluta,\n\net pars contritae ponatur desuper herbae.\n\nNon modicum colicis prodest haec mansa vel hausta,\n\nvel si radicis elixatura bibatur, 895\n\nnec solum colicis decoctio proderit ista,\n\nsed supradictis medicabitur omnibus hausta.\n\nDigestibilibus semen bene jungitur ejus\n\nomnibus antidotis, quod inest sibi peptica virtus.\n\nHanc oculis Strabus potuque et odore nocivam 900\n\nasserit, antidotis ejus tantummodo semen\n\nmisceri jussit, haec utrum dixerit a se\n\naut a doctorum libris non est mihi notum;\n\nhoc scio, quod veteres non parvis laudibus istam\n\nattollunt herbam, nec me legisse recordor 905\n\nullum, qui Strabi sermonibus astipuletur.",
+      "ingredients": [
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 160,
+      "n_ingredients": 1
+    },
+    {
+      "name": "Ostrutium",
+      "text": "Struthion, ostrutium quod vulgi more vocatur,\n\nvim calidam siccamque tenet. Radix fugat ejus\n\ncum vino morbos jecoris, si trita bibatur,\n\nictericos sic sumpta juvat, splenisque tumorem 910\n\ndurum, quem Graeci sclirosim dixere, repellit.\n\nHocque modo lapides vesicae frangere dicunt,\n\nmenstrua sic lotiumque movet tussique medetur,\n\nsic orthopnoicis prodest, si saepe bibatur.\n\nSubdita matrici depellere fertur abortum, 915\n\net sic tarda nimis educere menstrua tradunt;\n\nacri cum vino si jungitur atque polenta\n\nillius succus, lepras emundat inunctas.\n\nHoc etiam succo, juncto eum polline quod dant\n\nhordea, curatur (ut dicunt) pustula quaevis, 920\n\nsi superaddideris emplastri more dolori.\n\nIllius succus cum melle terendo jugatus\n\nhumores capitis purget si nare trahatur;\n\nsternutamentum per se pulvis movet ejus,\n\nnaribus injectus veratro non segnius albo. 925\n\nIctericis succus mire medicabitur ejus,\n\nhunc si nare trahant lacti mixtum muliebri.",
+      "ingredients": [
+        "I_mel",
+        "I_succus",
+        "I_vesica",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 129,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Cerefolium",
+      "text": "Est cerefolio vis acris et ignea valde.\n\nAppositum cancris tritum cum melle medetur;\n\ncum vino bibitum lateris sedare dolorem 930\n\nsaepe solet, tritam si nectis desuper herbam.\n\ncum mulsa bibitum pituitae noxia solvit,\n\nex oleo coctum frigus depellit inunctum,\n\nsi tritum mixto violento solvis aceto\n\nlumbricos tali potu tineasque repellis, 935\n\ncum vino ciet urinas et menstrua purgat.\n\nVirgine cum cera vetus huic axungia mixta\n\nnon modo parotidas verum quoscunque tumores\n\ncurat vel reprimit, si saepius hoc superaddas.\n\nIntinctum valido si manducetur aceto 940\n\nsaepe solet vomitum ventremque tenere solutum;\n\nsi trito tegitur pecten succusque bibatur\n\nurinae clausos reserat quoscunque meatus;\n\nillius elixatura vertigo fugatur,\n\nsi caput hac tepida patientis saepe lavetur 945\n\nherbaque temporibus et fronti cocta ligetur.",
+      "ingredients": [
+        "I_acetum",
+        "I_cera",
+        "I_mel",
+        "I_oleum",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 115,
+      "n_ingredients": 5
+    },
+    {
+      "name": "Atriplex",
+      "text": "Infrigidare gradu primo, humectare secundo\n\nattriplicem dicunt. Ejus mollit cibus alvum,\n\nduricias solvit varias clavisque medetur,\n\nemplastrum crudae vel coctae si superaddas; 950\n\nhocque superpositum scabros cito detrahit ungues,\n\nignibus et sacris dicunt sic posse mederi.\n\nAttriplicem tritam cum nitro, melle et aceto,\n\ndicunt appositam calidam sedare podagram.\n\nIctericum dicit Galienus tollere morbum 955\n\nillius semen cum vino saepius haustum.",
+      "ingredients": [
+        "I_acetum",
+        "I_mel",
+        "I_nitrum",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 58,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Coriandrum",
+      "text": "Frigida vis herbae coriandri dicitur esse,\n\nausteraeque simul quiddam virtutis habere\n\nhanc Galienus ait, per quam depellere ventre\n\nlumbricos tineasque solet, si trita bibatur 960\n\ncum vino vel si mixto sumatur aceto.\n\nUva cum passa coriandrum melque jugatum\n\nsedabunt varios superaddita trita tumores,\n\npraecipue testes tumidos juvat hoc medicamen.\n\nIllius semen ventrem stipare solutum 965\n\nfertur, aquae junctum fuerit si saepius haustum.\n\nArgenti spumam cerussae contere mixtam\n\nhis tritis succum coriandri junge et acetum,\n\nquattuor his roseum miscendo jugabis olivum,\n\nista terendo simul pretiosum conficis unguen, 970\n\nquo sacros ignes pellas calidosque tumores;\n\nsi tibi difficilis confectio tanta videtur,\n\nsuccus cum solo prodest commixtus aceto;\n\naut si frumenti panis mundissima mica\n\njungitur huic succo sedat quemcunque calorem. 975\n\nHuic succo si juncta fabae sit sola farina\n\net superaddatur scrophis medicabitur illis\n\net cedet fervens emplastro pustula tali.\n\nA multis scriptum legitur: febris ante tremorem\n\nsi tria grana voret coriandri seminis aeger, 980\n\nevadet febrem cui dat lux tertia nomen;\n\npraestat idem lectum coriandrum mane priusquam\n\nsol surgat cervicali si subditur aegri.\n\nXenocrates scripsit totidem cessare diebus\n\nmenstrua quot mulier coriandri grana vorabit. 985\n\nAssiduum quidam condemnant illius usum,\n\nnempe putant mortem quemvisve parare dolorem.",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_coriandrum",
+        "I_faba",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_frigidus"
+      ],
+      "n_words": 188,
+      "n_ingredients": 6
+    },
+    {
+      "name": "Nasturtium",
+      "text": "Dicunt ferventes quod habent nasturtia vires\n\net siccas; hac re venerem ceu ruta coercent,\n\nsiccando semen, fuerint si sumpta frequenter. 990\n\nFermento commixta recens haec herba terendo\n\nanthracas curat (bona quae plebs ulcera dicit)\n\nsi superaddatur; curaque furunculus ista\n\nemittit saniem cum qua dolor ille recedit.\n\nIllius succus crines retinere fluentes 995\n\nillitus asseritur, dentisque levare dolorem\n\nde qua parte dolens dens est infusus in aurem.\n\nFortius est herba semen: depellit abortum\n\nhaustum cum vino, ventrisque animalia pellit\n\net sic serpentis dicunt obstare venenis; 1000\n\nsolus odor positi carbonibus effugat illas.\n\nSplen reprimit, mixto si saepe bibatur aceto,\n\nherbam vel semen cum polline junge et aceto,\n\nhaec contrita simul sciasis superadde dolori,\n\nutile non modicum confirmant hoc medicamen. 1005\n\nLichenas succus purgat cum melle perunctus;\n\nsi prurigo caput aut ulcera turpia foedant,\n\nanseris admiscens adipi nasturtia trita\n\nsaepius unge caput, vitium pelletur utrumque.\n\nSi coquis hanc herbam caprae cum laete recenti 1010\n\nillius aut semen, dolor angat pectora quisquis,\n\nassumpto tepido potu sedabitur isto.\n\nSemen cum tepida contritum pondere dragmae\n\net bibitum, dicunt quod duram molliat alvum;\n\ntussim compescit semen cum melle voratum. 1015",
+      "ingredients": [
+        "I_acetum",
+        "I_mel",
+        "I_ruta",
+        "I_succus",
+        "I_vinum",
+        "P_adeps"
+      ],
+      "qualities": [],
+      "n_words": 178,
+      "n_ingredients": 6
+    },
+    {
+      "name": "Eruca",
+      "text": "Erucam calidam dicunt mediocriter esse,\n\nsiccam non adeo. Cibus ejus digerit escas\n\net valet urinas haec mansa vel husta movere.\n\nManditur utiliter pueris, tussimque repellit,\n\nemundare cutem maculis cum melle iugatam 1020\n\ntradunt et mundos lentigine reddere vultus.\n\nElixata prius radix valideque subacta\n\nossibus et fractis superaddita detrahit illa.\n\nCum vino tritum si semen sumitur ejus\n\nquosvis pestiferos ictus curare refertur. 1025\n\nHaec nigras maculas purgat cum felle bovino\n\nillita. Mira loquar, cum vino largius haustam\n\nindurare ferunt hanc contra verbera sensum.\n\nSi condituris coquus hanc admisceat herbam\n\naut semen, gratum dicunt praestare saporem, 1030\n\neuzomonque solent hac causa dicere Graeci\n\nerucam, succus quod gustu sit bonus ejus.\n\nNon modice mansam venerem stimulare vel haustam\n\nconfirmant pariter medici pluresque poetae.\n\nEst cum lactucis haec herba comesta salubris, 1035\n\nnamque calor dat temperiem cum frigore mixtus.",
+      "ingredients": [
+        "I_mel",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 131,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Papaver",
+      "text": "Dicunt vim gelidam siccamque papaveris esse,\n\ntres illi tribuuut species: flos unius albus,\n\nalterius roseus, rubeus pallensque minoris\n\nFlos est, hanc vulgo dicunt agreste papaver. 1040\n\nCunctis nobilior est cui flos nascitur albus;\n\nex hujus teneris opium faciunt capitellis,\n\nincisa leviter summa cute, lacque quod inde\n\ndefluit, excipiunt cochleis, siccumque reservant,\n\nantidotis multis aptum variisque medelis. 1045\n\nSunt, qui contundunt cum lacte suo capitella,\n\nde quibus expressum siccant in sole liquorem;\n\npost primum succus vires habet iste secundas.\n\nDe specie vero, roseos quam gignere flores\n\nDixi, conficiunt oleum de semine tuoso 1050\n\nnon modicum gustu jocundum somniferumque.\n\nTertia, cui flos est rubeus semenque nigellum,\n\npraestat, si bibitur, reliquarum more soporem.\n\nElixatura tepida cujuslibet harum\n\naeger si foveat faciem, vel si bibat illam, 1055\n\noptatum capiet, nisi sit mors proxima, somnum.\n\nSperma nigri bibitum cum vino stringere ventrem\n\ndicitur, hocque modo fluxus inhihet muliebres;\n\nsomnum dat bibitum, tussim compescit iniquam.\n\nPondere denarii debent haec semina sumi, 1060\n\nnam plus letargum vel mortem saepius infert.\n\nDe foliis ejus tritis factum cataplasma\n\neximie fauces dicunt curare tumentes,\n\nquosque vocant sacros extinguere dicitur ignes;\n\nfrigore vel cantu, potuve, cibove, vel aestu 1065\n\naspera si fuerit vocalis reddita vena,\n\napposito tali fiet medicamine lenis.\n\nCandida meconii species (sic nempe vocari\n\nGraecorum lingua dicunt quodcunque papaver)\n\nlonge nobilior est utiliorque duabus; 1070\n\ntunc cum lacte fluunt capitella papaveris hujus\n\nlecta coquantur aqua, cui sit pars tertia mellis\n\naddita, cuncta coquas, donec decoctio spissa\n\nsit quasi mel, varios sic conservetur ad usus:\n\nsumpta facit somnum, tussim fugat, abstinet alvum, 1075\n\nvocalis venae bene rheumatismata siccat.\n\nEJus de teneris opium factum capitellis,\n\nsicut jam docui, roseo miscebis olivo,\n\nunge caput mixtis, sedabitur his dolor omnis\n\net solet hoc unguen somni praestare quietem. 1080\n\nPraedictis admisce croci redolentia fila,\n\nauris curabis haec infundendo dolorem;\n\nhoc quoque femineo cum lacte crocoque subacto\n\nungendo calidam poteris sedare podagram;\n\nano suppositum solet hoc adducere somnum, 1085\n\nistud idem solo praestare putatur odore.",
+      "ingredients": [
+        "I_aqua",
+        "I_crocus",
+        "I_lac",
+        "I_mel",
+        "I_oleum",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 310,
+      "n_ingredients": 7
+    },
+    {
+      "name": "Cepa",
+      "text": "De cepis medici non consentire videntur:\n\nnamque Dioscorides inflare caputque gravare\n\natque sitim cepas dicit succendere mansas,\n\nfellitis non esse bonas inquit Galienus, 1090\n\nflegmaticis vero multum putat esse salubres;\n\nnon modicum sanas Asclepius asserit illas\n\npraesertim stomacho, pulchrumque creare colorem\n\naffirmat, quoties aliquis conspexerit illas;\n\net dicit: quisquis jejunia solverit illis 1095\n\nunaquaque die, quod vivet hic absque dolore.\n\nAffirmant omnes mansas inferre soporem,\n\net dicunt illas mollire salubriter alvum;\n\nappositas perhibent morsus curare caninos,\n\nsi tritae cum melle prius fuerint vel aceto; 1100\n\napponunt alii cum vino melleque coctas,\n\ntransactisque tribus solvunt cataplasma diebus.\n\nSal, rutam cepasque Dioscorides jubet anguis\n\nmorsibus apponi, sic asserit ille juvari.\n\nFemineo lacti commixtus succus earum 1105\n\npellit saepe graves infusus ab aure dolores;\n\nhic succus commixtus aquae bibitusque juvabit\n\nillos, quos subitus facit obmutescere morbus.\n\nNaribus attractos harum tantummodo succus\n\nhumores nocuos capitis deponere cogit; 1110\n\nmansae vel potae tardantia menstrua purgant.\n\nTriturasque pedum, soleae quas vel caligarum\n\nduriciae faciunt, succo sanabis eodem,\n\ncum gallinarum pingui si saepe perungas.\n\nMane sibi dentes qui succo perfricat isto, 1115\n\ndicunt hunc dentis nunquam sentire dolorem;\n\nulcera compescunt oris cum pane comestae,\n\nintingens oleo coctas qui sumpserit illas,\n\nsedat quos intus dat dysenteria morsus.\n\nContritis cepis loca denudata capillis 1120\n\nsaepe fricans capitis poteris reparare decorem;\n\noris foetori prosunt, fastidia tollunt,\n\nhasque jubent haemorrhoidis superaddere tritas.\n\nIllarum succus caligine lumina purgat\n\nadmixtus melli, maculas quoque junctus aceto 1126\n\nemundare solet, si sint hoc saepe fricatae.",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_mel",
+        "I_oleum",
+        "I_ruta",
+        "I_sal",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 232,
+      "n_ingredients": 8
+    },
+    {
+      "name": "Buglossa",
+      "text": "Lingua bovis graeco sermone buglossa vocatur,\n\nhaec choleram rubeam nimio fervore perustam\n\npurgat, cum vino fuerit si sumpta frequenter;\n\ncardiacum, cholerae quem fecit copia nigrae, 1130\n\nconsimili potata modo curare valebit;\n\nhumores nocuos pulmonis detrahit hausta.\n\nMixtus aquae tepidae si succus sumitur ejus,\n\nilli, qui patitur sciasim, mire medicatur.\n\nVim memorem cerebri dicunt servare periti 1135\n\nvinum potatum. , quo sit macerata buglossa\n\nlaetos convivas decoctio dicitur ejus\n\nreddere, si fuerit inter convivia sparsa.",
+      "ingredients": [
+        "I_aqua",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 71,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Sinapi",
+      "text": "Inter eas, quas Pythagoras laudaverat herbas,\n\nasseritur primam laudem tribuisse sinapi; 1140\n\nquartus ei gradus est in vi sicca calidaque.\n\nExtrahit humores viscosos extenuatque,\n\ncomburitque cutem, vis est sibi tanta caloris,\n\nmajor vis ejus in semine dicitur esse.\n\nSensus exacuit cibus ejus, commovet alvum, 1145\n\nconfringit lapides, urinam et menstrua purgat.\n\nSi tritum jungas tepidae versesque palato\n\nad solem capitis purgabit flegma nocivum.\n\nSternutamentis hoc admiscere salubre est,\n\nillo nam capitis strictura resolvitur omnis. 1150\n\nMansum confortat stomachum, suspiria sedat;\n\nmorsus serpentum, tritum si mergis aceto\n\net superapponis, tali medicamine curas;\n\nmansum pestiferos vetat intima laedere fungos.\n\nVi nimium fervente cutem comburere dixi, 1155\n\nsed tamen haec multis est utilis ustio causis:\n\nhac oculis nocuus capitis siccabitur humor,\n\net qui destillans pulmonum concava laedit,\n\net stomachi morbosque creat, tussimque phthisimque;\n\nhac per vesicas coxae dolor inveteratus 1160\n\nelicitur, sciasim quod graeco nomine dicunt;\n\nhacque tumor splenis durus jecorisque fugatur\n\net multum causis haec subvenit inveteratis.\n\nUtile tot causis quoniam cataplasma sinapis\n\nsaepius a medicis variatur conficiendo, 1165\n\ndicam qualiter hoc fieri jubeat Menemachus:\n\nin mortariolo tritum bene pone sinapis\n\nsemen, jungatur huic panis candida mica,\n\nsic ut tertia sit panis pars juncta sinapi,\n\nhis ficus siccas et mel jungas et acetum, 1170\n\naetatis quantum vel morbi causa requirit,\n\nnam quo plus ficus siccae vel mellis habebit,\n\nille sinapismus tanto solet acrior esse,\n\ndebilior , quo plus panis mittes et aceti.\n\nNe tibi sit vilis, moneo, confectio talis, 1175\n\neffectum cujus in multis saepe probavi;\n\nnon tamen hanc jubeo cunctis apponere morbis,\n\nsed raro, magnis et causis inveteratis.\n\nPlinius in musto cum semine praecipit hujus\n\nradices mergi, sic, postquam sumpserit harum 1180\n\nomnem vim, vinum multum putat esse salubre\n\nfaucibus et stomacho potatum, luminibusque,\n\npluribus et capitis dicit prodesse querelis.\n\nInfuso faciunt oleum de semine quidam,\n\nutile lumborum vitiis, stupidis quoque nervis. 1185\n\nExprimitur succus tenero de caule sinapis,\n\nquem siccum mandens dentis tormenta fugabis.\n\nVocales venas semen lenire sinapis.\n\nMansum confirmant: adipi tundendo vetusto\n\ncommixtum scrophas disperget, si superaddas; 1190\n\nillius fumus multum prodesse caducis\n\ndicitur atque sterae causas siccando juvare.\n\nCum ficu tritum capiti superaddere raso\n\nhis qui letargum patiuntur, magna medela est,\n\nvel si saepe pedes ungendo fricabis eorum. 1195\n\nSemen contritum melli conjunge vel uncto\n\nistud alopeciis juvat unguen saepe fricando;\n\nacri cum vino lepras emundat inunctum.\n\nHoc quodque curatur manso periodica febris,\n\nantea quam diri veniat commotio morbi. 1200",
+      "ingredients": [
+        "I_acetum",
+        "I_mel",
+        "I_oleum",
+        "I_succus",
+        "I_vinum",
+        "P_adeps"
+      ],
+      "qualities": [
+        "Q_calidus",
+        "Q_siccus"
+      ],
+      "n_words": 379,
+      "n_ingredients": 6
+    },
+    {
+      "name": "Caulis",
+      "text": "Caulis romana, Graecorum brassica lingua\n\ndicitur; hic quamvis passim nascatur in hortis,\n\nest tamen illius ad multa salutifer usus:\n\nannis sexcentis usos medicamine caulis\n\nRomanos Cato testatur, medicina priusquam 1205\n\na medicis Romae descripta fuisset in usu,\n\ntunc hortus escas ilIis dabat et medicinas.\n\nVulnera non tantum curare recentia caulem\n\nipsemet affirmat, sed quamvis inveterata,\n\net cancros etiam; loca sed prius amne lavari 1210\n\npraceipit, aut vino tepido, sic denique crudum\n\nunaquaque die bis tritum apponere caulem.\n\nHordea quam dederint cauli miscere farinam\n\nidem praecepit, rutam quoque cum coriandro\n\net sale permodico, sic omnia mixta terendo 1215\n\napponi dirae docuit cataplasma podagrae,\n\nhoc etiam morbis medicabitur articulorum,\n\nhoc quoque syringas ait et luxata juvare,\n\natque superpositum varios sedare tumores.\n\nIllius urinam, fuerit qui caulibus usus, 1220\n\ncausis nervorum calefactam censuit aptam;\n\nhac ex urina pueri si saepe laventur,\n\nasserit illorum multum conferre saluti.\n\nHaec caulis de laude Cato. Scripsisse libellum\n\nChrisippum dicunt hujus de viribus herbae. 1225\n\nOmnes confirmant caligine lumina tergi,\n\nejus, qui viridi vescetur caule frequenter.\n\nAuget lac mammis cibus ejus, menstrua purgat,\n\natque juvat stomachum sumptas ut concoquat escas;\n\nsi multum coquitur, restringere dicitur alvum, 1230\n\nat semicrudus solet illam solvere sumptus.\n\nAssumptus crudus, sic ut tingatur aceto,\n\nsplen reprimit tumidum; semen depellit abortum.\n\nUncto cum veteri coctos bene contere caules,\n\nhis oleum roseum quantum res postulat addas, 1235\n\nardores nimios juvat haec confectio febris,\n\nsi superaddatur stomacho membrove calenti.\n\nAcri non scissum si jungis alumen aceto\n\net caules, sic ut corpus redigantur in unum,\n\ncuncta terendo diu potes his compescere lepras, 1240\n\net plures alias maculas his saepe perungens,\n\nhis etiam crines poteris retinere fluentes.\n\nDicitur et testes istud curare tumentes\n\net varios morbos, genitalia quos patiuntur,\n\net melius si praedictis faba cocta jugatur. 1245\n\nCum fenugraeco si tundas hunc et aceto,\n\net super arteticos apponas ista dolores,\n\nmultum subvenies illis, vitiisque podagrae\n\nnon modicum poterit istud cataplasma mederi.\n\nUncto cum veteri caulis cineres bene triti 1250\n\nprosunt ad veteres lateris coxaeque dolores,\n\nsit licet haec vilis, tamen est medicina salubris.\n\nSi caulis semen mixto potatur aceto\n\npellere saepe solet animalia noxia ventris.\n\nFit cinis ex siccis caulis radicibus ustis, 1255\n\nsubditus hic uvam relevat siccando jacentem.\n\nDentibus attriti succum glutire virentis\n\naffirmant raucae multum succurrere voci;\n\nnaribus infusus succus purgat caput ejus.\n\nQui prius est caules vix sentiet ebrietatem. 1260\n\nEvulsam caulis radicem, postea terram\n\nquae non attigerit, collo Melicius inquit\n\nsuspensam cunctos uvae depellere morbos.",
+      "ingredients": [
+        "I_acetum",
+        "I_coriandrum",
+        "I_faba",
+        "I_lac",
+        "I_oleum",
+        "I_ruta",
+        "I_sal",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 389,
+      "n_ingredients": 9
+    },
+    {
+      "name": "Pastinaca",
+      "text": "Est pastinacae virtus in semine tantum\n\net radice sua; mulsa si decoquis ejus 1265\n\nradices, multum decoctio proderit ejus,\n\nsi potanda datur, splenis jecorisque querelis,\n\nlumborumque levat eadem potata dolorem.\n\nHanc si lacte coquas, decoctio sumpta juvabit\n\nasthmaticos quamvis veteres ventresque fluentes. 1270\n\nRadix illius collo suspensa tumores,\n\nut quidam dicunt, compescit testiculorum;\n\nqui pastinacam fert aut qui mandidit illam,\n\ndicitur a nullo serpentum posse noceri.\n\nAccendit venerem si large sumitur illa. 1275\n\nSi circumscalpis dentes radicibus ejus,\n\ndicunt ingenti persaepe dolore levari,\n\nex vino pastinacae si sperma bibatur,\n\ncompescit diros, quos scorpius intulit, ictus.\n\nSic quoque feminei ventris curare tumorem 1280\n\ndicunt, quo mulier quasi praegnans esse videtur.\n\nAppositum cancris tritum cum melle medetur.\n\nQuod pastum tribuat est pastinaca vocata,\n\nnamque cibum nullae radices dant meliorem.",
+      "ingredients": [
+        "I_lac",
+        "I_mel",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 123,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Origanum",
+      "text": "Origani vires calidae siccaeque leguntur, 1285\n\ntertius huic in utroque gradus conceditur esse.\n\nIllius in vino curat decoctio sumpta\n\nquosvis pestiferos morsus, si saepe bibatur;\n\ncum mulsa sumptum prodest aconita bibenti,\n\nsic multis aliis dicunt obstare venenis. 1290\n\nConquassata juvat mansum vel saepius haustum,\n\nhydropicos reprimit bibitum siccatque tumores.\n\nCum mulsa bibitum choleram deponere nigram\n\ndicunt, oxifali fuerit si pondere sumptum.\n\nmenstrua reducet bibitum vel si superaddas 1295\n\ntritum, vel cocta mulier si se fovet herba.\n\nIllius pulvis tussim cum melle repellit;\n\npruritus, achoras maculasque cutis fugat omnes,\n\nin quo decoquitur si saepius amne laventur;\n\nin lavacro juvat ictericos haec coctio sumpta; 1300\n\nsuccus praedictae viridis si sumitur herbae,\n\nuvas et fauces curat siccando tumentes;\n\noris vulneribus medicabitur ore retentus;\n\nnaribus infusus irino mixtus olivo\n\ninvisum capiti coget manare cruorem; 1305\n\nauribus infusus sedat cum lacte dolorem;\n\nhic succus mixtus cepis et rhô syriaco\n\nponitur ad solem tunc quando Sirius ardet,\n\nsicque quaterdenis fervebit in aere diebus,\n\nsi supponatur lecto confectio talis, 1310\n\neffugat (ut dicunt) animalia cuncta nociva.\n\nHis quibus ex aliquo vitio digestio tarda\n\nevenit, ex vino prodest si sumitur albo;\n\ncum calida morsus stomachi lenire probatum est.\n\nIllius succos oleo mixtos et aceto 1315\n\nsuccida lana bibat, et sic superaddita membris\n\nluxatis et contusis multum juvat ilia.\n\nProvocat urinam, lumbricos projicit haustum,\n\ndente diu tritum solet inde fugare dolorem.\n\nOmnia potatus succus juvat interiora; 1320\n\nejus cum succo si carica trita bibatur,\n\nsudorem poris producere fertur apertis,\n\nappositus coxis succus cum polline farris\n\nharum saepe gravem pellit reprimitve dolorem.",
+      "ingredients": [
+        "I_acetum",
+        "I_lac",
+        "I_mel",
+        "I_oleum",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_calidus"
+      ],
+      "n_words": 244,
+      "n_ingredients": 6
+    },
+    {
+      "name": "Serpillum",
+      "text": "Serpillum veteres dixerunt, quod quasi serpat 1325\n\nterrae vicinum; huic fervida siccaque vis est.\n\nAcri cum vino coctum contundis ulivo,\n\ncui rosa dat nomen, hoc unguine perline frontem\n\naegroti, capitis solet hoc sedare dolorem.\n\nNidor combusti serpentes effugat omnes 1330\n\net quodvis animal infundens ore venenum;\n\nhoc ideo miscere cibis messoribus est mos,\n\nut si forte sopor fessos depresserit illos,\n\nvermibus a nocuis tuti requieseere possint;\n\npestiferos morsus bibitum juvat appositumque. 1335\n\nProvocat urinas, compescit tormina ventris,\n\nsplen juvat, admixto si saepe bibatur aceto;\n\nsi mel praedictis jungatur, sputa eruenta\n\njactantes mire potus solet ille juvare;\n\nHaustum cum vino jecoris sedare dolorem 1340\n\ndicitur, hicque solet producere menstrua potus.",
+      "ingredients": [
+        "I_acetum",
+        "I_mel",
+        "I_rosa",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 105,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Violae",
+      "text": "Nec roseus superare decor, nec lilia possunt\n\nfragrantes violas specie, nec vi, nec odore.\n\nDicitur humida vis illis et frigida primo\n\nesse gradu; species tres esse leguntur earum. 1345\n\nNoscere quas tantum diverso flore valemus:\n\nnam sunt purpurei flores albique nigrique,\n\ncunctis pene pares sunt in medicamine vires.\n\nInflammata juvant loca, tritas si superaddas;\n\ncrapula discutitur bibitis, capitisque gravedo 1350\n\nolfactu solo vel si caput inde coronas;\n\nanginis potae medicantur aqua resolutae.\n\nPurpuream violam dicunt curare caducos\n\npraecipue pueros, si mixto sumitur amne.\n\nRadices violae cum mirrha tunde crocoque, 1355\n\nhoc inflammatis oculis apponito nocte;\n\ncontritis foliis violae cum melle perungens\n\nulcera sanabis capitis; si jungis acetum\n\net cataplasma facis cedet collectio quaevis.\n\nIllius curat elixatura tumorem 1360\n\nmatricis, tepida si saepe fovebitur illa;\n\nani fissuras, quas appellant ragadias,\n\naddita cerotis medicatur saepe perunctas;\n\npustula si fuerit, melli superadde jugatam,\n\nillius semen cum vino menstrua purgat, 1365\n\ntritae commixto radices ejus aceto\n\nsplen siccant bibitae vel spleni si superaddas;\n\nhocque modo calidam dicunt sedare podagram.\n\nA stomacho choleram rubeam potata repellit\n\nherba virens violae vel flos siccusve recensve, 1370\n\nmorbos de cholera rubea vel sanguine factos,\n\nmollibus in costis aut in pulmonibus ipsis,\n\nsedat si mixto potabitur amne recenti;\n\ninfantum tussim sic et suspiria sedat.\n\nEx violis oleum sicut de flore rosarum 1375\n\nconficiunt, multis quod dicunt utile causis,\n\nauribus infusum sonitum fugat atque dolorem,\n\net capiti prodest, quocunque dolore laboret,\n\nleniter infrigidans corpusque sopore resolvens,\n\nlumbricos necat infusum bibitumve vel unctum, 1380\n\net capitis furfur oleo depellitur isto.\n\nOs capitis ictu fuerit si forte plicatum\n\nin tantum, ut linguae patiens amiserit usum,\n\nfac prius hanc violam cum vino sumere tritam,\n\npostea, si fuerit capitis pars dextera laesa, 1385\n\ncontritam plantae pedis hanc adnecte sinistri,\n\natque e converso facias si laeva plicata est:\n\nos resilit, linguaeque die redit usus eadem,\n\nut Justus tradit medicus, qui talia scripsit.\n\nAltera vis violae fertur mirabilis esse: 1390\n\nalbae si violae radix teneatur in ore\n\net transglutitus sit succus saepius ejus,\n\nvulneris immodicum tradunt mox sistere fluxum,\n\nhanc liquiritiae tradit vim Plinius esse.",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_mel",
+        "I_oleum",
+        "I_rosa",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_frigidus",
+        "Q_humidus"
+      ],
+      "n_words": 329,
+      "n_ingredients": 7
+    },
+    {
+      "name": "Aristolochia",
+      "text": "Aristolochiae species tres dicimus esse, 1395\n\nlonga prior, radix est cujus longa, vocatur.\n\nDicta rotunda sequens, quod sit radice rotunda,\n\ntertia clematis graeco sermone vocatur,\n\nviribus haec pene par dicitur esse rotundae.\n\nOmnes vim calidam siccamque leguntur habere, 1400\n\nin primo vis sicca gradu fervensque secundo.\n\nPestiferos morsus cum vino sumpta rotunda\n\ncurat et assumptis prodest sic hausta venenis,\n\nhocque modo tardas educit sumpta secundas,\n\ncum pipere et mirrha putredine mundat ab omni 1405\n\npost partum potata steras, vel subdita tantum,\n\nasthmaticis prodest et frigora sumpta repellit;\n\npleureticos curat mixto si sumitur amne.\n\nQuodlibet infixum superaddita trita repellit,\n\nvulnera cum mellis purgatque repletque liquore; 1410\n\nquod si praedictis irim conjungis at inde\n\nungas gingivas, dentes putredine purgat.\n\nSplenis duriciam solvit laterisque dolorem,\n\nsi mixta potatur aqua; febresque malignas\n\nhoc potata modo fertur compescere mire. 1415\n\nSic etiam spasmis super omnia subvenit hausta\n\net sedat diram sic saepius hausta podagram,\n\net morbum curare solet sic sumpta caducum,\n\net ventris nimium sic mitigat illa dolorem,\n\net sic fit sumpta levior paralyticus illa. 1420\n\nDaemonium fumus depellere dicitur ejus,\n\ninfantes fumo tradunt hoc exhilarari.\n\nFistula curatur hujus radicibus herbae,\n\nsi bene purgatis ejus loca concava farcis;\n\nsingultus sumpta sedari dicitur illa. 1425\n\nOmnia longa potest quae dixi posse rotundam,\n\nlonga tamen vires habet illa debiliores,\n\nunde quidem si defuerit quandoque rotunda\n\npar pondus longae ponatur dimidiumque;\n\nfomento longae prodest decoctio mire 1430\n\nmatricum morbis humores extenuando\n\npingues, et purgat eadem si sumitur illas.\n\nPlinius hanc formare mares cum carne bovina\n\nappositam vulvae postquam conceperit inquit.\n\nTrita necat pisces, admixta calce, rotunda, 1435\n\nhanc ideo quidam terrae dixere venenum.",
+      "ingredients": [
+        "I_aqua",
+        "I_aristolochia",
+        "I_mel",
+        "I_piper",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_siccus"
+      ],
+      "n_words": 256,
+      "n_ingredients": 5
+    },
+    {
+      "name": "Marrubium",
+      "text": "Marrubium nostri, dixerunt prassion Argi;\n\nhanc herbam medici calidam siccamque secundo\n\ntradunt esse gradu; decoctio totius berbae\n\nseminis aut ejus phthisicos mire juvat hausta, 1440\n\npectoris haec varios compescit potio morbos,\n\net melius prodest, illi si jungitur iris;\n\nasthmaticos sic sumpta juvat tussimque repellit.\n\nAccelerat partus eadem pellitque secundas;\n\nsi mel marrubio jungatur, vulnera purgat, 1445\n\nhocque modo curat, quae rodunt ulcera carnem;\n\ndicitur hoc bibitum lateris sedare dolorem.\n\nOmnibus his succus siccatus proderit ejus;\n\nIllius succus cum vino melleve mixtus\n\nprodest luminibus caligine debilitatis; 1450\n\nsic juvat ictericos injectus naribus idem,\n\nauriculaeque gravem dicunt curare dolorem,\n\nhunc mixtum roseo si fundas intus olivo.\n\nUsum marrubii dicunt non esse salubrem\n\nhis, qui vesicae morbo renumque laborant. 1455",
+      "ingredients": [
+        "I_mel",
+        "I_succus",
+        "I_vesica",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 113,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Iris",
+      "text": "Iri dat florum nomen color ipse suorum:\n\ncoelestis similes sunt nempe coloribus iris.\n\nIllyricam dicunt illam, quia plurima nasci\n\nfertur in Illyria. Vis ejus sicca calensque\n\ndicitur atque gradum dant huic in utroque secundum. 1460\n\nMajor vis hujus est in radicibus herbae,\n\nhas desiccandas, per frusta rotunda secatas,\n\nsic ut se partes non tangant insere filo,\n\ninque loco sicco fac suspendantur in umbra,\n\nvix aliter totum poteris servare per annum. 1465\n\nCum vino sedant tussim, praebentque soporem,\n\nsi latitans intus sanies praecordia laedit,\n\npellitur illarum cum vino pulvere sumpto;\n\ncum mulsa bibitus choleram depellit iniquam,\n\ntormina commixto bibitus sedabit aceto, 1470\n\nhocque modo sumptis dicunt prodesse venenis,\n\nspleneticis et contractis et frigore laesis\n\ncum vino bibitus pulvis medicabitur ejus,\n\nhocque modo sumptus tardantia menstrua purgat.\n\nDuricias stericas radicum coctio mollit, 1475\n\nsi subtus tepida foveantur saepius illa;\n\nhaec cum clysterio si sit subjecta per anum,\n\nnon modicum sciasis dicunt prodesse dolori;\n\nde radicibus his mixto collyria melle\n\nfiunt, quae vulvae pellunt subjecta secundas, 1480\n\ninque locis haec fixa cavis syringia curant.\n\nCommixtus melli desiccat vulnera pulvis,\n\ncarneque nuda replet, si sit superadditus, ossa.\n\nPulveris ellebori pars tertia jungitur albi\n\niris radicum tenui cum pulvere duplo, 1485\n\npulvis uterque simul commixto melle ligatur,\n\nhoc superappositum purgat lentigine vultum,\n\net papulas ejus istud cataplasma repellit.",
+      "ingredients": [
+        "I_acetum",
+        "I_mel",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_siccus"
+      ],
+      "n_words": 207,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Enula",
+      "text": "Enula, quam Graecus elnam vocat eleniumque\n\ndicitur a medicis, est forma cognita cunctis. 1490\n\nHumida vis ejus et fervida dicitur esse,\n\nhumor habere gradum primum, fervorque secundum\n\ndicitur. Illius decoctio menstrua purgat\n\nsi bibitur, movet urinam, depellit abortum,\n\ndicitur haec eadem stipatum solvere ventrem. 1495\n\nRadix trita fugat sciasim superaddita coxae;\n\nex ejus foliis cum vini nectare coctis\n\nmire nefreticis renes involvere prodest.\n\nEjus radicum pulvis cum melle voratus\n\ntussim compescit, orthopnoicisque medetur; 1500\n\ncum succo rutae succus si sumitur ejus,\n\naffirmant ruptis quod prosit potio talis.",
+      "ingredients": [
+        "I_mel",
+        "I_ruta",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_humidus"
+      ],
+      "n_words": 84,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Ysopum",
+      "text": "Est ysopum siccum calidum quoque, tertius illi\n\nest in utroque gradus. Ejus decoctio facta\n\nsic ut cocta simul sint mel, ficus quoque sicca, 1505\n\nprodest non modicum patientibus hausta catarrhum,\n\nsubvenit et voci raucae versata palato,\n\net prodest cunctis pulmonum sumpta querelis;\n\nlumbricos ventris eadem potata repellit.\n\nIn pectus capitis si destillatio fiat, 1510\n\nquod persaepe solet tussim phthisimque creare,\n\nprodest haec eadem decoctio sumpta frequenter;\n\nomnibus his prodest pulvis cum melle jugatus.\n\nContrito viridi si jungitur oxymel illi,\n\nsicque datur bibitum, stipatum molliet alvum, 1515\n\ncum vento nocuo viscosum flegma repellens;\n\ncardama si jungas his, solves fortius alvum.\n\nPotio si viridis vel sicci saepe bibatur,\n\nvultibus eximium fertur praestare colorem;\n\ncum nitro et ficu sicca si conteris ipsum, 1520\n\net superapponis spleni cataplasma tumenti\n\nhydropicisve, solet siccando repellere morbum;\n\ncum vino bibitum praecordia tensa relaxat,\n\net quicunque nocet tumor interiora recedet.\n\nIn quo decoquitur si dens foveatur aceto, 1525\n\nfertur ab immodico cito saepe dolore levari.\n\nAccensi fumo sonitos compescitur auris.\n\nElixum appositum livores limpidat omnes,\n\nsic juvat ictericos injectum naribus idem.\n\nAuriculae dicunt gravem curare dolorem, 1530\n\nhoc mixtum roseo si fundis intus olivo.",
+      "ingredients": [
+        "I_acetum",
+        "I_mel",
+        "I_nitrum",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_calidus",
+        "Q_siccus"
+      ],
+      "n_words": 180,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Asarum",
+      "text": "Est asarum graece dictum, vulgago latine.\n\nHaec calidae et siccae virtutis dicitur esse,\n\ntertius est illi gradus, ut dicunt, in utroque.\n\nProvocat urinam, potataque menstrua purgat, 1535\n\nhocque modo jecoris medicatur sumpta dolori,\n\nhydropicosque juvat, sciasim fugat hausta frequenter,\n\net vulvae morbis decoctio subvenit ejus.\n\nDicitur ictericum potata repellere morbum,\n\nelleborique modo vomitu praecordia purgat, 1540\n\nsed non est hujus purgatio tam violenta,\n\nnec metuenda quidem, si fiat taliter illa:\n\naetatem et vires ejus circumspice primum,\n\nquem purgare voles, et tempus quale sit anni,\n\net si sit regio fervens vel frigida valde, 1545\n\naut si temperiem mediam tenet inter utrumque;\n\nnam senibus puerisque parum donare licebit,\n\naetatis mediae plus his juvenesque requirunt,\n\npinguibus et validis plus dandum quam macilentis\n\ndebilibusque viris, magis in gelida regione 1550\n\ndandum quam calida, duris quocunque labore\n\nplus illis tribues, quos reddunt otia molles.\n\nHaec circumspiciens et caetera talia tractans\n\nnon solum tutus dabis hanc, sed quaslibet herbas\n\nquae purgant vomitu stomachum, ventremve resolvunt. 1555\n\nSed quia de cunctis dixi communiter herbis,\n\nquo sit danda modo proprie vulgago docebo:\n\nde foliis ejus triginta recentia tollens,\n\nadde meri tantum quo possint cuncta recondi,\n\ntota nocte mero facias macerentur in illo, 1560\n\nmane terens vino, quo sunt macerata, resolve;\n\ntunc olus excoctum cum pingui carne recenti\n\nporcina prius aegroto da sufficienter,\n\net sumat vini quantum vult fortis et albi,\n\nsic asari succum colatum trade bibendum. 1565\n\nFortibus et magnis est hic numerus foliorum\n\nsufficiens, reliquis (ut diximus) est minuendus,\n\njuxta quod vires, aetas et tempora poscunt.",
+      "ingredients": [
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_calidus",
+        "Q_frigidus"
+      ],
+      "n_words": 242,
+      "n_ingredients": 2
+    },
+    {
+      "name": "Mentha",
+      "text": "Vim calidam siccamque gradu fert mentha secundo.\n\nIIlius potu vis digestiva juvatur, 1510\n\nconfortat stomachum, vomitum quoque detinet hausta,\n\nlumbricosque modo depellere fertur eodem.\n\nDiversis morbis occurrit testiculorum,\n\nsi foveantur aqua, qua menthae cocta sit herba;\n\nconcretum solvit lac mammis addita trita, 1515\n\ninstillata fugat auris cum melle dolorem,\n\nasperitas linguae fugit illa saepe fricatae,\n\nhaustaque cum sapa partum solet accelerare,\n\ntrita canis morsum superaddita cum sale curat.\n\nHaec haemoptoicis mixto succurrit aceto; 1580\n\nmatrici succus si subditur illius, ante\n\nquam fiat coitus, mulier non concipit inde.\n\nCaseolos succus putrescere non sinit ejus\n\nadmixtus vel si viridis superadditur herba.",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_lac",
+        "I_mel",
+        "I_mentha",
+        "I_sal",
+        "I_succus"
+      ],
+      "qualities": [],
+      "n_words": 96,
+      "n_ingredients": 7
+    },
+    {
+      "name": "Cyperus",
+      "text": "Vim Cypero medici calidam siccamque secundo 1585\n\ndicunt esse gradu. Potu depellitur ejus\n\ncalculus, urinae purgat laxatque meatus.\n\nDicit Apollodorus, quod pellere possit abortum,\n\nsi mulier foveatur aqua, qua coxerit illum;\n\nasserit hic idem consumere posse lienem 1590\n\nillius fumus, si saepius ore trahatur;\n\nsi se sanus homo fumo subfumiget illo,\n\ndicit eum fieri firmum magis et leviorem.\n\nSubvenit alarum vitiis admixtus olivo\n\nsuccus, sic vitium fugat intertriginis unctum, 1595\n\nhumores nimios desiccat saepius haustum.\n\nIllius solus pulvis cum melle jugatus\n\nulcera mirifice vel vulnera putrida purgat,\n\npraecipue pulvis hic ulceribus valet oris.\n\nSi bibitur stomachum confortat debilitatum, 1600\n\nhydropicis multum succurrit saepius haustum,\n\natque per urinas humores purgat aquosos.\n\nContrito validum cypero si jungis acetum\n\nulcera, quae serpunt, cohibes medicamine tali.",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_mel",
+        "I_succus"
+      ],
+      "qualities": [],
+      "n_words": 118,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Paeonia",
+      "text": "Paeoniam medici calidam siccamque fatentur, 1605\n\nhancque tenere gradum dicunt in utroque secundum.\n\nSplen, jecur et renes cum mulsa sumpta juvabit,\n\nsi jungatur ei violenter amygdala trita,\n\nmenstrua sic purgat et fluxum detinet alvi.\n\nIllius in vino decoctio saepius hausta 1610\n\nvesicae duros sedat sic sumpta dolores,\n\net scotosim sic illa juvat stomachique dolorem,\n\nnefreticos eadem multum juvat, ictericosque.\n\nCalculus infantum potu depellitur ejus;\n\npressuras, inferre solent quae somnia nocte, 1615\n\npaeoniae semen, bibitur si saepius, arcet.\n\nIllius radix pueris suspensa caducis\n\nnon modicum prodest, Galienus ut asserit auctor;\n\nquendam se puerum narrat vidisse caducum,\n\naetas cujus erat annorum circiter octo, 1620\n\npaeoniae puer hic radicem ferre solebat\n\nappensam collo; quadam vice decidit illa,\n\nmoxque puer cecidit, solito qua more ligata\n\nprotinus evasit; Galienus vera probare\n\nrem plene cupiens radicem denuo dempsit 1625\n\nde collo pueri, cecidit, viguitque resumpta;\n\ncognita vis herbae fuit hujus sic manifeste.\n\nIpse Dioscorides cunctis ait esse caducis\n\naptam, si bibitur vel si suspenditur illa.\n\nSeminis illius ter quinque rubentia grana 1630\n\ncum vino fluxum matricis sumpta coercent;\n\nnigra solent varios matricum pellere morbos,\n\nsi totidem dantur cum vino nocte bibenda.\n\nHujus sunt geminae species, mas dicitur una,\n\naltera, quae minor est, species est femina dicta: 1635\n\nradix majoris est palmis longa duabus\n\ngrossaque ceu digitus; radix divisa minoris\n\ndicitur in plures radices, haec bene purgat\n\npost partum potata steras vino sociata,\n\nin cunctis reliquis similis vis dicitur illis. 1640",
+      "ingredients": [
+        "I_vesica",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 226,
+      "n_ingredients": 2
+    },
+    {
+      "name": "Barrocus",
+      "text": "Herbam, quam Graeci dixerunt mellisophyllon,\n\nbarrocum nostri dicunt vulgariter; ilia\n\nprae cunctis apibus gratissima dicitur herbis.\n\nNec gaudere magis ullius flore videntur;\n\ncontritis foliis apium si vasa perungas, 1645\n\nnon fugient, meliusque facis, si lac sibi jungas,\n\nunguine cultores retinent examina tali;\n\nauxilium praesens apium fert ictibus ilia,\n\nictus detrita tegitur si protinus herba,\n\nhocque modo, quos vespa nocet vel aranea, curat. 1650\n\nTrita solet veteres compescere cum sale strumas,\n\nhocque modo vitiis dicunt succurrere sedis,\n\nfemina purgatur decocto cum sale succo,\n\ntali discutitur inflatio noxia potu;\n\nejus si viridis decoctio saepe bibatur, 1655\n\nantiquos dysentericos juvat et ciliacos,\n\nasthmaticis eadem prodest orthopnoicisque,\n\nulcera depurgat, morbos levat articulorum.\n\nHerba canis morsus superaddita cum sale curat\n\nejus fomento; decoctio menstrua purgat, 1660\n\nore retenta solet dentis sedare dolorem,\n\nlumina purgari caligine Plinius inquit,\n\nejus si succo fuerint cum melle peruncta.",
+      "ingredients": [
+        "I_lac",
+        "I_mel",
+        "I_sal",
+        "I_succus"
+      ],
+      "qualities": [],
+      "n_words": 135,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Senecion",
+      "text": "Erigeron Graeci, nos senecion vocitamus,\n\nquod canis similis videatur flore capillis; 1665\n\nnascitur in muris et in hortis et tegulatis.\n\nIllius herbae vis frigida dicitur esse,\n\nin medicinali radix non ponitur usu.\n\nFlores cum foliis tundens infundito vini\n\npermodicum dulcis, et sic tepefacta tumori 1670\n\nhaec simul apponas ani vel testiculorum;\n\naddito thus istis, nervos et vulnera quaevis\n\ncurabis facile posito cataplasmate tali.\n\nHaec eadem triti facient ejus capitelli.\n\nPotari prohibent, quia suffocare bibentem 1675\n\nquidam confirmant, at contra Plinius auctor\n\nictericis quosdam poturo donasse salubrem\n\ncum vino dicit, talique modo medicari\n\nmorbis vesicae, plures ait ille probasse,\n\net cordis vitiis illam jecorisque dedisse, 1680\n\ntorminibus quoque cum passo, juvisseque potu\n\nhoc varios morbos, praecordia quos patiuntur;\n\net viridis facit hoc si tincta voretur aceto,\n\ntrita solet duras haec cum sale spargere strumas;\n\nhanc circumscriptam si quis fodiat sine ferro 1685\n\net tangat dentem vicibus tribus inde dolentem,\n\nunaquaque spuens vice, postque reponat eodem,\n\nquo fuit orta, loco, sic rursum vivat ut herba,\n\nPlinius ut dicit, non amplius ille dolebit.",
+      "ingredients": [
+        "I_acetum",
+        "I_sal",
+        "I_thus",
+        "I_vesica",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_frigidus"
+      ],
+      "n_words": 165,
+      "n_ingredients": 5
+    },
+    {
+      "name": "Chelidonia",
+      "text": "Esse chelidoniae species geminae referuntur 1690\n\na medicis; species est major prima vocata,\n\naltera vero minor; oculis medicator utraque,\n\ncoecatis pullis hac lumina mater hirundo,\n\nPlinius ut scribit, quamvis sint eruta, reddit;\n\nhanc nasci dicit avibus venientibus illis 1695\n\net desiccari, solito dum more recedunt,\n\nindeque nomen habet chelidonia, namque chelidon\n\ndicitur haec volucris Graecorum more vocari.\n\nFlorentis succus cum melle coquatur in aere\n\nigne levi, spumam donec projecerit omnem 1700\n\net quasi crassitiem mellis decoctio sumat;\n\nutilius nullum dicunt oculis medicamen,\n\nquos caligo nocet, si sint hoc saepe peruncti.\n\nConteritur juncto sibi radix ejus anetho\n\net sic ictericis cum vino sumitur albo; 1705\n\ndentis, ut affirmant, prohibet contrita dolorem.\n\nDe foliis ejus contusis si cataplasma\n\ncum vino fiat, maculas abstergere dicunt.",
+      "ingredients": [
+        "I_anethum",
+        "I_mel",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 118,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Centaurea",
+      "text": "Sunt centaureae species, maiorque minorque,\n\nut suprascriptis dixi de pluribus herbis, 1710\n\nsed quia perpaucis species est cognita major,\n\nhanc praetermittens vires narrabo minoris,\n\nquam notam cunctis credo vulgaribus ipsis.\n\nDesiccativae virtutis dicitur esse,\n\nnon modicum plagas conglutinat inde recentes, 1715\n\ninque cicatricem veteres superaddita ducit;\n\nilli, qui sciasim patitur, decoctio mire\n\nprodest, illius si sit subiecta per anum,\n\nsanguine detracto sedat mox illa dolorem,\n\nfomento nervis eadem medicabitur aegris. 1720\n\nIllius succus deducit menstrua sumptus,\n\npellit abortivum; medicamina cuncta maligna\n\ncum vino sumptum dicunt purgare per alvum;\n\nmelle sibi juncto caligine lumina purgat.\n\nIllius exprimitur autumni tempore succus, 1725\n\nquem desiccatum ferventi sole reponunt,\n\nad rerum curam, quas diximus ante, salubrem.",
+      "ingredients": [
+        "I_mel",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 108,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Colubrina",
+      "text": "Herba, dragonteam Graecorum quam vocat usus,\n\nhaec eadem vulgi lingua colubrina vocatur,\n\nquod colubro similis maculoso cortice surgit, 1730\n\nex quibus antiquis expertum credimus esse,\n\nquod queat a simili colubrina venena fugare.\n\nQuisquis se trita radice perunxerit ejus,\n\ntutus ab incursu serpentum dicitur esse;\n\nmorsibus illarum cum vino sumpta medetur. 1735\n\nSi jungas oleum cum succo seminis ejus\n\nauribus infundens poteris sedare dolorem;\n\nhoc succo lanam madidam si naribus addas,\n\ncompesces morbum, qui polypus est vocitatus;\n\nsic etiam cancris magnum solet esse juvamen. 1740\n\nSucco radicis ejus caligo fugatur\n\net varii morbi, quos lumina perpetiuntur,\n\nex ipso puro si sint lita melleve mixto;\n\net prodest oculis radix si manditur assa;\n\ncum pusca granis ter denis seminis haustis 1745\n\nlumina munda ferunt pulsa caligine reddi.\n\nSi marcescentis illius floris odorem\n\nnare trahat praegnans, deponere fertur abortum.\n\nVel si sit radix matrici subdita trita.\n\nPulvis radicis ejus cum melle jugatus 1150\n\ntussim compescit sumptus, sedatque catarrhum\n\net confert haemoptoicis; hoc saepe juvamen\n\npectoris humores exhaurit non redituros;\n\nomnibus his prodest radix si sumitur assa,\n\nistud idem faciet ejus decoctio sumpta. 1755\n\nejus cum vino radix venerem movet hausta.\n\nProvocat urinas, fagedaenica vulnera purgat,\n\nsi sit ei tritae cum melle bryonia juncta;\n\nvulneris haec mundat sordes, syringia curat,\n\nsola sibi juncto maculas depellit aceto. 1760\n\nEsse pedum vitium dicunt, cui pernio nomen\n\nest a pernicie membri patientis id ipsum,\n\nplebs dicit mulam, solet hoc de frigore nasci,\n\namne dragonteae radices decoque tali,\n\npernio deletur, si saepius amne fovetur. 1765",
+      "ingredients": [
+        "I_acetum",
+        "I_mel",
+        "I_oleum",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 238,
+      "n_ingredients": 5
+    },
+    {
+      "name": "Gaisdo",
+      "text": "Isatis a Graecis est vulgo gaisdo vocata,\n\nnon modicum quaestum praebens tinctoribus herba.\n\nDe foliis ejus tritis factum cataplasma,\n\nvulnera (magna licet) conglutinat atque cruorem\n\nillorum sistit, reprimit quoscunque tumores, 1770\n\nsi cum melle teris hanc, sordida vulnera purgat;\n\nemundat maculas et sacro subvenit igni,\n\novi si jungens albumen eam superaddas.",
+      "ingredients": [
+        "I_mel",
+        "I_ovum"
+      ],
+      "qualities": [],
+      "n_words": 50,
+      "n_ingredients": 2
+    },
+    {
+      "name": "Elleborus",
+      "text": "Elleborum geminas species testantur habere,\n\nalbum, quod sursum purgat, nigrumque deorsum; 1775\n\nvim siccam calidamque tenent et tertius illis\n\nest in utroque gradus, nigro violentius album\n\ndicitur, unde prius dicam de viribus ejus.\n\nSuppositum quocunque modo depellit abortum,\n\nnaribus attractus sternutamenta movebit 1780\n\nillius pulvis capitis pellentia morbos;\n\nmiscetur confecturis, quae lumina purgant,\n\net multum prodesse ferunt vitiis oculorum,\n\npultibus admixtus mures pulvis necat ejus\n\net cum lacte datus est muscis perniciosus. 1785\n\nDicunt per vomitum varios educere sumptum\n\nhumores, veteresque ferunt sic pellere morbos,\n\npurgatur tali vomitu vertigo vetusta,\n\ninsanis, melancholicis valet atque caducis,\n\nsaepeque curatur sumpto lymphaticus isto. 1790\n\nHydropicis in principio mire medicatur,\n\nEmundat lepram, tetanum fugat atque podagram,\n\nconfirmat tremulos, redeuntia tormina curat,\n\ndiversis vitiis stomachi sciasiquet~medetur\n\net tussi veteri, febribus super omnia prodest 1795\n\nquartanis, annis jam pluribus inveteratis.\n\nIngenti cura sumpturum Plinius ipsum\n\nadmonet, ut septem se praeparet ante diebus,\n\nhumectisque cibis corpus bene temperet omne,\n\nnec sero coenet, qui debet sumere mane, 1800\n\net quando sumet, jubet explorare serenam\n\net calidam claramque diem, ventisque carentem;\n\nobservare quidem curam si spreverit istam,\n\npassurum nimios affirmat eum cruciatus,\n\nelleborumque jubet in pultibus antea coctum 1805\n\naut in lente dari, sic dicit non nociturum;\n\nhocque dari prohibet senibus puerisque tenellis,\n\nmollibus et timidis ,animique viris muliebris,\n\net macris nimium dicit non accipiendum:\n\nin succo ptisanae vel mulsa paneve coctum 1810\n\nsumere praecipiunt alii, sic utile dicunt.\n\nPhilo composito fertur scripsisse libello,\n\nqualiter elleborum sit nobis accipiendum,\n\ninque suis Ipocras aphorismis istius herbae\n\nsolius meminit, quam noverat utiliorem. 1815\n\nPlures scripserunt hujus de viribus herbae,\n\net quo sit sumenda modo docuere quibusque;\n\nnon tamen inveni, perplura volumina volvens,\n\nullum, qui certum pondus donare juberet\n\nillius; dixisse satis se, credo, putabant, 1820\n\ncum juxta vires, aetates, tempora dandum\n\njussissent, mihi vere satis non esse videtur\n\ntutum, rem ,subitum quae confert saepe periclum,\n\ncommendare dari cuiquam sine pondere certo.\n\nPlinius ut scribit, Themison donare solebat 1825\n\nellebori dragmas geminas, tribuisse sequentes\n\nbis binas etiam confirmat non tamen ipse,\n\npondere quo jubeat sumi, statuisse videtur;\n\ncum tamen ellebori nigri jubeat dare dragmam,\n\nquatuor aut scripulos, mihi significare videtur, 1830\n\nalbi dimidium pondus tantummodo dandum,\n\nquo longe nigro violentiusesse fatetur.",
+      "ingredients": [
+        "I_lac",
+        "I_lens",
+        "I_succus"
+      ],
+      "qualities": [],
+      "n_words": 348,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Elleborus",
+      "text": "Elleborum nigrum non est adeo violentum,\n\nnec formidandum quantum quod diximus album;\n\nhoc quoque praecipiunt veteres in lente coquendum, 1835\n\naut in juscellis; sit insanis medicari\n\nassumptum dicunt et sic prodesse podagrae.\n\nHydropicis mota febre dicitur auxiliari,\n\nmiram sentit opem sumpto paralyticus illo,\n\net varios bibitum morbos levat articulorum, 1840\n\neducit choleras varias et flegma per alvum,\n\nelixaturae potu caligo fugatur;\n\nduricias suppuratas factum cataplasma\n\nconcoquit et purgat; vacuat syringia callo\n\ninfixus modicus radicis surculus ejus, 1845\n\npostque dies geminos sit surculus ille remotus.\n\nHordea, quam dederint, contrito junge farinam,\n\nhydropicus tumor appositis siccabitur istis;\n\nmenstrua suppositum purgat, depellit abortum,\n\nauditum reddit, si surdis auribus illud 1850\n\nimponas et post biduum triduumve repellas.\n\nAppositum tollit maculas ejus cataplasma,\n\nemundat lepras, scabies quascunque repellit.\n\nOre diu tentum, quo coxeris illud, acetum\n\ndentis non modicum dicunt sedare dolorem. 1855\n\nEllebori nigri praecepit Plinius unam\n\ndonari dragmam, leviter sic promovet alvum,\n\nplusquam bis binos obolos vetat accipiendum.",
+      "ingredients": [
+        "I_acetum",
+        "I_lens"
+      ],
+      "qualities": [],
+      "n_words": 149,
+      "n_ingredients": 2
+    },
+    {
+      "name": "Verbena",
+      "text": "Verbenam ierobotanum peristereonque\n\nappellant Graeci; species haec fertur habere 1860\n\nbinas, effectus est idem pene duabus.\n\nCum vino juvat ictericos, si saepe bibatur;\n\npestiferos morsus curat superaddita trita\n\ncum vino (renovanda quidem per quatuor ista\n\nest medicina dies); oris bene vulnera purgat 1865\n\nillius succus tepidus si volvitur ore,\n\nhoc quoque facta recens herbae decoctio praestat,\n\nhac etiam quaevis putredo repellitur oris,\n\nsi tepefacta diu volvatur fauce sonora.\n\nGlutinat herba recens vulnus superaddita trita, 1870\n\noccurrit cunctis cum vino sumpta venenis.\n\nQuae furit alternis febris accedendo diebus\n\npellitur hac, tribus assumptis radicibus ejus\n\ncum totidem foliis potetur aqua resoluta\n\nista prius,·patiens quam frigus sentiat ullum; 1875\n\nhocque modo febribus quartanis illa medetur,\n\nbis binis foliis cum tot radicibus haustis.\n\nIllius in vino si sit decoctio facta,\n\nconvivas hilares inter convivia sparsa\n\nreddere narratur, ut jam praescripta buglossa. 1880\n\nHanc herbam gestando manu si quaeris ab aegro:\n\ndic, frater, quid agis ? Bene si responderit aeger,\n\nvivet, si vero male, spes est nulla salutis.\n\nEx hac compositam quidam jussere coronam\n\napponi capiti causa quacunque dolenti, 1885\n\nsic dicunt illam celerem conferre medelam.\n\nPlinius affirmat, hanc omnibus esse salutem\n\nvisceribus, latetris morbis, jecorisque querelis,\n\npectoris et vitiis , et praecipue medicari\n\npulmonum causis hanc asserit ille pthisique. 1890\n\nParotidas reprimit adipi commixta vetusto.\n\nHerbam cui nomen foliis de mille dedere\n\nbetonicamque pari verbenae pondere junge,\n\nhaec mixta potentur aqua, nullum medicamen\n\nutilius credunt illis, quos calculus angit. 1895\n\nNon modicum laudare Magos hanc asserit herbam\n\nPlinius, hanc cunctis dicunt obsistere morbis,\n\net quod quisque petet hac impetrare perunctum;\n\nsic et amicitias captari posse potentum\n\net pelli febres et plurima talia fungunt, 1900\n\nquae, quamvis natura potens concedere posset,\n\nvana tamen nobis et anilia jure videntur.",
+      "ingredients": [
+        "I_aqua",
+        "I_succus",
+        "I_verbena",
+        "I_vinum",
+        "P_adeps"
+      ],
+      "qualities": [],
+      "n_words": 273,
+      "n_ingredients": 5
+    },
+    {
+      "name": "Chamaedrys",
+      "text": "Chamaedryos graece, quae gamandrea latine\n\ndicitur; hanc herbam calidam siccamque fatentur,\n\ntertius est in utroque gradus. Depelit abortum 1905\n\nsi mixta potetur aqua, tussique medetur,\n\nconquassata juvat; si mixta bibatur aceto,\n\nsplen siccat; purgat cum vino menstrua sumpta;\n\nhydropicis in principio sic sumpta medetur,\n\nsic quoque pestiferis occurit morsibus illa. 1910\n\nCunctis praedictis prodest superaddita trita;\n\nsordens purgabit vulnus, licet inveteratum,\n\nsi cum melle teras et tritam desuper addas.\n\nChamaedryos oculi succo cum melle peruncti\n\ndicuntur clari dempta caligine reddi; 1915\n\nsi tritam misces oleo corpusque perungas,\n\npellet frigorem, revocabit et ipsa calorem.",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_mel",
+        "I_oleum",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 90,
+      "n_ingredients": 6
+    },
+    {
+      "name": "Maurella",
+      "text": "Herbam quae Graeci strignum dixere,Latini\n\nmaurellam, dicunt vis ejus frigida valde est.\n\nDicitur auriculae mire sedare dolorem 1920\n\nillius succusn si sensim funditur intus;\n\negilopis strigni dicunt cataplasma mederi,\n\nistud idem dicunt capitis prodesse dolori;\n\nuna cum strigno, si sal panisque terantur,\n\nparotidas reprimit cataplasmatis addita more; 1925\n\nstrigni prurigo depellitur·illita succo;\n\nsuccus suppositus fluxum stringit muliebrem.\n\nContritis ejus foliis conjuge polentam,\n\nhis superappositis sacer ignis et herpeta mordax\n\ndicitur expelli; si vero junxeris istis 1930\n\nargenti spumam, cerussam, oleumque rosatum,\n\nfortius et melius praedictum fit medicamen.",
+      "ingredients": [
+        "I_sal",
+        "I_succus"
+      ],
+      "qualities": [
+        "Q_frigidus"
+      ],
+      "n_words": 86,
+      "n_ingredients": 2
+    },
+    {
+      "name": "Jusquiamus",
+      "text": "Jusquiamum Graeci quam nostri caniculatam\n\ndicunt, huic herbae virtus est frigida valde.\n\nTres habet haec species , semen profert prior album, 1935\n\naltera subrufum, producit tertia nigrum;\n\nnobilior reliquis est semen quae gerit album,\n\npro quo si desit mos est apponere rufum,\n\nnigrum vero frequens medicorum respuit usus.\n\nJusquiami foliis contritis adde polentam, 1940\n\nhaec adhibendo potes quosvis curare tumores,\n\nsic mire calidam potes infrigidare podagram,\n\nauribus infusus vermes succus necat ejus,\n\nillarumque .solet varios lenire dolores.\n\nOre diu tepidum si contineatur·acetum, 1945\n\nquo sint decoctae radices illius herbae,\n\ndicitur immodicum dentis placare dolorem.\n\nExpressus succus contriti seminis ejus\n\nviscosum calidumque potest compescere rheuma,\n\nsi fuerint oculi patientis saepe peruncti. 1950\n\nSeminis illius obolus cum semine mixtus\n\nmiconis pariter cum mulsa sumitur illis\n\nutiliter, fluxum matricis quae patiuntur,\n\net dicunt haemoptoicis sic posse mederi,\n\nvel quocunque modo sanguis jactetur ob ore, 1955\n\ndicitur hic potus medicari saepius haustus.\n\nCum vino tritum semen cataplasmaque factum\n\nmammas et testes dicunt curare tumentes;\n\nemplastris multis apponitur antidotisque.\n\nInfert sicut olus haec herba comesta maniam, 1960\n\npraestat idem succus in quovis vulnere fusus.",
+      "ingredients": [
+        "I_acetum",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_frigidus"
+      ],
+      "n_words": 173,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Malva",
+      "text": "Dixerunt malvam veteres quod molliat alvum,\n\nesse cacostomacham Sextus Niger asserit illam\n\natque Dioscorides, tamen interioribus ambo\n\nsumptam sicut olus multum prodesse fatentur, 1965\n\net sic vesicae dicunt illam medicari,\n\nsicque venenosis occurrere potibus illam.\n\nHi quoque confirmant, malvae foliis salicisque\n\nex aequo tritis citius meliusque cruentum\n\nsanari vulnus, emplastris quam pretiosis. 1970\n\nAddunt auctores ipsi, quod malva potenter\n\nconquassata juvet adipi commixta vetusto,\n\nunius caulis radix admota dolori\n\ndentis sedat eum; venerem stimulare refertur\n\nhaec eadem, femori si lino adnexa geratur. 1975\n\nIn lana nigra tectam si gesserit illam\n\nfemina, mammarum dicunt occurrere morbis;\n\nscripsit abortivam Thebana Olympias illam,\n\nsi resolutus adeps miscebitur anseris illi\n\net sic subdatur, veluti pessaria, vulvae. 1980\n\nContritis foliis illius cum sale pauco\n\negilopas pelles, succoque medeberis ejus\n\npuncturis apium; cui si conjungis olivum,\n\ncorpus et inde linas, apium te nulla nocebit.\n\nDecoctam lotio capiti superaddito malvam, 1985\n\nsic turpes achoras pelles furfurque nocivum;\n\ndecoctis ejus foliis si jungis olivum,\n\nextingues ignem sacrum cataplasmate tali.\n\nEt combusturis illo bene subvenis ignis.\n\nDuricias stericas ejus decoctio mollit; 1990\n\nintestinorum causis matricis et ani\n\nhaec eadem mire prodest, si subditur illis.",
+      "ingredients": [
+        "I_linum",
+        "I_sal",
+        "I_vesica",
+        "P_adeps"
+      ],
+      "qualities": [],
+      "n_words": 179,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Paratella",
+      "text": "Herba solet lapathi volgo paratella vocari,\n\nillius species dicuntur quatuor esse,\n\npar tamem est ferme vis omnibus in medicina, 1995\n\nomnibus est illis fervens austeraque virtus,\n\nunde quidem stomachum confortat sumpta, soletque\n\nin stomacho clausum per ructus pellere ventum,\n\nsumptaque sicut olus fertur restringere ventrem.\n\nPruritus mordax scabiesque cutis laceratrix 2000\n\nillius tepido cedunt apozimate fota;\n\nin vino coctae radices et bene tritae\n\nappositae scrophas compescunt parotidasque.\n\nEjus saepe tepens si coctio gargarizetur\n\nuvas sedabit tumidas dentisque dolorem. 2005\n\nHaec dysentericos potu juvat et ciliacos,\n\npellitur hac tepida dolor auris si foveatur.\n\nDecoctas valido radices ejus aceto\n\net tritas spleni superaddito saepe tumenti,\n\nquamvis non modicum reprimet siccando tumorem. 2010\n\nCum vino vel aqua radicum coctio facta\n\nmenstrua restringit potu, lapidesque repellit;\n\nhaec eadem juvat ictericos, suspensaque collo\n\nillius radix scrophas nasci prohibebit.",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 129,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Lolium",
+      "text": "Frumentis nocuam lolium Graecus vocat herbam, 2015\n\nquam nostri dicunt vulgari more nigellam.\n\nCancros emundat, pascentia vulnera curat,\n\ncum raphano modicoque salis superaddita trita;\n\nzernas et lepras cura compescis eadem.\n\nSulphure cum vivo purgamentisque columbae 2020\n\nadmisce lolium, semen quod lilia praebent\n\nhis jungas, haec cocta mero superaddito scrophis,\n\nsic scrophas spargit, sic apostemata rumpit;\n\nduriciasque alias emolliet hoc cataplasma.\n\nMulsa decoctum commixto thure crocoque 2025\n\napponas coxae, sciasis quam vexat iniqua.\n\nParturiens mulier si se subfumiget illa,\n\nasseritur citius ventris deponere pondus.",
+      "ingredients": [
+        "I_sal",
+        "I_sulphur",
+        "I_thus"
+      ],
+      "qualities": [],
+      "n_words": 80,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Cicuta",
+      "text": "Frigida letiferae vis est natura cicutae,\n\nunde necat gelidi potantes more veneni; 2030\n\nqui perit hac herba cutis ejus fit maculosa,\n\nunde genus mortis valet haec per signa probari;\n\npublica poena reis haec esse solebat Athenis,\n\nhac sumpta magnus Socrates fuit exanimatus;\n\nqualiter hoc fiat non aestimo dicere nostrum, 2035\n\ncum nil quod noceat, sed quod juvat est referendum.\n\nHac sumpta si quis morti sit proximus herba\n\nforte merum tepidum bibat evadetque periclum.\n\nSed quamvis potu solet haec assumpta nocere,\n\nmagnifice tamen appositu solet illa juvare; 2040\n\naestivas mire juvat epiphoras oculorum,\n\nsi frons contritis foliis sit operta virentis,\n\nvel si sint ejus circumlita lumina succo;\n\nhac quoque pellentur sacer ignis et herpeta cura.\n\nTradit Anaxilaus, si succo saepius ejus 2045\n\nvirgo linat mammas, sibi cum turgescere primum\n\nincipient, modicas semper stantesque manere;\n\nlac contrita virens mammis superaddita siccat;\n\nextinguit venerem, fluxum quoque seminis omnem\n\nsi pecten trita cataplasmes saepius illa. 2050\n\nArgenti spumae commiscens hanc adipique\n\napponas calidae cataplasma salubre podagrae\n\net per se tali multum prodesse probavi;\n\nsingula cur memorem, nocuum quemcunque calorem\n\napposita trita poteris curare cicuta. 2055",
+      "ingredients": [
+        "I_lac",
+        "I_succus"
+      ],
+      "qualities": [
+        "Q_frigidus"
+      ],
+      "n_words": 175,
+      "n_ingredients": 2
+    },
+    {
+      "name": "Piper",
+      "text": "Carmine jam dictis aliquot vulgaribus herbis\n\nnunc species illas, quas cunctis jam prope notas\n\nusus vendendi fecit, tentabo referre,\n\natque prius piperis (quod notius ipsa coquina\n\nquam medicina facit) vires puto discutiendas. 2060\n\nVirtutis siccae piper asseritur calidaeque,\n\ntertius esse gradus conceditur huic in utroque.\n\nTres sunt huic species: album, longumque nigrumque,\n\nsed quia sunt geminae medicis tantummodo notae,\n\nde specie nigra dicam quaedam mihi nota. 2065\n\nCrudum vel coctum sumptum, vel melle jugatum,\n\nvim digestivam stomachi jecorisque juvabit.\n\nMorsus pestiferos curat, fastidia tollit,\n\noccurrit variis thoracis saepe querelis,\n\nquodque movere solet frigus periodica febris 2070\n\ncompescit, febris si sumitur ante tremorem.\n\nCum lauri baccis vel cum foliis bene tritis,\n\ncumque mero tepido potatum tormina sedat,\n\net scrophas reprimit admixtum cum pice dura\n\net superappositum; recte quoque jungitur illis, 2075\n\nquae purgare solent oculos caligine dira.\n\nAdmixtum nitro maculas cataplasmate delet,\n\nusti stercoris humani cum pulvere tritum\n\nana junge piper et sic superaddito cancris,\n\nexperti nihil utilius hoc pulvere dicunt. 2080\n\nNemo potest omnes piperis describere vires,\n\nnamque piper ferme medicamina cuncta requirunt,\n\nantidotisque solet pretiosis pluribus addi,\n\nhinc puto tam paucas laudes de simplice dictas\n\nquod sit in innumeris hoc dignum laude medelis. 2085",
+      "ingredients": [
+        "I_mel",
+        "I_nitrum",
+        "I_piper"
+      ],
+      "qualities": [],
+      "n_words": 189,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Pyrethrum",
+      "text": "Est pyrethrum calidum siccumque, quartus in istis\n\nest gradus; excruciat dentes si frigidus humor\n\nmasticet hoc patiens, teneatque diutius ore,\n\net juvat admixto si gargarizetur aceto;\n\nhocque modo tumidam reprimit de flegmate linguam, 2090\n\nsic uvam relevat humoris pondere pressam,\n\net multis aliis vitiis sic subvenit oris.\n\nnon modicum prodest sumptum cum melle caducis,\n\nsicque levare solet morbum qui membra resolvit;\n\nsuspensum collo pueris prodesse caducis 2095\n\ncreditur et solo succurrere fertur odore.\n\nEx oleo quo decoquitur si corpus inungas\n\nante febris motum, minuet tolletque rigorem,\n\nrenum saepe gravem fugat unguen tale dolorem,\n\nMiram sentit opem paralyticus inde perunctus, 2100\n\nnon leviter manibus fuerit si saepe fricatus;\n\nunguine si totum corpus mulcebitur isto,\n\nlargus per poros sudor procedet apertos;\n\nmembrorum solet hoc quemvis curare stuporem,\n\net corpus servare potest a frigore tutum, 2105\n\net medicamento solvetur tetanus isto.\n\nTantundem prodest, si tritum solvis olivo\n\nsicque fricando locum quem vis medicare perungas.",
+      "ingredients": [
+        "I_acetum",
+        "I_mel",
+        "I_oleum"
+      ],
+      "qualities": [
+        "Q_calidus"
+      ],
+      "n_words": 147,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Gingiber",
+      "text": "Gingiber atque piper aequales in medicina\n\ndicunt, hac causa taceo de viribus ejus. 2110",
+      "ingredients": [
+        "I_piper"
+      ],
+      "qualities": [],
+      "n_words": 13,
+      "n_ingredients": 1
+    },
+    {
+      "name": "Cyminum",
+      "text": "Esse putant medici calidum siccumque cyminum\n\ntertius est illi gradus in virtutibus istis.\n\nAssumptum quocunque modo depellere tradunt\n\nviscera vexantem ventum stomachumque gravantem;\n\net digestivum stomachi jecorisque calorem 2115\n\nexcitat, et veneris credunt inhibere furorem,\n\net fluxum ventris in aceto stringere coctum.\n\nHoc orthopnoicis miram praestare medelam\n\nexperti dicunt cum pusca saepius haustum,\n\natque venenosis cum vino morsibus ipsum 2120\n\npraebet opem, tritumque fabae cum polline juncto\n\nmelle tepente solet testes curare tumentes\n\nappositum; sistit cum pusca menstrua sumptum,\n\ndicunt pallentem dare mansum saepe colorem.",
+      "ingredients": [
+        "I_acetum",
+        "I_faba",
+        "I_mel",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_calidus"
+      ],
+      "n_words": 83,
+      "n_ingredients": 4
+    },
+    {
+      "name": "Galanga",
+      "text": "Flegmonem stomachi sumptum galanga resolvit, 2125\n\net si flegmaticus fuerit corroborat illum,\n\ninclusum ventum sumptum fugat interiorum,\n\nvim digestivam juvat hoc colicisque medetur,\n\noris non modicum mansum commendat odorem,\n\naugmentat sumptum veneris renumque calorem. 2130",
+      "ingredients": [],
+      "qualities": [],
+      "n_words": 33,
+      "n_ingredients": 0
+    },
+    {
+      "name": "Zedoar",
+      "text": "Adprime sumptis zedoar obstare venenis\n\naffirmant, et reptilium morsus levat haustum.\n\nSumptum confortat stomachum ructusque salubres\n\ncommovet, et crebro fastidia reprimit usu;\n\nantiquum stomachi dicunt curare dolorem, 2135\n\nillud si patiens jejuno masticet ore,\n\net sic infectam sensim voret ore salivam.\n\nLumbricos ventris depellere dicitur haustum;\n\nallia quem faciunt foetorem pellit ab ore\n\net nimium bibiti vini depellit odorem. 2140",
+      "ingredients": [
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 58,
+      "n_ingredients": 1
+    },
+    {
+      "name": "Gariofilus",
+      "text": "Gariofilum dicunt calidum siccumque secundo\n\nesse gradu; jecur et stomachum corroborat haustum,\n\net ferme cunctis valet interioribus ipsum.\n\nAccendit venerem si dragmae pondere tritum\n\npotatum fuerit cum vaccae lacte recenti; 2145\n\nvim memorem cerebri confortat saepius haustum.",
+      "ingredients": [
+        "I_lac"
+      ],
+      "qualities": [
+        "Q_calidus"
+      ],
+      "n_words": 36,
+      "n_ingredients": 1
+    },
+    {
+      "name": "Cinnama",
+      "text": "Cinnama tres species dicuntur habere, sed harum\n\nest pretiosa magis, quae plus subtilis habetur\n\net quae plus mordet mixta dulcedine linguam.\n\nHumores stomachi siccat, corroborat ipsum, 2150\n\net facit acceptas ut digerat ocius escas;\n\nsumptum curat hepar lotiumque et menstrua purgat,\n\nhumida tussis eo sedabitur atque catarrhus.\n\nHydropisis speciem, cui praebent tympana nomen,\n\nsumptum non modicum reprimit renumque dolorem; 2155\n\nreptilium morsus curat; si jungitur illis,\n\nquae curant uculos, humores siccat aquosos;\n\nsi bene contritum forti miscetur aceto\n\nliberat appositum tetra lentigine vultum,\n\nsicque juvat morbum qui ducit ab impete nomen. 2160\n\nGrossa magis species fluxus haemorrhoidarum\n\nstringit, aqua gelida bene si contrita bibatur,\n\ntempore quo nondum patiens jejunia solvit.\n\nDe specie geminas haec quaerit potio dragmas.",
+      "ingredients": [
+        "I_acetum",
+        "I_aqua"
+      ],
+      "qualities": [
+        "Q_humidus"
+      ],
+      "n_words": 114,
+      "n_ingredients": 2
+    },
+    {
+      "name": "Costus",
+      "text": "Costi sunt geminae species: gravis una rubensque 2165\n\nest et amara nimis, haec indica dicitur esse;\n\naltera vero levis, nec amara, colore subalba,\n\nhanc Arabes mittunt, prior utilior medicinae.\n\nUrinas purgant et eis obstantia pellunt,\n\nsplen curant et hepar, laterisque fugare dolorem 2170\n\ndicunt, cum vino tepido si sumpserit aeger.\n\nMenstrua purgabunt, si se subfumiget illis\n\nfemina, sic etiam vulvae sedare dolorem\n\ndicunt, aut ex his sibi si pessaria subdat;\n\nlumbricos pellunt, purgant lentigine vultum, 2175\n\nsi tritis cum melle linas, veneremque movere\n\ndicuntur, si sint cum mulsa sumpta tepenti.\n\nEx oleo costum quo coxeris illine quemvis\n\nante febris typum, reddes a frigore tutum;\n\nsubvenit hoc sciasi membrisque tumentibus unguen, 2180\n\nantiquum vulnus cito curat pulvis eorum.",
+      "ingredients": [
+        "I_mel",
+        "I_oleum",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 113,
+      "n_ingredients": 3
+    },
+    {
+      "name": "Spica",
+      "text": "Esse gradu primo calidam siccamque periti\n\ntestantur spicam, quae dicitur indica nardus.\n\nConfortat potata jecur, stomachique dolorem\n\nmitigat, et renes illius apozima purgat, 2185\n\nvesicam juvat, urinas et menstrua pellit,\n\nictericis prodest, nocuis humoribus obstat,\n\nquos caput ad pectus transmittit saepe per uvam;\n\npuncturas aufert et morsus interiorum,\n\nin stomacho clausum solet hausta repellere ventum; 2190\n\nmatricis nimium restringit subdita fluxum.\n\nCum gelida si detur aqua, sedare tremorem\n\ndicitur haec cordis, et nausea sistitur inde.\n\nExcitat haec venerem cum sapae sumpta liquore,\n\nduricias stericas elixatura resolvit 2195\n\nejus fomento per partes inferiores.\n\nLumina si tepida foveantur saepius illa,\n\naffirmant aeri prurigine libera reddi,\n\npalpebraeque pili bene confortantur eadem.\n\nEst nardi species, quae Celtica spica vocatur, 2200\n\nCeltarum tantum quod nascitur in regione;\n\nomnia quae nardus valet indica, dicitur ista\n\nposse, licet vires videatur habere minores.",
+      "ingredients": [
+        "I_aqua",
+        "I_nardus"
+      ],
+      "qualities": [],
+      "n_words": 131,
+      "n_ingredients": 2
+    },
+    {
+      "name": "Thus",
+      "text": "Thus calidum siccumque gradu dixere secundo.\n\nLumina clarificat, lacrymo si solvitur ovi 2205\n\ncontritum vel femineo cum lacte tepenti.\n\nAcri cum vino tritum pice lacteque mixtis\n\nvulnera praecipue curare recentia dicunt;\n\npingui porcino mixtum medicabitur ustis,\n\nadmixtum melli panaritia decutit unguis. 2210\n\nThus bene contritum vinoque tepente solutum\n\naffirmant auri multum prodesse dolenti,\n\ntritum cum creta cimolea sicque rosato\n\npermixtum mammas dicunt curare tumentes.\n\nNil credunt haemoptoicis magis auxiliari, 2215\n\nadmixto vino si sumatur vel aceto;\n\nthus cum lacte terens muliebri si superaddas\n\nulceribus, fieri quae saepe videntur in ano\n\naut alio quocunque loco, medicabitur illis.\n\nHuic aloë jungens lacrymumque albuminis ovi, 2220\n\nsic ut sit spissum, sectae superaddito venae,\n\naut his vulneribus nimio quae sanguine manant,\n\nnec solvas nisi cum credas divisa coisse;\n\nsi sit opus medicamen idem superadde priori,\n\ndonec firmari valeat solidata cicatrix, 2225\n\naffirmant melius nil sistere posse cruorem.\n\nVim memorem cerebri proprio confortat odore,\n\norigano junctum si quis commasticet ipsum,\n\nhumores nocuos capitis per sputa repellit,\n\nallevat ista gravem capitis purgatio linguam. 2230\n\nAnseris aut anatis mixta pinguedine thuri\n\nfit cataplasma valens membris, quae laeserit ignis.",
+      "ingredients": [
+        "I_acetum",
+        "I_lac",
+        "I_origanum",
+        "I_ovum",
+        "I_thus",
+        "I_vinum"
+      ],
+      "qualities": [
+        "Q_calidus"
+      ],
+      "n_words": 175,
+      "n_ingredients": 6
+    },
+    {
+      "name": "Aloë",
+      "text": "Sunt aloë species geminae, quae subrubet estque\n\nintus sicut hepar cum frangitur, haec epatite\n\ndicitur et magnas habet in medicamine vires, 2235\n\nutilior piceo quae fracta colore videtur.\n\nFlegmate mundificat stomachum, caput articulosque,\n\nleniter humorem nocuum purgando per alvum;\n\nictericos purgat, jecoris juvat interiora.\n\nVulnus quodque recens putredine purgat ab omni 2240\n\nillius injectus pulvis siccandoque sanat;\n\npraecipue veretri dicunt et testiculorum\n\nulcera curari vel vulnera pulvere tali.\n\nSi solvatur aqua, juvat apostema labrorum\n\net naris superappositum, nec non oculorum 2245\n\nlivoremque fugat, sic circa lumina factum;\n\nacri cum vino miscens oleoque rosato\n\nunge dolens caput et frontem, mireque juvabit,\n\nunguine pruritus sedabitur hoc oculorum.\n\nCum vino bene contritum cataplasmaque factum 2250\n\nconfortat retinetque pilos quoscunque cadentes;\n\nlinguae, gingivis, vitiis quoque subvenit oris,\n\nsi fricentur eo cum vino melleque trito.\n\nHoc sumptum per se ventrem non solvit acute,\n\nesse tamen stomacho putat Oribasius aptum, 2255\n\ncum laedant illum solventia caetera ventrem:\n\nillius geminas cum mulsa sumere dragmas\n\nidem praecepit, choleram sic flegmaque purgat,\n\nunaquaque die post coenam sumere dixit\n\nutile tres ejus pilulas binasve virentis 2260\n\ncum succo caulis formatas, ut faba grossas\n\naut cicer, humores nocuos cum stercore purgat,\n\nnon corrumpendo stomachum neque vim faciendo\n\npurgatus pilulis fuerit qui saepius istis,\n\nvix unquam capitis vexabitur ille dolore, 2265\n\net nihil est oculis, mihi crede, salubrius istis;\n\nsi vero duram vis solvere largius alvum\n\npartibus est geminis pars admiscenda terendo\n\nuna diagridii, sic apta solutio fiet.\n\n\n\n\n\nAbout this digital edition\n\n\nThis e-book comes from the online library Wikisource[1]. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...\n\nWe distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose (including commercial exploitation), under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported[2] license or, at your choice, those of the GNU FDL[3].\n\nWikisource is constantly looking for new members. During the realization of this book, it's possible that we made some errors. You can report them at this page[4].\n\nThe following users contributed to this book:\n\nDemetrius Talpa\n\n\n\n\n\n* * *\n\n\n\n↑ https://wikisource.org\n\n↑ https://www.creativecommons.org/licenses/by-sa/3.0\n\n↑ https://www.gnu.org/copyleft/fdl.html\n\n↑ https://wikisource.org/wiki/Wikisource:Scriptorium",
+      "ingredients": [
+        "I_aqua",
+        "I_faba",
+        "I_succus",
+        "I_vinum"
+      ],
+      "qualities": [],
+      "n_words": 377,
+      "n_ingredients": 4
+    }
+  ]
+}

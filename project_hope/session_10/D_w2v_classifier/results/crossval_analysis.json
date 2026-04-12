@@ -1,0 +1,214 @@
+{
+  "role_positions": {
+    "DOSE": {
+      "count": 118,
+      "avg": 0.489
+    },
+    "?": {
+      "count": 54,
+      "avg": 0.386
+    },
+    "INGR_XREF": {
+      "count": 66,
+      "avg": 0.557
+    },
+    "VERB": {
+      "count": 36,
+      "avg": 0.51
+    },
+    "TEMPORAL": {
+      "count": 86,
+      "avg": 0.508
+    },
+    "DOSE_MORPH": {
+      "count": 64,
+      "avg": 0.525
+    },
+    "INGR": {
+      "count": 27,
+      "avg": 0.427
+    },
+    "GRAM": {
+      "count": 63,
+      "avg": 0.553
+    },
+    "LOGO": {
+      "count": 8,
+      "avg": 0.545
+    },
+    "PREP_FORM": {
+      "count": 9,
+      "avg": 0.42
+    }
+  },
+  "suffix_by_role": {
+    "DOSE": {
+      "al": 13,
+      "dy": 3,
+      "ey": 13,
+      "eey": 32,
+      "(none)": 26,
+      "edy": 5,
+      "or": 2,
+      "eedy": 15,
+      "ar": 2,
+      "eeey": 2,
+      "chy": 3,
+      "eol": 2
+    },
+    "?": {
+      "chy": 3,
+      "al": 6,
+      "dy": 9,
+      "(none)": 8,
+      "ol": 4,
+      "ar": 6,
+      "ey": 1,
+      "or": 2,
+      "am": 2,
+      "shy": 3,
+      "edy": 9,
+      "air": 1
+    },
+    "INGR_XREF": {
+      "ey": 8,
+      "edy": 9,
+      "(none)": 18,
+      "chy": 3,
+      "ar": 9,
+      "ol": 11,
+      "eey": 1,
+      "or": 3,
+      "eol": 1,
+      "al": 1,
+      "dy": 1,
+      "shy": 1
+    },
+    "VERB": {
+      "al": 5,
+      "eey": 2,
+      "(none)": 18,
+      "edy": 3,
+      "ar": 4,
+      "dy": 1,
+      "ey": 1,
+      "eedy": 1,
+      "eeey": 1
+    },
+    "TEMPORAL": {
+      "edy": 37,
+      "(none)": 15,
+      "ar": 5,
+      "ey": 5,
+      "eedy": 9,
+      "dy": 4,
+      "chy": 2,
+      "eey": 5,
+      "al": 1,
+      "eol": 1,
+      "shy": 1,
+      "eeey": 1
+    },
+    "DOSE_MORPH": {
+      "ain": 37,
+      "aiin": 27
+    },
+    "INGR": {
+      "al": 2,
+      "dy": 1,
+      "(none)": 5,
+      "ey": 4,
+      "eey": 10,
+      "eol": 3,
+      "eedy": 1,
+      "am": 1
+    },
+    "GRAM": {
+      "(none)": 11,
+      "al": 8,
+      "eey": 12,
+      "ey": 18,
+      "chy": 2,
+      "ar": 2,
+      "eol": 5,
+      "eedy": 1,
+      "am": 1,
+      "ol": 2,
+      "eeey": 1
+    },
+    "LOGO": {
+      "(none)": 8
+    },
+    "PREP_FORM": {
+      "eol": 3,
+      "am": 1,
+      "(none)": 4,
+      "al": 1
+    }
+  },
+  "verb_candidates": [
+    {
+      "eva": "lkar",
+      "w2v_count": 2,
+      "pos_count": 1,
+      "total": 2,
+      "score": 0.8
+    },
+    {
+      "eva": "qotal",
+      "w2v_count": 3,
+      "pos_count": 1,
+      "total": 3,
+      "score": 0.733
+    },
+    {
+      "eva": "shckhy",
+      "w2v_count": 5,
+      "pos_count": 1,
+      "total": 5,
+      "score": 0.68
+    },
+    {
+      "eva": "okedy",
+      "w2v_count": 2,
+      "pos_count": 0,
+      "total": 2,
+      "score": 0.6
+    },
+    {
+      "eva": "ota",
+      "w2v_count": 2,
+      "pos_count": 0,
+      "total": 2,
+      "score": 0.6
+    },
+    {
+      "eva": "checkhy",
+      "w2v_count": 2,
+      "pos_count": 0,
+      "total": 2,
+      "score": 0.6
+    },
+    {
+      "eva": "chcthy",
+      "w2v_count": 2,
+      "pos_count": 0,
+      "total": 2,
+      "score": 0.6
+    },
+    {
+      "eva": "lr",
+      "w2v_count": 2,
+      "pos_count": 0,
+      "total": 2,
+      "score": 0.6
+    },
+    {
+      "eva": "pchedal",
+      "w2v_count": 0,
+      "pos_count": 2,
+      "total": 2,
+      "score": 0.4
+    }
+  ]
+}

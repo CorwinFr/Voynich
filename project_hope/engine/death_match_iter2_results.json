@@ -1,0 +1,164 @@
+{
+  "n_anchors": 18,
+  "n_targets": 13,
+  "n_cross_validated": 5,
+  "n_new_iter2": 5,
+  "cross_validated": [
+    {
+      "root": "kch",
+      "word": "sumere",
+      "type": "VERB",
+      "count": 3,
+      "total": 11,
+      "consistency": 0.27,
+      "alternatives": [
+        [
+          "tussis",
+          1
+        ],
+        [
+          "succus",
+          1
+        ]
+      ]
+    },
+    {
+      "root": "dal",
+      "word": "vinum",
+      "type": "INGR",
+      "count": 2,
+      "total": 3,
+      "consistency": 0.67,
+      "alternatives": [
+        [
+          "vulnus",
+          1
+        ]
+      ]
+    },
+    {
+      "root": "chod",
+      "word": "jungere",
+      "type": "VERB",
+      "count": 2,
+      "total": 3,
+      "consistency": 0.67,
+      "alternatives": [
+        [
+          "podagra",
+          1
+        ]
+      ]
+    },
+    {
+      "root": "sho",
+      "word": "sumere",
+      "type": "VERB",
+      "count": 2,
+      "total": 5,
+      "consistency": 0.4,
+      "alternatives": [
+        [
+          "aqua",
+          1
+        ],
+        [
+          "superaddere",
+          1
+        ]
+      ]
+    },
+    {
+      "root": "oky",
+      "word": "trita",
+      "type": "VERB",
+      "count": 2,
+      "total": 8,
+      "consistency": 0.25,
+      "alternatives": [
+        [
+          "rosa",
+          1
+        ],
+        [
+          "caput",
+          1
+        ]
+      ]
+    }
+  ],
+  "results": [
+    {
+      "fid": "f9v",
+      "chapter": "Violae",
+      "n_anchors": 15,
+      "n_matches": 23
+    },
+    {
+      "fid": "f41r",
+      "chapter": "Origanum",
+      "n_anchors": 16,
+      "n_matches": 45
+    },
+    {
+      "fid": "f37r",
+      "chapter": "Mentha",
+      "n_anchors": 7,
+      "n_matches": 29
+    },
+    {
+      "fid": "f28r",
+      "chapter": "Aristolochia",
+      "n_anchors": 21,
+      "n_matches": 31
+    },
+    {
+      "fid": "f3v",
+      "chapter": "Elleborus",
+      "n_anchors": 20,
+      "n_matches": 22
+    },
+    {
+      "fid": "f22r",
+      "chapter": "Verbena",
+      "n_anchors": 30,
+      "n_matches": 37
+    },
+    {
+      "fid": "f44v",
+      "chapter": "Apium",
+      "n_anchors": 25,
+      "n_matches": 28
+    },
+    {
+      "fid": "f41v",
+      "chapter": "Coriandrum",
+      "n_anchors": 3,
+      "n_matches": 27
+    },
+    {
+      "fid": "f45r",
+      "chapter": "Atriplex",
+      "n_anchors": 9,
+      "n_matches": 17
+    },
+    {
+      "fid": "f48v",
+      "chapter": "Ruta",
+      "n_anchors": 19,
+      "n_matches": 41
+    },
+    {
+      "fid": "f5v",
+      "chapter": "Malva",
+      "n_anchors": 3,
+      "n_matches": 11
+    },
+    {
+      "fid": "f29r",
+      "chapter": "Lactuca",
+      "n_anchors": 7,
+      "n_matches": 25
+    }
+  ]
+}

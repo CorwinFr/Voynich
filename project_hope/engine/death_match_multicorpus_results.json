@@ -1,0 +1,68 @@
+{
+  "n_plants_with_text": 13,
+  "n_coll_results": 9,
+  "n_coll_cv": 7,
+  "n_multi_corpus": 4,
+  "multi_corpus_agree": [],
+  "coll_cv": [
+    {
+      "root": "cho",
+      "word": "aqua",
+      "type": "INGR",
+      "count": 2
+    },
+    {
+      "root": "oteo",
+      "word": "succus",
+      "type": "INGR",
+      "count": 2
+    },
+    {
+      "root": "cthy",
+      "word": "mel",
+      "type": "INGR",
+      "count": 2
+    },
+    {
+      "root": "kch",
+      "word": "acetum",
+      "type": "INGR",
+      "count": 2
+    },
+    {
+      "root": "chod",
+      "word": "vinum",
+      "type": "INGR",
+      "count": 2
+    },
+    {
+      "root": "ckh",
+      "word": "vinum",
+      "type": "INGR",
+      "count": 2
+    },
+    {
+      "root": "chek",
+      "word": "feniculum",
+      "type": "INGR",
+      "count": 2
+    }
+  ],
+  "coll_only": [
+    {
+      "root": "oteo",
+      "word": "succus",
+      "type": "INGR"
+    },
+    {
+      "root": "chod",
+      "word": "vinum",
+      "type": "INGR"
+    },
+    {
+      "root": "ckh",
+      "word": "vinum",
+      "type": "INGR"
+    }
+  ]
+}

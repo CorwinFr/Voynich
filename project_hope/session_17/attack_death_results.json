@@ -1,0 +1,423 @@
+{
+  "macer_positions": 50,
+  "vms_words": 128,
+  "anchors": 10,
+  "mean_offset": -0.013378850795002846,
+  "matches": [
+    {
+      "vms_root": "pcheod",
+      "vms_eva": "pcheodchy",
+      "vms_pos": 0.0,
+      "macer_word": "rutae",
+      "macer_type": "PLANT",
+      "macer_pos": 0.0034071550255536627,
+      "distance": 0.009971695769449184
+    },
+    {
+      "vms_root": "dsh",
+      "vms_eva": "dshedy",
+      "vms_pos": 0.0078125,
+      "macer_word": "rutae",
+      "macer_type": "PLANT",
+      "macer_pos": 0.0034071550255536627,
+      "distance": 0.017784195769449184
+    },
+    {
+      "vms_root": "fch",
+      "vms_eva": "fchedy",
+      "vms_pos": 0.015625,
+      "macer_word": "bibatur",
+      "macer_type": "VERB",
+      "macer_pos": 0.04395229982964225,
+      "distance": 0.014948449034639405
+    },
+    {
+      "vms_root": "los",
+      "vms_eva": "los",
+      "vms_pos": 0.0234375,
+      "macer_word": "bibatur",
+      "macer_type": "VERB",
+      "macer_pos": 0.04395229982964225,
+      "distance": 0.007135949034639405
+    },
+    {
+      "vms_root": "yke",
+      "vms_eva": "ykeeedy",
+      "vms_pos": 0.0390625,
+      "macer_word": "potu",
+      "macer_type": "MODE",
+      "macer_pos": 0.05281090289608177,
+      "distance": 0.00036955210107892517
+    },
+    {
+      "vms_root": "chedyty",
+      "vms_eva": "chedyty",
+      "vms_pos": 0.09375,
+      "macer_word": "ventris",
+      "macer_type": "BODY",
+      "macer_pos": 0.10732538330494037,
+      "distance": 0.0001965325099375359
+    },
+    {
+      "vms_root": "otcho",
+      "vms_eva": "otchody",
+      "vms_pos": 0.1171875,
+      "macer_word": "ventris",
+      "macer_type": "BODY",
+      "macer_pos": 0.10732538330494037,
+      "distance": 0.023240967490062464
+    },
+    {
+      "vms_root": "yot",
+      "vms_eva": "yotedy",
+      "vms_pos": 0.140625,
+      "macer_word": "oleo",
+      "macer_type": "INGR",
+      "macer_pos": 0.1635434412265758,
+      "distance": 0.009539590431572958
+    },
+    {
+      "vms_root": "chety",
+      "vms_eva": "chety",
+      "vms_pos": 0.1640625,
+      "macer_word": "oleo",
+      "macer_type": "INGR",
+      "macer_pos": 0.1635434412265758,
+      "distance": 0.013897909568427042
+    },
+    {
+      "vms_root": "choolk",
+      "vms_eva": "choolkeey",
+      "vms_pos": 0.171875,
+      "macer_word": "unguen",
+      "macer_type": "MODE",
+      "macer_pos": 0.20272572402044292,
+      "distance": 0.017471873225440082
+    },
+    {
+      "vms_root": "alch",
+      "vms_eva": "alchey",
+      "vms_pos": 0.1796875,
+      "macer_word": "unguen",
+      "macer_type": "MODE",
+      "macer_pos": 0.20272572402044292,
+      "distance": 0.009659373225440082
+    },
+    {
+      "vms_root": "keo",
+      "vms_eva": "keody",
+      "vms_pos": 0.203125,
+      "macer_word": "vino",
+      "macer_type": "INGR",
+      "macer_pos": 0.22282793867120954,
+      "distance": 0.0063240878762066965
+    },
+    {
+      "vms_root": "olk",
+      "vms_eva": "olkeeey",
+      "vms_pos": 0.2109375,
+      "macer_word": "vino",
+      "macer_type": "INGR",
+      "macer_pos": 0.22282793867120954,
+      "distance": 0.0014884121237933035
+    },
+    {
+      "vms_root": "cho",
+      "vms_eva": "chody",
+      "vms_pos": 0.21875,
+      "macer_word": "oleo",
+      "macer_type": "INGR",
+      "macer_pos": 0.23713798977853492,
+      "distance": 0.005009138983532085
+    },
+    {
+      "vms_root": "daly",
+      "vms_eva": "daly",
+      "vms_pos": 0.234375,
+      "macer_word": "decocta",
+      "macer_type": "VERB",
+      "macer_pos": 0.252129471890971,
+      "distance": 0.004375621095968174
+    },
+    {
+      "vms_root": "okee",
+      "vms_eva": "okeeor",
+      "vms_pos": 0.2421875,
+      "macer_word": "decocta",
+      "macer_type": "VERB",
+      "macer_pos": 0.252129471890971,
+      "distance": 0.003436878904031826
+    },
+    {
+      "vms_root": "tchd",
+      "vms_eva": "tchddy",
+      "vms_pos": 0.2890625,
+      "macer_word": "succo",
+      "macer_type": "INGR",
+      "macer_pos": 0.303236797274276,
+      "distance": 0.0007954464792731542
+    },
+    {
+      "vms_root": "otsh",
+      "vms_eva": "otsh",
+      "vms_pos": 0.296875,
+      "macer_word": "succus",
+      "macer_type": "INGR",
+      "macer_pos": 0.31482112436115844,
+      "distance": 0.004567273566155605
+    },
+    {
+      "vms_root": "alch",
+      "vms_eva": "alchdy",
+      "vms_pos": 0.328125,
+      "macer_word": "oleo",
+      "macer_type": "INGR",
+      "macer_pos": 0.3475298126064736,
+      "distance": 0.006025961811470748
+    },
+    {
+      "vms_root": "oteed",
+      "vms_eva": "oteed",
+      "vms_pos": 0.34375,
+      "macer_word": "succum",
+      "macer_type": "INGR",
+      "macer_pos": 0.3577512776831346,
+      "distance": 0.0006224268881317441
+    },
+    {
+      "vms_root": "qocth",
+      "vms_eva": "qocthedy",
+      "vms_pos": 0.3828125,
+      "macer_word": "succus",
+      "macer_type": "INGR",
+      "macer_pos": 0.3938671209540034,
+      "distance": 0.0023242298409994477
+    },
+    {
+      "vms_root": "shed",
+      "vms_eva": "shed",
+      "vms_pos": 0.3984375,
+      "macer_word": "succus",
+      "macer_type": "INGR",
+      "macer_pos": 0.3938671209540034,
+      "distance": 0.017949229840999448
+    },
+    {
+      "vms_root": "tolk",
+      "vms_eva": "tolkain",
+      "vms_pos": 0.4375,
+      "macer_word": "oleo",
+      "macer_type": "INGR",
+      "macer_pos": 0.4500851788756388,
+      "distance": 0.0007936719193640251
+    },
+    {
+      "vms_root": "otees",
+      "vms_eva": "otees",
+      "vms_pos": 0.4921875,
+      "macer_word": "unguine",
+      "macer_type": "MODE",
+      "macer_pos": 0.5124361158432709,
+      "distance": 0.006869765048267973
+    },
+    {
+      "vms_root": "ain",
+      "vms_eva": "ain",
+      "vms_pos": 0.515625,
+      "macer_word": "capitis",
+      "macer_type": "BODY",
+      "macer_pos": 0.5236797274275979,
+      "distance": 0.005324123367404954
+    },
+    {
+      "vms_root": "pched",
+      "vms_eva": "pchedar",
+      "vms_pos": 0.5703125,
+      "macer_word": "mero",
+      "macer_type": "INGR",
+      "macer_pos": 0.5717206132879046,
+      "distance": 0.011970737507098317
+    },
+    {
+      "vms_root": "shef",
+      "vms_eva": "shef",
+      "vms_pos": 0.6015625,
+      "macer_word": "sale",
+      "macer_type": "INGR",
+      "macer_pos": 0.6081771720613288,
+      "distance": 0.0067641787336740755
+    },
+    {
+      "vms_root": "fcheod",
+      "vms_eva": "fcheodal",
+      "vms_pos": 0.640625,
+      "macer_word": "rutam",
+      "macer_type": "PLANT",
+      "macer_pos": 0.6906303236797274,
+      "distance": 0.03662647288472454
+    },
+    {
+      "vms_root": "cpheeg",
+      "vms_eva": "cpheeg",
+      "vms_pos": 0.6484375,
+      "macer_word": "rutam",
+      "macer_type": "PLANT",
+      "macer_pos": 0.6906303236797274,
+      "distance": 0.028813972884724537
+    },
+    {
+      "vms_root": "oteo",
+      "vms_eva": "oteody",
+      "vms_pos": 0.65625,
+      "macer_word": "rutam",
+      "macer_type": "PLANT",
+      "macer_pos": 0.6906303236797274,
+      "distance": 0.021001472884724537
+    },
+    {
+      "vms_root": "chckh",
+      "vms_eva": "chckhedy",
+      "vms_pos": 0.6796875,
+      "macer_word": "rutam",
+      "macer_type": "PLANT",
+      "macer_pos": 0.6906303236797274,
+      "distance": 0.002436027115275463
+    },
+    {
+      "vms_root": "kaly",
+      "vms_eva": "kaly",
+      "vms_pos": 0.71875,
+      "macer_word": "matricis",
+      "macer_type": "BODY",
+      "macer_pos": 0.7332197614991482,
+      "distance": 0.0010909107041453536
+    },
+    {
+      "vms_root": "tok",
+      "vms_eva": "tokar",
+      "vms_pos": 0.7265625,
+      "macer_word": "matricis",
+      "macer_type": "BODY",
+      "macer_pos": 0.7332197614991482,
+      "distance": 0.006721589295854646
+    },
+    {
+      "vms_root": "sho",
+      "vms_eva": "shody",
+      "vms_pos": 0.75,
+      "macer_word": "tritam",
+      "macer_type": "VERB",
+      "macer_pos": 0.7877342419080068,
+      "distance": 0.024355391113003888
+    },
+    {
+      "vms_root": "otch",
+      "vms_eva": "otchedy",
+      "vms_pos": 0.765625,
+      "macer_word": "tritam",
+      "macer_type": "VERB",
+      "macer_pos": 0.7877342419080068,
+      "distance": 0.008730391113003888
+    },
+    {
+      "vms_root": "cheky",
+      "vms_eva": "cheky",
+      "vms_pos": 0.7734375,
+      "macer_word": "tritam",
+      "macer_type": "VERB",
+      "macer_pos": 0.7877342419080068,
+      "distance": 0.000917891113003888
+    },
+    {
+      "vms_root": "oly",
+      "vms_eva": "oly",
+      "vms_pos": 0.78125,
+      "macer_word": "tritam",
+      "macer_type": "VERB",
+      "macer_pos": 0.7877342419080068,
+      "distance": 0.006894608886996112
+    },
+    {
+      "vms_root": "lol",
+      "vms_eva": "loldy",
+      "vms_pos": 0.7890625,
+      "macer_word": "tritam",
+      "macer_type": "VERB",
+      "macer_pos": 0.7877342419080068,
+      "distance": 0.014707108886996112
+    },
+    {
+      "vms_root": "otch",
+      "vms_eva": "otchdy",
+      "vms_pos": 0.8046875,
+      "macer_word": "ruta",
+      "macer_type": "PLANT",
+      "macer_pos": 0.8367972742759796,
+      "distance": 0.018730923480976713
+    },
+    {
+      "vms_root": "otol",
+      "vms_eva": "otoldy",
+      "vms_pos": 0.8125,
+      "macer_word": "ruta",
+      "macer_type": "PLANT",
+      "macer_pos": 0.8367972742759796,
+      "distance": 0.010918423480976713
+    },
+    {
+      "vms_root": "chd",
+      "vms_eva": "chdor",
+      "vms_pos": 0.875,
+      "macer_word": "ruta",
+      "macer_type": "PLANT",
+      "macer_pos": 0.8817717206132879,
+      "distance": 0.006607130181714993
+    },
+    {
+      "vms_root": "ytched",
+      "vms_eva": "ytchedal",
+      "vms_pos": 0.8984375,
+      "macer_word": "trita",
+      "macer_type": "VERB",
+      "macer_pos": 0.927427597955707,
+      "distance": 0.015611247160704056
+    },
+    {
+      "vms_root": "ary",
+      "vms_eva": "ary",
+      "vms_pos": 0.9296875,
+      "macer_word": "melle",
+      "macer_type": "INGR",
+      "macer_pos": 0.9304940374787053,
+      "distance": 0.0125723133162976
+    },
+    {
+      "vms_root": "chckhy",
+      "vms_eva": "chckhy",
+      "vms_pos": 0.9453125,
+      "macer_word": "ventrem",
+      "macer_type": "BODY",
+      "macer_pos": 0.9785349233390119,
+      "distance": 0.019843572544009036
+    },
+    {
+      "vms_root": "cheedls",
+      "vms_eva": "cheedls",
+      "vms_pos": 0.984375,
+      "macer_word": "stomachum",
+      "macer_type": "BODY",
+      "macer_pos": 0.9867120954003407,
+      "distance": 0.011041755394662234
+    },
+    {
+      "vms_root": "sary",
+      "vms_eva": "sary",
+      "vms_pos": 0.9921875,
+      "macer_word": "stomachum",
+      "macer_type": "BODY",
+      "macer_pos": 0.9867120954003407,
+      "distance": 0.018854255394662123
+    }
+  ],
+  "n_matches": 46
+}

@@ -1,0 +1,1608 @@
+{
+  "candidate_mappings": {
+    "aral": {
+      "latin": "aloes",
+      "ref": "I_aloe",
+      "score": 0.889,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.889,
+      "alternatives": [
+        [
+          "aloes",
+          0.889,
+          1
+        ]
+      ]
+    },
+    "chpchar": {
+      "latin": "masticis",
+      "ref": "I_mastix",
+      "score": 0.889,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.889,
+      "alternatives": [
+        [
+          "masticis",
+          0.889,
+          1
+        ]
+      ]
+    },
+    "kedar": {
+      "latin": "spice",
+      "ref": "I_spica",
+      "score": 0.885,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.885,
+      "alternatives": [
+        [
+          "spice",
+          0.885,
+          1
+        ]
+      ]
+    },
+    "shes": {
+      "latin": "spodii",
+      "ref": "I_spodium",
+      "score": 0.862,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.862,
+      "alternatives": [
+        [
+          "spodii",
+          0.862,
+          1
+        ]
+      ]
+    },
+    "lshey": {
+      "latin": "ducis",
+      "ref": "",
+      "score": 0.862,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.862,
+      "alternatives": [
+        [
+          "ducis",
+          0.862,
+          1
+        ]
+      ]
+    },
+    "okechedy": {
+      "latin": "spodii",
+      "ref": "I_spodium",
+      "score": 0.857,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.857,
+      "alternatives": [
+        [
+          "spodii",
+          0.857,
+          1
+        ]
+      ]
+    },
+    "qotedar": {
+      "latin": "agarici",
+      "ref": "I_agaricum",
+      "score": 0.857,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.857,
+      "alternatives": [
+        [
+          "agarici",
+          0.857,
+          1
+        ]
+      ]
+    },
+    "qotched": {
+      "latin": "anisi",
+      "ref": "I_anisum",
+      "score": 0.857,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.857,
+      "alternatives": [
+        [
+          "anisi",
+          0.857,
+          1
+        ]
+      ]
+    },
+    "qotchd": {
+      "latin": "poivre",
+      "ref": "I_piper",
+      "score": 0.857,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.857,
+      "alternatives": [
+        [
+          "poivre",
+          0.857,
+          1
+        ]
+      ]
+    },
+    "dol": {
+      "latin": "nardi",
+      "ref": "I_nardus",
+      "score": 0.857,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.857,
+      "alternatives": [
+        [
+          "nardi",
+          0.857,
+          1
+        ]
+      ]
+    },
+    "qoted": {
+      "latin": "strigni",
+      "ref": "",
+      "score": 0.857,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.857,
+      "alternatives": [
+        [
+          "strigni",
+          0.857,
+          1
+        ]
+      ]
+    },
+    "okaly": {
+      "latin": "barbari",
+      "ref": "",
+      "score": 0.857,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.857,
+      "alternatives": [
+        [
+          "barbari",
+          0.857,
+          1
+        ]
+      ]
+    },
+    "oteos": {
+      "latin": "poivre",
+      "ref": "I_piper",
+      "score": 0.854,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.854,
+      "alternatives": [
+        [
+          "poivre",
+          0.854,
+          1
+        ]
+      ]
+    },
+    "ochedy": {
+      "latin": "litzi",
+      "ref": "",
+      "score": 0.854,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.854,
+      "alternatives": [
+        [
+          "litzi",
+          0.854,
+          1
+        ]
+      ]
+    },
+    "okechy": {
+      "latin": "barbari",
+      "ref": "",
+      "score": 0.854,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.854,
+      "alternatives": [
+        [
+          "barbari",
+          0.854,
+          1
+        ]
+      ]
+    },
+    "shocthy": {
+      "latin": "succi",
+      "ref": "I_succus",
+      "score": 0.854,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.854,
+      "alternatives": [
+        [
+          "succi",
+          0.854,
+          1
+        ]
+      ]
+    },
+    "kchy": {
+      "latin": "succi",
+      "ref": "I_succus",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "succi",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "lr": {
+      "latin": "rubi",
+      "ref": "",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "rubi",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "sheed": {
+      "latin": "cicute",
+      "ref": "I_cicuta",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "cicute",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "ssheey": {
+      "latin": "vase",
+      "ref": "T_vas",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "vase",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "cheteey": {
+      "latin": "radicum",
+      "ref": "P_radix",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "radicum",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "qokoeey": {
+      "latin": "thebaici",
+      "ref": "",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "thebaici",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "qotam": {
+      "latin": "seminis",
+      "ref": "P_semen",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "seminis",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "olcheol": {
+      "latin": "lactuce",
+      "ref": "I_lactuca",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "lactuce",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "chokar": {
+      "latin": "succi",
+      "ref": "I_succus",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "succi",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "okcho": {
+      "latin": "cicute",
+      "ref": "I_cicuta",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "cicute",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "oeeal": {
+      "latin": "aqua",
+      "ref": "I_aqua",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "aqua",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "akey": {
+      "latin": "g-i",
+      "ref": "",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "g-i",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "teeody": {
+      "latin": "succi",
+      "ref": "I_succus",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "succi",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "aldor": {
+      "latin": "mare",
+      "ref": "I_feniculum",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "mare",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "keear": {
+      "latin": "radicum",
+      "ref": "P_radix",
+      "score": 0.853,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.853,
+      "alternatives": [
+        [
+          "radicum",
+          0.853,
+          1
+        ]
+      ]
+    },
+    "chpchy": {
+      "latin": "spodii",
+      "ref": "I_spodium",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "spodii",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "chdaly": {
+      "latin": "gummi",
+      "ref": "I_gummi_arabicum",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "gummi",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "soiin": {
+      "latin": "arabici",
+      "ref": "",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "arabici",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "shchdy": {
+      "latin": "scariole",
+      "ref": "I_scariola",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "scariole",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "shety": {
+      "latin": "filii",
+      "ref": "",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "filii",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "lpar": {
+      "latin": "spodii",
+      "ref": "I_spodium",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "spodii",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "lkchdy": {
+      "latin": "filii",
+      "ref": "",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "filii",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "qokor": {
+      "latin": "sandali",
+      "ref": "I_sandalum",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "sandali",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "sheos": {
+      "latin": "rosarum",
+      "ref": "I_rosa",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "rosarum",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "oteody": {
+      "latin": "spodii",
+      "ref": "I_spodium",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "spodii",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "otydy": {
+      "latin": "gummi",
+      "ref": "I_gummi_arabicum",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "gummi",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "qody": {
+      "latin": "ducis",
+      "ref": "",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "ducis",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "ksheody": {
+      "latin": "filii",
+      "ref": "",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "filii",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "olcham": {
+      "latin": "lapidis",
+      "ref": "I_lapis",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "lapidis",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "chokeey": {
+      "latin": "rosarum",
+      "ref": "I_rosa",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "rosarum",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "daldy": {
+      "latin": "aqua",
+      "ref": "I_aqua",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "aqua",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "oaral": {
+      "latin": "ducis",
+      "ref": "",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "ducis",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "chotchdy": {
+      "latin": "rosarum",
+      "ref": "I_rosa",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "rosarum",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "dalom": {
+      "latin": "gummi",
+      "ref": "I_gummi_arabicum",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "gummi",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "ysheeo": {
+      "latin": "arabici",
+      "ref": "",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "arabici",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "qoetar": {
+      "latin": "ducis",
+      "ref": "",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "ducis",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "qokaram": {
+      "latin": "rogerii",
+      "ref": "",
+      "score": 0.852,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.852,
+      "alternatives": [
+        [
+          "rogerii",
+          0.852,
+          1
+        ]
+      ]
+    },
+    "qokaly": {
+      "latin": "sagapeni",
+      "ref": "I_sagapenum",
+      "score": 0.841,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.841,
+      "alternatives": [
+        [
+          "sagapeni",
+          0.841,
+          1
+        ]
+      ]
+    },
+    "dalam": {
+      "latin": "g.iii",
+      "ref": "",
+      "score": 0.841,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.841,
+      "alternatives": [
+        [
+          "g.iii",
+          0.841,
+          1
+        ]
+      ]
+    },
+    "okcheey": {
+      "latin": "succi",
+      "ref": "I_succus",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "succi",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "lkechedy": {
+      "latin": "coconidii",
+      "ref": "",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "coconidii",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "okshey": {
+      "latin": "succi",
+      "ref": "I_succus",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "succi",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "otechshy": {
+      "latin": "mandragore",
+      "ref": "I_mandragora",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "mandragore",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "okchechy": {
+      "latin": "qualis",
+      "ref": "",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "qualis",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "olcheo": {
+      "latin": "succum",
+      "ref": "I_succus",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "succum",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "chckhdy": {
+      "latin": "mirtili",
+      "ref": "",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "mirtili",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "olpchedy": {
+      "latin": "simphiti",
+      "ref": "I_symphytum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "simphiti",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "chtchy": {
+      "latin": "boli",
+      "ref": "I_bolus",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "boli",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "kalchedy": {
+      "latin": "masticis",
+      "ref": "I_mastix",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "masticis",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "opchdy": {
+      "latin": "gummi",
+      "ref": "I_gummi_arabicum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "gummi",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "cpheor": {
+      "latin": "mirti",
+      "ref": "I_myrtus",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "mirti",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "shotchy": {
+      "latin": "cimini",
+      "ref": "I_cuminum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "cimini",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "daiiral": {
+      "latin": "nitri",
+      "ref": "I_nitrum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "nitri",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "cheor": {
+      "latin": "piperis",
+      "ref": "I_piper_nigrum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "piperis",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "dshedy": {
+      "latin": "ameos",
+      "ref": "I_ammi",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "ameos",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "otair": {
+      "latin": "apii",
+      "ref": "I_apium",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "apii",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "sheedal": {
+      "latin": "costi",
+      "ref": "I_costus",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "costi",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "cheokam": {
+      "latin": "epatis",
+      "ref": "I_hepatica",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "epatis",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "ody": {
+      "latin": "succo",
+      "ref": "I_succus",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "succo",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "qopchdy": {
+      "latin": "cumini",
+      "ref": "I_cuminum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "cumini",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "ytar": {
+      "latin": "mei",
+      "ref": "I_mel",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "mei",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "cheeor": {
+      "latin": "calamite",
+      "ref": "I_calaminthum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "calamite",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "alkedy": {
+      "latin": "acori",
+      "ref": "I_acorus",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "acori",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "lkeam": {
+      "latin": "celtice",
+      "ref": "I_celticum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "celtice",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "okedam": {
+      "latin": "vere",
+      "ref": "I_vernix",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "vere",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "qekeey": {
+      "latin": "eboris",
+      "ref": "I_ebur",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "eboris",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "chckhom": {
+      "latin": "antofali",
+      "ref": "",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "antofali",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "keedal": {
+      "latin": "folii",
+      "ref": "I_folium",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "folii",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "lokeey": {
+      "latin": "anisi",
+      "ref": "I_anisum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "anisi",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "oedy": {
+      "latin": "auri",
+      "ref": "I_aurum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "auri",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "cheam": {
+      "latin": "argenti",
+      "ref": "I_argentum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "argenti",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "ychey": {
+      "latin": "musci",
+      "ref": "I_muscus",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "musci",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "charam": {
+      "latin": "trium",
+      "ref": "I_triticum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "trium",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "teody": {
+      "latin": "rosarum",
+      "ref": "I_rosa",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "rosarum",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "tarol": {
+      "latin": "spodii",
+      "ref": "I_spodium",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "spodii",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "qotaly": {
+      "latin": "galange",
+      "ref": "I_galanga",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "galange",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "cheoar": {
+      "latin": "storacis",
+      "ref": "I_storacis",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "storacis",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "oteeos": {
+      "latin": "anisi",
+      "ref": "I_anisum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "anisi",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "sokal": {
+      "latin": "vere",
+      "ref": "I_vernix",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "vere",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "dairy": {
+      "latin": "asari",
+      "ref": "I_asarum",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "asari",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "cheedar": {
+      "latin": "succo",
+      "ref": "I_succus",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "succo",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "qokod": {
+      "latin": "succi",
+      "ref": "I_succus",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "succi",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "choky": {
+      "latin": "qualis",
+      "ref": "",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "qualis",
+          0.833,
+          1
+        ]
+      ]
+    },
+    "sheoal": {
+      "latin": "solem",
+      "ref": "T_sol",
+      "score": 0.833,
+      "count": 1,
+      "total_evidence": 1,
+      "agreement": 1.0,
+      "confidence": 0.833,
+      "alternatives": [
+        [
+          "solem",
+          0.833,
+          1
+        ]
+      ]
+    }
+  },
+  "cleartext_confirmed": {
+    "sal": "salt"
+  },
+  "n_total_evidence": 531
+}

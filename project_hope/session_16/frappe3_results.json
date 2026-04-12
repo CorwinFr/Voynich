@@ -1,0 +1,146 @@
+{
+  "n_balnea_folios": 20,
+  "n_exclusive_roots": 7,
+  "n_enriched_roots": 23,
+  "exclusive_roots": [
+    {
+      "root": "qolsh",
+      "total": 9,
+      "balnea_count": 9
+    },
+    {
+      "root": "qoly",
+      "total": 7,
+      "balnea_count": 7
+    },
+    {
+      "root": "loly",
+      "total": 6,
+      "balnea_count": 6
+    },
+    {
+      "root": "salch",
+      "total": 6,
+      "balnea_count": 6
+    },
+    {
+      "root": "qolky",
+      "total": 4,
+      "balnea_count": 4
+    },
+    {
+      "root": "lcheckhy",
+      "total": 3,
+      "balnea_count": 3
+    },
+    {
+      "root": "olksh",
+      "total": 3,
+      "balnea_count": 3
+    }
+  ],
+  "enriched_roots": [
+    {
+      "root": "rsh",
+      "total": 13,
+      "balnea_pct": 92
+    },
+    {
+      "root": "solch",
+      "total": 10,
+      "balnea_pct": 90
+    },
+    {
+      "root": "qolch",
+      "total": 29,
+      "balnea_pct": 86
+    },
+    {
+      "root": "solsh",
+      "total": 7,
+      "balnea_pct": 85
+    },
+    {
+      "root": "sheckh",
+      "total": 12,
+      "balnea_pct": 83
+    },
+    {
+      "root": "dolsh",
+      "total": 5,
+      "balnea_pct": 80
+    },
+    {
+      "root": "qopsh",
+      "total": 5,
+      "balnea_pct": 80
+    },
+    {
+      "root": "sheety",
+      "total": 8,
+      "balnea_pct": 75
+    },
+    {
+      "root": "cheolch",
+      "total": 4,
+      "balnea_pct": 75
+    },
+    {
+      "root": "lor",
+      "total": 4,
+      "balnea_pct": 75
+    },
+    {
+      "root": "roiin",
+      "total": 4,
+      "balnea_pct": 75
+    },
+    {
+      "root": "polsh",
+      "total": 4,
+      "balnea_pct": 75
+    },
+    {
+      "root": "otalsh",
+      "total": 4,
+      "balnea_pct": 75
+    },
+    {
+      "root": "qolk",
+      "total": 22,
+      "balnea_pct": 72
+    },
+    {
+      "root": "olsh",
+      "total": 50,
+      "balnea_pct": 66
+    },
+    {
+      "root": "qol",
+      "total": 18,
+      "balnea_pct": 66
+    },
+    {
+      "root": "lol",
+      "total": 6,
+      "balnea_pct": 66
+    },
+    {
+      "root": "dag",
+      "total": 3,
+      "balnea_pct": 66
+    },
+    {
+      "root": "lshed",
+      "total": 3,
+      "balnea_pct": 66
+    },
+    {
+      "root": "qokas",
+      "total": 3,
+      "balnea_pct": 66
+    }
+  ],
+  "body_parts": {},
+  "bath_types": {}
+}

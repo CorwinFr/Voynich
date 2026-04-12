@@ -1,0 +1,207 @@
+{
+  "n_anchors": 24,
+  "n_roots_tested": 464,
+  "n_matches": 18,
+  "n_significant": 0,
+  "discoveries": [],
+  "all_matches": [
+    {
+      "root": "daly",
+      "ingredient": "oleum",
+      "tp": 3,
+      "fp": 1,
+      "fn": 2,
+      "tn": 0,
+      "jaccard": 0.5,
+      "p_value": 1.0,
+      "n_folios": 4
+    },
+    {
+      "root": "cthy",
+      "ingredient": "vinum",
+      "tp": 10,
+      "fp": 2,
+      "fn": 10,
+      "tn": 0,
+      "jaccard": 0.455,
+      "p_value": 1.0,
+      "n_folios": 12
+    },
+    {
+      "root": "qotch",
+      "ingredient": "mel",
+      "tp": 8,
+      "fp": 0,
+      "fn": 10,
+      "tn": 0,
+      "jaccard": 0.444,
+      "p_value": 1.0,
+      "n_folios": 8
+    },
+    {
+      "root": "shed",
+      "ingredient": "oleum",
+      "tp": 3,
+      "fp": 2,
+      "fn": 2,
+      "tn": 0,
+      "jaccard": 0.429,
+      "p_value": 1.0,
+      "n_folios": 5
+    },
+    {
+      "root": "ctho",
+      "ingredient": "ovum",
+      "tp": 3,
+      "fp": 2,
+      "fn": 2,
+      "tn": 0,
+      "jaccard": 0.429,
+      "p_value": 1.0,
+      "n_folios": 5
+    },
+    {
+      "root": "ytch",
+      "ingredient": "mel",
+      "tp": 8,
+      "fp": 1,
+      "fn": 10,
+      "tn": 0,
+      "jaccard": 0.421,
+      "p_value": 1.0,
+      "n_folios": 9
+    },
+    {
+      "root": "ckhy",
+      "ingredient": "succus",
+      "tp": 6,
+      "fp": 2,
+      "fn": 8,
+      "tn": 0,
+      "jaccard": 0.375,
+      "p_value": 1.0,
+      "n_folios": 8
+    },
+    {
+      "root": "sheo",
+      "ingredient": "succus",
+      "tp": 5,
+      "fp": 1,
+      "fn": 9,
+      "tn": 0,
+      "jaccard": 0.333,
+      "p_value": 1.0,
+      "n_folios": 6
+    },
+    {
+      "root": "chckhy",
+      "ingredient": "acetum",
+      "tp": 4,
+      "fp": 0,
+      "fn": 9,
+      "tn": 0,
+      "jaccard": 0.308,
+      "p_value": 1.0,
+      "n_folios": 4
+    },
+    {
+      "root": "okch",
+      "ingredient": "mel",
+      "tp": 6,
+      "fp": 2,
+      "fn": 12,
+      "tn": 0,
+      "jaccard": 0.3,
+      "p_value": 1.0,
+      "n_folios": 8
+    },
+    {
+      "root": "chok",
+      "ingredient": "vinum",
+      "tp": 6,
+      "fp": 0,
+      "fn": 14,
+      "tn": 0,
+      "jaccard": 0.3,
+      "p_value": 1.0,
+      "n_folios": 6
+    },
+    {
+      "root": "qoky",
+      "ingredient": "vinum",
+      "tp": 6,
+      "fp": 0,
+      "fn": 14,
+      "tn": 0,
+      "jaccard": 0.3,
+      "p_value": 1.0,
+      "n_folios": 6
+    },
+    {
+      "root": "cheky",
+      "ingredient": "succus",
+      "tp": 4,
+      "fp": 0,
+      "fn": 10,
+      "tn": 0,
+      "jaccard": 0.286,
+      "p_value": 1.0,
+      "n_folios": 4
+    },
+    {
+      "root": "choky",
+      "ingredient": "vinum",
+      "tp": 6,
+      "fp": 1,
+      "fn": 14,
+      "tn": 0,
+      "jaccard": 0.286,
+      "p_value": 1.0,
+      "n_folios": 7
+    },
+    {
+      "root": "cheo",
+      "ingredient": "mel",
+      "tp": 5,
+      "fp": 0,
+      "fn": 13,
+      "tn": 0,
+      "jaccard": 0.278,
+      "p_value": 1.0,
+      "n_folios": 5
+    },
+    {
+      "root": "otol",
+      "ingredient": "aqua",
+      "tp": 3,
+      "fp": 1,
+      "fn": 7,
+      "tn": 0,
+      "jaccard": 0.273,
+      "p_value": 1.0,
+      "n_folios": 4
+    },
+    {
+      "root": "chcthy",
+      "ingredient": "mel",
+      "tp": 5,
+      "fp": 1,
+      "fn": 13,
+      "tn": 0,
+      "jaccard": 0.263,
+      "p_value": 1.0,
+      "n_folios": 6
+    },
+    {
+      "root": "qokch",
+      "ingredient": "aqua",
+      "tp": 3,
+      "fp": 2,
+      "fn": 7,
+      "tn": 0,
+      "jaccard": 0.25,
+      "p_value": 1.0,
+      "n_folios": 5
+    }
+  ]
+}

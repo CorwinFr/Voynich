@@ -1,0 +1,1017 @@
+{
+  "all_results": [
+    {
+      "root": "teod",
+      "ingredient": "i_materia",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "cheos",
+      "ingredient": "i_materia",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "chek",
+      "ingredient": "i_materia",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "teod",
+      "ingredient": "i_myrrhus",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "cheos",
+      "ingredient": "i_myrrhus",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "chek",
+      "ingredient": "i_myrrhus",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "teod",
+      "ingredient": "i_meum",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "cheos",
+      "ingredient": "i_meum",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "chek",
+      "ingredient": "i_meum",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "teod",
+      "ingredient": "i_scapula",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "cheos",
+      "ingredient": "i_scapula",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "chek",
+      "ingredient": "i_scapula",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "chety",
+      "ingredient": "i_aurum",
+      "n_present": 3,
+      "n_absent": 6,
+      "n_candidates": 1,
+      "present_folios": [
+        "f48v",
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "olk",
+      "ingredient": "i_plantaginis",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f48v",
+        "f95v1"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "tchd",
+      "ingredient": "i_plantaginis",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f48v",
+        "f95v1"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "chd",
+      "ingredient": "i_plantaginis",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f48v",
+        "f95v1"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "shy",
+      "ingredient": "i_caro",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f29r",
+        "f21r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "she",
+      "ingredient": "i_caro",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f29r",
+        "f21r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "che",
+      "ingredient": "i_caro",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f29r",
+        "f21r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "teod",
+      "ingredient": "i_folium",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "cheos",
+      "ingredient": "i_folium",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "chek",
+      "ingredient": "i_folium",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "ypch",
+      "ingredient": "i_allium",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 2,
+      "present_folios": [
+        "f48v",
+        "f9v"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "yp",
+      "ingredient": "i_allium",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 2,
+      "present_folios": [
+        "f48v",
+        "f9v"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "teod",
+      "ingredient": "i_sandalum",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "cheos",
+      "ingredient": "i_sandalum",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "chek",
+      "ingredient": "i_sandalum",
+      "n_present": 2,
+      "n_absent": 7,
+      "n_candidates": 3,
+      "present_folios": [
+        "f66v",
+        "f87r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "oky",
+      "ingredient": "i_vesica",
+      "n_present": 3,
+      "n_absent": 6,
+      "n_candidates": 2,
+      "present_folios": [
+        "f9v",
+        "f44v",
+        "f29r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "ych",
+      "ingredient": "i_vesica",
+      "n_present": 3,
+      "n_absent": 6,
+      "n_candidates": 2,
+      "present_folios": [
+        "f9v",
+        "f44v",
+        "f29r"
+      ],
+      "corpus": "MACER",
+      "strength": "NARROW"
+    },
+    {
+      "root": "choty",
+      "ingredient": "i_myrrha",
+      "n_present": 2,
+      "n_absent": 26,
+      "n_candidates": 1,
+      "present_folios": [
+        "f29r",
+        "f28r"
+      ],
+      "corpus": "AVICENNA",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "choky",
+      "ingredient": "i_manus",
+      "n_present": 2,
+      "n_absent": 26,
+      "n_candidates": 2,
+      "present_folios": [
+        "f44v",
+        "f29r"
+      ],
+      "corpus": "AVICENNA",
+      "strength": "NARROW"
+    },
+    {
+      "root": "qoty",
+      "ingredient": "i_manus",
+      "n_present": 2,
+      "n_absent": 26,
+      "n_candidates": 2,
+      "present_folios": [
+        "f44v",
+        "f29r"
+      ],
+      "corpus": "AVICENNA",
+      "strength": "NARROW"
+    },
+    {
+      "root": "otch",
+      "ingredient": "i_vena",
+      "n_present": 3,
+      "n_absent": 25,
+      "n_candidates": 1,
+      "present_folios": [
+        "f44v",
+        "f45r",
+        "f47v"
+      ],
+      "corpus": "AVICENNA",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "che",
+      "ingredient": "i_panis",
+      "n_present": 2,
+      "n_absent": 26,
+      "n_candidates": 1,
+      "present_folios": [
+        "f29r",
+        "f3v"
+      ],
+      "corpus": "AVICENNA",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "cthod",
+      "ingredient": "i_ren",
+      "n_present": 3,
+      "n_absent": 25,
+      "n_candidates": 1,
+      "present_folios": [
+        "f9v",
+        "f29v",
+        "f21r"
+      ],
+      "corpus": "AVICENNA",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "sho",
+      "ingredient": "i_nitrum",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 1,
+      "present_folios": [
+        "f37r",
+        "f29v"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "choty",
+      "ingredient": "i_aqua",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 3,
+      "present_folios": [
+        "f29r",
+        "f28r"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "NARROW"
+    },
+    {
+      "root": "qoty",
+      "ingredient": "i_aqua",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 3,
+      "present_folios": [
+        "f29r",
+        "f28r"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "NARROW"
+    },
+    {
+      "root": "choky",
+      "ingredient": "i_aqua",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 3,
+      "present_folios": [
+        "f29r",
+        "f28r"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "NARROW"
+    },
+    {
+      "root": "yd",
+      "ingredient": "i_nigella",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 1,
+      "present_folios": [
+        "f29v",
+        "f35v"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "sho",
+      "ingredient": "i_absinthium",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 1,
+      "present_folios": [
+        "f37r",
+        "f3v"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "sho",
+      "ingredient": "i_piscis",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 1,
+      "present_folios": [
+        "f37r",
+        "f3v"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "ke",
+      "ingredient": "i_ruta",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 1,
+      "present_folios": [
+        "f3v",
+        "f14r"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "ckhy",
+      "ingredient": "i_viola",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 1,
+      "present_folios": [
+        "f9v",
+        "f37r"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "ycheoky",
+      "ingredient": "i_salvia",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 1,
+      "present_folios": [
+        "f51v",
+        "f41r"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "dsh",
+      "ingredient": "i_panis",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 1,
+      "present_folios": [
+        "f41v",
+        "f44r"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "UNIQUE"
+    },
+    {
+      "root": "tch",
+      "ingredient": "i_farina",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 2,
+      "present_folios": [
+        "f9v",
+        "f41v"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "NARROW"
+    },
+    {
+      "root": "choy",
+      "ingredient": "i_farina",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 2,
+      "present_folios": [
+        "f9v",
+        "f41v"
+      ],
+      "corpus": "ABENGUEFIT",
+      "strength": "NARROW"
+    },
+    {
+      "root": "qod",
+      "ingredient": "i_caro",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 2,
+      "present_folios": [
+        "f41r",
+        "f45r"
+      ],
+      "corpus": "ALPHITA",
+      "strength": "NARROW"
+    },
+    {
+      "root": "dal",
+      "ingredient": "i_caro",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 2,
+      "present_folios": [
+        "f41r",
+        "f45r"
+      ],
+      "corpus": "ALPHITA",
+      "strength": "NARROW"
+    },
+    {
+      "root": "shckhy",
+      "ingredient": "i_allium",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 2,
+      "present_folios": [
+        "f65v",
+        "f39r"
+      ],
+      "corpus": "ALPHITA",
+      "strength": "NARROW"
+    },
+    {
+      "root": "shckh",
+      "ingredient": "i_allium",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 2,
+      "present_folios": [
+        "f65v",
+        "f39r"
+      ],
+      "corpus": "ALPHITA",
+      "strength": "NARROW"
+    },
+    {
+      "root": "shckhy",
+      "ingredient": "i_caepa",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 2,
+      "present_folios": [
+        "f65v",
+        "f39r"
+      ],
+      "corpus": "ALPHITA",
+      "strength": "NARROW"
+    },
+    {
+      "root": "shckh",
+      "ingredient": "i_caepa",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 2,
+      "present_folios": [
+        "f65v",
+        "f39r"
+      ],
+      "corpus": "ALPHITA",
+      "strength": "NARROW"
+    },
+    {
+      "root": "shek",
+      "ingredient": "i_cuminum",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 3,
+      "present_folios": [
+        "f41r",
+        "f41v"
+      ],
+      "corpus": "ALPHITA",
+      "strength": "NARROW"
+    },
+    {
+      "root": "ykeeo",
+      "ingredient": "i_cuminum",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 3,
+      "present_folios": [
+        "f41r",
+        "f41v"
+      ],
+      "corpus": "ALPHITA",
+      "strength": "NARROW"
+    },
+    {
+      "root": "chd",
+      "ingredient": "i_cuminum",
+      "n_present": 2,
+      "n_absent": 19,
+      "n_candidates": 3,
+      "present_folios": [
+        "f41r",
+        "f41v"
+      ],
+      "corpus": "ALPHITA",
+      "strength": "NARROW"
+    }
+  ],
+  "new_confirmed": {},
+  "new_probable": {
+    "teod": {
+      "latin": "i_materia",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "cheos": {
+      "latin": "i_materia",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "chek": {
+      "latin": "i_materia",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "chety": {
+      "latin": "i_aurum",
+      "confidence": 0.7,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "olk": {
+      "latin": "i_plantaginis",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "tchd": {
+      "latin": "i_plantaginis",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "chd": {
+      "latin": "i_plantaginis",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "shy": {
+      "latin": "i_caro",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "she": {
+      "latin": "i_caro",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "che": {
+      "latin": "i_caro",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "ypch": {
+      "latin": "i_allium",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "yp": {
+      "latin": "i_allium",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "oky": {
+      "latin": "i_vesica",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "ych": {
+      "latin": "i_vesica",
+      "confidence": 0.5,
+      "sources": [
+        "MACER"
+      ],
+      "n_sources": 1
+    },
+    "choty": {
+      "latin": "i_myrrha",
+      "confidence": 0.7,
+      "sources": [
+        "AVICENNA"
+      ],
+      "n_sources": 1
+    },
+    "choky": {
+      "latin": "i_manus",
+      "confidence": 0.5,
+      "sources": [
+        "AVICENNA"
+      ],
+      "n_sources": 1
+    },
+    "qoty": {
+      "latin": "i_manus",
+      "confidence": 0.5,
+      "sources": [
+        "AVICENNA"
+      ],
+      "n_sources": 1
+    },
+    "otch": {
+      "latin": "i_vena",
+      "confidence": 0.7,
+      "sources": [
+        "AVICENNA"
+      ],
+      "n_sources": 1
+    },
+    "cthod": {
+      "latin": "i_ren",
+      "confidence": 0.7,
+      "sources": [
+        "AVICENNA"
+      ],
+      "n_sources": 1
+    },
+    "sho": {
+      "latin": "i_nitrum",
+      "confidence": 0.7,
+      "sources": [
+        "ABENGUEFIT"
+      ],
+      "n_sources": 1
+    },
+    "yd": {
+      "latin": "i_nigella",
+      "confidence": 0.7,
+      "sources": [
+        "ABENGUEFIT"
+      ],
+      "n_sources": 1
+    },
+    "ke": {
+      "latin": "i_ruta",
+      "confidence": 0.7,
+      "sources": [
+        "ABENGUEFIT"
+      ],
+      "n_sources": 1
+    },
+    "ckhy": {
+      "latin": "i_viola",
+      "confidence": 0.7,
+      "sources": [
+        "ABENGUEFIT"
+      ],
+      "n_sources": 1
+    },
+    "ycheoky": {
+      "latin": "i_salvia",
+      "confidence": 0.7,
+      "sources": [
+        "ABENGUEFIT"
+      ],
+      "n_sources": 1
+    },
+    "dsh": {
+      "latin": "i_panis",
+      "confidence": 0.7,
+      "sources": [
+        "ABENGUEFIT"
+      ],
+      "n_sources": 1
+    },
+    "tch": {
+      "latin": "i_farina",
+      "confidence": 0.5,
+      "sources": [
+        "ABENGUEFIT"
+      ],
+      "n_sources": 1
+    },
+    "choy": {
+      "latin": "i_farina",
+      "confidence": 0.5,
+      "sources": [
+        "ABENGUEFIT"
+      ],
+      "n_sources": 1
+    },
+    "qod": {
+      "latin": "i_caro",
+      "confidence": 0.5,
+      "sources": [
+        "ALPHITA"
+      ],
+      "n_sources": 1
+    },
+    "dal": {
+      "latin": "i_caro",
+      "confidence": 0.5,
+      "sources": [
+        "ALPHITA"
+      ],
+      "n_sources": 1
+    },
+    "shckhy": {
+      "latin": "i_allium",
+      "confidence": 0.5,
+      "sources": [
+        "ALPHITA"
+      ],
+      "n_sources": 1
+    },
+    "shckh": {
+      "latin": "i_allium",
+      "confidence": 0.5,
+      "sources": [
+        "ALPHITA"
+      ],
+      "n_sources": 1
+    },
+    "shek": {
+      "latin": "i_cuminum",
+      "confidence": 0.5,
+      "sources": [
+        "ALPHITA"
+      ],
+      "n_sources": 1
+    },
+    "ykeeo": {
+      "latin": "i_cuminum",
+      "confidence": 0.5,
+      "sources": [
+        "ALPHITA"
+      ],
+      "n_sources": 1
+    }
+  }
+}

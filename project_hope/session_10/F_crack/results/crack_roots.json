@@ -1,0 +1,7160 @@
+{
+  "n_roots": 250,
+  "n_ingredients": 1125,
+  "high_confidence": [
+    {
+      "root": "qoked",
+      "latin": "terbentine",
+      "score": 0.6279,
+      "margin": 0.0188,
+      "pharma_freq": 15
+    },
+    {
+      "root": "cheeo",
+      "latin": "polipodii",
+      "score": 0.6226,
+      "margin": 0.0128,
+      "pharma_freq": 27
+    },
+    {
+      "root": "okch",
+      "latin": "euforbii",
+      "score": 0.6137,
+      "margin": 0.0509,
+      "pharma_freq": 39
+    },
+    {
+      "root": "oked",
+      "latin": "gentiane",
+      "score": 0.6115,
+      "margin": 0.0444,
+      "pharma_freq": 12
+    },
+    {
+      "root": "qokee",
+      "latin": "dragaganti",
+      "score": 0.6074,
+      "margin": 0.0046,
+      "pharma_freq": 16
+    },
+    {
+      "root": "chl",
+      "latin": "acori",
+      "score": 0.605,
+      "margin": 0.0181,
+      "pharma_freq": 22
+    },
+    {
+      "root": "ol",
+      "latin": "mane",
+      "score": 0.6022,
+      "margin": 0.0268,
+      "pharma_freq": 158
+    },
+    {
+      "root": "shed",
+      "latin": "maratri",
+      "score": 0.5964,
+      "margin": 0.0151,
+      "pharma_freq": 33
+    },
+    {
+      "root": "oted",
+      "latin": "reupontici",
+      "score": 0.5953,
+      "margin": 0.0101,
+      "pharma_freq": 16
+    },
+    {
+      "root": "qokeeo",
+      "latin": "xilobalsami",
+      "score": 0.5949,
+      "margin": 0.0102,
+      "pharma_freq": 22
+    },
+    {
+      "root": "pol",
+      "latin": "gentiane",
+      "score": 0.5947,
+      "margin": 0.0141,
+      "pharma_freq": 12
+    },
+    {
+      "root": "yk",
+      "latin": "mane",
+      "score": 0.5899,
+      "margin": 0.0169,
+      "pharma_freq": 47
+    },
+    {
+      "root": "ain",
+      "latin": "aloes",
+      "score": 0.5897,
+      "margin": 0.03,
+      "pharma_freq": 57
+    },
+    {
+      "root": "al",
+      "latin": "ende",
+      "score": 0.5884,
+      "margin": 0.0074,
+      "pharma_freq": 160
+    },
+    {
+      "root": "ot",
+      "latin": "mei",
+      "score": 0.5868,
+      "margin": 0.0152,
+      "pharma_freq": 516
+    },
+    {
+      "root": "ote",
+      "latin": "calami",
+      "score": 0.5863,
+      "margin": 0.0281,
+      "pharma_freq": 24
+    },
+    {
+      "root": "che",
+      "latin": "meilis",
+      "score": 0.585,
+      "margin": 0.05,
+      "pharma_freq": 56
+    },
+    {
+      "root": "qoke",
+      "latin": "piretri",
+      "score": 0.5848,
+      "margin": 0.0045,
+      "pharma_freq": 26
+    },
+    {
+      "root": "chy",
+      "latin": "specierum",
+      "score": 0.5831,
+      "margin": 0.0398,
+      "pharma_freq": 12
+    },
+    {
+      "root": "qokeed",
+      "latin": "leucopiperis",
+      "score": 0.5822,
+      "margin": 0.0187,
+      "pharma_freq": 19
+    },
+    {
+      "root": "ches",
+      "latin": "prunorum",
+      "score": 0.5822,
+      "margin": 0.0349,
+      "pharma_freq": 12
+    },
+    {
+      "root": "pch",
+      "latin": "maratri",
+      "score": 0.5797,
+      "margin": 0.0137,
+      "pharma_freq": 31
+    },
+    {
+      "root": "shod",
+      "latin": "anacardi",
+      "score": 0.5781,
+      "margin": 0.0275,
+      "pharma_freq": 12
+    },
+    {
+      "root": "qote",
+      "latin": "anacardi",
+      "score": 0.5778,
+      "margin": 0.0638,
+      "pharma_freq": 10
+    },
+    {
+      "root": "qofch",
+      "latin": "reubarbari",
+      "score": 0.5763,
+      "margin": 0.0528,
+      "pharma_freq": 9
+    },
+    {
+      "root": "alk",
+      "latin": "levistici",
+      "score": 0.5761,
+      "margin": 0.002,
+      "pharma_freq": 21
+    },
+    {
+      "root": "lo",
+      "latin": "eboris",
+      "score": 0.5757,
+      "margin": 0.0286,
+      "pharma_freq": 15
+    },
+    {
+      "root": "opch",
+      "latin": "violarum",
+      "score": 0.5755,
+      "margin": 0.0386,
+      "pharma_freq": 59
+    },
+    {
+      "root": "aiin",
+      "latin": "masticis",
+      "score": 0.5753,
+      "margin": 0.0245,
+      "pharma_freq": 210
+    },
+    {
+      "root": "oke",
+      "latin": "musci",
+      "score": 0.5752,
+      "margin": 0.003,
+      "pharma_freq": 24
+    },
+    {
+      "root": "oteo",
+      "latin": "anacardi",
+      "score": 0.5751,
+      "margin": 0.0257,
+      "pharma_freq": 13
+    },
+    {
+      "root": "lch",
+      "latin": "meilis",
+      "score": 0.5736,
+      "margin": 0.0182,
+      "pharma_freq": 108
+    },
+    {
+      "root": "olk",
+      "latin": "meilis",
+      "score": 0.5733,
+      "margin": 0.0292,
+      "pharma_freq": 75
+    },
+    {
+      "root": "qoky",
+      "latin": "aristologie",
+      "score": 0.5731,
+      "margin": 0.0092,
+      "pharma_freq": 30
+    },
+    {
+      "root": "oteed",
+      "latin": "gentiane",
+      "score": 0.5729,
+      "margin": 0.0019,
+      "pharma_freq": 11
+    },
+    {
+      "root": "oky",
+      "latin": "ciperi",
+      "score": 0.5723,
+      "margin": 0.0471,
+      "pharma_freq": 12
+    },
+    {
+      "root": "okeeo",
+      "latin": "levistici",
+      "score": 0.5719,
+      "margin": 0.0187,
+      "pharma_freq": 19
+    },
+    {
+      "root": "dsh",
+      "latin": "melle",
+      "score": 0.5716,
+      "margin": 0.0013,
+      "pharma_freq": 17
+    },
+    {
+      "root": "qotch",
+      "latin": "reubarbari",
+      "score": 0.5696,
+      "margin": 0.013,
+      "pharma_freq": 37
+    },
+    {
+      "root": "ar",
+      "latin": "mane",
+      "score": 0.5685,
+      "margin": 0.0012,
+      "pharma_freq": 176
+    },
+    {
+      "root": "qokch",
+      "latin": "zinziberis",
+      "score": 0.5682,
+      "margin": 0.0086,
+      "pharma_freq": 65
+    },
+    {
+      "root": "tched",
+      "latin": "dragaganti",
+      "score": 0.5676,
+      "margin": 0.0381,
+      "pharma_freq": 7
+    },
+    {
+      "root": "qop",
+      "latin": "reupontici",
+      "score": 0.5671,
+      "margin": 0.0054,
+      "pharma_freq": 15
+    },
+    {
+      "root": "chcth",
+      "latin": "prunorum",
+      "score": 0.5663,
+      "margin": 0.0153,
+      "pharma_freq": 11
+    },
+    {
+      "root": "olch",
+      "latin": "aristologie",
+      "score": 0.5657,
+      "margin": 0.0157,
+      "pharma_freq": 30
+    },
+    {
+      "root": "ok",
+      "latin": "succi",
+      "score": 0.5655,
+      "margin": 0.0212,
+      "pharma_freq": 500
+    },
+    {
+      "root": "qo",
+      "latin": "vino",
+      "score": 0.5653,
+      "margin": 0.0012,
+      "pharma_freq": 62
+    },
+    {
+      "root": "kch",
+      "latin": "melle",
+      "score": 0.5646,
+      "margin": 0.02,
+      "pharma_freq": 23
+    },
+    {
+      "root": "chek",
+      "latin": "specierum",
+      "score": 0.5642,
+      "margin": 0.0028,
+      "pharma_freq": 13
+    },
+    {
+      "root": "otch",
+      "latin": "agarici",
+      "score": 0.5639,
+      "margin": 0.0061,
+      "pharma_freq": 44
+    },
+    {
+      "root": "ch",
+      "latin": "aqua",
+      "score": 0.5639,
+      "margin": 0.0344,
+      "pharma_freq": 679
+    },
+    {
+      "root": "od",
+      "latin": "olei",
+      "score": 0.5633,
+      "margin": 0.0303,
+      "pharma_freq": 44
+    },
+    {
+      "root": "she",
+      "latin": "feniculi",
+      "score": 0.563,
+      "margin": 0.003,
+      "pharma_freq": 39
+    },
+    {
+      "root": "qopch",
+      "latin": "petroselini",
+      "score": 0.562,
+      "margin": 0.0023,
+      "pharma_freq": 46
+    },
+    {
+      "root": "ysh",
+      "latin": "lapidis",
+      "score": 0.5619,
+      "margin": 0.0123,
+      "pharma_freq": 14
+    },
+    {
+      "root": "ched",
+      "latin": "meilis",
+      "score": 0.5612,
+      "margin": 0.03,
+      "pharma_freq": 98
+    },
+    {
+      "root": "ycheo",
+      "latin": "levistici",
+      "score": 0.5605,
+      "margin": 0.0018,
+      "pharma_freq": 12
+    },
+    {
+      "root": "qok",
+      "latin": "succi",
+      "score": 0.5603,
+      "margin": 0.0046,
+      "pharma_freq": 802
+    },
+    {
+      "root": "shek",
+      "latin": "prunorum",
+      "score": 0.56,
+      "margin": 0.0566,
+      "pharma_freq": 10
+    },
+    {
+      "root": "fch",
+      "latin": "gentiane",
+      "score": 0.5593,
+      "margin": 0.0059,
+      "pharma_freq": 11
+    },
+    {
+      "root": "lk",
+      "latin": "mane",
+      "score": 0.5571,
+      "margin": 0.0011,
+      "pharma_freq": 202
+    },
+    {
+      "root": "sh",
+      "latin": "aqua",
+      "score": 0.5566,
+      "margin": 0.0474,
+      "pharma_freq": 380
+    },
+    {
+      "root": "chckh",
+      "latin": "aristologie",
+      "score": 0.5566,
+      "margin": 0.0305,
+      "pharma_freq": 25
+    },
+    {
+      "root": "cth",
+      "latin": "zucchari",
+      "score": 0.5565,
+      "margin": 0.0113,
+      "pharma_freq": 15
+    },
+    {
+      "root": "chcthy",
+      "latin": "xilobalsami",
+      "score": 0.5545,
+      "margin": 0.0309,
+      "pharma_freq": 23
+    },
+    {
+      "root": "oty",
+      "latin": "calami",
+      "score": 0.5543,
+      "margin": 0.006,
+      "pharma_freq": 25
+    },
+    {
+      "root": "op",
+      "latin": "folii",
+      "score": 0.5542,
+      "margin": 0.0055,
+      "pharma_freq": 27
+    },
+    {
+      "root": "qoteo",
+      "latin": "anacardi",
+      "score": 0.5516,
+      "margin": 0.0249,
+      "pharma_freq": 10
+    },
+    {
+      "root": "cheok",
+      "latin": "leucopiperis",
+      "score": 0.5516,
+      "margin": 0.0103,
+      "pharma_freq": 15
+    },
+    {
+      "root": "chd",
+      "latin": "succo",
+      "score": 0.5515,
+      "margin": 0.0173,
+      "pharma_freq": 49
+    },
+    {
+      "root": "dy",
+      "latin": "ysopi",
+      "score": 0.551,
+      "margin": 0.0159,
+      "pharma_freq": 15
+    },
+    {
+      "root": "cho",
+      "latin": "gummi",
+      "score": 0.5506,
+      "margin": 0.0191,
+      "pharma_freq": 42
+    },
+    {
+      "root": "aiir",
+      "latin": "anacardi",
+      "score": 0.55,
+      "margin": 0.001,
+      "pharma_freq": 15
+    },
+    {
+      "root": "olsh",
+      "latin": "gentiane",
+      "score": 0.5496,
+      "margin": 0.0016,
+      "pharma_freq": 10
+    },
+    {
+      "root": "chot",
+      "latin": "zedoarie",
+      "score": 0.5492,
+      "margin": 0.0009,
+      "pharma_freq": 17
+    },
+    {
+      "root": "dal",
+      "latin": "ciperi",
+      "score": 0.5481,
+      "margin": 0.0226,
+      "pharma_freq": 10
+    },
+    {
+      "root": "cht",
+      "latin": "epatis",
+      "score": 0.5478,
+      "margin": 0.0004,
+      "pharma_freq": 13
+    },
+    {
+      "root": "ych",
+      "latin": "spodii",
+      "score": 0.545,
+      "margin": 0.0059,
+      "pharma_freq": 29
+    },
+    {
+      "root": "lok",
+      "latin": "meilis",
+      "score": 0.5448,
+      "margin": 0.034,
+      "pharma_freq": 6
+    },
+    {
+      "root": "am",
+      "latin": "rute",
+      "score": 0.5441,
+      "margin": 0.0205,
+      "pharma_freq": 29
+    },
+    {
+      "root": "pched",
+      "latin": "sanguinis",
+      "score": 0.5439,
+      "margin": 0.0123,
+      "pharma_freq": 12
+    },
+    {
+      "root": "lsh",
+      "latin": "piretri",
+      "score": 0.5437,
+      "margin": 0.0049,
+      "pharma_freq": 31
+    },
+    {
+      "root": "oiin",
+      "latin": "gentiane",
+      "score": 0.5435,
+      "margin": 0.0262,
+      "pharma_freq": 10
+    },
+    {
+      "root": "okee",
+      "latin": "anacardi",
+      "score": 0.5434,
+      "margin": 0.0286,
+      "pharma_freq": 10
+    },
+    {
+      "root": "shok",
+      "latin": "prunorum",
+      "score": 0.5411,
+      "margin": 0.0211,
+      "pharma_freq": 10
+    },
+    {
+      "root": "cheos",
+      "latin": "gentiane",
+      "score": 0.5407,
+      "margin": 0.0037,
+      "pharma_freq": 13
+    },
+    {
+      "root": "qot",
+      "latin": "aqua",
+      "score": 0.5396,
+      "margin": 0.0091,
+      "pharma_freq": 248
+    },
+    {
+      "root": "chk",
+      "latin": "piretri",
+      "score": 0.5396,
+      "margin": 0.0261,
+      "pharma_freq": 30
+    },
+    {
+      "root": "chok",
+      "latin": "maratri",
+      "score": 0.5393,
+      "margin": 0.007,
+      "pharma_freq": 34
+    },
+    {
+      "root": "cheed",
+      "latin": "sanguinis",
+      "score": 0.5377,
+      "margin": 0.0003,
+      "pharma_freq": 13
+    },
+    {
+      "root": "cheo",
+      "latin": "meilis",
+      "score": 0.5375,
+      "margin": 0.0087,
+      "pharma_freq": 78
+    },
+    {
+      "root": "dch",
+      "latin": "melle",
+      "score": 0.5365,
+      "margin": 0.0138,
+      "pharma_freq": 21
+    },
+    {
+      "root": "keed",
+      "latin": "dragaganti",
+      "score": 0.536,
+      "margin": 0.0059,
+      "pharma_freq": 7
+    },
+    {
+      "root": "chos",
+      "latin": "gentiane",
+      "score": 0.5348,
+      "margin": 0.0031,
+      "pharma_freq": 12
+    },
+    {
+      "root": "qod",
+      "latin": "dauci",
+      "score": 0.5332,
+      "margin": 0.0095,
+      "pharma_freq": 36
+    },
+    {
+      "root": "pchd",
+      "latin": "agarici",
+      "score": 0.5307,
+      "margin": 0.0187,
+      "pharma_freq": 10
+    },
+    {
+      "root": "shk",
+      "latin": "ciperi",
+      "score": 0.53,
+      "margin": 0.0308,
+      "pharma_freq": 10
+    },
+    {
+      "root": "rch",
+      "latin": "succi",
+      "score": 0.529,
+      "margin": 0.0027,
+      "pharma_freq": 7
+    },
+    {
+      "root": "ke",
+      "latin": "ossis",
+      "score": 0.5258,
+      "margin": 0.0079,
+      "pharma_freq": 11
+    },
+    {
+      "root": "kech",
+      "latin": "zedoarie",
+      "score": 0.5222,
+      "margin": 0.0224,
+      "pharma_freq": 5
+    },
+    {
+      "root": "q",
+      "latin": "meilis",
+      "score": 0.5215,
+      "margin": 0.0029,
+      "pharma_freq": 40
+    },
+    {
+      "root": "tar",
+      "latin": "spodii",
+      "score": 0.521,
+      "margin": 0.0213,
+      "pharma_freq": 7
+    },
+    {
+      "root": "yt",
+      "latin": "mane",
+      "score": 0.519,
+      "margin": 0.0053,
+      "pharma_freq": 46
+    },
+    {
+      "root": "qoteed",
+      "latin": "terbentine",
+      "score": 0.5188,
+      "margin": 0.01,
+      "pharma_freq": 5
+    },
+    {
+      "root": "otar",
+      "latin": "anacardi",
+      "score": 0.5182,
+      "margin": 0.0162,
+      "pharma_freq": 9
+    },
+    {
+      "root": "chp",
+      "latin": "meilis",
+      "score": 0.5168,
+      "margin": 0.0269,
+      "pharma_freq": 6
+    },
+    {
+      "root": "cheod",
+      "latin": "levistici",
+      "score": 0.5137,
+      "margin": 0.0044,
+      "pharma_freq": 20
+    },
+    {
+      "root": "or",
+      "latin": "mane",
+      "score": 0.5133,
+      "margin": 0.0008,
+      "pharma_freq": 109
+    },
+    {
+      "root": "qoty",
+      "latin": "eboris",
+      "score": 0.5131,
+      "margin": 0.0014,
+      "pharma_freq": 19
+    },
+    {
+      "root": "alch",
+      "latin": "cardamomi",
+      "score": 0.5121,
+      "margin": 0.0146,
+      "pharma_freq": 5
+    },
+    {
+      "root": "ro",
+      "latin": "aque",
+      "score": 0.5118,
+      "margin": 0.0046,
+      "pharma_freq": 8
+    },
+    {
+      "root": "chod",
+      "latin": "calamite",
+      "score": 0.5117,
+      "margin": 0.0153,
+      "pharma_freq": 24
+    },
+    {
+      "root": "chep",
+      "latin": "euforbii",
+      "score": 0.5105,
+      "margin": 0.0046,
+      "pharma_freq": 5
+    },
+    {
+      "root": "chckhy",
+      "latin": "mane",
+      "score": 0.5097,
+      "margin": 0.0076,
+      "pharma_freq": 38
+    },
+    {
+      "root": "sheek",
+      "latin": "levistici",
+      "score": 0.5095,
+      "margin": 0.0256,
+      "pharma_freq": 8
+    },
+    {
+      "root": "sho",
+      "latin": "spodii",
+      "score": 0.5084,
+      "margin": 0.0032,
+      "pharma_freq": 27
+    },
+    {
+      "root": "l",
+      "latin": "cardamomi",
+      "score": 0.5074,
+      "margin": 0.0133,
+      "pharma_freq": 64
+    },
+    {
+      "root": "yteeo",
+      "latin": "feniculi",
+      "score": 0.5069,
+      "margin": 0.0328,
+      "pharma_freq": 5
+    },
+    {
+      "root": "oin",
+      "latin": "lapidis",
+      "score": 0.5065,
+      "margin": 0.0305,
+      "pharma_freq": 5
+    },
+    {
+      "root": "teo",
+      "latin": "meilis",
+      "score": 0.5055,
+      "margin": 0.0031,
+      "pharma_freq": 5
+    },
+    {
+      "root": "tch",
+      "latin": "piretri",
+      "score": 0.5046,
+      "margin": 0.0049,
+      "pharma_freq": 26
+    },
+    {
+      "root": "cholk",
+      "latin": "anacardi",
+      "score": 0.5046,
+      "margin": 0.0245,
+      "pharma_freq": 9
+    },
+    {
+      "root": "ykch",
+      "latin": "levistici",
+      "score": 0.5037,
+      "margin": 0.0345,
+      "pharma_freq": 5
+    },
+    {
+      "root": "d",
+      "latin": "mei",
+      "score": 0.5037,
+      "margin": 0.0216,
+      "pharma_freq": 291
+    },
+    {
+      "root": "teed",
+      "latin": "levistici",
+      "score": 0.5036,
+      "margin": 0.0098,
+      "pharma_freq": 5
+    },
+    {
+      "root": "qoto",
+      "latin": "polipodii",
+      "score": 0.5032,
+      "margin": 0.0143,
+      "pharma_freq": 7
+    },
+    {
+      "root": "te",
+      "latin": "aqua",
+      "score": 0.5031,
+      "margin": 0.0012,
+      "pharma_freq": 7
+    },
+    {
+      "root": "chet",
+      "latin": "gentiane",
+      "score": 0.5026,
+      "margin": 0.0191,
+      "pharma_freq": 9
+    },
+    {
+      "root": "aiiin",
+      "latin": "diagridii",
+      "score": 0.5025,
+      "margin": 0.0077,
+      "pharma_freq": 21
+    },
+    {
+      "root": "sheckhy",
+      "latin": "terbentine",
+      "score": 0.5024,
+      "margin": 0.0173,
+      "pharma_freq": 11
+    },
+    {
+      "root": "shckhy",
+      "latin": "levistici",
+      "score": 0.5007,
+      "margin": 0.0002,
+      "pharma_freq": 21
+    },
+    {
+      "root": "keeo",
+      "latin": "gentiane",
+      "score": 0.5,
+      "margin": 0.0052,
+      "pharma_freq": 10
+    },
+    {
+      "root": "cph",
+      "latin": "anisi",
+      "score": 0.5,
+      "margin": 0.0106,
+      "pharma_freq": 6
+    },
+    {
+      "root": "qoksh",
+      "latin": "reubarbari",
+      "score": 0.4994,
+      "margin": 0.0232,
+      "pharma_freq": 5
+    },
+    {
+      "root": "r",
+      "latin": "mane",
+      "score": 0.4985,
+      "margin": 0.0105,
+      "pharma_freq": 101
+    },
+    {
+      "root": "lky",
+      "latin": "gentiane",
+      "score": 0.4978,
+      "margin": 0.0284,
+      "pharma_freq": 14
+    },
+    {
+      "root": "qoted",
+      "latin": "gentiane",
+      "score": 0.4976,
+      "margin": 0.025,
+      "pharma_freq": 10
+    },
+    {
+      "root": "sheo",
+      "latin": "euforbii",
+      "score": 0.4975,
+      "margin": 0.0119,
+      "pharma_freq": 31
+    },
+    {
+      "root": "lr",
+      "latin": "mane",
+      "score": 0.4962,
+      "margin": 0.031,
+      "pharma_freq": 7
+    },
+    {
+      "root": "checkhy",
+      "latin": "levistici",
+      "score": 0.4938,
+      "margin": 0.0016,
+      "pharma_freq": 16
+    },
+    {
+      "root": "dl",
+      "latin": "mane",
+      "score": 0.4937,
+      "margin": 0.0209,
+      "pharma_freq": 9
+    },
+    {
+      "root": "osh",
+      "latin": "meilis",
+      "score": 0.4934,
+      "margin": 0.0167,
+      "pharma_freq": 5
+    },
+    {
+      "root": "k",
+      "latin": "mei",
+      "score": 0.4934,
+      "margin": 0.0275,
+      "pharma_freq": 185
+    },
+    {
+      "root": "lkch",
+      "latin": "polipodii",
+      "score": 0.4933,
+      "margin": 0.0119,
+      "pharma_freq": 26
+    },
+    {
+      "root": "tsh",
+      "latin": "gentiane",
+      "score": 0.4924,
+      "margin": 0.0066,
+      "pharma_freq": 10
+    },
+    {
+      "root": "t",
+      "latin": "costi",
+      "score": 0.4915,
+      "margin": 0.0127,
+      "pharma_freq": 85
+    },
+    {
+      "root": "oteeo",
+      "latin": "anacardi",
+      "score": 0.4912,
+      "margin": 0.0064,
+      "pharma_freq": 10
+    },
+    {
+      "root": "chcphy",
+      "latin": "coloquintide",
+      "score": 0.4907,
+      "margin": 0.0129,
+      "pharma_freq": 5
+    },
+    {
+      "root": "lkeo",
+      "latin": "zucchari",
+      "score": 0.4906,
+      "margin": 0.0244,
+      "pharma_freq": 5
+    },
+    {
+      "root": "lcho",
+      "latin": "specierum",
+      "score": 0.4905,
+      "margin": 0.0116,
+      "pharma_freq": 5
+    },
+    {
+      "root": "och",
+      "latin": "anisi",
+      "score": 0.4902,
+      "margin": 0.0009,
+      "pharma_freq": 9
+    },
+    {
+      "root": "lke",
+      "latin": "gentiane",
+      "score": 0.4901,
+      "margin": 0.0002,
+      "pharma_freq": 11
+    },
+    {
+      "root": "kcheo",
+      "latin": "sanguinis",
+      "score": 0.4896,
+      "margin": 0.0142,
+      "pharma_freq": 6
+    },
+    {
+      "root": "air",
+      "latin": "eboris",
+      "score": 0.488,
+      "margin": 0.0148,
+      "pharma_freq": 5
+    },
+    {
+      "root": "s",
+      "latin": "mei",
+      "score": 0.4878,
+      "margin": 0.008,
+      "pharma_freq": 111
+    },
+    {
+      "root": "lkeeo",
+      "latin": "levistici",
+      "score": 0.4872,
+      "margin": 0.0061,
+      "pharma_freq": 7
+    },
+    {
+      "root": "checkh",
+      "latin": "reubarbari",
+      "score": 0.4868,
+      "margin": 0.0141,
+      "pharma_freq": 8
+    },
+    {
+      "root": "ky",
+      "latin": "aqua",
+      "score": 0.4868,
+      "margin": 0.0405,
+      "pharma_freq": 6
+    },
+    {
+      "root": "aly",
+      "latin": "eboris",
+      "score": 0.4863,
+      "margin": 0.0139,
+      "pharma_freq": 6
+    },
+    {
+      "root": "polch",
+      "latin": "portulace",
+      "score": 0.4862,
+      "margin": 0.0329,
+      "pharma_freq": 8
+    },
+    {
+      "root": "lt",
+      "latin": "meu",
+      "score": 0.486,
+      "margin": 0.0045,
+      "pharma_freq": 14
+    },
+    {
+      "root": "sor",
+      "latin": "meilis",
+      "score": 0.4855,
+      "margin": 0.0163,
+      "pharma_freq": 5
+    },
+    {
+      "root": "p",
+      "latin": "dragaganti",
+      "score": 0.4844,
+      "margin": 0.0004,
+      "pharma_freq": 20
+    },
+    {
+      "root": "okal",
+      "latin": "levistici",
+      "score": 0.4843,
+      "margin": 0.041,
+      "pharma_freq": 5
+    },
+    {
+      "root": "qockh",
+      "latin": "gentiane",
+      "score": 0.4836,
+      "margin": 0.0052,
+      "pharma_freq": 10
+    },
+    {
+      "root": "aro",
+      "latin": "ossis",
+      "score": 0.4818,
+      "margin": 0.0304,
+      "pharma_freq": 8
+    },
+    {
+      "root": "cheky",
+      "latin": "gentiane",
+      "score": 0.4814,
+      "margin": 0.0198,
+      "pharma_freq": 10
+    },
+    {
+      "root": "keo",
+      "latin": "croci",
+      "score": 0.4808,
+      "margin": 0.0088,
+      "pharma_freq": 5
+    },
+    {
+      "root": "checth",
+      "latin": "dragaganti",
+      "score": 0.4795,
+      "margin": 0.0,
+      "pharma_freq": 5
+    },
+    {
+      "root": "qoch",
+      "latin": "masticis",
+      "score": 0.4792,
+      "margin": 0.0042,
+      "pharma_freq": 8
+    },
+    {
+      "root": "sheeod",
+      "latin": "leucopiperis",
+      "score": 0.4788,
+      "margin": 0.0035,
+      "pharma_freq": 5
+    },
+    {
+      "root": "pchod",
+      "latin": "petroselini",
+      "score": 0.4764,
+      "margin": 0.0034,
+      "pharma_freq": 5
+    },
+    {
+      "root": "sheok",
+      "latin": "reupontici",
+      "score": 0.4762,
+      "margin": 0.0044,
+      "pharma_freq": 5
+    },
+    {
+      "root": "soiin",
+      "latin": "reupontici",
+      "score": 0.4761,
+      "margin": 0.0127,
+      "pharma_freq": 5
+    },
+    {
+      "root": "sar",
+      "latin": "meilis",
+      "score": 0.4758,
+      "margin": 0.0215,
+      "pharma_freq": 6
+    },
+    {
+      "root": "olkeeo",
+      "latin": "leucopiperis",
+      "score": 0.4756,
+      "margin": 0.0007,
+      "pharma_freq": 6
+    },
+    {
+      "root": "o",
+      "latin": "mei",
+      "score": 0.4743,
+      "margin": 0.0005,
+      "pharma_freq": 39
+    },
+    {
+      "root": "ted",
+      "latin": "folii",
+      "score": 0.4741,
+      "margin": 0.0098,
+      "pharma_freq": 9
+    },
+    {
+      "root": "om",
+      "latin": "vino",
+      "score": 0.4739,
+      "margin": 0.0229,
+      "pharma_freq": 9
+    },
+    {
+      "root": "shd",
+      "latin": "ossis",
+      "score": 0.4738,
+      "margin": 0.0011,
+      "pharma_freq": 9
+    },
+    {
+      "root": "okchd",
+      "latin": "absinthii",
+      "score": 0.4734,
+      "margin": 0.0209,
+      "pharma_freq": 7
+    },
+    {
+      "root": "cheeky",
+      "latin": "aristologie",
+      "score": 0.4727,
+      "margin": 0.0053,
+      "pharma_freq": 5
+    },
+    {
+      "root": "sheeo",
+      "latin": "sanguinis",
+      "score": 0.4719,
+      "margin": 0.0337,
+      "pharma_freq": 7
+    },
+    {
+      "root": "chee",
+      "latin": "cinamomi",
+      "score": 0.4707,
+      "margin": 0.0073,
+      "pharma_freq": 5
+    },
+    {
+      "root": "olkee",
+      "latin": "specierum",
+      "score": 0.4705,
+      "margin": 0.0238,
+      "pharma_freq": 6
+    },
+    {
+      "root": "pcheo",
+      "latin": "coloquintide",
+      "score": 0.4705,
+      "margin": 0.0014,
+      "pharma_freq": 6
+    },
+    {
+      "root": "rod",
+      "latin": "melle",
+      "score": 0.47,
+      "margin": 0.0281,
+      "pharma_freq": 6
+    },
+    {
+      "root": "e",
+      "latin": "mei",
+      "score": 0.4692,
+      "margin": 0.0799,
+      "pharma_freq": 5
+    },
+    {
+      "root": "okar",
+      "latin": "meilis",
+      "score": 0.4691,
+      "margin": 0.0092,
+      "pharma_freq": 6
+    },
+    {
+      "root": "chs",
+      "latin": "herbe",
+      "score": 0.4643,
+      "margin": 0.0156,
+      "pharma_freq": 6
+    },
+    {
+      "root": "cheek",
+      "latin": "cardamomi",
+      "score": 0.4643,
+      "margin": 0.004,
+      "pharma_freq": 5
+    },
+    {
+      "root": "oiiin",
+      "latin": "sanguinis",
+      "score": 0.4643,
+      "margin": 0.0148,
+      "pharma_freq": 5
+    },
+    {
+      "root": "ary",
+      "latin": "levistici",
+      "score": 0.4638,
+      "margin": 0.0085,
+      "pharma_freq": 6
+    },
+    {
+      "root": "kee",
+      "latin": "mane",
+      "score": 0.4635,
+      "margin": 0.0011,
+      "pharma_freq": 8
+    },
+    {
+      "root": "oteod",
+      "latin": "zinziberis",
+      "score": 0.463,
+      "margin": 0.0094,
+      "pharma_freq": 5
+    },
+    {
+      "root": "ockh",
+      "latin": "rosarum",
+      "score": 0.4624,
+      "margin": 0.0014,
+      "pharma_freq": 5
+    },
+    {
+      "root": "qokeo",
+      "latin": "aristologie",
+      "score": 0.4611,
+      "margin": 0.0053,
+      "pharma_freq": 9
+    },
+    {
+      "root": "as",
+      "latin": "amomi",
+      "score": 0.461,
+      "margin": 0.008,
+      "pharma_freq": 5
+    },
+    {
+      "root": "olkch",
+      "latin": "gentiane",
+      "score": 0.4598,
+      "margin": 0.0063,
+      "pharma_freq": 5
+    },
+    {
+      "root": "choty",
+      "latin": "reubarbari",
+      "score": 0.4589,
+      "margin": 0.004,
+      "pharma_freq": 7
+    },
+    {
+      "root": "oto",
+      "latin": "musci",
+      "score": 0.4588,
+      "margin": 0.0139,
+      "pharma_freq": 6
+    },
+    {
+      "root": "oksh",
+      "latin": "calamite",
+      "score": 0.4582,
+      "margin": 0.0003,
+      "pharma_freq": 6
+    },
+    {
+      "root": "ytch",
+      "latin": "aristologie",
+      "score": 0.4562,
+      "margin": 0.0181,
+      "pharma_freq": 7
+    },
+    {
+      "root": "rar",
+      "latin": "melle",
+      "score": 0.4535,
+      "margin": 0.0425,
+      "pharma_freq": 7
+    },
+    {
+      "root": "ls",
+      "latin": "mane",
+      "score": 0.4529,
+      "margin": 0.0089,
+      "pharma_freq": 5
+    },
+    {
+      "root": "y",
+      "latin": "mei",
+      "score": 0.4523,
+      "margin": 0.0607,
+      "pharma_freq": 5
+    },
+    {
+      "root": "sheod",
+      "latin": "absinthii",
+      "score": 0.4514,
+      "margin": 0.0197,
+      "pharma_freq": 8
+    },
+    {
+      "root": "shckh",
+      "latin": "reubarbari",
+      "score": 0.4511,
+      "margin": 0.0039,
+      "pharma_freq": 5
+    },
+    {
+      "root": "ak",
+      "latin": "ende",
+      "score": 0.4508,
+      "margin": 0.0072,
+      "pharma_freq": 5
+    },
+    {
+      "root": "otsh",
+      "latin": "rosarum",
+      "score": 0.4497,
+      "margin": 0.0106,
+      "pharma_freq": 6
+    },
+    {
+      "root": "oly",
+      "latin": "epatis",
+      "score": 0.4496,
+      "margin": 0.0157,
+      "pharma_freq": 7
+    },
+    {
+      "root": "sheky",
+      "latin": "zinziberis",
+      "score": 0.4474,
+      "margin": 0.0117,
+      "pharma_freq": 6
+    },
+    {
+      "root": "os",
+      "latin": "mane",
+      "score": 0.447,
+      "margin": 0.0021,
+      "pharma_freq": 8
+    },
+    {
+      "root": "chees",
+      "latin": "specierum",
+      "score": 0.447,
+      "margin": 0.0204,
+      "pharma_freq": 9
+    },
+    {
+      "root": "yke",
+      "latin": "croci",
+      "score": 0.4469,
+      "margin": 0.0012,
+      "pharma_freq": 5
+    },
+    {
+      "root": "shee",
+      "latin": "cardamomi",
+      "score": 0.4459,
+      "margin": 0.0098,
+      "pharma_freq": 7
+    },
+    {
+      "root": "shy",
+      "latin": "rosarum",
+      "score": 0.4432,
+      "margin": 0.0185,
+      "pharma_freq": 8
+    },
+    {
+      "root": "checthy",
+      "latin": "cardamomi",
+      "score": 0.4429,
+      "margin": 0.0044,
+      "pharma_freq": 8
+    },
+    {
+      "root": "okech",
+      "latin": "reubarbari",
+      "score": 0.4409,
+      "margin": 0.0122,
+      "pharma_freq": 9
+    },
+    {
+      "root": "por",
+      "latin": "portulace",
+      "score": 0.4401,
+      "margin": 0.0043,
+      "pharma_freq": 5
+    },
+    {
+      "root": "okeo",
+      "latin": "euforbii",
+      "score": 0.4385,
+      "margin": 0.0051,
+      "pharma_freq": 5
+    },
+    {
+      "root": "ckh",
+      "latin": "rosarum",
+      "score": 0.4359,
+      "margin": 0.0012,
+      "pharma_freq": 8
+    },
+    {
+      "root": "pche",
+      "latin": "zucchari",
+      "score": 0.4352,
+      "margin": 0.0111,
+      "pharma_freq": 6
+    },
+    {
+      "root": "lche",
+      "latin": "leucopiperis",
+      "score": 0.433,
+      "margin": 0.0051,
+      "pharma_freq": 6
+    },
+    {
+      "root": "yched",
+      "latin": "camphore",
+      "score": 0.4288,
+      "margin": 0.0376,
+      "pharma_freq": 8
+    },
+    {
+      "root": "a",
+      "latin": "musci",
+      "score": 0.4285,
+      "margin": 0.0003,
+      "pharma_freq": 5
+    },
+    {
+      "root": "ypch",
+      "latin": "agarici",
+      "score": 0.4235,
+      "margin": 0.002,
+      "pharma_freq": 6
+    },
+    {
+      "root": "chockhy",
+      "latin": "vino",
+      "score": 0.4225,
+      "margin": 0.0091,
+      "pharma_freq": 6
+    },
+    {
+      "root": "lked",
+      "latin": "gentiane",
+      "score": 0.4219,
+      "margin": 0.0329,
+      "pharma_freq": 6
+    },
+    {
+      "root": "sheed",
+      "latin": "levistici",
+      "score": 0.4164,
+      "margin": 0.0147,
+      "pharma_freq": 7
+    },
+    {
+      "root": "okeed",
+      "latin": "leucopiperis",
+      "score": 0.4138,
+      "margin": 0.018,
+      "pharma_freq": 10
+    },
+    {
+      "root": "lkech",
+      "latin": "diagridii",
+      "score": 0.4134,
+      "margin": 0.0203,
+      "pharma_freq": 7
+    },
+    {
+      "root": "qokchd",
+      "latin": "camphore",
+      "score": 0.4125,
+      "margin": 0.0034,
+      "pharma_freq": 5
+    },
+    {
+      "root": "pcheod",
+      "latin": "dragaganti",
+      "score": 0.409,
+      "margin": 0.0017,
+      "pharma_freq": 5
+    },
+    {
+      "root": "shcthy",
+      "latin": "prunorum",
+      "score": 0.4079,
+      "margin": 0.0175,
+      "pharma_freq": 9
+    },
+    {
+      "root": "alo",
+      "latin": "meilis",
+      "score": 0.4074,
+      "margin": 0.0174,
+      "pharma_freq": 6
+    }
+  ],
+  "all_candidates": {
+    "qok": [
+      {
+        "latin": "succi",
+        "score": 0.5603
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.5557
+      },
+      {
+        "latin": "croci",
+        "score": 0.5412
+      },
+      {
+        "latin": "aqua",
+        "score": 0.538
+      },
+      {
+        "latin": "mane",
+        "score": 0.5366
+      }
+    ],
+    "ch": [
+      {
+        "latin": "aqua",
+        "score": 0.5639
+      },
+      {
+        "latin": "vino",
+        "score": 0.5295
+      },
+      {
+        "latin": "mane",
+        "score": 0.5201
+      },
+      {
+        "latin": "mei",
+        "score": 0.5139
+      },
+      {
+        "latin": "anisi",
+        "score": 0.5131
+      }
+    ],
+    "ot": [
+      {
+        "latin": "mei",
+        "score": 0.5868
+      },
+      {
+        "latin": "aqua",
+        "score": 0.5716
+      },
+      {
+        "latin": "apii",
+        "score": 0.55
+      },
+      {
+        "latin": "mane",
+        "score": 0.548
+      },
+      {
+        "latin": "casie",
+        "score": 0.5336
+      }
+    ],
+    "ok": [
+      {
+        "latin": "succi",
+        "score": 0.5655
+      },
+      {
+        "latin": "aqua",
+        "score": 0.5443
+      },
+      {
+        "latin": "mane",
+        "score": 0.5394
+      },
+      {
+        "latin": "croci",
+        "score": 0.5386
+      },
+      {
+        "latin": "meilis",
+        "score": 0.5194
+      }
+    ],
+    "sh": [
+      {
+        "latin": "aqua",
+        "score": 0.5566
+      },
+      {
+        "latin": "succi",
+        "score": 0.5092
+      },
+      {
+        "latin": "mei",
+        "score": 0.503
+      },
+      {
+        "latin": "mane",
+        "score": 0.4937
+      },
+      {
+        "latin": "vino",
+        "score": 0.4773
+      }
+    ],
+    "d": [
+      {
+        "latin": "mei",
+        "score": 0.5037
+      },
+      {
+        "latin": "vino",
+        "score": 0.4821
+      },
+      {
+        "latin": "succi",
+        "score": 0.4739
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4648
+      },
+      {
+        "latin": "piperis",
+        "score": 0.4632
+      }
+    ],
+    "qot": [
+      {
+        "latin": "aqua",
+        "score": 0.5396
+      },
+      {
+        "latin": "mane",
+        "score": 0.5306
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.5209
+      },
+      {
+        "latin": "croci",
+        "score": 0.4973
+      },
+      {
+        "latin": "succi",
+        "score": 0.4963
+      }
+    ],
+    "aiin": [
+      {
+        "latin": "masticis",
+        "score": 0.5753
+      },
+      {
+        "latin": "cinamomi",
+        "score": 0.5508
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.5473
+      },
+      {
+        "latin": "piperis",
+        "score": 0.5461
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.5359
+      }
+    ],
+    "lk": [
+      {
+        "latin": "mane",
+        "score": 0.5571
+      },
+      {
+        "latin": "vino",
+        "score": 0.556
+      },
+      {
+        "latin": "aqua",
+        "score": 0.5453
+      },
+      {
+        "latin": "ende",
+        "score": 0.5375
+      },
+      {
+        "latin": "mirre",
+        "score": 0.5306
+      }
+    ],
+    "k": [
+      {
+        "latin": "mei",
+        "score": 0.4934
+      },
+      {
+        "latin": "vino",
+        "score": 0.4659
+      },
+      {
+        "latin": "spice",
+        "score": 0.4579
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4523
+      },
+      {
+        "latin": "aloes",
+        "score": 0.4492
+      }
+    ],
+    "ar": [
+      {
+        "latin": "mane",
+        "score": 0.5685
+      },
+      {
+        "latin": "aqua",
+        "score": 0.5672
+      },
+      {
+        "latin": "casie",
+        "score": 0.5589
+      },
+      {
+        "latin": "mei",
+        "score": 0.5578
+      },
+      {
+        "latin": "ende",
+        "score": 0.5483
+      }
+    ],
+    "al": [
+      {
+        "latin": "ende",
+        "score": 0.5884
+      },
+      {
+        "latin": "mane",
+        "score": 0.581
+      },
+      {
+        "latin": "mirre",
+        "score": 0.5788
+      },
+      {
+        "latin": "mei",
+        "score": 0.5664
+      },
+      {
+        "latin": "meilis",
+        "score": 0.5634
+      }
+    ],
+    "ol": [
+      {
+        "latin": "mane",
+        "score": 0.6022
+      },
+      {
+        "latin": "aqua",
+        "score": 0.5754
+      },
+      {
+        "latin": "vino",
+        "score": 0.5683
+      },
+      {
+        "latin": "ende",
+        "score": 0.5682
+      },
+      {
+        "latin": "succo",
+        "score": 0.5517
+      }
+    ],
+    "s": [
+      {
+        "latin": "mei",
+        "score": 0.4878
+      },
+      {
+        "latin": "succo",
+        "score": 0.4798
+      },
+      {
+        "latin": "mane",
+        "score": 0.4732
+      },
+      {
+        "latin": "aloes",
+        "score": 0.4653
+      },
+      {
+        "latin": "mirre",
+        "score": 0.4614
+      }
+    ],
+    "or": [
+      {
+        "latin": "mane",
+        "score": 0.5133
+      },
+      {
+        "latin": "mei",
+        "score": 0.5125
+      },
+      {
+        "latin": "aque",
+        "score": 0.5029
+      },
+      {
+        "latin": "ende",
+        "score": 0.4844
+      },
+      {
+        "latin": "vino",
+        "score": 0.4787
+      }
+    ],
+    "lch": [
+      {
+        "latin": "meilis",
+        "score": 0.5736
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.5554
+      },
+      {
+        "latin": "violarum",
+        "score": 0.5548
+      },
+      {
+        "latin": "spice",
+        "score": 0.5512
+      },
+      {
+        "latin": "costi",
+        "score": 0.5503
+      }
+    ],
+    "r": [
+      {
+        "latin": "mane",
+        "score": 0.4985
+      },
+      {
+        "latin": "costi",
+        "score": 0.488
+      },
+      {
+        "latin": "succi",
+        "score": 0.4847
+      },
+      {
+        "latin": "piperis",
+        "score": 0.4839
+      },
+      {
+        "latin": "vino",
+        "score": 0.4815
+      }
+    ],
+    "ched": [
+      {
+        "latin": "meilis",
+        "score": 0.5612
+      },
+      {
+        "latin": "piperis",
+        "score": 0.5312
+      },
+      {
+        "latin": "vino",
+        "score": 0.5242
+      },
+      {
+        "latin": "mane",
+        "score": 0.5219
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.5024
+      }
+    ],
+    "t": [
+      {
+        "latin": "costi",
+        "score": 0.4915
+      },
+      {
+        "latin": "mei",
+        "score": 0.4788
+      },
+      {
+        "latin": "apii",
+        "score": 0.478
+      },
+      {
+        "latin": "anisi",
+        "score": 0.4773
+      },
+      {
+        "latin": "storacis",
+        "score": 0.4732
+      }
+    ],
+    "cheo": [
+      {
+        "latin": "meilis",
+        "score": 0.5375
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.5288
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.5243
+      },
+      {
+        "latin": "zuchari",
+        "score": 0.5191
+      },
+      {
+        "latin": "squinanti",
+        "score": 0.5052
+      }
+    ],
+    "olk": [
+      {
+        "latin": "meilis",
+        "score": 0.5733
+      },
+      {
+        "latin": "mirre",
+        "score": 0.5441
+      },
+      {
+        "latin": "amomi",
+        "score": 0.538
+      },
+      {
+        "latin": "costi",
+        "score": 0.5363
+      },
+      {
+        "latin": "piperis",
+        "score": 0.5329
+      }
+    ],
+    "qokch": [
+      {
+        "latin": "zinziberis",
+        "score": 0.5682
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.5595
+      },
+      {
+        "latin": "piperis",
+        "score": 0.5363
+      },
+      {
+        "latin": "squinanti",
+        "score": 0.5325
+      },
+      {
+        "latin": "gariofilorum",
+        "score": 0.5277
+      }
+    ],
+    "l": [
+      {
+        "latin": "cardamomi",
+        "score": 0.5074
+      },
+      {
+        "latin": "mane",
+        "score": 0.4941
+      },
+      {
+        "latin": "amomi",
+        "score": 0.4877
+      },
+      {
+        "latin": "mei",
+        "score": 0.4663
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4527
+      }
+    ],
+    "qo": [
+      {
+        "latin": "vino",
+        "score": 0.5653
+      },
+      {
+        "latin": "anisi",
+        "score": 0.5641
+      },
+      {
+        "latin": "mane",
+        "score": 0.5623
+      },
+      {
+        "latin": "costi",
+        "score": 0.5607
+      },
+      {
+        "latin": "spice",
+        "score": 0.558
+      }
+    ],
+    "opch": [
+      {
+        "latin": "violarum",
+        "score": 0.5755
+      },
+      {
+        "latin": "agarici",
+        "score": 0.5369
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.5351
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.5277
+      },
+      {
+        "latin": "storacis",
+        "score": 0.5276
+      }
+    ],
+    "ain": [
+      {
+        "latin": "aloes",
+        "score": 0.5897
+      },
+      {
+        "latin": "amomi",
+        "score": 0.5597
+      },
+      {
+        "latin": "meilis",
+        "score": 0.557
+      },
+      {
+        "latin": "mirre",
+        "score": 0.5564
+      },
+      {
+        "latin": "costi",
+        "score": 0.5561
+      }
+    ],
+    "che": [
+      {
+        "latin": "meilis",
+        "score": 0.585
+      },
+      {
+        "latin": "mane",
+        "score": 0.5349
+      },
+      {
+        "latin": "asari",
+        "score": 0.5272
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.5195
+      },
+      {
+        "latin": "succo",
+        "score": 0.5163
+      }
+    ],
+    "chd": [
+      {
+        "latin": "succo",
+        "score": 0.5515
+      },
+      {
+        "latin": "meilis",
+        "score": 0.5342
+      },
+      {
+        "latin": "mane",
+        "score": 0.525
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.5137
+      },
+      {
+        "latin": "squinanti",
+        "score": 0.5079
+      }
+    ],
+    "yk": [
+      {
+        "latin": "mane",
+        "score": 0.5899
+      },
+      {
+        "latin": "aque",
+        "score": 0.573
+      },
+      {
+        "latin": "ende",
+        "score": 0.5729
+      },
+      {
+        "latin": "vino",
+        "score": 0.568
+      },
+      {
+        "latin": "meilis",
+        "score": 0.5163
+      }
+    ],
+    "yt": [
+      {
+        "latin": "mane",
+        "score": 0.519
+      },
+      {
+        "latin": "apii",
+        "score": 0.5137
+      },
+      {
+        "latin": "ende",
+        "score": 0.5029
+      },
+      {
+        "latin": "amomi",
+        "score": 0.495
+      },
+      {
+        "latin": "vino",
+        "score": 0.4943
+      }
+    ],
+    "qopch": [
+      {
+        "latin": "petroselini",
+        "score": 0.562
+      },
+      {
+        "latin": "liquiricie",
+        "score": 0.5598
+      },
+      {
+        "latin": "iusquiami",
+        "score": 0.5565
+      },
+      {
+        "latin": "agarici",
+        "score": 0.5503
+      },
+      {
+        "latin": "storacis",
+        "score": 0.5391
+      }
+    ],
+    "od": [
+      {
+        "latin": "olei",
+        "score": 0.5633
+      },
+      {
+        "latin": "amomi",
+        "score": 0.533
+      },
+      {
+        "latin": "aque",
+        "score": 0.5292
+      },
+      {
+        "latin": "mane",
+        "score": 0.5189
+      },
+      {
+        "latin": "nardi",
+        "score": 0.5147
+      }
+    ],
+    "otch": [
+      {
+        "latin": "agarici",
+        "score": 0.5639
+      },
+      {
+        "latin": "squinanti",
+        "score": 0.5579
+      },
+      {
+        "latin": "zuchari",
+        "score": 0.5518
+      },
+      {
+        "latin": "amomi",
+        "score": 0.5506
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.5455
+      }
+    ],
+    "cho": [
+      {
+        "latin": "gummi",
+        "score": 0.5506
+      },
+      {
+        "latin": "meilis",
+        "score": 0.5316
+      },
+      {
+        "latin": "folii",
+        "score": 0.5187
+      },
+      {
+        "latin": "nardi",
+        "score": 0.5184
+      },
+      {
+        "latin": "asari",
+        "score": 0.515
+      }
+    ],
+    "q": [
+      {
+        "latin": "meilis",
+        "score": 0.5215
+      },
+      {
+        "latin": "mane",
+        "score": 0.5186
+      },
+      {
+        "latin": "amomi",
+        "score": 0.4749
+      },
+      {
+        "latin": "vino",
+        "score": 0.4745
+      },
+      {
+        "latin": "aque",
+        "score": 0.4667
+      }
+    ],
+    "she": [
+      {
+        "latin": "feniculi",
+        "score": 0.563
+      },
+      {
+        "latin": "amomi",
+        "score": 0.5599
+      },
+      {
+        "latin": "agarici",
+        "score": 0.5546
+      },
+      {
+        "latin": "dauci",
+        "score": 0.5494
+      },
+      {
+        "latin": "gummi",
+        "score": 0.5385
+      }
+    ],
+    "okch": [
+      {
+        "latin": "euforbii",
+        "score": 0.6137
+      },
+      {
+        "latin": "piretri",
+        "score": 0.5628
+      },
+      {
+        "latin": "castorei",
+        "score": 0.5608
+      },
+      {
+        "latin": "agarici",
+        "score": 0.56
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.56
+      }
+    ],
+    "o": [
+      {
+        "latin": "mei",
+        "score": 0.4743
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.4738
+      },
+      {
+        "latin": "mane",
+        "score": 0.4684
+      },
+      {
+        "latin": "folii",
+        "score": 0.4654
+      },
+      {
+        "latin": "amomi",
+        "score": 0.4583
+      }
+    ],
+    "chckhy": [
+      {
+        "latin": "mane",
+        "score": 0.5097
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.5021
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.485
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.4774
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.4754
+      }
+    ],
+    "qotch": [
+      {
+        "latin": "reubarbari",
+        "score": 0.5696
+      },
+      {
+        "latin": "squinanti",
+        "score": 0.5565
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.5549
+      },
+      {
+        "latin": "petroselini",
+        "score": 0.5535
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.5425
+      }
+    ],
+    "qod": [
+      {
+        "latin": "dauci",
+        "score": 0.5332
+      },
+      {
+        "latin": "asari",
+        "score": 0.5236
+      },
+      {
+        "latin": "amomi",
+        "score": 0.5173
+      },
+      {
+        "latin": "maratri",
+        "score": 0.5173
+      },
+      {
+        "latin": "draganti",
+        "score": 0.5148
+      }
+    ],
+    "chok": [
+      {
+        "latin": "maratri",
+        "score": 0.5393
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.5323
+      },
+      {
+        "latin": "draganti",
+        "score": 0.524
+      },
+      {
+        "latin": "castorei",
+        "score": 0.5227
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.5201
+      }
+    ],
+    "shed": [
+      {
+        "latin": "maratri",
+        "score": 0.5964
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.5813
+      },
+      {
+        "latin": "zuchari",
+        "score": 0.568
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.5665
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.5568
+      }
+    ],
+    "sheo": [
+      {
+        "latin": "euforbii",
+        "score": 0.4975
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4856
+      },
+      {
+        "latin": "galange",
+        "score": 0.4809
+      },
+      {
+        "latin": "iusquiami",
+        "score": 0.4613
+      },
+      {
+        "latin": "draganti",
+        "score": 0.4608
+      }
+    ],
+    "pch": [
+      {
+        "latin": "maratri",
+        "score": 0.5797
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.5659
+      },
+      {
+        "latin": "zuchari",
+        "score": 0.5521
+      },
+      {
+        "latin": "spodii",
+        "score": 0.5515
+      },
+      {
+        "latin": "galange",
+        "score": 0.5511
+      }
+    ],
+    "lsh": [
+      {
+        "latin": "piretri",
+        "score": 0.5437
+      },
+      {
+        "latin": "spodii",
+        "score": 0.5388
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.5364
+      },
+      {
+        "latin": "musci",
+        "score": 0.5266
+      },
+      {
+        "latin": "herbe",
+        "score": 0.522
+      }
+    ],
+    "chk": [
+      {
+        "latin": "piretri",
+        "score": 0.5396
+      },
+      {
+        "latin": "musci",
+        "score": 0.5136
+      },
+      {
+        "latin": "spodii",
+        "score": 0.5088
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.5084
+      },
+      {
+        "latin": "draganti",
+        "score": 0.4965
+      }
+    ],
+    "qoky": [
+      {
+        "latin": "aristologie",
+        "score": 0.5731
+      },
+      {
+        "latin": "piretri",
+        "score": 0.5639
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.5411
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.5402
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.5387
+      }
+    ],
+    "olch": [
+      {
+        "latin": "aristologie",
+        "score": 0.5657
+      },
+      {
+        "latin": "polipodii",
+        "score": 0.5501
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.5421
+      },
+      {
+        "latin": "piretri",
+        "score": 0.5415
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.5411
+      }
+    ],
+    "ych": [
+      {
+        "latin": "spodii",
+        "score": 0.545
+      },
+      {
+        "latin": "piretri",
+        "score": 0.5391
+      },
+      {
+        "latin": "meilis",
+        "score": 0.5155
+      },
+      {
+        "latin": "maratri",
+        "score": 0.5111
+      },
+      {
+        "latin": "herbe",
+        "score": 0.5091
+      }
+    ],
+    "am": [
+      {
+        "latin": "rute",
+        "score": 0.5441
+      },
+      {
+        "latin": "mane",
+        "score": 0.5235
+      },
+      {
+        "latin": "herbe",
+        "score": 0.5116
+      },
+      {
+        "latin": "folii",
+        "score": 0.4904
+      },
+      {
+        "latin": "dauci",
+        "score": 0.4806
+      }
+    ],
+    "sho": [
+      {
+        "latin": "spodii",
+        "score": 0.5084
+      },
+      {
+        "latin": "piretri",
+        "score": 0.5052
+      },
+      {
+        "latin": "dauci",
+        "score": 0.5024
+      },
+      {
+        "latin": "herbe",
+        "score": 0.5019
+      },
+      {
+        "latin": "amomi",
+        "score": 0.4984
+      }
+    ],
+    "cheeo": [
+      {
+        "latin": "polipodii",
+        "score": 0.6226
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.6098
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.6048
+      },
+      {
+        "latin": "liquiricie",
+        "score": 0.5969
+      },
+      {
+        "latin": "cinnamomi",
+        "score": 0.5844
+      }
+    ],
+    "op": [
+      {
+        "latin": "folii",
+        "score": 0.5542
+      },
+      {
+        "latin": "spodii",
+        "score": 0.5488
+      },
+      {
+        "latin": "ligni",
+        "score": 0.5463
+      },
+      {
+        "latin": "rute",
+        "score": 0.543
+      },
+      {
+        "latin": "acori",
+        "score": 0.5388
+      }
+    ],
+    "tch": [
+      {
+        "latin": "piretri",
+        "score": 0.5046
+      },
+      {
+        "latin": "spodii",
+        "score": 0.4997
+      },
+      {
+        "latin": "calami",
+        "score": 0.4916
+      },
+      {
+        "latin": "polipodii",
+        "score": 0.4795
+      },
+      {
+        "latin": "coralli",
+        "score": 0.4786
+      }
+    ],
+    "qoke": [
+      {
+        "latin": "piretri",
+        "score": 0.5848
+      },
+      {
+        "latin": "coralli",
+        "score": 0.5803
+      },
+      {
+        "latin": "calamite",
+        "score": 0.5796
+      },
+      {
+        "latin": "galbani",
+        "score": 0.5768
+      },
+      {
+        "latin": "spodii",
+        "score": 0.5739
+      }
+    ],
+    "lkch": [
+      {
+        "latin": "polipodii",
+        "score": 0.4933
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4814
+      },
+      {
+        "latin": "calamite",
+        "score": 0.4654
+      },
+      {
+        "latin": "draganti",
+        "score": 0.4584
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.4574
+      }
+    ],
+    "chckh": [
+      {
+        "latin": "aristologie",
+        "score": 0.5566
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.5261
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.5259
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.523
+      },
+      {
+        "latin": "galbani",
+        "score": 0.5212
+      }
+    ],
+    "oty": [
+      {
+        "latin": "calami",
+        "score": 0.5543
+      },
+      {
+        "latin": "galbani",
+        "score": 0.5483
+      },
+      {
+        "latin": "eboris",
+        "score": 0.5456
+      },
+      {
+        "latin": "piretri",
+        "score": 0.5374
+      },
+      {
+        "latin": "spodii",
+        "score": 0.532
+      }
+    ],
+    "chod": [
+      {
+        "latin": "calamite",
+        "score": 0.5117
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4964
+      },
+      {
+        "latin": "balsami",
+        "score": 0.4943
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4893
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4873
+      }
+    ],
+    "oke": [
+      {
+        "latin": "musci",
+        "score": 0.5752
+      },
+      {
+        "latin": "acori",
+        "score": 0.5722
+      },
+      {
+        "latin": "coralli",
+        "score": 0.5708
+      },
+      {
+        "latin": "calami",
+        "score": 0.5683
+      },
+      {
+        "latin": "herbe",
+        "score": 0.563
+      }
+    ],
+    "ote": [
+      {
+        "latin": "calami",
+        "score": 0.5863
+      },
+      {
+        "latin": "piretri",
+        "score": 0.5581
+      },
+      {
+        "latin": "musci",
+        "score": 0.5477
+      },
+      {
+        "latin": "rute",
+        "score": 0.5468
+      },
+      {
+        "latin": "acori",
+        "score": 0.5455
+      }
+    ],
+    "chcthy": [
+      {
+        "latin": "xilobalsami",
+        "score": 0.5545
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.5236
+      },
+      {
+        "latin": "melanopiperis",
+        "score": 0.4967
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4847
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4836
+      }
+    ],
+    "kch": [
+      {
+        "latin": "melle",
+        "score": 0.5646
+      },
+      {
+        "latin": "herbe",
+        "score": 0.5446
+      },
+      {
+        "latin": "calami",
+        "score": 0.5323
+      },
+      {
+        "latin": "portulace",
+        "score": 0.5296
+      },
+      {
+        "latin": "spodii",
+        "score": 0.5235
+      }
+    ],
+    "chl": [
+      {
+        "latin": "acori",
+        "score": 0.605
+      },
+      {
+        "latin": "levistici",
+        "score": 0.5869
+      },
+      {
+        "latin": "eboris",
+        "score": 0.5777
+      },
+      {
+        "latin": "piretri",
+        "score": 0.5674
+      },
+      {
+        "latin": "herbe",
+        "score": 0.5622
+      }
+    ],
+    "qokeeo": [
+      {
+        "latin": "xilobalsami",
+        "score": 0.5949
+      },
+      {
+        "latin": "melanopiperis",
+        "score": 0.5847
+      },
+      {
+        "latin": "mandragore",
+        "score": 0.5345
+      },
+      {
+        "latin": "levistici",
+        "score": 0.5316
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.5205
+      }
+    ],
+    "dch": [
+      {
+        "latin": "melle",
+        "score": 0.5365
+      },
+      {
+        "latin": "balsami",
+        "score": 0.5228
+      },
+      {
+        "latin": "eboris",
+        "score": 0.5194
+      },
+      {
+        "latin": "musci",
+        "score": 0.5149
+      },
+      {
+        "latin": "coralli",
+        "score": 0.502
+      }
+    ],
+    "shckhy": [
+      {
+        "latin": "levistici",
+        "score": 0.5007
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5004
+      },
+      {
+        "latin": "dragaganti",
+        "score": 0.4934
+      },
+      {
+        "latin": "calamite",
+        "score": 0.4922
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.487
+      }
+    ],
+    "aiiin": [
+      {
+        "latin": "diagridii",
+        "score": 0.5025
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.4948
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4926
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4828
+      },
+      {
+        "latin": "melanopiperis",
+        "score": 0.4814
+      }
+    ],
+    "alk": [
+      {
+        "latin": "levistici",
+        "score": 0.5761
+      },
+      {
+        "latin": "eboris",
+        "score": 0.5741
+      },
+      {
+        "latin": "melle",
+        "score": 0.5691
+      },
+      {
+        "latin": "herbe",
+        "score": 0.5527
+      },
+      {
+        "latin": "musci",
+        "score": 0.5516
+      }
+    ],
+    "p": [
+      {
+        "latin": "dragaganti",
+        "score": 0.4844
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.484
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4806
+      },
+      {
+        "latin": "papaveris",
+        "score": 0.4771
+      },
+      {
+        "latin": "portulace",
+        "score": 0.4742
+      }
+    ],
+    "cheod": [
+      {
+        "latin": "levistici",
+        "score": 0.5137
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.5092
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.4959
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4896
+      },
+      {
+        "latin": "melanopiperis",
+        "score": 0.4805
+      }
+    ],
+    "qoty": [
+      {
+        "latin": "eboris",
+        "score": 0.5131
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.5117
+      },
+      {
+        "latin": "camphore",
+        "score": 0.4944
+      },
+      {
+        "latin": "balsami",
+        "score": 0.4797
+      },
+      {
+        "latin": "portulace",
+        "score": 0.4746
+      }
+    ],
+    "okeeo": [
+      {
+        "latin": "levistici",
+        "score": 0.5719
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.5532
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.5524
+      },
+      {
+        "latin": "dragaganti",
+        "score": 0.5444
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.5393
+      }
+    ],
+    "qokeed": [
+      {
+        "latin": "leucopiperis",
+        "score": 0.5822
+      },
+      {
+        "latin": "coloquintide",
+        "score": 0.5635
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5532
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.5426
+      },
+      {
+        "latin": "levistici",
+        "score": 0.537
+      }
+    ],
+    "chot": [
+      {
+        "latin": "zedoarie",
+        "score": 0.5492
+      },
+      {
+        "latin": "levistici",
+        "score": 0.5483
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5428
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.531
+      },
+      {
+        "latin": "pulegii",
+        "score": 0.5099
+      }
+    ],
+    "dsh": [
+      {
+        "latin": "melle",
+        "score": 0.5716
+      },
+      {
+        "latin": "balsami",
+        "score": 0.5704
+      },
+      {
+        "latin": "ysopi",
+        "score": 0.5552
+      },
+      {
+        "latin": "oleo",
+        "score": 0.5468
+      },
+      {
+        "latin": "levistici",
+        "score": 0.5356
+      }
+    ],
+    "checkhy": [
+      {
+        "latin": "levistici",
+        "score": 0.4938
+      },
+      {
+        "latin": "eboris",
+        "score": 0.4922
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.4914
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4875
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.4843
+      }
+    ],
+    "qokee": [
+      {
+        "latin": "dragaganti",
+        "score": 0.6074
+      },
+      {
+        "latin": "levistici",
+        "score": 0.6028
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5859
+      },
+      {
+        "latin": "zucchari",
+        "score": 0.5731
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.5708
+      }
+    ],
+    "oted": [
+      {
+        "latin": "reupontici",
+        "score": 0.5953
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.5852
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.5827
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.5642
+      },
+      {
+        "latin": "pulegii",
+        "score": 0.5608
+      }
+    ],
+    "cth": [
+      {
+        "latin": "zucchari",
+        "score": 0.5565
+      },
+      {
+        "latin": "eboris",
+        "score": 0.5453
+      },
+      {
+        "latin": "macis",
+        "score": 0.5375
+      },
+      {
+        "latin": "dragaganti",
+        "score": 0.5162
+      },
+      {
+        "latin": "levistici",
+        "score": 0.5096
+      }
+    ],
+    "dy": [
+      {
+        "latin": "ysopi",
+        "score": 0.551
+      },
+      {
+        "latin": "rute",
+        "score": 0.5351
+      },
+      {
+        "latin": "oleo",
+        "score": 0.5325
+      },
+      {
+        "latin": "eboris",
+        "score": 0.5257
+      },
+      {
+        "latin": "cere",
+        "score": 0.5248
+      }
+    ],
+    "qop": [
+      {
+        "latin": "reupontici",
+        "score": 0.5671
+      },
+      {
+        "latin": "balsami",
+        "score": 0.5616
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.5457
+      },
+      {
+        "latin": "ysopi",
+        "score": 0.5457
+      },
+      {
+        "latin": "dragaganti",
+        "score": 0.5409
+      }
+    ],
+    "lo": [
+      {
+        "latin": "eboris",
+        "score": 0.5757
+      },
+      {
+        "latin": "mane",
+        "score": 0.5471
+      },
+      {
+        "latin": "oleo",
+        "score": 0.5391
+      },
+      {
+        "latin": "macis",
+        "score": 0.5239
+      },
+      {
+        "latin": "acori",
+        "score": 0.5158
+      }
+    ],
+    "cheok": [
+      {
+        "latin": "leucopiperis",
+        "score": 0.5516
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5413
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.5218
+      },
+      {
+        "latin": "coloquintide",
+        "score": 0.5203
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5168
+      }
+    ],
+    "aiir": [
+      {
+        "latin": "anacardi",
+        "score": 0.55
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.5489
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5468
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.5463
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5438
+      }
+    ],
+    "qoked": [
+      {
+        "latin": "terbentine",
+        "score": 0.6279
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.6091
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.6047
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.5881
+      },
+      {
+        "latin": "dragaganti",
+        "score": 0.5803
+      }
+    ],
+    "ysh": [
+      {
+        "latin": "lapidis",
+        "score": 0.5619
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.5496
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5478
+      },
+      {
+        "latin": "melle",
+        "score": 0.5448
+      },
+      {
+        "latin": "eboris",
+        "score": 0.5433
+      }
+    ],
+    "lt": [
+      {
+        "latin": "meu",
+        "score": 0.486
+      },
+      {
+        "latin": "acori",
+        "score": 0.4816
+      },
+      {
+        "latin": "rute",
+        "score": 0.469
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4689
+      },
+      {
+        "latin": "mane",
+        "score": 0.4629
+      }
+    ],
+    "lky": [
+      {
+        "latin": "gentiane",
+        "score": 0.4978
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4694
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.4574
+      },
+      {
+        "latin": "acori",
+        "score": 0.4524
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.4508
+      }
+    ],
+    "cht": [
+      {
+        "latin": "epatis",
+        "score": 0.5478
+      },
+      {
+        "latin": "eboris",
+        "score": 0.5474
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.5461
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.5438
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.5333
+      }
+    ],
+    "chek": [
+      {
+        "latin": "specierum",
+        "score": 0.5642
+      },
+      {
+        "latin": "prunorum",
+        "score": 0.5614
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5233
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.5223
+      },
+      {
+        "latin": "zucchari",
+        "score": 0.5043
+      }
+    ],
+    "cheos": [
+      {
+        "latin": "gentiane",
+        "score": 0.5407
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.537
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5246
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.4905
+      },
+      {
+        "latin": "specierum",
+        "score": 0.4896
+      }
+    ],
+    "oteo": [
+      {
+        "latin": "anacardi",
+        "score": 0.5751
+      },
+      {
+        "latin": "coloquintide",
+        "score": 0.5494
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5488
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5479
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.5464
+      }
+    ],
+    "cheed": [
+      {
+        "latin": "sanguinis",
+        "score": 0.5377
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.5374
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.521
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5207
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.4991
+      }
+    ],
+    "shod": [
+      {
+        "latin": "anacardi",
+        "score": 0.5781
+      },
+      {
+        "latin": "coloquintide",
+        "score": 0.5506
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.5409
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.528
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.51
+      }
+    ],
+    "chy": [
+      {
+        "latin": "specierum",
+        "score": 0.5831
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.5433
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.5431
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.5355
+      },
+      {
+        "latin": "melle",
+        "score": 0.5061
+      }
+    ],
+    "oky": [
+      {
+        "latin": "ciperi",
+        "score": 0.5723
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.5252
+      },
+      {
+        "latin": "eboris",
+        "score": 0.5248
+      },
+      {
+        "latin": "pulegii",
+        "score": 0.515
+      },
+      {
+        "latin": "ossis",
+        "score": 0.5091
+      }
+    ],
+    "ches": [
+      {
+        "latin": "prunorum",
+        "score": 0.5822
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.5472
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.5349
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.526
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.5219
+      }
+    ],
+    "chos": [
+      {
+        "latin": "gentiane",
+        "score": 0.5348
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.5317
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5011
+      },
+      {
+        "latin": "epatis",
+        "score": 0.4978
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4911
+      }
+    ],
+    "pched": [
+      {
+        "latin": "sanguinis",
+        "score": 0.5439
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5315
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.5247
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.5212
+      },
+      {
+        "latin": "dragaganti",
+        "score": 0.5138
+      }
+    ],
+    "oked": [
+      {
+        "latin": "gentiane",
+        "score": 0.6115
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.567
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5592
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.5525
+      },
+      {
+        "latin": "ossis",
+        "score": 0.5329
+      }
+    ],
+    "ycheo": [
+      {
+        "latin": "levistici",
+        "score": 0.5605
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.5587
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5581
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.5538
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.5533
+      }
+    ],
+    "pol": [
+      {
+        "latin": "gentiane",
+        "score": 0.5947
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.5805
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5619
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.5463
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.533
+      }
+    ],
+    "ke": [
+      {
+        "latin": "ossis",
+        "score": 0.5258
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.5179
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4968
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.491
+      },
+      {
+        "latin": "apii",
+        "score": 0.488
+      }
+    ],
+    "chcth": [
+      {
+        "latin": "prunorum",
+        "score": 0.5663
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.551
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.5479
+      },
+      {
+        "latin": "specierum",
+        "score": 0.5393
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.538
+      }
+    ],
+    "fch": [
+      {
+        "latin": "gentiane",
+        "score": 0.5593
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.5534
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5358
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5183
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.517
+      }
+    ],
+    "sheckhy": [
+      {
+        "latin": "terbentine",
+        "score": 0.5024
+      },
+      {
+        "latin": "prunorum",
+        "score": 0.4851
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.484
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.4825
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.4799
+      }
+    ],
+    "oteed": [
+      {
+        "latin": "gentiane",
+        "score": 0.5729
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.571
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.5626
+      },
+      {
+        "latin": "levistici",
+        "score": 0.5432
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5367
+      }
+    ],
+    "lke": [
+      {
+        "latin": "gentiane",
+        "score": 0.4901
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.4899
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4617
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.4554
+      },
+      {
+        "latin": "ossis",
+        "score": 0.4498
+      }
+    ],
+    "oiin": [
+      {
+        "latin": "gentiane",
+        "score": 0.5435
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.5172
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.5116
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.5011
+      },
+      {
+        "latin": "sandali",
+        "score": 0.5009
+      }
+    ],
+    "shok": [
+      {
+        "latin": "prunorum",
+        "score": 0.5411
+      },
+      {
+        "latin": "zucchari",
+        "score": 0.52
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.5194
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5172
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.5145
+      }
+    ],
+    "olsh": [
+      {
+        "latin": "gentiane",
+        "score": 0.5496
+      },
+      {
+        "latin": "prunorum",
+        "score": 0.548
+      },
+      {
+        "latin": "epatis",
+        "score": 0.5192
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.5187
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5153
+      }
+    ],
+    "dal": [
+      {
+        "latin": "ciperi",
+        "score": 0.5481
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.5254
+      },
+      {
+        "latin": "ossis",
+        "score": 0.4886
+      },
+      {
+        "latin": "vino",
+        "score": 0.4753
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4717
+      }
+    ],
+    "qote": [
+      {
+        "latin": "anacardi",
+        "score": 0.5778
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.514
+      },
+      {
+        "latin": "specierum",
+        "score": 0.5135
+      },
+      {
+        "latin": "prunorum",
+        "score": 0.4972
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4971
+      }
+    ],
+    "okee": [
+      {
+        "latin": "anacardi",
+        "score": 0.5434
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.5148
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.5129
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.5025
+      },
+      {
+        "latin": "sandali",
+        "score": 0.4986
+      }
+    ],
+    "shk": [
+      {
+        "latin": "ciperi",
+        "score": 0.53
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.4992
+      },
+      {
+        "latin": "pulegii",
+        "score": 0.4928
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.4841
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4825
+      }
+    ],
+    "keeo": [
+      {
+        "latin": "gentiane",
+        "score": 0.5
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.4948
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.4905
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.4869
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4849
+      }
+    ],
+    "cheky": [
+      {
+        "latin": "gentiane",
+        "score": 0.4814
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.4616
+      },
+      {
+        "latin": "specierum",
+        "score": 0.4602
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4439
+      },
+      {
+        "latin": "prunorum",
+        "score": 0.4423
+      }
+    ],
+    "tsh": [
+      {
+        "latin": "gentiane",
+        "score": 0.4924
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.4858
+      },
+      {
+        "latin": "prunorum",
+        "score": 0.4807
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4791
+      },
+      {
+        "latin": "ossis",
+        "score": 0.4744
+      }
+    ],
+    "pchd": [
+      {
+        "latin": "agarici",
+        "score": 0.5307
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.512
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.4879
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4813
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4805
+      }
+    ],
+    "shek": [
+      {
+        "latin": "prunorum",
+        "score": 0.56
+      },
+      {
+        "latin": "zucchari",
+        "score": 0.5034
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4996
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.4916
+      },
+      {
+        "latin": "castorei",
+        "score": 0.485
+      }
+    ],
+    "qockh": [
+      {
+        "latin": "gentiane",
+        "score": 0.4836
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4783
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4776
+      },
+      {
+        "latin": "mandragore",
+        "score": 0.4679
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4664
+      }
+    ],
+    "qoteo": [
+      {
+        "latin": "anacardi",
+        "score": 0.5516
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.5267
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5244
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.5198
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.4889
+      }
+    ],
+    "oteeo": [
+      {
+        "latin": "anacardi",
+        "score": 0.4912
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4847
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.4551
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.454
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.454
+      }
+    ],
+    "qoted": [
+      {
+        "latin": "gentiane",
+        "score": 0.4976
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4726
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4693
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.4652
+      },
+      {
+        "latin": "petroselini",
+        "score": 0.4632
+      }
+    ],
+    "okeed": [
+      {
+        "latin": "leucopiperis",
+        "score": 0.4138
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.3958
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.3948
+      },
+      {
+        "latin": "levistici",
+        "score": 0.3883
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.3876
+      }
+    ],
+    "och": [
+      {
+        "latin": "anisi",
+        "score": 0.4902
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4894
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.4829
+      },
+      {
+        "latin": "ossis",
+        "score": 0.4821
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.4817
+      }
+    ],
+    "chees": [
+      {
+        "latin": "specierum",
+        "score": 0.447
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.4265
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.416
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4086
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.3849
+      }
+    ],
+    "shcthy": [
+      {
+        "latin": "prunorum",
+        "score": 0.4079
+      },
+      {
+        "latin": "aqua",
+        "score": 0.3904
+      },
+      {
+        "latin": "mane",
+        "score": 0.3696
+      },
+      {
+        "latin": "specierum",
+        "score": 0.3614
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.3611
+      }
+    ],
+    "dl": [
+      {
+        "latin": "mane",
+        "score": 0.4937
+      },
+      {
+        "latin": "apii",
+        "score": 0.4728
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4619
+      },
+      {
+        "latin": "vino",
+        "score": 0.4564
+      },
+      {
+        "latin": "opii",
+        "score": 0.4462
+      }
+    ],
+    "om": [
+      {
+        "latin": "vino",
+        "score": 0.4739
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4511
+      },
+      {
+        "latin": "nardi",
+        "score": 0.4396
+      },
+      {
+        "latin": "ossis",
+        "score": 0.4354
+      },
+      {
+        "latin": "gummi",
+        "score": 0.4308
+      }
+    ],
+    "shd": [
+      {
+        "latin": "ossis",
+        "score": 0.4738
+      },
+      {
+        "latin": "amomi",
+        "score": 0.4727
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4678
+      },
+      {
+        "latin": "croci",
+        "score": 0.4641
+      },
+      {
+        "latin": "spodii",
+        "score": 0.4542
+      }
+    ],
+    "qofch": [
+      {
+        "latin": "reubarbari",
+        "score": 0.5763
+      },
+      {
+        "latin": "maratri",
+        "score": 0.5236
+      },
+      {
+        "latin": "petroselini",
+        "score": 0.5226
+      },
+      {
+        "latin": "agarici",
+        "score": 0.5222
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.5192
+      }
+    ],
+    "chet": [
+      {
+        "latin": "gentiane",
+        "score": 0.5026
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4835
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4831
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.4797
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.4776
+      }
+    ],
+    "qokeo": [
+      {
+        "latin": "aristologie",
+        "score": 0.4611
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4557
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.4448
+      },
+      {
+        "latin": "mandragore",
+        "score": 0.4407
+      },
+      {
+        "latin": "gariofilorum",
+        "score": 0.4356
+      }
+    ],
+    "cholk": [
+      {
+        "latin": "anacardi",
+        "score": 0.5046
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.4801
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.4797
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4772
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.4758
+      }
+    ],
+    "ted": [
+      {
+        "latin": "folii",
+        "score": 0.4741
+      },
+      {
+        "latin": "succi",
+        "score": 0.4643
+      },
+      {
+        "latin": "gummi",
+        "score": 0.461
+      },
+      {
+        "latin": "agarici",
+        "score": 0.4597
+      },
+      {
+        "latin": "mane",
+        "score": 0.4589
+      }
+    ],
+    "okech": [
+      {
+        "latin": "reubarbari",
+        "score": 0.4409
+      },
+      {
+        "latin": "petroselini",
+        "score": 0.4287
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4253
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4234
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4072
+      }
+    ],
+    "otar": [
+      {
+        "latin": "anacardi",
+        "score": 0.5182
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.5021
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4982
+      },
+      {
+        "latin": "zuchari",
+        "score": 0.4901
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4859
+      }
+    ],
+    "ckh": [
+      {
+        "latin": "rosarum",
+        "score": 0.4359
+      },
+      {
+        "latin": "melle",
+        "score": 0.4347
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4255
+      },
+      {
+        "latin": "prunorum",
+        "score": 0.421
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4193
+      }
+    ],
+    "os": [
+      {
+        "latin": "mane",
+        "score": 0.447
+      },
+      {
+        "latin": "vino",
+        "score": 0.4449
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4414
+      },
+      {
+        "latin": "rute",
+        "score": 0.4341
+      },
+      {
+        "latin": "mei",
+        "score": 0.4271
+      }
+    ],
+    "shy": [
+      {
+        "latin": "rosarum",
+        "score": 0.4432
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4247
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4172
+      },
+      {
+        "latin": "melle",
+        "score": 0.4169
+      },
+      {
+        "latin": "succo",
+        "score": 0.4148
+      }
+    ],
+    "sheod": [
+      {
+        "latin": "absinthii",
+        "score": 0.4514
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4317
+      },
+      {
+        "latin": "diagridii",
+        "score": 0.429
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4289
+      },
+      {
+        "latin": "violarum",
+        "score": 0.4224
+      }
+    ],
+    "kee": [
+      {
+        "latin": "mane",
+        "score": 0.4635
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4625
+      },
+      {
+        "latin": "eboris",
+        "score": 0.4546
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4402
+      },
+      {
+        "latin": "succi",
+        "score": 0.4299
+      }
+    ],
+    "checthy": [
+      {
+        "latin": "cardamomi",
+        "score": 0.4429
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4385
+      },
+      {
+        "latin": "gariofilorum",
+        "score": 0.4354
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4267
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.4264
+      }
+    ],
+    "qoch": [
+      {
+        "latin": "masticis",
+        "score": 0.4792
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.475
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.4735
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4733
+      },
+      {
+        "latin": "maratri",
+        "score": 0.4579
+      }
+    ],
+    "ro": [
+      {
+        "latin": "aque",
+        "score": 0.5118
+      },
+      {
+        "latin": "olei",
+        "score": 0.5073
+      },
+      {
+        "latin": "mane",
+        "score": 0.4795
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.4786
+      },
+      {
+        "latin": "rute",
+        "score": 0.4752
+      }
+    ],
+    "checkh": [
+      {
+        "latin": "reubarbari",
+        "score": 0.4868
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4727
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.4614
+      },
+      {
+        "latin": "mane",
+        "score": 0.45
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.4491
+      }
+    ],
+    "aro": [
+      {
+        "latin": "ossis",
+        "score": 0.4818
+      },
+      {
+        "latin": "acori",
+        "score": 0.4515
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4447
+      },
+      {
+        "latin": "pulegii",
+        "score": 0.4419
+      },
+      {
+        "latin": "amomi",
+        "score": 0.4397
+      }
+    ],
+    "polch": [
+      {
+        "latin": "portulace",
+        "score": 0.4862
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.4532
+      },
+      {
+        "latin": "papaveris",
+        "score": 0.4313
+      },
+      {
+        "latin": "zucchari",
+        "score": 0.4256
+      },
+      {
+        "latin": "dragaganti",
+        "score": 0.4256
+      }
+    ],
+    "sheek": [
+      {
+        "latin": "levistici",
+        "score": 0.5095
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4839
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.4751
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4707
+      },
+      {
+        "latin": "castorei",
+        "score": 0.4688
+      }
+    ],
+    "yched": [
+      {
+        "latin": "camphore",
+        "score": 0.4288
+      },
+      {
+        "latin": "polipodii",
+        "score": 0.3912
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.3866
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.382
+      },
+      {
+        "latin": "portulace",
+        "score": 0.367
+      }
+    ],
+    "lkl": [
+      {
+        "latin": "zucchari",
+        "score": 0.3473
+      },
+      {
+        "latin": "spodii",
+        "score": 0.3285
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.3169
+      },
+      {
+        "latin": "prunorum",
+        "score": 0.3151
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.3081
+      }
+    ],
+    "choty": [
+      {
+        "latin": "reubarbari",
+        "score": 0.4589
+      },
+      {
+        "latin": "gariofilorum",
+        "score": 0.4549
+      },
+      {
+        "latin": "squinanti",
+        "score": 0.4533
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.4471
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4454
+      }
+    ],
+    "ytch": [
+      {
+        "latin": "aristologie",
+        "score": 0.4562
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.4381
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4372
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.4321
+      },
+      {
+        "latin": "storacis",
+        "score": 0.4235
+      }
+    ],
+    "oly": [
+      {
+        "latin": "epatis",
+        "score": 0.4496
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4339
+      },
+      {
+        "latin": "ossis",
+        "score": 0.4246
+      },
+      {
+        "latin": "herbe",
+        "score": 0.4138
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4045
+      }
+    ],
+    "shee": [
+      {
+        "latin": "cardamomi",
+        "score": 0.4459
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.4361
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4297
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.425
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4212
+      }
+    ],
+    "qoto": [
+      {
+        "latin": "polipodii",
+        "score": 0.5032
+      },
+      {
+        "latin": "diagridii",
+        "score": 0.489
+      },
+      {
+        "latin": "herbe",
+        "score": 0.4806
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.4762
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4741
+      }
+    ],
+    "rch": [
+      {
+        "latin": "succi",
+        "score": 0.529
+      },
+      {
+        "latin": "succo",
+        "score": 0.5263
+      },
+      {
+        "latin": "coralli",
+        "score": 0.5142
+      },
+      {
+        "latin": "amomi",
+        "score": 0.512
+      },
+      {
+        "latin": "spodii",
+        "score": 0.5041
+      }
+    ],
+    "keed": [
+      {
+        "latin": "dragaganti",
+        "score": 0.536
+      },
+      {
+        "latin": "camphore",
+        "score": 0.5301
+      },
+      {
+        "latin": "balsami",
+        "score": 0.521
+      },
+      {
+        "latin": "eboris",
+        "score": 0.5173
+      },
+      {
+        "latin": "coralli",
+        "score": 0.5163
+      }
+    ],
+    "sheeo": [
+      {
+        "latin": "sanguinis",
+        "score": 0.4719
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4382
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.4379
+      },
+      {
+        "latin": "melanopiperis",
+        "score": 0.4334
+      },
+      {
+        "latin": "gariofilorum",
+        "score": 0.4263
+      }
+    ],
+    "te": [
+      {
+        "latin": "aqua",
+        "score": 0.5031
+      },
+      {
+        "latin": "olei",
+        "score": 0.5018
+      },
+      {
+        "latin": "mane",
+        "score": 0.493
+      },
+      {
+        "latin": "succi",
+        "score": 0.4785
+      },
+      {
+        "latin": "aque",
+        "score": 0.4705
+      }
+    ],
+    "lr": [
+      {
+        "latin": "mane",
+        "score": 0.4962
+      },
+      {
+        "latin": "vino",
+        "score": 0.4651
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4424
+      },
+      {
+        "latin": "ende",
+        "score": 0.4366
+      },
+      {
+        "latin": "ossis",
+        "score": 0.4299
+      }
+    ],
+    "tar": [
+      {
+        "latin": "spodii",
+        "score": 0.521
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.4997
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.4983
+      },
+      {
+        "latin": "eboris",
+        "score": 0.4979
+      },
+      {
+        "latin": "camphore",
+        "score": 0.4926
+      }
+    ],
+    "lkeeo": [
+      {
+        "latin": "levistici",
+        "score": 0.4872
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.4812
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.4664
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4659
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.4544
+      }
+    ],
+    "okchd": [
+      {
+        "latin": "absinthii",
+        "score": 0.4734
+      },
+      {
+        "latin": "portulace",
+        "score": 0.4525
+      },
+      {
+        "latin": "levistici",
+        "score": 0.438
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.4202
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.4179
+      }
+    ],
+    "tched": [
+      {
+        "latin": "dragaganti",
+        "score": 0.5676
+      },
+      {
+        "latin": "iusquiami",
+        "score": 0.5295
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.5264
+      },
+      {
+        "latin": "draganti",
+        "score": 0.5231
+      },
+      {
+        "latin": "papaveris",
+        "score": 0.5209
+      }
+    ],
+    "rar": [
+      {
+        "latin": "melle",
+        "score": 0.4535
+      },
+      {
+        "latin": "herbe",
+        "score": 0.4109
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4104
+      },
+      {
+        "latin": "oleo",
+        "score": 0.3988
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.3933
+      }
+    ],
+    "sheed": [
+      {
+        "latin": "levistici",
+        "score": 0.4164
+      },
+      {
+        "latin": "polipodii",
+        "score": 0.4018
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.3859
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.3823
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.3787
+      }
+    ],
+    "ail": [
+      {
+        "latin": "eboris",
+        "score": 0.3719
+      },
+      {
+        "latin": "meilis",
+        "score": 0.3557
+      },
+      {
+        "latin": "ende",
+        "score": 0.3455
+      },
+      {
+        "latin": "spodii",
+        "score": 0.3428
+      },
+      {
+        "latin": "succo",
+        "score": 0.3268
+      }
+    ],
+    "otech": [
+      {
+        "latin": "reubarbari",
+        "score": 0.3585
+      },
+      {
+        "latin": "mandragore",
+        "score": 0.3448
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.3391
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.3334
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.3316
+      }
+    ],
+    "lpch": [
+      {
+        "latin": "papaveris",
+        "score": 0.3523
+      },
+      {
+        "latin": "draganti",
+        "score": 0.3419
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.3315
+      },
+      {
+        "latin": "spodii",
+        "score": 0.3295
+      },
+      {
+        "latin": "iusquiami",
+        "score": 0.3292
+      }
+    ],
+    "qokl": [
+      {
+        "latin": "draganti",
+        "score": 0.3704
+      },
+      {
+        "latin": "levistici",
+        "score": 0.3624
+      },
+      {
+        "latin": "spodii",
+        "score": 0.3581
+      },
+      {
+        "latin": "prunorum",
+        "score": 0.3574
+      },
+      {
+        "latin": "dragaganti",
+        "score": 0.3564
+      }
+    ],
+    "lkech": [
+      {
+        "latin": "diagridii",
+        "score": 0.4134
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.3931
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.3909
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.389
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.3853
+      }
+    ],
+    "lksh": [
+      {
+        "latin": "zucchari",
+        "score": 0.3939
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.3834
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.3654
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.3634
+      },
+      {
+        "latin": "diagridii",
+        "score": 0.3607
+      }
+    ],
+    "opched": [
+      {
+        "latin": "coloquintide",
+        "score": 0.3353
+      },
+      {
+        "latin": "portulace",
+        "score": 0.3261
+      },
+      {
+        "latin": "mirabolanorum",
+        "score": 0.3
+      },
+      {
+        "latin": "mandragore",
+        "score": 0.2833
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.2822
+      }
+    ],
+    "sheky": [
+      {
+        "latin": "zinziberis",
+        "score": 0.4474
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4358
+      },
+      {
+        "latin": "specierum",
+        "score": 0.4325
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.41
+      },
+      {
+        "latin": "storacis",
+        "score": 0.4086
+      }
+    ],
+    "cph": [
+      {
+        "latin": "anisi",
+        "score": 0.5
+      },
+      {
+        "latin": "croci",
+        "score": 0.4894
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.4884
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.4797
+      },
+      {
+        "latin": "asari",
+        "score": 0.4733
+      }
+    ],
+    "oto": [
+      {
+        "latin": "musci",
+        "score": 0.4588
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4449
+      },
+      {
+        "latin": "aloes",
+        "score": 0.4437
+      },
+      {
+        "latin": "eboris",
+        "score": 0.4399
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4349
+      }
+    ],
+    "ky": [
+      {
+        "latin": "aqua",
+        "score": 0.4868
+      },
+      {
+        "latin": "mane",
+        "score": 0.4463
+      },
+      {
+        "latin": "mei",
+        "score": 0.4461
+      },
+      {
+        "latin": "vino",
+        "score": 0.4412
+      },
+      {
+        "latin": "apii",
+        "score": 0.4092
+      }
+    ],
+    "ypch": [
+      {
+        "latin": "agarici",
+        "score": 0.4235
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.4215
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.4193
+      },
+      {
+        "latin": "coralli",
+        "score": 0.4167
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.4161
+      }
+    ],
+    "chockhy": [
+      {
+        "latin": "vino",
+        "score": 0.4225
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4133
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.4122
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.409
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4013
+      }
+    ],
+    "otsh": [
+      {
+        "latin": "rosarum",
+        "score": 0.4497
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4392
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.4384
+      },
+      {
+        "latin": "draganti",
+        "score": 0.438
+      },
+      {
+        "latin": "storacis",
+        "score": 0.4231
+      }
+    ],
+    "chs": [
+      {
+        "latin": "herbe",
+        "score": 0.4643
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4487
+      },
+      {
+        "latin": "piperis",
+        "score": 0.4408
+      },
+      {
+        "latin": "mane",
+        "score": 0.4406
+      },
+      {
+        "latin": "spodii",
+        "score": 0.44
+      }
+    ],
+    "lok": [
+      {
+        "latin": "meilis",
+        "score": 0.5448
+      },
+      {
+        "latin": "mane",
+        "score": 0.5109
+      },
+      {
+        "latin": "zuchari",
+        "score": 0.4897
+      },
+      {
+        "latin": "amomi",
+        "score": 0.4843
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.483
+      }
+    ],
+    "oksh": [
+      {
+        "latin": "calamite",
+        "score": 0.4582
+      },
+      {
+        "latin": "squinanti",
+        "score": 0.4579
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.4546
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4474
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.4423
+      }
+    ],
+    "ary": [
+      {
+        "latin": "levistici",
+        "score": 0.4638
+      },
+      {
+        "latin": "eboris",
+        "score": 0.4553
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4484
+      },
+      {
+        "latin": "ende",
+        "score": 0.4419
+      },
+      {
+        "latin": "folii",
+        "score": 0.4401
+      }
+    ],
+    "aly": [
+      {
+        "latin": "eboris",
+        "score": 0.4863
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4725
+      },
+      {
+        "latin": "mane",
+        "score": 0.4649
+      },
+      {
+        "latin": "piperis",
+        "score": 0.4589
+      },
+      {
+        "latin": "costi",
+        "score": 0.452
+      }
+    ],
+    "sar": [
+      {
+        "latin": "meilis",
+        "score": 0.4758
+      },
+      {
+        "latin": "ende",
+        "score": 0.4544
+      },
+      {
+        "latin": "mane",
+        "score": 0.453
+      },
+      {
+        "latin": "herbe",
+        "score": 0.4473
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.4459
+      }
+    ],
+    "kcheo": [
+      {
+        "latin": "sanguinis",
+        "score": 0.4896
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.4754
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.474
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4728
+      },
+      {
+        "latin": "mandragore",
+        "score": 0.4569
+      }
+    ],
+    "pcheo": [
+      {
+        "latin": "coloquintide",
+        "score": 0.4705
+      },
+      {
+        "latin": "polipodii",
+        "score": 0.4691
+      },
+      {
+        "latin": "zucchari",
+        "score": 0.4668
+      },
+      {
+        "latin": "mirabolanorum",
+        "score": 0.4522
+      },
+      {
+        "latin": "diagridii",
+        "score": 0.4303
+      }
+    ],
+    "olkeeo": [
+      {
+        "latin": "leucopiperis",
+        "score": 0.4756
+      },
+      {
+        "latin": "gariofilorum",
+        "score": 0.4749
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.4733
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4687
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.4665
+      }
+    ],
+    "pche": [
+      {
+        "latin": "zucchari",
+        "score": 0.4352
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.4241
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.42
+      },
+      {
+        "latin": "agarici",
+        "score": 0.4192
+      },
+      {
+        "latin": "draganti",
+        "score": 0.4107
+      }
+    ],
+    "chp": [
+      {
+        "latin": "meilis",
+        "score": 0.5168
+      },
+      {
+        "latin": "folii",
+        "score": 0.49
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.4875
+      },
+      {
+        "latin": "piperis",
+        "score": 0.4745
+      },
+      {
+        "latin": "mirre",
+        "score": 0.4739
+      }
+    ],
+    "olkee": [
+      {
+        "latin": "specierum",
+        "score": 0.4705
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.4467
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.4447
+      },
+      {
+        "latin": "camphore",
+        "score": 0.4446
+      },
+      {
+        "latin": "ossis",
+        "score": 0.444
+      }
+    ],
+    "sheeky": [
+      {
+        "latin": "levistici",
+        "score": 0.3617
+      },
+      {
+        "latin": "petroselini",
+        "score": 0.3514
+      },
+      {
+        "latin": "melanopiperis",
+        "score": 0.3432
+      },
+      {
+        "latin": "gariofilorum",
+        "score": 0.34
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.3395
+      }
+    ],
+    "okar": [
+      {
+        "latin": "meilis",
+        "score": 0.4691
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.4599
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.4537
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4536
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.4486
+      }
+    ],
+    "alo": [
+      {
+        "latin": "meilis",
+        "score": 0.4074
+      },
+      {
+        "latin": "mane",
+        "score": 0.39
+      },
+      {
+        "latin": "amomi",
+        "score": 0.3772
+      },
+      {
+        "latin": "piperis",
+        "score": 0.3735
+      },
+      {
+        "latin": "maratri",
+        "score": 0.3688
+      }
+    ],
+    "lche": [
+      {
+        "latin": "leucopiperis",
+        "score": 0.433
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.4279
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4238
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.4162
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4099
+      }
+    ],
+    "lked": [
+      {
+        "latin": "gentiane",
+        "score": 0.4219
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.389
+      },
+      {
+        "latin": "melle",
+        "score": 0.3757
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.3697
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.3658
+      }
+    ],
+    "qotched": [
+      {
+        "latin": "xilobalsami",
+        "score": 0.3246
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.3204
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.3179
+      },
+      {
+        "latin": "melanopiperis",
+        "score": 0.3105
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.3042
+      }
+    ],
+    "rod": [
+      {
+        "latin": "melle",
+        "score": 0.47
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.442
+      },
+      {
+        "latin": "zucchari",
+        "score": 0.4253
+      },
+      {
+        "latin": "eboris",
+        "score": 0.4203
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.4161
+      }
+    ],
+    "soiin": [
+      {
+        "latin": "reupontici",
+        "score": 0.4761
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4634
+      },
+      {
+        "latin": "liquiricie",
+        "score": 0.4632
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.4608
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.456
+      }
+    ],
+    "teo": [
+      {
+        "latin": "meilis",
+        "score": 0.5055
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.5025
+      },
+      {
+        "latin": "mirre",
+        "score": 0.5023
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4853
+      },
+      {
+        "latin": "amomi",
+        "score": 0.476
+      }
+    ],
+    "shckh": [
+      {
+        "latin": "reubarbari",
+        "score": 0.4511
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4472
+      },
+      {
+        "latin": "dragaganti",
+        "score": 0.4175
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4144
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4094
+      }
+    ],
+    "y": [
+      {
+        "latin": "mei",
+        "score": 0.4523
+      },
+      {
+        "latin": "vino",
+        "score": 0.3916
+      },
+      {
+        "latin": "aloes",
+        "score": 0.382
+      },
+      {
+        "latin": "aqua",
+        "score": 0.3682
+      },
+      {
+        "latin": "melle",
+        "score": 0.3649
+      }
+    ],
+    "e": [
+      {
+        "latin": "mei",
+        "score": 0.4692
+      },
+      {
+        "latin": "cinamomi",
+        "score": 0.3893
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.3829
+      },
+      {
+        "latin": "casie",
+        "score": 0.3818
+      },
+      {
+        "latin": "gariofilorum",
+        "score": 0.381
+      }
+    ],
+    "qoksh": [
+      {
+        "latin": "reubarbari",
+        "score": 0.4994
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4762
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.4659
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.4568
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.4541
+      }
+    ],
+    "osh": [
+      {
+        "latin": "meilis",
+        "score": 0.4934
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.4768
+      },
+      {
+        "latin": "mirre",
+        "score": 0.4763
+      },
+      {
+        "latin": "amomi",
+        "score": 0.4735
+      },
+      {
+        "latin": "piperis",
+        "score": 0.4721
+      }
+    ],
+    "okeo": [
+      {
+        "latin": "euforbii",
+        "score": 0.4385
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4334
+      },
+      {
+        "latin": "calamite",
+        "score": 0.4189
+      },
+      {
+        "latin": "eboris",
+        "score": 0.4162
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4161
+      }
+    ],
+    "yke": [
+      {
+        "latin": "croci",
+        "score": 0.4469
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4457
+      },
+      {
+        "latin": "calami",
+        "score": 0.4392
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.4356
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4338
+      }
+    ],
+    "cheek": [
+      {
+        "latin": "cardamomi",
+        "score": 0.4643
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4604
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.4577
+      },
+      {
+        "latin": "mandragore",
+        "score": 0.4471
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.4421
+      }
+    ],
+    "keo": [
+      {
+        "latin": "croci",
+        "score": 0.4808
+      },
+      {
+        "latin": "piperis",
+        "score": 0.472
+      },
+      {
+        "latin": "anisi",
+        "score": 0.464
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4634
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4607
+      }
+    ],
+    "sor": [
+      {
+        "latin": "meilis",
+        "score": 0.4855
+      },
+      {
+        "latin": "calami",
+        "score": 0.4692
+      },
+      {
+        "latin": "melle",
+        "score": 0.4609
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4597
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4581
+      }
+    ],
+    "cheeky": [
+      {
+        "latin": "aristologie",
+        "score": 0.4727
+      },
+      {
+        "latin": "gariofilorum",
+        "score": 0.4674
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4663
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.4515
+      },
+      {
+        "latin": "mandragore",
+        "score": 0.4504
+      }
+    ],
+    "pchod": [
+      {
+        "latin": "petroselini",
+        "score": 0.4764
+      },
+      {
+        "latin": "iusquiami",
+        "score": 0.4729
+      },
+      {
+        "latin": "polipodii",
+        "score": 0.4668
+      },
+      {
+        "latin": "agarici",
+        "score": 0.4653
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.4639
+      }
+    ],
+    "ykch": [
+      {
+        "latin": "levistici",
+        "score": 0.5037
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4693
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4626
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4502
+      },
+      {
+        "latin": "cinamomi",
+        "score": 0.4468
+      }
+    ],
+    "qokchd": [
+      {
+        "latin": "camphore",
+        "score": 0.4125
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.4092
+      },
+      {
+        "latin": "coloquintide",
+        "score": 0.4018
+      },
+      {
+        "latin": "mirabolanorum",
+        "score": 0.3945
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.3896
+      }
+    ],
+    "por": [
+      {
+        "latin": "portulace",
+        "score": 0.4401
+      },
+      {
+        "latin": "prunorum",
+        "score": 0.4358
+      },
+      {
+        "latin": "zucchari",
+        "score": 0.4213
+      },
+      {
+        "latin": "spodii",
+        "score": 0.4176
+      },
+      {
+        "latin": "papaveris",
+        "score": 0.4063
+      }
+    ],
+    "chee": [
+      {
+        "latin": "cinamomi",
+        "score": 0.4707
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4634
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4629
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.4619
+      },
+      {
+        "latin": "rosarum",
+        "score": 0.4534
+      }
+    ],
+    "chcphy": [
+      {
+        "latin": "coloquintide",
+        "score": 0.4907
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4778
+      },
+      {
+        "latin": "petroselini",
+        "score": 0.4762
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4711
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.4651
+      }
+    ],
+    "checth": [
+      {
+        "latin": "dragaganti",
+        "score": 0.4795
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.4795
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4655
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.4628
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.4587
+      }
+    ],
+    "ls": [
+      {
+        "latin": "mane",
+        "score": 0.4529
+      },
+      {
+        "latin": "melle",
+        "score": 0.4439
+      },
+      {
+        "latin": "dauci",
+        "score": 0.4411
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4406
+      },
+      {
+        "latin": "amomi",
+        "score": 0.4351
+      }
+    ],
+    "qoteed": [
+      {
+        "latin": "terbentine",
+        "score": 0.5188
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.5088
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.5015
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.5011
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4989
+      }
+    ],
+    "chep": [
+      {
+        "latin": "euforbii",
+        "score": 0.5105
+      },
+      {
+        "latin": "agarici",
+        "score": 0.5059
+      },
+      {
+        "latin": "piperis",
+        "score": 0.4958
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.4955
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.4932
+      }
+    ],
+    "ockh": [
+      {
+        "latin": "rosarum",
+        "score": 0.4624
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.461
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4542
+      },
+      {
+        "latin": "storacis",
+        "score": 0.4534
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4503
+      }
+    ],
+    "okal": [
+      {
+        "latin": "levistici",
+        "score": 0.4843
+      },
+      {
+        "latin": "lapidis",
+        "score": 0.4433
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4406
+      },
+      {
+        "latin": "cardamomi",
+        "score": 0.4397
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.4386
+      }
+    ],
+    "lcho": [
+      {
+        "latin": "specierum",
+        "score": 0.4905
+      },
+      {
+        "latin": "zucchari",
+        "score": 0.4789
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.4686
+      },
+      {
+        "latin": "epatis",
+        "score": 0.467
+      },
+      {
+        "latin": "melle",
+        "score": 0.4645
+      }
+    ],
+    "as": [
+      {
+        "latin": "amomi",
+        "score": 0.461
+      },
+      {
+        "latin": "aqua",
+        "score": 0.453
+      },
+      {
+        "latin": "apii",
+        "score": 0.4524
+      },
+      {
+        "latin": "casie",
+        "score": 0.4434
+      },
+      {
+        "latin": "ossis",
+        "score": 0.4414
+      }
+    ],
+    "kech": [
+      {
+        "latin": "zedoarie",
+        "score": 0.5222
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4997
+      },
+      {
+        "latin": "draganti",
+        "score": 0.4925
+      },
+      {
+        "latin": "balsami",
+        "score": 0.488
+      },
+      {
+        "latin": "camphore",
+        "score": 0.487
+      }
+    ],
+    "a": [
+      {
+        "latin": "musci",
+        "score": 0.4285
+      },
+      {
+        "latin": "ende",
+        "score": 0.4281
+      },
+      {
+        "latin": "draganti",
+        "score": 0.4269
+      },
+      {
+        "latin": "coralli",
+        "score": 0.4206
+      },
+      {
+        "latin": "carpobalsami",
+        "score": 0.4188
+      }
+    ],
+    "oteod": [
+      {
+        "latin": "zinziberis",
+        "score": 0.463
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.4536
+      },
+      {
+        "latin": "euforbii",
+        "score": 0.4421
+      },
+      {
+        "latin": "petroselini",
+        "score": 0.4323
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.4284
+      }
+    ],
+    "lkeo": [
+      {
+        "latin": "zucchari",
+        "score": 0.4906
+      },
+      {
+        "latin": "camphore",
+        "score": 0.4663
+      },
+      {
+        "latin": "absinthii",
+        "score": 0.4552
+      },
+      {
+        "latin": "polipodii",
+        "score": 0.4548
+      },
+      {
+        "latin": "piretri",
+        "score": 0.4462
+      }
+    ],
+    "ak": [
+      {
+        "latin": "ende",
+        "score": 0.4508
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4436
+      },
+      {
+        "latin": "mane",
+        "score": 0.4423
+      },
+      {
+        "latin": "aqua",
+        "score": 0.4236
+      },
+      {
+        "latin": "aque",
+        "score": 0.4148
+      }
+    ],
+    "sheok": [
+      {
+        "latin": "reupontici",
+        "score": 0.4762
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4718
+      },
+      {
+        "latin": "anacardi",
+        "score": 0.4671
+      },
+      {
+        "latin": "masticis",
+        "score": 0.4652
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.464
+      }
+    ],
+    "pcheod": [
+      {
+        "latin": "dragaganti",
+        "score": 0.409
+      },
+      {
+        "latin": "liquiricie",
+        "score": 0.4073
+      },
+      {
+        "latin": "aristologie",
+        "score": 0.3903
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.3873
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.3808
+      }
+    ],
+    "alch": [
+      {
+        "latin": "cardamomi",
+        "score": 0.5121
+      },
+      {
+        "latin": "piperis",
+        "score": 0.4975
+      },
+      {
+        "latin": "meilis",
+        "score": 0.49
+      },
+      {
+        "latin": "cinamomi",
+        "score": 0.4893
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.4801
+      }
+    ],
+    "sheeod": [
+      {
+        "latin": "leucopiperis",
+        "score": 0.4788
+      },
+      {
+        "latin": "dragaganti",
+        "score": 0.4753
+      },
+      {
+        "latin": "reupontici",
+        "score": 0.4711
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4707
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4698
+      }
+    ],
+    "oiiin": [
+      {
+        "latin": "sanguinis",
+        "score": 0.4643
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4495
+      },
+      {
+        "latin": "zuchari",
+        "score": 0.4314
+      },
+      {
+        "latin": "liquiricie",
+        "score": 0.4217
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.4203
+      }
+    ],
+    "dalk": [
+      {
+        "latin": "zucchari",
+        "score": 0.3924
+      },
+      {
+        "latin": "portulace",
+        "score": 0.3916
+      },
+      {
+        "latin": "camphore",
+        "score": 0.3834
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.3682
+      },
+      {
+        "latin": "herbe",
+        "score": 0.3655
+      }
+    ],
+    "yteeo": [
+      {
+        "latin": "feniculi",
+        "score": 0.5069
+      },
+      {
+        "latin": "mandragore",
+        "score": 0.4741
+      },
+      {
+        "latin": "dragaganti",
+        "score": 0.4708
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4638
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.4637
+      }
+    ],
+    "teeo": [
+      {
+        "latin": "absinthii",
+        "score": 0.3521
+      },
+      {
+        "latin": "polipodii",
+        "score": 0.3365
+      },
+      {
+        "latin": "pulegii",
+        "score": 0.3336
+      },
+      {
+        "latin": "diagridii",
+        "score": 0.3314
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.3288
+      }
+    ],
+    "air": [
+      {
+        "latin": "eboris",
+        "score": 0.488
+      },
+      {
+        "latin": "calami",
+        "score": 0.4732
+      },
+      {
+        "latin": "ciperi",
+        "score": 0.4691
+      },
+      {
+        "latin": "galange",
+        "score": 0.4685
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4577
+      }
+    ],
+    "char": [
+      {
+        "latin": "specierum",
+        "score": 0.3901
+      },
+      {
+        "latin": "zucchari",
+        "score": 0.3501
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.3031
+      },
+      {
+        "latin": "sandali",
+        "score": 0.2983
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.2923
+      }
+    ],
+    "oin": [
+      {
+        "latin": "lapidis",
+        "score": 0.5065
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.4759
+      },
+      {
+        "latin": "galbani",
+        "score": 0.4672
+      },
+      {
+        "latin": "herbe",
+        "score": 0.4552
+      },
+      {
+        "latin": "meilis",
+        "score": 0.4534
+      }
+    ],
+    "olkch": [
+      {
+        "latin": "gentiane",
+        "score": 0.4598
+      },
+      {
+        "latin": "polipodii",
+        "score": 0.4535
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.4508
+      },
+      {
+        "latin": "sanguinis",
+        "score": 0.441
+      },
+      {
+        "latin": "levistici",
+        "score": 0.4401
+      }
+    ],
+    "lched": [
+      {
+        "latin": "aristologie",
+        "score": 0.3956
+      },
+      {
+        "latin": "reubarbari",
+        "score": 0.3875
+      },
+      {
+        "latin": "zinziberis",
+        "score": 0.3807
+      },
+      {
+        "latin": "piretri",
+        "score": 0.3763
+      },
+      {
+        "latin": "petroselini",
+        "score": 0.3708
+      }
+    ],
+    "lkeed": [
+      {
+        "latin": "levistici",
+        "score": 0.3809
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.3694
+      },
+      {
+        "latin": "zedoarie",
+        "score": 0.3686
+      },
+      {
+        "latin": "terbentine",
+        "score": 0.3676
+      },
+      {
+        "latin": "xilobalsami",
+        "score": 0.3644
+      }
+    ],
+    "teed": [
+      {
+        "latin": "levistici",
+        "score": 0.5036
+      },
+      {
+        "latin": "leucopiperis",
+        "score": 0.4938
+      },
+      {
+        "latin": "feniculi",
+        "score": 0.4882
+      },
+      {
+        "latin": "gentiane",
+        "score": 0.4847
+      },
+      {
+        "latin": "pulegii",
+        "score": 0.4824
+      }
+    ]
+  }
+}

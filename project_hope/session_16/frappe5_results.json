@@ -1,0 +1,227 @@
+{
+  "n_good_recipes": 52,
+  "top_unknowns": [
+    {
+      "root": "ch",
+      "count": 96,
+      "n_recipes": 37
+    },
+    {
+      "root": "ot",
+      "count": 43,
+      "n_recipes": 24
+    },
+    {
+      "root": "sh",
+      "count": 33,
+      "n_recipes": 21
+    },
+    {
+      "root": "aiin",
+      "count": 24,
+      "n_recipes": 17
+    },
+    {
+      "root": "qot",
+      "count": 24,
+      "n_recipes": 17
+    },
+    {
+      "root": "qok",
+      "count": 23,
+      "n_recipes": 17
+    },
+    {
+      "root": "d",
+      "count": 16,
+      "n_recipes": 13
+    },
+    {
+      "root": "lch",
+      "count": 14,
+      "n_recipes": 10
+    },
+    {
+      "root": "ok",
+      "count": 11,
+      "n_recipes": 10
+    },
+    {
+      "root": "cheo",
+      "count": 10,
+      "n_recipes": 10
+    },
+    {
+      "root": "qokch",
+      "count": 9,
+      "n_recipes": 8
+    },
+    {
+      "root": "che",
+      "count": 8,
+      "n_recipes": 7
+    },
+    {
+      "root": "ched",
+      "count": 7,
+      "n_recipes": 5
+    },
+    {
+      "root": "qo",
+      "count": 7,
+      "n_recipes": 7
+    },
+    {
+      "root": "chckh",
+      "count": 6,
+      "n_recipes": 6
+    },
+    {
+      "root": "ain",
+      "count": 6,
+      "n_recipes": 6
+    },
+    {
+      "root": "cho",
+      "count": 5,
+      "n_recipes": 5
+    },
+    {
+      "root": "dch",
+      "count": 5,
+      "n_recipes": 5
+    },
+    {
+      "root": "ar",
+      "count": 5,
+      "n_recipes": 4
+    },
+    {
+      "root": "s",
+      "count": 5,
+      "n_recipes": 5
+    }
+  ],
+  "vehicle_candidates": [
+    {
+      "root": "ch",
+      "n_rec": 37,
+      "rec_pct": 71,
+      "total_occ": 96,
+      "before_dose_pct": 26,
+      "after_dose_pct": 25,
+      "after_ingr_pct": 39,
+      "at_end_pct": 19,
+      "score": 122,
+      "hypothesis": "vinum? (follows dose = measured)"
+    },
+    {
+      "root": "ot",
+      "n_rec": 24,
+      "rec_pct": 46,
+      "total_occ": 43,
+      "before_dose_pct": 18,
+      "after_dose_pct": 13,
+      "after_ingr_pct": 53,
+      "at_end_pct": 11,
+      "score": 77,
+      "hypothesis": "succus? (before ingredient = juice OF)"
+    },
+    {
+      "root": "sh",
+      "n_rec": 21,
+      "rec_pct": 40,
+      "total_occ": 33,
+      "before_dose_pct": 51,
+      "after_dose_pct": 12,
+      "after_ingr_pct": 45,
+      "at_end_pct": 6,
+      "score": 103,
+      "hypothesis": "vinum? (follows dose = measured)"
+    },
+    {
+      "root": "aiin",
+      "n_rec": 17,
+      "rec_pct": 32,
+      "total_occ": 24,
+      "before_dose_pct": 8,
+      "after_dose_pct": 8,
+      "after_ingr_pct": 37,
+      "at_end_pct": 8,
+      "score": 48,
+      "hypothesis": "succus? (before ingredient = juice OF)"
+    },
+    {
+      "root": "qot",
+      "n_rec": 17,
+      "rec_pct": 32,
+      "total_occ": 24,
+      "before_dose_pct": 4,
+      "after_dose_pct": 25,
+      "after_ingr_pct": 33,
+      "at_end_pct": 12,
+      "score": 61,
+      "hypothesis": "succus? (before ingredient = juice OF)"
+    },
+    {
+      "root": "qok",
+      "n_rec": 17,
+      "rec_pct": 32,
+      "total_occ": 23,
+      "before_dose_pct": 21,
+      "after_dose_pct": 4,
+      "after_ingr_pct": 34,
+      "at_end_pct": 8,
+      "score": 57,
+      "hypothesis": "vinum? (follows dose = measured)"
+    },
+    {
+      "root": "d",
+      "n_rec": 13,
+      "rec_pct": 25,
+      "total_occ": 16,
+      "before_dose_pct": 18,
+      "after_dose_pct": 25,
+      "after_ingr_pct": 43,
+      "at_end_pct": 6,
+      "score": 68,
+      "hypothesis": "succus? (before ingredient = juice OF)"
+    },
+    {
+      "root": "lch",
+      "n_rec": 10,
+      "rec_pct": 19,
+      "total_occ": 14,
+      "before_dose_pct": 0,
+      "after_dose_pct": 35,
+      "after_ingr_pct": 35,
+      "at_end_pct": 21,
+      "score": 54,
+      "hypothesis": "succus? (before ingredient = juice OF)"
+    },
+    {
+      "root": "ok",
+      "n_rec": 10,
+      "rec_pct": 19,
+      "total_occ": 11,
+      "before_dose_pct": 27,
+      "after_dose_pct": 18,
+      "after_ingr_pct": 36,
+      "at_end_pct": 36,
+      "score": 64,
+      "hypothesis": "vinum? (follows dose = measured)"
+    },
+    {
+      "root": "cheo",
+      "n_rec": 10,
+      "rec_pct": 19,
+      "total_occ": 10,
+      "before_dose_pct": 40,
+      "after_dose_pct": 30,
+      "after_ingr_pct": 50,
+      "at_end_pct": 30,
+      "score": 89,
+      "hypothesis": "vinum? (follows dose = measured)"
+    }
+  ]
+}
